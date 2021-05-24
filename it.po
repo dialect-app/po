@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-27 08:53-0500\n"
-"PO-Revision-Date: 2021-05-24 01:15+0000\n"
+"PO-Revision-Date: 2021-05-24 12:55+0000\n"
 "Last-Translator: J. Lavoie <j.lavoie@net-c.ca>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/dialect/dialect/"
 "it/>\n"
@@ -124,7 +124,7 @@ msgstr "Traduzione dal vivo"
 #: data/resources/preferences.ui:40
 msgid "Warning: Your IP address may get banned for API abuse."
 msgstr ""
-"Attenzione: il tuo indirizzo IP potrebbe essere bandito per abuso di API"
+"Attenzione: il tuo indirizzo IP potrebbe essere bandito per abuso di API."
 
 #: data/resources/preferences.ui:54
 msgid "Translation Shortcut"
@@ -132,7 +132,7 @@ msgstr "Scorciatoia di Traduzione"
 
 #: data/resources/preferences.ui:55
 msgid "Unselected choice will be used for line break."
-msgstr "La scelta non selezionata verrà utilizzata per l'interruzione di linea"
+msgstr "La scelta non selezionata verrà utilizzata per l'interruzione di linea."
 
 #: data/resources/preferences.ui:61
 msgid "Default to Auto"
@@ -309,7 +309,7 @@ msgstr ""
 
 #: dialect/window.py:892
 msgid "Did you mean: "
-msgstr "Forse cercavi:"
+msgstr "Forse cercavi: "
 
 #~ msgid "gi-lom"
 #~ msgstr "gi-lom"
