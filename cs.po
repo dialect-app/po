@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-27 08:53-0500\n"
-"PO-Revision-Date: 2021-05-23 15:30+0000\n"
-"Last-Translator: Mufeed Ali <fushinari@protonmail.com>\n"
+"PO-Revision-Date: 2021-05-24 12:55+0000\n"
+"Last-Translator: Vojtěch Perník <pervoj@gmx.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/dialect/dialect/cs/"
 ">\n"
 "Language: cs\n"
@@ -38,7 +38,7 @@ msgstr "přeložit;překlad;"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:9 data/resources/about.ui:12
 msgid "A translation app for GNOME."
-msgstr "Překladač pro GNOME"
+msgstr "Překladač pro GNOME."
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:12
 msgid "Features:"
@@ -131,7 +131,7 @@ msgstr "Zkratka překladu"
 
 #: data/resources/preferences.ui:55
 msgid "Unselected choice will be used for line break."
-msgstr "Nevybraná volba bude použita pro zalomení řádku"
+msgstr "Nevybraná volba bude použita pro zalomení řádku."
 
 #: data/resources/preferences.ui:61
 msgid "Default to Auto"
@@ -175,7 +175,7 @@ msgstr "Převod textu na řeč"
 
 #: data/resources/preferences.ui:176
 msgid "Use Google for Text to Speech functionality."
-msgstr "Použít Google pro funkci Převodu textu na řeč"
+msgstr "Použít Google pro funkci převodu textu na řeč."
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
