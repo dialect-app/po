@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-27 08:53-0500\n"
-"PO-Revision-Date: 2021-05-23 15:30+0000\n"
-"Last-Translator: Mufeed Ali <fushinari@protonmail.com>\n"
+"PO-Revision-Date: 2021-05-24 12:55+0000\n"
+"Last-Translator: Bedirhan Tuhana GAYRETLİ <noteqnil@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/dialect/dialect/"
 "tr/>\n"
 "Language: tr\n"
@@ -85,9 +85,10 @@ msgstr "Github sayfası"
 
 #. Replace me with your names.
 #: data/resources/about.ui:19
+#, fuzzy
 msgid "translator-credits"
 msgstr ""
-"Bedirhan Tuhana\n"
+"Bedirhan Tuhana GAYRETLİ <noteqnil@gmail.com>\n"
 "Oğuz Ersen"
 
 #: data/resources/menu.ui:7
