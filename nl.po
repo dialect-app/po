@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-27 08:53-0500\n"
-"PO-Revision-Date: 2021-05-23 15:30+0000\n"
-"Last-Translator: Mufeed Ali <fushinari@protonmail.com>\n"
+"PO-Revision-Date: 2021-05-24 12:55+0000\n"
+"Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/dialect/dialect/nl/"
 ">\n"
 "Language: nl\n"
@@ -53,8 +53,8 @@ msgid ""
 "Translation based on the LibreTranslate API, allowing you use any instance "
 "available online"
 msgstr ""
-"Vertaling op basis van de LibreTranslate-api, welke je elke beschikbare "
-"online-dienst laat gebruiken"
+"Vertaling op basis van de LibreTranslate-api, waardoor je elke beschikbare "
+"online-dienst kunt gebruiken"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:18
 msgid "Text to speech"
@@ -87,7 +87,7 @@ msgstr "GitHub-pagina"
 #. Replace me with your names.
 #: data/resources/about.ui:19
 msgid "translator-credits"
-msgstr "Heimen Stoffels"
+msgstr "Heimen Stoffels <vistausss@fastmail.com>"
 
 #: data/resources/menu.ui:7
 msgid "Show Pronunciation"
@@ -123,8 +123,7 @@ msgstr "Live-vertaling"
 
 #: data/resources/preferences.ui:40
 msgid "Warning: Your IP address may get banned for API abuse."
-msgstr ""
-"Waarschuwing: vanwege api-misbruik kan je ip-adres kan geblokkeerd worden."
+msgstr "Waarschuwing: vanwege api-misbruik kan je ip-adres geblokkeerd worden."
 
 #: data/resources/preferences.ui:54
 msgid "Translation Shortcut"
@@ -148,7 +147,7 @@ msgstr "Vertaler"
 
 #: data/resources/preferences.ui:77
 msgid "Choose from the available translation services."
-msgstr "Kies één van de beschikbare taaldiensten."
+msgstr "Kies één van de beschikbare vertaaldiensten."
 
 #: data/resources/preferences.ui:83
 msgid "Translator Instance"
@@ -216,7 +215,7 @@ msgstr "Afsluiten"
 
 #: data/resources/window.ui:42
 msgid "Loading..."
-msgstr "Bezig met laden..."
+msgstr "Bezig met laden…"
 
 #: data/resources/window.ui:83
 msgid "Failed loading translator backend"
@@ -260,11 +259,11 @@ msgstr "Vertalen"
 
 #: data/resources/window.ui:603
 msgid "Translation in progress..."
-msgstr "Bezig met vertalen..."
+msgstr "Bezig met vertalen…"
 
 #: data/resources/window.ui:611
 msgid "Translation seems to have failed"
-msgstr "De vertaling is mislukt"
+msgstr "Er is een fout opgetreden tijdens het vertalen"
 
 #: data/resources/window.ui:637
 msgid "Copy"
@@ -277,7 +276,7 @@ msgstr "Je bent niet verbonden met het internet."
 #: dialect/preferences.py:250
 #, python-brace-format
 msgid "Not a valid {backend} instance"
-msgstr "Geen geldig {backend}-proces"
+msgstr "Verkeerd {backend}-proces"
 
 #: dialect/window.py:229
 msgid "A network issue has occured. Retry?"
