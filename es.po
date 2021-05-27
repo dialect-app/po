@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-27 08:53-0500\n"
-"PO-Revision-Date: 2021-05-23 15:30+0000\n"
-"Last-Translator: Mufeed Ali <fushinari@protonmail.com>\n"
+"PO-Revision-Date: 2021-05-27 01:34+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/dialect/dialect/"
 "es/>\n"
 "Language: es\n"
@@ -79,7 +79,7 @@ msgstr "Los Autores de Dialect"
 
 #: data/resources/about.ui:11
 msgid "Copyright 2020-2021 The Dialect Authors"
-msgstr "Copyright 2020-2021 Los Autores de Dialect"
+msgstr "Derechos de autor © 2020-2021 de los autores de Dialect"
 
 #: data/resources/about.ui:14
 msgid "Github page"
@@ -112,7 +112,7 @@ msgstr "Apariencia"
 
 #: data/resources/preferences.ui:19
 msgid "Dark Mode"
-msgstr "Modo Oscuro"
+msgstr "Modo oscuro"
 
 #: data/resources/preferences.ui:35
 msgid "Behavior"
@@ -120,27 +120,27 @@ msgstr "Comportamiento"
 
 #: data/resources/preferences.ui:39
 msgid "Live Translation"
-msgstr "Traducción en Vivo"
+msgstr "Traducción en tiempo real"
 
 #: data/resources/preferences.ui:40
 msgid "Warning: Your IP address may get banned for API abuse."
-msgstr "Advertencia: su IP podría ser bloqueada por abuso de API."
+msgstr "Atención: su IP podría ser bloqueada por abuso de API."
 
 #: data/resources/preferences.ui:54
 msgid "Translation Shortcut"
-msgstr "Atajo de Traducción"
+msgstr "Atajo de traducción"
 
 #: data/resources/preferences.ui:55
 msgid "Unselected choice will be used for line break."
-msgstr "La opción no seleccionada se utilizará para nueva línea."
+msgstr "La opción no seleccionada se utilizará para el salto de renglón."
 
 #: data/resources/preferences.ui:61
 msgid "Default to Auto"
-msgstr "Automático Predeterminado"
+msgstr "Automático predeterminado"
 
 #: data/resources/preferences.ui:62
 msgid "Use \"Auto\" as the default language on every launch"
-msgstr "Utilice \"Automático\" como idioma predeterminado en cada lanzamiento"
+msgstr "Utilice «Automático» como idioma predeterminado en cada inicio"
 
 #: data/resources/preferences.ui:76
 msgid "Translator"
@@ -148,15 +148,15 @@ msgstr "Traductor"
 
 #: data/resources/preferences.ui:77
 msgid "Choose from the available translation services."
-msgstr "Elige entre los servicios de traducción disponibles."
+msgstr "Elija entre los servicios de traducción disponibles."
 
 #: data/resources/preferences.ui:83
 msgid "Translator Instance"
-msgstr "Instancia de traductor"
+msgstr "Instalación de traductor"
 
 #: data/resources/preferences.ui:84
 msgid "Specify URL of translation service."
-msgstr "Establece una URL del servicio de traducción."
+msgstr "Especifique el URL del servicio de traducción."
 
 #: data/resources/preferences.ui:109
 msgid "Edit"
@@ -164,7 +164,7 @@ msgstr "Editar"
 
 #: data/resources/preferences.ui:143
 msgid "Reset to default"
-msgstr "Restablecer al valor por defecto"
+msgstr "Restablecer valor predeterminado"
 
 #: data/resources/preferences.ui:158
 msgid "Save"
@@ -172,7 +172,7 @@ msgstr "Guardar"
 
 #: data/resources/preferences.ui:175
 msgid "Text to Speech"
-msgstr "Texto a Voz"
+msgstr "Texto a voz"
 
 #: data/resources/preferences.ui:176
 msgid "Use Google for Text to Speech functionality."
@@ -180,7 +180,7 @@ msgstr "Utilice Google para la funcionalidad Texto a Voz."
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
-msgstr "Proveedor de Búsqueda"
+msgstr "Proveedor de búsquedas"
 
 #: data/resources/preferences.ui:193
 msgid ""
@@ -189,10 +189,10 @@ msgid ""
 "reduce the possibility of API abuse. Also make sure that the feature is "
 "enabled in GNOME Settings."
 msgstr ""
-"Dialect tiene un proveedor de búsqueda para GNOME. Habilitar o deshabilitar "
-"la Traducción en Vivo aquí también habilitará o deshabilitará el proveedor "
-"de búsqueda. Esto es para reducir la posibilidad de abuso de API. También "
-"asegúrese de que la función esté habilitada en la configuración de GNOME."
+"Dialect tiene un proveedor de búsquedas para GNOME. Activar o desactivar la "
+"traducción en tiempo real aquí también activará o desactivará el proveedor "
+"de búsquedas, esto para reducir la posibilidad de abuso de API. Cerciórese "
+"también de que la función esté activada en la configuración de GNOME."
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
@@ -216,7 +216,7 @@ msgstr "Salir"
 
 #: data/resources/window.ui:42
 msgid "Loading..."
-msgstr "Cargando..."
+msgstr "Cargando…"
 
 #: data/resources/window.ui:83
 msgid "Failed loading translator backend"
@@ -260,7 +260,7 @@ msgstr "Traducir"
 
 #: data/resources/window.ui:603
 msgid "Translation in progress..."
-msgstr "Traducción en progreso..."
+msgstr "Traducción en curso…"
 
 #: data/resources/window.ui:611
 msgid "Translation seems to have failed"
@@ -272,12 +272,12 @@ msgstr "Copiar"
 
 #: data/resources/window.ui:817
 msgid "No network connection detected."
-msgstr "No se detectó conexión de red."
+msgstr "No se detectó ninguna conexión de red."
 
 #: dialect/preferences.py:250
 #, python-brace-format
 msgid "Not a valid {backend} instance"
-msgstr "No es una instancia valida de {backend}"
+msgstr "No es una instalación válida de {backend}"
 
 #: dialect/window.py:229
 msgid "A network issue has occured. Retry?"
@@ -297,7 +297,7 @@ msgstr "Automático"
 
 #: dialect/window.py:784
 msgid "5000 characters limit reached!"
-msgstr "¡Límite de 5000 caracteres alcanzado!"
+msgstr "Se alcanzó el límite de 5000 caracteres."
 
 #: dialect/window.py:876
 msgid ""
@@ -309,7 +309,7 @@ msgstr ""
 
 #: dialect/window.py:892
 msgid "Did you mean: "
-msgstr "Quizás quisiste decir: "
+msgstr "Tal vez quiso decir: "
 
 #~ msgid "gi-lom"
 #~ msgstr "gi-lom"

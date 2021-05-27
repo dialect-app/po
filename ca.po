@@ -8,173 +8,178 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-27 08:53-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-05-27 01:34+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
+"Language-Team: Catalan <https://hosted.weblate.org/projects/dialect/dialect/"
+"ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.7-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/window.ui:66
 #: dialect/main.py:53 dialect/main.py:88
 msgid "Dialect"
-msgstr ""
+msgstr "Dialect"
 
 #: data/com.github.gi_lom.dialect.desktop.in:9
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:7
 msgid "Translate between languages"
-msgstr ""
+msgstr "Traduïu entre diverses llengües"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/com.github.gi_lom.dialect.desktop.in:13
 msgid "translate;translation;"
-msgstr ""
+msgstr "tradueix;traducció;"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:9 data/resources/about.ui:12
 msgid "A translation app for GNOME."
-msgstr ""
+msgstr "Una aplicació de traducció per al GNOME."
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:12
 msgid "Features:"
-msgstr ""
+msgstr "Funcionalitats:"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:16
 msgid "Translation based on an unofficial API for Google Translate"
-msgstr ""
+msgstr "Traducció basada en una API no oficial del Google Translate"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:17
 msgid ""
 "Translation based on the LibreTranslate API, allowing you use any instance "
 "available online"
 msgstr ""
+"Traducció basada en l’API del LibreTranslate, que us permet utilitzar "
+"qualsevol instal·lació disponible a la xarxa"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:18
 msgid "Text to speech"
-msgstr ""
+msgstr "Text a veu"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:19
 msgid "Translation history"
-msgstr ""
+msgstr "Historial de traduccions"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:20
 msgid "Automatic language detection"
-msgstr ""
+msgstr "Detecció automàtica de la llengua"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:21
 msgid "Clipboard buttons"
-msgstr ""
+msgstr "Botons del porta-retalls"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:26
 msgid "The Dialect Authors"
-msgstr ""
+msgstr "Els autors del Dialect"
 
 #: data/resources/about.ui:11
 msgid "Copyright 2020-2021 The Dialect Authors"
-msgstr ""
+msgstr "Drets d’autor © 2020-2021 dels autors del Dialect"
 
 #: data/resources/about.ui:14
 msgid "Github page"
-msgstr ""
+msgstr "Pàgina al GitHub"
 
 #. Replace me with your names.
 #: data/resources/about.ui:19
 msgid "translator-credits"
-msgstr ""
+msgstr "Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2021"
 
 #: data/resources/menu.ui:7
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "Mostra la pronúncia"
 
 #: data/resources/menu.ui:14
 msgid "Preferences"
-msgstr ""
+msgstr "Preferències"
 
 #: data/resources/menu.ui:18
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Dreceres de teclat"
 
 #: data/resources/menu.ui:22
 msgid "About Dialect"
-msgstr ""
+msgstr "Quant al Dialect"
 
 #: data/resources/preferences.ui:15
 msgid "Appearance"
-msgstr ""
+msgstr "Aspecte"
 
 #: data/resources/preferences.ui:19
 msgid "Dark Mode"
-msgstr ""
+msgstr "Mode fosc"
 
 #: data/resources/preferences.ui:35
 msgid "Behavior"
-msgstr ""
+msgstr "Comportament"
 
 #: data/resources/preferences.ui:39
 msgid "Live Translation"
-msgstr ""
+msgstr "Traducció en temps real"
 
 #: data/resources/preferences.ui:40
 msgid "Warning: Your IP address may get banned for API abuse."
-msgstr ""
+msgstr "Avís: potser que us bloquin l’adreça IP per abusar de l’API."
 
 #: data/resources/preferences.ui:54
 msgid "Translation Shortcut"
-msgstr ""
+msgstr "Drecera de traducció"
 
 #: data/resources/preferences.ui:55
 msgid "Unselected choice will be used for line break."
-msgstr ""
+msgstr "L’opció no seleccionada s’utilitzarà per al salt de línia."
 
 #: data/resources/preferences.ui:61
 msgid "Default to Auto"
-msgstr ""
+msgstr "Automàtic per defecte"
 
 #: data/resources/preferences.ui:62
 msgid "Use \"Auto\" as the default language on every launch"
-msgstr ""
+msgstr "Utilitza «Automàtic» com a llengua per defecte durant tot inici"
 
 #: data/resources/preferences.ui:76
 msgid "Translator"
-msgstr ""
+msgstr "Traductor"
 
 #: data/resources/preferences.ui:77
 msgid "Choose from the available translation services."
-msgstr ""
+msgstr "Trieu un dels serveis de traducció disponibles."
 
 #: data/resources/preferences.ui:83
 msgid "Translator Instance"
-msgstr ""
+msgstr "Instal·lació del traductor"
 
 #: data/resources/preferences.ui:84
 msgid "Specify URL of translation service."
-msgstr ""
+msgstr "Especifiqueu l’URL del servei de traducció."
 
 #: data/resources/preferences.ui:109
 msgid "Edit"
-msgstr ""
+msgstr "Edita"
 
 #: data/resources/preferences.ui:143
 msgid "Reset to default"
-msgstr ""
+msgstr "Reinicialitza als valors per defecte"
 
 #: data/resources/preferences.ui:158
 msgid "Save"
-msgstr ""
+msgstr "Desa"
 
 #: data/resources/preferences.ui:175
 msgid "Text to Speech"
-msgstr ""
+msgstr "Text a veu"
 
 #: data/resources/preferences.ui:176
 msgid "Use Google for Text to Speech functionality."
-msgstr ""
+msgstr "Utilitza Google per a la funcionalitat de conversió de text a veu."
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
-msgstr ""
+msgstr "Proveïdor de cerques"
 
 #: data/resources/preferences.ui:193
 msgid ""
@@ -183,116 +188,124 @@ msgid ""
 "reduce the possibility of API abuse. Also make sure that the feature is "
 "enabled in GNOME Settings."
 msgstr ""
+"El Dialect té un proveïdor de cerques per al GNOME. Si activeu o desactiveu "
+"la traducció en temps real aquí, també s’activarà o desactivarà el "
+"proveïdor. Això té la finalitat d’evitar abusos de l’API. Reviseu també que "
+"aquesta funció estigui activada als paràmetres del GNOME."
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #: data/resources/shortcuts-window.ui:17
 msgctxt "shortcuts window"
 msgid "Preferences"
-msgstr ""
+msgstr "Preferències"
 
 #: data/resources/shortcuts-window.ui:24
 msgctxt "shortcuts window"
 msgid "Translate"
-msgstr ""
+msgstr "Tradueix"
 
 #: data/resources/shortcuts-window.ui:31
 msgctxt "shortcuts window"
 msgid "Quit"
-msgstr ""
+msgstr "Surt"
 
 #: data/resources/window.ui:42
 msgid "Loading..."
-msgstr ""
+msgstr "S’està carregant…"
 
 #: data/resources/window.ui:83
 msgid "Failed loading translator backend"
-msgstr ""
+msgstr "No s’ha pogut carregar el motor de traducció"
 
 #: data/resources/window.ui:108
 msgid "Retry"
-msgstr ""
+msgstr "Torna a provar"
 
 #: data/resources/window.ui:115
 msgid "Open preferences"
-msgstr ""
+msgstr "Obre les preferències"
 
 #: data/resources/window.ui:193 data/resources/window.ui:726
 msgid "Switch languages"
-msgstr ""
+msgstr "Canvia de llengua"
 
 #: data/resources/window.ui:273
 msgid "Previous translation"
-msgstr ""
+msgstr "Traducció anterior"
 
 #: data/resources/window.ui:292
 msgid "Next translation"
-msgstr ""
+msgstr "Traducció següent"
 
 #: data/resources/window.ui:453
 msgid "Clear"
-msgstr ""
+msgstr "Neteja"
 
 #: data/resources/window.ui:468
 msgid "Paste"
-msgstr ""
+msgstr "Enganxa"
 
 #: data/resources/window.ui:484 data/resources/window.ui:622
 msgid "Listen"
-msgstr ""
+msgstr "Escolta"
 
 #: data/resources/window.ui:492
 msgid "Translate"
-msgstr ""
+msgstr "Tradueix"
 
 #: data/resources/window.ui:603
 msgid "Translation in progress..."
-msgstr ""
+msgstr "Traducció en curs…"
 
 #: data/resources/window.ui:611
 msgid "Translation seems to have failed"
-msgstr ""
+msgstr "Sembla que ha fallat la traducció"
 
 #: data/resources/window.ui:637
 msgid "Copy"
-msgstr ""
+msgstr "Copia"
 
 #: data/resources/window.ui:817
 msgid "No network connection detected."
-msgstr ""
+msgstr "No s’ha detectat cap connexió de xarxa."
 
 #: dialect/preferences.py:250
 #, python-brace-format
 msgid "Not a valid {backend} instance"
-msgstr ""
+msgstr "No és una instal·lació vàlida del {backend}"
 
 #: dialect/window.py:229
 msgid "A network issue has occured. Retry?"
-msgstr ""
+msgstr "S’ha produït un problema amb la xarxa. Voleu tornar a intentar-ho?"
 
 #: dialect/window.py:233
 msgid ""
 "A network issue has occured.\n"
 "Please try again."
 msgstr ""
+"S’ha produït un problema amb la xarxa.\n"
+"Torneu a intentar-ho."
 
 #: dialect/window.py:507 dialect/window.py:511
 msgid "Auto"
-msgstr ""
+msgstr "Automàtic"
 
 #: dialect/window.py:784
 msgid "5000 characters limit reached!"
-msgstr ""
+msgstr "S’ha assolit el límit de 5000 caràcters."
 
 #: dialect/window.py:876
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
 msgstr ""
+"Ha fallat la traducció.\n"
+"Comproveu si hi ha problemes amb la xarxa."
 
 #: dialect/window.py:892
 msgid "Did you mean: "
-msgstr ""
+msgstr "Volíeu dir: "
