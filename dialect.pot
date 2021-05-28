@@ -8,19 +8,19 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-27 08:53-0500\n"
+"POT-Creation-Date: 2021-05-28 22:45+0530\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/window.ui:66
-#: dialect/main.py:53 dialect/main.py:88
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/about.ui:10
+#: data/resources/window.ui:66 dialect/main.py:53 dialect/main.py:89
 msgid "Dialect"
 msgstr ""
 
@@ -68,16 +68,16 @@ msgstr ""
 msgid "Clipboard buttons"
 msgstr ""
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:26
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:27
 msgid "The Dialect Authors"
 msgstr ""
 
 #: data/resources/about.ui:11
-msgid "Copyright 2020-2021 The Dialect Authors"
+msgid "Copyright 2020–⁠2021 The Dialect Authors"
 msgstr ""
 
 #: data/resources/about.ui:14
-msgid "Github page"
+msgid "GitHub page"
 msgstr ""
 
 #. Replace me with your names.
@@ -126,7 +126,7 @@ msgid "Translation Shortcut"
 msgstr ""
 
 #: data/resources/preferences.ui:55
-msgid "Unselected choice will be used for line break."
+msgid "The unselected choice will be used for line break."
 msgstr ""
 
 #: data/resources/preferences.ui:61
@@ -134,7 +134,7 @@ msgid "Default to Auto"
 msgstr ""
 
 #: data/resources/preferences.ui:62
-msgid "Use \"Auto\" as the default language on every launch"
+msgid "Use \"Auto\" as the default language"
 msgstr ""
 
 #: data/resources/preferences.ui:76
@@ -150,7 +150,7 @@ msgid "Translator Instance"
 msgstr ""
 
 #: data/resources/preferences.ui:84
-msgid "Specify URL of translation service."
+msgid "Enter a translation service URL."
 msgstr ""
 
 #: data/resources/preferences.ui:109
@@ -166,11 +166,11 @@ msgid "Save"
 msgstr ""
 
 #: data/resources/preferences.ui:175
-msgid "Text to Speech"
+msgid "Text-to-Speech"
 msgstr ""
 
 #: data/resources/preferences.ui:176
-msgid "Use Google for Text to Speech functionality."
+msgid "Use Google for TTS."
 msgstr ""
 
 #: data/resources/preferences.ui:192
@@ -179,10 +179,9 @@ msgstr ""
 
 #: data/resources/preferences.ui:193
 msgid ""
-"Dialect has a GNOME Search Provider. Enabling or disabling Live Translation "
-"here will also enable or disable the GNOME Search Provider. This is to "
-"reduce the possibility of API abuse. Also make sure that the feature is "
-"enabled in GNOME Settings."
+"To reduce API abuse, the GNOME search provider in Dialect is turned off when "
+"Live translation is. Ensure the search provider is also turned on in the "
+"GNOME Settings."
 msgstr ""
 
 #: data/resources/shortcuts-window.ui:13
@@ -202,15 +201,20 @@ msgstr ""
 
 #: data/resources/shortcuts-window.ui:31
 msgctxt "shortcuts window"
+msgid "Switch Languages"
+msgstr ""
+
+#: data/resources/shortcuts-window.ui:38
+msgctxt "shortcuts window"
 msgid "Quit"
 msgstr ""
 
 #: data/resources/window.ui:42
-msgid "Loading..."
+msgid "Loading…"
 msgstr ""
 
 #: data/resources/window.ui:83
-msgid "Failed loading translator backend"
+msgid "Could not load the translator service"
 msgstr ""
 
 #: data/resources/window.ui:108
@@ -221,47 +225,47 @@ msgstr ""
 msgid "Open preferences"
 msgstr ""
 
-#: data/resources/window.ui:193 data/resources/window.ui:726
+#: data/resources/window.ui:194 data/resources/window.ui:727
 msgid "Switch languages"
 msgstr ""
 
-#: data/resources/window.ui:273
+#: data/resources/window.ui:274
 msgid "Previous translation"
 msgstr ""
 
-#: data/resources/window.ui:292
+#: data/resources/window.ui:293
 msgid "Next translation"
 msgstr ""
 
-#: data/resources/window.ui:453
+#: data/resources/window.ui:454
 msgid "Clear"
 msgstr ""
 
-#: data/resources/window.ui:468
+#: data/resources/window.ui:469
 msgid "Paste"
 msgstr ""
 
-#: data/resources/window.ui:484 data/resources/window.ui:622
+#: data/resources/window.ui:485 data/resources/window.ui:623
 msgid "Listen"
 msgstr ""
 
-#: data/resources/window.ui:492
+#: data/resources/window.ui:493
 msgid "Translate"
 msgstr ""
 
-#: data/resources/window.ui:603
-msgid "Translation in progress..."
+#: data/resources/window.ui:604
+msgid "Translating…"
 msgstr ""
 
-#: data/resources/window.ui:611
-msgid "Translation seems to have failed"
+#: data/resources/window.ui:612
+msgid "Could not translate the text"
 msgstr ""
 
-#: data/resources/window.ui:637
+#: data/resources/window.ui:638
 msgid "Copy"
 msgstr ""
 
-#: data/resources/window.ui:817
+#: data/resources/window.ui:819
 msgid "No network connection detected."
 msgstr ""
 
@@ -280,20 +284,20 @@ msgid ""
 "Please try again."
 msgstr ""
 
-#: dialect/window.py:507 dialect/window.py:511
+#: dialect/window.py:501 dialect/window.py:505
 msgid "Auto"
 msgstr ""
 
-#: dialect/window.py:784
+#: dialect/window.py:778
 msgid "5000 characters limit reached!"
 msgstr ""
 
-#: dialect/window.py:876
+#: dialect/window.py:870
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
 msgstr ""
 
-#: dialect/window.py:892
+#: dialect/window.py:886
 msgid "Did you mean: "
 msgstr ""
