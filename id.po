@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-27 08:53-0500\n"
+"POT-Creation-Date: 2021-05-28 22:45+0530\n"
 "PO-Revision-Date: 2021-05-23 15:30+0000\n"
 "Last-Translator: Mufeed Ali <fushinari@protonmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/dialect/"
@@ -21,8 +21,8 @@ msgstr ""
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/window.ui:66
-#: dialect/main.py:53 dialect/main.py:88
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/about.ui:10
+#: data/resources/window.ui:66 dialect/main.py:53 dialect/main.py:89
 msgid "Dialect"
 msgstr "Dialect"
 
@@ -72,16 +72,20 @@ msgstr "Deteksi bahasa otomatis"
 msgid "Clipboard buttons"
 msgstr "Tombol Papan Klip"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:26
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:27
 msgid "The Dialect Authors"
 msgstr "Penulis Dialect"
 
 #: data/resources/about.ui:11
-msgid "Copyright 2020-2021 The Dialect Authors"
+#, fuzzy
+#| msgid "Copyright 2020-2021 The Dialect Authors"
+msgid "Copyright 2020–⁠2021 The Dialect Authors"
 msgstr "Hak Cipta 2020-2021 Penulis Dialect"
 
 #: data/resources/about.ui:14
-msgid "Github page"
+#, fuzzy
+#| msgid "Github page"
+msgid "GitHub page"
 msgstr "Halaman Github"
 
 #. Replace me with your names.
@@ -130,7 +134,9 @@ msgid "Translation Shortcut"
 msgstr "Pintasan Terjemahan"
 
 #: data/resources/preferences.ui:55
-msgid "Unselected choice will be used for line break."
+#, fuzzy
+#| msgid "Unselected choice will be used for line break."
+msgid "The unselected choice will be used for line break."
 msgstr "Pilihan yang tidak dipilih akan digunakan untuk hentian baris."
 
 #: data/resources/preferences.ui:61
@@ -138,7 +144,9 @@ msgid "Default to Auto"
 msgstr "Bawaan ke Otomatis"
 
 #: data/resources/preferences.ui:62
-msgid "Use \"Auto\" as the default language on every launch"
+#, fuzzy
+#| msgid "Use \"Auto\" as the default language on every launch"
+msgid "Use \"Auto\" as the default language"
 msgstr "Gunakan \"Otomatis\" sebagai bahasa bawan pada setiap peluncuran"
 
 #: data/resources/preferences.ui:76
@@ -154,7 +162,9 @@ msgid "Translator Instance"
 msgstr "Instansi Penerjemah"
 
 #: data/resources/preferences.ui:84
-msgid "Specify URL of translation service."
+#, fuzzy
+#| msgid "Specify URL of translation service."
+msgid "Enter a translation service URL."
 msgstr "Tentukan URL layanan penerjemahan."
 
 #: data/resources/preferences.ui:109
@@ -170,12 +180,14 @@ msgid "Save"
 msgstr "Simpan"
 
 #: data/resources/preferences.ui:175
-msgid "Text to Speech"
+#, fuzzy
+#| msgid "Text to Speech"
+msgid "Text-to-Speech"
 msgstr "Teks ke Ucapan"
 
 #: data/resources/preferences.ui:176
-msgid "Use Google for Text to Speech functionality."
-msgstr "Gunakan Google untuk fungsi Teks ke Ucapan."
+msgid "Use Google for TTS."
+msgstr ""
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
@@ -183,16 +195,10 @@ msgstr "Penyedia Pencarian"
 
 #: data/resources/preferences.ui:193
 msgid ""
-"Dialect has a GNOME Search Provider. Enabling or disabling Live Translation "
-"here will also enable or disable the GNOME Search Provider. This is to "
-"reduce the possibility of API abuse. Also make sure that the feature is "
-"enabled in GNOME Settings."
+"To reduce API abuse, the GNOME search provider in Dialect is turned off when "
+"Live translation is. Ensure the search provider is also turned on in the "
+"GNOME Settings."
 msgstr ""
-"Dialect memiliki Penyedia Pencarian GNOME. Mengaktifkan atau menonaktifkan "
-"Terjemahan Langsung di sini juga akan mengaktifkan atau menonaktifkan "
-"Penyedia Pencarian GNOME. Hal ini untuk mengurangi kemungkinan "
-"penyalahgunaan API. Pastikan juga bahwa fitur ini diaktifkan di Pengaturan "
-"GNOME."
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
@@ -210,17 +216,28 @@ msgid "Translate"
 msgstr "Terjemahkan"
 
 #: data/resources/shortcuts-window.ui:31
+#, fuzzy
+#| msgid "Switch languages"
+msgctxt "shortcuts window"
+msgid "Switch Languages"
+msgstr "Beralih bahasa"
+
+#: data/resources/shortcuts-window.ui:38
 msgctxt "shortcuts window"
 msgid "Quit"
 msgstr "Keluar"
 
 #: data/resources/window.ui:42
-msgid "Loading..."
+#, fuzzy
+#| msgid "Loading..."
+msgid "Loading…"
 msgstr "Memuat..."
 
 #: data/resources/window.ui:83
-msgid "Failed loading translator backend"
-msgstr "Gagal memuat backend penerjemah"
+#, fuzzy
+#| msgid "Choose from the available translation services."
+msgid "Could not load the translator service"
+msgstr "Pilih dari layanan terjemahan yang tersedia."
 
 #: data/resources/window.ui:108
 msgid "Retry"
@@ -230,47 +247,49 @@ msgstr "Coba lagi"
 msgid "Open preferences"
 msgstr "Buka preferensi"
 
-#: data/resources/window.ui:193 data/resources/window.ui:726
+#: data/resources/window.ui:194 data/resources/window.ui:727
 msgid "Switch languages"
 msgstr "Beralih bahasa"
 
-#: data/resources/window.ui:273
+#: data/resources/window.ui:274
 msgid "Previous translation"
 msgstr "Terjemahan sebelumnya"
 
-#: data/resources/window.ui:292
+#: data/resources/window.ui:293
 msgid "Next translation"
 msgstr "Terjemahan berikutnya"
 
-#: data/resources/window.ui:453
+#: data/resources/window.ui:454
 msgid "Clear"
 msgstr "Bersihkan"
 
-#: data/resources/window.ui:468
+#: data/resources/window.ui:469
 msgid "Paste"
 msgstr "Tempel"
 
-#: data/resources/window.ui:484 data/resources/window.ui:622
+#: data/resources/window.ui:485 data/resources/window.ui:623
 msgid "Listen"
 msgstr "Dengarkan"
 
-#: data/resources/window.ui:492
+#: data/resources/window.ui:493
 msgid "Translate"
 msgstr "Terjemahkan"
 
-#: data/resources/window.ui:603
-msgid "Translation in progress..."
-msgstr "Terjemahan sedang berlangsung..."
+#: data/resources/window.ui:604
+#, fuzzy
+#| msgid "Translate"
+msgid "Translating…"
+msgstr "Terjemahkan"
 
-#: data/resources/window.ui:611
-msgid "Translation seems to have failed"
-msgstr "Penerjemahan tampaknya telah gagal"
+#: data/resources/window.ui:612
+msgid "Could not translate the text"
+msgstr ""
 
-#: data/resources/window.ui:637
+#: data/resources/window.ui:638
 msgid "Copy"
 msgstr "Salin"
 
-#: data/resources/window.ui:817
+#: data/resources/window.ui:819
 msgid "No network connection detected."
 msgstr "Tidak tersedia sambungan jaringan."
 
@@ -291,15 +310,15 @@ msgstr ""
 "Terjadi masalah jaringan.\n"
 "Silakan coba lagi."
 
-#: dialect/window.py:507 dialect/window.py:511
+#: dialect/window.py:501 dialect/window.py:505
 msgid "Auto"
 msgstr "Otomatis"
 
-#: dialect/window.py:784
+#: dialect/window.py:778
 msgid "5000 characters limit reached!"
 msgstr "Batas 5000 karakter tercapai!"
 
-#: dialect/window.py:876
+#: dialect/window.py:870
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
@@ -307,9 +326,33 @@ msgstr ""
 "Terjemahan gagal.\n"
 "Silakan periksa masalah jaringan."
 
-#: dialect/window.py:892
+#: dialect/window.py:886
 msgid "Did you mean: "
 msgstr "Apakah maksud Anda: "
+
+#~ msgid "Use Google for Text to Speech functionality."
+#~ msgstr "Gunakan Google untuk fungsi Teks ke Ucapan."
+
+#~ msgid ""
+#~ "Dialect has a GNOME Search Provider. Enabling or disabling Live "
+#~ "Translation here will also enable or disable the GNOME Search Provider. "
+#~ "This is to reduce the possibility of API abuse. Also make sure that the "
+#~ "feature is enabled in GNOME Settings."
+#~ msgstr ""
+#~ "Dialect memiliki Penyedia Pencarian GNOME. Mengaktifkan atau "
+#~ "menonaktifkan Terjemahan Langsung di sini juga akan mengaktifkan atau "
+#~ "menonaktifkan Penyedia Pencarian GNOME. Hal ini untuk mengurangi "
+#~ "kemungkinan penyalahgunaan API. Pastikan juga bahwa fitur ini diaktifkan "
+#~ "di Pengaturan GNOME."
+
+#~ msgid "Failed loading translator backend"
+#~ msgstr "Gagal memuat backend penerjemah"
+
+#~ msgid "Translation in progress..."
+#~ msgstr "Terjemahan sedang berlangsung..."
+
+#~ msgid "Translation seems to have failed"
+#~ msgstr "Penerjemahan tampaknya telah gagal"
 
 #~ msgid "gi-lom"
 #~ msgstr "gi-lom"

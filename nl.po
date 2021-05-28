@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-27 08:53-0500\n"
+"POT-Creation-Date: 2021-05-28 22:45+0530\n"
 "PO-Revision-Date: 2021-05-24 12:55+0000\n"
 "Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/dialect/dialect/nl/"
@@ -21,8 +21,8 @@ msgstr ""
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/window.ui:66
-#: dialect/main.py:53 dialect/main.py:88
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/about.ui:10
+#: data/resources/window.ui:66 dialect/main.py:53 dialect/main.py:89
 msgid "Dialect"
 msgstr "Dialect"
 
@@ -72,16 +72,20 @@ msgstr "Automatische taalherkenning"
 msgid "Clipboard buttons"
 msgstr "Klembordknoppen"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:26
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:27
 msgid "The Dialect Authors"
 msgstr "Het Dialect-team"
 
 #: data/resources/about.ui:11
-msgid "Copyright 2020-2021 The Dialect Authors"
+#, fuzzy
+#| msgid "Copyright 2020-2021 The Dialect Authors"
+msgid "Copyright 2020–⁠2021 The Dialect Authors"
 msgstr "Copyright 2020-2021 Het Dialect-team"
 
 #: data/resources/about.ui:14
-msgid "Github page"
+#, fuzzy
+#| msgid "Github page"
+msgid "GitHub page"
 msgstr "GitHub-pagina"
 
 #. Replace me with your names.
@@ -130,7 +134,9 @@ msgid "Translation Shortcut"
 msgstr "Vertaalsneltoets"
 
 #: data/resources/preferences.ui:55
-msgid "Unselected choice will be used for line break."
+#, fuzzy
+#| msgid "Unselected choice will be used for line break."
+msgid "The unselected choice will be used for line break."
 msgstr "De niet-geselecteerde keuze wordt gebruikt voor regelafbreking."
 
 #: data/resources/preferences.ui:61
@@ -138,7 +144,9 @@ msgid "Default to Auto"
 msgstr "Automatisch detecteren"
 
 #: data/resources/preferences.ui:62
-msgid "Use \"Auto\" as the default language on every launch"
+#, fuzzy
+#| msgid "Use \"Auto\" as the default language on every launch"
+msgid "Use \"Auto\" as the default language"
 msgstr "Gebruik standaard ‘Automatisch detecteren’ als taalkeuze"
 
 #: data/resources/preferences.ui:76
@@ -154,7 +162,9 @@ msgid "Translator Instance"
 msgstr "Vertaalproces"
 
 #: data/resources/preferences.ui:84
-msgid "Specify URL of translation service."
+#, fuzzy
+#| msgid "Specify URL of translation service."
+msgid "Enter a translation service URL."
 msgstr "Voer de url van de vertaaldienst in."
 
 #: data/resources/preferences.ui:109
@@ -170,12 +180,14 @@ msgid "Save"
 msgstr "Opslaan"
 
 #: data/resources/preferences.ui:175
-msgid "Text to Speech"
+#, fuzzy
+#| msgid "Text to Speech"
+msgid "Text-to-Speech"
 msgstr "Tekst-naar-spraak"
 
 #: data/resources/preferences.ui:176
-msgid "Use Google for Text to Speech functionality."
-msgstr "Gebruik Google's tekst-naar-spraakfunctionaliteit."
+msgid "Use Google for TTS."
+msgstr ""
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
@@ -183,15 +195,10 @@ msgstr "Zoekmachine"
 
 #: data/resources/preferences.ui:193
 msgid ""
-"Dialect has a GNOME Search Provider. Enabling or disabling Live Translation "
-"here will also enable or disable the GNOME Search Provider. This is to "
-"reduce the possibility of API abuse. Also make sure that the feature is "
-"enabled in GNOME Settings."
+"To reduce API abuse, the GNOME search provider in Dialect is turned off when "
+"Live translation is. Ensure the search provider is also turned on in the "
+"GNOME Settings."
 msgstr ""
-"Dialect bevat een GNOME-zoekmachine. Door live-vertaling in of uit te "
-"schakelen, wordt ook de GNOME-zoekmachine in of uitgeschakeld om api-"
-"misbruik te voorkomen. Zorg er voor dat de zoekfunctie is ingeschakeld in de "
-"systeeminstellingen."
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
@@ -209,17 +216,28 @@ msgid "Translate"
 msgstr "Vertalen"
 
 #: data/resources/shortcuts-window.ui:31
+#, fuzzy
+#| msgid "Switch languages"
+msgctxt "shortcuts window"
+msgid "Switch Languages"
+msgstr "Talen omwisselen"
+
+#: data/resources/shortcuts-window.ui:38
 msgctxt "shortcuts window"
 msgid "Quit"
 msgstr "Afsluiten"
 
 #: data/resources/window.ui:42
-msgid "Loading..."
+#, fuzzy
+#| msgid "Loading..."
+msgid "Loading…"
 msgstr "Bezig met laden…"
 
 #: data/resources/window.ui:83
-msgid "Failed loading translator backend"
-msgstr "Het vertaalbackend kan niet worden geladen"
+#, fuzzy
+#| msgid "Choose from the available translation services."
+msgid "Could not load the translator service"
+msgstr "Kies één van de beschikbare vertaaldiensten."
 
 #: data/resources/window.ui:108
 msgid "Retry"
@@ -229,47 +247,49 @@ msgstr "Opnieuw proberen"
 msgid "Open preferences"
 msgstr "Voorkeuren openen"
 
-#: data/resources/window.ui:193 data/resources/window.ui:726
+#: data/resources/window.ui:194 data/resources/window.ui:727
 msgid "Switch languages"
 msgstr "Talen omwisselen"
 
-#: data/resources/window.ui:273
+#: data/resources/window.ui:274
 msgid "Previous translation"
 msgstr "Vorige vertaling"
 
-#: data/resources/window.ui:292
+#: data/resources/window.ui:293
 msgid "Next translation"
 msgstr "Volgende vertaling"
 
-#: data/resources/window.ui:453
+#: data/resources/window.ui:454
 msgid "Clear"
 msgstr "Wissen"
 
-#: data/resources/window.ui:468
+#: data/resources/window.ui:469
 msgid "Paste"
 msgstr "Plakken"
 
-#: data/resources/window.ui:484 data/resources/window.ui:622
+#: data/resources/window.ui:485 data/resources/window.ui:623
 msgid "Listen"
 msgstr "Luisteren"
 
-#: data/resources/window.ui:492
+#: data/resources/window.ui:493
 msgid "Translate"
 msgstr "Vertalen"
 
-#: data/resources/window.ui:603
-msgid "Translation in progress..."
-msgstr "Bezig met vertalen…"
+#: data/resources/window.ui:604
+#, fuzzy
+#| msgid "Translate"
+msgid "Translating…"
+msgstr "Vertalen"
 
-#: data/resources/window.ui:611
-msgid "Translation seems to have failed"
-msgstr "Er is een fout opgetreden tijdens het vertalen"
+#: data/resources/window.ui:612
+msgid "Could not translate the text"
+msgstr ""
 
-#: data/resources/window.ui:637
+#: data/resources/window.ui:638
 msgid "Copy"
 msgstr "Kopiëren"
 
-#: data/resources/window.ui:817
+#: data/resources/window.ui:819
 msgid "No network connection detected."
 msgstr "Je bent niet verbonden met het internet."
 
@@ -290,15 +310,15 @@ msgstr ""
 "Er is een verbindingsprobleem opgetreden.\n"
 "Probeer het opnieuw."
 
-#: dialect/window.py:507 dialect/window.py:511
+#: dialect/window.py:501 dialect/window.py:505
 msgid "Auto"
 msgstr "Automatisch"
 
-#: dialect/window.py:784
+#: dialect/window.py:778
 msgid "5000 characters limit reached!"
 msgstr "Je hebt het tekenlimiet (5000) bereikt!"
 
-#: dialect/window.py:876
+#: dialect/window.py:870
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
@@ -306,9 +326,32 @@ msgstr ""
 "De vertaling is mislukt.\n"
 "Controleer je internetverbinding."
 
-#: dialect/window.py:892
+#: dialect/window.py:886
 msgid "Did you mean: "
 msgstr "Bedoelde je: "
+
+#~ msgid "Use Google for Text to Speech functionality."
+#~ msgstr "Gebruik Google's tekst-naar-spraakfunctionaliteit."
+
+#~ msgid ""
+#~ "Dialect has a GNOME Search Provider. Enabling or disabling Live "
+#~ "Translation here will also enable or disable the GNOME Search Provider. "
+#~ "This is to reduce the possibility of API abuse. Also make sure that the "
+#~ "feature is enabled in GNOME Settings."
+#~ msgstr ""
+#~ "Dialect bevat een GNOME-zoekmachine. Door live-vertaling in of uit te "
+#~ "schakelen, wordt ook de GNOME-zoekmachine in of uitgeschakeld om api-"
+#~ "misbruik te voorkomen. Zorg er voor dat de zoekfunctie is ingeschakeld in "
+#~ "de systeeminstellingen."
+
+#~ msgid "Failed loading translator backend"
+#~ msgstr "Het vertaalbackend kan niet worden geladen"
+
+#~ msgid "Translation in progress..."
+#~ msgstr "Bezig met vertalen…"
+
+#~ msgid "Translation seems to have failed"
+#~ msgstr "Er is een fout opgetreden tijdens het vertalen"
 
 #~ msgid "gi-lom"
 #~ msgstr "gi-lom"

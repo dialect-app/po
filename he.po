@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-27 08:53-0500\n"
+"POT-Creation-Date: 2021-05-28 22:45+0530\n"
 "PO-Revision-Date: 2021-05-24 12:55+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -22,8 +22,8 @@ msgstr ""
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/window.ui:66
-#: dialect/main.py:53 dialect/main.py:88
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/about.ui:10
+#: data/resources/window.ui:66 dialect/main.py:53 dialect/main.py:89
 msgid "Dialect"
 msgstr "דיאלקט"
 
@@ -73,16 +73,20 @@ msgstr "זיהוי שפה אוטומטי"
 msgid "Clipboard buttons"
 msgstr "כפתורי לוח גזירים"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:26
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:27
 msgid "The Dialect Authors"
 msgstr "יוצרי דיאלקט"
 
 #: data/resources/about.ui:11
-msgid "Copyright 2020-2021 The Dialect Authors"
+#, fuzzy
+#| msgid "Copyright 2020-2021 The Dialect Authors"
+msgid "Copyright 2020–⁠2021 The Dialect Authors"
 msgstr "כל הזכויות שמורות 2020‏-2021 ליוצרי דיאלקט"
 
 #: data/resources/about.ui:14
-msgid "Github page"
+#, fuzzy
+#| msgid "Github page"
+msgid "GitHub page"
 msgstr "עמוד ה־GitHub"
 
 #. Replace me with your names.
@@ -131,7 +135,9 @@ msgid "Translation Shortcut"
 msgstr "קיצור דרך לתרגום"
 
 #: data/resources/preferences.ui:55
-msgid "Unselected choice will be used for line break."
+#, fuzzy
+#| msgid "Unselected choice will be used for line break."
+msgid "The unselected choice will be used for line break."
 msgstr "האפשרות שלא נבחרה תשמש כירידת שורה."
 
 #: data/resources/preferences.ui:61
@@ -139,7 +145,9 @@ msgid "Default to Auto"
 msgstr "בררת המחדל היא אוטומטי"
 
 #: data/resources/preferences.ui:62
-msgid "Use \"Auto\" as the default language on every launch"
+#, fuzzy
+#| msgid "Use \"Auto\" as the default language on every launch"
+msgid "Use \"Auto\" as the default language"
 msgstr "להשתמש ב„אוטומטי” כשפת בררת המחדל עם כל הפעלה של היישום"
 
 #: data/resources/preferences.ui:76
@@ -155,7 +163,9 @@ msgid "Translator Instance"
 msgstr "עותק שירות תרגום"
 
 #: data/resources/preferences.ui:84
-msgid "Specify URL of translation service."
+#, fuzzy
+#| msgid "Specify URL of translation service."
+msgid "Enter a translation service URL."
 msgstr "ציון כתובת שירות התרגום."
 
 #: data/resources/preferences.ui:109
@@ -171,12 +181,14 @@ msgid "Save"
 msgstr "שמירה"
 
 #: data/resources/preferences.ui:175
-msgid "Text to Speech"
+#, fuzzy
+#| msgid "Text to Speech"
+msgid "Text-to-Speech"
 msgstr "טקסט לדיבור"
 
 #: data/resources/preferences.ui:176
-msgid "Use Google for Text to Speech functionality."
-msgstr "להשתמש ב־Google לצורכי המרת טקסט לדיבור."
+msgid "Use Google for TTS."
+msgstr ""
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
@@ -184,14 +196,10 @@ msgstr "ספק חיפוש"
 
 #: data/resources/preferences.ui:193
 msgid ""
-"Dialect has a GNOME Search Provider. Enabling or disabling Live Translation "
-"here will also enable or disable the GNOME Search Provider. This is to "
-"reduce the possibility of API abuse. Also make sure that the feature is "
-"enabled in GNOME Settings."
+"To reduce API abuse, the GNOME search provider in Dialect is turned off when "
+"Live translation is. Ensure the search provider is also turned on in the "
+"GNOME Settings."
 msgstr ""
-"לדיאלקט יש ספק חיפוש של GNOME. הפעלת או השבתת התרגום החי דרך כאן תפעיל או "
-"תשבית את ספק החיפוש של GNOME. מטרת ההגדלה הזאת היא לצמצם את האפשרות לניצול "
-"לרעה של ה־API. כדאי גם לוודא שהיכולת מופעלת בהגדרות של GNOME."
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
@@ -209,17 +217,28 @@ msgid "Translate"
 msgstr "תרגום"
 
 #: data/resources/shortcuts-window.ui:31
+#, fuzzy
+#| msgid "Switch languages"
+msgctxt "shortcuts window"
+msgid "Switch Languages"
+msgstr "החלפת שפות"
+
+#: data/resources/shortcuts-window.ui:38
 msgctxt "shortcuts window"
 msgid "Quit"
 msgstr "יציאה"
 
 #: data/resources/window.ui:42
-msgid "Loading..."
+#, fuzzy
+#| msgid "Loading..."
+msgid "Loading…"
 msgstr "בטעינה…"
 
 #: data/resources/window.ui:83
-msgid "Failed loading translator backend"
-msgstr "טעינת מנגנון התרגום נכשלה"
+#, fuzzy
+#| msgid "Choose from the available translation services."
+msgid "Could not load the translator service"
+msgstr "בחירה משירותי התרגום הזמינים."
 
 #: data/resources/window.ui:108
 msgid "Retry"
@@ -229,47 +248,49 @@ msgstr "לנסות שוב"
 msgid "Open preferences"
 msgstr "פתיחת ההעדפות"
 
-#: data/resources/window.ui:193 data/resources/window.ui:726
+#: data/resources/window.ui:194 data/resources/window.ui:727
 msgid "Switch languages"
 msgstr "החלפת שפות"
 
-#: data/resources/window.ui:273
+#: data/resources/window.ui:274
 msgid "Previous translation"
 msgstr "התרגום הקודם"
 
-#: data/resources/window.ui:292
+#: data/resources/window.ui:293
 msgid "Next translation"
 msgstr "התרגום הבא"
 
-#: data/resources/window.ui:453
+#: data/resources/window.ui:454
 msgid "Clear"
 msgstr "פינוי"
 
-#: data/resources/window.ui:468
+#: data/resources/window.ui:469
 msgid "Paste"
 msgstr "הדבקה"
 
-#: data/resources/window.ui:484 data/resources/window.ui:622
+#: data/resources/window.ui:485 data/resources/window.ui:623
 msgid "Listen"
 msgstr "האזנה"
 
-#: data/resources/window.ui:492
+#: data/resources/window.ui:493
 msgid "Translate"
 msgstr "תרגום"
 
-#: data/resources/window.ui:603
-msgid "Translation in progress..."
-msgstr "הקלט מתורגם…"
+#: data/resources/window.ui:604
+#, fuzzy
+#| msgid "Translate"
+msgid "Translating…"
+msgstr "תרגום"
 
-#: data/resources/window.ui:611
-msgid "Translation seems to have failed"
-msgstr "כנראה שהתרגום נכשל"
+#: data/resources/window.ui:612
+msgid "Could not translate the text"
+msgstr ""
 
-#: data/resources/window.ui:637
+#: data/resources/window.ui:638
 msgid "Copy"
 msgstr "העתקה"
 
-#: data/resources/window.ui:817
+#: data/resources/window.ui:819
 msgid "No network connection detected."
 msgstr "לא זוהה חיבור לרשת."
 
@@ -290,15 +311,15 @@ msgstr ""
 "קרתה תקלה ברשת.‬\n"
 "‫נא לנסות שוב."
 
-#: dialect/window.py:507 dialect/window.py:511
+#: dialect/window.py:501 dialect/window.py:505
 msgid "Auto"
 msgstr "אוטומטי"
 
-#: dialect/window.py:784
+#: dialect/window.py:778
 msgid "5000 characters limit reached!"
 msgstr "הגעת למגבלה של 5000 תווים!"
 
-#: dialect/window.py:876
+#: dialect/window.py:870
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
@@ -306,6 +327,28 @@ msgstr ""
 "התרגום נכשל.\n"
 "‫נא לבדוק שהרשת תקינה."
 
-#: dialect/window.py:892
+#: dialect/window.py:886
 msgid "Did you mean: "
 msgstr "אולי כוונך הייתה: "
+
+#~ msgid "Use Google for Text to Speech functionality."
+#~ msgstr "להשתמש ב־Google לצורכי המרת טקסט לדיבור."
+
+#~ msgid ""
+#~ "Dialect has a GNOME Search Provider. Enabling or disabling Live "
+#~ "Translation here will also enable or disable the GNOME Search Provider. "
+#~ "This is to reduce the possibility of API abuse. Also make sure that the "
+#~ "feature is enabled in GNOME Settings."
+#~ msgstr ""
+#~ "לדיאלקט יש ספק חיפוש של GNOME. הפעלת או השבתת התרגום החי דרך כאן תפעיל או "
+#~ "תשבית את ספק החיפוש של GNOME. מטרת ההגדלה הזאת היא לצמצם את האפשרות "
+#~ "לניצול לרעה של ה־API. כדאי גם לוודא שהיכולת מופעלת בהגדרות של GNOME."
+
+#~ msgid "Failed loading translator backend"
+#~ msgstr "טעינת מנגנון התרגום נכשלה"
+
+#~ msgid "Translation in progress..."
+#~ msgstr "הקלט מתורגם…"
+
+#~ msgid "Translation seems to have failed"
+#~ msgstr "כנראה שהתרגום נכשל"

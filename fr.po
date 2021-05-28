@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-27 08:53-0500\n"
+"POT-Creation-Date: 2021-05-28 22:45+0530\n"
 "PO-Revision-Date: 2021-05-24 01:15+0000\n"
 "Last-Translator: Swann Fournial <s.fournial@protonmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -21,8 +21,8 @@ msgstr ""
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/window.ui:66
-#: dialect/main.py:53 dialect/main.py:88
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/about.ui:10
+#: data/resources/window.ui:66 dialect/main.py:53 dialect/main.py:89
 msgid "Dialect"
 msgstr "Dialect"
 
@@ -72,16 +72,20 @@ msgstr "Détection automatique de la langue"
 msgid "Clipboard buttons"
 msgstr "Boutons du presse-papier"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:26
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:27
 msgid "The Dialect Authors"
 msgstr "Les auteurs de Dialect"
 
 #: data/resources/about.ui:11
-msgid "Copyright 2020-2021 The Dialect Authors"
+#, fuzzy
+#| msgid "Copyright 2020-2021 The Dialect Authors"
+msgid "Copyright 2020–⁠2021 The Dialect Authors"
 msgstr "Copyright 2020-2021 Les auteurs de Dialect"
 
 #: data/resources/about.ui:14
-msgid "Github page"
+#, fuzzy
+#| msgid "Github page"
+msgid "GitHub page"
 msgstr "Page GitHub"
 
 #. Replace me with your names.
@@ -130,7 +134,9 @@ msgid "Translation Shortcut"
 msgstr "Raccourci de traduction"
 
 #: data/resources/preferences.ui:55
-msgid "Unselected choice will be used for line break."
+#, fuzzy
+#| msgid "Unselected choice will be used for line break."
+msgid "The unselected choice will be used for line break."
 msgstr "Le choix non sélectionné sera utilisé pour le saut de ligne."
 
 #: data/resources/preferences.ui:61
@@ -138,7 +144,9 @@ msgid "Default to Auto"
 msgstr "Par défaut sur Auto"
 
 #: data/resources/preferences.ui:62
-msgid "Use \"Auto\" as the default language on every launch"
+#, fuzzy
+#| msgid "Use \"Auto\" as the default language on every launch"
+msgid "Use \"Auto\" as the default language"
 msgstr "Utiliser « Auto » comme langue par défaut à chaque lancement"
 
 #: data/resources/preferences.ui:76
@@ -154,7 +162,9 @@ msgid "Translator Instance"
 msgstr "Instance de traducteur"
 
 #: data/resources/preferences.ui:84
-msgid "Specify URL of translation service."
+#, fuzzy
+#| msgid "Specify URL of translation service."
+msgid "Enter a translation service URL."
 msgstr "Indiquez l'URL du service de traduction."
 
 #: data/resources/preferences.ui:109
@@ -170,12 +180,14 @@ msgid "Save"
 msgstr "Enregistrer"
 
 #: data/resources/preferences.ui:175
-msgid "Text to Speech"
+#, fuzzy
+#| msgid "Text to Speech"
+msgid "Text-to-Speech"
 msgstr "Synthèse vocale"
 
 #: data/resources/preferences.ui:176
-msgid "Use Google for Text to Speech functionality."
-msgstr "Utiliser Google pour la fonctionnalité Synthèse vocale."
+msgid "Use Google for TTS."
+msgstr ""
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
@@ -183,16 +195,10 @@ msgstr "Fournisseur de recherche"
 
 #: data/resources/preferences.ui:193
 msgid ""
-"Dialect has a GNOME Search Provider. Enabling or disabling Live Translation "
-"here will also enable or disable the GNOME Search Provider. This is to "
-"reduce the possibility of API abuse. Also make sure that the feature is "
-"enabled in GNOME Settings."
+"To reduce API abuse, the GNOME search provider in Dialect is turned off when "
+"Live translation is. Ensure the search provider is also turned on in the "
+"GNOME Settings."
 msgstr ""
-"Dialect a un fournisseur de recherche GNOME. Activer ou désactiver "
-"Traduction simultanée ici activera ou désactivera également le fournisseur "
-"de recherche GNOME. Ceci a pour but de réduire les risques d'abus de l'API. "
-"Assurez-vous également que la fonctionnalité est activée dans les paramètres "
-"GNOME."
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
@@ -210,17 +216,28 @@ msgid "Translate"
 msgstr "Traduire"
 
 #: data/resources/shortcuts-window.ui:31
+#, fuzzy
+#| msgid "Switch languages"
+msgctxt "shortcuts window"
+msgid "Switch Languages"
+msgstr "Intervertir les langues"
+
+#: data/resources/shortcuts-window.ui:38
 msgctxt "shortcuts window"
 msgid "Quit"
 msgstr "Quitter"
 
 #: data/resources/window.ui:42
-msgid "Loading..."
+#, fuzzy
+#| msgid "Loading..."
+msgid "Loading…"
 msgstr "Chargement…"
 
 #: data/resources/window.ui:83
-msgid "Failed loading translator backend"
-msgstr "Échec du chargement du backend du traducteur"
+#, fuzzy
+#| msgid "Choose from the available translation services."
+msgid "Could not load the translator service"
+msgstr "Choisissez parmi les services de traduction disponibles."
 
 #: data/resources/window.ui:108
 msgid "Retry"
@@ -230,47 +247,49 @@ msgstr "Réessayer"
 msgid "Open preferences"
 msgstr "Ouvrir les préférences"
 
-#: data/resources/window.ui:193 data/resources/window.ui:726
+#: data/resources/window.ui:194 data/resources/window.ui:727
 msgid "Switch languages"
 msgstr "Intervertir les langues"
 
-#: data/resources/window.ui:273
+#: data/resources/window.ui:274
 msgid "Previous translation"
 msgstr "Traduction précédente"
 
-#: data/resources/window.ui:292
+#: data/resources/window.ui:293
 msgid "Next translation"
 msgstr "Traduction suivante"
 
-#: data/resources/window.ui:453
+#: data/resources/window.ui:454
 msgid "Clear"
 msgstr "Effacer"
 
-#: data/resources/window.ui:468
+#: data/resources/window.ui:469
 msgid "Paste"
 msgstr "Coller"
 
-#: data/resources/window.ui:484 data/resources/window.ui:622
+#: data/resources/window.ui:485 data/resources/window.ui:623
 msgid "Listen"
 msgstr "Écouter"
 
-#: data/resources/window.ui:492
+#: data/resources/window.ui:493
 msgid "Translate"
 msgstr "Traduire"
 
-#: data/resources/window.ui:603
-msgid "Translation in progress..."
-msgstr "Traduction en cours…"
+#: data/resources/window.ui:604
+#, fuzzy
+#| msgid "Translate"
+msgid "Translating…"
+msgstr "Traduire"
 
-#: data/resources/window.ui:611
-msgid "Translation seems to have failed"
-msgstr "La traduction semble avoir échoué"
+#: data/resources/window.ui:612
+msgid "Could not translate the text"
+msgstr ""
 
-#: data/resources/window.ui:637
+#: data/resources/window.ui:638
 msgid "Copy"
 msgstr "Copier"
 
-#: data/resources/window.ui:817
+#: data/resources/window.ui:819
 msgid "No network connection detected."
 msgstr "Aucune connexion réseau détectée."
 
@@ -291,15 +310,15 @@ msgstr ""
 "Un problème réseau s'est produit.\n"
 "Veuillez réessayer."
 
-#: dialect/window.py:507 dialect/window.py:511
+#: dialect/window.py:501 dialect/window.py:505
 msgid "Auto"
 msgstr "Auto"
 
-#: dialect/window.py:784
+#: dialect/window.py:778
 msgid "5000 characters limit reached!"
 msgstr "Limite de 5000 caractères atteinte !"
 
-#: dialect/window.py:876
+#: dialect/window.py:870
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
@@ -307,6 +326,30 @@ msgstr ""
 "La traduction a échoué.\n"
 "Veuillez vérifier les problèmes de réseau."
 
-#: dialect/window.py:892
+#: dialect/window.py:886
 msgid "Did you mean: "
 msgstr "Vouliez-vous dire : "
+
+#~ msgid "Use Google for Text to Speech functionality."
+#~ msgstr "Utiliser Google pour la fonctionnalité Synthèse vocale."
+
+#~ msgid ""
+#~ "Dialect has a GNOME Search Provider. Enabling or disabling Live "
+#~ "Translation here will also enable or disable the GNOME Search Provider. "
+#~ "This is to reduce the possibility of API abuse. Also make sure that the "
+#~ "feature is enabled in GNOME Settings."
+#~ msgstr ""
+#~ "Dialect a un fournisseur de recherche GNOME. Activer ou désactiver "
+#~ "Traduction simultanée ici activera ou désactivera également le "
+#~ "fournisseur de recherche GNOME. Ceci a pour but de réduire les risques "
+#~ "d'abus de l'API. Assurez-vous également que la fonctionnalité est activée "
+#~ "dans les paramètres GNOME."
+
+#~ msgid "Failed loading translator backend"
+#~ msgstr "Échec du chargement du backend du traducteur"
+
+#~ msgid "Translation in progress..."
+#~ msgstr "Traduction en cours…"
+
+#~ msgid "Translation seems to have failed"
+#~ msgstr "La traduction semble avoir échoué"

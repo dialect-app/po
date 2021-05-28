@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-27 08:53-0500\n"
+"POT-Creation-Date: 2021-05-28 22:45+0530\n"
 "PO-Revision-Date: 2021-05-23 15:30+0000\n"
 "Last-Translator: Mufeed Ali <fushinari@protonmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -22,8 +22,8 @@ msgstr ""
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/window.ui:66
-#: dialect/main.py:53 dialect/main.py:88
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/about.ui:10
+#: data/resources/window.ui:66 dialect/main.py:53 dialect/main.py:89
 msgid "Dialect"
 msgstr "Dialect"
 
@@ -73,16 +73,20 @@ msgstr "Автоматическое определение языка"
 msgid "Clipboard buttons"
 msgstr "Работа с буфером обмена"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:26
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:27
 msgid "The Dialect Authors"
 msgstr "Авторы Dialect"
 
 #: data/resources/about.ui:11
-msgid "Copyright 2020-2021 The Dialect Authors"
+#, fuzzy
+#| msgid "Copyright 2020-2021 The Dialect Authors"
+msgid "Copyright 2020–⁠2021 The Dialect Authors"
 msgstr "Copyright 2020-2021 Авторы Dialect"
 
 #: data/resources/about.ui:14
-msgid "Github page"
+#, fuzzy
+#| msgid "Github page"
+msgid "GitHub page"
 msgstr "Страница Github"
 
 #. Replace me with your names.
@@ -133,7 +137,9 @@ msgid "Translation Shortcut"
 msgstr "Комбинация клавиш для перевода"
 
 #: data/resources/preferences.ui:55
-msgid "Unselected choice will be used for line break."
+#, fuzzy
+#| msgid "Unselected choice will be used for line break."
+msgid "The unselected choice will be used for line break."
 msgstr ""
 "Невыбранный вариант будет перемещать\n"
 "курсор на новую строку."
@@ -143,7 +149,9 @@ msgid "Default to Auto"
 msgstr "Автоопределение по умолчанию"
 
 #: data/resources/preferences.ui:62
-msgid "Use \"Auto\" as the default language on every launch"
+#, fuzzy
+#| msgid "Use \"Auto\" as the default language on every launch"
+msgid "Use \"Auto\" as the default language"
 msgstr ""
 "Автоматически определять исходный язык\n"
 "при каждом запуске"
@@ -161,7 +169,9 @@ msgid "Translator Instance"
 msgstr "Экземпляр переводчика"
 
 #: data/resources/preferences.ui:84
-msgid "Specify URL of translation service."
+#, fuzzy
+#| msgid "Specify URL of translation service."
+msgid "Enter a translation service URL."
 msgstr "Укажите URL сервиса перевода."
 
 #: data/resources/preferences.ui:109
@@ -177,12 +187,14 @@ msgid "Save"
 msgstr "Сохранить"
 
 #: data/resources/preferences.ui:175
-msgid "Text to Speech"
+#, fuzzy
+#| msgid "Text to Speech"
+msgid "Text-to-Speech"
 msgstr "Прослушивание текста"
 
 #: data/resources/preferences.ui:176
-msgid "Use Google for Text to Speech functionality."
-msgstr "Использовать Google для синтеза речи."
+msgid "Use Google for TTS."
+msgstr ""
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
@@ -190,15 +202,10 @@ msgstr "Провайдер поиска"
 
 #: data/resources/preferences.ui:193
 msgid ""
-"Dialect has a GNOME Search Provider. Enabling or disabling Live Translation "
-"here will also enable or disable the GNOME Search Provider. This is to "
-"reduce the possibility of API abuse. Also make sure that the feature is "
-"enabled in GNOME Settings."
+"To reduce API abuse, the GNOME search provider in Dialect is turned off when "
+"Live translation is. Ensure the search provider is also turned on in the "
+"GNOME Settings."
 msgstr ""
-"Dialect имеет функцию перевода в поиске GNOME. Включение или отключение "
-"перевода по мере ввода здесь также включает или отключает провайдер поиска. "
-"Это сделано для уменьшения возможности злоупотребления API. Также убедитесь, "
-"что эта функция включена в настройках GNOME."
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
@@ -216,17 +223,28 @@ msgid "Translate"
 msgstr "Перевести"
 
 #: data/resources/shortcuts-window.ui:31
+#, fuzzy
+#| msgid "Switch languages"
+msgctxt "shortcuts window"
+msgid "Switch Languages"
+msgstr "Обратный перевод"
+
+#: data/resources/shortcuts-window.ui:38
 msgctxt "shortcuts window"
 msgid "Quit"
 msgstr "Выход"
 
 #: data/resources/window.ui:42
-msgid "Loading..."
+#, fuzzy
+#| msgid "Loading..."
+msgid "Loading…"
 msgstr "Загрузка..."
 
 #: data/resources/window.ui:83
-msgid "Failed loading translator backend"
-msgstr "Ошибка загрузки переводчика"
+#, fuzzy
+#| msgid "Choose from the available translation services."
+msgid "Could not load the translator service"
+msgstr "Выберите один из доступных сервисов."
 
 #: data/resources/window.ui:108
 msgid "Retry"
@@ -236,47 +254,49 @@ msgstr "Повторить"
 msgid "Open preferences"
 msgstr "Открыть параметры"
 
-#: data/resources/window.ui:193 data/resources/window.ui:726
+#: data/resources/window.ui:194 data/resources/window.ui:727
 msgid "Switch languages"
 msgstr "Обратный перевод"
 
-#: data/resources/window.ui:273
+#: data/resources/window.ui:274
 msgid "Previous translation"
 msgstr "Предыдущий перевод"
 
-#: data/resources/window.ui:292
+#: data/resources/window.ui:293
 msgid "Next translation"
 msgstr "Следующий перевод"
 
-#: data/resources/window.ui:453
+#: data/resources/window.ui:454
 msgid "Clear"
 msgstr "Очистить"
 
-#: data/resources/window.ui:468
+#: data/resources/window.ui:469
 msgid "Paste"
 msgstr "Вставить"
 
-#: data/resources/window.ui:484 data/resources/window.ui:622
+#: data/resources/window.ui:485 data/resources/window.ui:623
 msgid "Listen"
 msgstr "Прослушать"
 
-#: data/resources/window.ui:492
+#: data/resources/window.ui:493
 msgid "Translate"
 msgstr "Перевести"
 
-#: data/resources/window.ui:603
-msgid "Translation in progress..."
-msgstr "Перевод в процессе..."
+#: data/resources/window.ui:604
+#, fuzzy
+#| msgid "Translate"
+msgid "Translating…"
+msgstr "Перевести"
 
-#: data/resources/window.ui:611
-msgid "Translation seems to have failed"
-msgstr "Похоже, текст не удалось перевести"
+#: data/resources/window.ui:612
+msgid "Could not translate the text"
+msgstr ""
 
-#: data/resources/window.ui:637
+#: data/resources/window.ui:638
 msgid "Copy"
 msgstr "Копировать"
 
-#: data/resources/window.ui:817
+#: data/resources/window.ui:819
 msgid "No network connection detected."
 msgstr "Сетевое соединение не обнаружено."
 
@@ -297,15 +317,15 @@ msgstr ""
 "Возникла проблема с соединением.\n"
 "Пожалуйста, повторите попытку."
 
-#: dialect/window.py:507 dialect/window.py:511
+#: dialect/window.py:501 dialect/window.py:505
 msgid "Auto"
 msgstr "Определить язык"
 
-#: dialect/window.py:784
+#: dialect/window.py:778
 msgid "5000 characters limit reached!"
 msgstr "Достигнут лимит в 5000 символов!"
 
-#: dialect/window.py:876
+#: dialect/window.py:870
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
@@ -313,9 +333,32 @@ msgstr ""
 "Не удалось перевести текст.\n"
 "Пожалуйста, проверьте соединение."
 
-#: dialect/window.py:892
+#: dialect/window.py:886
 msgid "Did you mean: "
 msgstr "Возможно, вы имели в виду: "
+
+#~ msgid "Use Google for Text to Speech functionality."
+#~ msgstr "Использовать Google для синтеза речи."
+
+#~ msgid ""
+#~ "Dialect has a GNOME Search Provider. Enabling or disabling Live "
+#~ "Translation here will also enable or disable the GNOME Search Provider. "
+#~ "This is to reduce the possibility of API abuse. Also make sure that the "
+#~ "feature is enabled in GNOME Settings."
+#~ msgstr ""
+#~ "Dialect имеет функцию перевода в поиске GNOME. Включение или отключение "
+#~ "перевода по мере ввода здесь также включает или отключает провайдер "
+#~ "поиска. Это сделано для уменьшения возможности злоупотребления API. Также "
+#~ "убедитесь, что эта функция включена в настройках GNOME."
+
+#~ msgid "Failed loading translator backend"
+#~ msgstr "Ошибка загрузки переводчика"
+
+#~ msgid "Translation in progress..."
+#~ msgstr "Перевод в процессе..."
+
+#~ msgid "Translation seems to have failed"
+#~ msgstr "Похоже, текст не удалось перевести"
 
 #~ msgid "gi-lom"
 #~ msgstr "gi-lom"

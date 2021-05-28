@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-27 08:53-0500\n"
+"POT-Creation-Date: 2021-05-28 22:45+0530\n"
 "PO-Revision-Date: 2021-05-23 15:30+0000\n"
 "Last-Translator: Mufeed Ali <fushinari@protonmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/dialect/"
@@ -21,8 +21,8 @@ msgstr ""
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/window.ui:66
-#: dialect/main.py:53 dialect/main.py:88
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/about.ui:10
+#: data/resources/window.ui:66 dialect/main.py:53 dialect/main.py:89
 msgid "Dialect"
 msgstr "Dialect"
 
@@ -72,16 +72,20 @@ msgstr "Automatikus nyelvfelismerés"
 msgid "Clipboard buttons"
 msgstr "Vágólap gombok"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:26
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:27
 msgid "The Dialect Authors"
 msgstr "A Dialect szerzői"
 
 #: data/resources/about.ui:11
-msgid "Copyright 2020-2021 The Dialect Authors"
+#, fuzzy
+#| msgid "Copyright 2020-2021 The Dialect Authors"
+msgid "Copyright 2020–⁠2021 The Dialect Authors"
 msgstr "Copyright 2020-2021 A Dialect szerzői"
 
 #: data/resources/about.ui:14
-msgid "Github page"
+#, fuzzy
+#| msgid "Github page"
+msgid "GitHub page"
 msgstr "Github oldal"
 
 #. Replace me with your names.
@@ -131,7 +135,9 @@ msgid "Translation Shortcut"
 msgstr "Fordítás gyorsbillentyűje"
 
 #: data/resources/preferences.ui:55
-msgid "Unselected choice will be used for line break."
+#, fuzzy
+#| msgid "Unselected choice will be used for line break."
+msgid "The unselected choice will be used for line break."
 msgstr "A nem kiválasztott lehetőség lesz az új sorhoz használva."
 
 #: data/resources/preferences.ui:61
@@ -139,7 +145,9 @@ msgid "Default to Auto"
 msgstr "Alapértelmezés szerint „Automatikus”"
 
 #: data/resources/preferences.ui:62
-msgid "Use \"Auto\" as the default language on every launch"
+#, fuzzy
+#| msgid "Use \"Auto\" as the default language on every launch"
+msgid "Use \"Auto\" as the default language"
 msgstr ""
 "„Automatikus” lehetőség használata alapértelmezett nyelvként minden "
 "indításkor"
@@ -157,7 +165,9 @@ msgid "Translator Instance"
 msgstr "Fordító példány"
 
 #: data/resources/preferences.ui:84
-msgid "Specify URL of translation service."
+#, fuzzy
+#| msgid "Specify URL of translation service."
+msgid "Enter a translation service URL."
 msgstr "Adja meg a fordítási szolgálatás URL-jét."
 
 #: data/resources/preferences.ui:109
@@ -173,12 +183,14 @@ msgid "Save"
 msgstr "Mentés"
 
 #: data/resources/preferences.ui:175
-msgid "Text to Speech"
+#, fuzzy
+#| msgid "Text to Speech"
+msgid "Text-to-Speech"
 msgstr "Szöveg beszéddé alakítása"
 
 #: data/resources/preferences.ui:176
-msgid "Use Google for Text to Speech functionality."
-msgstr "Google használata a szöveg beszéddé alakítása funkcióhoz."
+msgid "Use Google for TTS."
+msgstr ""
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
@@ -186,15 +198,10 @@ msgstr "Keresésszolgáltató"
 
 #: data/resources/preferences.ui:193
 msgid ""
-"Dialect has a GNOME Search Provider. Enabling or disabling Live Translation "
-"here will also enable or disable the GNOME Search Provider. This is to "
-"reduce the possibility of API abuse. Also make sure that the feature is "
-"enabled in GNOME Settings."
+"To reduce API abuse, the GNOME search provider in Dialect is turned off when "
+"Live translation is. Ensure the search provider is also turned on in the "
+"GNOME Settings."
 msgstr ""
-"A Dialect egy GNOME-os keresésszolgáltatóval rendelkezik. Az Élő fordítások "
-"be- vagy kikapcsolása a GNOME-os keresésszolgáltatót is be- vagy "
-"kikapcsolja. Ez csökkenti az API-val való visszaélés lehetőségét. Győződjön "
-"meg arról, hogy a funkció engedélyezett a GNOME Beállításokban."
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
@@ -212,17 +219,28 @@ msgid "Translate"
 msgstr "Fordítás"
 
 #: data/resources/shortcuts-window.ui:31
+#, fuzzy
+#| msgid "Switch languages"
+msgctxt "shortcuts window"
+msgid "Switch Languages"
+msgstr "Nyelvek felcserélése"
+
+#: data/resources/shortcuts-window.ui:38
 msgctxt "shortcuts window"
 msgid "Quit"
 msgstr "Kilépés"
 
 #: data/resources/window.ui:42
-msgid "Loading..."
+#, fuzzy
+#| msgid "Loading..."
+msgid "Loading…"
 msgstr "Betöltés…"
 
 #: data/resources/window.ui:83
-msgid "Failed loading translator backend"
-msgstr "A fordítási háttérszolgáltatás betöltése sikertelen"
+#, fuzzy
+#| msgid "Choose from the available translation services."
+msgid "Could not load the translator service"
+msgstr "Válasszon az elérhető fordítási szolgáltatások közül."
 
 #: data/resources/window.ui:108
 msgid "Retry"
@@ -232,47 +250,49 @@ msgstr "Újra"
 msgid "Open preferences"
 msgstr "Beállítások megnyitása"
 
-#: data/resources/window.ui:193 data/resources/window.ui:726
+#: data/resources/window.ui:194 data/resources/window.ui:727
 msgid "Switch languages"
 msgstr "Nyelvek felcserélése"
 
-#: data/resources/window.ui:273
+#: data/resources/window.ui:274
 msgid "Previous translation"
 msgstr "Előző fordítás"
 
-#: data/resources/window.ui:292
+#: data/resources/window.ui:293
 msgid "Next translation"
 msgstr "Következő fordítás"
 
-#: data/resources/window.ui:453
+#: data/resources/window.ui:454
 msgid "Clear"
 msgstr "Törlés"
 
-#: data/resources/window.ui:468
+#: data/resources/window.ui:469
 msgid "Paste"
 msgstr "Beillesztés"
 
-#: data/resources/window.ui:484 data/resources/window.ui:622
+#: data/resources/window.ui:485 data/resources/window.ui:623
 msgid "Listen"
 msgstr "Meghallgatás"
 
-#: data/resources/window.ui:492
+#: data/resources/window.ui:493
 msgid "Translate"
 msgstr "Fordítás"
 
-#: data/resources/window.ui:603
-msgid "Translation in progress..."
-msgstr "Fordítás folyamatban…"
+#: data/resources/window.ui:604
+#, fuzzy
+#| msgid "Translate"
+msgid "Translating…"
+msgstr "Fordítás"
 
-#: data/resources/window.ui:611
-msgid "Translation seems to have failed"
-msgstr "Úgy tűnik, hogy a fordítás sikertelen"
+#: data/resources/window.ui:612
+msgid "Could not translate the text"
+msgstr ""
 
-#: data/resources/window.ui:637
+#: data/resources/window.ui:638
 msgid "Copy"
 msgstr "Másolás"
 
-#: data/resources/window.ui:817
+#: data/resources/window.ui:819
 msgid "No network connection detected."
 msgstr "Nem észlelhető hálózati kapcsolat."
 
@@ -293,15 +313,15 @@ msgstr ""
 "Hálózati probléma történt.\n"
 "Próbálja újra."
 
-#: dialect/window.py:507 dialect/window.py:511
+#: dialect/window.py:501 dialect/window.py:505
 msgid "Auto"
 msgstr "Automatikus"
 
-#: dialect/window.py:784
+#: dialect/window.py:778
 msgid "5000 characters limit reached!"
 msgstr "5000 karakteres korlát elérve!"
 
-#: dialect/window.py:876
+#: dialect/window.py:870
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
@@ -309,9 +329,32 @@ msgstr ""
 "Fordítás sikertelen.\n"
 "Ellenőrizze, hogy nincs-e hálózati probléma."
 
-#: dialect/window.py:892
+#: dialect/window.py:886
 msgid "Did you mean: "
 msgstr "Erre gondolhatott: "
+
+#~ msgid "Use Google for Text to Speech functionality."
+#~ msgstr "Google használata a szöveg beszéddé alakítása funkcióhoz."
+
+#~ msgid ""
+#~ "Dialect has a GNOME Search Provider. Enabling or disabling Live "
+#~ "Translation here will also enable or disable the GNOME Search Provider. "
+#~ "This is to reduce the possibility of API abuse. Also make sure that the "
+#~ "feature is enabled in GNOME Settings."
+#~ msgstr ""
+#~ "A Dialect egy GNOME-os keresésszolgáltatóval rendelkezik. Az Élő "
+#~ "fordítások be- vagy kikapcsolása a GNOME-os keresésszolgáltatót is be- "
+#~ "vagy kikapcsolja. Ez csökkenti az API-val való visszaélés lehetőségét. "
+#~ "Győződjön meg arról, hogy a funkció engedélyezett a GNOME Beállításokban."
+
+#~ msgid "Failed loading translator backend"
+#~ msgstr "A fordítási háttérszolgáltatás betöltése sikertelen"
+
+#~ msgid "Translation in progress..."
+#~ msgstr "Fordítás folyamatban…"
+
+#~ msgid "Translation seems to have failed"
+#~ msgstr "Úgy tűnik, hogy a fordítás sikertelen"
 
 #~ msgid "gi-lom"
 #~ msgstr "gi-lom"

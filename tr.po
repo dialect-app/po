@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-27 08:53-0500\n"
+"POT-Creation-Date: 2021-05-28 22:45+0530\n"
 "PO-Revision-Date: 2021-05-24 12:55+0000\n"
 "Last-Translator: Bedirhan Tuhana GAYRETLİ <noteqnil@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -20,8 +20,8 @@ msgstr ""
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/window.ui:66
-#: dialect/main.py:53 dialect/main.py:88
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/about.ui:10
+#: data/resources/window.ui:66 dialect/main.py:53 dialect/main.py:89
 msgid "Dialect"
 msgstr "Dialect"
 
@@ -71,16 +71,20 @@ msgstr "Otomatik dil algılama"
 msgid "Clipboard buttons"
 msgstr "Pano düğmeleri"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:26
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:27
 msgid "The Dialect Authors"
 msgstr "Dialect Yaratıcıları"
 
 #: data/resources/about.ui:11
-msgid "Copyright 2020-2021 The Dialect Authors"
+#, fuzzy
+#| msgid "Copyright 2020-2021 The Dialect Authors"
+msgid "Copyright 2020–⁠2021 The Dialect Authors"
 msgstr "Telif Hakkı 2020-2021 Dialect Yaratıcıları"
 
 #: data/resources/about.ui:14
-msgid "Github page"
+#, fuzzy
+#| msgid "Github page"
+msgid "GitHub page"
 msgstr "Github sayfası"
 
 #. Replace me with your names.
@@ -132,7 +136,9 @@ msgid "Translation Shortcut"
 msgstr "Çeviri Kısayolu"
 
 #: data/resources/preferences.ui:55
-msgid "Unselected choice will be used for line break."
+#, fuzzy
+#| msgid "Unselected choice will be used for line break."
+msgid "The unselected choice will be used for line break."
 msgstr "Seçilmemiş seçim satır sonu için kullanılacaktır."
 
 #: data/resources/preferences.ui:61
@@ -140,7 +146,9 @@ msgid "Default to Auto"
 msgstr "Varsayılan Olarak Otomatik"
 
 #: data/resources/preferences.ui:62
-msgid "Use \"Auto\" as the default language on every launch"
+#, fuzzy
+#| msgid "Use \"Auto\" as the default language on every launch"
+msgid "Use \"Auto\" as the default language"
 msgstr "Her başlatmada varsayılan dil olarak \"Otomatik\" kullan"
 
 #: data/resources/preferences.ui:76
@@ -156,7 +164,9 @@ msgid "Translator Instance"
 msgstr "Çevirmen Örneği"
 
 #: data/resources/preferences.ui:84
-msgid "Specify URL of translation service."
+#, fuzzy
+#| msgid "Specify URL of translation service."
+msgid "Enter a translation service URL."
 msgstr "Çeviri hizmetinin URL adresini belirtin."
 
 #: data/resources/preferences.ui:109
@@ -172,12 +182,14 @@ msgid "Save"
 msgstr "Kaydet"
 
 #: data/resources/preferences.ui:175
-msgid "Text to Speech"
+#, fuzzy
+#| msgid "Text to Speech"
+msgid "Text-to-Speech"
 msgstr "Metinden Sese"
 
 #: data/resources/preferences.ui:176
-msgid "Use Google for Text to Speech functionality."
-msgstr "Metinden Sese işlevi için Google kullanın."
+msgid "Use Google for TTS."
+msgstr ""
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
@@ -185,16 +197,10 @@ msgstr "Arama Sağlayıcısı"
 
 #: data/resources/preferences.ui:193
 msgid ""
-"Dialect has a GNOME Search Provider. Enabling or disabling Live Translation "
-"here will also enable or disable the GNOME Search Provider. This is to "
-"reduce the possibility of API abuse. Also make sure that the feature is "
-"enabled in GNOME Settings."
+"To reduce API abuse, the GNOME search provider in Dialect is turned off when "
+"Live translation is. Ensure the search provider is also turned on in the "
+"GNOME Settings."
 msgstr ""
-"Dialect'in bir GNOME Arama Sağlayıcısı vardır. Canlı Çeviri'yi burada "
-"etkinleştirmek veya devre dışı bırakmak, GNOME Arama Sağlayıcısını da "
-"etkinleştirir veya devre dışı bırakır. Bu, API kötüye kullanım olasılığını "
-"azaltmak içindir. Ayrıca, özelliğin GNOME Ayarlarında etkinleştirildiğinden "
-"emin olun."
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
@@ -212,17 +218,28 @@ msgid "Translate"
 msgstr "Çevir"
 
 #: data/resources/shortcuts-window.ui:31
+#, fuzzy
+#| msgid "Switch languages"
+msgctxt "shortcuts window"
+msgid "Switch Languages"
+msgstr "Dili değiştir"
+
+#: data/resources/shortcuts-window.ui:38
 msgctxt "shortcuts window"
 msgid "Quit"
 msgstr "Çıkış"
 
 #: data/resources/window.ui:42
-msgid "Loading..."
+#, fuzzy
+#| msgid "Loading..."
+msgid "Loading…"
 msgstr "Yükleniyor..."
 
 #: data/resources/window.ui:83
-msgid "Failed loading translator backend"
-msgstr "Çeviri arka işlemi yüklenemedi"
+#, fuzzy
+#| msgid "Choose from the available translation services."
+msgid "Could not load the translator service"
+msgstr "Kullanılabilir çeviri hizmetleri arasından seçim yapın."
 
 #: data/resources/window.ui:108
 msgid "Retry"
@@ -232,47 +249,49 @@ msgstr "Yeniden dene"
 msgid "Open preferences"
 msgstr "Tercihleri aç"
 
-#: data/resources/window.ui:193 data/resources/window.ui:726
+#: data/resources/window.ui:194 data/resources/window.ui:727
 msgid "Switch languages"
 msgstr "Dili değiştir"
 
-#: data/resources/window.ui:273
+#: data/resources/window.ui:274
 msgid "Previous translation"
 msgstr "Önceki çeviri"
 
-#: data/resources/window.ui:292
+#: data/resources/window.ui:293
 msgid "Next translation"
 msgstr "Sonraki çeviri"
 
-#: data/resources/window.ui:453
+#: data/resources/window.ui:454
 msgid "Clear"
 msgstr "Temizle"
 
-#: data/resources/window.ui:468
+#: data/resources/window.ui:469
 msgid "Paste"
 msgstr "Yapıştır"
 
-#: data/resources/window.ui:484 data/resources/window.ui:622
+#: data/resources/window.ui:485 data/resources/window.ui:623
 msgid "Listen"
 msgstr "Dinle"
 
-#: data/resources/window.ui:492
+#: data/resources/window.ui:493
 msgid "Translate"
 msgstr "Çevir"
 
-#: data/resources/window.ui:603
-msgid "Translation in progress..."
-msgstr "Çeviri devam ediyor..."
+#: data/resources/window.ui:604
+#, fuzzy
+#| msgid "Translate"
+msgid "Translating…"
+msgstr "Çevir"
 
-#: data/resources/window.ui:611
-msgid "Translation seems to have failed"
-msgstr "Görünüşe göre çeviri başarısız oldu"
+#: data/resources/window.ui:612
+msgid "Could not translate the text"
+msgstr ""
 
-#: data/resources/window.ui:637
+#: data/resources/window.ui:638
 msgid "Copy"
 msgstr "Kopyala"
 
-#: data/resources/window.ui:817
+#: data/resources/window.ui:819
 msgid "No network connection detected."
 msgstr "Ağ bağlantısı algılanmadı."
 
@@ -293,15 +312,15 @@ msgstr ""
 "Ağ sorunu oluştu.\n"
 "Lütfen tekrar deneyin."
 
-#: dialect/window.py:507 dialect/window.py:511
+#: dialect/window.py:501 dialect/window.py:505
 msgid "Auto"
 msgstr "Otomatik"
 
-#: dialect/window.py:784
+#: dialect/window.py:778
 msgid "5000 characters limit reached!"
 msgstr "5000 karakter sınırına ulaşıldı!"
 
-#: dialect/window.py:876
+#: dialect/window.py:870
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
@@ -309,9 +328,33 @@ msgstr ""
 "Çeviri başarısız oldu.\n"
 "Lütfen ağ sorunlarını denetleyin."
 
-#: dialect/window.py:892
+#: dialect/window.py:886
 msgid "Did you mean: "
 msgstr "Bunu mu demek istediniz: "
+
+#~ msgid "Use Google for Text to Speech functionality."
+#~ msgstr "Metinden Sese işlevi için Google kullanın."
+
+#~ msgid ""
+#~ "Dialect has a GNOME Search Provider. Enabling or disabling Live "
+#~ "Translation here will also enable or disable the GNOME Search Provider. "
+#~ "This is to reduce the possibility of API abuse. Also make sure that the "
+#~ "feature is enabled in GNOME Settings."
+#~ msgstr ""
+#~ "Dialect'in bir GNOME Arama Sağlayıcısı vardır. Canlı Çeviri'yi burada "
+#~ "etkinleştirmek veya devre dışı bırakmak, GNOME Arama Sağlayıcısını da "
+#~ "etkinleştirir veya devre dışı bırakır. Bu, API kötüye kullanım "
+#~ "olasılığını azaltmak içindir. Ayrıca, özelliğin GNOME Ayarlarında "
+#~ "etkinleştirildiğinden emin olun."
+
+#~ msgid "Failed loading translator backend"
+#~ msgstr "Çeviri arka işlemi yüklenemedi"
+
+#~ msgid "Translation in progress..."
+#~ msgstr "Çeviri devam ediyor..."
+
+#~ msgid "Translation seems to have failed"
+#~ msgstr "Görünüşe göre çeviri başarısız oldu"
 
 #~ msgid "gi-lom"
 #~ msgstr "gi-lom"
