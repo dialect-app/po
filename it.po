@@ -132,7 +132,8 @@ msgstr "Scorciatoia di Traduzione"
 
 #: data/resources/preferences.ui:55
 msgid "Unselected choice will be used for line break."
-msgstr "La scelta non selezionata verrà utilizzata per l'interruzione di linea."
+msgstr ""
+"La scelta non selezionata verrà utilizzata per l'interruzione di linea."
 
 #: data/resources/preferences.ui:61
 msgid "Default to Auto"
