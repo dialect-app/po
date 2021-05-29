@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-28 22:45+0530\n"
-"PO-Revision-Date: 2021-05-24 12:55+0000\n"
+"PO-Revision-Date: 2021-05-29 00:11+0000\n"
 "Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/dialect/dialect/nl/"
 ">\n"
@@ -77,14 +77,10 @@ msgid "The Dialect Authors"
 msgstr "Het Dialect-team"
 
 #: data/resources/about.ui:11
-#, fuzzy
-#| msgid "Copyright 2020-2021 The Dialect Authors"
 msgid "Copyright 2020–⁠2021 The Dialect Authors"
 msgstr "Copyright 2020-2021 Het Dialect-team"
 
 #: data/resources/about.ui:14
-#, fuzzy
-#| msgid "Github page"
 msgid "GitHub page"
 msgstr "GitHub-pagina"
 
@@ -134,8 +130,6 @@ msgid "Translation Shortcut"
 msgstr "Vertaalsneltoets"
 
 #: data/resources/preferences.ui:55
-#, fuzzy
-#| msgid "Unselected choice will be used for line break."
 msgid "The unselected choice will be used for line break."
 msgstr "De niet-geselecteerde keuze wordt gebruikt voor regelafbreking."
 
@@ -144,8 +138,6 @@ msgid "Default to Auto"
 msgstr "Automatisch detecteren"
 
 #: data/resources/preferences.ui:62
-#, fuzzy
-#| msgid "Use \"Auto\" as the default language on every launch"
 msgid "Use \"Auto\" as the default language"
 msgstr "Gebruik standaard ‘Automatisch detecteren’ als taalkeuze"
 
@@ -162,10 +154,8 @@ msgid "Translator Instance"
 msgstr "Vertaalproces"
 
 #: data/resources/preferences.ui:84
-#, fuzzy
-#| msgid "Specify URL of translation service."
 msgid "Enter a translation service URL."
-msgstr "Voer de url van de vertaaldienst in."
+msgstr "Voer de url van een vertaaldienst in."
 
 #: data/resources/preferences.ui:109
 msgid "Edit"
@@ -180,14 +170,12 @@ msgid "Save"
 msgstr "Opslaan"
 
 #: data/resources/preferences.ui:175
-#, fuzzy
-#| msgid "Text to Speech"
 msgid "Text-to-Speech"
-msgstr "Tekst-naar-spraak"
+msgstr "Voorlezen"
 
 #: data/resources/preferences.ui:176
 msgid "Use Google for TTS."
-msgstr ""
+msgstr "Gebruik Google om voor te lezen."
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
@@ -199,6 +187,9 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
+"Om api-misbruik tegen te gaan, is de GNOME-zoekdienst in Dialect "
+"uitgeschakeld als live-vertaling dat ook is. Zorg er voor dat de zoekdienst "
+"ook is ingeschakeld in de systeeminstellingen."
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
@@ -216,8 +207,6 @@ msgid "Translate"
 msgstr "Vertalen"
 
 #: data/resources/shortcuts-window.ui:31
-#, fuzzy
-#| msgid "Switch languages"
 msgctxt "shortcuts window"
 msgid "Switch Languages"
 msgstr "Talen omwisselen"
@@ -228,16 +217,12 @@ msgid "Quit"
 msgstr "Afsluiten"
 
 #: data/resources/window.ui:42
-#, fuzzy
-#| msgid "Loading..."
 msgid "Loading…"
 msgstr "Bezig met laden…"
 
 #: data/resources/window.ui:83
-#, fuzzy
-#| msgid "Choose from the available translation services."
 msgid "Could not load the translator service"
-msgstr "Kies één van de beschikbare vertaaldiensten."
+msgstr "De vertaaldienst kan niet worden geladen"
 
 #: data/resources/window.ui:108
 msgid "Retry"
@@ -276,14 +261,12 @@ msgid "Translate"
 msgstr "Vertalen"
 
 #: data/resources/window.ui:604
-#, fuzzy
-#| msgid "Translate"
 msgid "Translating…"
-msgstr "Vertalen"
+msgstr "Bezig met vertalen…"
 
 #: data/resources/window.ui:612
 msgid "Could not translate the text"
-msgstr ""
+msgstr "De tekst kan niet worden vertaald"
 
 #: data/resources/window.ui:638
 msgid "Copy"
