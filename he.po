@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-28 22:45+0530\n"
-"PO-Revision-Date: 2021-05-24 12:55+0000\n"
+"PO-Revision-Date: 2021-05-29 00:11+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/dialect/dialect/"
 "he/>\n"
@@ -25,7 +25,7 @@ msgstr ""
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/about.ui:10
 #: data/resources/window.ui:66 dialect/main.py:53 dialect/main.py:89
 msgid "Dialect"
-msgstr "דיאלקט"
+msgstr "Dialect"
 
 #: data/com.github.gi_lom.dialect.desktop.in:9
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:7
@@ -75,17 +75,13 @@ msgstr "כפתורי לוח גזירים"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:27
 msgid "The Dialect Authors"
-msgstr "יוצרי דיאלקט"
+msgstr "יוצרי Dialect"
 
 #: data/resources/about.ui:11
-#, fuzzy
-#| msgid "Copyright 2020-2021 The Dialect Authors"
 msgid "Copyright 2020–⁠2021 The Dialect Authors"
-msgstr "כל הזכויות שמורות 2020‏-2021 ליוצרי דיאלקט"
+msgstr "כל הזכויות שמורות 2020‏-2021 ליוצרי Dialect"
 
 #: data/resources/about.ui:14
-#, fuzzy
-#| msgid "Github page"
 msgid "GitHub page"
 msgstr "עמוד ה־GitHub"
 
@@ -108,7 +104,7 @@ msgstr "קיצורי מקלדת"
 
 #: data/resources/menu.ui:22
 msgid "About Dialect"
-msgstr "על אודות דיאלקט"
+msgstr "על אודות Dialect"
 
 #: data/resources/preferences.ui:15
 msgid "Appearance"
@@ -135,8 +131,6 @@ msgid "Translation Shortcut"
 msgstr "קיצור דרך לתרגום"
 
 #: data/resources/preferences.ui:55
-#, fuzzy
-#| msgid "Unselected choice will be used for line break."
 msgid "The unselected choice will be used for line break."
 msgstr "האפשרות שלא נבחרה תשמש כירידת שורה."
 
@@ -145,10 +139,8 @@ msgid "Default to Auto"
 msgstr "בררת המחדל היא אוטומטי"
 
 #: data/resources/preferences.ui:62
-#, fuzzy
-#| msgid "Use \"Auto\" as the default language on every launch"
 msgid "Use \"Auto\" as the default language"
-msgstr "להשתמש ב„אוטומטי” כשפת בררת המחדל עם כל הפעלה של היישום"
+msgstr "להשתמש ב„אוטומטי” כשפת בררת המחדל"
 
 #: data/resources/preferences.ui:76
 msgid "Translator"
@@ -163,10 +155,8 @@ msgid "Translator Instance"
 msgstr "עותק שירות תרגום"
 
 #: data/resources/preferences.ui:84
-#, fuzzy
-#| msgid "Specify URL of translation service."
 msgid "Enter a translation service URL."
-msgstr "ציון כתובת שירות התרגום."
+msgstr "נא למלא כתובת שירות תרגום."
 
 #: data/resources/preferences.ui:109
 msgid "Edit"
@@ -181,14 +171,12 @@ msgid "Save"
 msgstr "שמירה"
 
 #: data/resources/preferences.ui:175
-#, fuzzy
-#| msgid "Text to Speech"
 msgid "Text-to-Speech"
 msgstr "טקסט לדיבור"
 
 #: data/resources/preferences.ui:176
 msgid "Use Google for TTS."
-msgstr ""
+msgstr "להשתמש ב־Google עבור טקסט לדיבור."
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
@@ -200,6 +188,8 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
+"כדי למזער ניצול לרעה של ה־API, ספק החיפוש של GNOME ב־Dialect כבוי כאשר תרגום "
+"בזמן אמת פעיל. נא לוודא שספק בחיפוש פעיל גם הוא בהגדרות של GNOME."
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
@@ -217,11 +207,9 @@ msgid "Translate"
 msgstr "תרגום"
 
 #: data/resources/shortcuts-window.ui:31
-#, fuzzy
-#| msgid "Switch languages"
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr "החלפת שפות"
+msgstr "הצרחת שפות"
 
 #: data/resources/shortcuts-window.ui:38
 msgctxt "shortcuts window"
@@ -229,16 +217,12 @@ msgid "Quit"
 msgstr "יציאה"
 
 #: data/resources/window.ui:42
-#, fuzzy
-#| msgid "Loading..."
 msgid "Loading…"
 msgstr "בטעינה…"
 
 #: data/resources/window.ui:83
-#, fuzzy
-#| msgid "Choose from the available translation services."
 msgid "Could not load the translator service"
-msgstr "בחירה משירותי התרגום הזמינים."
+msgstr "לא ניתן לטעון את שירות התרגום"
 
 #: data/resources/window.ui:108
 msgid "Retry"
@@ -277,14 +261,12 @@ msgid "Translate"
 msgstr "תרגום"
 
 #: data/resources/window.ui:604
-#, fuzzy
-#| msgid "Translate"
 msgid "Translating…"
-msgstr "תרגום"
+msgstr "מתבצע תרגום…"
 
 #: data/resources/window.ui:612
 msgid "Could not translate the text"
-msgstr ""
+msgstr "לא ניתן לתרגם את הטקסט"
 
 #: data/resources/window.ui:638
 msgid "Copy"
