@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-28 22:45+0530\n"
-"PO-Revision-Date: 2021-05-24 01:15+0000\n"
+"PO-Revision-Date: 2021-05-29 00:11+0000\n"
 "Last-Translator: Swann Fournial <s.fournial@protonmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/dialect/dialect/"
 "fr/>\n"
@@ -77,14 +77,10 @@ msgid "The Dialect Authors"
 msgstr "Les auteurs de Dialect"
 
 #: data/resources/about.ui:11
-#, fuzzy
-#| msgid "Copyright 2020-2021 The Dialect Authors"
 msgid "Copyright 2020–⁠2021 The Dialect Authors"
 msgstr "Copyright 2020-2021 Les auteurs de Dialect"
 
 #: data/resources/about.ui:14
-#, fuzzy
-#| msgid "Github page"
 msgid "GitHub page"
 msgstr "Page GitHub"
 
@@ -134,8 +130,6 @@ msgid "Translation Shortcut"
 msgstr "Raccourci de traduction"
 
 #: data/resources/preferences.ui:55
-#, fuzzy
-#| msgid "Unselected choice will be used for line break."
 msgid "The unselected choice will be used for line break."
 msgstr "Le choix non sélectionné sera utilisé pour le saut de ligne."
 
@@ -144,10 +138,8 @@ msgid "Default to Auto"
 msgstr "Par défaut sur Auto"
 
 #: data/resources/preferences.ui:62
-#, fuzzy
-#| msgid "Use \"Auto\" as the default language on every launch"
 msgid "Use \"Auto\" as the default language"
-msgstr "Utiliser « Auto » comme langue par défaut à chaque lancement"
+msgstr "Utiliser « Auto » comme langue par défaut"
 
 #: data/resources/preferences.ui:76
 msgid "Translator"
@@ -162,10 +154,8 @@ msgid "Translator Instance"
 msgstr "Instance de traducteur"
 
 #: data/resources/preferences.ui:84
-#, fuzzy
-#| msgid "Specify URL of translation service."
 msgid "Enter a translation service URL."
-msgstr "Indiquez l'URL du service de traduction."
+msgstr "Entrez l'URL d'un service de traduction."
 
 #: data/resources/preferences.ui:109
 msgid "Edit"
@@ -180,14 +170,12 @@ msgid "Save"
 msgstr "Enregistrer"
 
 #: data/resources/preferences.ui:175
-#, fuzzy
-#| msgid "Text to Speech"
 msgid "Text-to-Speech"
 msgstr "Synthèse vocale"
 
 #: data/resources/preferences.ui:176
 msgid "Use Google for TTS."
-msgstr ""
+msgstr "Utiliser Google pour la synthèse vocale."
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
@@ -199,6 +187,9 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
+"Pour réduire les abus d'API, le fournisseur de recherche GNOME dans Dialect "
+"est désactivé lorsque la traduction en direct est activée. Assurez-vous que "
+"le fournisseur de recherche soit également activé dans les paramètres GNOME."
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
@@ -216,8 +207,6 @@ msgid "Translate"
 msgstr "Traduire"
 
 #: data/resources/shortcuts-window.ui:31
-#, fuzzy
-#| msgid "Switch languages"
 msgctxt "shortcuts window"
 msgid "Switch Languages"
 msgstr "Intervertir les langues"
@@ -228,16 +217,12 @@ msgid "Quit"
 msgstr "Quitter"
 
 #: data/resources/window.ui:42
-#, fuzzy
-#| msgid "Loading..."
 msgid "Loading…"
 msgstr "Chargement…"
 
 #: data/resources/window.ui:83
-#, fuzzy
-#| msgid "Choose from the available translation services."
 msgid "Could not load the translator service"
-msgstr "Choisissez parmi les services de traduction disponibles."
+msgstr "Impossible de charger le service de traduction"
 
 #: data/resources/window.ui:108
 msgid "Retry"
@@ -276,14 +261,12 @@ msgid "Translate"
 msgstr "Traduire"
 
 #: data/resources/window.ui:604
-#, fuzzy
-#| msgid "Translate"
 msgid "Translating…"
-msgstr "Traduire"
+msgstr "Traduction…"
 
 #: data/resources/window.ui:612
 msgid "Could not translate the text"
-msgstr ""
+msgstr "Impossible de traduire le texte"
 
 #: data/resources/window.ui:638
 msgid "Copy"
