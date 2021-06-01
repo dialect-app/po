@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-28 22:45+0530\n"
-"PO-Revision-Date: 2021-05-23 15:30+0000\n"
-"Last-Translator: Mufeed Ali <fushinari@protonmail.com>\n"
+"PO-Revision-Date: 2021-06-01 10:32+0000\n"
+"Last-Translator: liimee <alt3753.7@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/dialect/"
 "dialect/id/>\n"
 "Language: id\n"
@@ -77,16 +77,12 @@ msgid "The Dialect Authors"
 msgstr "Penulis Dialect"
 
 #: data/resources/about.ui:11
-#, fuzzy
-#| msgid "Copyright 2020-2021 The Dialect Authors"
 msgid "Copyright 2020–⁠2021 The Dialect Authors"
-msgstr "Hak Cipta 2020-2021 Penulis Dialect"
+msgstr "Hak Cipta 2020–2021 Penulis Dialect"
 
 #: data/resources/about.ui:14
-#, fuzzy
-#| msgid "Github page"
 msgid "GitHub page"
-msgstr "Halaman Github"
+msgstr "Halaman GitHub"
 
 #. Replace me with your names.
 #: data/resources/about.ui:19
@@ -134,8 +130,6 @@ msgid "Translation Shortcut"
 msgstr "Pintasan Terjemahan"
 
 #: data/resources/preferences.ui:55
-#, fuzzy
-#| msgid "Unselected choice will be used for line break."
 msgid "The unselected choice will be used for line break."
 msgstr "Pilihan yang tidak dipilih akan digunakan untuk hentian baris."
 
@@ -144,10 +138,8 @@ msgid "Default to Auto"
 msgstr "Bawaan ke Otomatis"
 
 #: data/resources/preferences.ui:62
-#, fuzzy
-#| msgid "Use \"Auto\" as the default language on every launch"
 msgid "Use \"Auto\" as the default language"
-msgstr "Gunakan \"Otomatis\" sebagai bahasa bawan pada setiap peluncuran"
+msgstr "Gunakan \"Otomatis\" sebagai bahasa bawaan"
 
 #: data/resources/preferences.ui:76
 msgid "Translator"
@@ -162,10 +154,8 @@ msgid "Translator Instance"
 msgstr "Instansi Penerjemah"
 
 #: data/resources/preferences.ui:84
-#, fuzzy
-#| msgid "Specify URL of translation service."
 msgid "Enter a translation service URL."
-msgstr "Tentukan URL layanan penerjemahan."
+msgstr "Masukkan URL layanan penerjemahan."
 
 #: data/resources/preferences.ui:109
 msgid "Edit"
@@ -180,14 +170,12 @@ msgid "Save"
 msgstr "Simpan"
 
 #: data/resources/preferences.ui:175
-#, fuzzy
-#| msgid "Text to Speech"
 msgid "Text-to-Speech"
 msgstr "Teks ke Ucapan"
 
 #: data/resources/preferences.ui:176
 msgid "Use Google for TTS."
-msgstr ""
+msgstr "Gunakan Google untuk Teks Ke Ucapan."
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
@@ -199,6 +187,9 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
+"Untuk mengurangi penyalahgunaan API, penyedia pencarian GNOME di Dialect "
+"dinonaktifkan jika Terjemahan Langsung juga nonaktif. Pastikan penyedia "
+"pencarian juga diaktifkan di Pengaturan GNOME."
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
@@ -216,11 +207,9 @@ msgid "Translate"
 msgstr "Terjemahkan"
 
 #: data/resources/shortcuts-window.ui:31
-#, fuzzy
-#| msgid "Switch languages"
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr "Beralih bahasa"
+msgstr "Beralih Bahasa"
 
 #: data/resources/shortcuts-window.ui:38
 msgctxt "shortcuts window"
@@ -228,16 +217,12 @@ msgid "Quit"
 msgstr "Keluar"
 
 #: data/resources/window.ui:42
-#, fuzzy
-#| msgid "Loading..."
 msgid "Loading…"
-msgstr "Memuat..."
+msgstr "Memuat…"
 
 #: data/resources/window.ui:83
-#, fuzzy
-#| msgid "Choose from the available translation services."
 msgid "Could not load the translator service"
-msgstr "Pilih dari layanan terjemahan yang tersedia."
+msgstr "Tidak dapat memuat layanan penerjemah"
 
 #: data/resources/window.ui:108
 msgid "Retry"
@@ -276,14 +261,12 @@ msgid "Translate"
 msgstr "Terjemahkan"
 
 #: data/resources/window.ui:604
-#, fuzzy
-#| msgid "Translate"
 msgid "Translating…"
-msgstr "Terjemahkan"
+msgstr "Menerjemahkan…"
 
 #: data/resources/window.ui:612
 msgid "Could not translate the text"
-msgstr ""
+msgstr "Tidak dapat menerjemahkan teks"
 
 #: data/resources/window.ui:638
 msgid "Copy"
