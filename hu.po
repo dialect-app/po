@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-28 22:45+0530\n"
-"PO-Revision-Date: 2021-05-23 15:30+0000\n"
-"Last-Translator: Mufeed Ali <fushinari@protonmail.com>\n"
+"PO-Revision-Date: 2021-06-01 10:32+0000\n"
+"Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/dialect/"
 "dialect/hu/>\n"
 "Language: hu\n"
@@ -77,16 +77,12 @@ msgid "The Dialect Authors"
 msgstr "A Dialect szerzői"
 
 #: data/resources/about.ui:11
-#, fuzzy
-#| msgid "Copyright 2020-2021 The Dialect Authors"
 msgid "Copyright 2020–⁠2021 The Dialect Authors"
-msgstr "Copyright 2020-2021 A Dialect szerzői"
+msgstr "Copyright 2020–2021 A Dialect szerzői"
 
 #: data/resources/about.ui:14
-#, fuzzy
-#| msgid "Github page"
 msgid "GitHub page"
-msgstr "Github oldal"
+msgstr "GitHub oldal"
 
 #. Replace me with your names.
 #: data/resources/about.ui:19
@@ -135,8 +131,6 @@ msgid "Translation Shortcut"
 msgstr "Fordítás gyorsbillentyűje"
 
 #: data/resources/preferences.ui:55
-#, fuzzy
-#| msgid "Unselected choice will be used for line break."
 msgid "The unselected choice will be used for line break."
 msgstr "A nem kiválasztott lehetőség lesz az új sorhoz használva."
 
@@ -145,12 +139,8 @@ msgid "Default to Auto"
 msgstr "Alapértelmezés szerint „Automatikus”"
 
 #: data/resources/preferences.ui:62
-#, fuzzy
-#| msgid "Use \"Auto\" as the default language on every launch"
 msgid "Use \"Auto\" as the default language"
-msgstr ""
-"„Automatikus” lehetőség használata alapértelmezett nyelvként minden "
-"indításkor"
+msgstr "„Automatikus” lehetőség használata alapértelmezett nyelvként"
 
 #: data/resources/preferences.ui:76
 msgid "Translator"
@@ -165,10 +155,8 @@ msgid "Translator Instance"
 msgstr "Fordító példány"
 
 #: data/resources/preferences.ui:84
-#, fuzzy
-#| msgid "Specify URL of translation service."
 msgid "Enter a translation service URL."
-msgstr "Adja meg a fordítási szolgálatás URL-jét."
+msgstr "Adja meg a fordítási szolgáltatás URL-jét."
 
 #: data/resources/preferences.ui:109
 msgid "Edit"
@@ -183,14 +171,12 @@ msgid "Save"
 msgstr "Mentés"
 
 #: data/resources/preferences.ui:175
-#, fuzzy
-#| msgid "Text to Speech"
 msgid "Text-to-Speech"
 msgstr "Szöveg beszéddé alakítása"
 
 #: data/resources/preferences.ui:176
 msgid "Use Google for TTS."
-msgstr ""
+msgstr "Google használata a szöveg hanggá alakításához."
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
@@ -202,6 +188,10 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
+"Az API-val történő visszaélés csökkentése miatt, a Dialectben lévő GNOME "
+"keresésszolgáltató kikapcsolása kerül, ha az élő fordítás be van kapcsolva. "
+"Győződjön meg róla, hogy a keresésszolgáltató a GNOME Beállításokban is be "
+"van kapcsolva."
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
@@ -219,8 +209,6 @@ msgid "Translate"
 msgstr "Fordítás"
 
 #: data/resources/shortcuts-window.ui:31
-#, fuzzy
-#| msgid "Switch languages"
 msgctxt "shortcuts window"
 msgid "Switch Languages"
 msgstr "Nyelvek felcserélése"
@@ -231,16 +219,12 @@ msgid "Quit"
 msgstr "Kilépés"
 
 #: data/resources/window.ui:42
-#, fuzzy
-#| msgid "Loading..."
 msgid "Loading…"
 msgstr "Betöltés…"
 
 #: data/resources/window.ui:83
-#, fuzzy
-#| msgid "Choose from the available translation services."
 msgid "Could not load the translator service"
-msgstr "Válasszon az elérhető fordítási szolgáltatások közül."
+msgstr "A fordítási szolgáltatás nem tölthető be"
 
 #: data/resources/window.ui:108
 msgid "Retry"
@@ -279,14 +263,12 @@ msgid "Translate"
 msgstr "Fordítás"
 
 #: data/resources/window.ui:604
-#, fuzzy
-#| msgid "Translate"
 msgid "Translating…"
-msgstr "Fordítás"
+msgstr "Fordítás…"
 
 #: data/resources/window.ui:612
 msgid "Could not translate the text"
-msgstr ""
+msgstr "A szöveg nem fordítható le"
 
 #: data/resources/window.ui:638
 msgid "Copy"
