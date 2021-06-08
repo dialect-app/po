@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-28 22:45+0530\n"
-"PO-Revision-Date: 2021-05-29 00:11+0000\n"
-"Last-Translator: Rafael Mardojai CM <mardojai.cardenas@gmail.com>\n"
+"PO-Revision-Date: 2021-06-08 15:31+0000\n"
+"Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/dialect/dialect/"
 "es/>\n"
 "Language: es\n"
@@ -75,7 +75,7 @@ msgstr "Botones del portapapeles"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:27
 msgid "The Dialect Authors"
-msgstr "Los Autores de Dialect"
+msgstr "Los autores de Dialect"
 
 #: data/resources/about.ui:11
 msgid "Copyright 2020–⁠2021 The Dialect Authors"
@@ -156,7 +156,7 @@ msgstr "Instalación de traductor"
 
 #: data/resources/preferences.ui:84
 msgid "Enter a translation service URL."
-msgstr "Ingrese una URL de servicio de traducción."
+msgstr "Introduzca el URL de un servicio de traducción."
 
 #: data/resources/preferences.ui:109
 msgid "Edit"
@@ -188,9 +188,10 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
-"Para reducir abuso de la API, el proveedor de búsqueda de GNOME de Dialect "
-"está desactivado cuando la traducción en vivo los esta. Asegúrese de que el "
-"proveedor de búsqueda también esté activado en la configuración de GNOME."
+"Para reducir el abuso de la API, el proveedor de búsquedas de GNOME de "
+"Dialect se desactiva cuando la traducción en tiempo real lo está. Asegúrese "
+"de que el proveedor de búsquedas también esté activado en la configuración "
+"de GNOME."
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
@@ -292,7 +293,7 @@ msgid ""
 "Please try again."
 msgstr ""
 "Ha ocurrido un problema de red.\n"
-"Por favor inténtalo de nuevo."
+"Vuelva a intentarlo."
 
 #: dialect/window.py:501 dialect/window.py:505
 msgid "Auto"
@@ -300,7 +301,7 @@ msgstr "Automático"
 
 #: dialect/window.py:778
 msgid "5000 characters limit reached!"
-msgstr "Se alcanzó el límite de 5000 caracteres!"
+msgstr "Se alcanzó el límite de 5000 caracteres."
 
 #: dialect/window.py:870
 msgid ""

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-28 22:45+0530\n"
-"PO-Revision-Date: 2021-05-27 01:34+0000\n"
+"PO-Revision-Date: 2021-06-08 15:31+0000\n"
 "Last-Translator: Adolfo Jayme Barrientos <fitojb@ubuntu.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/dialect/dialect/"
 "ca/>\n"
@@ -77,14 +77,10 @@ msgid "The Dialect Authors"
 msgstr "Els autors del Dialect"
 
 #: data/resources/about.ui:11
-#, fuzzy
-#| msgid "Copyright 2020-2021 The Dialect Authors"
 msgid "Copyright 2020–⁠2021 The Dialect Authors"
 msgstr "Drets d’autor © 2020-2021 dels autors del Dialect"
 
 #: data/resources/about.ui:14
-#, fuzzy
-#| msgid "Github page"
 msgid "GitHub page"
 msgstr "Pàgina al GitHub"
 
@@ -134,8 +130,6 @@ msgid "Translation Shortcut"
 msgstr "Drecera de traducció"
 
 #: data/resources/preferences.ui:55
-#, fuzzy
-#| msgid "Unselected choice will be used for line break."
 msgid "The unselected choice will be used for line break."
 msgstr "L’opció no seleccionada s’utilitzarà per al salt de línia."
 
@@ -144,10 +138,8 @@ msgid "Default to Auto"
 msgstr "Automàtic per defecte"
 
 #: data/resources/preferences.ui:62
-#, fuzzy
-#| msgid "Use \"Auto\" as the default language on every launch"
 msgid "Use \"Auto\" as the default language"
-msgstr "Utilitza «Automàtic» com a llengua per defecte durant tot inici"
+msgstr "Utilitza «Automàtic» com a llengua per defecte"
 
 #: data/resources/preferences.ui:76
 msgid "Translator"
@@ -162,10 +154,8 @@ msgid "Translator Instance"
 msgstr "Instal·lació del traductor"
 
 #: data/resources/preferences.ui:84
-#, fuzzy
-#| msgid "Specify URL of translation service."
 msgid "Enter a translation service URL."
-msgstr "Especifiqueu l’URL del servei de traducció."
+msgstr "Introduïu l’URL d’un servei de traducció."
 
 #: data/resources/preferences.ui:109
 msgid "Edit"
@@ -180,14 +170,12 @@ msgid "Save"
 msgstr "Desa"
 
 #: data/resources/preferences.ui:175
-#, fuzzy
-#| msgid "Text to Speech"
 msgid "Text-to-Speech"
 msgstr "Text a veu"
 
 #: data/resources/preferences.ui:176
 msgid "Use Google for TTS."
-msgstr ""
+msgstr "Fes servir el TTS de Google."
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
@@ -199,6 +187,9 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
+"Per a reduir l’abús de l’API, el proveïdor de cerques del GNOME del Dialect "
+"es desactiva quan s’utilitza la traducció en temps real. Assegureu-vos que "
+"el proveïdor s’hagi activat també als Paràmetres del GNOME."
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
@@ -216,8 +207,6 @@ msgid "Translate"
 msgstr "Tradueix"
 
 #: data/resources/shortcuts-window.ui:31
-#, fuzzy
-#| msgid "Switch languages"
 msgctxt "shortcuts window"
 msgid "Switch Languages"
 msgstr "Canvia de llengua"
@@ -228,16 +217,12 @@ msgid "Quit"
 msgstr "Surt"
 
 #: data/resources/window.ui:42
-#, fuzzy
-#| msgid "Loading..."
 msgid "Loading…"
 msgstr "S’està carregant…"
 
 #: data/resources/window.ui:83
-#, fuzzy
-#| msgid "Choose from the available translation services."
 msgid "Could not load the translator service"
-msgstr "Trieu un dels serveis de traducció disponibles."
+msgstr "No s’ha pogut carregar el servei de traducció"
 
 #: data/resources/window.ui:108
 msgid "Retry"
@@ -276,14 +261,12 @@ msgid "Translate"
 msgstr "Tradueix"
 
 #: data/resources/window.ui:604
-#, fuzzy
-#| msgid "Translate"
 msgid "Translating…"
-msgstr "Tradueix"
+msgstr "S’està traduint…"
 
 #: data/resources/window.ui:612
 msgid "Could not translate the text"
-msgstr ""
+msgstr "No s’ha pogut traduir el text"
 
 #: data/resources/window.ui:638
 msgid "Copy"
