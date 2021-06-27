@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-28 22:45+0530\n"
-"PO-Revision-Date: 2021-05-23 15:30+0000\n"
-"Last-Translator: Mufeed Ali <fushinari@protonmail.com>\n"
+"PO-Revision-Date: 2021-06-27 09:33+0000\n"
+"Last-Translator: Чтабс <chtabs2k19@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/dialect/dialect/"
 "ru/>\n"
 "Language: ru\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 4.7.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
@@ -84,10 +84,8 @@ msgid "Copyright 2020–⁠2021 The Dialect Authors"
 msgstr "Copyright 2020-2021 Авторы Dialect"
 
 #: data/resources/about.ui:14
-#, fuzzy
-#| msgid "Github page"
 msgid "GitHub page"
-msgstr "Страница Github"
+msgstr "Страница GitHub"
 
 #. Replace me with your names.
 #: data/resources/about.ui:19
@@ -137,12 +135,8 @@ msgid "Translation Shortcut"
 msgstr "Комбинация клавиш для перевода"
 
 #: data/resources/preferences.ui:55
-#, fuzzy
-#| msgid "Unselected choice will be used for line break."
 msgid "The unselected choice will be used for line break."
-msgstr ""
-"Невыбранный вариант будет перемещать\n"
-"курсор на новую строку."
+msgstr "Невыбранный вариант будет использоваться для перевода строки."
 
 #: data/resources/preferences.ui:61
 msgid "Default to Auto"
