@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-28 22:45+0530\n"
-"PO-Revision-Date: 2021-06-27 09:33+0000\n"
+"PO-Revision-Date: 2021-06-28 10:33+0000\n"
 "Last-Translator: Чтабс <chtabs2k19@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/dialect/dialect/"
 "ru/>\n"
@@ -78,8 +78,6 @@ msgid "The Dialect Authors"
 msgstr "Авторы Dialect"
 
 #: data/resources/about.ui:11
-#, fuzzy
-#| msgid "Copyright 2020-2021 The Dialect Authors"
 msgid "Copyright 2020–⁠2021 The Dialect Authors"
 msgstr "Copyright 2020-2021 Авторы Dialect"
 
@@ -143,12 +141,8 @@ msgid "Default to Auto"
 msgstr "Автоопределение по умолчанию"
 
 #: data/resources/preferences.ui:62
-#, fuzzy
-#| msgid "Use \"Auto\" as the default language on every launch"
 msgid "Use \"Auto\" as the default language"
-msgstr ""
-"Автоматически определять исходный язык\n"
-"при каждом запуске"
+msgstr "Используйте \"Авто\" в качестве языка по умолчанию"
 
 #: data/resources/preferences.ui:76
 msgid "Translator"
@@ -163,10 +157,8 @@ msgid "Translator Instance"
 msgstr "Экземпляр переводчика"
 
 #: data/resources/preferences.ui:84
-#, fuzzy
-#| msgid "Specify URL of translation service."
 msgid "Enter a translation service URL."
-msgstr "Укажите URL сервиса перевода."
+msgstr "Введите URL-адрес службы перевода."
 
 #: data/resources/preferences.ui:109
 msgid "Edit"
@@ -181,18 +173,16 @@ msgid "Save"
 msgstr "Сохранить"
 
 #: data/resources/preferences.ui:175
-#, fuzzy
-#| msgid "Text to Speech"
 msgid "Text-to-Speech"
-msgstr "Прослушивание текста"
+msgstr "Текст-в-речь"
 
 #: data/resources/preferences.ui:176
 msgid "Use Google for TTS."
-msgstr ""
+msgstr "Используйте Google для TTS."
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
-msgstr "Провайдер поиска"
+msgstr "Поисковой провайдер"
 
 #: data/resources/preferences.ui:193
 msgid ""
@@ -200,6 +190,9 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
+"Чтобы уменьшить злоупотребление API, поисковой провайдер GNOME в Dialect "
+"выключен, когда включен мгновенный перевод. Убедитесь, что поисковой "
+"провайдер также включён в настройках GNOME."
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
@@ -217,11 +210,9 @@ msgid "Translate"
 msgstr "Перевести"
 
 #: data/resources/shortcuts-window.ui:31
-#, fuzzy
-#| msgid "Switch languages"
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr "Обратный перевод"
+msgstr "Переключить языки"
 
 #: data/resources/shortcuts-window.ui:38
 msgctxt "shortcuts window"
@@ -229,16 +220,12 @@ msgid "Quit"
 msgstr "Выход"
 
 #: data/resources/window.ui:42
-#, fuzzy
-#| msgid "Loading..."
 msgid "Loading…"
-msgstr "Загрузка..."
+msgstr "Загрузка…"
 
 #: data/resources/window.ui:83
-#, fuzzy
-#| msgid "Choose from the available translation services."
 msgid "Could not load the translator service"
-msgstr "Выберите один из доступных сервисов."
+msgstr "Не удалось загрузить службу переводчика"
 
 #: data/resources/window.ui:108
 msgid "Retry"
@@ -277,14 +264,12 @@ msgid "Translate"
 msgstr "Перевести"
 
 #: data/resources/window.ui:604
-#, fuzzy
-#| msgid "Translate"
 msgid "Translating…"
-msgstr "Перевести"
+msgstr "Перевод…"
 
 #: data/resources/window.ui:612
 msgid "Could not translate the text"
-msgstr ""
+msgstr "Не удалось перевести текст"
 
 #: data/resources/window.ui:638
 msgid "Copy"
