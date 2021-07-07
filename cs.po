@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-05-28 22:45+0530\n"
-"PO-Revision-Date: 2021-05-24 12:55+0000\n"
+"PO-Revision-Date: 2021-07-07 08:07+0000\n"
 "Last-Translator: Vojtěch Perník <pervoj@gmx.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/dialect/dialect/cs/"
 ">\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 4.8-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
@@ -77,14 +77,10 @@ msgid "The Dialect Authors"
 msgstr "Autoři Dialektu"
 
 #: data/resources/about.ui:11
-#, fuzzy
-#| msgid "Copyright 2020-2021 The Dialect Authors"
 msgid "Copyright 2020–⁠2021 The Dialect Authors"
-msgstr "Copyright 2020-2021 Autoři Dialektu"
+msgstr "Copyright 2020–2021 Autoři Dialektu"
 
 #: data/resources/about.ui:14
-#, fuzzy
-#| msgid "Github page"
 msgid "GitHub page"
 msgstr "Stránka na GitHubu"
 
@@ -134,8 +130,6 @@ msgid "Translation Shortcut"
 msgstr "Zkratka překladu"
 
 #: data/resources/preferences.ui:55
-#, fuzzy
-#| msgid "Unselected choice will be used for line break."
 msgid "The unselected choice will be used for line break."
 msgstr "Nevybraná volba bude použita pro zalomení řádku."
 
@@ -144,10 +138,8 @@ msgid "Default to Auto"
 msgstr "Výchozí na Automatický"
 
 #: data/resources/preferences.ui:62
-#, fuzzy
-#| msgid "Use \"Auto\" as the default language on every launch"
 msgid "Use \"Auto\" as the default language"
-msgstr "Použít \"Automatický\" jako výchozí jazyk po každém spuštění"
+msgstr "Použít \"Automatický\" jako výchozí jazyk"
 
 #: data/resources/preferences.ui:76
 msgid "Translator"
@@ -162,10 +154,8 @@ msgid "Translator Instance"
 msgstr "Instance překladače"
 
 #: data/resources/preferences.ui:84
-#, fuzzy
-#| msgid "Specify URL of translation service."
 msgid "Enter a translation service URL."
-msgstr "Specifikujte URL adresu překladače."
+msgstr "Zadejte URL adresu překladače."
 
 #: data/resources/preferences.ui:109
 msgid "Edit"
@@ -180,14 +170,12 @@ msgid "Save"
 msgstr "Uložit"
 
 #: data/resources/preferences.ui:175
-#, fuzzy
-#| msgid "Text to Speech"
 msgid "Text-to-Speech"
 msgstr "Převod textu na řeč"
 
 #: data/resources/preferences.ui:176
 msgid "Use Google for TTS."
-msgstr ""
+msgstr "Použít Google pro převod textu na řeč."
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
@@ -199,6 +187,9 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
+"Aby bylo omezeno zneužívání API, je poskytovatel vyhledávání GNOME v "
+"Dialectu vypnutý, když je vypnutý i Živý překlad. Ujistěte se, že je "
+"poskytovatel vyhledávání také zapnutý v Nastavení GNOME."
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
@@ -216,8 +207,6 @@ msgid "Translate"
 msgstr "Překlad"
 
 #: data/resources/shortcuts-window.ui:31
-#, fuzzy
-#| msgid "Switch languages"
 msgctxt "shortcuts window"
 msgid "Switch Languages"
 msgstr "Změnit jazyky"
@@ -228,16 +217,12 @@ msgid "Quit"
 msgstr "Ukončit"
 
 #: data/resources/window.ui:42
-#, fuzzy
-#| msgid "Loading..."
 msgid "Loading…"
-msgstr "Načítání..."
+msgstr "Načítání…"
 
 #: data/resources/window.ui:83
-#, fuzzy
-#| msgid "Choose from the available translation services."
 msgid "Could not load the translator service"
-msgstr "Vyberte z dostupných překladačů."
+msgstr "Nepodařilo se načíst překladač"
 
 #: data/resources/window.ui:108
 msgid "Retry"
@@ -276,14 +261,12 @@ msgid "Translate"
 msgstr "Přeložit"
 
 #: data/resources/window.ui:604
-#, fuzzy
-#| msgid "Translate"
 msgid "Translating…"
-msgstr "Přeložit"
+msgstr "Překládání…"
 
 #: data/resources/window.ui:612
 msgid "Could not translate the text"
-msgstr ""
+msgstr "Text se nepodařilo přeložit"
 
 #: data/resources/window.ui:638
 msgid "Copy"
