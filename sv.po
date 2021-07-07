@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-28 22:45+0530\n"
+"POT-Creation-Date: 2021-07-07 11:33+0530\n"
 "PO-Revision-Date: 2021-05-28 20:11+0000\n"
 "Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -22,7 +22,7 @@ msgstr ""
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/about.ui:10
-#: data/resources/window.ui:66 dialect/main.py:53 dialect/main.py:89
+#: data/resources/window.ui:66 dialect/main.py:56 dialect/main.py:93
 msgid "Dialect"
 msgstr "Dialect"
 
@@ -192,26 +192,95 @@ msgstr ""
 "också är aktiverad i GNOME-inställningarna."
 
 #: data/resources/shortcuts-window.ui:13
+#, fuzzy
+#| msgid "Translator"
 msgctxt "shortcuts window"
-msgid "General"
-msgstr "Allmänt"
+msgid "Translator"
+msgstr "Översättare"
 
 #: data/resources/shortcuts-window.ui:17
-msgctxt "shortcuts window"
-msgid "Preferences"
-msgstr "Inställningar"
-
-#: data/resources/shortcuts-window.ui:24
 msgctxt "shortcuts window"
 msgid "Translate"
 msgstr "Översätt"
 
-#: data/resources/shortcuts-window.ui:31
+#: data/resources/shortcuts-window.ui:24
 msgctxt "shortcuts window"
 msgid "Switch Languages"
 msgstr "Byt språk"
 
+#: data/resources/shortcuts-window.ui:31
+msgctxt "shortcuts window"
+msgid "Clear source text"
+msgstr ""
+
 #: data/resources/shortcuts-window.ui:38
+#, fuzzy
+#| msgid "Next translation"
+msgctxt "shortcuts window"
+msgid "Copy translation"
+msgstr "Nästa översättning"
+
+#: data/resources/shortcuts-window.ui:45
+#, fuzzy
+#| msgid "Show Pronunciation"
+msgctxt "shortcuts window"
+msgid "Show Pronunciation"
+msgstr "Visa uttal"
+
+#: data/resources/shortcuts-window.ui:54
+#, fuzzy
+#| msgid "Text-to-Speech"
+msgctxt "shortcuts window"
+msgid "Text-to-Speech"
+msgstr "Text-till-tal"
+
+#: data/resources/shortcuts-window.ui:58
+msgctxt "shortcuts window"
+msgid "Listen to source text"
+msgstr ""
+
+#: data/resources/shortcuts-window.ui:65
+#, fuzzy
+#| msgid "Next translation"
+msgctxt "shortcuts window"
+msgid "Listen to translation"
+msgstr "Nästa översättning"
+
+#: data/resources/shortcuts-window.ui:74
+msgctxt "shortcuts window"
+msgid "Navigation"
+msgstr ""
+
+#: data/resources/shortcuts-window.ui:78
+msgctxt "shortcuts window"
+msgid "Go back in history"
+msgstr ""
+
+#: data/resources/shortcuts-window.ui:85
+#, fuzzy
+#| msgid "Translation history"
+msgctxt "shortcuts window"
+msgid "Go forward in history"
+msgstr "Översättningshistorik"
+
+#: data/resources/shortcuts-window.ui:94
+msgctxt "shortcuts window"
+msgid "General"
+msgstr "Allmänt"
+
+#: data/resources/shortcuts-window.ui:98
+msgctxt "shortcuts window"
+msgid "Preferences"
+msgstr "Inställningar"
+
+#: data/resources/shortcuts-window.ui:105
+#, fuzzy
+#| msgid "Keyboard Shortcuts"
+msgctxt "shortcut window"
+msgid "Shortcuts"
+msgstr "Tangentbordsgenvägar"
+
+#: data/resources/shortcuts-window.ui:112
 msgctxt "shortcuts window"
 msgid "Quit"
 msgstr "Avsluta"
@@ -232,7 +301,7 @@ msgstr "Försök igen"
 msgid "Open preferences"
 msgstr "Öppna inställningarna"
 
-#: data/resources/window.ui:194 data/resources/window.ui:727
+#: data/resources/window.ui:194 data/resources/window.ui:728
 msgid "Switch languages"
 msgstr "Växla språk"
 
@@ -248,31 +317,31 @@ msgstr "Nästa översättning"
 msgid "Clear"
 msgstr "Rensa"
 
-#: data/resources/window.ui:469
+#: data/resources/window.ui:470
 msgid "Paste"
 msgstr "Klistra in"
 
-#: data/resources/window.ui:485 data/resources/window.ui:623
+#: data/resources/window.ui:486 data/resources/window.ui:624
 msgid "Listen"
 msgstr "Lyssna"
 
-#: data/resources/window.ui:493
+#: data/resources/window.ui:494
 msgid "Translate"
 msgstr "Översätt"
 
-#: data/resources/window.ui:604
+#: data/resources/window.ui:605
 msgid "Translating…"
 msgstr "Översätter…"
 
-#: data/resources/window.ui:612
+#: data/resources/window.ui:613
 msgid "Could not translate the text"
 msgstr "Kunde inte översätta texten"
 
-#: data/resources/window.ui:638
+#: data/resources/window.ui:639
 msgid "Copy"
 msgstr "Kopiera"
 
-#: data/resources/window.ui:819
+#: data/resources/window.ui:820
 msgid "No network connection detected."
 msgstr "Ingen nätverksanslutning identifierad."
 
@@ -293,15 +362,15 @@ msgstr ""
 "Ett nätverksproblem har uppstått.\n"
 "Försöka igen."
 
-#: dialect/window.py:501 dialect/window.py:505
+#: dialect/window.py:489 dialect/window.py:493
 msgid "Auto"
 msgstr "Auto"
 
-#: dialect/window.py:778
+#: dialect/window.py:765
 msgid "5000 characters limit reached!"
 msgstr "Gränsen på 5000 tecken har uppnåtts!"
 
-#: dialect/window.py:870
+#: dialect/window.py:866
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
@@ -309,7 +378,7 @@ msgstr ""
 "Översättning misslyckades.\n"
 "Undersök eventuella nätverksproblem."
 
-#: dialect/window.py:886
+#: dialect/window.py:882
 msgid "Did you mean: "
 msgstr "Menade du: "
 
