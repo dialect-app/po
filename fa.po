@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-07 11:33+0530\n"
-"PO-Revision-Date: 2021-05-28 17:00+0000\n"
-"Last-Translator: Soheil Khanalipur <soheil@disroot.org>\n"
+"PO-Revision-Date: 2021-07-25 11:33+0000\n"
+"Last-Translator: Danial Behzadi <dani.behzi@ubuntu.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/dialect/dialect/"
 "fa/>\n"
 "Language: fa\n"
@@ -17,181 +17,172 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 4.7.2-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/about.ui:10
 #: data/resources/window.ui:66 dialect/main.py:56 dialect/main.py:93
 msgid "Dialect"
-msgstr "دایلِکت"
+msgstr "دایالکت"
 
 #: data/com.github.gi_lom.dialect.desktop.in:9
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:7
 msgid "Translate between languages"
-msgstr "گَردانِش میان زَبان‌ها"
+msgstr "بازگردانی میان زبان‌ها"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/com.github.gi_lom.dialect.desktop.in:13
 msgid "translate;translation;"
-msgstr "گَردانش;گَرداندن;"
+msgstr "translate;translation;ترجمه;بازگردانی;"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:9 data/resources/about.ui:12
 msgid "A translation app for GNOME."
-msgstr "یِک بَرنامِه‌یِ گَردانِش بَرایِ گنوم."
+msgstr "یک کارهٔ ترجمه برای گنوم."
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:12
 msgid "Features:"
-msgstr "ویژِگی‌ها:"
+msgstr "ویژگی‌ها:"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:16
 msgid "Translation based on an unofficial API for Google Translate"
-msgstr "گَردانِش بَر پایِه‌یِ یِک اِی‌پی‌آیِ نابُنیادین بَرایِ گَردانِشِ گوگِل اَست"
+msgstr "ترجمه برپایهٔ واسط برنامه‌نویسی غیررسمی‌ای برای ترجمهٔ گوگل"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:17
 msgid ""
 "Translation based on the LibreTranslate API, allowing you use any instance "
 "available online"
 msgstr ""
-"گَردانِش بَر پایِه‌یِ اِی‌پی‌آیِ لیبره‌ترانزلِیت اَست، تَواناییِ بِکارگیریِ هَر نِمونِه‌یِ بَرتارِ "
-"دَر دَسترِس را بِشُما می‌دَهَد"
+"ترجمه برپایهٔ واسط برنامه‌نویسی لیبره‌ترنسلیت. می‌گذارد از هر نمونهٔ برخط "
+"موجودی استفاده کنید"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:18
 msgid "Text to speech"
-msgstr "نِوِشتار بِه گُفتار"
+msgstr "متن به گفتار"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:19
 msgid "Translation history"
-msgstr "پیشینِه‌یِ گَردانِش"
+msgstr "پیشینهٔ ترجمه"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:20
 msgid "Automatic language detection"
-msgstr "شِناساییِ خودکارِ زَبان"
+msgstr "شناسایی خودکار زبان"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:21
 msgid "Clipboard buttons"
-msgstr "دُکمِه‌هایِ گِرِفتِه‌دان"
+msgstr "دکمه‌های تخته‌گیره"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:27
 msgid "The Dialect Authors"
-msgstr "نِویسَندِگانِ دایلِکت"
+msgstr "نگارندگان دایالکت"
 
 #: data/resources/about.ui:11
-#, fuzzy
-#| msgid "Copyright 2020-2021 The Dialect Authors"
 msgid "Copyright 2020–⁠2021 The Dialect Authors"
-msgstr "کُپےرایت ۲۰۲۰-۲۰۲۱ نِویسَندِگانِ دایلِکت"
+msgstr "حق رونوشت ۱۳۹۹-۱۴۰۰ نگارندگان دایالکت"
 
 #: data/resources/about.ui:14
-#, fuzzy
-#| msgid "Github page"
 msgid "GitHub page"
-msgstr "تاربَرگِ گیت‌هاب"
+msgstr "صفحهٔ گیت‌هاب"
 
 #. Replace me with your names.
 #: data/resources/about.ui:19
 msgid "translator-credits"
-msgstr "سُهِیل خانعَلےپور"
+msgstr ""
+"دانیال بهزادی <dani.behzi@ubuntu.com>\n"
+"سهیل خانعلی‌پور"
 
 #: data/resources/menu.ui:7
 msgid "Show Pronunciation"
-msgstr "نَمایِشِ آوایِش"
+msgstr "نمایش بیان"
 
 #: data/resources/menu.ui:14
 msgid "Preferences"
-msgstr "ساماندَهی"
+msgstr "ترجیحات"
 
 #: data/resources/menu.ui:18
 msgid "Keyboard Shortcuts"
-msgstr "پایَندانِ تَختِه‌کِلید"
+msgstr "میان‌برهای صفحه‌کلید"
 
 #: data/resources/menu.ui:22
 msgid "About Dialect"
-msgstr "دَربارِه‌یِ دایلِکت"
+msgstr "دربارهٔ دایالکت"
 
 #: data/resources/preferences.ui:15
 msgid "Appearance"
-msgstr "چِهرِه"
+msgstr "ظاهر"
 
 #: data/resources/preferences.ui:19
 msgid "Dark Mode"
-msgstr "پوشِشِ تیرِه"
+msgstr "حالت تاریک"
 
 #: data/resources/preferences.ui:35
 msgid "Behavior"
-msgstr "رَفتار"
+msgstr "رفتار"
 
 #: data/resources/preferences.ui:39
 msgid "Live Translation"
-msgstr "گَردانِشِ زِندِه"
+msgstr "ترجمهٔ زنده"
 
 #: data/resources/preferences.ui:40
 msgid "Warning: Your IP address may get banned for API abuse."
-msgstr "هُشدار: شایَد نِشانیِ آی‌پیِ شُما بَرایِ کَژکارگیریِ اِی‌پی‌آی بَستِه شَوَد."
+msgstr ""
+"هشدار: ممکن است نشانی آی‌پیتان برای سواستفاده از رابط برنامه‌نویسی مسدود شود."
 
 #: data/resources/preferences.ui:54
 msgid "Translation Shortcut"
-msgstr "پایَندانِ گَردانِش"
+msgstr "میان‌برهای ترجمه"
 
 #: data/resources/preferences.ui:55
-#, fuzzy
-#| msgid "Unselected choice will be used for line break."
 msgid "The unselected choice will be used for line break."
-msgstr "گُزینِه‌یِ ناگُزیدِه بَرایِ جُداییِ خَت بِکار گِرِفتِه می‌شَوَد."
+msgstr "گزینهٔ ناگزیده برای شکست خط استفاده خواهد شد."
 
 #: data/resources/preferences.ui:61
 msgid "Default to Auto"
-msgstr "پیشگُزیدِه بِه خودکار"
+msgstr "پیش‌گزیده به خودکار"
 
 #: data/resources/preferences.ui:62
-#, fuzzy
-#| msgid "Use \"Auto\" as the default language on every launch"
 msgid "Use \"Auto\" as the default language"
-msgstr "بِکارگیریِ «خودکار» بَرایِ زَبانِ پیشگُزیدِه دَر هَر رانِش"
+msgstr "استفاده از «خودکار» به عنوان زبان پیش‌گزیده"
 
 #: data/resources/preferences.ui:76
 msgid "Translator"
-msgstr "گَردانِشگَر"
+msgstr "بازگردان"
 
 #: data/resources/preferences.ui:77
 msgid "Choose from the available translation services."
-msgstr "اَز میانِ گَردانِشگَرهایِ دَر دَسترِس بِگُزینید."
+msgstr "گزینش از میان خدمات ترجمهٔ موجود."
 
 #: data/resources/preferences.ui:83
 msgid "Translator Instance"
-msgstr "نِمونِه‌یِ گَردانِشگَر"
+msgstr "نمونهٔ بازگردان"
 
 #: data/resources/preferences.ui:84
-#, fuzzy
-#| msgid "Specify URL of translation service."
 msgid "Enter a translation service URL."
-msgstr "یوآراِلِ گَردانِشگَرِ ویژِه."
+msgstr "یک نشانی خدمت ترجمه وارد کنید."
 
 #: data/resources/preferences.ui:109
 msgid "Edit"
-msgstr "ویرایِش"
+msgstr "ویرایش"
 
 #: data/resources/preferences.ui:143
 msgid "Reset to default"
-msgstr "بازنِشانی بِه پیشگُزیدِه"
+msgstr "بازنشانی به پیش‌گزیده"
 
 #: data/resources/preferences.ui:158
 msgid "Save"
-msgstr "اَنباردَن"
+msgstr "ذخیره"
 
 #: data/resources/preferences.ui:175
-#, fuzzy
-#| msgid "Text to Speech"
 msgid "Text-to-Speech"
-msgstr "نِوِشتار بِه گُفتار"
+msgstr "متن به گفتار"
 
 #: data/resources/preferences.ui:176
 msgid "Use Google for TTS."
-msgstr ""
+msgstr "استفاده از گوگل برای متن به گفتار."
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
-msgstr "فَراهَم‌آوَرِ جُستجو"
+msgstr "فراهم‌کنندهٔ جست‌وجو"
 
 #: data/resources/preferences.ui:193
 msgid ""
@@ -199,6 +190,9 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
+"برای کاهش سواستفاده از رابط برنامه‌نویسی، فراهم‌کنندهٔ جست‌وجوی گنوم در "
+"دایالکت هنگام روشن بودن ترجمهٔ زنده، خاموش شده است. مطمئن شوید فراهم‌کنندهٔ "
+"جست‌وجو هم در تنظیمات گنوم روشن شده باشد."
 
 #: data/resources/shortcuts-window.ui:13
 #, fuzzy
@@ -210,14 +204,12 @@ msgstr "گَردانِشگَر"
 #: data/resources/shortcuts-window.ui:17
 msgctxt "shortcuts window"
 msgid "Translate"
-msgstr "گَرداندَن"
+msgstr "ترجمه"
 
 #: data/resources/shortcuts-window.ui:24
-#, fuzzy
-#| msgid "Switch languages"
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr "جابِجاییِ زَبان‌ها"
+msgstr "جابه‌جایی زبان‌ها"
 
 #: data/resources/shortcuts-window.ui:31
 msgctxt "shortcuts window"
@@ -277,12 +269,12 @@ msgstr "پیشینِه‌یِ گَردانِش"
 #: data/resources/shortcuts-window.ui:94
 msgctxt "shortcuts window"
 msgid "General"
-msgstr "فَراگیر"
+msgstr "عمومی"
 
 #: data/resources/shortcuts-window.ui:98
 msgctxt "shortcuts window"
 msgid "Preferences"
-msgstr "ساماندَهی"
+msgstr "ترجیحات"
 
 #: data/resources/shortcuts-window.ui:105
 #, fuzzy
@@ -294,88 +286,84 @@ msgstr "پایَندانِ تَختِه‌کِلید"
 #: data/resources/shortcuts-window.ui:112
 msgctxt "shortcuts window"
 msgid "Quit"
-msgstr "بُرونرَفت"
+msgstr "خروج"
 
 #: data/resources/window.ui:42
 msgid "Loading…"
-msgstr ""
+msgstr "بار کردن…"
 
 #: data/resources/window.ui:83
-#, fuzzy
-#| msgid "Choose from the available translation services."
 msgid "Could not load the translator service"
-msgstr "اَز میانِ گَردانِشگَرهایِ دَر دَسترِس بِگُزینید."
+msgstr "نتوانست خدمت ترجمه را بار کند"
 
 #: data/resources/window.ui:108
 msgid "Retry"
-msgstr "بازکوشِش"
+msgstr "تلاش دوباره"
 
 #: data/resources/window.ui:115
 msgid "Open preferences"
-msgstr "گُشودَنِ ساماندَهی"
+msgstr "گشودن ترجیحات"
 
 #: data/resources/window.ui:194 data/resources/window.ui:728
 msgid "Switch languages"
-msgstr "جابِجاییِ زَبان‌ها"
+msgstr "جابه‌جایی زبان‌ها"
 
 #: data/resources/window.ui:274
 msgid "Previous translation"
-msgstr "گَردانِشِ پیشین"
+msgstr "ترجمهٔ پیشین"
 
 #: data/resources/window.ui:293
 msgid "Next translation"
-msgstr "گَردانِشِ پَسین"
+msgstr "ترجمهٔ بعدی"
 
 #: data/resources/window.ui:454
 msgid "Clear"
-msgstr "پاکیدَن"
+msgstr "پاک‌سازی"
 
 #: data/resources/window.ui:470
 msgid "Paste"
-msgstr "چَسباندَن"
+msgstr "جای‌گذاری"
 
 #: data/resources/window.ui:486 data/resources/window.ui:624
 msgid "Listen"
-msgstr "شِنیدَن"
+msgstr "شنیدن"
 
 #: data/resources/window.ui:494
 msgid "Translate"
-msgstr "گَرداندَن"
+msgstr "ترجمه"
 
 #: data/resources/window.ui:605
-#, fuzzy
-#| msgid "Translate"
 msgid "Translating…"
-msgstr "گَرداندَن"
+msgstr "ترجمه کردن…"
 
 #: data/resources/window.ui:613
 msgid "Could not translate the text"
-msgstr ""
+msgstr "نتوانست متن را ترجمه کند"
 
 #: data/resources/window.ui:639
 msgid "Copy"
-msgstr "روگِرِفت"
+msgstr "رونوشت"
 
 #: data/resources/window.ui:820
 msgid "No network connection detected."
-msgstr "پِیوَستِ تارگان یافت نَشُد."
+msgstr "هیچ اتّصال شبکه‌ای پیدا نشد."
 
 #: dialect/preferences.py:250
 #, python-brace-format
 msgid "Not a valid {backend} instance"
-msgstr ""
+msgstr "نمونهٔ معتبر {backend} نیست"
 
 #: dialect/window.py:229
 msgid "A network issue has occured. Retry?"
-msgstr "پَریشانیِ تارگان رُخ داد. بازکوشِش شَوَد؟"
+msgstr "مشکلی در شبکه رخ داد. تلاش دوباره؟"
 
 #: dialect/window.py:233
 msgid ""
 "A network issue has occured.\n"
 "Please try again."
 msgstr ""
-"پَریشانیِ تارگان رُخ داد.\n"
-"خواهِشمَند اَست دوبارِه بِکوشید."
+"مشکلی در شبکه رخ داد.\n"
+"لطفاً دوباره تلاش کنید."
 
 #: dialect/window.py:489 dialect/window.py:493
 msgid "Auto"
@@ -383,19 +371,19 @@ msgstr "خودکار"
 
 #: dialect/window.py:765
 msgid "5000 characters limit reached!"
-msgstr "بِه پایانِ ۵۰۰۰ وات رِسید!"
+msgstr "به کران ۵٫۰۰۰ نویسه رسید!"
 
 #: dialect/window.py:866
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
 msgstr ""
-"گَردانِش شِکَست خورد.\n"
-"خواهِشمَند اَست پَریشانیِ تارگان را بَررِسی کُنید."
+"ترجمه شکست خورد.\n"
+"لطفاً برای مشکلات شبکه بررسی کنید."
 
 #: dialect/window.py:882
 msgid "Did you mean: "
-msgstr "شایَد این را می‌خواستید: "
+msgstr "شاید منظورتان این بود: "
 
 #~ msgid "Use Google for Text to Speech functionality."
 #~ msgstr "بِکارگیریِ گوگِل بَرایِ کارکَردِ نِوِشتار بِه گُفتار."
