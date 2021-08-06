@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-07 11:33+0530\n"
-"PO-Revision-Date: 2021-06-23 14:32+0000\n"
+"PO-Revision-Date: 2021-08-06 21:54+0000\n"
 "Last-Translator: Daimar Stein <570cxat11@relay.firefox.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/dialect/"
 "dialect/pt/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7.1-dev\n"
+"X-Generator: Weblate 4.8-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
@@ -188,6 +188,9 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
+"Para reduzir o abuso da API, o provedor de busca do GNOME no Dialect é "
+"desligado quando a tradução ao vivo também está. Garanta que o provedor de "
+"pesquisa está desligado nas configurações do GNOME."
 
 #: data/resources/shortcuts-window.ui:13
 #, fuzzy
@@ -288,10 +291,8 @@ msgid "Loading…"
 msgstr "A carregar…"
 
 #: data/resources/window.ui:83
-#, fuzzy
-#| msgid "Choose from the available translation services."
 msgid "Could not load the translator service"
-msgstr "Escolha entre os serviços de tradução disponíveis."
+msgstr "Não foi possível carregar o serviço de tradução"
 
 #: data/resources/window.ui:108
 msgid "Retry"
