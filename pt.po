@@ -331,10 +331,8 @@ msgid "Translate"
 msgstr "Traduzir"
 
 #: data/resources/window.ui:605
-#, fuzzy
-#| msgid "Translate"
 msgid "Translating…"
-msgstr "Traduzir"
+msgstr "A traduzir…"
 
 #: data/resources/window.ui:613
 msgid "Could not translate the text"
