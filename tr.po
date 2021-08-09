@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-07 11:33+0530\n"
-"PO-Revision-Date: 2021-06-02 18:33+0000\n"
+"PO-Revision-Date: 2021-08-09 21:32+0000\n"
 "Last-Translator: Oğuz Ersen <oguzersen@protonmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/dialect/dialect/"
 "tr/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 4.8-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
@@ -193,8 +193,6 @@ msgstr ""
 "açık olduğundan emin olun."
 
 #: data/resources/shortcuts-window.ui:13
-#, fuzzy
-#| msgid "Translator"
 msgctxt "shortcuts window"
 msgid "Translator"
 msgstr "Çevirmen"
@@ -212,25 +210,19 @@ msgstr "Dili Değiştir"
 #: data/resources/shortcuts-window.ui:31
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "Kaynak metni temizle"
 
 #: data/resources/shortcuts-window.ui:38
-#, fuzzy
-#| msgid "Next translation"
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr "Sonraki çeviri"
+msgstr "Çeviriyi kopyala"
 
 #: data/resources/shortcuts-window.ui:45
-#, fuzzy
-#| msgid "Show Pronunciation"
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
 msgstr "Telaffuzunu Göster"
 
 #: data/resources/shortcuts-window.ui:54
-#, fuzzy
-#| msgid "Text-to-Speech"
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
 msgstr "Metinden Sese"
@@ -238,31 +230,27 @@ msgstr "Metinden Sese"
 #: data/resources/shortcuts-window.ui:58
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "Kaynak metni dinle"
 
 #: data/resources/shortcuts-window.ui:65
-#, fuzzy
-#| msgid "Next translation"
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr "Sonraki çeviri"
+msgstr "Çeviriyi dinle"
 
 #: data/resources/shortcuts-window.ui:74
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "Gezinme"
 
 #: data/resources/shortcuts-window.ui:78
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "Geçmişte geri git"
 
 #: data/resources/shortcuts-window.ui:85
-#, fuzzy
-#| msgid "Translation history"
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr "Çeviri geçmişi"
+msgstr "Geçmişte ileri git"
 
 #: data/resources/shortcuts-window.ui:94
 msgctxt "shortcuts window"
@@ -275,11 +263,9 @@ msgid "Preferences"
 msgstr "Tercihler"
 
 #: data/resources/shortcuts-window.ui:105
-#, fuzzy
-#| msgid "Keyboard Shortcuts"
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr "Klavye Kısayolları"
+msgstr "Kısayollar"
 
 #: data/resources/shortcuts-window.ui:112
 msgctxt "shortcuts window"
