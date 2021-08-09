@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-07 11:33+0530\n"
-"PO-Revision-Date: 2021-05-29 00:11+0000\n"
+"PO-Revision-Date: 2021-08-09 21:32+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/dialect/dialect/"
 "he/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 4.8-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
@@ -192,11 +192,9 @@ msgstr ""
 "בזמן אמת פעיל. נא לוודא שספק בחיפוש פעיל גם הוא בהגדרות של GNOME."
 
 #: data/resources/shortcuts-window.ui:13
-#, fuzzy
-#| msgid "Translator"
 msgctxt "shortcuts window"
 msgid "Translator"
-msgstr "שירות תרגום"
+msgstr "מתרגם"
 
 #: data/resources/shortcuts-window.ui:17
 msgctxt "shortcuts window"
@@ -211,25 +209,19 @@ msgstr "הצרחת שפות"
 #: data/resources/shortcuts-window.ui:31
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "מחיקת טקסט המקור"
 
 #: data/resources/shortcuts-window.ui:38
-#, fuzzy
-#| msgid "Next translation"
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr "התרגום הבא"
+msgstr "העתקת התרגום"
 
 #: data/resources/shortcuts-window.ui:45
-#, fuzzy
-#| msgid "Show Pronunciation"
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
 msgstr "הצגת הגייה"
 
 #: data/resources/shortcuts-window.ui:54
-#, fuzzy
-#| msgid "Text-to-Speech"
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
 msgstr "טקסט לדיבור"
@@ -237,31 +229,27 @@ msgstr "טקסט לדיבור"
 #: data/resources/shortcuts-window.ui:58
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "האזנה לטקסט המקור"
 
 #: data/resources/shortcuts-window.ui:65
-#, fuzzy
-#| msgid "Next translation"
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr "התרגום הבא"
+msgstr "האזנה לתרגום"
 
 #: data/resources/shortcuts-window.ui:74
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "ניווט"
 
 #: data/resources/shortcuts-window.ui:78
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "חזרה בהיסטוריה"
 
 #: data/resources/shortcuts-window.ui:85
-#, fuzzy
-#| msgid "Translation history"
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr "היסטוריית תרגום"
+msgstr "התקדמות בהיסטוריה"
 
 #: data/resources/shortcuts-window.ui:94
 msgctxt "shortcuts window"
@@ -274,11 +262,9 @@ msgid "Preferences"
 msgstr "העדפות"
 
 #: data/resources/shortcuts-window.ui:105
-#, fuzzy
-#| msgid "Keyboard Shortcuts"
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr "קיצורי מקלדת"
+msgstr "קיצורים"
 
 #: data/resources/shortcuts-window.ui:112
 msgctxt "shortcuts window"
