@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-07 11:33+0530\n"
+"POT-Creation-Date: 2021-08-11 19:32+0530\n"
 "PO-Revision-Date: 2021-07-25 11:33+0000\n"
 "Last-Translator: Danial Behzadi <dani.behzi@ubuntu.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -53,8 +53,8 @@ msgid ""
 "Translation based on the LibreTranslate API, allowing you use any instance "
 "available online"
 msgstr ""
-"ترجمه برپایهٔ واسط برنامه‌نویسی لیبره‌ترنسلیت. می‌گذارد از هر نمونهٔ برخط "
-"موجودی استفاده کنید"
+"ترجمه برپایهٔ واسط برنامه‌نویسی لیبره‌ترنسلیت. می‌گذارد از هر نمونهٔ برخط موجودی "
+"استفاده کنید"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:18
 msgid "Text to speech"
@@ -190,9 +190,9 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
-"برای کاهش سواستفاده از رابط برنامه‌نویسی، فراهم‌کنندهٔ جست‌وجوی گنوم در "
-"دایالکت هنگام روشن بودن ترجمهٔ زنده، خاموش شده است. مطمئن شوید فراهم‌کنندهٔ "
-"جست‌وجو هم در تنظیمات گنوم روشن شده باشد."
+"برای کاهش سواستفاده از رابط برنامه‌نویسی، فراهم‌کنندهٔ جست‌وجوی گنوم در دایالکت "
+"هنگام روشن بودن ترجمهٔ زنده، خاموش شده است. مطمئن شوید فراهم‌کنندهٔ جست‌وجو هم "
+"در تنظیمات گنوم روشن شده باشد."
 
 #: data/resources/shortcuts-window.ui:13
 #, fuzzy
@@ -353,11 +353,11 @@ msgstr "هیچ اتّصال شبکه‌ای پیدا نشد."
 msgid "Not a valid {backend} instance"
 msgstr "نمونهٔ معتبر {backend} نیست"
 
-#: dialect/window.py:229
+#: dialect/window.py:232
 msgid "A network issue has occured. Retry?"
 msgstr "مشکلی در شبکه رخ داد. تلاش دوباره؟"
 
-#: dialect/window.py:233
+#: dialect/window.py:236
 msgid ""
 "A network issue has occured.\n"
 "Please try again."
@@ -365,15 +365,15 @@ msgstr ""
 "مشکلی در شبکه رخ داد.\n"
 "لطفاً دوباره تلاش کنید."
 
-#: dialect/window.py:489 dialect/window.py:493
+#: dialect/window.py:492 dialect/window.py:496
 msgid "Auto"
 msgstr "خودکار"
 
-#: dialect/window.py:765
+#: dialect/window.py:768
 msgid "5000 characters limit reached!"
 msgstr "به کران ۵٫۰۰۰ نویسه رسید!"
 
-#: dialect/window.py:866
+#: dialect/window.py:870
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
@@ -381,7 +381,7 @@ msgstr ""
 "ترجمه شکست خورد.\n"
 "لطفاً برای مشکلات شبکه بررسی کنید."
 
-#: dialect/window.py:882
+#: dialect/window.py:886
 msgid "Did you mean: "
 msgstr "شاید منظورتان این بود: "
 

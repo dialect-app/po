@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-07 11:33+0530\n"
+"POT-Creation-Date: 2021-08-11 19:32+0530\n"
 "PO-Revision-Date: 2021-08-09 21:32+0000\n"
 "Last-Translator: Heimen Stoffels <vistausss@fastmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/dialect/dialect/nl/"
@@ -336,11 +336,11 @@ msgstr "Je bent niet verbonden met het internet."
 msgid "Not a valid {backend} instance"
 msgstr "Verkeerd {backend}-proces"
 
-#: dialect/window.py:229
+#: dialect/window.py:232
 msgid "A network issue has occured. Retry?"
 msgstr "Er is een verbindingsprobleem opgetreden. Wil je het opnieuw proberen?"
 
-#: dialect/window.py:233
+#: dialect/window.py:236
 msgid ""
 "A network issue has occured.\n"
 "Please try again."
@@ -348,15 +348,15 @@ msgstr ""
 "Er is een verbindingsprobleem opgetreden.\n"
 "Probeer het opnieuw."
 
-#: dialect/window.py:489 dialect/window.py:493
+#: dialect/window.py:492 dialect/window.py:496
 msgid "Auto"
 msgstr "Automatisch"
 
-#: dialect/window.py:765
+#: dialect/window.py:768
 msgid "5000 characters limit reached!"
 msgstr "Je hebt het tekenlimiet (5000) bereikt!"
 
-#: dialect/window.py:866
+#: dialect/window.py:870
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
@@ -364,7 +364,7 @@ msgstr ""
 "De vertaling is mislukt.\n"
 "Controleer je internetverbinding."
 
-#: dialect/window.py:882
+#: dialect/window.py:886
 msgid "Did you mean: "
 msgstr "Bedoelde je: "
 
