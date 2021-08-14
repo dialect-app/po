@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 19:32+0530\n"
-"PO-Revision-Date: 2021-05-29 00:11+0000\n"
+"PO-Revision-Date: 2021-08-14 12:23+0000\n"
 "Last-Translator: Swann Fournial <s.fournial@protonmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/dialect/dialect/"
 "fr/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 4.8-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
@@ -34,7 +34,7 @@ msgstr "Traduire entre les langues"
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/com.github.gi_lom.dialect.desktop.in:13
 msgid "translate;translation;"
-msgstr "traduire;traduction;"
+msgstr "translate;translation;traduire;traduction;"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:9 data/resources/about.ui:12
 msgid "A translation app for GNOME."
@@ -192,8 +192,6 @@ msgstr ""
 "le fournisseur de recherche soit également activé dans les paramètres GNOME."
 
 #: data/resources/shortcuts-window.ui:13
-#, fuzzy
-#| msgid "Translator"
 msgctxt "shortcuts window"
 msgid "Translator"
 msgstr "Traducteur"
@@ -211,25 +209,19 @@ msgstr "Intervertir les langues"
 #: data/resources/shortcuts-window.ui:31
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "Effacer le texte source"
 
 #: data/resources/shortcuts-window.ui:38
-#, fuzzy
-#| msgid "Next translation"
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr "Traduction suivante"
+msgstr "Copier la traduction"
 
 #: data/resources/shortcuts-window.ui:45
-#, fuzzy
-#| msgid "Show Pronunciation"
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
 msgstr "Afficher la prononciation"
 
 #: data/resources/shortcuts-window.ui:54
-#, fuzzy
-#| msgid "Text-to-Speech"
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
 msgstr "Synthèse vocale"
@@ -237,31 +229,27 @@ msgstr "Synthèse vocale"
 #: data/resources/shortcuts-window.ui:58
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "Écouter le texte source"
 
 #: data/resources/shortcuts-window.ui:65
-#, fuzzy
-#| msgid "Next translation"
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr "Traduction suivante"
+msgstr "Écouter la traduction"
 
 #: data/resources/shortcuts-window.ui:74
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "Navigation"
 
 #: data/resources/shortcuts-window.ui:78
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "Remonter dans l'historique"
 
 #: data/resources/shortcuts-window.ui:85
-#, fuzzy
-#| msgid "Translation history"
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr "Historique de traduction"
+msgstr "Avancer dans l'historique"
 
 #: data/resources/shortcuts-window.ui:94
 msgctxt "shortcuts window"
@@ -274,11 +262,9 @@ msgid "Preferences"
 msgstr "Préférences"
 
 #: data/resources/shortcuts-window.ui:105
-#, fuzzy
-#| msgid "Keyboard Shortcuts"
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr "Raccourcis clavier"
+msgstr "Raccourcis"
 
 #: data/resources/shortcuts-window.ui:112
 msgctxt "shortcuts window"
