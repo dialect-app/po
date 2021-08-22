@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 19:32+0530\n"
-"PO-Revision-Date: 2021-08-13 22:00+0000\n"
+"PO-Revision-Date: 2021-08-22 08:34+0000\n"
 "Last-Translator: Gediminas Murauskas <muziejusinfo@gmail.com>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/dialect/"
 "dialect/lt/>\n"
@@ -19,7 +19,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n % 10 == 1 && (n % 100 < 11 || n % 100 > "
 "19)) ? 0 : ((n % 10 >= 2 && n % 10 <= 9 && (n % 100 < 11 || n % 100 > 19)) ? "
 "1 : 2);\n"
-"X-Generator: Weblate 4.8-dev\n"
+"X-Generator: Weblate 4.8.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
@@ -117,7 +117,7 @@ msgstr "Tamsusis režimas"
 
 #: data/resources/preferences.ui:35
 msgid "Behavior"
-msgstr "Elgesys"
+msgstr "Elgsena"
 
 #: data/resources/preferences.ui:39
 msgid "Live Translation"
