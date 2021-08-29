@@ -8,173 +8,178 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 19:32+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-08-29 19:17+0000\n"
+"Last-Translator: Hemish <hemish04082005@gmail.com>\n"
+"Language-Team: Hindi <https://hosted.weblate.org/projects/dialect/dialect/hi/"
+">\n"
 "Language: hi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.8.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/about.ui:10
 #: data/resources/window.ui:66 dialect/main.py:56 dialect/main.py:93
 msgid "Dialect"
-msgstr ""
+msgstr "Dialect"
 
 #: data/com.github.gi_lom.dialect.desktop.in:9
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:7
 msgid "Translate between languages"
-msgstr ""
+msgstr "भाषाओं के बीच अनुवाद"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/com.github.gi_lom.dialect.desktop.in:13
 msgid "translate;translation;"
-msgstr ""
+msgstr "अनुवाद;translate;translation;"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:9 data/resources/about.ui:12
 msgid "A translation app for GNOME."
-msgstr ""
+msgstr "GNOME के लिए एक अनुवादक ऐप।"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:12
 msgid "Features:"
-msgstr ""
+msgstr "सुविधाएँ:"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:16
 msgid "Translation based on an unofficial API for Google Translate"
-msgstr ""
+msgstr "Google Translate के लिए गैरअधिकृत API पर आधारित अनुवाद"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:17
 msgid ""
 "Translation based on the LibreTranslate API, allowing you use any instance "
 "available online"
 msgstr ""
+"LibreTranslate API पर आधारित अनुवाद, जो आपको ऑनलाइन उपलब्ध किसी भी instance "
+"का उपयोग करने की अनुमति देता है"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:18
 msgid "Text to speech"
-msgstr ""
+msgstr "लेख से आवाज़"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:19
 msgid "Translation history"
-msgstr ""
+msgstr "पिछले अनुवादों का इतिहास रखता है"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:20
 msgid "Automatic language detection"
-msgstr ""
+msgstr "भाषा का पता लगाना (स्वचालित)"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:21
 msgid "Clipboard buttons"
-msgstr ""
+msgstr "Clipboard के बटन"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:27
 msgid "The Dialect Authors"
-msgstr ""
+msgstr "Dialect के रचनाकार (निर्माता)"
 
 #: data/resources/about.ui:11
 msgid "Copyright 2020–⁠2021 The Dialect Authors"
-msgstr ""
+msgstr "Copyright 2020–⁠2021 Dialect के निर्माता"
 
 #: data/resources/about.ui:14
 msgid "GitHub page"
-msgstr ""
+msgstr "GitHub वेबपेज (वेब पृष्ठ)"
 
 #. Replace me with your names.
 #: data/resources/about.ui:19
 msgid "translator-credits"
-msgstr ""
+msgstr "Hemish (hemish04082005)"
 
 #: data/resources/menu.ui:7
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "उच्चारण दिखाएँ"
 
 #: data/resources/menu.ui:14
 msgid "Preferences"
-msgstr ""
+msgstr "सेटिंग्स"
 
 #: data/resources/menu.ui:18
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "कीबोर्ड शॉर्टकट"
 
 #: data/resources/menu.ui:22
 msgid "About Dialect"
-msgstr ""
+msgstr "Dialect के बारे में"
 
 #: data/resources/preferences.ui:15
 msgid "Appearance"
-msgstr ""
+msgstr "दिखावट"
 
 #: data/resources/preferences.ui:19
 msgid "Dark Mode"
-msgstr ""
+msgstr "डार्क मोड"
 
 #: data/resources/preferences.ui:35
 msgid "Behavior"
-msgstr ""
+msgstr "व्यवहार"
 
 #: data/resources/preferences.ui:39
 msgid "Live Translation"
-msgstr ""
+msgstr "लाइव अनुवाद"
 
 #: data/resources/preferences.ui:40
 msgid "Warning: Your IP address may get banned for API abuse."
-msgstr ""
+msgstr "चेतावनी: API दुरुपयोग के लिए आपका IP पता प्रतिबंधित हो सकता है।"
 
 #: data/resources/preferences.ui:54
 msgid "Translation Shortcut"
-msgstr ""
+msgstr "अनुवाद शॉर्टकट"
 
 #: data/resources/preferences.ui:55
 msgid "The unselected choice will be used for line break."
-msgstr ""
+msgstr "अचयनित विकल्प का उपयोग लाइन ब्रेक के लिए किया जाएगा।"
 
 #: data/resources/preferences.ui:61
 msgid "Default to Auto"
-msgstr ""
+msgstr "हमेशा Auto मोड रखें"
 
 #: data/resources/preferences.ui:62
 msgid "Use \"Auto\" as the default language"
-msgstr ""
+msgstr "स्रोत (Source) भाषा का चयन जाँचकर अपने आप करें"
 
 #: data/resources/preferences.ui:76
 msgid "Translator"
-msgstr ""
+msgstr "अनुवादक"
 
 #: data/resources/preferences.ui:77
 msgid "Choose from the available translation services."
-msgstr ""
+msgstr "उपलब्ध अनुवाद सेवाओं में से चुनें।"
 
 #: data/resources/preferences.ui:83
 msgid "Translator Instance"
-msgstr ""
+msgstr "अनुवादक instance"
 
 #: data/resources/preferences.ui:84
 msgid "Enter a translation service URL."
-msgstr ""
+msgstr "अनुवाद सेवा का URL लिखें।"
 
 #: data/resources/preferences.ui:109
 msgid "Edit"
-msgstr ""
+msgstr "बदलें"
 
 #: data/resources/preferences.ui:143
 msgid "Reset to default"
-msgstr ""
+msgstr "पहले जैसा करें"
 
 #: data/resources/preferences.ui:158
 msgid "Save"
-msgstr ""
+msgstr "स्थापित करें (Save)"
 
 #: data/resources/preferences.ui:175
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "लेख से आवाज़"
 
 #: data/resources/preferences.ui:176
 msgid "Use Google for TTS."
-msgstr ""
+msgstr "लेख से आवाज़ (TTS) के लिए Google का इस्तेमाल करें।"
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
-msgstr ""
+msgstr "खोज प्रदाता"
 
 #: data/resources/preferences.ui:193
 msgid ""
@@ -182,176 +187,183 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
+"API दुरुपयोग को कम करने के लिए, लाइव अनुवाद बंद करने पर GNOME Search (खोज) "
+"में अनुवाद प्रदाता बंद कर दिया जाता है। सुनिश्चित करें कि GNOME सेटिंग्स में "
+"खोज प्रदाता चालू है।"
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
 msgid "Translator"
-msgstr ""
+msgstr "अनुवादक"
 
 #: data/resources/shortcuts-window.ui:17
 msgctxt "shortcuts window"
 msgid "Translate"
-msgstr ""
+msgstr "अनुवाद करें"
 
 #: data/resources/shortcuts-window.ui:24
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr ""
+msgstr "भाषाओं के स्थान बदलें"
 
 #: data/resources/shortcuts-window.ui:31
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "स्रोत (Source) लेख खाली करें"
 
 #: data/resources/shortcuts-window.ui:38
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr ""
+msgstr "अनुवाद को copy (प्रतिलिपित) करें"
 
 #: data/resources/shortcuts-window.ui:45
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "उच्चारण दिखाएँ"
 
 #: data/resources/shortcuts-window.ui:54
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "लेख से आवाज़"
 
 #: data/resources/shortcuts-window.ui:58
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "स्त्रोत (Source) लेख को सुनें"
 
 #: data/resources/shortcuts-window.ui:65
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr ""
+msgstr "अनुवाद को सुनें"
 
 #: data/resources/shortcuts-window.ui:74
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "विचरण्"
 
 #: data/resources/shortcuts-window.ui:78
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "पिछ्ले अनुवाद पर जाएँ"
 
 #: data/resources/shortcuts-window.ui:85
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr ""
+msgstr "अगले अनुवाद पर जाएँ"
 
 #: data/resources/shortcuts-window.ui:94
 msgctxt "shortcuts window"
 msgid "General"
-msgstr ""
+msgstr "आम (General)"
 
 #: data/resources/shortcuts-window.ui:98
 msgctxt "shortcuts window"
 msgid "Preferences"
-msgstr ""
+msgstr "सेटिंग्स"
 
 #: data/resources/shortcuts-window.ui:105
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr ""
+msgstr "शॉर्टकट"
 
 #: data/resources/shortcuts-window.ui:112
 msgctxt "shortcuts window"
 msgid "Quit"
-msgstr ""
+msgstr "बंद करें"
 
 #: data/resources/window.ui:42
 msgid "Loading…"
-msgstr ""
+msgstr "लोड हो रहा है…"
 
 #: data/resources/window.ui:83
 msgid "Could not load the translator service"
-msgstr ""
+msgstr "अनुवादक सेवा लोड नहीं हो पाई"
 
 #: data/resources/window.ui:108
 msgid "Retry"
-msgstr ""
+msgstr "दोबारा कोशिश करें"
 
 #: data/resources/window.ui:115
 msgid "Open preferences"
-msgstr ""
+msgstr "सेटिंग्स खोलें"
 
 #: data/resources/window.ui:194 data/resources/window.ui:728
 msgid "Switch languages"
-msgstr ""
+msgstr "भाषाओं के स्थान बदलें"
 
 #: data/resources/window.ui:274
 msgid "Previous translation"
-msgstr ""
+msgstr "पिछला अनुवाद"
 
 #: data/resources/window.ui:293
 msgid "Next translation"
-msgstr ""
+msgstr "अगला अनुवाद"
 
 #: data/resources/window.ui:454
 msgid "Clear"
-msgstr ""
+msgstr "खाली करें"
 
 #: data/resources/window.ui:470
 msgid "Paste"
-msgstr ""
+msgstr "Paste करें"
 
 #: data/resources/window.ui:486 data/resources/window.ui:624
 msgid "Listen"
-msgstr ""
+msgstr "सुनें"
 
 #: data/resources/window.ui:494
 msgid "Translate"
-msgstr ""
+msgstr "अनुवाद करें"
 
 #: data/resources/window.ui:605
 msgid "Translating…"
-msgstr ""
+msgstr "अनुवाद हो रहा है…"
 
 #: data/resources/window.ui:613
 msgid "Could not translate the text"
-msgstr ""
+msgstr "दिए गए लेख का अनुवाद नहीं हो पाया"
 
 #: data/resources/window.ui:639
 msgid "Copy"
-msgstr ""
+msgstr "Copy करें"
 
 #: data/resources/window.ui:820
 msgid "No network connection detected."
-msgstr ""
+msgstr "कोई नेटवर्क कनेक्शन नहीं मिला।"
 
 #: dialect/preferences.py:250
 #, python-brace-format
 msgid "Not a valid {backend} instance"
-msgstr ""
+msgstr "{backend} मान्य instance नहीं है"
 
 #: dialect/window.py:232
 msgid "A network issue has occured. Retry?"
-msgstr ""
+msgstr "एक नेटवर्क समस्या उत्पन्न हुई। दोबारा कोशिश करें?"
 
 #: dialect/window.py:236
 msgid ""
 "A network issue has occured.\n"
 "Please try again."
 msgstr ""
+"एक नेटवर्क समस्या उत्पन्न हुई।\n"
+"कृपया दोबारा कोशिश करें।"
 
 #: dialect/window.py:492 dialect/window.py:496
 msgid "Auto"
-msgstr ""
+msgstr "Auto (ऑटोमेटिक)"
 
 #: dialect/window.py:768
 msgid "5000 characters limit reached!"
-msgstr ""
+msgstr "5000 वर्णों की सीमा पूरी हो गई!"
 
 #: dialect/window.py:870
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
 msgstr ""
+"अनुवाद विफल हुआ।\n"
+"कृपया नेटवर्क समस्याओं की जांच करें।"
 
 #: dialect/window.py:886
 msgid "Did you mean: "
-msgstr ""
+msgstr "क्या आपका मतलब यह था: "
