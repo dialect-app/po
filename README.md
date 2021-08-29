@@ -18,6 +18,7 @@ eu             | Basque               | Sergio Varela
 fa             | Persian              | @musicsd
 fr             | French               | Swann Fournial
 he             | Hebrew               | @yarons
+hi             | Hindi                | @hemish04082005
 hr             | Croatian             | @milotype
 hu             | Hungarian            | @meskobalazs
 id             | Indonesian           | @cho2
