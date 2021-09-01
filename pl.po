@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 19:32+0530\n"
-"PO-Revision-Date: 2021-06-21 11:33+0000\n"
+"PO-Revision-Date: 2021-09-01 15:34+0000\n"
 "Last-Translator: IntinteDAO <lordfervi@protonmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/dialect/dialect/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.7\n"
+"X-Generator: Weblate 4.8.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
@@ -213,7 +213,7 @@ msgstr "Zamień języki"
 #: data/resources/shortcuts-window.ui:31
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "Wyczyść tekst źródłowy"
 
 #: data/resources/shortcuts-window.ui:38
 #, fuzzy
@@ -239,7 +239,7 @@ msgstr "Tekst-na-Mowę"
 #: data/resources/shortcuts-window.ui:58
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "Wysłuchaj tekstu źródłowego"
 
 #: data/resources/shortcuts-window.ui:65
 #, fuzzy
@@ -251,7 +251,7 @@ msgstr "Następne tłumaczenie"
 #: data/resources/shortcuts-window.ui:74
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "Nawigacja"
 
 #: data/resources/shortcuts-window.ui:78
 msgctxt "shortcuts window"
