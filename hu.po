@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 19:32+0530\n"
-"PO-Revision-Date: 2021-08-25 07:32+0000\n"
+"PO-Revision-Date: 2021-09-05 22:30+0000\n"
 "Last-Translator: ovari <ovari123@zoho.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/dialect/"
 "dialect/hu/>\n"
@@ -24,7 +24,7 @@ msgstr ""
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/about.ui:10
 #: data/resources/window.ui:66 dialect/main.py:56 dialect/main.py:93
 msgid "Dialect"
-msgstr "Dialect"
+msgstr "Nyelvjárás"
 
 #: data/com.github.gi_lom.dialect.desktop.in:9
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:7
@@ -74,11 +74,11 @@ msgstr "Vágólap gombok"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:27
 msgid "The Dialect Authors"
-msgstr "A Dialect szerzői"
+msgstr "A Nyelvjárás szerzői"
 
 #: data/resources/about.ui:11
 msgid "Copyright 2020–⁠2021 The Dialect Authors"
-msgstr "Copyright 2020–2021 A Dialect szerzői"
+msgstr "Szerzői jog © 2020–2021 A Nyelvjárás szerzői"
 
 #: data/resources/about.ui:14
 msgid "GitHub page"
@@ -103,7 +103,7 @@ msgstr "Gyorsbillentyűk"
 
 #: data/resources/menu.ui:22
 msgid "About Dialect"
-msgstr "A Dialect névjegye"
+msgstr "A Nyelvjárás névjegye"
 
 #: data/resources/preferences.ui:15
 msgid "Appearance"
@@ -188,7 +188,7 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
-"Az API-val történő visszaélés csökkentése miatt, a Dialectben lévő GNOME "
+"Az API-val történő visszaélés csökkentése miatt, a Nyelvjárásban lévő GNOME "
 "keresésszolgáltató kikapcsolása kerül, ha az élő fordítás be van kapcsolva. "
 "Győződjön meg róla, hogy a keresésszolgáltató a GNOME Beállításokban is be "
 "van kapcsolva."
