@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 19:32+0530\n"
-"PO-Revision-Date: 2021-06-01 10:32+0000\n"
+"PO-Revision-Date: 2021-09-05 22:30+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/dialect/dialect/"
 "hr/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 4.8.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
@@ -216,22 +216,16 @@ msgid "Clear source text"
 msgstr ""
 
 #: data/resources/shortcuts-window.ui:38
-#, fuzzy
-#| msgid "Next translation"
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr "Sljedeći prijevod"
+msgstr "Kopiraj prijevod"
 
 #: data/resources/shortcuts-window.ui:45
-#, fuzzy
-#| msgid "Show Pronunciation"
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
 msgstr "Pokaži izgovor"
 
 #: data/resources/shortcuts-window.ui:54
-#, fuzzy
-#| msgid "Text-to-Speech"
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
 msgstr "Tekst u govor"
@@ -276,11 +270,9 @@ msgid "Preferences"
 msgstr "Postavke"
 
 #: data/resources/shortcuts-window.ui:105
-#, fuzzy
-#| msgid "Keyboard Shortcuts"
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr "Tipkovni prečaci"
+msgstr "Prečaci"
 
 #: data/resources/shortcuts-window.ui:112
 msgctxt "shortcuts window"
