@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 19:32+0530\n"
-"PO-Revision-Date: 2021-09-05 22:30+0000\n"
+"PO-Revision-Date: 2021-09-06 23:35+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/dialect/dialect/"
 "hr/>\n"
@@ -47,15 +47,15 @@ msgstr "Funkcije:"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:16
 msgid "Translation based on an unofficial API for Google Translate"
-msgstr "Prevođenje zasnovano na neslužbenom API-ju za Google Prevoditelj"
+msgstr "Prevođenje zasnovano na neslužbenom API-u za Google Prevoditelj"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:17
 msgid ""
 "Translation based on the LibreTranslate API, allowing you use any instance "
 "available online"
 msgstr ""
-"Prevođenje zasnovano na LibreTranslate API-ju, dozvoljava upotrebu bilo "
-"kojeg primjerka koji je dostupan na internetu"
+"Prevođenje zasnovano na LibreTranslate API-u, dozvoljava upotrebu bilo kojeg "
+"primjerka koji je dostupan na internetu"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:18
 msgid "Text to speech"
@@ -125,7 +125,7 @@ msgstr "Prevođenje uživo"
 #: data/resources/preferences.ui:40
 msgid "Warning: Your IP address may get banned for API abuse."
 msgstr ""
-"Upozorenje: Tvoja će se IP adresa možda zabraniti zbog zlouporabe API-ja."
+"Upozorenje: Tvoja će se IP adresa možda zabraniti zbog zlouporabe API-a."
 
 #: data/resources/preferences.ui:54
 msgid "Translation Shortcut"
@@ -189,13 +189,11 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
-"Da bi se smanjila zlouporaba API-ja, u Dialectu se GNOME tražilica "
-"isključuje kad je prijevod uživo. Provjeri je li tražilica uključena i u "
-"postavkama GNOME-a."
+"Da bi se smanjila zlouporaba API-a, u Dialectu se GNOME tražilica isključuje "
+"kad je prijevod uživo. Provjeri je li tražilica uključena i u postavkama "
+"GNOME-a."
 
 #: data/resources/shortcuts-window.ui:13
-#, fuzzy
-#| msgid "Translator"
 msgctxt "shortcuts window"
 msgid "Translator"
 msgstr "Prevoditelj"
@@ -213,7 +211,7 @@ msgstr "Zamijeni jezike"
 #: data/resources/shortcuts-window.ui:31
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "Izbriši Izvorni tekst"
 
 #: data/resources/shortcuts-window.ui:38
 msgctxt "shortcuts window"
@@ -233,31 +231,27 @@ msgstr "Tekst u govor"
 #: data/resources/shortcuts-window.ui:58
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "Poslušaj izvorni tekst"
 
 #: data/resources/shortcuts-window.ui:65
-#, fuzzy
-#| msgid "Next translation"
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr "Sljedeći prijevod"
+msgstr "Poslušaj prijevod"
 
 #: data/resources/shortcuts-window.ui:74
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "Navigacija"
 
 #: data/resources/shortcuts-window.ui:78
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "Idi natrag u povijesti"
 
 #: data/resources/shortcuts-window.ui:85
-#, fuzzy
-#| msgid "Translation history"
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr "Povijest prevođenja"
+msgstr "Idi naprijed u povijesti"
 
 #: data/resources/shortcuts-window.ui:94
 msgctxt "shortcuts window"
@@ -317,7 +311,7 @@ msgstr "Umetni"
 
 #: data/resources/window.ui:486 data/resources/window.ui:624
 msgid "Listen"
-msgstr "Slušaj"
+msgstr "Poslušaj"
 
 #: data/resources/window.ui:494
 msgid "Translate"
@@ -325,7 +319,7 @@ msgstr "Prevedi"
 
 #: data/resources/window.ui:605
 msgid "Translating…"
-msgstr "Prevođenje …"
+msgstr "Prevodi se …"
 
 #: data/resources/window.ui:613
 msgid "Could not translate the text"
@@ -342,7 +336,7 @@ msgstr "Nedostaje internetska veza."
 #: dialect/preferences.py:250
 #, python-brace-format
 msgid "Not a valid {backend} instance"
-msgstr "Nije ispravni {backend} primjerak"
+msgstr "Nije ispravan {backend} primjerak"
 
 #: dialect/window.py:232
 msgid "A network issue has occured. Retry?"
