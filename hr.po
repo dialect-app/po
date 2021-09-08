@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-08-11 19:32+0530\n"
-"PO-Revision-Date: 2021-09-06 23:35+0000\n"
+"PO-Revision-Date: 2021-09-08 18:33+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/dialect/dialect/"
 "hr/>\n"
@@ -275,7 +275,7 @@ msgstr "Zatvori program"
 
 #: data/resources/window.ui:42
 msgid "Loading…"
-msgstr "Učitavanje …"
+msgstr "Učitava se …"
 
 #: data/resources/window.ui:83
 msgid "Could not load the translator service"
