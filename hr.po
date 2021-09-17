@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-11 19:32+0530\n"
+"Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
+"POT-Creation-Date: 2021-09-17 18:09+0530\n"
 "PO-Revision-Date: 2021-09-08 18:33+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -338,11 +338,11 @@ msgstr "Nedostaje internetska veza."
 msgid "Not a valid {backend} instance"
 msgstr "Nije ispravan {backend} primjerak"
 
-#: dialect/window.py:232
+#: dialect/window.py:234
 msgid "A network issue has occured. Retry?"
 msgstr "Problem s internetskom vezom. Ponovo pokušati?"
 
-#: dialect/window.py:236
+#: dialect/window.py:238
 msgid ""
 "A network issue has occured.\n"
 "Please try again."
@@ -350,15 +350,15 @@ msgstr ""
 "Problem s internetskom vezom.\n"
 "Pokušaj ponovo."
 
-#: dialect/window.py:492 dialect/window.py:496
+#: dialect/window.py:498 dialect/window.py:502
 msgid "Auto"
 msgstr "Automatski"
 
-#: dialect/window.py:768
+#: dialect/window.py:775
 msgid "5000 characters limit reached!"
 msgstr "Dostignuto je ograničenje od 5.000 znakova!"
 
-#: dialect/window.py:870
+#: dialect/window.py:877
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
@@ -366,9 +366,449 @@ msgstr ""
 "Prevođenje neuspjelo.\n"
 "Provjeri internetsku vezu."
 
-#: dialect/window.py:886
+#: dialect/window.py:893
 msgid "Did you mean: "
 msgstr "Možda misliš: "
+
+#: dialect/translators/__init__.py:26
+msgid "Afrikaans"
+msgstr "afrikaans"
+
+#: dialect/translators/__init__.py:27
+msgid "Albanian"
+msgstr "albanski"
+
+#: dialect/translators/__init__.py:28
+msgid "Amharic"
+msgstr "amharik"
+
+#: dialect/translators/__init__.py:29
+msgid "Arabic"
+msgstr "arapski"
+
+#: dialect/translators/__init__.py:30
+msgid "Armenian"
+msgstr "armenijski"
+
+#: dialect/translators/__init__.py:31
+msgid "Azerbaijani"
+msgstr "azerbajdžanski"
+
+#: dialect/translators/__init__.py:32
+msgid "Basque"
+msgstr "baskijski"
+
+#: dialect/translators/__init__.py:33
+msgid "Belarusian"
+msgstr "bjeloruski"
+
+#: dialect/translators/__init__.py:34
+msgid "Bengali"
+msgstr "bengalski"
+
+#: dialect/translators/__init__.py:35
+msgid "Bosnian"
+msgstr "bosanski"
+
+#: dialect/translators/__init__.py:36
+msgid "Bulgarian"
+msgstr "bugarski"
+
+#: dialect/translators/__init__.py:37
+msgid "Catalan"
+msgstr "katalonski"
+
+#: dialect/translators/__init__.py:38
+msgid "Cebuano"
+msgstr "cebuano"
+
+#: dialect/translators/__init__.py:39
+msgid "Chichewa"
+msgstr "Chichewa"
+
+#: dialect/translators/__init__.py:40
+msgid "Chinese"
+msgstr ""
+
+#: dialect/translators/__init__.py:41
+msgid "Chinese (Simplified)"
+msgstr "kineski"
+
+#: dialect/translators/__init__.py:42
+msgid "Chinese (Traditional)"
+msgstr "kineski (tradicionalni)"
+
+#: dialect/translators/__init__.py:43
+msgid "Corsican"
+msgstr "korzički"
+
+#: dialect/translators/__init__.py:44
+msgid "Croatian"
+msgstr "hrvatski"
+
+#: dialect/translators/__init__.py:45
+msgid "Czech"
+msgstr "češki"
+
+#: dialect/translators/__init__.py:46
+msgid "Danish"
+msgstr "danski"
+
+#: dialect/translators/__init__.py:47
+msgid "Dutch"
+msgstr "nizozemski"
+
+#: dialect/translators/__init__.py:48
+msgid "English"
+msgstr "engleski"
+
+#: dialect/translators/__init__.py:49
+msgid "Esperanto"
+msgstr "esperanto"
+
+#: dialect/translators/__init__.py:50
+msgid "Estonian"
+msgstr "estonski"
+
+#: dialect/translators/__init__.py:51
+msgid "Filipino"
+msgstr "tagalog"
+
+#: dialect/translators/__init__.py:52
+msgid "Finnish"
+msgstr "finski"
+
+#: dialect/translators/__init__.py:53
+msgid "French"
+msgstr "francuski"
+
+#: dialect/translators/__init__.py:54
+msgid "Frisian"
+msgstr "frizijski"
+
+#: dialect/translators/__init__.py:55
+msgid "Galician"
+msgstr "galski"
+
+#: dialect/translators/__init__.py:56
+msgid "Georgian"
+msgstr "gruzijski"
+
+#: dialect/translators/__init__.py:57
+msgid "German"
+msgstr "njemački"
+
+#: dialect/translators/__init__.py:58
+msgid "Greek"
+msgstr "grčki"
+
+#: dialect/translators/__init__.py:59
+msgid "Gujarati"
+msgstr "gujarati"
+
+#: dialect/translators/__init__.py:60
+msgid "Haitian Creole"
+msgstr "haićansko-kreolski"
+
+#: dialect/translators/__init__.py:61
+msgid "Hausa"
+msgstr "hausa"
+
+#: dialect/translators/__init__.py:62
+msgid "Hawaiian"
+msgstr "havajski"
+
+#: dialect/translators/__init__.py:63 dialect/translators/__init__.py:64
+msgid "Hebrew"
+msgstr "hebrejski"
+
+#: dialect/translators/__init__.py:65
+msgid "Hindi"
+msgstr "hindu"
+
+#: dialect/translators/__init__.py:66
+msgid "Hmong"
+msgstr "hmong"
+
+#: dialect/translators/__init__.py:67
+msgid "Hungarian"
+msgstr "mađarski"
+
+#: dialect/translators/__init__.py:68
+msgid "Icelandic"
+msgstr "islandski"
+
+#: dialect/translators/__init__.py:69
+msgid "Igbo"
+msgstr "igbo"
+
+#: dialect/translators/__init__.py:70
+msgid "Indonesian"
+msgstr "indonezijski"
+
+#: dialect/translators/__init__.py:71
+msgid "Irish"
+msgstr "irski"
+
+#: dialect/translators/__init__.py:72
+msgid "Italian"
+msgstr "talijanski"
+
+#: dialect/translators/__init__.py:73
+msgid "Japanese"
+msgstr "japanski"
+
+#: dialect/translators/__init__.py:74
+msgid "Javanese"
+msgstr "javanski"
+
+#: dialect/translators/__init__.py:75
+msgid "Kannada"
+msgstr "kannada"
+
+#: dialect/translators/__init__.py:76
+msgid "Kazakh"
+msgstr "kazaški"
+
+#: dialect/translators/__init__.py:77
+msgid "Khmer"
+msgstr "kmerski"
+
+#: dialect/translators/__init__.py:78
+msgid "Kinyarwanda"
+msgstr "kinyarwanda"
+
+#: dialect/translators/__init__.py:79
+msgid "Korean"
+msgstr "korejski"
+
+#: dialect/translators/__init__.py:80
+msgid "Kurdish (Kurmanji)"
+msgstr "kurdski"
+
+#: dialect/translators/__init__.py:81
+msgid "Kyrgyz"
+msgstr "kirgistanski"
+
+#: dialect/translators/__init__.py:82
+msgid "Lao"
+msgstr "laoski"
+
+#: dialect/translators/__init__.py:83
+msgid "Latin"
+msgstr "latinski"
+
+#: dialect/translators/__init__.py:84
+msgid "Latvian"
+msgstr "latvijski/letonski"
+
+#: dialect/translators/__init__.py:85
+msgid "Lithuanian"
+msgstr "litvanski"
+
+#: dialect/translators/__init__.py:86
+msgid "Luxembourgish"
+msgstr "luksemburški"
+
+#: dialect/translators/__init__.py:87
+msgid "Macedonian"
+msgstr "makedonski"
+
+#: dialect/translators/__init__.py:88
+msgid "Malagasy"
+msgstr "malgaški"
+
+#: dialect/translators/__init__.py:89
+msgid "Malay"
+msgstr "malezijski"
+
+#: dialect/translators/__init__.py:90
+msgid "Malayalam"
+msgstr "malajalam"
+
+#: dialect/translators/__init__.py:91
+msgid "Maltese"
+msgstr "malteški"
+
+#: dialect/translators/__init__.py:92
+msgid "Maori"
+msgstr "maori"
+
+#: dialect/translators/__init__.py:93
+msgid "Marathi"
+msgstr "marati"
+
+#: dialect/translators/__init__.py:94
+msgid "Mongolian"
+msgstr "mongolski"
+
+#: dialect/translators/__init__.py:95
+msgid "Myanmar (Burmese)"
+msgstr "burmanski"
+
+#: dialect/translators/__init__.py:96
+msgid "Nepali"
+msgstr "nepalski"
+
+#: dialect/translators/__init__.py:97
+msgid "Norwegian"
+msgstr "norveški"
+
+#: dialect/translators/__init__.py:98
+msgid "Odia (Oriya)"
+msgstr "odijski (orijski)"
+
+#: dialect/translators/__init__.py:99
+msgid "Pashto"
+msgstr "paštu"
+
+#: dialect/translators/__init__.py:100
+msgid "Persian"
+msgstr "perzijski"
+
+#: dialect/translators/__init__.py:101
+msgid "Polish"
+msgstr "poljski"
+
+#: dialect/translators/__init__.py:102
+msgid "Portuguese"
+msgstr "portugalski"
+
+#: dialect/translators/__init__.py:103
+msgid "Punjabi"
+msgstr "punjabi"
+
+#: dialect/translators/__init__.py:104
+msgid "Romanian"
+msgstr "rumunjski"
+
+#: dialect/translators/__init__.py:105
+msgid "Russian"
+msgstr "ruski"
+
+#: dialect/translators/__init__.py:106
+msgid "Samoan"
+msgstr "samoanski"
+
+#: dialect/translators/__init__.py:107
+msgid "Scots Gaelic"
+msgstr "škotski keltski"
+
+#: dialect/translators/__init__.py:108
+msgid "Serbian"
+msgstr "srpski"
+
+#: dialect/translators/__init__.py:109
+msgid "Sesotho"
+msgstr "sesotski"
+
+#: dialect/translators/__init__.py:110
+msgid "Shona"
+msgstr "sahona"
+
+#: dialect/translators/__init__.py:111
+msgid "Sindhi"
+msgstr "sindi"
+
+#: dialect/translators/__init__.py:112
+msgid "Sinhala"
+msgstr "singaleski"
+
+#: dialect/translators/__init__.py:113
+msgid "Slovak"
+msgstr "slovački"
+
+#: dialect/translators/__init__.py:114
+msgid "Slovenian"
+msgstr "slovenski"
+
+#: dialect/translators/__init__.py:115
+msgid "Somali"
+msgstr "somalijski"
+
+#: dialect/translators/__init__.py:116
+msgid "Spanish"
+msgstr "španjolski"
+
+#: dialect/translators/__init__.py:117
+msgid "Sundanese"
+msgstr "sundanski"
+
+#: dialect/translators/__init__.py:118
+msgid "Swahili"
+msgstr "svahili"
+
+#: dialect/translators/__init__.py:119
+msgid "Swedish"
+msgstr "švedski"
+
+#: dialect/translators/__init__.py:120
+msgid "Tajik"
+msgstr "tadžik"
+
+#: dialect/translators/__init__.py:121
+msgid "Tamil"
+msgstr "tamilski"
+
+#: dialect/translators/__init__.py:122
+msgid "Tatar"
+msgstr "tatarski"
+
+#: dialect/translators/__init__.py:123
+msgid "Telugu"
+msgstr "telugu"
+
+#: dialect/translators/__init__.py:124
+msgid "Thai"
+msgstr "tajlandski"
+
+#: dialect/translators/__init__.py:125
+msgid "Turkish"
+msgstr "turski"
+
+#: dialect/translators/__init__.py:126
+msgid "Turkmen"
+msgstr "turkmenski"
+
+#: dialect/translators/__init__.py:127
+msgid "Ukrainian"
+msgstr "ukrajinski"
+
+#: dialect/translators/__init__.py:128
+msgid "Urdu"
+msgstr "urdu"
+
+#: dialect/translators/__init__.py:129
+msgid "Uyghur"
+msgstr "ujgurski"
+
+#: dialect/translators/__init__.py:130
+msgid "Uzbek"
+msgstr "uzbekistanski"
+
+#: dialect/translators/__init__.py:131
+msgid "Vietnamese"
+msgstr "vijetnamski"
+
+#: dialect/translators/__init__.py:132
+msgid "Welsh"
+msgstr "velški"
+
+#: dialect/translators/__init__.py:133
+msgid "Xhosa"
+msgstr "xhosa"
+
+#: dialect/translators/__init__.py:134
+msgid "Yiddish"
+msgstr "jidiš"
+
+#: dialect/translators/__init__.py:135
+msgid "Yoruba"
+msgstr "joruba"
+
+#: dialect/translators/__init__.py:136
+msgid "Zulu"
+msgstr "zulu"
 
 #~ msgid "Use Google for Text to Speech functionality."
 #~ msgstr "Koristi Googleovu funkciju za tekst u govor."

@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-11 19:32+0530\n"
+"Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
+"POT-Creation-Date: 2021-09-17 18:09+0530\n"
 "PO-Revision-Date: 2021-05-23 15:30+0000\n"
 "Last-Translator: Sergio Varela <sergitroll9@gmail.com>\n"
 "Language-Team: Basque <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -369,11 +369,11 @@ msgstr "Ez da sare-konexiorik detektatu."
 msgid "Not a valid {backend} instance"
 msgstr "Ez da {backend} baliozkotutako instantzia bat"
 
-#: dialect/window.py:232
+#: dialect/window.py:234
 msgid "A network issue has occured. Retry?"
 msgstr "Sareko arazo bat gertatu da. Berriz saiatu?"
 
-#: dialect/window.py:236
+#: dialect/window.py:238
 msgid ""
 "A network issue has occured.\n"
 "Please try again."
@@ -381,15 +381,15 @@ msgstr ""
 "Sareko arazo bat gertatu da.\n"
 "Mesedez, saiatu berriro."
 
-#: dialect/window.py:492 dialect/window.py:496
+#: dialect/window.py:498 dialect/window.py:502
 msgid "Auto"
 msgstr "Automatikoa"
 
-#: dialect/window.py:768
+#: dialect/window.py:775
 msgid "5000 characters limit reached!"
 msgstr "5000 karaktereko mugara iritsi zara!"
 
-#: dialect/window.py:870
+#: dialect/window.py:877
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
@@ -397,9 +397,449 @@ msgstr ""
 "Itzulpenak huts egin du.\n"
 "Mesedez, egiaztatu sare-arazorik dagoen."
 
-#: dialect/window.py:886
+#: dialect/window.py:893
 msgid "Did you mean: "
 msgstr "Zera esan nahi duzu: "
+
+#: dialect/translators/__init__.py:26
+msgid "Afrikaans"
+msgstr "afrikaansa"
+
+#: dialect/translators/__init__.py:27
+msgid "Albanian"
+msgstr "albaniera"
+
+#: dialect/translators/__init__.py:28
+msgid "Amharic"
+msgstr "amharera"
+
+#: dialect/translators/__init__.py:29
+msgid "Arabic"
+msgstr "arabiera"
+
+#: dialect/translators/__init__.py:30
+msgid "Armenian"
+msgstr "armeniera"
+
+#: dialect/translators/__init__.py:31
+msgid "Azerbaijani"
+msgstr "azerbaijanera"
+
+#: dialect/translators/__init__.py:32
+msgid "Basque"
+msgstr "euskara"
+
+#: dialect/translators/__init__.py:33
+msgid "Belarusian"
+msgstr "bielorrusiera"
+
+#: dialect/translators/__init__.py:34
+msgid "Bengali"
+msgstr "bengalera"
+
+#: dialect/translators/__init__.py:35
+msgid "Bosnian"
+msgstr "bosniera"
+
+#: dialect/translators/__init__.py:36
+msgid "Bulgarian"
+msgstr "bulgariera"
+
+#: dialect/translators/__init__.py:37
+msgid "Catalan"
+msgstr "katalana"
+
+#: dialect/translators/__init__.py:38
+msgid "Cebuano"
+msgstr "cebuanoera"
+
+#: dialect/translators/__init__.py:39
+msgid "Chichewa"
+msgstr "chewera"
+
+#: dialect/translators/__init__.py:40
+msgid "Chinese"
+msgstr ""
+
+#: dialect/translators/__init__.py:41
+msgid "Chinese (Simplified)"
+msgstr "txinera"
+
+#: dialect/translators/__init__.py:42
+msgid "Chinese (Traditional)"
+msgstr "txinera (tradizionala)"
+
+#: dialect/translators/__init__.py:43
+msgid "Corsican"
+msgstr "korsikera"
+
+#: dialect/translators/__init__.py:44
+msgid "Croatian"
+msgstr "kroaziera"
+
+#: dialect/translators/__init__.py:45
+msgid "Czech"
+msgstr "txekiera"
+
+#: dialect/translators/__init__.py:46
+msgid "Danish"
+msgstr "daniera"
+
+#: dialect/translators/__init__.py:47
+msgid "Dutch"
+msgstr "nederlandera"
+
+#: dialect/translators/__init__.py:48
+msgid "English"
+msgstr "ingelesa"
+
+#: dialect/translators/__init__.py:49
+msgid "Esperanto"
+msgstr "esperantoa"
+
+#: dialect/translators/__init__.py:50
+msgid "Estonian"
+msgstr "estoniera"
+
+#: dialect/translators/__init__.py:51
+msgid "Filipino"
+msgstr "filipinera"
+
+#: dialect/translators/__init__.py:52
+msgid "Finnish"
+msgstr "Finlandiera"
+
+#: dialect/translators/__init__.py:53
+msgid "French"
+msgstr "frantsesa"
+
+#: dialect/translators/__init__.py:54
+msgid "Frisian"
+msgstr "Frisiera"
+
+#: dialect/translators/__init__.py:55
+msgid "Galician"
+msgstr "Galiziera"
+
+#: dialect/translators/__init__.py:56
+msgid "Georgian"
+msgstr "georgiera"
+
+#: dialect/translators/__init__.py:57
+msgid "German"
+msgstr "alemana"
+
+#: dialect/translators/__init__.py:58
+msgid "Greek"
+msgstr "Greziera"
+
+#: dialect/translators/__init__.py:59
+msgid "Gujarati"
+msgstr "gujaratera"
+
+#: dialect/translators/__init__.py:60
+msgid "Haitian Creole"
+msgstr "kreolera (Haiti)"
+
+#: dialect/translators/__init__.py:61
+msgid "Hausa"
+msgstr "hausa"
+
+#: dialect/translators/__init__.py:62
+msgid "Hawaiian"
+msgstr "hawaiiera"
+
+#: dialect/translators/__init__.py:63 dialect/translators/__init__.py:64
+msgid "Hebrew"
+msgstr "hebreera"
+
+#: dialect/translators/__init__.py:65
+msgid "Hindi"
+msgstr "hindia"
+
+#: dialect/translators/__init__.py:66
+msgid "Hmong"
+msgstr "hmonga"
+
+#: dialect/translators/__init__.py:67
+msgid "Hungarian"
+msgstr "hungariera"
+
+#: dialect/translators/__init__.py:68
+msgid "Icelandic"
+msgstr "islandiera"
+
+#: dialect/translators/__init__.py:69
+msgid "Igbo"
+msgstr "igboera"
+
+#: dialect/translators/__init__.py:70
+msgid "Indonesian"
+msgstr "indonesiera"
+
+#: dialect/translators/__init__.py:71
+msgid "Irish"
+msgstr "Irlandera"
+
+#: dialect/translators/__init__.py:72
+msgid "Italian"
+msgstr "italiera"
+
+#: dialect/translators/__init__.py:73
+msgid "Japanese"
+msgstr "japoniera"
+
+#: dialect/translators/__init__.py:74
+msgid "Javanese"
+msgstr "javera"
+
+#: dialect/translators/__init__.py:75
+msgid "Kannada"
+msgstr "kannada"
+
+#: dialect/translators/__init__.py:76
+msgid "Kazakh"
+msgstr "kazakhera"
+
+#: dialect/translators/__init__.py:77
+msgid "Khmer"
+msgstr "khmerera"
+
+#: dialect/translators/__init__.py:78
+msgid "Kinyarwanda"
+msgstr "kinyaruanda"
+
+#: dialect/translators/__init__.py:79
+msgid "Korean"
+msgstr "Korearra"
+
+#: dialect/translators/__init__.py:80
+msgid "Kurdish (Kurmanji)"
+msgstr "kurduera"
+
+#: dialect/translators/__init__.py:81
+msgid "Kyrgyz"
+msgstr "kirgizera"
+
+#: dialect/translators/__init__.py:82
+msgid "Lao"
+msgstr "laosera"
+
+#: dialect/translators/__init__.py:83
+msgid "Latin"
+msgstr "latina"
+
+#: dialect/translators/__init__.py:84
+msgid "Latvian"
+msgstr "letoniera"
+
+#: dialect/translators/__init__.py:85
+msgid "Lithuanian"
+msgstr "lituaniera"
+
+#: dialect/translators/__init__.py:86
+msgid "Luxembourgish"
+msgstr "luxenburgera"
+
+#: dialect/translators/__init__.py:87
+msgid "Macedonian"
+msgstr "mazedoniera"
+
+#: dialect/translators/__init__.py:88
+msgid "Malagasy"
+msgstr "malgaxea"
+
+#: dialect/translators/__init__.py:89
+msgid "Malay"
+msgstr "malaysiera"
+
+#: dialect/translators/__init__.py:90
+msgid "Malayalam"
+msgstr "malabarera"
+
+#: dialect/translators/__init__.py:91
+msgid "Maltese"
+msgstr "maltera"
+
+#: dialect/translators/__init__.py:92
+msgid "Maori"
+msgstr "maoriera"
+
+#: dialect/translators/__init__.py:93
+msgid "Marathi"
+msgstr "marathera"
+
+#: dialect/translators/__init__.py:94
+msgid "Mongolian"
+msgstr "mongoliera"
+
+#: dialect/translators/__init__.py:95
+msgid "Myanmar (Burmese)"
+msgstr "birmaniera"
+
+#: dialect/translators/__init__.py:96
+msgid "Nepali"
+msgstr "nepalera"
+
+#: dialect/translators/__init__.py:97
+msgid "Norwegian"
+msgstr "norvegiera"
+
+#: dialect/translators/__init__.py:98
+msgid "Odia (Oriya)"
+msgstr "Odia"
+
+#: dialect/translators/__init__.py:99
+msgid "Pashto"
+msgstr "Paxtunera"
+
+#: dialect/translators/__init__.py:100
+msgid "Persian"
+msgstr "persiera"
+
+#: dialect/translators/__init__.py:101
+msgid "Polish"
+msgstr "poloniera"
+
+#: dialect/translators/__init__.py:102
+msgid "Portuguese"
+msgstr "portugesa"
+
+#: dialect/translators/__init__.py:103
+msgid "Punjabi"
+msgstr "punjabera"
+
+#: dialect/translators/__init__.py:104
+msgid "Romanian"
+msgstr "errumaniera"
+
+#: dialect/translators/__init__.py:105
+msgid "Russian"
+msgstr "errusiera"
+
+#: dialect/translators/__init__.py:106
+msgid "Samoan"
+msgstr "Samoera"
+
+#: dialect/translators/__init__.py:107
+msgid "Scots Gaelic"
+msgstr "Eskoziako gaelikoa"
+
+#: dialect/translators/__init__.py:108
+msgid "Serbian"
+msgstr "serbiera"
+
+#: dialect/translators/__init__.py:109
+msgid "Sesotho"
+msgstr "sothoera"
+
+#: dialect/translators/__init__.py:110
+msgid "Shona"
+msgstr "shona"
+
+#: dialect/translators/__init__.py:111
+msgid "Sindhi"
+msgstr "sindhia"
+
+#: dialect/translators/__init__.py:112
+msgid "Sinhala"
+msgstr "sinhala"
+
+#: dialect/translators/__init__.py:113
+msgid "Slovak"
+msgstr "eslovakiera"
+
+#: dialect/translators/__init__.py:114
+msgid "Slovenian"
+msgstr "esloveniera"
+
+#: dialect/translators/__init__.py:115
+msgid "Somali"
+msgstr "somaliera"
+
+#: dialect/translators/__init__.py:116
+msgid "Spanish"
+msgstr "gaztelania"
+
+#: dialect/translators/__init__.py:117
+msgid "Sundanese"
+msgstr "sundera"
+
+#: dialect/translators/__init__.py:118
+msgid "Swahili"
+msgstr "swahilia"
+
+#: dialect/translators/__init__.py:119
+msgid "Swedish"
+msgstr "suediera"
+
+#: dialect/translators/__init__.py:120
+msgid "Tajik"
+msgstr "tajikera"
+
+#: dialect/translators/__init__.py:121
+msgid "Tamil"
+msgstr "tamilera"
+
+#: dialect/translators/__init__.py:122
+msgid "Tatar"
+msgstr "tatarera"
+
+#: dialect/translators/__init__.py:123
+msgid "Telugu"
+msgstr "telugua"
+
+#: dialect/translators/__init__.py:124
+msgid "Thai"
+msgstr "thailandiera"
+
+#: dialect/translators/__init__.py:125
+msgid "Turkish"
+msgstr "turkiera"
+
+#: dialect/translators/__init__.py:126
+msgid "Turkmen"
+msgstr "Turkmenera"
+
+#: dialect/translators/__init__.py:127
+msgid "Ukrainian"
+msgstr "ukrainera"
+
+#: dialect/translators/__init__.py:128
+msgid "Urdu"
+msgstr "urdua"
+
+#: dialect/translators/__init__.py:129
+msgid "Uyghur"
+msgstr "uigurrera"
+
+#: dialect/translators/__init__.py:130
+msgid "Uzbek"
+msgstr "uzbekera"
+
+#: dialect/translators/__init__.py:131
+msgid "Vietnamese"
+msgstr "vietnamera"
+
+#: dialect/translators/__init__.py:132
+msgid "Welsh"
+msgstr "galesa"
+
+#: dialect/translators/__init__.py:133
+msgid "Xhosa"
+msgstr "xhosera"
+
+#: dialect/translators/__init__.py:134
+msgid "Yiddish"
+msgstr "yiddisha"
+
+#: dialect/translators/__init__.py:135
+msgid "Yoruba"
+msgstr "jorubera"
+
+#: dialect/translators/__init__.py:136
+msgid "Zulu"
+msgstr "zuluera"
 
 #~ msgid "Use Google for Text to Speech functionality."
 #~ msgstr "Erabili Google-en testutik ahotserako funtzioa."

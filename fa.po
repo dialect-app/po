@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-11 19:32+0530\n"
+"Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
+"POT-Creation-Date: 2021-09-17 18:09+0530\n"
 "PO-Revision-Date: 2021-07-25 11:33+0000\n"
 "Last-Translator: Danial Behzadi <dani.behzi@ubuntu.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -353,11 +353,11 @@ msgstr "هیچ اتّصال شبکه‌ای پیدا نشد."
 msgid "Not a valid {backend} instance"
 msgstr "نمونهٔ معتبر {backend} نیست"
 
-#: dialect/window.py:232
+#: dialect/window.py:234
 msgid "A network issue has occured. Retry?"
 msgstr "مشکلی در شبکه رخ داد. تلاش دوباره؟"
 
-#: dialect/window.py:236
+#: dialect/window.py:238
 msgid ""
 "A network issue has occured.\n"
 "Please try again."
@@ -365,15 +365,15 @@ msgstr ""
 "مشکلی در شبکه رخ داد.\n"
 "لطفاً دوباره تلاش کنید."
 
-#: dialect/window.py:492 dialect/window.py:496
+#: dialect/window.py:498 dialect/window.py:502
 msgid "Auto"
 msgstr "خودکار"
 
-#: dialect/window.py:768
+#: dialect/window.py:775
 msgid "5000 characters limit reached!"
 msgstr "به کران ۵٫۰۰۰ نویسه رسید!"
 
-#: dialect/window.py:870
+#: dialect/window.py:877
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
@@ -381,9 +381,451 @@ msgstr ""
 "ترجمه شکست خورد.\n"
 "لطفاً برای مشکلات شبکه بررسی کنید."
 
-#: dialect/window.py:886
+#: dialect/window.py:893
 msgid "Did you mean: "
 msgstr "شاید منظورتان این بود: "
+
+#: dialect/translators/__init__.py:26
+msgid "Afrikaans"
+msgstr "افریکانس"
+
+#: dialect/translators/__init__.py:27
+msgid "Albanian"
+msgstr "آلبانیایی"
+
+#: dialect/translators/__init__.py:28
+msgid "Amharic"
+msgstr "امهری"
+
+#: dialect/translators/__init__.py:29
+msgid "Arabic"
+msgstr "عربی"
+
+#: dialect/translators/__init__.py:30
+msgid "Armenian"
+msgstr "ارمنی"
+
+#: dialect/translators/__init__.py:31
+msgid "Azerbaijani"
+msgstr "آذرباﻳﺠﺎﻧﻰ"
+
+#: dialect/translators/__init__.py:32
+msgid "Basque"
+msgstr "باسکی"
+
+#: dialect/translators/__init__.py:33
+msgid "Belarusian"
+msgstr "بلاروسی"
+
+#: dialect/translators/__init__.py:34
+msgid "Bengali"
+msgstr "بنگالی"
+
+#: dialect/translators/__init__.py:35
+msgid "Bosnian"
+msgstr "بوسنیایی"
+
+#: dialect/translators/__init__.py:36
+msgid "Bulgarian"
+msgstr "بلغاری"
+
+#: dialect/translators/__init__.py:37
+msgid "Catalan"
+msgstr "کاتالان"
+
+#: dialect/translators/__init__.py:38
+msgid "Cebuano"
+msgstr "سبوانو"
+
+#: dialect/translators/__init__.py:39
+msgid "Chichewa"
+msgstr "چوایی"
+
+#: dialect/translators/__init__.py:40
+msgid "Chinese"
+msgstr ""
+
+#: dialect/translators/__init__.py:41
+msgid "Chinese (Simplified)"
+msgstr "چینی"
+
+#: dialect/translators/__init__.py:42
+msgid "Chinese (Traditional)"
+msgstr "چینی (سنتی)"
+
+#: dialect/translators/__init__.py:43
+msgid "Corsican"
+msgstr "كرسی"
+
+#: dialect/translators/__init__.py:44
+msgid "Croatian"
+msgstr "کرواتی"
+
+#: dialect/translators/__init__.py:45
+msgid "Czech"
+msgstr "چک"
+
+#: dialect/translators/__init__.py:46
+msgid "Danish"
+msgstr "دانمارکی"
+
+#: dialect/translators/__init__.py:47
+msgid "Dutch"
+msgstr "هلندی"
+
+#: dialect/translators/__init__.py:48
+msgid "English"
+msgstr "انگلیسی"
+
+#: dialect/translators/__init__.py:49
+msgid "Esperanto"
+msgstr "اسپرانتو"
+
+#: dialect/translators/__init__.py:50
+msgid "Estonian"
+msgstr "استونيايی"
+
+#: dialect/translators/__init__.py:51
+msgid "Filipino"
+msgstr "فیلیپینی"
+
+#: dialect/translators/__init__.py:52
+msgid "Finnish"
+msgstr "فنلاندی"
+
+#: dialect/translators/__init__.py:53
+msgid "French"
+msgstr "فرانسوی"
+
+#: dialect/translators/__init__.py:54
+msgid "Frisian"
+msgstr "فريسی"
+
+#: dialect/translators/__init__.py:55
+msgid "Galician"
+msgstr "گالیسی"
+
+#: dialect/translators/__init__.py:56
+msgid "Georgian"
+msgstr "گرجی"
+
+#: dialect/translators/__init__.py:57
+msgid "German"
+msgstr "آلمانی"
+
+#: dialect/translators/__init__.py:58
+msgid "Greek"
+msgstr "يونانی"
+
+#: dialect/translators/__init__.py:59
+msgid "Gujarati"
+msgstr "گجراتی"
+
+#: dialect/translators/__init__.py:60
+#, fuzzy
+#| msgid "Initial release."
+msgid "Haitian Creole"
+msgstr "پخش یکم."
+
+#: dialect/translators/__init__.py:61
+msgid "Hausa"
+msgstr "هوسا"
+
+#: dialect/translators/__init__.py:62
+msgid "Hawaiian"
+msgstr "هاوایی"
+
+#: dialect/translators/__init__.py:63 dialect/translators/__init__.py:64
+msgid "Hebrew"
+msgstr "عبری"
+
+#: dialect/translators/__init__.py:65
+msgid "Hindi"
+msgstr "هندی"
+
+#: dialect/translators/__init__.py:66
+msgid "Hmong"
+msgstr "همونگ"
+
+#: dialect/translators/__init__.py:67
+msgid "Hungarian"
+msgstr "مجاری"
+
+#: dialect/translators/__init__.py:68
+msgid "Icelandic"
+msgstr "ايسلندی"
+
+#: dialect/translators/__init__.py:69
+msgid "Igbo"
+msgstr "ایگبو"
+
+#: dialect/translators/__init__.py:70
+msgid "Indonesian"
+msgstr "اندونزيايی"
+
+#: dialect/translators/__init__.py:71
+msgid "Irish"
+msgstr "ایرلندی"
+
+#: dialect/translators/__init__.py:72
+msgid "Italian"
+msgstr "ایتالیایی"
+
+#: dialect/translators/__init__.py:73
+msgid "Japanese"
+msgstr "ژاپنی"
+
+#: dialect/translators/__init__.py:74
+msgid "Javanese"
+msgstr "جاوه‌ای"
+
+#: dialect/translators/__init__.py:75
+msgid "Kannada"
+msgstr "کانارا"
+
+#: dialect/translators/__init__.py:76
+msgid "Kazakh"
+msgstr "قزاقی"
+
+#: dialect/translators/__init__.py:77
+msgid "Khmer"
+msgstr "خمری"
+
+#: dialect/translators/__init__.py:78
+msgid "Kinyarwanda"
+msgstr "کینیارواندا"
+
+#: dialect/translators/__init__.py:79
+msgid "Korean"
+msgstr "کره‌ای"
+
+#: dialect/translators/__init__.py:80
+msgid "Kurdish (Kurmanji)"
+msgstr "کردی"
+
+#: dialect/translators/__init__.py:81
+msgid "Kyrgyz"
+msgstr "قرقیزی"
+
+#: dialect/translators/__init__.py:82
+msgid "Lao"
+msgstr "لائوسی"
+
+#: dialect/translators/__init__.py:83
+msgid "Latin"
+msgstr "لاتين"
+
+#: dialect/translators/__init__.py:84
+msgid "Latvian"
+msgstr "لتونيايی"
+
+#: dialect/translators/__init__.py:85
+msgid "Lithuanian"
+msgstr "ليتوانيايی"
+
+#: dialect/translators/__init__.py:86
+msgid "Luxembourgish"
+msgstr "لوگزامبورگی"
+
+#: dialect/translators/__init__.py:87
+msgid "Macedonian"
+msgstr "مقدونيه‌ای"
+
+#: dialect/translators/__init__.py:88
+msgid "Malagasy"
+msgstr "مالاگاسی"
+
+#: dialect/translators/__init__.py:89
+msgid "Malay"
+msgstr "مالايی"
+
+#: dialect/translators/__init__.py:90
+msgid "Malayalam"
+msgstr "مالایالمی"
+
+#: dialect/translators/__init__.py:91
+msgid "Maltese"
+msgstr "مالتی"
+
+#: dialect/translators/__init__.py:92
+msgid "Maori"
+msgstr "مائوری"
+
+#: dialect/translators/__init__.py:93
+msgid "Marathi"
+msgstr "مراتی"
+
+#: dialect/translators/__init__.py:94
+msgid "Mongolian"
+msgstr "مغولی"
+
+#: dialect/translators/__init__.py:95
+msgid "Myanmar (Burmese)"
+msgstr "برمه‌ای"
+
+#: dialect/translators/__init__.py:96
+msgid "Nepali"
+msgstr "نپالی"
+
+#: dialect/translators/__init__.py:97
+msgid "Norwegian"
+msgstr "نروژی"
+
+#: dialect/translators/__init__.py:98
+msgid "Odia (Oriya)"
+msgstr "اودیه (اوریه)"
+
+#: dialect/translators/__init__.py:99
+msgid "Pashto"
+msgstr "پشتو"
+
+#: dialect/translators/__init__.py:100
+msgid "Persian"
+msgstr "فارسی"
+
+#: dialect/translators/__init__.py:101
+msgid "Polish"
+msgstr "لهستانی"
+
+#: dialect/translators/__init__.py:102
+msgid "Portuguese"
+msgstr "پرتغالی"
+
+#: dialect/translators/__init__.py:103
+msgid "Punjabi"
+msgstr "پنجابی"
+
+#: dialect/translators/__init__.py:104
+msgid "Romanian"
+msgstr "رومانيايی"
+
+#: dialect/translators/__init__.py:105
+msgid "Russian"
+msgstr "روسی"
+
+#: dialect/translators/__init__.py:106
+msgid "Samoan"
+msgstr "ساموایی"
+
+#: dialect/translators/__init__.py:107
+msgid "Scots Gaelic"
+msgstr "گاليک اسکاتلندی"
+
+#: dialect/translators/__init__.py:108
+msgid "Serbian"
+msgstr "صربی"
+
+#: dialect/translators/__init__.py:109
+msgid "Sesotho"
+msgstr "سوتو"
+
+#: dialect/translators/__init__.py:110
+msgid "Shona"
+msgstr "شونا"
+
+#: dialect/translators/__init__.py:111
+msgid "Sindhi"
+msgstr "سندی"
+
+#: dialect/translators/__init__.py:112
+msgid "Sinhala"
+msgstr "سینهالی"
+
+#: dialect/translators/__init__.py:113
+msgid "Slovak"
+msgstr "اسلواکی"
+
+#: dialect/translators/__init__.py:114
+msgid "Slovenian"
+msgstr "اسلونیایی"
+
+#: dialect/translators/__init__.py:115
+msgid "Somali"
+msgstr "سومالیایی"
+
+#: dialect/translators/__init__.py:116
+msgid "Spanish"
+msgstr "اسپانیایی"
+
+#: dialect/translators/__init__.py:117
+msgid "Sundanese"
+msgstr "سودانی"
+
+#: dialect/translators/__init__.py:118
+msgid "Swahili"
+msgstr "سواهيلی"
+
+#: dialect/translators/__init__.py:119
+msgid "Swedish"
+msgstr "سوئدی"
+
+#: dialect/translators/__init__.py:120
+msgid "Tajik"
+msgstr "تاجیک"
+
+#: dialect/translators/__init__.py:121
+msgid "Tamil"
+msgstr "تاميلی"
+
+#: dialect/translators/__init__.py:122
+msgid "Tatar"
+msgstr "تاتار"
+
+#: dialect/translators/__init__.py:123
+msgid "Telugu"
+msgstr "تلوگو"
+
+#: dialect/translators/__init__.py:124
+msgid "Thai"
+msgstr "تايلندی"
+
+#: dialect/translators/__init__.py:125
+msgid "Turkish"
+msgstr "ترکی استانبولی"
+
+#: dialect/translators/__init__.py:126
+msgid "Turkmen"
+msgstr "ترکمنی"
+
+#: dialect/translators/__init__.py:127
+msgid "Ukrainian"
+msgstr "اکراينی"
+
+#: dialect/translators/__init__.py:128
+msgid "Urdu"
+msgstr "اردو"
+
+#: dialect/translators/__init__.py:129
+msgid "Uyghur"
+msgstr "اویغوری"
+
+#: dialect/translators/__init__.py:130
+msgid "Uzbek"
+msgstr "ازبکی"
+
+#: dialect/translators/__init__.py:131
+msgid "Vietnamese"
+msgstr "ويتنامی"
+
+#: dialect/translators/__init__.py:132
+msgid "Welsh"
+msgstr "ولزی"
+
+#: dialect/translators/__init__.py:133
+msgid "Xhosa"
+msgstr "خوسایی"
+
+#: dialect/translators/__init__.py:134
+msgid "Yiddish"
+msgstr "یدیشی"
+
+#: dialect/translators/__init__.py:135
+msgid "Yoruba"
+msgstr "یوروبایی"
+
+#: dialect/translators/__init__.py:136
+msgid "Zulu"
+msgstr "زولو"
 
 #~ msgid "Use Google for Text to Speech functionality."
 #~ msgstr "بِکارگیریِ گوگِل بَرایِ کارکَردِ نِوِشتار بِه گُفتار."

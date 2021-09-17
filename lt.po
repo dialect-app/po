@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-11 19:32+0530\n"
+"Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
+"POT-Creation-Date: 2021-09-17 18:09+0530\n"
 "PO-Revision-Date: 2021-08-22 08:34+0000\n"
 "Last-Translator: Gediminas Murauskas <muziejusinfo@gmail.com>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/dialect/"
@@ -339,11 +339,11 @@ msgstr "Neaptiktas tinklo ryšys."
 msgid "Not a valid {backend} instance"
 msgstr "Netinkamas {backend} išteklius"
 
-#: dialect/window.py:232
+#: dialect/window.py:234
 msgid "A network issue has occured. Retry?"
 msgstr "Įvyko tinklo klaida. Pakartoti bandymą?"
 
-#: dialect/window.py:236
+#: dialect/window.py:238
 msgid ""
 "A network issue has occured.\n"
 "Please try again."
@@ -351,15 +351,15 @@ msgstr ""
 "Įvyko tinklo klaida.\n"
 "Bandykite dar kartą."
 
-#: dialect/window.py:492 dialect/window.py:496
+#: dialect/window.py:498 dialect/window.py:502
 msgid "Auto"
 msgstr "Automatinis kalbos aptikimas"
 
-#: dialect/window.py:768
+#: dialect/window.py:775
 msgid "5000 characters limit reached!"
 msgstr "Pasiekta 5000 simbolių riba!"
 
-#: dialect/window.py:870
+#: dialect/window.py:877
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
@@ -367,6 +367,446 @@ msgstr ""
 "Vertimas nepavyko.\n"
 "Patikrinkite, ar nėra tinklo problemų."
 
-#: dialect/window.py:886
+#: dialect/window.py:893
 msgid "Did you mean: "
 msgstr "Ar turėjote omenyje: "
+
+#: dialect/translators/__init__.py:26
+msgid "Afrikaans"
+msgstr "afrikanso"
+
+#: dialect/translators/__init__.py:27
+msgid "Albanian"
+msgstr "albanų"
+
+#: dialect/translators/__init__.py:28
+msgid "Amharic"
+msgstr "amharų"
+
+#: dialect/translators/__init__.py:29
+msgid "Arabic"
+msgstr "arabų"
+
+#: dialect/translators/__init__.py:30
+msgid "Armenian"
+msgstr "armėnų"
+
+#: dialect/translators/__init__.py:31
+msgid "Azerbaijani"
+msgstr "Azerbaidžaniečių"
+
+#: dialect/translators/__init__.py:32
+msgid "Basque"
+msgstr "baskų"
+
+#: dialect/translators/__init__.py:33
+msgid "Belarusian"
+msgstr "baltarusių"
+
+#: dialect/translators/__init__.py:34
+msgid "Bengali"
+msgstr "bengalų"
+
+#: dialect/translators/__init__.py:35
+msgid "Bosnian"
+msgstr "bosnių"
+
+#: dialect/translators/__init__.py:36
+msgid "Bulgarian"
+msgstr "bulgarų"
+
+#: dialect/translators/__init__.py:37
+msgid "Catalan"
+msgstr "kataloniečių"
+
+#: dialect/translators/__init__.py:38
+msgid "Cebuano"
+msgstr "sebuanų"
+
+#: dialect/translators/__init__.py:39
+msgid "Chichewa"
+msgstr "čičeva"
+
+#: dialect/translators/__init__.py:40
+msgid "Chinese"
+msgstr ""
+
+#: dialect/translators/__init__.py:41
+msgid "Chinese (Simplified)"
+msgstr "Kinų"
+
+#: dialect/translators/__init__.py:42
+msgid "Chinese (Traditional)"
+msgstr "kinų (tradicinė)"
+
+#: dialect/translators/__init__.py:43
+msgid "Corsican"
+msgstr "korsikiečių"
+
+#: dialect/translators/__init__.py:44
+msgid "Croatian"
+msgstr "kroatų"
+
+#: dialect/translators/__init__.py:45
+msgid "Czech"
+msgstr "čekų"
+
+#: dialect/translators/__init__.py:46
+msgid "Danish"
+msgstr "danų"
+
+#: dialect/translators/__init__.py:47
+msgid "Dutch"
+msgstr "olandų"
+
+#: dialect/translators/__init__.py:48
+msgid "English"
+msgstr "anglų"
+
+#: dialect/translators/__init__.py:49
+msgid "Esperanto"
+msgstr "esperanto"
+
+#: dialect/translators/__init__.py:50
+msgid "Estonian"
+msgstr "estų"
+
+#: dialect/translators/__init__.py:51
+msgid "Filipino"
+msgstr "tagalų"
+
+#: dialect/translators/__init__.py:52
+msgid "Finnish"
+msgstr "suomių"
+
+#: dialect/translators/__init__.py:53
+msgid "French"
+msgstr "prancūzų"
+
+#: dialect/translators/__init__.py:54
+msgid "Frisian"
+msgstr "fryzų"
+
+#: dialect/translators/__init__.py:55
+msgid "Galician"
+msgstr "galisų"
+
+#: dialect/translators/__init__.py:56
+msgid "Georgian"
+msgstr "gruzinų"
+
+#: dialect/translators/__init__.py:57
+msgid "German"
+msgstr "vokiečių"
+
+#: dialect/translators/__init__.py:58
+msgid "Greek"
+msgstr "graikų"
+
+#: dialect/translators/__init__.py:59
+msgid "Gujarati"
+msgstr "gudžaratų"
+
+#: dialect/translators/__init__.py:60
+msgid "Haitian Creole"
+msgstr "haičio kreolų"
+
+#: dialect/translators/__init__.py:61
+msgid "Hausa"
+msgstr "hausų"
+
+#: dialect/translators/__init__.py:62
+msgid "Hawaiian"
+msgstr "havajiečių"
+
+#: dialect/translators/__init__.py:63 dialect/translators/__init__.py:64
+msgid "Hebrew"
+msgstr "hebrajų"
+
+#: dialect/translators/__init__.py:65
+msgid "Hindi"
+msgstr "hindi"
+
+#: dialect/translators/__init__.py:66
+msgid "Hmong"
+msgstr "hmongų"
+
+#: dialect/translators/__init__.py:67
+msgid "Hungarian"
+msgstr "vengrų"
+
+#: dialect/translators/__init__.py:68
+msgid "Icelandic"
+msgstr "islandų"
+
+#: dialect/translators/__init__.py:69
+msgid "Igbo"
+msgstr "igbų"
+
+#: dialect/translators/__init__.py:70
+msgid "Indonesian"
+msgstr "indoneziečių"
+
+#: dialect/translators/__init__.py:71
+msgid "Irish"
+msgstr "airių"
+
+#: dialect/translators/__init__.py:72
+msgid "Italian"
+msgstr "italų"
+
+#: dialect/translators/__init__.py:73
+msgid "Japanese"
+msgstr "japonų"
+
+#: dialect/translators/__init__.py:74
+msgid "Javanese"
+msgstr "javiečių"
+
+#: dialect/translators/__init__.py:75
+msgid "Kannada"
+msgstr "kanadų"
+
+#: dialect/translators/__init__.py:76
+msgid "Kazakh"
+msgstr "kazachų"
+
+#: dialect/translators/__init__.py:77
+msgid "Khmer"
+msgstr "khmerų"
+
+#: dialect/translators/__init__.py:78
+msgid "Kinyarwanda"
+msgstr "Kinyarwanda"
+
+#: dialect/translators/__init__.py:79
+msgid "Korean"
+msgstr "korėjiečių"
+
+#: dialect/translators/__init__.py:80
+msgid "Kurdish (Kurmanji)"
+msgstr "kurdų"
+
+#: dialect/translators/__init__.py:81
+msgid "Kyrgyz"
+msgstr "kirgizų"
+
+#: dialect/translators/__init__.py:82
+msgid "Lao"
+msgstr "laosiečių"
+
+#: dialect/translators/__init__.py:83
+msgid "Latin"
+msgstr "lotynų"
+
+#: dialect/translators/__init__.py:84
+msgid "Latvian"
+msgstr "latvių"
+
+#: dialect/translators/__init__.py:85
+msgid "Lithuanian"
+msgstr "lietuvių"
+
+#: dialect/translators/__init__.py:86
+msgid "Luxembourgish"
+msgstr "liuksemburgiečių"
+
+#: dialect/translators/__init__.py:87
+msgid "Macedonian"
+msgstr "makedoniečių"
+
+#: dialect/translators/__init__.py:88
+msgid "Malagasy"
+msgstr "malagasių"
+
+#: dialect/translators/__init__.py:89
+msgid "Malay"
+msgstr "malajiečių"
+
+#: dialect/translators/__init__.py:90
+msgid "Malayalam"
+msgstr "malajalių"
+
+#: dialect/translators/__init__.py:91
+msgid "Maltese"
+msgstr "maltiečių"
+
+#: dialect/translators/__init__.py:92
+msgid "Maori"
+msgstr "maorių"
+
+#: dialect/translators/__init__.py:93
+msgid "Marathi"
+msgstr "maratų"
+
+#: dialect/translators/__init__.py:94
+msgid "Mongolian"
+msgstr "mongolų"
+
+#: dialect/translators/__init__.py:95
+msgid "Myanmar (Burmese)"
+msgstr "birmiečių"
+
+#: dialect/translators/__init__.py:96
+msgid "Nepali"
+msgstr "nepaliečių"
+
+#: dialect/translators/__init__.py:97
+msgid "Norwegian"
+msgstr "norvegų"
+
+#: dialect/translators/__init__.py:98
+msgid "Odia (Oriya)"
+msgstr "Odijų (orijų)"
+
+#: dialect/translators/__init__.py:99
+msgid "Pashto"
+msgstr "puštunų (afganų)"
+
+#: dialect/translators/__init__.py:100
+msgid "Persian"
+msgstr "persų"
+
+#: dialect/translators/__init__.py:101
+msgid "Polish"
+msgstr "lenkų"
+
+#: dialect/translators/__init__.py:102
+msgid "Portuguese"
+msgstr "portugalų"
+
+#: dialect/translators/__init__.py:103
+msgid "Punjabi"
+msgstr "pandžabų"
+
+#: dialect/translators/__init__.py:104
+msgid "Romanian"
+msgstr "rumunų"
+
+#: dialect/translators/__init__.py:105
+msgid "Russian"
+msgstr "rusų"
+
+#: dialect/translators/__init__.py:106
+msgid "Samoan"
+msgstr "samojiečių"
+
+#: dialect/translators/__init__.py:107
+msgid "Scots Gaelic"
+msgstr "škotų (gėlų)"
+
+#: dialect/translators/__init__.py:108
+msgid "Serbian"
+msgstr "serbų"
+
+#: dialect/translators/__init__.py:109
+msgid "Sesotho"
+msgstr "sesuto"
+
+#: dialect/translators/__init__.py:110
+msgid "Shona"
+msgstr "šonų"
+
+#: dialect/translators/__init__.py:111
+msgid "Sindhi"
+msgstr "sindų"
+
+#: dialect/translators/__init__.py:112
+msgid "Sinhala"
+msgstr "sinhalų"
+
+#: dialect/translators/__init__.py:113
+msgid "Slovak"
+msgstr "slovakų"
+
+#: dialect/translators/__init__.py:114
+msgid "Slovenian"
+msgstr "slovėnų"
+
+#: dialect/translators/__init__.py:115
+msgid "Somali"
+msgstr "somaliečių"
+
+#: dialect/translators/__init__.py:116
+msgid "Spanish"
+msgstr "ispanų"
+
+#: dialect/translators/__init__.py:117
+msgid "Sundanese"
+msgstr "sundų"
+
+#: dialect/translators/__init__.py:118
+msgid "Swahili"
+msgstr "svahilių"
+
+#: dialect/translators/__init__.py:119
+msgid "Swedish"
+msgstr "švedų"
+
+#: dialect/translators/__init__.py:120
+msgid "Tajik"
+msgstr "tadžikų"
+
+#: dialect/translators/__init__.py:121
+msgid "Tamil"
+msgstr "tamilų"
+
+#: dialect/translators/__init__.py:122
+msgid "Tatar"
+msgstr "Totorių"
+
+#: dialect/translators/__init__.py:123
+msgid "Telugu"
+msgstr "telugų"
+
+#: dialect/translators/__init__.py:124
+msgid "Thai"
+msgstr "tajų"
+
+#: dialect/translators/__init__.py:125
+msgid "Turkish"
+msgstr "turkų"
+
+#: dialect/translators/__init__.py:126
+msgid "Turkmen"
+msgstr "Turkmėnų"
+
+#: dialect/translators/__init__.py:127
+msgid "Ukrainian"
+msgstr "ukrainiečių"
+
+#: dialect/translators/__init__.py:128
+msgid "Urdu"
+msgstr "urdų"
+
+#: dialect/translators/__init__.py:129
+msgid "Uyghur"
+msgstr "Uigūrų k."
+
+#: dialect/translators/__init__.py:130
+msgid "Uzbek"
+msgstr "uzbekų"
+
+#: dialect/translators/__init__.py:131
+msgid "Vietnamese"
+msgstr "vietnamiečių"
+
+#: dialect/translators/__init__.py:132
+msgid "Welsh"
+msgstr "valų"
+
+#: dialect/translators/__init__.py:133
+msgid "Xhosa"
+msgstr "kosų"
+
+#: dialect/translators/__init__.py:134
+msgid "Yiddish"
+msgstr "jidiš (žydų)"
+
+#: dialect/translators/__init__.py:135
+msgid "Yoruba"
+msgstr "jorubų"
+
+#: dialect/translators/__init__.py:136
+msgid "Zulu"
+msgstr "zulusų"

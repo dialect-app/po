@@ -8,3 +8,4 @@ data/resources/window.ui
 dialect/main.py
 dialect/preferences.py
 dialect/window.py
+dialect/translators/__init__.py
