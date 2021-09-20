@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
 "POT-Creation-Date: 2021-09-17 18:09+0530\n"
-"PO-Revision-Date: 2021-08-29 15:32+0000\n"
-"Last-Translator: Emanuele Deriu <deriuemanuele@hotmail.it>\n"
+"PO-Revision-Date: 2021-09-20 22:36+0000\n"
+"Last-Translator: J. Lavoie <j.lavoie@net-c.ca>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/dialect/dialect/"
 "it/>\n"
 "Language: it\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8.1-dev\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
@@ -428,11 +428,11 @@ msgstr "Chichewa"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
-msgstr ""
+msgstr "Cinese"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
-msgstr "Cinese"
+msgstr "Cinese (semplificato)"
 
 #: dialect/translators/__init__.py:42
 msgid "Chinese (Traditional)"
@@ -507,10 +507,8 @@ msgid "Gujarati"
 msgstr "Gujarati"
 
 #: dialect/translators/__init__.py:60
-#, fuzzy
-#| msgid "Initial release."
 msgid "Haitian Creole"
-msgstr "Versione iniziale."
+msgstr "Creolo haitiano"
 
 #: dialect/translators/__init__.py:61
 msgid "Hausa"
