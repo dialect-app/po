@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
 "POT-Creation-Date: 2021-09-17 18:09+0530\n"
-"PO-Revision-Date: 2021-07-25 11:33+0000\n"
+"PO-Revision-Date: 2021-09-20 22:36+0000\n"
 "Last-Translator: Danial Behzadi <dani.behzi@ubuntu.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/dialect/dialect/"
 "fa/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.7.2-dev\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
@@ -195,11 +195,9 @@ msgstr ""
 "در تنظیمات گنوم روشن شده باشد."
 
 #: data/resources/shortcuts-window.ui:13
-#, fuzzy
-#| msgid "Translator"
 msgctxt "shortcuts window"
 msgid "Translator"
-msgstr "گَردانِشگَر"
+msgstr "مترجم"
 
 #: data/resources/shortcuts-window.ui:17
 msgctxt "shortcuts window"
@@ -214,57 +212,47 @@ msgstr "جابه‌جایی زبان‌ها"
 #: data/resources/shortcuts-window.ui:31
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "متن منبع تمیز"
 
 #: data/resources/shortcuts-window.ui:38
-#, fuzzy
-#| msgid "Next translation"
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr "گَردانِشِ پَسین"
+msgstr "رونوشت از ترجمه"
 
 #: data/resources/shortcuts-window.ui:45
-#, fuzzy
-#| msgid "Show Pronunciation"
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
-msgstr "نَمایِشِ آوایِش"
+msgstr "نمایش بیان"
 
 #: data/resources/shortcuts-window.ui:54
-#, fuzzy
-#| msgid "Text to Speech"
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr "نِوِشتار بِه گُفتار"
+msgstr "متن به گفتار"
 
 #: data/resources/shortcuts-window.ui:58
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "شنیدن متن منبع"
 
 #: data/resources/shortcuts-window.ui:65
-#, fuzzy
-#| msgid "Next translation"
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr "گَردانِشِ پَسین"
+msgstr "شنیدن ترجمه"
 
 #: data/resources/shortcuts-window.ui:74
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "ناوبری"
 
 #: data/resources/shortcuts-window.ui:78
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "به عقب رفتن در تاریخچه"
 
 #: data/resources/shortcuts-window.ui:85
-#, fuzzy
-#| msgid "Translation history"
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr "پیشینِه‌یِ گَردانِش"
+msgstr "به پیش رفتن در تاریخچه"
 
 #: data/resources/shortcuts-window.ui:94
 msgctxt "shortcuts window"
@@ -277,11 +265,9 @@ msgid "Preferences"
 msgstr "ترجیحات"
 
 #: data/resources/shortcuts-window.ui:105
-#, fuzzy
-#| msgid "Keyboard Shortcuts"
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr "پایَندانِ تَختِه‌کِلید"
+msgstr "میان‌برها"
 
 #: data/resources/shortcuts-window.ui:112
 msgctxt "shortcuts window"
@@ -443,7 +429,7 @@ msgstr "چوایی"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
-msgstr ""
+msgstr "چینی"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
@@ -522,10 +508,8 @@ msgid "Gujarati"
 msgstr "گجراتی"
 
 #: dialect/translators/__init__.py:60
-#, fuzzy
-#| msgid "Initial release."
 msgid "Haitian Creole"
-msgstr "پخش یکم."
+msgstr "کرول هاییتی"
 
 #: dialect/translators/__init__.py:61
 msgid "Hausa"
