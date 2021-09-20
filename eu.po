@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
 "POT-Creation-Date: 2021-09-17 18:09+0530\n"
-"PO-Revision-Date: 2021-05-23 15:30+0000\n"
+"PO-Revision-Date: 2021-09-20 22:36+0000\n"
 "Last-Translator: Sergio Varela <sergitroll9@gmail.com>\n"
 "Language-Team: Basque <https://hosted.weblate.org/projects/dialect/dialect/"
 "eu/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.7-dev\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
@@ -77,14 +77,10 @@ msgid "The Dialect Authors"
 msgstr "Dialect-en egileak"
 
 #: data/resources/about.ui:11
-#, fuzzy
-#| msgid "Copyright 2020-2021 The Dialect Authors"
 msgid "Copyright 2020–⁠2021 The Dialect Authors"
-msgstr "Copyright © 2020-2021 Dialect-en egileak"
+msgstr "Copyright © 2020–⁠2021 Dialect-en egileak"
 
 #: data/resources/about.ui:14
-#, fuzzy
-#| msgid "Github page"
 msgid "GitHub page"
 msgstr "GitHub orria"
 
@@ -136,8 +132,6 @@ msgid "Translation Shortcut"
 msgstr "Itzulpen lasterbidea"
 
 #: data/resources/preferences.ui:55
-#, fuzzy
-#| msgid "Unselected choice will be used for line break."
 msgid "The unselected choice will be used for line break."
 msgstr "Hautatu gabeko aukera lerro-jauzian erabiliko da."
 
@@ -146,10 +140,8 @@ msgid "Default to Auto"
 msgstr "Lehenetsita, Automatikoa"
 
 #: data/resources/preferences.ui:62
-#, fuzzy
-#| msgid "Use \"Auto\" as the default language on every launch"
 msgid "Use \"Auto\" as the default language"
-msgstr "\"Auto\" hizkuntza lehenetsi gisa erabiltzea jaurtiketa bakoitzean"
+msgstr "\"Auto\" hizkuntza lehenetsi gisa erabili"
 
 #: data/resources/preferences.ui:76
 msgid "Translator"
@@ -164,10 +156,8 @@ msgid "Translator Instance"
 msgstr "Itzultzailearen eskabidea"
 
 #: data/resources/preferences.ui:84
-#, fuzzy
-#| msgid "Specify URL of translation service."
 msgid "Enter a translation service URL."
-msgstr "Zehaztu itzulpen-zerbitzuaren URLa."
+msgstr "Sartu itzulpen-zerbitzu baten URLa."
 
 #: data/resources/preferences.ui:109
 msgid "Edit"
@@ -182,14 +172,12 @@ msgid "Save"
 msgstr "Gorde"
 
 #: data/resources/preferences.ui:175
-#, fuzzy
-#| msgid "Text to Speech"
 msgid "Text-to-Speech"
-msgstr "Ahozko testua"
+msgstr "Ahozko-testua"
 
 #: data/resources/preferences.ui:176
 msgid "Use Google for TTS."
-msgstr ""
+msgstr "Google erabili TTSrako."
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
@@ -201,10 +189,12 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
+"Para reducir el abuso de la API, el proveedor de búsqueda de GNOME en "
+"Dialect está desactivado cuando la traducción en vivo lo está. Asegúrese de "
+"que el proveedor de búsqueda también está activado en la Configuración de "
+"GNOME."
 
 #: data/resources/shortcuts-window.ui:13
-#, fuzzy
-#| msgid "Translator"
 msgctxt "shortcuts window"
 msgid "Translator"
 msgstr "Itzultzailea"
@@ -215,8 +205,6 @@ msgid "Translate"
 msgstr "Itzuli"
 
 #: data/resources/shortcuts-window.ui:24
-#, fuzzy
-#| msgid "Switch languages"
 msgctxt "shortcuts window"
 msgid "Switch Languages"
 msgstr "Hizkuntza aldatu"
@@ -224,57 +212,47 @@ msgstr "Hizkuntza aldatu"
 #: data/resources/shortcuts-window.ui:31
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "Ezabatu jatorrizko testua"
 
 #: data/resources/shortcuts-window.ui:38
-#, fuzzy
-#| msgid "Next translation"
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr "Hurrengo itzulpena"
+msgstr "Kopiatu itzulpena"
 
 #: data/resources/shortcuts-window.ui:45
-#, fuzzy
-#| msgid "Show Pronunciation"
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
 msgstr "Erakutsi ahoskera"
 
 #: data/resources/shortcuts-window.ui:54
-#, fuzzy
-#| msgid "Text to Speech"
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr "Ahozko testua"
+msgstr "Ahozko-testua"
 
 #: data/resources/shortcuts-window.ui:58
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "Jatorrizko testua entzun"
 
 #: data/resources/shortcuts-window.ui:65
-#, fuzzy
-#| msgid "Next translation"
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr "Hurrengo itzulpena"
+msgstr "Itzulpena entzun"
 
 #: data/resources/shortcuts-window.ui:74
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "Nabigazioa"
 
 #: data/resources/shortcuts-window.ui:78
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "Historian atzera egitea"
 
 #: data/resources/shortcuts-window.ui:85
-#, fuzzy
-#| msgid "Translation history"
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr "Itzulpenaren historia"
+msgstr "Historian aurrera egin"
 
 #: data/resources/shortcuts-window.ui:94
 msgctxt "shortcuts window"
@@ -287,11 +265,9 @@ msgid "Preferences"
 msgstr "Lehentasunak"
 
 #: data/resources/shortcuts-window.ui:105
-#, fuzzy
-#| msgid "Keyboard Shortcuts"
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr "Teklatu-lasterbideak"
+msgstr "Lasterbideak"
 
 #: data/resources/shortcuts-window.ui:112
 msgctxt "shortcuts window"
@@ -299,16 +275,12 @@ msgid "Quit"
 msgstr "Irten"
 
 #: data/resources/window.ui:42
-#, fuzzy
-#| msgid "Loading..."
 msgid "Loading…"
-msgstr "Kargatzen..."
+msgstr "Kargatzen…"
 
 #: data/resources/window.ui:83
-#, fuzzy
-#| msgid "Choose from the available translation services."
 msgid "Could not load the translator service"
-msgstr "Aukeran dituzun itzulpen-zerbitzuen artean aukeratu."
+msgstr "Ezin izan zen itzulpen-zerbitzua kargatu"
 
 #: data/resources/window.ui:108
 msgid "Retry"
@@ -347,14 +319,12 @@ msgid "Translate"
 msgstr "Itzuli"
 
 #: data/resources/window.ui:605
-#, fuzzy
-#| msgid "Translate"
 msgid "Translating…"
-msgstr "Itzuli"
+msgstr "Itzultzen…"
 
 #: data/resources/window.ui:613
 msgid "Could not translate the text"
-msgstr ""
+msgstr "Ezin izan zen testua itzuli"
 
 #: data/resources/window.ui:639
 msgid "Copy"
@@ -459,7 +429,7 @@ msgstr "chewera"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
-msgstr ""
+msgstr "Txinera"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
