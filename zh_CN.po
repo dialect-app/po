@@ -1,0 +1,804 @@
+# Chinese (simplified) translation of the Dialect app for GNOME.
+# Copyright (C) Dialect authors and many contributors.
+# This file is distributed under the same license as the dialect package.
+# Zhong Lufan <lufanzhong@gmail.com>, 2021.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dialect\n"
+"Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
+"POT-Creation-Date: 2021-09-17 18:09+0530\n"
+"PO-Revision-Date: 2021-10-04 04:00+0800\n"
+"Last-Translator: Zhong Lufan <lufanzhong@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+
+#. Translators: Do not translate the app name!
+#: data/com.github.gi_lom.dialect.desktop.in:8
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/about.ui:10
+#: data/resources/window.ui:66 dialect/main.py:56 dialect/main.py:93
+msgid "Dialect"
+msgstr "Dialect"
+
+#: data/com.github.gi_lom.dialect.desktop.in:9
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:7
+msgid "Translate between languages"
+msgstr "在语言之间翻译"
+
+#. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
+#: data/com.github.gi_lom.dialect.desktop.in:13
+msgid "translate;translation;"
+msgstr "翻译;translate;translation;"
+
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:9 data/resources/about.ui:12
+msgid "A translation app for GNOME."
+msgstr "GNOME 的翻译应用程序。"
+
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:12
+msgid "Features:"
+msgstr "特点："
+
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:16
+msgid "Translation based on an unofficial API for Google Translate"
+msgstr "基于 Google 翻译非官方 API的翻译"
+
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:17
+msgid ""
+"Translation based on the LibreTranslate API, allowing you use any instance "
+"available online"
+msgstr "基于 libreTranslateAPI 的翻译，允许您使用任何在线可用的实例"
+
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:18
+msgid "Text to speech"
+msgstr "文本转语音"
+
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:19
+msgid "Translation history"
+msgstr "翻译历史记录"
+
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:20
+msgid "Automatic language detection"
+msgstr "自动语言检测"
+
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:21
+msgid "Clipboard buttons"
+msgstr "剪贴板按钮"
+
+#: data/com.github.gi_lom.dialect.metainfo.xml.in:27
+msgid "The Dialect Authors"
+msgstr "Dialect 作者"
+
+#: data/resources/about.ui:11
+msgid "Copyright 2020–⁠2021 The Dialect Authors"
+msgstr "版权所有 2020-2021 Dialect 作者"
+
+#: data/resources/about.ui:14
+msgid "GitHub page"
+msgstr "GitHub 页面"
+
+#. Replace me with your names.
+#: data/resources/about.ui:19
+msgid "translator-credits"
+msgstr "钟路帆"
+
+#: data/resources/menu.ui:7
+msgid "Show Pronunciation"
+msgstr "显示发音"
+
+#: data/resources/menu.ui:14
+msgid "Preferences"
+msgstr "首选项"
+
+#: data/resources/menu.ui:18
+msgid "Keyboard Shortcuts"
+msgstr "键盘快捷键"
+
+#: data/resources/menu.ui:22
+msgid "About Dialect"
+msgstr "关于 Dialect"
+
+#: data/resources/preferences.ui:15
+msgid "Appearance"
+msgstr "外观"
+
+#: data/resources/preferences.ui:19
+msgid "Dark Mode"
+msgstr "黑暗模式"
+
+#: data/resources/preferences.ui:35
+msgid "Behavior"
+msgstr "行为"
+
+#: data/resources/preferences.ui:39
+msgid "Live Translation"
+msgstr "实时翻译"
+
+#: data/resources/preferences.ui:40
+msgid "Warning: Your IP address may get banned for API abuse."
+msgstr "注意：你的 IP 可能因滥用 API 而被禁止。"
+
+#: data/resources/preferences.ui:54
+msgid "Translation Shortcut"
+msgstr "翻译快捷键"
+
+#: data/resources/preferences.ui:55
+msgid "The unselected choice will be used for line break."
+msgstr "未被选中的选择将被用于换行。"
+
+#: data/resources/preferences.ui:61
+msgid "Default to Auto"
+msgstr "默认为自动"
+
+#: data/resources/preferences.ui:62
+msgid "Use \"Auto\" as the default language"
+msgstr "使用 \"自动\" 作为默认语言"
+
+#: data/resources/preferences.ui:76
+msgid "Translator"
+msgstr "翻译器"
+
+#: data/resources/preferences.ui:77
+msgid "Choose from the available translation services."
+msgstr "从可用的翻译服务中选择。"
+
+#: data/resources/preferences.ui:83
+msgid "Translator Instance"
+msgstr "翻译器实例"
+
+#: data/resources/preferences.ui:84
+msgid "Enter a translation service URL."
+msgstr "输入一个翻译服务 URL。"
+
+#: data/resources/preferences.ui:109
+msgid "Edit"
+msgstr "编辑"
+
+#: data/resources/preferences.ui:143
+msgid "Reset to default"
+msgstr "重置为默认"
+
+#: data/resources/preferences.ui:158
+msgid "Save"
+msgstr "保存"
+
+#: data/resources/preferences.ui:175
+msgid "Text-to-Speech"
+msgstr "文字转语音"
+
+#: data/resources/preferences.ui:176
+msgid "Use Google for TTS."
+msgstr "使用 Google 的 TTS。"
+
+#: data/resources/preferences.ui:192
+msgid "Search Provider"
+msgstr "搜索提供程序"
+
+#: data/resources/preferences.ui:193
+msgid ""
+"To reduce API abuse, the GNOME search provider in Dialect is turned off when "
+"Live translation is. Ensure the search provider is also turned on in the "
+"GNOME Settings."
+msgstr ""
+"为了减少 API 滥用，当实时翻译启动时，将关闭 Dialect 中的 GNOME 搜索提供程序。"
+"确保在 GNOME 设置中也打开了搜索提供程序。"
+
+#: data/resources/shortcuts-window.ui:13
+msgctxt "shortcuts window"
+msgid "Translator"
+msgstr "翻译器"
+
+#: data/resources/shortcuts-window.ui:17
+msgctxt "shortcuts window"
+msgid "Translate"
+msgstr "翻译"
+
+#: data/resources/shortcuts-window.ui:24
+msgctxt "shortcuts window"
+msgid "Switch Languages"
+msgstr "切换语言"
+
+#: data/resources/shortcuts-window.ui:31
+msgctxt "shortcuts window"
+msgid "Clear source text"
+msgstr "清除源文本"
+
+#: data/resources/shortcuts-window.ui:38
+msgctxt "shortcuts window"
+msgid "Copy translation"
+msgstr "复制翻译"
+
+#: data/resources/shortcuts-window.ui:45
+msgctxt "shortcuts window"
+msgid "Show Pronunciation"
+msgstr "显示发音"
+
+#: data/resources/shortcuts-window.ui:54
+msgctxt "shortcuts window"
+msgid "Text-to-Speech"
+msgstr "文字转语音"
+
+#: data/resources/shortcuts-window.ui:58
+msgctxt "shortcuts window"
+msgid "Listen to source text"
+msgstr "听源文本"
+
+#: data/resources/shortcuts-window.ui:65
+msgctxt "shortcuts window"
+msgid "Listen to translation"
+msgstr "听翻译"
+
+#: data/resources/shortcuts-window.ui:74
+msgctxt "shortcuts window"
+msgid "Navigation"
+msgstr "导航"
+
+#: data/resources/shortcuts-window.ui:78
+msgctxt "shortcuts window"
+msgid "Go back in history"
+msgstr "回退历史"
+
+#: data/resources/shortcuts-window.ui:85
+msgctxt "shortcuts window"
+msgid "Go forward in history"
+msgstr "前进历史"
+
+#: data/resources/shortcuts-window.ui:94
+msgctxt "shortcuts window"
+msgid "General"
+msgstr "通用"
+
+#: data/resources/shortcuts-window.ui:98
+msgctxt "shortcuts window"
+msgid "Preferences"
+msgstr "首选项"
+
+#: data/resources/shortcuts-window.ui:105
+msgctxt "shortcut window"
+msgid "Shortcuts"
+msgstr "快捷键"
+
+#: data/resources/shortcuts-window.ui:112
+msgctxt "shortcuts window"
+msgid "Quit"
+msgstr "退出"
+
+#: data/resources/window.ui:42
+msgid "Loading…"
+msgstr "加载中…"
+
+#: data/resources/window.ui:83
+msgid "Could not load the translator service"
+msgstr "无法加载翻译服务"
+
+#: data/resources/window.ui:108
+msgid "Retry"
+msgstr "重试"
+
+#: data/resources/window.ui:115
+msgid "Open preferences"
+msgstr "打开首选项"
+
+#: data/resources/window.ui:194 data/resources/window.ui:728
+msgid "Switch languages"
+msgstr "切换语言"
+
+#: data/resources/window.ui:274
+msgid "Previous translation"
+msgstr "上一个翻译"
+
+#: data/resources/window.ui:293
+msgid "Next translation"
+msgstr "下一个翻译"
+
+#: data/resources/window.ui:454
+msgid "Clear"
+msgstr "清除"
+
+#: data/resources/window.ui:470
+msgid "Paste"
+msgstr "粘贴"
+
+#: data/resources/window.ui:486 data/resources/window.ui:624
+msgid "Listen"
+msgstr "聆听"
+
+#: data/resources/window.ui:494
+msgid "Translate"
+msgstr "翻译"
+
+#: data/resources/window.ui:605
+msgid "Translating…"
+msgstr "翻译中…"
+
+#: data/resources/window.ui:613
+msgid "Could not translate the text"
+msgstr "无法翻译文本"
+
+#: data/resources/window.ui:639
+msgid "Copy"
+msgstr "复制"
+
+#: data/resources/window.ui:820
+msgid "No network connection detected."
+msgstr "未检测到网络连接。"
+
+#: dialect/preferences.py:250
+#, python-brace-format
+msgid "Not a valid {backend} instance"
+msgstr "不是一个有效的 {backend} 实例"
+
+#: dialect/window.py:234
+msgid "A network issue has occured. Retry?"
+msgstr "发生了网络问题，重试？"
+
+#: dialect/window.py:238
+msgid ""
+"A network issue has occured.\n"
+"Please try again."
+msgstr ""
+"发生了网络问题。\n"
+"请再试一次。"
+
+#: dialect/window.py:498 dialect/window.py:502
+msgid "Auto"
+msgstr "自动"
+
+#: dialect/window.py:775
+msgid "5000 characters limit reached!"
+msgstr "达到 5000 个字符的限制！"
+
+#: dialect/window.py:877
+msgid ""
+"Translation failed.\n"
+"Please check for network issues."
+msgstr ""
+"翻译失败。\n"
+"请检查网络问题。"
+
+#: dialect/window.py:893
+msgid "Did you mean: "
+msgstr "你的意思是: "
+
+#: dialect/translators/__init__.py:26
+msgid "Afrikaans"
+msgstr "南非荷兰语"
+
+#: dialect/translators/__init__.py:27
+msgid "Albanian"
+msgstr "阿尔巴尼亚语"
+
+#: dialect/translators/__init__.py:28
+msgid "Amharic"
+msgstr "阿姆哈拉语"
+
+#: dialect/translators/__init__.py:29
+msgid "Arabic"
+msgstr "阿拉伯语"
+
+#: dialect/translators/__init__.py:30
+msgid "Armenian"
+msgstr "亚美尼亚语"
+
+#: dialect/translators/__init__.py:31
+msgid "Azerbaijani"
+msgstr "阿塞拜疆语"
+
+#: dialect/translators/__init__.py:32
+msgid "Basque"
+msgstr "巴斯克语"
+
+#: dialect/translators/__init__.py:33
+msgid "Belarusian"
+msgstr "白俄罗斯语"
+
+#: dialect/translators/__init__.py:34
+msgid "Bengali"
+msgstr "孟加拉语"
+
+#: dialect/translators/__init__.py:35
+msgid "Bosnian"
+msgstr "波斯尼亚语"
+
+#: dialect/translators/__init__.py:36
+msgid "Bulgarian"
+msgstr "保加利亚语"
+
+#: dialect/translators/__init__.py:37
+msgid "Catalan"
+msgstr "加泰罗尼亚语"
+
+#: dialect/translators/__init__.py:38
+msgid "Cebuano"
+msgstr "宿务语"
+
+#: dialect/translators/__init__.py:39
+msgid "Chichewa"
+msgstr "齐佩瓦语"
+
+#: dialect/translators/__init__.py:40
+msgid "Chinese"
+msgstr "中文"
+
+#: dialect/translators/__init__.py:41
+msgid "Chinese (Simplified)"
+msgstr "中文 (简体)"
+
+#: dialect/translators/__init__.py:42
+msgid "Chinese (Traditional)"
+msgstr "中文 (繁体)"
+
+#: dialect/translators/__init__.py:43
+msgid "Corsican"
+msgstr "科西嘉语"
+
+#: dialect/translators/__init__.py:44
+msgid "Croatian"
+msgstr "克罗西亚语"
+
+#: dialect/translators/__init__.py:45
+msgid "Czech"
+msgstr "捷克语"
+
+#: dialect/translators/__init__.py:46
+msgid "Danish"
+msgstr "丹麦语"
+
+#: dialect/translators/__init__.py:47
+msgid "Dutch"
+msgstr "荷兰语"
+
+#: dialect/translators/__init__.py:48
+msgid "English"
+msgstr "英语"
+
+#: dialect/translators/__init__.py:49
+msgid "Esperanto"
+msgstr "世界语"
+
+#: dialect/translators/__init__.py:50
+msgid "Estonian"
+msgstr "爱沙尼亚语"
+
+#: dialect/translators/__init__.py:51
+msgid "Filipino"
+msgstr "菲律宾语"
+
+#: dialect/translators/__init__.py:52
+msgid "Finnish"
+msgstr "芬兰语"
+
+#: dialect/translators/__init__.py:53
+msgid "French"
+msgstr "法语"
+
+#: dialect/translators/__init__.py:54
+msgid "Frisian"
+msgstr "弗里斯兰语"
+
+#: dialect/translators/__init__.py:55
+msgid "Galician"
+msgstr "加利西亚语"
+
+#: dialect/translators/__init__.py:56
+msgid "Georgian"
+msgstr "格鲁吉亚语"
+
+#: dialect/translators/__init__.py:57
+msgid "German"
+msgstr "德语"
+
+#: dialect/translators/__init__.py:58
+msgid "Greek"
+msgstr "希腊语"
+
+#: dialect/translators/__init__.py:59
+msgid "Gujarati"
+msgstr "古吉拉特语"
+
+#: dialect/translators/__init__.py:60
+msgid "Haitian Creole"
+msgstr "海地克里奥尔语"
+
+#: dialect/translators/__init__.py:61
+msgid "Hausa"
+msgstr "豪萨语"
+
+#: dialect/translators/__init__.py:62
+msgid "Hawaiian"
+msgstr "夏威夷语"
+
+#: dialect/translators/__init__.py:63 dialect/translators/__init__.py:64
+msgid "Hebrew"
+msgstr "希伯来语"
+
+#: dialect/translators/__init__.py:65
+msgid "Hindi"
+msgstr "印地语"
+
+#: dialect/translators/__init__.py:66
+msgid "Hmong"
+msgstr "苗语"
+
+#: dialect/translators/__init__.py:67
+msgid "Hungarian"
+msgstr "匈牙利语"
+
+#: dialect/translators/__init__.py:68
+msgid "Icelandic"
+msgstr "冰岛语"
+
+#: dialect/translators/__init__.py:69
+msgid "Igbo"
+msgstr "伊博语"
+
+#: dialect/translators/__init__.py:70
+msgid "Indonesian"
+msgstr "印度尼西亚语"
+
+#: dialect/translators/__init__.py:71
+msgid "Irish"
+msgstr "爱尔兰语"
+
+#: dialect/translators/__init__.py:72
+msgid "Italian"
+msgstr "意大利语"
+
+#: dialect/translators/__init__.py:73
+msgid "Japanese"
+msgstr "日语"
+
+#: dialect/translators/__init__.py:74
+msgid "Javanese"
+msgstr "爪哇语"
+
+#: dialect/translators/__init__.py:75
+msgid "Kannada"
+msgstr "卡纳达语"
+
+#: dialect/translators/__init__.py:76
+msgid "Kazakh"
+msgstr "哈萨克语"
+
+#: dialect/translators/__init__.py:77
+msgid "Khmer"
+msgstr "高棉语"
+
+#: dialect/translators/__init__.py:78
+msgid "Kinyarwanda"
+msgstr "卢旺达语"
+
+#: dialect/translators/__init__.py:79
+msgid "Korean"
+msgstr "韩语"
+
+#: dialect/translators/__init__.py:80
+msgid "Kurdish (Kurmanji)"
+msgstr "北库尔德语"
+
+#: dialect/translators/__init__.py:81
+msgid "Kyrgyz"
+msgstr "柯尔克孜语"
+
+#: dialect/translators/__init__.py:82
+msgid "Lao"
+msgstr "老挝语"
+
+#: dialect/translators/__init__.py:83
+msgid "Latin"
+msgstr "拉丁语"
+
+#: dialect/translators/__init__.py:84
+msgid "Latvian"
+msgstr "拉脱维亚语"
+
+#: dialect/translators/__init__.py:85
+msgid "Lithuanian"
+msgstr "立陶宛语"
+
+#: dialect/translators/__init__.py:86
+msgid "Luxembourgish"
+msgstr "卢森堡语"
+
+#: dialect/translators/__init__.py:87
+msgid "Macedonian"
+msgstr "马其顿语"
+
+#: dialect/translators/__init__.py:88
+msgid "Malagasy"
+msgstr "马达加斯加语"
+
+#: dialect/translators/__init__.py:89
+msgid "Malay"
+msgstr "马来语"
+
+#: dialect/translators/__init__.py:90
+msgid "Malayalam"
+msgstr "马拉雅拉姆语"
+
+#: dialect/translators/__init__.py:91
+msgid "Maltese"
+msgstr "马耳他语"
+
+#: dialect/translators/__init__.py:92
+msgid "Maori"
+msgstr "毛利语"
+
+#: dialect/translators/__init__.py:93
+msgid "Marathi"
+msgstr "马拉塔语"
+
+#: dialect/translators/__init__.py:94
+msgid "Mongolian"
+msgstr "蒙古语"
+
+#: dialect/translators/__init__.py:95
+msgid "Myanmar (Burmese)"
+msgstr "缅甸语"
+
+#: dialect/translators/__init__.py:96
+msgid "Nepali"
+msgstr "尼泊尔语"
+
+#: dialect/translators/__init__.py:97
+msgid "Norwegian"
+msgstr "挪威语"
+
+#: dialect/translators/__init__.py:98
+msgid "Odia (Oriya)"
+msgstr "奥里亚语"
+
+#: dialect/translators/__init__.py:99
+msgid "Pashto"
+msgstr "普什图语"
+
+#: dialect/translators/__init__.py:100
+msgid "Persian"
+msgstr "波斯语"
+
+#: dialect/translators/__init__.py:101
+msgid "Polish"
+msgstr "波兰语"
+
+#: dialect/translators/__init__.py:102
+msgid "Portuguese"
+msgstr "葡萄牙语"
+
+#: dialect/translators/__init__.py:103
+msgid "Punjabi"
+msgstr "旁遮普语"
+
+#: dialect/translators/__init__.py:104
+msgid "Romanian"
+msgstr "罗马尼亚语"
+
+#: dialect/translators/__init__.py:105
+msgid "Russian"
+msgstr "俄语"
+
+#: dialect/translators/__init__.py:106
+msgid "Samoan"
+msgstr "萨摩亚语"
+
+#: dialect/translators/__init__.py:107
+msgid "Scots Gaelic"
+msgstr "苏格兰盖尔语"
+
+#: dialect/translators/__init__.py:108
+msgid "Serbian"
+msgstr "塞尔维亚语"
+
+#: dialect/translators/__init__.py:109
+msgid "Sesotho"
+msgstr "塞索托语"
+
+#: dialect/translators/__init__.py:110
+msgid "Shona"
+msgstr "绍纳语"
+
+#: dialect/translators/__init__.py:111
+msgid "Sindhi"
+msgstr "信德语"
+
+#: dialect/translators/__init__.py:112
+msgid "Sinhala"
+msgstr "僧伽罗语"
+
+#: dialect/translators/__init__.py:113
+msgid "Slovak"
+msgstr "斯洛伐克语"
+
+#: dialect/translators/__init__.py:114
+msgid "Slovenian"
+msgstr "斯洛文尼亚语"
+
+#: dialect/translators/__init__.py:115
+msgid "Somali"
+msgstr "索马里语"
+
+#: dialect/translators/__init__.py:116
+msgid "Spanish"
+msgstr "西班牙语"
+
+#: dialect/translators/__init__.py:117
+msgid "Sundanese"
+msgstr "圣丹内斯语"
+
+#: dialect/translators/__init__.py:118
+msgid "Swahili"
+msgstr "斯瓦希里语"
+
+#: dialect/translators/__init__.py:119
+msgid "Swedish"
+msgstr "瑞典语"
+
+#: dialect/translators/__init__.py:120
+msgid "Tajik"
+msgstr "塔吉克语"
+
+#: dialect/translators/__init__.py:121
+msgid "Tamil"
+msgstr "泰米尔语"
+
+#: dialect/translators/__init__.py:122
+msgid "Tatar"
+msgstr "鞑靼语"
+
+#: dialect/translators/__init__.py:123
+msgid "Telugu"
+msgstr "泰卢固语"
+
+#: dialect/translators/__init__.py:124
+msgid "Thai"
+msgstr "泰语"
+
+#: dialect/translators/__init__.py:125
+msgid "Turkish"
+msgstr "土耳其语"
+
+#: dialect/translators/__init__.py:126
+msgid "Turkmen"
+msgstr "土库曼语"
+
+#: dialect/translators/__init__.py:127
+msgid "Ukrainian"
+msgstr "乌克兰语"
+
+#: dialect/translators/__init__.py:128
+msgid "Urdu"
+msgstr "乌尔都语"
+
+#: dialect/translators/__init__.py:129
+msgid "Uyghur"
+msgstr "维吾尔语"
+
+#: dialect/translators/__init__.py:130
+msgid "Uzbek"
+msgstr "乌孜别克语"
+
+#: dialect/translators/__init__.py:131
+msgid "Vietnamese"
+msgstr "越南语"
+
+#: dialect/translators/__init__.py:132
+msgid "Welsh"
+msgstr "威尔士语"
+
+#: dialect/translators/__init__.py:133
+msgid "Xhosa"
+msgstr "科萨语"
+
+#: dialect/translators/__init__.py:134
+msgid "Yiddish"
+msgstr "意第绪语"
+
+#: dialect/translators/__init__.py:135
+msgid "Yoruba"
+msgstr "约鲁巴语"
+
+#: dialect/translators/__init__.py:136
+msgid "Zulu"
+msgstr "祖鲁语"
