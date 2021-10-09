@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
 "POT-Creation-Date: 2021-09-17 18:09+0530\n"
-"PO-Revision-Date: 2021-10-08 05:30+0000\n"
+"PO-Revision-Date: 2021-10-09 06:02+0000\n"
 "Last-Translator: Dušan Kazik <prescott66@gmail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/dialect/dialect/"
 "sk/>\n"
@@ -29,12 +29,12 @@ msgstr "Dialect"
 #: data/com.github.gi_lom.dialect.desktop.in:9
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:7
 msgid "Translate between languages"
-msgstr ""
+msgstr "Prekladá medzi jazykmi"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/com.github.gi_lom.dialect.desktop.in:13
 msgid "translate;translation;"
-msgstr ""
+msgstr "preložiť;preloženie;preklad;prekladať;"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:9 data/resources/about.ui:12
 msgid "A translation app for GNOME."
@@ -42,7 +42,7 @@ msgstr ""
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:12
 msgid "Features:"
-msgstr ""
+msgstr "Funkcie:"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:16
 msgid "Translation based on an unofficial API for Google Translate"
@@ -85,7 +85,7 @@ msgstr ""
 #. Replace me with your names.
 #: data/resources/about.ui:19
 msgid "translator-credits"
-msgstr ""
+msgstr "Dušan Kazik <prescott66@gmail.com>"
 
 #: data/resources/menu.ui:7
 msgid "Show Pronunciation"
@@ -97,23 +97,23 @@ msgstr ""
 
 #: data/resources/menu.ui:18
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Klávesové skratky"
 
 #: data/resources/menu.ui:22
 msgid "About Dialect"
-msgstr ""
+msgstr "O aplikáci Dialect"
 
 #: data/resources/preferences.ui:15
 msgid "Appearance"
-msgstr ""
+msgstr "Vzhľad"
 
 #: data/resources/preferences.ui:19
 msgid "Dark Mode"
-msgstr ""
+msgstr "Tmavý režim"
 
 #: data/resources/preferences.ui:35
 msgid "Behavior"
-msgstr ""
+msgstr "Správanie"
 
 #: data/resources/preferences.ui:39
 msgid "Live Translation"
@@ -121,15 +121,15 @@ msgstr ""
 
 #: data/resources/preferences.ui:40
 msgid "Warning: Your IP address may get banned for API abuse."
-msgstr ""
+msgstr "Upozornenie: Vaša adresa IP môže byť zablokovaná kvôli zneužívaniu API."
 
 #: data/resources/preferences.ui:54
 msgid "Translation Shortcut"
-msgstr ""
+msgstr "Klávesová skratka prekladu"
 
 #: data/resources/preferences.ui:55
 msgid "The unselected choice will be used for line break."
-msgstr ""
+msgstr "Nevybraná voľba bude použitá pre vloženie nového riadku."
 
 #: data/resources/preferences.ui:61
 msgid "Default to Auto"
@@ -141,7 +141,7 @@ msgstr ""
 
 #: data/resources/preferences.ui:76
 msgid "Translator"
-msgstr ""
+msgstr "Prekladač"
 
 #: data/resources/preferences.ui:77
 msgid "Choose from the available translation services."
@@ -149,7 +149,7 @@ msgstr ""
 
 #: data/resources/preferences.ui:83
 msgid "Translator Instance"
-msgstr ""
+msgstr "Inštancia prekladača"
 
 #: data/resources/preferences.ui:84
 msgid "Enter a translation service URL."
@@ -177,7 +177,7 @@ msgstr ""
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
-msgstr ""
+msgstr "Poskytovateľ hľadania"
 
 #: data/resources/preferences.ui:193
 msgid ""
@@ -189,7 +189,7 @@ msgstr ""
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
 msgid "Translator"
-msgstr ""
+msgstr "Prekladač"
 
 #: data/resources/shortcuts-window.ui:17
 msgctxt "shortcuts window"
@@ -209,7 +209,7 @@ msgstr ""
 #: data/resources/shortcuts-window.ui:38
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr ""
+msgstr "Skopírovanie prekladu"
 
 #: data/resources/shortcuts-window.ui:45
 msgctxt "shortcuts window"
@@ -224,17 +224,17 @@ msgstr ""
 #: data/resources/shortcuts-window.ui:58
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "Vypočutie zdrojového textu"
 
 #: data/resources/shortcuts-window.ui:65
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr ""
+msgstr "Vypočutie prekladu"
 
 #: data/resources/shortcuts-window.ui:74
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "Navigácia"
 
 #: data/resources/shortcuts-window.ui:78
 msgctxt "shortcuts window"
@@ -249,82 +249,82 @@ msgstr ""
 #: data/resources/shortcuts-window.ui:94
 msgctxt "shortcuts window"
 msgid "General"
-msgstr ""
+msgstr "Všeobecné"
 
 #: data/resources/shortcuts-window.ui:98
 msgctxt "shortcuts window"
 msgid "Preferences"
-msgstr ""
+msgstr "Predvoľby"
 
 #: data/resources/shortcuts-window.ui:105
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr ""
+msgstr "Klávesové skratky"
 
 #: data/resources/shortcuts-window.ui:112
 msgctxt "shortcuts window"
 msgid "Quit"
-msgstr ""
+msgstr "Ukončenie"
 
 #: data/resources/window.ui:42
 msgid "Loading…"
-msgstr ""
+msgstr "Načítava sa…"
 
 #: data/resources/window.ui:83
 msgid "Could not load the translator service"
-msgstr ""
+msgstr "Nepodarilo sa načítať službu prekladača"
 
 #: data/resources/window.ui:108
 msgid "Retry"
-msgstr ""
+msgstr "Skúsiť znovu"
 
 #: data/resources/window.ui:115
 msgid "Open preferences"
-msgstr ""
+msgstr "Otvoriť predvoľby"
 
 #: data/resources/window.ui:194 data/resources/window.ui:728
 msgid "Switch languages"
-msgstr ""
+msgstr "Prehodí jazyky"
 
 #: data/resources/window.ui:274
 msgid "Previous translation"
-msgstr ""
+msgstr "Predchádzajúci preklad"
 
 #: data/resources/window.ui:293
 msgid "Next translation"
-msgstr ""
+msgstr "Nasledujúci preklad"
 
 #: data/resources/window.ui:454
 msgid "Clear"
-msgstr ""
+msgstr "Vymaže"
 
 #: data/resources/window.ui:470
 msgid "Paste"
-msgstr ""
+msgstr "Vloží"
 
 #: data/resources/window.ui:486 data/resources/window.ui:624
 msgid "Listen"
-msgstr ""
+msgstr "Vypočuje"
 
 #: data/resources/window.ui:494
 msgid "Translate"
-msgstr ""
+msgstr "Preložiť"
 
 #: data/resources/window.ui:605
 msgid "Translating…"
-msgstr ""
+msgstr "Prekladá sa…"
 
 #: data/resources/window.ui:613
 msgid "Could not translate the text"
-msgstr ""
+msgstr "Nepodarilo sa preložiť text"
 
 #: data/resources/window.ui:639
 msgid "Copy"
-msgstr ""
+msgstr "Skopíruje"
 
 #: data/resources/window.ui:820
 msgid "No network connection detected."
-msgstr ""
+msgstr "Nebolo zistené žiadne pripojenie k sieti."
 
 #: dialect/preferences.py:250
 #, python-brace-format
@@ -333,31 +333,35 @@ msgstr ""
 
 #: dialect/window.py:234
 msgid "A network issue has occured. Retry?"
-msgstr ""
+msgstr "Vyskytol sa problém so sieťou. Skúsiť znova?"
 
 #: dialect/window.py:238
 msgid ""
 "A network issue has occured.\n"
 "Please try again."
 msgstr ""
+"Vyskytol sa problém so sieťou.\n"
+"Prosím, skúste to znovu."
 
 #: dialect/window.py:498 dialect/window.py:502
 msgid "Auto"
-msgstr ""
+msgstr "Automatický"
 
 #: dialect/window.py:775
 msgid "5000 characters limit reached!"
-msgstr ""
+msgstr "Bol dosiahnutý limit 5000 znakov!"
 
 #: dialect/window.py:877
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
 msgstr ""
+"Preklad zlyhal.\n"
+"Prosím, skontrolujte problémy so sieťou."
 
 #: dialect/window.py:893
 msgid "Did you mean: "
-msgstr ""
+msgstr "Mali ste na mysli: "
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
