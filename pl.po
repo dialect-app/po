@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
 "POT-Creation-Date: 2021-09-17 18:09+0530\n"
 "PO-Revision-Date: 2021-10-09 06:01+0000\n"
-"Last-Translator: Roberts Gasūns <rob4iks3@gmail.com>\n"
+"Last-Translator: IntinteDAO <lordfervi@protonmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/dialect/dialect/"
 "pl/>\n"
 "Language: pl\n"
@@ -246,7 +246,7 @@ msgstr "Nawigacja"
 #: data/resources/shortcuts-window.ui:78
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "Przywróć wpis z historii"
 
 #: data/resources/shortcuts-window.ui:85
 msgctxt "shortcuts window"
