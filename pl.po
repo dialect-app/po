@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
 "POT-Creation-Date: 2021-09-17 18:09+0530\n"
-"PO-Revision-Date: 2021-09-01 15:34+0000\n"
-"Last-Translator: IntinteDAO <lordfervi@protonmail.com>\n"
+"PO-Revision-Date: 2021-10-09 06:01+0000\n"
+"Last-Translator: Roberts Gasūns <rob4iks3@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/dialect/dialect/"
 "pl/>\n"
 "Language: pl\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.8.1-dev\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
@@ -35,7 +35,7 @@ msgstr "Tłumacz językowy"
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/com.github.gi_lom.dialect.desktop.in:13
 msgid "translate;translation;"
-msgstr "tłumacz;tłumaczenie;"
+msgstr "tłumacz;translation;"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:9 data/resources/about.ui:12
 msgid "A translation app for GNOME."
@@ -194,8 +194,6 @@ msgstr ""
 "GNOME."
 
 #: data/resources/shortcuts-window.ui:13
-#, fuzzy
-#| msgid "Translator"
 msgctxt "shortcuts window"
 msgid "Translator"
 msgstr "Tłumacz"
@@ -216,22 +214,16 @@ msgid "Clear source text"
 msgstr "Wyczyść tekst źródłowy"
 
 #: data/resources/shortcuts-window.ui:38
-#, fuzzy
-#| msgid "Next translation"
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr "Następne tłumaczenie"
+msgstr "Skopiuj tłumaczenie"
 
 #: data/resources/shortcuts-window.ui:45
-#, fuzzy
-#| msgid "Show Pronunciation"
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
 msgstr "Pokaż wymowę"
 
 #: data/resources/shortcuts-window.ui:54
-#, fuzzy
-#| msgid "Text-to-Speech"
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
 msgstr "Tekst-na-Mowę"
@@ -242,11 +234,9 @@ msgid "Listen to source text"
 msgstr "Wysłuchaj tekstu źródłowego"
 
 #: data/resources/shortcuts-window.ui:65
-#, fuzzy
-#| msgid "Next translation"
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr "Następne tłumaczenie"
+msgstr "Posłuchaj tłumaczenia"
 
 #: data/resources/shortcuts-window.ui:74
 msgctxt "shortcuts window"
@@ -259,11 +249,9 @@ msgid "Go back in history"
 msgstr ""
 
 #: data/resources/shortcuts-window.ui:85
-#, fuzzy
-#| msgid "Translation history"
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr "Historia tłumaczeń"
+msgstr "Następny wpis historii"
 
 #: data/resources/shortcuts-window.ui:94
 msgctxt "shortcuts window"
@@ -276,11 +264,9 @@ msgid "Preferences"
 msgstr "Preferencje"
 
 #: data/resources/shortcuts-window.ui:105
-#, fuzzy
-#| msgid "Keyboard Shortcuts"
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr "Skróty klawiszowe"
+msgstr "Skróty"
 
 #: data/resources/shortcuts-window.ui:112
 msgctxt "shortcuts window"
@@ -442,7 +428,7 @@ msgstr "cziczewa"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
-msgstr ""
+msgstr "Chiński"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"

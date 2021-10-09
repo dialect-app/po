@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
 "POT-Creation-Date: 2021-09-17 18:09+0530\n"
-"PO-Revision-Date: 2021-10-05 18:04+0000\n"
-"Last-Translator: Pêşeroja paşerojê <cyax1@protonmail.com>\n"
+"PO-Revision-Date: 2021-10-09 06:02+0000\n"
+"Last-Translator: Roberts Gasūns <rob4iks3@gmail.com>\n"
 "Language-Team: Kurdish (Northern) <https://hosted.weblate.org/projects/"
 "dialect/dialect/kmr/>\n"
 "Language: kmr\n"
@@ -176,7 +176,7 @@ msgstr "Ji nivîsê bo dengê"
 
 #: data/resources/preferences.ui:176
 msgid "Use Google for TTS."
-msgstr "Ji bo \"ji nivîsê bo dengê\" Google-ê bi kar bîne"
+msgstr "Ji bo \"ji nivîsê bo dengê\" Google-ê bi kar bîne."
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
@@ -210,7 +210,7 @@ msgstr "Zimên biguherîne"
 #: data/resources/shortcuts-window.ui:31
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "Nivîsara jêderê paqij bike"
 
 #: data/resources/shortcuts-window.ui:38
 msgctxt "shortcuts window"
@@ -223,8 +223,6 @@ msgid "Show Pronunciation"
 msgstr "Bilêvkirinê nîşan bide"
 
 #: data/resources/shortcuts-window.ui:54
-#, fuzzy
-#| msgid "Text-to-Speech"
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
 msgstr "Ji nivîsê bo dengê"
@@ -232,7 +230,7 @@ msgstr "Ji nivîsê bo dengê"
 #: data/resources/shortcuts-window.ui:58
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "Guh bidin nivîsa jêder"
 
 #: data/resources/shortcuts-window.ui:65
 msgctxt "shortcuts window"
@@ -250,11 +248,9 @@ msgid "Go back in history"
 msgstr "Vegere dîrokê"
 
 #: data/resources/shortcuts-window.ui:85
-#, fuzzy
-#| msgid "Translation history"
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr "Dîroka wergerê"
+msgstr "Di dîrokê de pêş de biçin"
 
 #: data/resources/shortcuts-window.ui:94
 msgctxt "shortcuts window"

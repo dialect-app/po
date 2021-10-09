@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
 "POT-Creation-Date: 2021-09-17 18:09+0530\n"
-"PO-Revision-Date: 2021-10-07 04:05+0000\n"
+"PO-Revision-Date: 2021-10-09 06:02+0000\n"
 "Last-Translator: Roberts Gasūns <rob4iks3@gmail.com>\n"
 "Language-Team: Latvian <https://hosted.weblate.org/projects/dialect/dialect/"
 "lv/>\n"
@@ -39,7 +39,7 @@ msgstr "tulkot;translation;"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:9 data/resources/about.ui:12
 msgid "A translation app for GNOME."
-msgstr "Tulkošanas applikācija priekš GNOME."
+msgstr "GNOME tulkošanas applikācija."
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:12
 msgid "Features:"
@@ -75,7 +75,7 @@ msgstr "Starpliktuves pogas"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:27
 msgid "The Dialect Authors"
-msgstr "The Dialect Authors"
+msgstr "Dialect Autori"
 
 #: data/resources/about.ui:11
 msgid "Copyright 2020–⁠2021 The Dialect Authors"
@@ -120,67 +120,68 @@ msgstr "Darba režīms"
 
 #: data/resources/preferences.ui:39
 msgid "Live Translation"
-msgstr ""
+msgstr "Tūlītēja tulkošana"
 
 #: data/resources/preferences.ui:40
 msgid "Warning: Your IP address may get banned for API abuse."
 msgstr ""
+"Uzmanību: Jūsu IP adrese varētu tikt bloķēta pārmērīgas API izmantošanas dēļ."
 
 #: data/resources/preferences.ui:54
 msgid "Translation Shortcut"
-msgstr ""
+msgstr "Tulkošanas saīsne"
 
 #: data/resources/preferences.ui:55
 msgid "The unselected choice will be used for line break."
-msgstr ""
+msgstr "Neatzīmētā izvēle tiks izmantota rindas pārtraukumam."
 
 #: data/resources/preferences.ui:61
 msgid "Default to Auto"
-msgstr ""
+msgstr "Auto kā noklusējums"
 
 #: data/resources/preferences.ui:62
 msgid "Use \"Auto\" as the default language"
-msgstr ""
+msgstr "Izmantot \"Auto\" kā noklusējuma valodu"
 
 #: data/resources/preferences.ui:76
 msgid "Translator"
-msgstr ""
+msgstr "Tulkotājs"
 
 #: data/resources/preferences.ui:77
 msgid "Choose from the available translation services."
-msgstr ""
+msgstr "Izvēlieties no pieejamajiem tulkošanas pakalpojumiem."
 
 #: data/resources/preferences.ui:83
 msgid "Translator Instance"
-msgstr ""
+msgstr "Tulkošanas Instance"
 
 #: data/resources/preferences.ui:84
 msgid "Enter a translation service URL."
-msgstr ""
+msgstr "Ievadiet tulkošanas pakalpojuma URL."
 
 #: data/resources/preferences.ui:109
 msgid "Edit"
-msgstr ""
+msgstr "Rediģēt"
 
 #: data/resources/preferences.ui:143
 msgid "Reset to default"
-msgstr ""
+msgstr "Atiestatīt uz noklusējumu"
 
 #: data/resources/preferences.ui:158
 msgid "Save"
-msgstr ""
+msgstr "Saglabāt"
 
 #: data/resources/preferences.ui:175
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Teksts-uz-Runu"
 
 #: data/resources/preferences.ui:176
 msgid "Use Google for TTS."
-msgstr ""
+msgstr "Izmantot lasīšanai Google."
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
-msgstr ""
+msgstr "Meklēšanas Provaideris"
 
 #: data/resources/preferences.ui:193
 msgid ""
@@ -188,616 +189,624 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
+"Lai samazinātu API pārmērīgu izmantošanu, GNOME meklēšanas provaideris "
+"Dialect programmā ir atslēgts, kad Tūlītējā tulkošana ir ieslēgta. "
+"Pārliecinieties, ka meklēšanas provaideris ir ieslēgts arī GNOME "
+"iestatījumos."
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
 msgid "Translator"
-msgstr ""
+msgstr "Tulkotājs"
 
 #: data/resources/shortcuts-window.ui:17
 msgctxt "shortcuts window"
 msgid "Translate"
-msgstr ""
+msgstr "Tulkot"
 
 #: data/resources/shortcuts-window.ui:24
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr ""
+msgstr "Pārslēgt Valodas"
 
 #: data/resources/shortcuts-window.ui:31
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "Nodzēst pirmtekstu"
 
 #: data/resources/shortcuts-window.ui:38
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr ""
+msgstr "Kopēt tulkojumu"
 
 #: data/resources/shortcuts-window.ui:45
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "Parādīt Izrunu"
 
 #: data/resources/shortcuts-window.ui:54
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Teksts-uz-Runu"
 
 #: data/resources/shortcuts-window.ui:58
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "Klausīties pirmtekstu"
 
 #: data/resources/shortcuts-window.ui:65
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr ""
+msgstr "Klausīties tulkojumu"
 
 #: data/resources/shortcuts-window.ui:74
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "Navigācija"
 
 #: data/resources/shortcuts-window.ui:78
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "Atpakaļ vēsturē"
 
 #: data/resources/shortcuts-window.ui:85
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr ""
+msgstr "Uz priekšu vēsturē"
 
 #: data/resources/shortcuts-window.ui:94
 msgctxt "shortcuts window"
 msgid "General"
-msgstr ""
+msgstr "Vispārīgi"
 
 #: data/resources/shortcuts-window.ui:98
 msgctxt "shortcuts window"
 msgid "Preferences"
-msgstr ""
+msgstr "Iestatījumi"
 
 #: data/resources/shortcuts-window.ui:105
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr ""
+msgstr "Saīsnes"
 
 #: data/resources/shortcuts-window.ui:112
 msgctxt "shortcuts window"
 msgid "Quit"
-msgstr ""
+msgstr "Iziet"
 
 #: data/resources/window.ui:42
 msgid "Loading…"
-msgstr ""
+msgstr "Lādējās…"
 
 #: data/resources/window.ui:83
 msgid "Could not load the translator service"
-msgstr ""
+msgstr "Neizdevās ielādēt tulkošanas pakalpojumu"
 
 #: data/resources/window.ui:108
 msgid "Retry"
-msgstr ""
+msgstr "Mēģināt vēlreiz"
 
 #: data/resources/window.ui:115
 msgid "Open preferences"
-msgstr ""
+msgstr "Atvērt iestatījumus"
 
 #: data/resources/window.ui:194 data/resources/window.ui:728
 msgid "Switch languages"
-msgstr ""
+msgstr "Pārslēgt valodas"
 
 #: data/resources/window.ui:274
 msgid "Previous translation"
-msgstr ""
+msgstr "Iepriekšējais tulkojums"
 
 #: data/resources/window.ui:293
 msgid "Next translation"
-msgstr ""
+msgstr "Nākošais tulkojums"
 
 #: data/resources/window.ui:454
 msgid "Clear"
-msgstr ""
+msgstr "Notīrīt"
 
 #: data/resources/window.ui:470
 msgid "Paste"
-msgstr ""
+msgstr "Ielīmēt"
 
 #: data/resources/window.ui:486 data/resources/window.ui:624
 msgid "Listen"
-msgstr ""
+msgstr "Klausīties"
 
 #: data/resources/window.ui:494
 msgid "Translate"
-msgstr ""
+msgstr "Tulkot"
 
 #: data/resources/window.ui:605
 msgid "Translating…"
-msgstr ""
+msgstr "Notiek tulkošana…"
 
 #: data/resources/window.ui:613
 msgid "Could not translate the text"
-msgstr ""
+msgstr "Neizdevās iztulkot tekstu"
 
 #: data/resources/window.ui:639
 msgid "Copy"
-msgstr ""
+msgstr "Kopēt"
 
 #: data/resources/window.ui:820
 msgid "No network connection detected."
-msgstr ""
+msgstr "Tīkla savienojums netika atrasts."
 
 #: dialect/preferences.py:250
 #, python-brace-format
 msgid "Not a valid {backend} instance"
-msgstr ""
+msgstr "Nederīga {backend} instance"
 
 #: dialect/window.py:234
 msgid "A network issue has occured. Retry?"
-msgstr ""
+msgstr "Ir notikusi tīkla kļūda. Mēģināt vēlreiz?"
 
 #: dialect/window.py:238
 msgid ""
 "A network issue has occured.\n"
 "Please try again."
 msgstr ""
+"Ir notikusi tīkla kļūda.\n"
+"Lūdzu, mēģiniet vēlreiz."
 
 #: dialect/window.py:498 dialect/window.py:502
 msgid "Auto"
-msgstr ""
+msgstr "Automātiski"
 
 #: dialect/window.py:775
 msgid "5000 characters limit reached!"
-msgstr ""
+msgstr "5000 rakstzīmju limits ir sasniegts!"
 
 #: dialect/window.py:877
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
 msgstr ""
+"Tulkojums neizdevās.\n"
+"Lūdzu, pārbaudiet tīkla kļūdas."
 
 #: dialect/window.py:893
 msgid "Did you mean: "
-msgstr ""
+msgstr "Vai jūs domājāt: "
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
-msgstr ""
+msgstr "Afrikāņu"
 
 #: dialect/translators/__init__.py:27
 msgid "Albanian"
-msgstr ""
+msgstr "Albāņu"
 
 #: dialect/translators/__init__.py:28
 msgid "Amharic"
-msgstr ""
+msgstr "Amharu"
 
 #: dialect/translators/__init__.py:29
 msgid "Arabic"
-msgstr ""
+msgstr "Arābu"
 
 #: dialect/translators/__init__.py:30
 msgid "Armenian"
-msgstr ""
+msgstr "Armēņu"
 
 #: dialect/translators/__init__.py:31
 msgid "Azerbaijani"
-msgstr ""
+msgstr "Azerbaidžāņu"
 
 #: dialect/translators/__init__.py:32
 msgid "Basque"
-msgstr ""
+msgstr "Basku"
 
 #: dialect/translators/__init__.py:33
 msgid "Belarusian"
-msgstr ""
+msgstr "Baltkrievu"
 
 #: dialect/translators/__init__.py:34
 msgid "Bengali"
-msgstr ""
+msgstr "Bengāļu"
 
 #: dialect/translators/__init__.py:35
 msgid "Bosnian"
-msgstr ""
+msgstr "Bosniešu"
 
 #: dialect/translators/__init__.py:36
 msgid "Bulgarian"
-msgstr ""
+msgstr "Bulgāru"
 
 #: dialect/translators/__init__.py:37
 msgid "Catalan"
-msgstr ""
+msgstr "Katalāņu"
 
 #: dialect/translators/__init__.py:38
 msgid "Cebuano"
-msgstr ""
+msgstr "Sebuāno"
 
 #: dialect/translators/__init__.py:39
 msgid "Chichewa"
-msgstr ""
+msgstr "Čičeva"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
-msgstr ""
+msgstr "Ķīniešu"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
-msgstr ""
+msgstr "Ķīniešu (Vienkāršotā)"
 
 #: dialect/translators/__init__.py:42
 msgid "Chinese (Traditional)"
-msgstr ""
+msgstr "Ķīniešu (Tradicionālā)"
 
 #: dialect/translators/__init__.py:43
 msgid "Corsican"
-msgstr ""
+msgstr "Korsikāņu"
 
 #: dialect/translators/__init__.py:44
 msgid "Croatian"
-msgstr ""
+msgstr "Horvātu"
 
 #: dialect/translators/__init__.py:45
 msgid "Czech"
-msgstr ""
+msgstr "Čehu"
 
 #: dialect/translators/__init__.py:46
 msgid "Danish"
-msgstr ""
+msgstr "Dāņu"
 
 #: dialect/translators/__init__.py:47
 msgid "Dutch"
-msgstr ""
+msgstr "Holandiešu"
 
 #: dialect/translators/__init__.py:48
 msgid "English"
-msgstr ""
+msgstr "Angļu"
 
 #: dialect/translators/__init__.py:49
 msgid "Esperanto"
-msgstr ""
+msgstr "Esperanto"
 
 #: dialect/translators/__init__.py:50
 msgid "Estonian"
-msgstr ""
+msgstr "Igauņu"
 
 #: dialect/translators/__init__.py:51
 msgid "Filipino"
-msgstr ""
+msgstr "Filipīniešu"
 
 #: dialect/translators/__init__.py:52
 msgid "Finnish"
-msgstr ""
+msgstr "Somu"
 
 #: dialect/translators/__init__.py:53
 msgid "French"
-msgstr ""
+msgstr "Franču"
 
 #: dialect/translators/__init__.py:54
 msgid "Frisian"
-msgstr ""
+msgstr "Frīzu"
 
 #: dialect/translators/__init__.py:55
 msgid "Galician"
-msgstr ""
+msgstr "Galisiešu"
 
 #: dialect/translators/__init__.py:56
 msgid "Georgian"
-msgstr ""
+msgstr "Gruzīnu"
 
 #: dialect/translators/__init__.py:57
 msgid "German"
-msgstr ""
+msgstr "Vācu"
 
 #: dialect/translators/__init__.py:58
 msgid "Greek"
-msgstr ""
+msgstr "Grieķu"
 
 #: dialect/translators/__init__.py:59
 msgid "Gujarati"
-msgstr ""
+msgstr "Gudžaratu"
 
 #: dialect/translators/__init__.py:60
 msgid "Haitian Creole"
-msgstr ""
+msgstr "Haiti Kreolu"
 
 #: dialect/translators/__init__.py:61
 msgid "Hausa"
-msgstr ""
+msgstr "Hausa"
 
 #: dialect/translators/__init__.py:62
 msgid "Hawaiian"
-msgstr ""
+msgstr "Havajiešu"
 
 #: dialect/translators/__init__.py:63 dialect/translators/__init__.py:64
 msgid "Hebrew"
-msgstr ""
+msgstr "Ebreju"
 
 #: dialect/translators/__init__.py:65
 msgid "Hindi"
-msgstr ""
+msgstr "Hindu"
 
 #: dialect/translators/__init__.py:66
 msgid "Hmong"
-msgstr ""
+msgstr "Hmong"
 
 #: dialect/translators/__init__.py:67
 msgid "Hungarian"
-msgstr ""
+msgstr "Ungāru"
 
 #: dialect/translators/__init__.py:68
 msgid "Icelandic"
-msgstr ""
+msgstr "Islandiešu"
 
 #: dialect/translators/__init__.py:69
 msgid "Igbo"
-msgstr ""
+msgstr "Igbo"
 
 #: dialect/translators/__init__.py:70
 msgid "Indonesian"
-msgstr ""
+msgstr "Indonēziešu"
 
 #: dialect/translators/__init__.py:71
 msgid "Irish"
-msgstr ""
+msgstr "Īru"
 
 #: dialect/translators/__init__.py:72
 msgid "Italian"
-msgstr ""
+msgstr "Itāļu"
 
 #: dialect/translators/__init__.py:73
 msgid "Japanese"
-msgstr ""
+msgstr "Japāņu"
 
 #: dialect/translators/__init__.py:74
 msgid "Javanese"
-msgstr ""
+msgstr "Javiešu"
 
 #: dialect/translators/__init__.py:75
 msgid "Kannada"
-msgstr ""
+msgstr "Kannada"
 
 #: dialect/translators/__init__.py:76
 msgid "Kazakh"
-msgstr ""
+msgstr "Kazahu"
 
 #: dialect/translators/__init__.py:77
 msgid "Khmer"
-msgstr ""
+msgstr "Khmeri"
 
 #: dialect/translators/__init__.py:78
 msgid "Kinyarwanda"
-msgstr ""
+msgstr "Kinyarwanda"
 
 #: dialect/translators/__init__.py:79
 msgid "Korean"
-msgstr ""
+msgstr "Korejiešu"
 
 #: dialect/translators/__init__.py:80
 msgid "Kurdish (Kurmanji)"
-msgstr ""
+msgstr "Kurdu (Kurmanji)"
 
 #: dialect/translators/__init__.py:81
 msgid "Kyrgyz"
-msgstr ""
+msgstr "Kirgīzu"
 
 #: dialect/translators/__init__.py:82
 msgid "Lao"
-msgstr ""
+msgstr "Lao"
 
 #: dialect/translators/__init__.py:83
 msgid "Latin"
-msgstr ""
+msgstr "Latīņu"
 
 #: dialect/translators/__init__.py:84
 msgid "Latvian"
-msgstr ""
+msgstr "Latviešu"
 
 #: dialect/translators/__init__.py:85
 msgid "Lithuanian"
-msgstr ""
+msgstr "Lietuviešu"
 
 #: dialect/translators/__init__.py:86
 msgid "Luxembourgish"
-msgstr ""
+msgstr "Luksemburgiešu"
 
 #: dialect/translators/__init__.py:87
 msgid "Macedonian"
-msgstr ""
+msgstr "Maķedoniešu"
 
 #: dialect/translators/__init__.py:88
 msgid "Malagasy"
-msgstr ""
+msgstr "Madagaskariešu"
 
 #: dialect/translators/__init__.py:89
 msgid "Malay"
-msgstr ""
+msgstr "Malajiešu"
 
 #: dialect/translators/__init__.py:90
 msgid "Malayalam"
-msgstr ""
+msgstr "Malajalu"
 
 #: dialect/translators/__init__.py:91
 msgid "Maltese"
-msgstr ""
+msgstr "Maltiešu"
 
 #: dialect/translators/__init__.py:92
 msgid "Maori"
-msgstr ""
+msgstr "Maori"
 
 #: dialect/translators/__init__.py:93
 msgid "Marathi"
-msgstr ""
+msgstr "Maratu"
 
 #: dialect/translators/__init__.py:94
 msgid "Mongolian"
-msgstr ""
+msgstr "Mongoļu"
 
 #: dialect/translators/__init__.py:95
 msgid "Myanmar (Burmese)"
-msgstr ""
+msgstr "Mjanma (birmiešu)"
 
 #: dialect/translators/__init__.py:96
 msgid "Nepali"
-msgstr ""
+msgstr "Nepāliešu"
 
 #: dialect/translators/__init__.py:97
 msgid "Norwegian"
-msgstr ""
+msgstr "Norvēģu"
 
 #: dialect/translators/__init__.py:98
 msgid "Odia (Oriya)"
-msgstr ""
+msgstr "Odija (Orija)"
 
 #: dialect/translators/__init__.py:99
 msgid "Pashto"
-msgstr ""
+msgstr "Puštu"
 
 #: dialect/translators/__init__.py:100
 msgid "Persian"
-msgstr ""
+msgstr "Persiešu"
 
 #: dialect/translators/__init__.py:101
 msgid "Polish"
-msgstr ""
+msgstr "Poļu"
 
 #: dialect/translators/__init__.py:102
 msgid "Portuguese"
-msgstr ""
+msgstr "Portugāļu"
 
 #: dialect/translators/__init__.py:103
 msgid "Punjabi"
-msgstr ""
+msgstr "Pandžabī"
 
 #: dialect/translators/__init__.py:104
 msgid "Romanian"
-msgstr ""
+msgstr "Rumāņu"
 
 #: dialect/translators/__init__.py:105
 msgid "Russian"
-msgstr ""
+msgstr "Krievu"
 
 #: dialect/translators/__init__.py:106
 msgid "Samoan"
-msgstr ""
+msgstr "Samoāņu"
 
 #: dialect/translators/__init__.py:107
 msgid "Scots Gaelic"
-msgstr ""
+msgstr "Skotu gēlu"
 
 #: dialect/translators/__init__.py:108
 msgid "Serbian"
-msgstr ""
+msgstr "Serbu"
 
 #: dialect/translators/__init__.py:109
 msgid "Sesotho"
-msgstr ""
+msgstr "Sesoto"
 
 #: dialect/translators/__init__.py:110
 msgid "Shona"
-msgstr ""
+msgstr "Šona"
 
 #: dialect/translators/__init__.py:111
 msgid "Sindhi"
-msgstr ""
+msgstr "Sindhi"
 
 #: dialect/translators/__init__.py:112
 msgid "Sinhala"
-msgstr ""
+msgstr "Sinhala"
 
 #: dialect/translators/__init__.py:113
 msgid "Slovak"
-msgstr ""
+msgstr "Slovāku"
 
 #: dialect/translators/__init__.py:114
 msgid "Slovenian"
-msgstr ""
+msgstr "Slovēņu"
 
 #: dialect/translators/__init__.py:115
 msgid "Somali"
-msgstr ""
+msgstr "Somālijas"
 
 #: dialect/translators/__init__.py:116
 msgid "Spanish"
-msgstr ""
+msgstr "Spāņu"
 
 #: dialect/translators/__init__.py:117
 msgid "Sundanese"
-msgstr ""
+msgstr "Sundaniešu"
 
 #: dialect/translators/__init__.py:118
 msgid "Swahili"
-msgstr ""
+msgstr "Svahili"
 
 #: dialect/translators/__init__.py:119
 msgid "Swedish"
-msgstr ""
+msgstr "Zviedru"
 
 #: dialect/translators/__init__.py:120
 msgid "Tajik"
-msgstr ""
+msgstr "Tadžiku"
 
 #: dialect/translators/__init__.py:121
 msgid "Tamil"
-msgstr ""
+msgstr "Tamilu"
 
 #: dialect/translators/__init__.py:122
 msgid "Tatar"
-msgstr ""
+msgstr "Tatāru"
 
 #: dialect/translators/__init__.py:123
 msgid "Telugu"
-msgstr ""
+msgstr "Telugu"
 
 #: dialect/translators/__init__.py:124
 msgid "Thai"
-msgstr ""
+msgstr "Taju"
 
 #: dialect/translators/__init__.py:125
 msgid "Turkish"
-msgstr ""
+msgstr "Turku"
 
 #: dialect/translators/__init__.py:126
 msgid "Turkmen"
-msgstr ""
+msgstr "Turkmēņu"
 
 #: dialect/translators/__init__.py:127
 msgid "Ukrainian"
-msgstr ""
+msgstr "Ukraiņu"
 
 #: dialect/translators/__init__.py:128
 msgid "Urdu"
-msgstr ""
+msgstr "Urdu"
 
 #: dialect/translators/__init__.py:129
 msgid "Uyghur"
-msgstr ""
+msgstr "Uiguru"
 
 #: dialect/translators/__init__.py:130
 msgid "Uzbek"
-msgstr ""
+msgstr "Uzbeku"
 
 #: dialect/translators/__init__.py:131
 msgid "Vietnamese"
-msgstr ""
+msgstr "Vjetnamiešu"
 
 #: dialect/translators/__init__.py:132
 msgid "Welsh"
-msgstr ""
+msgstr "Velsiešu"
 
 #: dialect/translators/__init__.py:133
 msgid "Xhosa"
-msgstr ""
+msgstr "Ksosa"
 
 #: dialect/translators/__init__.py:134
 msgid "Yiddish"
-msgstr ""
+msgstr "Jidiš"
 
 #: dialect/translators/__init__.py:135
 msgid "Yoruba"
-msgstr ""
+msgstr "Joruba"
 
 #: dialect/translators/__init__.py:136
 msgid "Zulu"
-msgstr ""
+msgstr "Zulu"
