@@ -8,38 +8,41 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
 "POT-Creation-Date: 2021-09-17 18:09+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-10-10 15:05+0000\n"
+"Last-Translator: HelaBasa <R45XvezA@protonmail.ch>\n"
+"Language-Team: Sinhala <https://hosted.weblate.org/projects/dialect/dialect/"
+"si/>\n"
 "Language: si\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/about.ui:10
 #: data/resources/window.ui:66 dialect/main.py:56 dialect/main.py:93
 msgid "Dialect"
-msgstr ""
+msgstr "ඩයලෙක්ට්"
 
 #: data/com.github.gi_lom.dialect.desktop.in:9
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:7
 msgid "Translate between languages"
-msgstr ""
+msgstr "භාෂා අතර පරිවර්තනය"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/com.github.gi_lom.dialect.desktop.in:13
 msgid "translate;translation;"
-msgstr ""
+msgstr "translate;translation;"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:9 data/resources/about.ui:12
 msgid "A translation app for GNOME."
-msgstr ""
+msgstr "ග්නෝම් සඳහා පරිවර්තන යෙදුමකි."
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:12
 msgid "Features:"
-msgstr ""
+msgstr "විශේෂාංග:"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:16
 msgid "Translation based on an unofficial API for Google Translate"
@@ -57,7 +60,7 @@ msgstr ""
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:19
 msgid "Translation history"
-msgstr ""
+msgstr "පරිවර්තන ඉතිහාසය"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:20
 msgid "Automatic language detection"
@@ -65,7 +68,7 @@ msgstr ""
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:21
 msgid "Clipboard buttons"
-msgstr ""
+msgstr "පසුරුපුවරු බොත්තම්"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:27
 msgid "The Dialect Authors"
@@ -82,7 +85,7 @@ msgstr ""
 #. Replace me with your names.
 #: data/resources/about.ui:19
 msgid "translator-credits"
-msgstr ""
+msgstr "හෙළබස"
 
 #: data/resources/menu.ui:7
 msgid "Show Pronunciation"
@@ -94,11 +97,11 @@ msgstr ""
 
 #: data/resources/menu.ui:18
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "යතුරුපුවරුවේ කෙටිමං"
 
 #: data/resources/menu.ui:22
 msgid "About Dialect"
-msgstr ""
+msgstr "ඩයලෙක්ට් පිළිබඳව"
 
 #: data/resources/preferences.ui:15
 msgid "Appearance"
@@ -114,7 +117,7 @@ msgstr ""
 
 #: data/resources/preferences.ui:39
 msgid "Live Translation"
-msgstr ""
+msgstr "සජීව පරිවර්තන"
 
 #: data/resources/preferences.ui:40
 msgid "Warning: Your IP address may get banned for API abuse."
@@ -154,7 +157,7 @@ msgstr ""
 
 #: data/resources/preferences.ui:109
 msgid "Edit"
-msgstr ""
+msgstr "සංස්කරණය"
 
 #: data/resources/preferences.ui:143
 msgid "Reset to default"
@@ -162,7 +165,7 @@ msgstr ""
 
 #: data/resources/preferences.ui:158
 msgid "Save"
-msgstr ""
+msgstr "සුරකින්න"
 
 #: data/resources/preferences.ui:175
 msgid "Text-to-Speech"
@@ -186,12 +189,12 @@ msgstr ""
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
 msgid "Translator"
-msgstr ""
+msgstr "පරිවර්තක"
 
 #: data/resources/shortcuts-window.ui:17
 msgctxt "shortcuts window"
 msgid "Translate"
-msgstr ""
+msgstr "පරිවර්තනය"
 
 #: data/resources/shortcuts-window.ui:24
 msgctxt "shortcuts window"
@@ -231,7 +234,7 @@ msgstr ""
 #: data/resources/shortcuts-window.ui:74
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "යාත්‍රණය"
 
 #: data/resources/shortcuts-window.ui:78
 msgctxt "shortcuts window"
@@ -256,16 +259,16 @@ msgstr ""
 #: data/resources/shortcuts-window.ui:105
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr ""
+msgstr "කෙටිමං"
 
 #: data/resources/shortcuts-window.ui:112
 msgctxt "shortcuts window"
 msgid "Quit"
-msgstr ""
+msgstr "ඉවත් වන්න"
 
 #: data/resources/window.ui:42
 msgid "Loading…"
-msgstr ""
+msgstr "පූරණය වෙමින්…"
 
 #: data/resources/window.ui:83
 msgid "Could not load the translator service"
@@ -297,19 +300,19 @@ msgstr ""
 
 #: data/resources/window.ui:470
 msgid "Paste"
-msgstr ""
+msgstr "අලවන්න"
 
 #: data/resources/window.ui:486 data/resources/window.ui:624
 msgid "Listen"
-msgstr ""
+msgstr "සවන්දෙන්න"
 
 #: data/resources/window.ui:494
 msgid "Translate"
-msgstr ""
+msgstr "පරිවර්තනය"
 
 #: data/resources/window.ui:605
 msgid "Translating…"
-msgstr ""
+msgstr "පරිවර්තනය වෙමින්…"
 
 #: data/resources/window.ui:613
 msgid "Could not translate the text"
@@ -317,7 +320,7 @@ msgstr ""
 
 #: data/resources/window.ui:639
 msgid "Copy"
-msgstr ""
+msgstr "පිටපත්"
 
 #: data/resources/window.ui:820
 msgid "No network connection detected."
@@ -340,7 +343,7 @@ msgstr ""
 
 #: dialect/window.py:498 dialect/window.py:502
 msgid "Auto"
-msgstr ""
+msgstr "ස්වයං"
 
 #: dialect/window.py:775
 msgid "5000 characters limit reached!"
@@ -358,27 +361,27 @@ msgstr ""
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
-msgstr ""
+msgstr "අප්‍රිකානු"
 
 #: dialect/translators/__init__.py:27
 msgid "Albanian"
-msgstr ""
+msgstr "ඇල්බේනියානු"
 
 #: dialect/translators/__init__.py:28
 msgid "Amharic"
-msgstr ""
+msgstr "අම්හාරික්"
 
 #: dialect/translators/__init__.py:29
 msgid "Arabic"
-msgstr ""
+msgstr "අරාබි"
 
 #: dialect/translators/__init__.py:30
 msgid "Armenian"
-msgstr ""
+msgstr "ආර්මේනියානු"
 
 #: dialect/translators/__init__.py:31
 msgid "Azerbaijani"
-msgstr ""
+msgstr "අසර්බයිජානු"
 
 #: dialect/translators/__init__.py:32
 msgid "Basque"
@@ -386,19 +389,19 @@ msgstr ""
 
 #: dialect/translators/__init__.py:33
 msgid "Belarusian"
-msgstr ""
+msgstr "බෙලරුසියානු"
 
 #: dialect/translators/__init__.py:34
 msgid "Bengali"
-msgstr ""
+msgstr "බෙංගාලි"
 
 #: dialect/translators/__init__.py:35
 msgid "Bosnian"
-msgstr ""
+msgstr "බොස්නියානු"
 
 #: dialect/translators/__init__.py:36
 msgid "Bulgarian"
-msgstr ""
+msgstr "බල්ගේරියානු"
 
 #: dialect/translators/__init__.py:37
 msgid "Catalan"
