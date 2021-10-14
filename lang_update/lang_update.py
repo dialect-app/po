@@ -1,3 +1,4 @@
+import argparse
 import json
 import os
 import re
@@ -137,12 +138,18 @@ DIALECT_NAMES = {
 EXCLUDE_LIST = []
 
 
+parser = argparse.ArgumentParser()
+parser.add_argument("language", nargs="?", help="the language code for language to update")
+parser.add_argument("-g", "--google", help="force use google for language names",
+                    action="store_true")
+args = parser.parse_args()
+
 if not os.path.isdir("cldr-json"):
     print("Cloning Unicode CLDR repository...")
     subprocess.call(["git", "clone", "https://github.com/unicode-org/cldr-json"])
 
-linguas_file = open("../LINGUAS", "r")
-for lang in linguas_file:
+
+def process_language(lang):
     lang = lang.strip()
     if lang and lang not in EXCLUDE_LIST:
         cldr_present = True  # Assume CLDR file is present.
@@ -177,7 +184,7 @@ for lang in linguas_file:
                 print("Could not find possible substitutes.")
                 cldr_present = False  # Correct earlier assumption.
 
-        if cldr_present:
+        if cldr_present or args.google:
             cldr_langs = cldr_json["main"][cldr_lang]["localeDisplayNames"]["languages"]
             for lang_code, lang_name in cldr_langs.items():
                 if lang_code in DIALECT_NAMES:
@@ -217,3 +224,11 @@ for lang in linguas_file:
         lang_file.close()
 
         print()
+
+
+if args.language:
+    process_language(args.language)
+else:
+    linguas_file = open("../LINGUAS", "r")
+    for lang in linguas_file:
+        process_language(lang)
