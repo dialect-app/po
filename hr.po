@@ -380,7 +380,7 @@ msgstr "albanski"
 
 #: dialect/translators/__init__.py:28
 msgid "Amharic"
-msgstr "amharik"
+msgstr "amharski"
 
 #: dialect/translators/__init__.py:29
 msgid "Arabic"
@@ -388,7 +388,7 @@ msgstr "arapski"
 
 #: dialect/translators/__init__.py:30
 msgid "Armenian"
-msgstr "armenijski"
+msgstr "armenski"
 
 #: dialect/translators/__init__.py:31
 msgid "Azerbaijani"
@@ -404,7 +404,7 @@ msgstr "bjeloruski"
 
 #: dialect/translators/__init__.py:34
 msgid "Bengali"
-msgstr "bengalski"
+msgstr "bangla"
 
 #: dialect/translators/__init__.py:35
 msgid "Bosnian"
@@ -424,7 +424,7 @@ msgstr "cebuano"
 
 #: dialect/translators/__init__.py:39
 msgid "Chichewa"
-msgstr "chichewa"
+msgstr "njandža"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
@@ -484,11 +484,11 @@ msgstr "francuski"
 
 #: dialect/translators/__init__.py:54
 msgid "Frisian"
-msgstr "frizijski"
+msgstr "zapadnofrizijski"
 
 #: dialect/translators/__init__.py:55
 msgid "Galician"
-msgstr "galski"
+msgstr "galicijski"
 
 #: dialect/translators/__init__.py:56
 msgid "Georgian"
@@ -504,11 +504,11 @@ msgstr "grčki"
 
 #: dialect/translators/__init__.py:59
 msgid "Gujarati"
-msgstr "gujarati"
+msgstr "gudžaratski"
 
 #: dialect/translators/__init__.py:60
 msgid "Haitian Creole"
-msgstr "haićansko-kreolski"
+msgstr "haićanski kreolski"
 
 #: dialect/translators/__init__.py:61
 msgid "Hausa"
@@ -524,7 +524,7 @@ msgstr "hebrejski"
 
 #: dialect/translators/__init__.py:65
 msgid "Hindi"
-msgstr "hindu"
+msgstr "hindski"
 
 #: dialect/translators/__init__.py:66
 msgid "Hmong"
@@ -564,7 +564,7 @@ msgstr "javanski"
 
 #: dialect/translators/__init__.py:75
 msgid "Kannada"
-msgstr "kannada"
+msgstr "karnatački"
 
 #: dialect/translators/__init__.py:76
 msgid "Kazakh"
@@ -588,7 +588,7 @@ msgstr "kurdski"
 
 #: dialect/translators/__init__.py:81
 msgid "Kyrgyz"
-msgstr "kirgistanski"
+msgstr "kirgiski"
 
 #: dialect/translators/__init__.py:82
 msgid "Lao"
@@ -600,11 +600,11 @@ msgstr "latinski"
 
 #: dialect/translators/__init__.py:84
 msgid "Latvian"
-msgstr "latvijski/letonski"
+msgstr "latvijski"
 
 #: dialect/translators/__init__.py:85
 msgid "Lithuanian"
-msgstr "litvanski"
+msgstr "litavski"
 
 #: dialect/translators/__init__.py:86
 msgid "Luxembourgish"
@@ -620,11 +620,11 @@ msgstr "malgaški"
 
 #: dialect/translators/__init__.py:89
 msgid "Malay"
-msgstr "malezijski"
+msgstr "malajski"
 
 #: dialect/translators/__init__.py:90
 msgid "Malayalam"
-msgstr "malajalam"
+msgstr "malajalamski"
 
 #: dialect/translators/__init__.py:91
 msgid "Maltese"
@@ -632,11 +632,11 @@ msgstr "malteški"
 
 #: dialect/translators/__init__.py:92
 msgid "Maori"
-msgstr "maori"
+msgstr "maorski"
 
 #: dialect/translators/__init__.py:93
 msgid "Marathi"
-msgstr "marati"
+msgstr "marathski"
 
 #: dialect/translators/__init__.py:94
 msgid "Mongolian"
@@ -656,11 +656,11 @@ msgstr "norveški"
 
 #: dialect/translators/__init__.py:98
 msgid "Odia (Oriya)"
-msgstr "odijski (orijski)"
+msgstr "orijski"
 
 #: dialect/translators/__init__.py:99
 msgid "Pashto"
-msgstr "paštu"
+msgstr "paštunski"
 
 #: dialect/translators/__init__.py:100
 msgid "Persian"
@@ -676,7 +676,7 @@ msgstr "portugalski"
 
 #: dialect/translators/__init__.py:103
 msgid "Punjabi"
-msgstr "punjabi"
+msgstr "pandžapski"
 
 #: dialect/translators/__init__.py:104
 msgid "Romanian"
@@ -692,7 +692,7 @@ msgstr "samoanski"
 
 #: dialect/translators/__init__.py:107
 msgid "Scots Gaelic"
-msgstr "škotski keltski"
+msgstr "škotski gaelski"
 
 #: dialect/translators/__init__.py:108
 msgid "Serbian"
@@ -704,15 +704,15 @@ msgstr "sesotski"
 
 #: dialect/translators/__init__.py:110
 msgid "Shona"
-msgstr "sahona"
+msgstr "shona"
 
 #: dialect/translators/__init__.py:111
 msgid "Sindhi"
-msgstr "sindi"
+msgstr "sindski"
 
 #: dialect/translators/__init__.py:112
 msgid "Sinhala"
-msgstr "singaleski"
+msgstr "sinhaleški"
 
 #: dialect/translators/__init__.py:113
 msgid "Slovak"
@@ -724,7 +724,7 @@ msgstr "slovenski"
 
 #: dialect/translators/__init__.py:115
 msgid "Somali"
-msgstr "somalijski"
+msgstr "somalski"
 
 #: dialect/translators/__init__.py:116
 msgid "Spanish"
@@ -744,7 +744,7 @@ msgstr "švedski"
 
 #: dialect/translators/__init__.py:120
 msgid "Tajik"
-msgstr "tadžik"
+msgstr "tadžički"
 
 #: dialect/translators/__init__.py:121
 msgid "Tamil"
@@ -756,7 +756,7 @@ msgstr "tatarski"
 
 #: dialect/translators/__init__.py:123
 msgid "Telugu"
-msgstr "telugu"
+msgstr "teluški"
 
 #: dialect/translators/__init__.py:124
 msgid "Thai"
@@ -776,7 +776,7 @@ msgstr "ukrajinski"
 
 #: dialect/translators/__init__.py:128
 msgid "Urdu"
-msgstr "urdu"
+msgstr "urdski"
 
 #: dialect/translators/__init__.py:129
 msgid "Uyghur"
@@ -784,7 +784,7 @@ msgstr "ujgurski"
 
 #: dialect/translators/__init__.py:130
 msgid "Uzbek"
-msgstr "uzbekistanski"
+msgstr "uzbečki"
 
 #: dialect/translators/__init__.py:131
 msgid "Vietnamese"
@@ -804,7 +804,7 @@ msgstr "jidiš"
 
 #: dialect/translators/__init__.py:135
 msgid "Yoruba"
-msgstr "joruba"
+msgstr "jorupski"
 
 #: dialect/translators/__init__.py:136
 msgid "Zulu"

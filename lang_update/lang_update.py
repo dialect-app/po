@@ -122,6 +122,7 @@ LANGUAGES = {
 }
 
 CLDR_NAMES = {
+    "kmr": "ku",  # They seem to be the same since Kurmanji (ku) is Northern Kurdish (kmr).
     "zh_CN": "zh-Hans",
     "zh_TW": "zh-Hant",
     "zh-CN": "zh-Hans",
@@ -133,15 +134,37 @@ DIALECT_NAMES = {
     "zh-Hant": "zh-TW",
 }
 
-
 # Add any language to this list to exclude it from the automated process.
-EXCLUDE_LIST = []
+EXCLUDE_LIST = [
+    # No decent source
+    "oc",  # Occitan
+    # Was manually updated by the translator
+    "eo",  # Esperanto
+    "fr",  # French
+    "fy",  # Frisian
+    "ja",  # Japanese
+    "lv",  # Latvian
+    "uk",  # Ukranian
+    "zh_CN",  # Chinese
+]
+# Even if a language is in this list, you can pass it as a parameter to the program.
 
+# If any language is on this list and it shouldn't be, please create an issue:
+# https://www.github.com/dialect-app/po
+# You can also open an issue if any language should be added.
+
+# All languages that need "capitalization"
+CAPS_LIST = [
+    "it",  # Italian
+]
 
 parser = argparse.ArgumentParser()
-parser.add_argument("language", nargs="?", help="the language code for language to update")
-parser.add_argument("-g", "--google", help="force use google for language names",
-                    action="store_true")
+parser.add_argument(
+    "language", nargs="?", help="the language code for language to update"
+)
+parser.add_argument(
+    "-g", "--google", help="force use google for language names", action="store_true"
+)
 args = parser.parse_args()
 
 if not os.path.isdir("cldr-json"):
@@ -149,9 +172,9 @@ if not os.path.isdir("cldr-json"):
     subprocess.call(["git", "clone", "https://github.com/unicode-org/cldr-json"])
 
 
-def process_language(lang):
+def process_language(lang, arged=False):
     lang = lang.strip()
-    if lang and lang not in EXCLUDE_LIST:
+    if lang and (arged is True or lang not in EXCLUDE_LIST):
         cldr_present = True  # Assume CLDR file is present.
         cldr_lang = CLDR_NAMES[lang] if lang in CLDR_NAMES else lang.replace("_", "-")
 
@@ -184,7 +207,7 @@ def process_language(lang):
                 print("Could not find possible substitutes.")
                 cldr_present = False  # Correct earlier assumption.
 
-        if cldr_present or args.google:
+        if cldr_present and not args.google:
             cldr_langs = cldr_json["main"][cldr_lang]["localeDisplayNames"]["languages"]
             for lang_code, lang_name in cldr_langs.items():
                 if lang_code in DIALECT_NAMES:
@@ -193,8 +216,11 @@ def process_language(lang):
                 if lang_code not in LANGUAGES:
                     continue
 
+                if cldr_lang in CAPS_LIST:
+                    lang_name = lang_name.capitalize()
+
                 lang_file_contents = re.sub(
-                    rf'msgid "{LANGUAGES[lang_code]}"\nmsgstr ".*"\n',
+                    rf'msgid "{re.escape(LANGUAGES[lang_code])}"\nmsgstr ".*"\n',
                     rf'msgid "{LANGUAGES[lang_code]}"\nmsgstr "{lang_name}"\n',
                     lang_file_contents,
                 )
@@ -212,7 +238,7 @@ def process_language(lang):
                     lang_name = div.find(attrs={"class": "Llmcnf"}).string
 
                     lang_file_contents = re.sub(
-                        rf'msgid "{LANGUAGES[lang_code]}"\nmsgstr ".*"\n',
+                        rf'msgid "{re.escape(LANGUAGES[lang_code])}"\nmsgstr ".*"\n',
                         rf'msgid "{LANGUAGES[lang_code]}"\nmsgstr "{lang_name}"\n',
                         lang_file_contents,
                     )
@@ -227,7 +253,7 @@ def process_language(lang):
 
 
 if args.language:
-    process_language(args.language)
+    process_language(args.language, True)
 else:
     linguas_file = open("../LINGUAS", "r")
     for lang in linguas_file:

@@ -420,11 +420,11 @@ msgstr "каталонська"
 
 #: dialect/translators/__init__.py:38
 msgid "Cebuano"
-msgstr "себуано"
+msgstr "себуанська"
 
 #: dialect/translators/__init__.py:39
 msgid "Chichewa"
-msgstr "чичева"
+msgstr "ньянджа"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
@@ -452,7 +452,7 @@ msgstr "чеська"
 
 #: dialect/translators/__init__.py:46
 msgid "Danish"
-msgstr "датська"
+msgstr "данська"
 
 #: dialect/translators/__init__.py:47
 msgid "Dutch"
@@ -472,7 +472,7 @@ msgstr "естонська"
 
 #: dialect/translators/__init__.py:51
 msgid "Filipino"
-msgstr "філіппінська"
+msgstr "тагальська"
 
 #: dialect/translators/__init__.py:52
 msgid "Finnish"
@@ -484,7 +484,7 @@ msgstr "французька"
 
 #: dialect/translators/__init__.py:54
 msgid "Frisian"
-msgstr "фризька"
+msgstr "західнофризька"
 
 #: dialect/translators/__init__.py:55
 msgid "Galician"
@@ -524,7 +524,7 @@ msgstr "іврит"
 
 #: dialect/translators/__init__.py:65
 msgid "Hindi"
-msgstr "хінді"
+msgstr "гінді"
 
 #: dialect/translators/__init__.py:66
 msgid "Hmong"
@@ -532,7 +532,7 @@ msgstr "хмонг"
 
 #: dialect/translators/__init__.py:67
 msgid "Hungarian"
-msgstr "венгерська"
+msgstr "угорська"
 
 #: dialect/translators/__init__.py:68
 msgid "Icelandic"
@@ -576,7 +576,7 @@ msgstr "кхмерська"
 
 #: dialect/translators/__init__.py:78
 msgid "Kinyarwanda"
-msgstr "кіньярванда"
+msgstr "кіньяруанда"
 
 #: dialect/translators/__init__.py:79
 msgid "Korean"
@@ -600,7 +600,7 @@ msgstr "латинська"
 
 #: dialect/translators/__init__.py:84
 msgid "Latvian"
-msgstr "латвійська"
+msgstr "латиська"
 
 #: dialect/translators/__init__.py:85
 msgid "Lithuanian"
@@ -700,7 +700,7 @@ msgstr "сербська"
 
 #: dialect/translators/__init__.py:109
 msgid "Sesotho"
-msgstr "сесото"
+msgstr "південна сото"
 
 #: dialect/translators/__init__.py:110
 msgid "Shona"
@@ -708,7 +708,7 @@ msgstr "шона"
 
 #: dialect/translators/__init__.py:111
 msgid "Sindhi"
-msgstr "сіндхі"
+msgstr "синдхі"
 
 #: dialect/translators/__init__.py:112
 msgid "Sinhala"
@@ -788,7 +788,7 @@ msgstr "узбецька"
 
 #: dialect/translators/__init__.py:131
 msgid "Vietnamese"
-msgstr "в'єтнамська"
+msgstr "вʼєтнамська"
 
 #: dialect/translators/__init__.py:132
 msgid "Welsh"
@@ -796,11 +796,11 @@ msgstr "валлійська"
 
 #: dialect/translators/__init__.py:133
 msgid "Xhosa"
-msgstr "хоса"
+msgstr "кхоса"
 
 #: dialect/translators/__init__.py:134
 msgid "Yiddish"
-msgstr "ідиш"
+msgstr "їдиш"
 
 #: dialect/translators/__init__.py:135
 msgid "Yoruba"

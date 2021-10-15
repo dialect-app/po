@@ -390,7 +390,7 @@ msgstr "armeni"
 
 #: dialect/translators/__init__.py:31
 msgid "Azerbaijani"
-msgstr "àzeri"
+msgstr "azerbaidjanès"
 
 #: dialect/translators/__init__.py:32
 msgid "Basque"
@@ -398,7 +398,7 @@ msgstr "basc"
 
 #: dialect/translators/__init__.py:33
 msgid "Belarusian"
-msgstr "bielorús"
+msgstr "belarús"
 
 #: dialect/translators/__init__.py:34
 msgid "Bengali"
@@ -422,19 +422,19 @@ msgstr "cebuà"
 
 #: dialect/translators/__init__.py:39
 msgid "Chichewa"
-msgstr "xixewa"
+msgstr "nyanja"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
-msgstr ""
+msgstr "xinès"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
-msgstr "Xinès"
+msgstr "xinès simplificat"
 
 #: dialect/translators/__init__.py:42
 msgid "Chinese (Traditional)"
-msgstr "xinès (tradicional)"
+msgstr "xinès tradicional"
 
 #: dialect/translators/__init__.py:43
 msgid "Corsican"
@@ -482,7 +482,7 @@ msgstr "francès"
 
 #: dialect/translators/__init__.py:54
 msgid "Frisian"
-msgstr "frisó"
+msgstr "frisó occidental"
 
 #: dialect/translators/__init__.py:55
 msgid "Galician"
@@ -506,7 +506,7 @@ msgstr "gujarati"
 
 #: dialect/translators/__init__.py:60
 msgid "Haitian Creole"
-msgstr "crioll d'Haití"
+msgstr "crioll d’Haití"
 
 #: dialect/translators/__init__.py:61
 msgid "Hausa"
@@ -570,11 +570,11 @@ msgstr "kazakh"
 
 #: dialect/translators/__init__.py:77
 msgid "Khmer"
-msgstr "cambodjà"
+msgstr "khmer"
 
 #: dialect/translators/__init__.py:78
 msgid "Kinyarwanda"
-msgstr "Ruandès"
+msgstr "ruandès"
 
 #: dialect/translators/__init__.py:79
 msgid "Korean"
@@ -586,7 +586,7 @@ msgstr "kurd"
 
 #: dialect/translators/__init__.py:81
 msgid "Kyrgyz"
-msgstr "quirguís"
+msgstr "kirguís"
 
 #: dialect/translators/__init__.py:82
 msgid "Lao"
@@ -610,7 +610,7 @@ msgstr "luxemburguès"
 
 #: dialect/translators/__init__.py:87
 msgid "Macedonian"
-msgstr "macedònic"
+msgstr "macedoni"
 
 #: dialect/translators/__init__.py:88
 msgid "Malagasy"
@@ -654,7 +654,7 @@ msgstr "noruec"
 
 #: dialect/translators/__init__.py:98
 msgid "Odia (Oriya)"
-msgstr "Oriya"
+msgstr "oriya"
 
 #: dialect/translators/__init__.py:99
 msgid "Pashto"
@@ -674,7 +674,7 @@ msgstr "portuguès"
 
 #: dialect/translators/__init__.py:103
 msgid "Punjabi"
-msgstr "punjabi"
+msgstr "panjabi"
 
 #: dialect/translators/__init__.py:104
 msgid "Romanian"
@@ -698,11 +698,11 @@ msgstr "serbi"
 
 #: dialect/translators/__init__.py:109
 msgid "Sesotho"
-msgstr "sessoto"
+msgstr "sotho meridional"
 
 #: dialect/translators/__init__.py:110
 msgid "Shona"
-msgstr "xona"
+msgstr "shona"
 
 #: dialect/translators/__init__.py:111
 msgid "Sindhi"
@@ -726,15 +726,15 @@ msgstr "somali"
 
 #: dialect/translators/__init__.py:116
 msgid "Spanish"
-msgstr "castellà"
+msgstr "espanyol"
 
 #: dialect/translators/__init__.py:117
 msgid "Sundanese"
-msgstr "sundanès"
+msgstr "sondanès"
 
 #: dialect/translators/__init__.py:118
 msgid "Swahili"
-msgstr "swahili"
+msgstr "suahili"
 
 #: dialect/translators/__init__.py:119
 msgid "Swedish"
@@ -750,7 +750,7 @@ msgstr "tàmil"
 
 #: dialect/translators/__init__.py:122
 msgid "Tatar"
-msgstr "Tàtar"
+msgstr "tàtar"
 
 #: dialect/translators/__init__.py:123
 msgid "Telugu"
@@ -766,7 +766,7 @@ msgstr "turc"
 
 #: dialect/translators/__init__.py:126
 msgid "Turkmen"
-msgstr "Turcman"
+msgstr "turcman"
 
 #: dialect/translators/__init__.py:127
 msgid "Ukrainian"
@@ -778,7 +778,7 @@ msgstr "urdú"
 
 #: dialect/translators/__init__.py:129
 msgid "Uyghur"
-msgstr "Uigur"
+msgstr "uigur"
 
 #: dialect/translators/__init__.py:130
 msgid "Uzbek"
@@ -794,19 +794,19 @@ msgstr "gal·lès"
 
 #: dialect/translators/__init__.py:133
 msgid "Xhosa"
-msgstr "xhosa"
+msgstr "xosa"
 
 #: dialect/translators/__init__.py:134
 msgid "Yiddish"
-msgstr "jiddisch"
+msgstr "ídix"
 
 #: dialect/translators/__init__.py:135
 msgid "Yoruba"
-msgstr "yoruba"
+msgstr "ioruba"
 
 #: dialect/translators/__init__.py:136
 msgid "Zulu"
-msgstr "zulú"
+msgstr "zulu"
 
 #~ msgid "Use Google for Text to Speech functionality."
 #~ msgstr "Utilitza Google per a la funcionalitat de conversió de text a veu."

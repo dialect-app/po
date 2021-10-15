@@ -380,7 +380,7 @@ msgstr "albanés"
 
 #: dialect/translators/__init__.py:28
 msgid "Amharic"
-msgstr "amhárico"
+msgstr "amárico"
 
 #: dialect/translators/__init__.py:29
 msgid "Arabic"
@@ -392,7 +392,7 @@ msgstr "armenio"
 
 #: dialect/translators/__init__.py:31
 msgid "Azerbaijani"
-msgstr "azerí"
+msgstr "azerbaiyano"
 
 #: dialect/translators/__init__.py:32
 msgid "Basque"
@@ -424,19 +424,19 @@ msgstr "cebuano"
 
 #: dialect/translators/__init__.py:39
 msgid "Chichewa"
-msgstr "chichewa"
+msgstr "nyanja"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
-msgstr "Chino"
+msgstr "chino"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
-msgstr "chino"
+msgstr "chino simplificado"
 
 #: dialect/translators/__init__.py:42
 msgid "Chinese (Traditional)"
-msgstr "chino (tradicional)"
+msgstr "chino tradicional"
 
 #: dialect/translators/__init__.py:43
 msgid "Corsican"
@@ -476,7 +476,7 @@ msgstr "tagalo"
 
 #: dialect/translators/__init__.py:52
 msgid "Finnish"
-msgstr "finlandés"
+msgstr "finés"
 
 #: dialect/translators/__init__.py:53
 msgid "French"
@@ -484,7 +484,7 @@ msgstr "francés"
 
 #: dialect/translators/__init__.py:54
 msgid "Frisian"
-msgstr "frisio"
+msgstr "frisón occidental"
 
 #: dialect/translators/__init__.py:55
 msgid "Galician"
@@ -504,7 +504,7 @@ msgstr "griego"
 
 #: dialect/translators/__init__.py:59
 msgid "Gujarati"
-msgstr "gujarati"
+msgstr "guyaratí"
 
 #: dialect/translators/__init__.py:60
 msgid "Haitian Creole"
@@ -572,7 +572,7 @@ msgstr "kazajo"
 
 #: dialect/translators/__init__.py:77
 msgid "Khmer"
-msgstr "camboyano"
+msgstr "jemer"
 
 #: dialect/translators/__init__.py:78
 msgid "Kinyarwanda"
@@ -676,7 +676,7 @@ msgstr "portugués"
 
 #: dialect/translators/__init__.py:103
 msgid "Punjabi"
-msgstr "panyabí"
+msgstr "punyabí"
 
 #: dialect/translators/__init__.py:104
 msgid "Romanian"
@@ -700,7 +700,7 @@ msgstr "serbio"
 
 #: dialect/translators/__init__.py:109
 msgid "Sesotho"
-msgstr "sesoto"
+msgstr "sotho meridional"
 
 #: dialect/translators/__init__.py:110
 msgid "Shona"
@@ -768,7 +768,7 @@ msgstr "turco"
 
 #: dialect/translators/__init__.py:126
 msgid "Turkmen"
-msgstr "turkmeno"
+msgstr "turcomano"
 
 #: dialect/translators/__init__.py:127
 msgid "Ukrainian"
@@ -784,7 +784,7 @@ msgstr "uigur"
 
 #: dialect/translators/__init__.py:130
 msgid "Uzbek"
-msgstr "uzbeco"
+msgstr "uzbeko"
 
 #: dialect/translators/__init__.py:131
 msgid "Vietnamese"

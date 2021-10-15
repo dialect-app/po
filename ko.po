@@ -415,19 +415,19 @@ msgstr "카탈로니아어"
 
 #: dialect/translators/__init__.py:38
 msgid "Cebuano"
-msgstr "세부아노"
+msgstr "세부아노어"
 
 #: dialect/translators/__init__.py:39
 msgid "Chichewa"
-msgstr "체와어"
+msgstr "냔자어"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
-msgstr ""
+msgstr "중국어"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
-msgstr "중국어"
+msgstr "중국어(간체)"
 
 #: dialect/translators/__init__.py:42
 msgid "Chinese (Traditional)"
@@ -479,7 +479,7 @@ msgstr "프랑스어"
 
 #: dialect/translators/__init__.py:54
 msgid "Frisian"
-msgstr "프리지아어"
+msgstr "서부 프리지아어"
 
 #: dialect/translators/__init__.py:55
 msgid "Galician"
@@ -503,7 +503,7 @@ msgstr "구자라트어"
 
 #: dialect/translators/__init__.py:60
 msgid "Haitian Creole"
-msgstr "아이티 크리올어"
+msgstr "아이티어"
 
 #: dialect/translators/__init__.py:61
 msgid "Hausa"
@@ -523,7 +523,7 @@ msgstr "힌디어"
 
 #: dialect/translators/__init__.py:66
 msgid "Hmong"
-msgstr "몽어"
+msgstr "히몸어"
 
 #: dialect/translators/__init__.py:67
 msgid "Hungarian"
@@ -571,7 +571,7 @@ msgstr "크메르어"
 
 #: dialect/translators/__init__.py:78
 msgid "Kinyarwanda"
-msgstr "키냐르완다어"
+msgstr "르완다어"
 
 #: dialect/translators/__init__.py:79
 msgid "Korean"
@@ -639,7 +639,7 @@ msgstr "몽골어"
 
 #: dialect/translators/__init__.py:95
 msgid "Myanmar (Burmese)"
-msgstr "미얀마어 (버마어)"
+msgstr "버마어"
 
 #: dialect/translators/__init__.py:96
 msgid "Nepali"
@@ -671,7 +671,7 @@ msgstr "포르투갈어"
 
 #: dialect/translators/__init__.py:103
 msgid "Punjabi"
-msgstr "펀자브어"
+msgstr "펀잡어"
 
 #: dialect/translators/__init__.py:104
 msgid "Romanian"
@@ -695,7 +695,7 @@ msgstr "세르비아어"
 
 #: dialect/translators/__init__.py:109
 msgid "Sesotho"
-msgstr "세소토어"
+msgstr "남부 소토어"
 
 #: dialect/translators/__init__.py:110
 msgid "Shona"
@@ -707,7 +707,7 @@ msgstr "신디어"
 
 #: dialect/translators/__init__.py:112
 msgid "Sinhala"
-msgstr "신할라어"
+msgstr "싱할라어"
 
 #: dialect/translators/__init__.py:113
 msgid "Slovak"
@@ -787,7 +787,7 @@ msgstr "베트남어"
 
 #: dialect/translators/__init__.py:132
 msgid "Welsh"
-msgstr "웨일즈어"
+msgstr "웨일스어"
 
 #: dialect/translators/__init__.py:133
 msgid "Xhosa"

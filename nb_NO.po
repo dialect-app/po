@@ -432,23 +432,23 @@ msgstr "katalansk"
 
 #: dialect/translators/__init__.py:38
 msgid "Cebuano"
-msgstr "cebuano"
+msgstr "cebuansk"
 
 #: dialect/translators/__init__.py:39
 msgid "Chichewa"
-msgstr "chichewa"
+msgstr "nyanja"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
-msgstr ""
+msgstr "kinesisk"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
-msgstr "kinesisk"
+msgstr "forenklet kinesisk"
 
 #: dialect/translators/__init__.py:42
 msgid "Chinese (Traditional)"
-msgstr "kinesisk (tradisjonell)"
+msgstr "tradisjonell kinesisk"
 
 #: dialect/translators/__init__.py:43
 msgid "Corsican"
@@ -496,7 +496,7 @@ msgstr "fransk"
 
 #: dialect/translators/__init__.py:54
 msgid "Frisian"
-msgstr "frisisk"
+msgstr "vestfrisisk"
 
 #: dialect/translators/__init__.py:55
 msgid "Galician"
@@ -520,7 +520,7 @@ msgstr "gujarati"
 
 #: dialect/translators/__init__.py:60
 msgid "Haitian Creole"
-msgstr "kreol (Haiti)"
+msgstr "haitisk"
 
 #: dialect/translators/__init__.py:61
 msgid "Hausa"
@@ -552,7 +552,7 @@ msgstr "islandsk"
 
 #: dialect/translators/__init__.py:69
 msgid "Igbo"
-msgstr "igbo"
+msgstr "ibo"
 
 #: dialect/translators/__init__.py:70
 msgid "Indonesian"
@@ -596,7 +596,7 @@ msgstr "koreansk"
 
 #: dialect/translators/__init__.py:80
 msgid "Kurdish (Kurmanji)"
-msgstr "kurdisk (kurmanji)"
+msgstr "kurdisk"
 
 #: dialect/translators/__init__.py:81
 msgid "Kyrgyz"
@@ -620,7 +620,7 @@ msgstr "litauisk"
 
 #: dialect/translators/__init__.py:86
 msgid "Luxembourgish"
-msgstr "luxembourgsk"
+msgstr "luxemburgsk"
 
 #: dialect/translators/__init__.py:87
 msgid "Macedonian"
@@ -628,7 +628,7 @@ msgstr "makedonsk"
 
 #: dialect/translators/__init__.py:88
 msgid "Malagasy"
-msgstr "madagassisk"
+msgstr "gassisk"
 
 #: dialect/translators/__init__.py:89
 msgid "Malay"
@@ -660,7 +660,7 @@ msgstr "burmesisk"
 
 #: dialect/translators/__init__.py:96
 msgid "Nepali"
-msgstr "nepalsk"
+msgstr "nepali"
 
 #: dialect/translators/__init__.py:97
 msgid "Norwegian"
@@ -668,7 +668,7 @@ msgstr "norsk"
 
 #: dialect/translators/__init__.py:98
 msgid "Odia (Oriya)"
-msgstr "Oriya"
+msgstr "odia"
 
 #: dialect/translators/__init__.py:99
 msgid "Pashto"
@@ -676,7 +676,7 @@ msgstr "pashto"
 
 #: dialect/translators/__init__.py:100
 msgid "Persian"
-msgstr "farsi"
+msgstr "persisk"
 
 #: dialect/translators/__init__.py:101
 msgid "Polish"
@@ -688,7 +688,7 @@ msgstr "portugisisk"
 
 #: dialect/translators/__init__.py:103
 msgid "Punjabi"
-msgstr "punjabi"
+msgstr "panjabi"
 
 #: dialect/translators/__init__.py:104
 msgid "Romanian"
@@ -704,7 +704,7 @@ msgstr "samoansk"
 
 #: dialect/translators/__init__.py:107
 msgid "Scots Gaelic"
-msgstr "skotsk gælisk"
+msgstr "skotsk-gælisk"
 
 #: dialect/translators/__init__.py:108
 msgid "Serbian"
@@ -712,7 +712,7 @@ msgstr "serbisk"
 
 #: dialect/translators/__init__.py:109
 msgid "Sesotho"
-msgstr "sotho"
+msgstr "sør-sotho"
 
 #: dialect/translators/__init__.py:110
 msgid "Shona"

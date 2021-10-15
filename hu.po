@@ -392,7 +392,7 @@ msgstr "örmény"
 
 #: dialect/translators/__init__.py:31
 msgid "Azerbaijani"
-msgstr "azeri"
+msgstr "azerbajdzsáni"
 
 #: dialect/translators/__init__.py:32
 msgid "Basque"
@@ -400,11 +400,11 @@ msgstr "baszk"
 
 #: dialect/translators/__init__.py:33
 msgid "Belarusian"
-msgstr "belorusz"
+msgstr "belarusz"
 
 #: dialect/translators/__init__.py:34
 msgid "Bengali"
-msgstr "bengáli"
+msgstr "bangla"
 
 #: dialect/translators/__init__.py:35
 msgid "Bosnian"
@@ -420,11 +420,11 @@ msgstr "katalán"
 
 #: dialect/translators/__init__.py:38
 msgid "Cebuano"
-msgstr "cebuano"
+msgstr "szebuano"
 
 #: dialect/translators/__init__.py:39
 msgid "Chichewa"
-msgstr "chichewa"
+msgstr "nyandzsa"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
@@ -432,11 +432,11 @@ msgstr "kínai"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
-msgstr "kínai (egyszerűsített)"
+msgstr "egyszerűsített kínai"
 
 #: dialect/translators/__init__.py:42
 msgid "Chinese (Traditional)"
-msgstr "kínai (hagyományos)"
+msgstr "hagyományos kínai"
 
 #: dialect/translators/__init__.py:43
 msgid "Corsican"
@@ -472,7 +472,7 @@ msgstr "észt"
 
 #: dialect/translators/__init__.py:51
 msgid "Filipino"
-msgstr "filippínó"
+msgstr "tagalog"
 
 #: dialect/translators/__init__.py:52
 msgid "Finnish"
@@ -484,11 +484,11 @@ msgstr "francia"
 
 #: dialect/translators/__init__.py:54
 msgid "Frisian"
-msgstr "fríz"
+msgstr "nyugati fríz"
 
 #: dialect/translators/__init__.py:55
 msgid "Galician"
-msgstr "galíciai"
+msgstr "gallego"
 
 #: dialect/translators/__init__.py:56
 msgid "Georgian"
@@ -540,7 +540,7 @@ msgstr "izlandi"
 
 #: dialect/translators/__init__.py:69
 msgid "Igbo"
-msgstr "igbo"
+msgstr "igbó"
 
 #: dialect/translators/__init__.py:70
 msgid "Indonesian"
@@ -576,7 +576,7 @@ msgstr "khmer"
 
 #: dialect/translators/__init__.py:78
 msgid "Kinyarwanda"
-msgstr "kinyarwanda"
+msgstr "kinyarvanda"
 
 #: dialect/translators/__init__.py:79
 msgid "Korean"
@@ -616,7 +616,7 @@ msgstr "macedón"
 
 #: dialect/translators/__init__.py:88
 msgid "Malagasy"
-msgstr "malagaszi"
+msgstr "malgas"
 
 #: dialect/translators/__init__.py:89
 msgid "Malay"
@@ -656,7 +656,7 @@ msgstr "norvég"
 
 #: dialect/translators/__init__.py:98
 msgid "Odia (Oriya)"
-msgstr "odia (orija)"
+msgstr "odia"
 
 #: dialect/translators/__init__.py:99
 msgid "Pashto"
@@ -692,7 +692,7 @@ msgstr "szamoai"
 
 #: dialect/translators/__init__.py:107
 msgid "Scots Gaelic"
-msgstr "skót-gael"
+msgstr "skóciai kelta"
 
 #: dialect/translators/__init__.py:108
 msgid "Serbian"
@@ -700,11 +700,11 @@ msgstr "szerb"
 
 #: dialect/translators/__init__.py:109
 msgid "Sesotho"
-msgstr "szoto"
+msgstr "déli szeszotó"
 
 #: dialect/translators/__init__.py:110
 msgid "Shona"
-msgstr "shona"
+msgstr "sona"
 
 #: dialect/translators/__init__.py:111
 msgid "Sindhi"
@@ -712,7 +712,7 @@ msgstr "szindhi"
 
 #: dialect/translators/__init__.py:112
 msgid "Sinhala"
-msgstr "szinhala"
+msgstr "szingaléz"
 
 #: dialect/translators/__init__.py:113
 msgid "Slovak"
@@ -788,7 +788,7 @@ msgstr "üzbég"
 
 #: dialect/translators/__init__.py:131
 msgid "Vietnamese"
-msgstr "vietnami"
+msgstr "vietnámi"
 
 #: dialect/translators/__init__.py:132
 msgid "Welsh"
@@ -796,7 +796,7 @@ msgstr "walesi"
 
 #: dialect/translators/__init__.py:133
 msgid "Xhosa"
-msgstr "xhosa"
+msgstr "xhosza"
 
 #: dialect/translators/__init__.py:134
 msgid "Yiddish"

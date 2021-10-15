@@ -422,15 +422,15 @@ msgstr "cebuánština"
 
 #: dialect/translators/__init__.py:39
 msgid "Chichewa"
-msgstr "čičevština"
+msgstr "ňandžština"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
-msgstr "Čínština"
+msgstr "čínština"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
-msgstr "čínština"
+msgstr "čínština (zjednodušená)"
 
 #: dialect/translators/__init__.py:42
 msgid "Chinese (Traditional)"
@@ -454,7 +454,7 @@ msgstr "dánština"
 
 #: dialect/translators/__init__.py:47
 msgid "Dutch"
-msgstr "holandština"
+msgstr "nizozemština"
 
 #: dialect/translators/__init__.py:48
 msgid "English"
@@ -470,7 +470,7 @@ msgstr "estonština"
 
 #: dialect/translators/__init__.py:51
 msgid "Filipino"
-msgstr "filipínština"
+msgstr "tagalog"
 
 #: dialect/translators/__init__.py:52
 msgid "Finnish"
@@ -482,7 +482,7 @@ msgstr "francouzština"
 
 #: dialect/translators/__init__.py:54
 msgid "Frisian"
-msgstr "fríština"
+msgstr "fríština (západní)"
 
 #: dialect/translators/__init__.py:55
 msgid "Galician"
@@ -506,7 +506,7 @@ msgstr "gudžarátština"
 
 #: dialect/translators/__init__.py:60
 msgid "Haitian Creole"
-msgstr "haitská kreolština"
+msgstr "haitština"
 
 #: dialect/translators/__init__.py:61
 msgid "Hausa"
@@ -570,11 +570,11 @@ msgstr "kazaština"
 
 #: dialect/translators/__init__.py:77
 msgid "Khmer"
-msgstr "khmerština"
+msgstr "khmérština"
 
 #: dialect/translators/__init__.py:78
 msgid "Kinyarwanda"
-msgstr "rwandština"
+msgstr "kiňarwandština"
 
 #: dialect/translators/__init__.py:79
 msgid "Korean"
@@ -634,7 +634,7 @@ msgstr "maorština"
 
 #: dialect/translators/__init__.py:93
 msgid "Marathi"
-msgstr "marátština"
+msgstr "maráthština"
 
 #: dialect/translators/__init__.py:94
 msgid "Mongolian"
@@ -674,7 +674,7 @@ msgstr "portugalština"
 
 #: dialect/translators/__init__.py:103
 msgid "Punjabi"
-msgstr "pandžábština"
+msgstr "paňdžábština"
 
 #: dialect/translators/__init__.py:104
 msgid "Romanian"
@@ -686,7 +686,7 @@ msgstr "ruština"
 
 #: dialect/translators/__init__.py:106
 msgid "Samoan"
-msgstr "samojská polynéština"
+msgstr "samojština"
 
 #: dialect/translators/__init__.py:107
 msgid "Scots Gaelic"
@@ -698,7 +698,7 @@ msgstr "srbština"
 
 #: dialect/translators/__init__.py:109
 msgid "Sesotho"
-msgstr "sesothština"
+msgstr "sotština (jižní)"
 
 #: dialect/translators/__init__.py:110
 msgid "Shona"
@@ -706,7 +706,7 @@ msgstr "šonština"
 
 #: dialect/translators/__init__.py:111
 msgid "Sindhi"
-msgstr "sindhijština"
+msgstr "sindhština"
 
 #: dialect/translators/__init__.py:112
 msgid "Sinhala"
@@ -730,7 +730,7 @@ msgstr "španělština"
 
 #: dialect/translators/__init__.py:117
 msgid "Sundanese"
-msgstr "sundánština"
+msgstr "sundština"
 
 #: dialect/translators/__init__.py:118
 msgid "Swahili"
@@ -754,7 +754,7 @@ msgstr "tatarština"
 
 #: dialect/translators/__init__.py:123
 msgid "Telugu"
-msgstr "telužština"
+msgstr "telugština"
 
 #: dialect/translators/__init__.py:124
 msgid "Thai"
@@ -806,7 +806,7 @@ msgstr "jorubština"
 
 #: dialect/translators/__init__.py:136
 msgid "Zulu"
-msgstr "zulu"
+msgstr "zuluština"
 
 #~ msgid "Use Google for Text to Speech functionality."
 #~ msgstr "Použít Google pro funkci převodu textu na řeč."

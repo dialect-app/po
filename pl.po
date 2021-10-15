@@ -392,7 +392,7 @@ msgstr "ormiański"
 
 #: dialect/translators/__init__.py:31
 msgid "Azerbaijani"
-msgstr "azerski"
+msgstr "azerbejdżański"
 
 #: dialect/translators/__init__.py:32
 msgid "Basque"
@@ -424,19 +424,19 @@ msgstr "cebuański"
 
 #: dialect/translators/__init__.py:39
 msgid "Chichewa"
-msgstr "cziczewa"
+msgstr "njandża"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
-msgstr "Chiński"
+msgstr "chiński"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
-msgstr "chiński"
+msgstr "chiński uproszczony"
 
 #: dialect/translators/__init__.py:42
 msgid "Chinese (Traditional)"
-msgstr "chiński (tradycyjny)"
+msgstr "chiński tradycyjny"
 
 #: dialect/translators/__init__.py:43
 msgid "Corsican"
@@ -472,7 +472,7 @@ msgstr "estoński"
 
 #: dialect/translators/__init__.py:51
 msgid "Filipino"
-msgstr "filipiński"
+msgstr "tagalski"
 
 #: dialect/translators/__init__.py:52
 msgid "Finnish"
@@ -484,7 +484,7 @@ msgstr "francuski"
 
 #: dialect/translators/__init__.py:54
 msgid "Frisian"
-msgstr "fryzyjski"
+msgstr "zachodniofryzyjski"
 
 #: dialect/translators/__init__.py:55
 msgid "Galician"
@@ -508,7 +508,7 @@ msgstr "gudżarati"
 
 #: dialect/translators/__init__.py:60
 msgid "Haitian Creole"
-msgstr "kreolski (Haiti)"
+msgstr "kreolski haitański"
 
 #: dialect/translators/__init__.py:61
 msgid "Hausa"
@@ -576,7 +576,7 @@ msgstr "khmerski"
 
 #: dialect/translators/__init__.py:78
 msgid "Kinyarwanda"
-msgstr "ruanda-rundi"
+msgstr "kinya-ruanda"
 
 #: dialect/translators/__init__.py:79
 msgid "Korean"
@@ -632,7 +632,7 @@ msgstr "maltański"
 
 #: dialect/translators/__init__.py:92
 msgid "Maori"
-msgstr "maori"
+msgstr "maoryjski"
 
 #: dialect/translators/__init__.py:93
 msgid "Marathi"
@@ -700,7 +700,7 @@ msgstr "serbski"
 
 #: dialect/translators/__init__.py:109
 msgid "Sesotho"
-msgstr "sotho"
+msgstr "sotho południowy"
 
 #: dialect/translators/__init__.py:110
 msgid "Shona"
@@ -796,7 +796,7 @@ msgstr "walijski"
 
 #: dialect/translators/__init__.py:133
 msgid "Xhosa"
-msgstr "xhosa"
+msgstr "khosa"
 
 #: dialect/translators/__init__.py:134
 msgid "Yiddish"

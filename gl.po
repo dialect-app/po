@@ -369,7 +369,7 @@ msgstr "Quizáis quixo dicir: "
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
-msgstr "africáner"
+msgstr "afrikaans"
 
 #: dialect/translators/__init__.py:27
 msgid "Albanian"
@@ -377,7 +377,7 @@ msgstr "albanés"
 
 #: dialect/translators/__init__.py:28
 msgid "Amharic"
-msgstr "amárico"
+msgstr "amhárico"
 
 #: dialect/translators/__init__.py:29
 msgid "Arabic"
@@ -397,7 +397,7 @@ msgstr "éuscaro"
 
 #: dialect/translators/__init__.py:33
 msgid "Belarusian"
-msgstr "bielorruso"
+msgstr "belaruso"
 
 #: dialect/translators/__init__.py:34
 msgid "Bengali"
@@ -405,7 +405,7 @@ msgstr "bengalí"
 
 #: dialect/translators/__init__.py:35
 msgid "Bosnian"
-msgstr "bosnio"
+msgstr "bosníaco"
 
 #: dialect/translators/__init__.py:36
 msgid "Bulgarian"
@@ -421,19 +421,19 @@ msgstr "cebuano"
 
 #: dialect/translators/__init__.py:39
 msgid "Chichewa"
-msgstr "chichewa"
+msgstr "chewa"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
-msgstr ""
+msgstr "chinés"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
-msgstr "chinés"
+msgstr "chinés simplificado"
 
 #: dialect/translators/__init__.py:42
 msgid "Chinese (Traditional)"
-msgstr "chinés (tradicional)"
+msgstr "chinés tradicional"
 
 #: dialect/translators/__init__.py:43
 msgid "Corsican"
@@ -469,7 +469,7 @@ msgstr "estoniano"
 
 #: dialect/translators/__init__.py:51
 msgid "Filipino"
-msgstr "filipino"
+msgstr "tagalo"
 
 #: dialect/translators/__init__.py:52
 msgid "Finnish"
@@ -481,7 +481,7 @@ msgstr "francés"
 
 #: dialect/translators/__init__.py:54
 msgid "Frisian"
-msgstr "frisón"
+msgstr "frisón occidental"
 
 #: dialect/translators/__init__.py:55
 msgid "Galician"
@@ -501,7 +501,7 @@ msgstr "grego"
 
 #: dialect/translators/__init__.py:59
 msgid "Gujarati"
-msgstr "guxaratí"
+msgstr "guxarati"
 
 #: dialect/translators/__init__.py:60
 msgid "Haitian Creole"
@@ -561,19 +561,19 @@ msgstr "xavanés"
 
 #: dialect/translators/__init__.py:75
 msgid "Kannada"
-msgstr "canarés"
+msgstr "kannará"
 
 #: dialect/translators/__init__.py:76
 msgid "Kazakh"
-msgstr "casaco"
+msgstr "kazako"
 
 #: dialect/translators/__init__.py:77
 msgid "Khmer"
-msgstr "camboxano"
+msgstr "khmer"
 
 #: dialect/translators/__init__.py:78
 msgid "Kinyarwanda"
-msgstr "Kiñaruanda"
+msgstr "kiñaruanda"
 
 #: dialect/translators/__init__.py:79
 msgid "Korean"
@@ -581,11 +581,11 @@ msgstr "coreano"
 
 #: dialect/translators/__init__.py:80
 msgid "Kurdish (Kurmanji)"
-msgstr "curdo"
+msgstr "kurdo"
 
 #: dialect/translators/__init__.py:81
 msgid "Kyrgyz"
-msgstr "quirguiz"
+msgstr "kirguiz"
 
 #: dialect/translators/__init__.py:82
 msgid "Lao"
@@ -653,11 +653,11 @@ msgstr "noruegués"
 
 #: dialect/translators/__init__.py:98
 msgid "Odia (Oriya)"
-msgstr "Odiá (odiá)"
+msgstr "odiá"
 
 #: dialect/translators/__init__.py:99
 msgid "Pashto"
-msgstr "paxtún"
+msgstr "paxto"
 
 #: dialect/translators/__init__.py:100
 msgid "Persian"
@@ -745,15 +745,15 @@ msgstr "taxico"
 
 #: dialect/translators/__init__.py:121
 msgid "Tamil"
-msgstr "tamil"
+msgstr "támil"
 
 #: dialect/translators/__init__.py:122
 msgid "Tatar"
-msgstr "Tártaro"
+msgstr "tártaro"
 
 #: dialect/translators/__init__.py:123
 msgid "Telugu"
-msgstr "telugú"
+msgstr "telugu"
 
 #: dialect/translators/__init__.py:124
 msgid "Thai"
@@ -765,7 +765,7 @@ msgstr "turco"
 
 #: dialect/translators/__init__.py:126
 msgid "Turkmen"
-msgstr "Turkmeno"
+msgstr "turkmeno"
 
 #: dialect/translators/__init__.py:127
 msgid "Ukrainian"
@@ -777,7 +777,7 @@ msgstr "urdú"
 
 #: dialect/translators/__init__.py:129
 msgid "Uyghur"
-msgstr "Uigur"
+msgstr "uigur"
 
 #: dialect/translators/__init__.py:130
 msgid "Uzbek"

@@ -394,7 +394,7 @@ msgstr "אזרית"
 
 #: dialect/translators/__init__.py:32
 msgid "Basque"
-msgstr "באסקית"
+msgstr "בסקית"
 
 #: dialect/translators/__init__.py:33
 msgid "Belarusian"
@@ -422,7 +422,7 @@ msgstr "סבואנו"
 
 #: dialect/translators/__init__.py:39
 msgid "Chichewa"
-msgstr "צ׳יצ׳ווה"
+msgstr "ניאנג׳ה"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
@@ -430,15 +430,15 @@ msgstr "סינית"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
-msgstr "סינית"
+msgstr "סינית פשוטה"
 
 #: dialect/translators/__init__.py:42
 msgid "Chinese (Traditional)"
-msgstr "סינית (מסורתית)"
+msgstr "סינית מסורתית"
 
 #: dialect/translators/__init__.py:43
 msgid "Corsican"
-msgstr "קורסיקאית"
+msgstr "קורסיקנית"
 
 #: dialect/translators/__init__.py:44
 msgid "Croatian"
@@ -470,7 +470,7 @@ msgstr "אסטונית"
 
 #: dialect/translators/__init__.py:51
 msgid "Filipino"
-msgstr "פיליפינית"
+msgstr "טאגאלוג"
 
 #: dialect/translators/__init__.py:52
 msgid "Finnish"
@@ -482,7 +482,7 @@ msgstr "צרפתית"
 
 #: dialect/translators/__init__.py:54
 msgid "Frisian"
-msgstr "פריזית"
+msgstr "פריזית מערבית"
 
 #: dialect/translators/__init__.py:55
 msgid "Galician"
@@ -502,11 +502,11 @@ msgstr "יוונית"
 
 #: dialect/translators/__init__.py:59
 msgid "Gujarati"
-msgstr "גוג'ראטית"
+msgstr "גוג׳ארטי"
 
 #: dialect/translators/__init__.py:60
 msgid "Haitian Creole"
-msgstr "קריאולית האיטית"
+msgstr "קריאולית (האיטי)"
 
 #: dialect/translators/__init__.py:61
 msgid "Hausa"
@@ -538,7 +538,7 @@ msgstr "איסלנדית"
 
 #: dialect/translators/__init__.py:69
 msgid "Igbo"
-msgstr "איגדו"
+msgstr "איגבו"
 
 #: dialect/translators/__init__.py:70
 msgid "Indonesian"
@@ -562,19 +562,19 @@ msgstr "ג'אווה"
 
 #: dialect/translators/__init__.py:75
 msgid "Kannada"
-msgstr "קאנאדה"
+msgstr "קנאדה"
 
 #: dialect/translators/__init__.py:76
 msgid "Kazakh"
-msgstr "קזאחית"
+msgstr "קזחית"
 
 #: dialect/translators/__init__.py:77
 msgid "Khmer"
-msgstr "חמר"
+msgstr "חמרית"
 
 #: dialect/translators/__init__.py:78
 msgid "Kinyarwanda"
-msgstr "קינירואנדה"
+msgstr "קנירואנדית"
 
 #: dialect/translators/__init__.py:79
 msgid "Korean"
@@ -598,7 +598,7 @@ msgstr "לטינית"
 
 #: dialect/translators/__init__.py:84
 msgid "Latvian"
-msgstr "לטווית"
+msgstr "לטבית"
 
 #: dialect/translators/__init__.py:85
 msgid "Lithuanian"
@@ -622,7 +622,7 @@ msgstr "מלאית"
 
 #: dialect/translators/__init__.py:90
 msgid "Malayalam"
-msgstr "מלאיאלאם"
+msgstr "מליאלאם"
 
 #: dialect/translators/__init__.py:91
 msgid "Maltese"
@@ -634,7 +634,7 @@ msgstr "מאורית"
 
 #: dialect/translators/__init__.py:93
 msgid "Marathi"
-msgstr "מראטהית"
+msgstr "מראטהי"
 
 #: dialect/translators/__init__.py:94
 msgid "Mongolian"
@@ -654,11 +654,11 @@ msgstr "נורווגית"
 
 #: dialect/translators/__init__.py:98
 msgid "Odia (Oriya)"
-msgstr "אודיה (אוריה)"
+msgstr "אורייה"
 
 #: dialect/translators/__init__.py:99
 msgid "Pashto"
-msgstr "פשטו"
+msgstr "פאשטו"
 
 #: dialect/translators/__init__.py:100
 msgid "Persian"
@@ -674,7 +674,7 @@ msgstr "פורטוגזית"
 
 #: dialect/translators/__init__.py:103
 msgid "Punjabi"
-msgstr "פונג'אבית"
+msgstr "פנג׳אבי"
 
 #: dialect/translators/__init__.py:104
 msgid "Romanian"
@@ -690,7 +690,7 @@ msgstr "סמואית"
 
 #: dialect/translators/__init__.py:107
 msgid "Scots Gaelic"
-msgstr "סקוטית גאלית"
+msgstr "גאלית סקוטית"
 
 #: dialect/translators/__init__.py:108
 msgid "Serbian"
@@ -698,7 +698,7 @@ msgstr "סרבית"
 
 #: dialect/translators/__init__.py:109
 msgid "Sesotho"
-msgstr "ססוטו"
+msgstr "סותו דרומית"
 
 #: dialect/translators/__init__.py:110
 msgid "Shona"
@@ -706,11 +706,11 @@ msgstr "שונה"
 
 #: dialect/translators/__init__.py:111
 msgid "Sindhi"
-msgstr "סינדהי"
+msgstr "סינדהית"
 
 #: dialect/translators/__init__.py:112
 msgid "Sinhala"
-msgstr "סינהלית"
+msgstr "סינהלה"
 
 #: dialect/translators/__init__.py:113
 msgid "Slovak"
@@ -730,11 +730,11 @@ msgstr "ספרדית"
 
 #: dialect/translators/__init__.py:117
 msgid "Sundanese"
-msgstr "סונדית"
+msgstr "סונדנזית"
 
 #: dialect/translators/__init__.py:118
 msgid "Swahili"
-msgstr "סוואהילית"
+msgstr "סווהילי"
 
 #: dialect/translators/__init__.py:119
 msgid "Swedish"
@@ -742,7 +742,7 @@ msgstr "שוודית"
 
 #: dialect/translators/__init__.py:120
 msgid "Tajik"
-msgstr "טג'יקית"
+msgstr "טג׳יקית"
 
 #: dialect/translators/__init__.py:121
 msgid "Tamil"
@@ -750,7 +750,7 @@ msgstr "טמילית"
 
 #: dialect/translators/__init__.py:122
 msgid "Tatar"
-msgstr "טטארית"
+msgstr "טטרית"
 
 #: dialect/translators/__init__.py:123
 msgid "Telugu"

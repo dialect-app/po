@@ -419,23 +419,23 @@ msgstr "каталанский"
 
 #: dialect/translators/__init__.py:38
 msgid "Cebuano"
-msgstr "себуанский"
+msgstr "себуано"
 
 #: dialect/translators/__init__.py:39
 msgid "Chichewa"
-msgstr "чева"
+msgstr "ньянджа"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
-msgstr "Китайский"
+msgstr "китайский"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
-msgstr "китайский"
+msgstr "китайский, упрощенное письмо"
 
 #: dialect/translators/__init__.py:42
 msgid "Chinese (Traditional)"
-msgstr "китайский (традиционный)"
+msgstr "китайский, традиционное письмо"
 
 #: dialect/translators/__init__.py:43
 msgid "Corsican"
@@ -471,7 +471,7 @@ msgstr "эстонский"
 
 #: dialect/translators/__init__.py:51
 msgid "Filipino"
-msgstr "филиппинский"
+msgstr "тагалог"
 
 #: dialect/translators/__init__.py:52
 msgid "Finnish"
@@ -483,7 +483,7 @@ msgstr "французский"
 
 #: dialect/translators/__init__.py:54
 msgid "Frisian"
-msgstr "фризский"
+msgstr "западнофризский"
 
 #: dialect/translators/__init__.py:55
 msgid "Galician"
@@ -507,7 +507,7 @@ msgstr "гуджарати"
 
 #: dialect/translators/__init__.py:60
 msgid "Haitian Creole"
-msgstr "креольский (Гаити)"
+msgstr "гаитянский"
 
 #: dialect/translators/__init__.py:61
 msgid "Hausa"
@@ -575,7 +575,7 @@ msgstr "кхмерский"
 
 #: dialect/translators/__init__.py:78
 msgid "Kinyarwanda"
-msgstr "руанда"
+msgstr "киньяруанда"
 
 #: dialect/translators/__init__.py:79
 msgid "Korean"
@@ -583,7 +583,7 @@ msgstr "корейский"
 
 #: dialect/translators/__init__.py:80
 msgid "Kurdish (Kurmanji)"
-msgstr "курманджи"
+msgstr "курдский"
 
 #: dialect/translators/__init__.py:81
 msgid "Kyrgyz"
@@ -691,7 +691,7 @@ msgstr "самоанский"
 
 #: dialect/translators/__init__.py:107
 msgid "Scots Gaelic"
-msgstr "шотландский (гэльский)"
+msgstr "гэльский"
 
 #: dialect/translators/__init__.py:108
 msgid "Serbian"
@@ -699,7 +699,7 @@ msgstr "сербский"
 
 #: dialect/translators/__init__.py:109
 msgid "Sesotho"
-msgstr "сесото"
+msgstr "южный сото"
 
 #: dialect/translators/__init__.py:110
 msgid "Shona"
@@ -723,7 +723,7 @@ msgstr "словенский"
 
 #: dialect/translators/__init__.py:115
 msgid "Somali"
-msgstr "сомалийский"
+msgstr "сомали"
 
 #: dialect/translators/__init__.py:116
 msgid "Spanish"
@@ -731,7 +731,7 @@ msgstr "испанский"
 
 #: dialect/translators/__init__.py:117
 msgid "Sundanese"
-msgstr "суданский"
+msgstr "сунданский"
 
 #: dialect/translators/__init__.py:118
 msgid "Swahili"
@@ -795,7 +795,7 @@ msgstr "валлийский"
 
 #: dialect/translators/__init__.py:133
 msgid "Xhosa"
-msgstr "кхоса"
+msgstr "коса"
 
 #: dialect/translators/__init__.py:134
 msgid "Yiddish"

@@ -373,7 +373,7 @@ msgstr "Zera esan nahi duzu: "
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
-msgstr "afrikaansa"
+msgstr "afrikaans"
 
 #: dialect/translators/__init__.py:27
 msgid "Albanian"
@@ -417,11 +417,11 @@ msgstr "bulgariera"
 
 #: dialect/translators/__init__.py:37
 msgid "Catalan"
-msgstr "katalana"
+msgstr "katalan"
 
 #: dialect/translators/__init__.py:38
 msgid "Cebuano"
-msgstr "cebuanoera"
+msgstr "cebuera"
 
 #: dialect/translators/__init__.py:39
 msgid "Chichewa"
@@ -429,15 +429,15 @@ msgstr "chewera"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
-msgstr "Txinera"
+msgstr "txinera"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
-msgstr "txinera"
+msgstr "txinera sinplifikatu"
 
 #: dialect/translators/__init__.py:42
 msgid "Chinese (Traditional)"
-msgstr "txinera (tradizionala)"
+msgstr "txinera tradizionala"
 
 #: dialect/translators/__init__.py:43
 msgid "Corsican"
@@ -461,11 +461,11 @@ msgstr "nederlandera"
 
 #: dialect/translators/__init__.py:48
 msgid "English"
-msgstr "ingelesa"
+msgstr "ingeles"
 
 #: dialect/translators/__init__.py:49
 msgid "Esperanto"
-msgstr "esperantoa"
+msgstr "esperanto"
 
 #: dialect/translators/__init__.py:50
 msgid "Estonian"
@@ -473,23 +473,23 @@ msgstr "estoniera"
 
 #: dialect/translators/__init__.py:51
 msgid "Filipino"
-msgstr "filipinera"
+msgstr "tagalog"
 
 #: dialect/translators/__init__.py:52
 msgid "Finnish"
-msgstr "Finlandiera"
+msgstr "finlandiera"
 
 #: dialect/translators/__init__.py:53
 msgid "French"
-msgstr "frantsesa"
+msgstr "frantses"
 
 #: dialect/translators/__init__.py:54
 msgid "Frisian"
-msgstr "Frisiera"
+msgstr "frisiera"
 
 #: dialect/translators/__init__.py:55
 msgid "Galician"
-msgstr "Galiziera"
+msgstr "galiziera"
 
 #: dialect/translators/__init__.py:56
 msgid "Georgian"
@@ -497,11 +497,11 @@ msgstr "georgiera"
 
 #: dialect/translators/__init__.py:57
 msgid "German"
-msgstr "alemana"
+msgstr "aleman"
 
 #: dialect/translators/__init__.py:58
 msgid "Greek"
-msgstr "Greziera"
+msgstr "greziera"
 
 #: dialect/translators/__init__.py:59
 msgid "Gujarati"
@@ -509,7 +509,7 @@ msgstr "gujaratera"
 
 #: dialect/translators/__init__.py:60
 msgid "Haitian Creole"
-msgstr "kreolera (Haiti)"
+msgstr "Haitiko kreolera"
 
 #: dialect/translators/__init__.py:61
 msgid "Hausa"
@@ -525,11 +525,11 @@ msgstr "hebreera"
 
 #: dialect/translators/__init__.py:65
 msgid "Hindi"
-msgstr "hindia"
+msgstr "hindi"
 
 #: dialect/translators/__init__.py:66
 msgid "Hmong"
-msgstr "hmonga"
+msgstr "hmong"
 
 #: dialect/translators/__init__.py:67
 msgid "Hungarian"
@@ -549,7 +549,7 @@ msgstr "indonesiera"
 
 #: dialect/translators/__init__.py:71
 msgid "Irish"
-msgstr "Irlandera"
+msgstr "irlandera"
 
 #: dialect/translators/__init__.py:72
 msgid "Italian"
@@ -573,7 +573,7 @@ msgstr "kazakhera"
 
 #: dialect/translators/__init__.py:77
 msgid "Khmer"
-msgstr "khmerera"
+msgstr "khemerera"
 
 #: dialect/translators/__init__.py:78
 msgid "Kinyarwanda"
@@ -581,7 +581,7 @@ msgstr "kinyaruanda"
 
 #: dialect/translators/__init__.py:79
 msgid "Korean"
-msgstr "Korearra"
+msgstr "koreera"
 
 #: dialect/translators/__init__.py:80
 msgid "Kurdish (Kurmanji)"
@@ -597,7 +597,7 @@ msgstr "laosera"
 
 #: dialect/translators/__init__.py:83
 msgid "Latin"
-msgstr "latina"
+msgstr "latin"
 
 #: dialect/translators/__init__.py:84
 msgid "Latvian"
@@ -617,7 +617,7 @@ msgstr "mazedoniera"
 
 #: dialect/translators/__init__.py:88
 msgid "Malagasy"
-msgstr "malgaxea"
+msgstr "malgaxe"
 
 #: dialect/translators/__init__.py:89
 msgid "Malay"
@@ -657,11 +657,11 @@ msgstr "norvegiera"
 
 #: dialect/translators/__init__.py:98
 msgid "Odia (Oriya)"
-msgstr "Odia"
+msgstr "oriya"
 
 #: dialect/translators/__init__.py:99
 msgid "Pashto"
-msgstr "Paxtunera"
+msgstr "paxtuera"
 
 #: dialect/translators/__init__.py:100
 msgid "Persian"
@@ -673,7 +673,7 @@ msgstr "poloniera"
 
 #: dialect/translators/__init__.py:102
 msgid "Portuguese"
-msgstr "portugesa"
+msgstr "portuges"
 
 #: dialect/translators/__init__.py:103
 msgid "Punjabi"
@@ -689,11 +689,11 @@ msgstr "errusiera"
 
 #: dialect/translators/__init__.py:106
 msgid "Samoan"
-msgstr "Samoera"
+msgstr "samoera"
 
 #: dialect/translators/__init__.py:107
 msgid "Scots Gaelic"
-msgstr "Eskoziako gaelikoa"
+msgstr "Eskoziako gaeliko"
 
 #: dialect/translators/__init__.py:108
 msgid "Serbian"
@@ -701,15 +701,15 @@ msgstr "serbiera"
 
 #: dialect/translators/__init__.py:109
 msgid "Sesotho"
-msgstr "sothoera"
+msgstr "hegoaldeko sothoera"
 
 #: dialect/translators/__init__.py:110
 msgid "Shona"
-msgstr "shona"
+msgstr "shonera"
 
 #: dialect/translators/__init__.py:111
 msgid "Sindhi"
-msgstr "sindhia"
+msgstr "sindhi"
 
 #: dialect/translators/__init__.py:112
 msgid "Sinhala"
@@ -729,11 +729,11 @@ msgstr "somaliera"
 
 #: dialect/translators/__init__.py:116
 msgid "Spanish"
-msgstr "gaztelania"
+msgstr "espainiera"
 
 #: dialect/translators/__init__.py:117
 msgid "Sundanese"
-msgstr "sundera"
+msgstr "sundanera"
 
 #: dialect/translators/__init__.py:118
 msgid "Swahili"
@@ -757,7 +757,7 @@ msgstr "tatarera"
 
 #: dialect/translators/__init__.py:123
 msgid "Telugu"
-msgstr "telugua"
+msgstr "telugu"
 
 #: dialect/translators/__init__.py:124
 msgid "Thai"
@@ -769,7 +769,7 @@ msgstr "turkiera"
 
 #: dialect/translators/__init__.py:126
 msgid "Turkmen"
-msgstr "Turkmenera"
+msgstr "turkmenera"
 
 #: dialect/translators/__init__.py:127
 msgid "Ukrainian"
@@ -777,7 +777,7 @@ msgstr "ukrainera"
 
 #: dialect/translators/__init__.py:128
 msgid "Urdu"
-msgstr "urdua"
+msgstr "urdu"
 
 #: dialect/translators/__init__.py:129
 msgid "Uyghur"
@@ -793,7 +793,7 @@ msgstr "vietnamera"
 
 #: dialect/translators/__init__.py:132
 msgid "Welsh"
-msgstr "galesa"
+msgstr "gales"
 
 #: dialect/translators/__init__.py:133
 msgid "Xhosa"
@@ -801,7 +801,7 @@ msgstr "xhosera"
 
 #: dialect/translators/__init__.py:134
 msgid "Yiddish"
-msgstr "yiddisha"
+msgstr "yiddish"
 
 #: dialect/translators/__init__.py:135
 msgid "Yoruba"

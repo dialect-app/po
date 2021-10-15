@@ -371,7 +371,7 @@ msgstr "Bunu mu demek istediniz: "
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
-msgstr "Afrika Dili"
+msgstr "Afrikaanca"
 
 #: dialect/translators/__init__.py:27
 msgid "Albanian"
@@ -379,7 +379,7 @@ msgstr "Arnavutça"
 
 #: dialect/translators/__init__.py:28
 msgid "Amharic"
-msgstr "Habeşçe"
+msgstr "Amharca"
 
 #: dialect/translators/__init__.py:29
 msgid "Arabic"
@@ -391,7 +391,7 @@ msgstr "Ermenice"
 
 #: dialect/translators/__init__.py:31
 msgid "Azerbaijani"
-msgstr "Azerice"
+msgstr "Azerbaycan dili"
 
 #: dialect/translators/__init__.py:32
 msgid "Basque"
@@ -419,11 +419,11 @@ msgstr "Katalanca"
 
 #: dialect/translators/__init__.py:38
 msgid "Cebuano"
-msgstr "Cebuano"
+msgstr "Sebuano dili"
 
 #: dialect/translators/__init__.py:39
 msgid "Chichewa"
-msgstr "Chicheva"
+msgstr "Nyanja"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
@@ -431,15 +431,15 @@ msgstr "Çince"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
-msgstr "Çince"
+msgstr "Basitleştirilmiş Çince"
 
 #: dialect/translators/__init__.py:42
 msgid "Chinese (Traditional)"
-msgstr "Çince (Geleneksel)"
+msgstr "Geleneksel Çince"
 
 #: dialect/translators/__init__.py:43
 msgid "Corsican"
-msgstr "Korsika Dili"
+msgstr "Korsikaca"
 
 #: dialect/translators/__init__.py:44
 msgid "Croatian"
@@ -467,11 +467,11 @@ msgstr "Esperanto"
 
 #: dialect/translators/__init__.py:50
 msgid "Estonian"
-msgstr "Estonyaca"
+msgstr "Estonca"
 
 #: dialect/translators/__init__.py:51
 msgid "Filipino"
-msgstr "Filipince"
+msgstr "Tagalogca"
 
 #: dialect/translators/__init__.py:52
 msgid "Finnish"
@@ -483,7 +483,7 @@ msgstr "Fransızca"
 
 #: dialect/translators/__init__.py:54
 msgid "Frisian"
-msgstr "Frizon Dili"
+msgstr "Batı Frizcesi"
 
 #: dialect/translators/__init__.py:55
 msgid "Galician"
@@ -503,19 +503,19 @@ msgstr "Yunanca"
 
 #: dialect/translators/__init__.py:59
 msgid "Gujarati"
-msgstr "Gücerat Dili"
+msgstr "Güceratça"
 
 #: dialect/translators/__init__.py:60
 msgid "Haitian Creole"
-msgstr "Haiti Kreolu"
+msgstr "Haiti Kreyolu"
 
 #: dialect/translators/__init__.py:61
 msgid "Hausa"
-msgstr "Hausa Dili"
+msgstr "Hausa dili"
 
 #: dialect/translators/__init__.py:62
 msgid "Hawaiian"
-msgstr "Havai Dili"
+msgstr "Hawaii dili"
 
 #: dialect/translators/__init__.py:63 dialect/translators/__init__.py:64
 msgid "Hebrew"
@@ -527,7 +527,7 @@ msgstr "Hintçe"
 
 #: dialect/translators/__init__.py:66
 msgid "Hmong"
-msgstr "Hmong Dili"
+msgstr "Hmong"
 
 #: dialect/translators/__init__.py:67
 msgid "Hungarian"
@@ -539,11 +539,11 @@ msgstr "İzlandaca"
 
 #: dialect/translators/__init__.py:69
 msgid "Igbo"
-msgstr "İgbo Dili"
+msgstr "İbo dili"
 
 #: dialect/translators/__init__.py:70
 msgid "Indonesian"
-msgstr "Endonezya Dili"
+msgstr "Endonezce"
 
 #: dialect/translators/__init__.py:71
 msgid "Irish"
@@ -563,7 +563,7 @@ msgstr "Cava Dili"
 
 #: dialect/translators/__init__.py:75
 msgid "Kannada"
-msgstr "Kannada"
+msgstr "Kannada dili"
 
 #: dialect/translators/__init__.py:76
 msgid "Kazakh"
@@ -571,11 +571,11 @@ msgstr "Kazakça"
 
 #: dialect/translators/__init__.py:77
 msgid "Khmer"
-msgstr "Kamboçyaca"
+msgstr "Khmer dili"
 
 #: dialect/translators/__init__.py:78
 msgid "Kinyarwanda"
-msgstr "Ruandaca"
+msgstr "Kinyarwanda"
 
 #: dialect/translators/__init__.py:79
 msgid "Korean"
@@ -591,7 +591,7 @@ msgstr "Kırgızca"
 
 #: dialect/translators/__init__.py:82
 msgid "Lao"
-msgstr "Laoca"
+msgstr "Lao dili"
 
 #: dialect/translators/__init__.py:83
 msgid "Latin"
@@ -615,27 +615,27 @@ msgstr "Makedonca"
 
 #: dialect/translators/__init__.py:88
 msgid "Malagasy"
-msgstr "Madagaskar Dili"
+msgstr "Malgaşça"
 
 #: dialect/translators/__init__.py:89
 msgid "Malay"
-msgstr "Malezya Dili"
+msgstr "Malayca"
 
 #: dialect/translators/__init__.py:90
 msgid "Malayalam"
-msgstr "Malayalam"
+msgstr "Malayalam dili"
 
 #: dialect/translators/__init__.py:91
 msgid "Maltese"
-msgstr "Malta Dili"
+msgstr "Maltaca"
 
 #: dialect/translators/__init__.py:92
 msgid "Maori"
-msgstr "Maori Dili"
+msgstr "Maori dili"
 
 #: dialect/translators/__init__.py:93
 msgid "Marathi"
-msgstr "Marathi"
+msgstr "Marathi dili"
 
 #: dialect/translators/__init__.py:94
 msgid "Mongolian"
@@ -643,7 +643,7 @@ msgstr "Moğolca"
 
 #: dialect/translators/__init__.py:95
 msgid "Myanmar (Burmese)"
-msgstr "Burmaca"
+msgstr "Birman dili"
 
 #: dialect/translators/__init__.py:96
 msgid "Nepali"
@@ -655,7 +655,7 @@ msgstr "Norveççe"
 
 #: dialect/translators/__init__.py:98
 msgid "Odia (Oriya)"
-msgstr "Odiya (Oriya)"
+msgstr "Oriya dili"
 
 #: dialect/translators/__init__.py:99
 msgid "Pashto"
@@ -675,11 +675,11 @@ msgstr "Portekizce"
 
 #: dialect/translators/__init__.py:103
 msgid "Punjabi"
-msgstr "Pencap Dili"
+msgstr "Pencapça"
 
 #: dialect/translators/__init__.py:104
 msgid "Romanian"
-msgstr "Romence"
+msgstr "Rumence"
 
 #: dialect/translators/__init__.py:105
 msgid "Russian"
@@ -687,11 +687,11 @@ msgstr "Rusça"
 
 #: dialect/translators/__init__.py:106
 msgid "Samoan"
-msgstr "Samoaca"
+msgstr "Samoa dili"
 
 #: dialect/translators/__init__.py:107
 msgid "Scots Gaelic"
-msgstr "Kuzey İskoç Dili"
+msgstr "İskoç Gaelcesi"
 
 #: dialect/translators/__init__.py:108
 msgid "Serbian"
@@ -699,19 +699,19 @@ msgstr "Sırpça"
 
 #: dialect/translators/__init__.py:109
 msgid "Sesotho"
-msgstr "Sesotho Dili"
+msgstr "Güney Sotho dili"
 
 #: dialect/translators/__init__.py:110
 msgid "Shona"
-msgstr "Shona"
+msgstr "Şona dili"
 
 #: dialect/translators/__init__.py:111
 msgid "Sindhi"
-msgstr "Sint"
+msgstr "Sindhi dili"
 
 #: dialect/translators/__init__.py:112
 msgid "Sinhala"
-msgstr "Seylanca"
+msgstr "Sinhali dili"
 
 #: dialect/translators/__init__.py:113
 msgid "Slovak"
@@ -731,11 +731,11 @@ msgstr "İspanyolca"
 
 #: dialect/translators/__init__.py:117
 msgid "Sundanese"
-msgstr "Sundanizce"
+msgstr "Sunda dili"
 
 #: dialect/translators/__init__.py:118
 msgid "Swahili"
-msgstr "Svahili Dili"
+msgstr "Svahili dili"
 
 #: dialect/translators/__init__.py:119
 msgid "Swedish"
@@ -743,11 +743,11 @@ msgstr "İsveççe"
 
 #: dialect/translators/__init__.py:120
 msgid "Tajik"
-msgstr "Tacikce"
+msgstr "Tacikçe"
 
 #: dialect/translators/__init__.py:121
 msgid "Tamil"
-msgstr "Tamil"
+msgstr "Tamilce"
 
 #: dialect/translators/__init__.py:122
 msgid "Tatar"
@@ -755,11 +755,11 @@ msgstr "Tatarca"
 
 #: dialect/translators/__init__.py:123
 msgid "Telugu"
-msgstr "Telugu Dili"
+msgstr "Telugu dili"
 
 #: dialect/translators/__init__.py:124
 msgid "Thai"
-msgstr "Tay Dili"
+msgstr "Tayca"
 
 #: dialect/translators/__init__.py:125
 msgid "Turkish"
@@ -795,19 +795,19 @@ msgstr "Galce"
 
 #: dialect/translators/__init__.py:133
 msgid "Xhosa"
-msgstr "Hosa"
+msgstr "Zosa dili"
 
 #: dialect/translators/__init__.py:134
 msgid "Yiddish"
-msgstr "Yidce"
+msgstr "Yidiş"
 
 #: dialect/translators/__init__.py:135
 msgid "Yoruba"
-msgstr "Yoruba"
+msgstr "Yorubaca"
 
 #: dialect/translators/__init__.py:136
 msgid "Zulu"
-msgstr "Zulu"
+msgstr "Zuluca"
 
 #~ msgid "Use Google for Text to Speech functionality."
 #~ msgstr "Metinden Sese işlevi için Google kullanın."

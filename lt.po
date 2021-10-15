@@ -372,7 +372,7 @@ msgstr "Ar turėjote omenyje: "
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
-msgstr "afrikanso"
+msgstr "afrikanų"
 
 #: dialect/translators/__init__.py:27
 msgid "Albanian"
@@ -392,7 +392,7 @@ msgstr "armėnų"
 
 #: dialect/translators/__init__.py:31
 msgid "Azerbaijani"
-msgstr "Azerbaidžaniečių"
+msgstr "azerbaidžaniečių"
 
 #: dialect/translators/__init__.py:32
 msgid "Basque"
@@ -416,7 +416,7 @@ msgstr "bulgarų"
 
 #: dialect/translators/__init__.py:37
 msgid "Catalan"
-msgstr "kataloniečių"
+msgstr "katalonų"
 
 #: dialect/translators/__init__.py:38
 msgid "Cebuano"
@@ -424,7 +424,7 @@ msgstr "sebuanų"
 
 #: dialect/translators/__init__.py:39
 msgid "Chichewa"
-msgstr "čičeva"
+msgstr "nianjų"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
@@ -432,11 +432,11 @@ msgstr "kinų"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
-msgstr "Kinų"
+msgstr "supaprastintoji kinų"
 
 #: dialect/translators/__init__.py:42
 msgid "Chinese (Traditional)"
-msgstr "kinų (tradicinė)"
+msgstr "tradicinė kinų"
 
 #: dialect/translators/__init__.py:43
 msgid "Corsican"
@@ -472,7 +472,7 @@ msgstr "estų"
 
 #: dialect/translators/__init__.py:51
 msgid "Filipino"
-msgstr "tagalų"
+msgstr "tagalogų"
 
 #: dialect/translators/__init__.py:52
 msgid "Finnish"
@@ -484,7 +484,7 @@ msgstr "prancūzų"
 
 #: dialect/translators/__init__.py:54
 msgid "Frisian"
-msgstr "fryzų"
+msgstr "vakarų fryzų"
 
 #: dialect/translators/__init__.py:55
 msgid "Galician"
@@ -508,7 +508,7 @@ msgstr "gudžaratų"
 
 #: dialect/translators/__init__.py:60
 msgid "Haitian Creole"
-msgstr "haičio kreolų"
+msgstr "Haičio"
 
 #: dialect/translators/__init__.py:61
 msgid "Hausa"
@@ -528,7 +528,7 @@ msgstr "hindi"
 
 #: dialect/translators/__init__.py:66
 msgid "Hmong"
-msgstr "hmongų"
+msgstr "hmong"
 
 #: dialect/translators/__init__.py:67
 msgid "Hungarian"
@@ -576,7 +576,7 @@ msgstr "khmerų"
 
 #: dialect/translators/__init__.py:78
 msgid "Kinyarwanda"
-msgstr "Kinyarwanda"
+msgstr "kinjaruandų"
 
 #: dialect/translators/__init__.py:79
 msgid "Korean"
@@ -612,11 +612,11 @@ msgstr "liuksemburgiečių"
 
 #: dialect/translators/__init__.py:87
 msgid "Macedonian"
-msgstr "makedoniečių"
+msgstr "makedonų"
 
 #: dialect/translators/__init__.py:88
 msgid "Malagasy"
-msgstr "malagasių"
+msgstr "malagasų"
 
 #: dialect/translators/__init__.py:89
 msgid "Malay"
@@ -656,11 +656,11 @@ msgstr "norvegų"
 
 #: dialect/translators/__init__.py:98
 msgid "Odia (Oriya)"
-msgstr "Odijų (orijų)"
+msgstr "odijų"
 
 #: dialect/translators/__init__.py:99
 msgid "Pashto"
-msgstr "puštunų (afganų)"
+msgstr "puštūnų"
 
 #: dialect/translators/__init__.py:100
 msgid "Persian"
@@ -676,7 +676,7 @@ msgstr "portugalų"
 
 #: dialect/translators/__init__.py:103
 msgid "Punjabi"
-msgstr "pandžabų"
+msgstr "pendžabų"
 
 #: dialect/translators/__init__.py:104
 msgid "Romanian"
@@ -688,7 +688,7 @@ msgstr "rusų"
 
 #: dialect/translators/__init__.py:106
 msgid "Samoan"
-msgstr "samojiečių"
+msgstr "Samoa"
 
 #: dialect/translators/__init__.py:107
 msgid "Scots Gaelic"
@@ -700,7 +700,7 @@ msgstr "serbų"
 
 #: dialect/translators/__init__.py:109
 msgid "Sesotho"
-msgstr "sesuto"
+msgstr "pietų Soto"
 
 #: dialect/translators/__init__.py:110
 msgid "Shona"
@@ -736,7 +736,7 @@ msgstr "sundų"
 
 #: dialect/translators/__init__.py:118
 msgid "Swahili"
-msgstr "svahilių"
+msgstr "suahilių"
 
 #: dialect/translators/__init__.py:119
 msgid "Swedish"
@@ -752,7 +752,7 @@ msgstr "tamilų"
 
 #: dialect/translators/__init__.py:122
 msgid "Tatar"
-msgstr "Totorių"
+msgstr "totorių"
 
 #: dialect/translators/__init__.py:123
 msgid "Telugu"
@@ -768,7 +768,7 @@ msgstr "turkų"
 
 #: dialect/translators/__init__.py:126
 msgid "Turkmen"
-msgstr "Turkmėnų"
+msgstr "turkmėnų"
 
 #: dialect/translators/__init__.py:127
 msgid "Ukrainian"
@@ -800,7 +800,7 @@ msgstr "kosų"
 
 #: dialect/translators/__init__.py:134
 msgid "Yiddish"
-msgstr "jidiš (žydų)"
+msgstr "jidiš"
 
 #: dialect/translators/__init__.py:135
 msgid "Yoruba"
@@ -808,4 +808,4 @@ msgstr "jorubų"
 
 #: dialect/translators/__init__.py:136
 msgid "Zulu"
-msgstr "zulusų"
+msgstr "zulų"

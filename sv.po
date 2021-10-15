@@ -422,23 +422,23 @@ msgstr "cebuano"
 
 #: dialect/translators/__init__.py:39
 msgid "Chichewa"
-msgstr "chichewa"
+msgstr "nyanja"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
-msgstr "Kinesiska"
+msgstr "kinesiska"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
-msgstr "kinesiska"
+msgstr "förenklad kinesiska"
 
 #: dialect/translators/__init__.py:42
 msgid "Chinese (Traditional)"
-msgstr "kinesiska (traditionell)"
+msgstr "traditionell kinesiska"
 
 #: dialect/translators/__init__.py:43
 msgid "Corsican"
-msgstr "korsiska"
+msgstr "korsikanska"
 
 #: dialect/translators/__init__.py:44
 msgid "Croatian"
@@ -470,7 +470,7 @@ msgstr "estniska"
 
 #: dialect/translators/__init__.py:51
 msgid "Filipino"
-msgstr "filippinska"
+msgstr "tagalog"
 
 #: dialect/translators/__init__.py:52
 msgid "Finnish"
@@ -482,7 +482,7 @@ msgstr "franska"
 
 #: dialect/translators/__init__.py:54
 msgid "Frisian"
-msgstr "frisiska"
+msgstr "västfrisiska"
 
 #: dialect/translators/__init__.py:55
 msgid "Galician"
@@ -506,7 +506,7 @@ msgstr "gujarati"
 
 #: dialect/translators/__init__.py:60
 msgid "Haitian Creole"
-msgstr "Haitisk Creol"
+msgstr "haitiska"
 
 #: dialect/translators/__init__.py:61
 msgid "Hausa"
@@ -514,7 +514,7 @@ msgstr "hausa"
 
 #: dialect/translators/__init__.py:62
 msgid "Hawaiian"
-msgstr "hawaiianska"
+msgstr "hawaiiska"
 
 #: dialect/translators/__init__.py:63 dialect/translators/__init__.py:64
 msgid "Hebrew"
@@ -526,7 +526,7 @@ msgstr "hindi"
 
 #: dialect/translators/__init__.py:66
 msgid "Hmong"
-msgstr "hmong"
+msgstr "hmongspråk"
 
 #: dialect/translators/__init__.py:67
 msgid "Hungarian"
@@ -546,7 +546,7 @@ msgstr "indonesiska"
 
 #: dialect/translators/__init__.py:71
 msgid "Irish"
-msgstr "irländska"
+msgstr "iriska"
 
 #: dialect/translators/__init__.py:72
 msgid "Italian"
@@ -562,7 +562,7 @@ msgstr "javanesiska"
 
 #: dialect/translators/__init__.py:75
 msgid "Kannada"
-msgstr "kanaresiska"
+msgstr "kannada"
 
 #: dialect/translators/__init__.py:76
 msgid "Kazakh"
@@ -570,11 +570,11 @@ msgstr "kazakiska"
 
 #: dialect/translators/__init__.py:77
 msgid "Khmer"
-msgstr "khmer"
+msgstr "kambodjanska"
 
 #: dialect/translators/__init__.py:78
 msgid "Kinyarwanda"
-msgstr "kinyarwanda"
+msgstr "kinjarwanda"
 
 #: dialect/translators/__init__.py:79
 msgid "Korean"
@@ -606,7 +606,7 @@ msgstr "litauiska"
 
 #: dialect/translators/__init__.py:86
 msgid "Luxembourgish"
-msgstr "luxemburgska"
+msgstr "luxemburgiska"
 
 #: dialect/translators/__init__.py:87
 msgid "Macedonian"
@@ -618,7 +618,7 @@ msgstr "malagassiska"
 
 #: dialect/translators/__init__.py:89
 msgid "Malay"
-msgstr "malaysiska"
+msgstr "malajiska"
 
 #: dialect/translators/__init__.py:90
 msgid "Malayalam"
@@ -646,7 +646,7 @@ msgstr "burmesiska"
 
 #: dialect/translators/__init__.py:96
 msgid "Nepali"
-msgstr "nepali"
+msgstr "nepalesiska"
 
 #: dialect/translators/__init__.py:97
 msgid "Norwegian"
@@ -654,11 +654,11 @@ msgstr "norska"
 
 #: dialect/translators/__init__.py:98
 msgid "Odia (Oriya)"
-msgstr "oriya (odia)"
+msgstr "oriya"
 
 #: dialect/translators/__init__.py:99
 msgid "Pashto"
-msgstr "pashto"
+msgstr "afghanska"
 
 #: dialect/translators/__init__.py:100
 msgid "Persian"
@@ -690,7 +690,7 @@ msgstr "samoanska"
 
 #: dialect/translators/__init__.py:107
 msgid "Scots Gaelic"
-msgstr "gaeliska"
+msgstr "skotsk gäliska"
 
 #: dialect/translators/__init__.py:108
 msgid "Serbian"
@@ -698,7 +698,7 @@ msgstr "serbiska"
 
 #: dialect/translators/__init__.py:109
 msgid "Sesotho"
-msgstr "sesotho"
+msgstr "sydsotho"
 
 #: dialect/translators/__init__.py:110
 msgid "Shona"
