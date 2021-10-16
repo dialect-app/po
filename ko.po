@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
-"POT-Creation-Date: 2021-09-17 18:09+0530\n"
+"POT-Creation-Date: 2021-10-16 23:00+0530\n"
 "PO-Revision-Date: 2021-08-31 11:50+0900\n"
 "Last-Translator: Seong-ho Cho <shcho@gnome.org>\n"
 "Language-Team: 한국어 <gnome-kr@googlegroups.com>\n"
@@ -328,7 +328,7 @@ msgstr "복사"
 msgid "No network connection detected."
 msgstr "발견한 네트워크 연결이 없습니다."
 
-#: dialect/preferences.py:250
+#: dialect/preferences.py:251
 #, python-brace-format
 msgid "Not a valid {backend} instance"
 msgstr "부적절한 {backend} 인스턴스"

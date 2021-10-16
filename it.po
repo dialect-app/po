@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
-"POT-Creation-Date: 2021-09-17 18:09+0530\n"
+"POT-Creation-Date: 2021-10-16 23:00+0530\n"
 "PO-Revision-Date: 2021-09-20 22:36+0000\n"
 "Last-Translator: J. Lavoie <j.lavoie@net-c.ca>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -333,7 +333,7 @@ msgstr "Copia"
 msgid "No network connection detected."
 msgstr "Nessuna connessione di rete rilevata."
 
-#: dialect/preferences.py:250
+#: dialect/preferences.py:251
 #, python-brace-format
 msgid "Not a valid {backend} instance"
 msgstr "Non è un'istanza {backend} valida"
@@ -825,9 +825,6 @@ msgstr "Zulu"
 #~ "Assicurati inoltre che la funzione sia abilitato nelle impostazioni di "
 #~ "GNOME."
 
-#~ msgid "Failed loading translator backend"
-#~ msgstr "Impossibile caricare il backend del traduttore"
-
 #~ msgid "Translation in progress..."
 #~ msgstr "Traduzione in corso..."
 
@@ -837,57 +834,8 @@ msgstr "Zulu"
 #~ msgid "gi-lom"
 #~ msgstr "gi-lom"
 
-#~ msgid "A translation app for GNOME based on Google Translate."
-#~ msgstr "Un'app di traduzione per GNOME basata su Google Translate."
-
 #~ msgid "Text translation up to 5000 chars"
 #~ msgstr "Traduzione del testo fino a 5000 caratteri"
-
-#~ msgid "Added a shortcuts window"
-#~ msgstr "Aggiunta una finestra di scorciatoie"
-
-#~ msgid "Added Indonesian translation"
-#~ msgstr "Aggiunta la traduzione indonesiana"
-
-#~ msgid "Added Portugese (BR) translation"
-#~ msgstr "Aggiunta traduzione in Portoghese (BR)"
-
-#~ msgid "Fixed several bugs"
-#~ msgstr "Risolti diversi bug"
-
-#~ msgid "Added a search provider for GNOME"
-#~ msgstr "Aggiunto un provider di ricerca per GNOME"
-
-#~ msgid "Added support for \"Did you mean\" suggestions"
-#~ msgstr "Aggiunto supporto per i suggerimenti di \"Forse cercavi\""
-
-#~ msgid "Added a Ctrl+Q shortcut to quit"
-#~ msgstr "Aggiunta una scorciatoia Ctrl + Q per uscire"
-
-#~ msgid "Added Hungarian translation"
-#~ msgstr "Aggiunta traduzione in Ungherese"
-
-#~ msgid "Added Italian translation"
-#~ msgstr "Aggiunta traduzione in Italiano"
-
-#~ msgid "Added Persian translation"
-#~ msgstr "Aggiunta traduzione in Persiano"
-
-#~ msgid "Added Russian translation"
-#~ msgstr "Aggiunta traduzione in Russo"
-
-#~ msgid "Added Turkish translation"
-#~ msgstr "Aggiunta traduzione in Turco"
-
-#~ msgid "Fixed some issues with the icon"
-#~ msgstr "Risolti alcuni problemi con l'icona"
-
-#~ msgid "Made some minor UI improvements"
-#~ msgstr ""
-#~ "Sono stati apportati alcuni miglioramenti minori all'interfaccia utente"
-
-#~ msgid "Initial release."
-#~ msgstr "Versione iniziale."
 
 #~ msgid "History"
 #~ msgstr "Cronologia"

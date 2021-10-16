@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
-"POT-Creation-Date: 2021-09-17 18:09+0530\n"
+"POT-Creation-Date: 2021-10-16 23:00+0530\n"
 "PO-Revision-Date: 2021-10-01 15:38+0000\n"
 "Last-Translator: Adzka Muhammad Mumtaz <4dzkamivi@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/dialect/"
@@ -331,7 +331,7 @@ msgstr "Salin"
 msgid "No network connection detected."
 msgstr "Tidak tersedia sambungan jaringan."
 
-#: dialect/preferences.py:250
+#: dialect/preferences.py:251
 #, python-brace-format
 msgid "Not a valid {backend} instance"
 msgstr "Bukan instance {backend} yang valid"
@@ -823,9 +823,6 @@ msgstr "Zulu"
 #~ "kemungkinan penyalahgunaan API. Pastikan juga bahwa fitur ini diaktifkan "
 #~ "di Pengaturan GNOME."
 
-#~ msgid "Failed loading translator backend"
-#~ msgstr "Gagal memuat backend penerjemah"
-
 #~ msgid "Translation in progress..."
 #~ msgstr "Terjemahan sedang berlangsung..."
 
@@ -835,36 +832,5 @@ msgstr "Zulu"
 #~ msgid "gi-lom"
 #~ msgstr "gi-lom"
 
-#~ msgid "A translation app for GNOME based on Google Translate."
-#~ msgstr "Aplikasi terjemahan untuk GNOME berdasarkan Google Terjemahan."
-
 #~ msgid "Text translation up to 5000 chars"
 #~ msgstr "Terjemahan teks hingga 5000 karakter"
-
-#, fuzzy
-#~ msgid "Added Indonesian translation"
-#~ msgstr "Terjemahan sebelumnya"
-
-#, fuzzy
-#~ msgid "Added Portugese (BR) translation"
-#~ msgstr "Terjemahan sebelumnya"
-
-#, fuzzy
-#~ msgid "Added Hungarian translation"
-#~ msgstr "Terjemahan berikutnya"
-
-#, fuzzy
-#~ msgid "Added Italian translation"
-#~ msgstr "Terjemahan berikutnya"
-
-#, fuzzy
-#~ msgid "Added Persian translation"
-#~ msgstr "Terjemahan sebelumnya"
-
-#, fuzzy
-#~ msgid "Added Russian translation"
-#~ msgstr "Terjemahan sebelumnya"
-
-#, fuzzy
-#~ msgid "Added Turkish translation"
-#~ msgstr "Terjemahan sebelumnya"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
-"POT-Creation-Date: 2021-09-17 18:09+0530\n"
+"POT-Creation-Date: 2021-10-16 23:00+0530\n"
 "PO-Revision-Date: 2021-09-20 22:36+0000\n"
 "Last-Translator: Omar TS <omats@vivaldi.net>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -332,7 +332,7 @@ msgstr ""
 msgid "No network connection detected."
 msgstr ""
 
-#: dialect/preferences.py:250
+#: dialect/preferences.py:251
 #, python-brace-format
 msgid "Not a valid {backend} instance"
 msgstr ""

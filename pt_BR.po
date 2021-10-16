@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
-"POT-Creation-Date: 2021-09-17 18:09+0530\n"
+"POT-Creation-Date: 2021-10-16 23:00+0530\n"
 "PO-Revision-Date: 2021-10-09 06:01+0000\n"
 "Last-Translator: Roberts Gasūns <rob4iks3@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
@@ -331,7 +331,7 @@ msgstr "Copiar"
 msgid "No network connection detected."
 msgstr "Nenhuma conexão de rede detectada."
 
-#: dialect/preferences.py:250
+#: dialect/preferences.py:251
 #, python-brace-format
 msgid "Not a valid {backend} instance"
 msgstr "Não é uma instância {backend} válida"
@@ -822,9 +822,6 @@ msgstr "zulu"
 #~ "pesquisa. Isso é para reduzir a possibilidade de abuso de API. Certifique-"
 #~ "se também de que o recurso esteja habilitado nas configurações do GNOME."
 
-#~ msgid "Failed loading translator backend"
-#~ msgstr "Falha ao carregar back-end do tradutor"
-
 #~ msgid "Translation in progress..."
 #~ msgstr "Tradução em andamento..."
 
@@ -834,36 +831,5 @@ msgstr "zulu"
 #~ msgid "gi-lom"
 #~ msgstr "gi-lom"
 
-#~ msgid "A translation app for GNOME based on Google Translate."
-#~ msgstr "Um aplicativo de tradução para GNOME baseado no Google Tradutor."
-
 #~ msgid "Text translation up to 5000 chars"
 #~ msgstr "Tradução de texto de até 5.000 caracteres"
-
-#, fuzzy
-#~ msgid "Added Indonesian translation"
-#~ msgstr "Tradução anterior"
-
-#, fuzzy
-#~ msgid "Added Portugese (BR) translation"
-#~ msgstr "Tradução anterior"
-
-#, fuzzy
-#~ msgid "Added Hungarian translation"
-#~ msgstr "Próxima tradução"
-
-#, fuzzy
-#~ msgid "Added Italian translation"
-#~ msgstr "Próxima tradução"
-
-#, fuzzy
-#~ msgid "Added Persian translation"
-#~ msgstr "Tradução anterior"
-
-#, fuzzy
-#~ msgid "Added Russian translation"
-#~ msgstr "Tradução anterior"
-
-#, fuzzy
-#~ msgid "Added Turkish translation"
-#~ msgstr "Tradução anterior"

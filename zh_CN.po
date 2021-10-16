@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
-"POT-Creation-Date: 2021-09-17 18:09+0530\n"
+"POT-Creation-Date: 2021-10-16 23:00+0530\n"
 "PO-Revision-Date: 2021-10-03 20:36+0000\n"
 "Last-Translator: Zhong Lufan <lufanzhong@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
@@ -185,7 +185,8 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
-"为了减少 API 滥用，当实时翻译启动时，将关闭 Dialect 中的 GNOME 搜索提供程序。确保在 GNOME 设置中也打开了搜索提供程序。"
+"为了减少 API 滥用，当实时翻译启动时，将关闭 Dialect 中的 GNOME 搜索提供程序。"
+"确保在 GNOME 设置中也打开了搜索提供程序。"
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
@@ -327,7 +328,7 @@ msgstr "复制"
 msgid "No network connection detected."
 msgstr "未检测到网络连接。"
 
-#: dialect/preferences.py:250
+#: dialect/preferences.py:251
 #, python-brace-format
 msgid "Not a valid {backend} instance"
 msgstr "不是一个有效的 {backend} 实例"

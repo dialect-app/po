@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
-"POT-Creation-Date: 2021-09-17 18:09+0530\n"
+"POT-Creation-Date: 2021-10-16 23:00+0530\n"
 "PO-Revision-Date: 2021-09-20 22:36+0000\n"
 "Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -331,7 +331,7 @@ msgstr "Kopiera"
 msgid "No network connection detected."
 msgstr "Ingen nätverksanslutning identifierad."
 
-#: dialect/preferences.py:250
+#: dialect/preferences.py:251
 #, python-brace-format
 msgid "Not a valid {backend} instance"
 msgstr "Ingen giltig {backend}-instans"
@@ -822,9 +822,6 @@ msgstr "zulu"
 #~ "sökmotorleverantören. Detta för att minska risken för API-missbruk. Se "
 #~ "också till att funktionen är aktiverad i GNOME-inställningarna."
 
-#~ msgid "Failed loading translator backend"
-#~ msgstr "Kunde inte läsa in översättarens serverdel"
-
 #~ msgid "Translation in progress..."
 #~ msgstr "Översättning pågår..."
 
@@ -834,53 +831,5 @@ msgstr "zulu"
 #~ msgid "gi-lom"
 #~ msgstr "gi-lom"
 
-#~ msgid "A translation app for GNOME based on Google Translate."
-#~ msgstr "Ett översättningsprogram för GNOME baserat på Google Translate."
-
 #~ msgid "Text translation up to 5000 chars"
 #~ msgstr "Textöversättning upp till 5000 tecken"
-
-#~ msgid "Added a shortcuts window"
-#~ msgstr "Lade till ett genvägsfönster"
-
-#~ msgid "Added Indonesian translation"
-#~ msgstr "Lade till Indonesisk översättning"
-
-#~ msgid "Added Portugese (BR) translation"
-#~ msgstr "Lade till Portugisisk (BR) översättning"
-
-#~ msgid "Fixed several bugs"
-#~ msgstr "Fixade flertal kodfel"
-
-#~ msgid "Added a search provider for GNOME"
-#~ msgstr "Lade till en sökmotorleverantör för GNOME"
-
-#~ msgid "Added support for \"Did you mean\" suggestions"
-#~ msgstr "Lade till stöd för \"Menade du\"-förslag"
-
-#~ msgid "Added a Ctrl+Q shortcut to quit"
-#~ msgstr "Lade till en Ctrl + Q snabbtangent för att avsluta"
-
-#~ msgid "Added Hungarian translation"
-#~ msgstr "Lade till Ungersk översättning"
-
-#~ msgid "Added Italian translation"
-#~ msgstr "Lade till Italiensk översättning"
-
-#~ msgid "Added Persian translation"
-#~ msgstr "Lade till Persisk översättning"
-
-#~ msgid "Added Russian translation"
-#~ msgstr "Lade till Rysk översättning"
-
-#~ msgid "Added Turkish translation"
-#~ msgstr "Lade till Turkisk översättning"
-
-#~ msgid "Fixed some issues with the icon"
-#~ msgstr "Fixade lite problem med ikonen"
-
-#~ msgid "Made some minor UI improvements"
-#~ msgstr "Gjorde några mindre UI-förbättringar"
-
-#~ msgid "Initial release."
-#~ msgstr "Första utgåvan."

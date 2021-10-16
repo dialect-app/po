@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
-"POT-Creation-Date: 2021-09-17 18:09+0530\n"
+"POT-Creation-Date: 2021-10-16 23:00+0530\n"
 "PO-Revision-Date: 2021-10-07 04:04+0000\n"
 "Last-Translator: Noboru Higuchi <kikutiyo@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -52,7 +52,8 @@ msgstr "非公式の Google 翻訳 API による翻訳"
 msgid ""
 "Translation based on the LibreTranslate API, allowing you use any instance "
 "available online"
-msgstr "LibreTranslate API による翻訳, 利用可能なオンラインインスタンスを使用します"
+msgstr ""
+"LibreTranslate API による翻訳, 利用可能なオンラインインスタンスを使用します"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:18
 msgid "Text to speech"
@@ -121,7 +122,9 @@ msgstr "ライブ翻訳"
 
 #: data/resources/preferences.ui:40
 msgid "Warning: Your IP address may get banned for API abuse."
-msgstr "注意 : あなたの IP アドレスが API の乱用により接続拒否される可能性があります。"
+msgstr ""
+"注意 : あなたの IP アドレスが API の乱用により接続拒否される可能性がありま"
+"す。"
 
 #: data/resources/preferences.ui:54
 msgid "Translation Shortcut"
@@ -185,8 +188,9 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
-"ライブ翻訳が有効な場合、API の乱用を避けるために Dialect は GNOME 検索で無効になります。GNOME "
-"設定で検索プロバイダが有効になっていることを確認してください。"
+"ライブ翻訳が有効な場合、API の乱用を避けるために Dialect は GNOME 検索で無効"
+"になります。GNOME 設定で検索プロバイダが有効になっていることを確認してくださ"
+"い。"
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
@@ -328,7 +332,7 @@ msgstr "コピー"
 msgid "No network connection detected."
 msgstr "ネットワークに接続されていません。"
 
-#: dialect/preferences.py:250
+#: dialect/preferences.py:251
 #, python-brace-format
 msgid "Not a valid {backend} instance"
 msgstr "無効な {backend} インスタンス"

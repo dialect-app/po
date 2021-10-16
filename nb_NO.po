@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
-"POT-Creation-Date: 2021-09-17 18:09+0530\n"
+"POT-Creation-Date: 2021-10-16 23:00+0530\n"
 "PO-Revision-Date: 2021-05-29 00:11+0000\n"
 "Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/dialect/"
@@ -193,7 +193,6 @@ msgstr ""
 
 #: data/resources/shortcuts-window.ui:13
 #, fuzzy
-#| msgid "Translator"
 msgctxt "shortcuts window"
 msgid "Translator"
 msgstr "Oversetter"
@@ -215,21 +214,18 @@ msgstr ""
 
 #: data/resources/shortcuts-window.ui:38
 #, fuzzy
-#| msgid "Next translation"
 msgctxt "shortcuts window"
 msgid "Copy translation"
 msgstr "Neste oversettelse"
 
 #: data/resources/shortcuts-window.ui:45
 #, fuzzy
-#| msgid "Show Pronunciation"
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
 msgstr "Vis uttale"
 
 #: data/resources/shortcuts-window.ui:54
 #, fuzzy
-#| msgid "Text-to-Speech"
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
 msgstr "Tekst-til-tale"
@@ -241,7 +237,6 @@ msgstr ""
 
 #: data/resources/shortcuts-window.ui:65
 #, fuzzy
-#| msgid "Next translation"
 msgctxt "shortcuts window"
 msgid "Listen to translation"
 msgstr "Neste oversettelse"
@@ -258,7 +253,6 @@ msgstr ""
 
 #: data/resources/shortcuts-window.ui:85
 #, fuzzy
-#| msgid "Translation history"
 msgctxt "shortcuts window"
 msgid "Go forward in history"
 msgstr "Oversettelseshistorikk"
@@ -275,7 +269,6 @@ msgstr "Innstillinger"
 
 #: data/resources/shortcuts-window.ui:105
 #, fuzzy
-#| msgid "Keyboard Shortcuts"
 msgctxt "shortcut window"
 msgid "Shortcuts"
 msgstr "Tastatursnarveier"
@@ -345,7 +338,7 @@ msgstr "Kopier"
 msgid "No network connection detected."
 msgstr "Koble til Internett først."
 
-#: dialect/preferences.py:250
+#: dialect/preferences.py:251
 #, python-brace-format
 msgid "Not a valid {backend} instance"
 msgstr "Ikke en gyldig {backend}-instans"
@@ -835,9 +828,6 @@ msgstr "zulu"
 #~ "sanntidsoversettelse her skrur også av denne for å redusere muligheten "
 #~ "for API-misbruk. Forsikre deg også om at funksjonen er påslått i GNOME-"
 #~ "innstillingene."
-
-#~ msgid "Failed loading translator backend"
-#~ msgstr "Klarte ikke å laste inn oversetter-bakende"
 
 #~ msgid "Translation in progress..."
 #~ msgstr "Oversetter …"

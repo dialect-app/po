@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
-"POT-Creation-Date: 2021-09-17 18:09+0530\n"
+"POT-Creation-Date: 2021-10-16 23:00+0530\n"
 "PO-Revision-Date: 2021-10-01 15:38+0000\n"
 "Last-Translator: Vojtěch Perník <translations@pervoj.cz>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/dialect/dialect/cs/"
@@ -331,7 +331,7 @@ msgstr "Kopírovat"
 msgid "No network connection detected."
 msgstr "Nebylo detekováno připojení k internetu."
 
-#: dialect/preferences.py:250
+#: dialect/preferences.py:251
 #, python-brace-format
 msgid "Not a valid {backend} instance"
 msgstr "Neplatná instance {backend}"
@@ -822,9 +822,6 @@ msgstr "zuluština"
 #~ "GNOME. To má omezit možnost zneužití API. Také se ujistěte, že je tato "
 #~ "funkce povolena v nastavení GNOME."
 
-#~ msgid "Failed loading translator backend"
-#~ msgstr "Načtení backendu překladače selhalo"
-
 #~ msgid "Translation in progress..."
 #~ msgstr "Probíhá překlad..."
 
@@ -833,6 +830,3 @@ msgstr "zuluština"
 
 #~ msgid "gi-lom"
 #~ msgstr "gi-lom"
-
-#~ msgid "A translation app for GNOME based on Google Translate."
-#~ msgstr "Překladač pro GNOME postavený na Google Překladači"

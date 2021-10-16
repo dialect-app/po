@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
-"POT-Creation-Date: 2021-09-17 18:09+0530\n"
+"POT-Creation-Date: 2021-10-16 23:00+0530\n"
 "PO-Revision-Date: 2021-09-29 13:37+0000\n"
 "Last-Translator: Богдан Матвіїв <bomtvv@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/dialect/"
@@ -333,7 +333,7 @@ msgstr "Копіювати"
 msgid "No network connection detected."
 msgstr "Не виявлено з’єднання з мережею."
 
-#: dialect/preferences.py:250
+#: dialect/preferences.py:251
 #, python-brace-format
 msgid "Not a valid {backend} instance"
 msgstr "Недійсний екземпляр {backend}"
