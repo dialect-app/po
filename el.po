@@ -8,42 +8,45 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
 "POT-Creation-Date: 2021-10-16 23:00+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2021-10-31 17:36+0000\n"
+"Last-Translator: Iraklis Karagkiozoglou <iraklisk@outlook.com>\n"
+"Language-Team: Greek <https://hosted.weblate.org/projects/dialect/dialect/el/"
+">\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.9-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/about.ui:10
 #: data/resources/window.ui:66 dialect/main.py:56 dialect/main.py:93
 msgid "Dialect"
-msgstr ""
+msgstr "Διάλεκτος"
 
 #: data/com.github.gi_lom.dialect.desktop.in:9
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:7
 msgid "Translate between languages"
-msgstr ""
+msgstr "Μετάφραση σε διαφορετικές γλώσσες"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/com.github.gi_lom.dialect.desktop.in:13
 msgid "translate;translation;"
-msgstr ""
+msgstr "μετάφρασε;μετάφραση;"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:9 data/resources/about.ui:12
 msgid "A translation app for GNOME."
-msgstr ""
+msgstr "Μία εφαρμογή μετάφρασης για το GNOME."
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:12
 msgid "Features:"
-msgstr ""
+msgstr "Δυνατότητες:"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:16
 msgid "Translation based on an unofficial API for Google Translate"
-msgstr ""
+msgstr "Μετάφραση βασισμένη στο ανεπίσημο API του Google Translate"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:17
 msgid ""
@@ -53,31 +56,31 @@ msgstr ""
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:18
 msgid "Text to speech"
-msgstr ""
+msgstr "Κείμενο σε ομιλία"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:19
 msgid "Translation history"
-msgstr ""
+msgstr "Ιστορικό μεταφράσεων"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:20
 msgid "Automatic language detection"
-msgstr ""
+msgstr "Αυτόματη αναγνώριση γλώσσας"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:21
 msgid "Clipboard buttons"
-msgstr ""
+msgstr "Κουμπιά πρόχειρου"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:27
 msgid "The Dialect Authors"
-msgstr ""
+msgstr "Οι Συγγραφείς του Dialect"
 
 #: data/resources/about.ui:11
 msgid "Copyright 2020–⁠2021 The Dialect Authors"
-msgstr ""
+msgstr "Πνευματικά δικαιώματα 2020–⁠2021 Οι Συγγραφείς του Dialect"
 
 #: data/resources/about.ui:14
 msgid "GitHub page"
-msgstr ""
+msgstr "Σελίδα GitHub"
 
 #. Replace me with your names.
 #: data/resources/about.ui:19
@@ -86,23 +89,23 @@ msgstr ""
 
 #: data/resources/menu.ui:7
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "Προβολή προφοράς"
 
 #: data/resources/menu.ui:14
 msgid "Preferences"
-msgstr ""
+msgstr "Προτιμήσεις"
 
 #: data/resources/menu.ui:18
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Συντομεύσεις Πληκτρολογίου"
 
 #: data/resources/menu.ui:22
 msgid "About Dialect"
-msgstr ""
+msgstr "Σχετικά με το Dialect"
 
 #: data/resources/preferences.ui:15
 msgid "Appearance"
-msgstr ""
+msgstr "Εμφάνιση"
 
 #: data/resources/preferences.ui:19
 msgid "Dark Mode"
@@ -110,71 +113,74 @@ msgstr ""
 
 #: data/resources/preferences.ui:35
 msgid "Behavior"
-msgstr ""
+msgstr "Συμπεριφορά"
 
 #: data/resources/preferences.ui:39
 msgid "Live Translation"
-msgstr ""
+msgstr "Ζωντανή μετάφραση"
 
 #: data/resources/preferences.ui:40
 msgid "Warning: Your IP address may get banned for API abuse."
 msgstr ""
+"Προειδοποίηση: Η IP διεύθυνση σας μπορεί να αποκλειστεί λόγω κατάχρησης του "
+"API."
 
 #: data/resources/preferences.ui:54
 msgid "Translation Shortcut"
-msgstr ""
+msgstr "Συντόμευση Μετάφρασης"
 
 #: data/resources/preferences.ui:55
 msgid "The unselected choice will be used for line break."
-msgstr ""
+msgstr "Η μη επιλεγμένη επιλογή θα χρησιμοποιηθεί για αλλαγή γραμμής."
 
 #: data/resources/preferences.ui:61
 msgid "Default to Auto"
-msgstr ""
+msgstr "Προεπιλογή σε Αυτόματο"
 
 #: data/resources/preferences.ui:62
 msgid "Use \"Auto\" as the default language"
-msgstr ""
+msgstr "Χρήση του \"Auto\" ως προεπιλεγμένη γλώσσα"
 
 #: data/resources/preferences.ui:76
 msgid "Translator"
-msgstr ""
+msgstr "Μεταφραστής"
 
 #: data/resources/preferences.ui:77
 msgid "Choose from the available translation services."
-msgstr ""
+msgstr "Επιλέξτε από τις διαθέσιμες υπηρεσίες μετάφρασης."
 
 #: data/resources/preferences.ui:83
+#, fuzzy
 msgid "Translator Instance"
-msgstr ""
+msgstr "Instance Μεταφραστή"
 
 #: data/resources/preferences.ui:84
 msgid "Enter a translation service URL."
-msgstr ""
+msgstr "Εισαγάγετε μια διεύθυνση URL υπηρεσίας μετάφρασης."
 
 #: data/resources/preferences.ui:109
 msgid "Edit"
-msgstr ""
+msgstr "Επεξεργασία"
 
 #: data/resources/preferences.ui:143
 msgid "Reset to default"
-msgstr ""
+msgstr "Επαναφορά προεπιλογής"
 
 #: data/resources/preferences.ui:158
 msgid "Save"
-msgstr ""
+msgstr "Αποθήκευση"
 
 #: data/resources/preferences.ui:175
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Κείμενο σε ομιλία"
 
 #: data/resources/preferences.ui:176
 msgid "Use Google for TTS."
-msgstr ""
+msgstr "Χρησιμοποιήστε το Google για κείμενο σε ομιλία."
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
-msgstr ""
+msgstr "Πάροχος αναζήτησης"
 
 #: data/resources/preferences.ui:193
 msgid ""
@@ -182,227 +188,235 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
+"Για να μειωθεί η κατάχρηση API, ο πάροχος αναζήτησης GNOME στο Dialect "
+"απενεργοποιείται όταν η ζωντανή μετάφραση είναι ενεργοποιημένη. Βεβαιωθείτε "
+"ότι ο πάροχος αναζήτησης είναι επίσης ενεργοποιημένος στις Ρυθμίσεις GNOME."
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
 msgid "Translator"
-msgstr ""
+msgstr "Μεταφραστής"
 
 #: data/resources/shortcuts-window.ui:17
 msgctxt "shortcuts window"
 msgid "Translate"
-msgstr ""
+msgstr "Μετάφραση"
 
 #: data/resources/shortcuts-window.ui:24
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr ""
+msgstr "Εναλλαγή Γλωσσών"
 
 #: data/resources/shortcuts-window.ui:31
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "Εκκαθάριση αρχικού κειμένου"
 
 #: data/resources/shortcuts-window.ui:38
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr ""
+msgstr "Αντιγραφή μετάφρασης"
 
 #: data/resources/shortcuts-window.ui:45
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "Προβολή Προφοράς"
 
 #: data/resources/shortcuts-window.ui:54
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Κείμενο σε Ομιλία"
 
 #: data/resources/shortcuts-window.ui:58
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "Ακρόαση αρχικού κειμένου"
 
 #: data/resources/shortcuts-window.ui:65
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr ""
+msgstr "Ακρόαση μετάφρασης"
 
 #: data/resources/shortcuts-window.ui:74
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "Πλοήγηση"
 
 #: data/resources/shortcuts-window.ui:78
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "Πηγαίνετε πίσω στο ιστορικό"
 
 #: data/resources/shortcuts-window.ui:85
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr ""
+msgstr "Πηγαίνετε μπροστά στo ιστορικό"
 
 #: data/resources/shortcuts-window.ui:94
 msgctxt "shortcuts window"
 msgid "General"
-msgstr ""
+msgstr "Γενικά"
 
 #: data/resources/shortcuts-window.ui:98
 msgctxt "shortcuts window"
 msgid "Preferences"
-msgstr ""
+msgstr "Προτιμήσεις"
 
 #: data/resources/shortcuts-window.ui:105
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr ""
+msgstr "Συντομεύσεις"
 
 #: data/resources/shortcuts-window.ui:112
 msgctxt "shortcuts window"
 msgid "Quit"
-msgstr ""
+msgstr "Έξοδος"
 
 #: data/resources/window.ui:42
 msgid "Loading…"
-msgstr ""
+msgstr "Φόρτωση…"
 
 #: data/resources/window.ui:83
 msgid "Could not load the translator service"
-msgstr ""
+msgstr "Δεν ήταν δυνατή η φόρτωση της υπηρεσίας μεταφραστή"
 
 #: data/resources/window.ui:108
 msgid "Retry"
-msgstr ""
+msgstr "Προσπαθησε ξανα"
 
 #: data/resources/window.ui:115
 msgid "Open preferences"
-msgstr ""
+msgstr "Άνοιγμα προτιμήσεων"
 
 #: data/resources/window.ui:194 data/resources/window.ui:728
 msgid "Switch languages"
-msgstr ""
+msgstr "Εναλλαγή γλωσσών"
 
 #: data/resources/window.ui:274
 msgid "Previous translation"
-msgstr ""
+msgstr "Προηγούμενη μετάφραση"
 
 #: data/resources/window.ui:293
 msgid "Next translation"
-msgstr ""
+msgstr "Επόμενη μετάφραση"
 
 #: data/resources/window.ui:454
 msgid "Clear"
-msgstr ""
+msgstr "Εκκαθάριση"
 
 #: data/resources/window.ui:470
 msgid "Paste"
-msgstr ""
+msgstr "Επικόλληση"
 
 #: data/resources/window.ui:486 data/resources/window.ui:624
 msgid "Listen"
-msgstr ""
+msgstr "Ακρόαση"
 
 #: data/resources/window.ui:494
 msgid "Translate"
-msgstr ""
+msgstr "Μετάφραση"
 
 #: data/resources/window.ui:605
 msgid "Translating…"
-msgstr ""
+msgstr "Μεταφράζοντας…"
 
 #: data/resources/window.ui:613
 msgid "Could not translate the text"
-msgstr ""
+msgstr "Δεν ήταν δυνατή η μετάφραση του κειμένου"
 
 #: data/resources/window.ui:639
 msgid "Copy"
-msgstr ""
+msgstr "Αντιγραφή"
 
 #: data/resources/window.ui:820
 msgid "No network connection detected."
-msgstr ""
+msgstr "Δεν εντοπίστηκε σύνδεση δικτύου."
 
 #: dialect/preferences.py:251
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid "Not a valid {backend} instance"
-msgstr ""
+msgstr "Μη έγκυρη {backend} instance."
 
 #: dialect/window.py:234
+#, fuzzy
 msgid "A network issue has occured. Retry?"
-msgstr ""
+msgstr "Παρουσιάστηκε πρόβλημα δικτύου. Επανάληψη προσπάθειας?"
 
 #: dialect/window.py:238
 msgid ""
 "A network issue has occured.\n"
 "Please try again."
 msgstr ""
+"Παρουσιάστηκε πρόβλημα δικτύου.\n"
+"Δοκιμάστε ξανά."
 
 #: dialect/window.py:498 dialect/window.py:502
 msgid "Auto"
-msgstr ""
+msgstr "Αυτόματη"
 
 #: dialect/window.py:775
 msgid "5000 characters limit reached!"
-msgstr ""
+msgstr "Φτάσατε το όριο των 5000 χαρακτήρων!"
 
 #: dialect/window.py:877
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
 msgstr ""
+"Η μετάφραση απέτυχε.\n"
+"Ελέγξτε για προβλήματα δικτύου."
 
 #: dialect/window.py:893
 msgid "Did you mean: "
-msgstr ""
+msgstr "Μήπως εννοούσες: "
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
-msgstr ""
+msgstr "Αφρικάανς"
 
 #: dialect/translators/__init__.py:27
 msgid "Albanian"
-msgstr ""
+msgstr "Αλβανικά"
 
 #: dialect/translators/__init__.py:28
 msgid "Amharic"
-msgstr ""
+msgstr "Αμχαρικά"
 
 #: dialect/translators/__init__.py:29
 msgid "Arabic"
-msgstr ""
+msgstr "Αραβικά"
 
 #: dialect/translators/__init__.py:30
 msgid "Armenian"
-msgstr ""
+msgstr "Αρμενικά"
 
 #: dialect/translators/__init__.py:31
 msgid "Azerbaijani"
-msgstr ""
+msgstr "Αζερμπαϊτζανικά"
 
 #: dialect/translators/__init__.py:32
 msgid "Basque"
-msgstr ""
+msgstr "Βασκικά"
 
 #: dialect/translators/__init__.py:33
 msgid "Belarusian"
-msgstr ""
+msgstr "Λευκορωσικά"
 
 #: dialect/translators/__init__.py:34
 msgid "Bengali"
-msgstr ""
+msgstr "Βεγγαλική"
 
 #: dialect/translators/__init__.py:35
 msgid "Bosnian"
-msgstr ""
+msgstr "Βοσνιακά"
 
 #: dialect/translators/__init__.py:36
 msgid "Bulgarian"
-msgstr ""
+msgstr "Βουλγαρικά"
 
 #: dialect/translators/__init__.py:37
 msgid "Catalan"
-msgstr ""
+msgstr "Καταλανικά"
 
 #: dialect/translators/__init__.py:38
 msgid "Cebuano"
@@ -410,311 +424,311 @@ msgstr ""
 
 #: dialect/translators/__init__.py:39
 msgid "Chichewa"
-msgstr ""
+msgstr "Τσιτσέουα"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
-msgstr ""
+msgstr "Κινέζικα"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
-msgstr ""
+msgstr "Κινέζικα (Απλοποιημένα)"
 
 #: dialect/translators/__init__.py:42
 msgid "Chinese (Traditional)"
-msgstr ""
+msgstr "Κινέζικα (Παραδοσιακά)"
 
 #: dialect/translators/__init__.py:43
 msgid "Corsican"
-msgstr ""
+msgstr "Κορσικανικά"
 
 #: dialect/translators/__init__.py:44
 msgid "Croatian"
-msgstr ""
+msgstr "Κροατικά"
 
 #: dialect/translators/__init__.py:45
 msgid "Czech"
-msgstr ""
+msgstr "Τσεχικά"
 
 #: dialect/translators/__init__.py:46
 msgid "Danish"
-msgstr ""
+msgstr "Δανικά"
 
 #: dialect/translators/__init__.py:47
 msgid "Dutch"
-msgstr ""
+msgstr "Ολλανδικά"
 
 #: dialect/translators/__init__.py:48
 msgid "English"
-msgstr ""
+msgstr "Αγγλικά"
 
 #: dialect/translators/__init__.py:49
 msgid "Esperanto"
-msgstr ""
+msgstr "Εσπεράντο"
 
 #: dialect/translators/__init__.py:50
 msgid "Estonian"
-msgstr ""
+msgstr "Εσθονικά"
 
 #: dialect/translators/__init__.py:51
 msgid "Filipino"
-msgstr ""
+msgstr "Φιλιπινεζικά"
 
 #: dialect/translators/__init__.py:52
 msgid "Finnish"
-msgstr ""
+msgstr "Φιλανδικά"
 
 #: dialect/translators/__init__.py:53
 msgid "French"
-msgstr ""
+msgstr "Γαλλικά"
 
 #: dialect/translators/__init__.py:54
 msgid "Frisian"
-msgstr ""
+msgstr "Φριζιανά"
 
 #: dialect/translators/__init__.py:55
 msgid "Galician"
-msgstr ""
+msgstr "Γαλικιακά"
 
 #: dialect/translators/__init__.py:56
 msgid "Georgian"
-msgstr ""
+msgstr "Γεωργιανά"
 
 #: dialect/translators/__init__.py:57
 msgid "German"
-msgstr ""
+msgstr "Γερμανικά"
 
 #: dialect/translators/__init__.py:58
 msgid "Greek"
-msgstr ""
+msgstr "Ελληνικά"
 
 #: dialect/translators/__init__.py:59
 msgid "Gujarati"
-msgstr ""
+msgstr "Γκουτζαταρικά"
 
 #: dialect/translators/__init__.py:60
 msgid "Haitian Creole"
-msgstr ""
+msgstr "Κρεόλ Αϊτής"
 
 #: dialect/translators/__init__.py:61
 msgid "Hausa"
-msgstr ""
+msgstr "Χάουσα"
 
 #: dialect/translators/__init__.py:62
 msgid "Hawaiian"
-msgstr ""
+msgstr "Χαβαϊκά"
 
 #: dialect/translators/__init__.py:63 dialect/translators/__init__.py:64
 msgid "Hebrew"
-msgstr ""
+msgstr "Εβραϊκά"
 
 #: dialect/translators/__init__.py:65
 msgid "Hindi"
-msgstr ""
+msgstr "Χίντι"
 
 #: dialect/translators/__init__.py:66
 msgid "Hmong"
-msgstr ""
+msgstr "Χμονγκ"
 
 #: dialect/translators/__init__.py:67
 msgid "Hungarian"
-msgstr ""
+msgstr "Ουγγρικά"
 
 #: dialect/translators/__init__.py:68
 msgid "Icelandic"
-msgstr ""
+msgstr "Ισλανδικά"
 
 #: dialect/translators/__init__.py:69
 msgid "Igbo"
-msgstr ""
+msgstr "Ίγκμπο"
 
 #: dialect/translators/__init__.py:70
 msgid "Indonesian"
-msgstr ""
+msgstr "Ινδονησιακά"
 
 #: dialect/translators/__init__.py:71
 msgid "Irish"
-msgstr ""
+msgstr "Ιρλανδικά"
 
 #: dialect/translators/__init__.py:72
 msgid "Italian"
-msgstr ""
+msgstr "Ιταλικά"
 
 #: dialect/translators/__init__.py:73
 msgid "Japanese"
-msgstr ""
+msgstr "Ιαπωνικά"
 
 #: dialect/translators/__init__.py:74
 msgid "Javanese"
-msgstr ""
+msgstr "Ιαβαϊκά"
 
 #: dialect/translators/__init__.py:75
 msgid "Kannada"
-msgstr ""
+msgstr "Κανάντα"
 
 #: dialect/translators/__init__.py:76
 msgid "Kazakh"
-msgstr ""
+msgstr "Καζακστανικά"
 
 #: dialect/translators/__init__.py:77
 msgid "Khmer"
-msgstr ""
+msgstr "Χμερ"
 
 #: dialect/translators/__init__.py:78
 msgid "Kinyarwanda"
-msgstr ""
+msgstr "Κινιαρουάντα"
 
 #: dialect/translators/__init__.py:79
 msgid "Korean"
-msgstr ""
+msgstr "Κορεατικά"
 
 #: dialect/translators/__init__.py:80
 msgid "Kurdish (Kurmanji)"
-msgstr ""
+msgstr "Κουρδικά (Kurmanji)"
 
 #: dialect/translators/__init__.py:81
 msgid "Kyrgyz"
-msgstr ""
+msgstr "Κιργιζιανά"
 
 #: dialect/translators/__init__.py:82
 msgid "Lao"
-msgstr ""
+msgstr "Λάο"
 
 #: dialect/translators/__init__.py:83
 msgid "Latin"
-msgstr ""
+msgstr "Λατινικά"
 
 #: dialect/translators/__init__.py:84
 msgid "Latvian"
-msgstr ""
+msgstr "Λετονικά"
 
 #: dialect/translators/__init__.py:85
 msgid "Lithuanian"
-msgstr ""
+msgstr "Λιθουανικά"
 
 #: dialect/translators/__init__.py:86
 msgid "Luxembourgish"
-msgstr ""
+msgstr "Λουξεμβουργιανά"
 
 #: dialect/translators/__init__.py:87
 msgid "Macedonian"
-msgstr ""
+msgstr "Σλαβομακεδονικά"
 
 #: dialect/translators/__init__.py:88
 msgid "Malagasy"
-msgstr ""
+msgstr "Μαλαγάσι"
 
 #: dialect/translators/__init__.py:89
 msgid "Malay"
-msgstr ""
+msgstr "Μαλέι"
 
 #: dialect/translators/__init__.py:90
 msgid "Malayalam"
-msgstr ""
+msgstr "Μαλαγιάλαμ"
 
 #: dialect/translators/__init__.py:91
 msgid "Maltese"
-msgstr ""
+msgstr "Μαλτεζικά"
 
 #: dialect/translators/__init__.py:92
 msgid "Maori"
-msgstr ""
+msgstr "Μαορί"
 
 #: dialect/translators/__init__.py:93
 msgid "Marathi"
-msgstr ""
+msgstr "Μαραθικά"
 
 #: dialect/translators/__init__.py:94
 msgid "Mongolian"
-msgstr ""
+msgstr "Μογγολικά"
 
 #: dialect/translators/__init__.py:95
 msgid "Myanmar (Burmese)"
-msgstr ""
+msgstr "Βιρμανικά"
 
 #: dialect/translators/__init__.py:96
 msgid "Nepali"
-msgstr ""
+msgstr "Νεπαλικά"
 
 #: dialect/translators/__init__.py:97
 msgid "Norwegian"
-msgstr ""
+msgstr "Νορβηγικά"
 
 #: dialect/translators/__init__.py:98
 msgid "Odia (Oriya)"
-msgstr ""
+msgstr "Όντια (Ορίγια)"
 
 #: dialect/translators/__init__.py:99
 msgid "Pashto"
-msgstr ""
+msgstr "Πάστο"
 
 #: dialect/translators/__init__.py:100
 msgid "Persian"
-msgstr ""
+msgstr "Περσικά"
 
 #: dialect/translators/__init__.py:101
 msgid "Polish"
-msgstr ""
+msgstr "Πολωνικά"
 
 #: dialect/translators/__init__.py:102
 msgid "Portuguese"
-msgstr ""
+msgstr "Πορτογαλικά"
 
 #: dialect/translators/__init__.py:103
 msgid "Punjabi"
-msgstr ""
+msgstr "Παντζάμπι"
 
 #: dialect/translators/__init__.py:104
 msgid "Romanian"
-msgstr ""
+msgstr "Ρουμανικά"
 
 #: dialect/translators/__init__.py:105
 msgid "Russian"
-msgstr ""
+msgstr "Ρωσικά"
 
 #: dialect/translators/__init__.py:106
 msgid "Samoan"
-msgstr ""
+msgstr "Σαμοανικά"
 
 #: dialect/translators/__init__.py:107
 msgid "Scots Gaelic"
-msgstr ""
+msgstr "Γαελικά Σκοτίας"
 
 #: dialect/translators/__init__.py:108
 msgid "Serbian"
-msgstr ""
+msgstr "Σερβικά"
 
 #: dialect/translators/__init__.py:109
 msgid "Sesotho"
-msgstr ""
+msgstr "Σεσότο"
 
 #: dialect/translators/__init__.py:110
 msgid "Shona"
-msgstr ""
+msgstr "Σόνα"
 
 #: dialect/translators/__init__.py:111
 msgid "Sindhi"
-msgstr ""
+msgstr "Σίντι"
 
 #: dialect/translators/__init__.py:112
 msgid "Sinhala"
-msgstr ""
+msgstr "Σινχάλα"
 
 #: dialect/translators/__init__.py:113
 msgid "Slovak"
-msgstr ""
+msgstr "Σλοβακικά"
 
 #: dialect/translators/__init__.py:114
 msgid "Slovenian"
-msgstr ""
+msgstr "Σλοβενικά"
 
 #: dialect/translators/__init__.py:115
 msgid "Somali"
-msgstr ""
+msgstr "Σομαλικά"
 
 #: dialect/translators/__init__.py:116
 msgid "Spanish"
-msgstr ""
+msgstr "Ισπανικά"
 
 #: dialect/translators/__init__.py:117
 msgid "Sundanese"
@@ -722,76 +736,76 @@ msgstr ""
 
 #: dialect/translators/__init__.py:118
 msgid "Swahili"
-msgstr ""
+msgstr "Σουαχίλι"
 
 #: dialect/translators/__init__.py:119
 msgid "Swedish"
-msgstr ""
+msgstr "Σουηδικά"
 
 #: dialect/translators/__init__.py:120
 msgid "Tajik"
-msgstr ""
+msgstr "Ταζικιστανικά"
 
 #: dialect/translators/__init__.py:121
 msgid "Tamil"
-msgstr ""
+msgstr "Ταμίλ"
 
 #: dialect/translators/__init__.py:122
 msgid "Tatar"
-msgstr ""
+msgstr "Ταταρικά"
 
 #: dialect/translators/__init__.py:123
 msgid "Telugu"
-msgstr ""
+msgstr "Τελούγκου"
 
 #: dialect/translators/__init__.py:124
 msgid "Thai"
-msgstr ""
+msgstr "Ταϊλανδεζικά"
 
 #: dialect/translators/__init__.py:125
 msgid "Turkish"
-msgstr ""
+msgstr "Τούρκικα"
 
 #: dialect/translators/__init__.py:126
 msgid "Turkmen"
-msgstr ""
+msgstr "τουρκμενικά"
 
 #: dialect/translators/__init__.py:127
 msgid "Ukrainian"
-msgstr ""
+msgstr "Ουκρανικά"
 
 #: dialect/translators/__init__.py:128
 msgid "Urdu"
-msgstr ""
+msgstr "Ουρντού"
 
 #: dialect/translators/__init__.py:129
 msgid "Uyghur"
-msgstr ""
+msgstr "Ουιγούρ"
 
 #: dialect/translators/__init__.py:130
 msgid "Uzbek"
-msgstr ""
+msgstr "Ουζμπεκικά"
 
 #: dialect/translators/__init__.py:131
 msgid "Vietnamese"
-msgstr ""
+msgstr "Βιετναμεζικά"
 
 #: dialect/translators/__init__.py:132
 msgid "Welsh"
-msgstr ""
+msgstr "Ουαλικά"
 
 #: dialect/translators/__init__.py:133
 msgid "Xhosa"
-msgstr ""
+msgstr "Ζόσα"
 
 #: dialect/translators/__init__.py:134
 msgid "Yiddish"
-msgstr ""
+msgstr "Γίντις"
 
 #: dialect/translators/__init__.py:135
 msgid "Yoruba"
-msgstr ""
+msgstr "Γιορούμπα"
 
 #: dialect/translators/__init__.py:136
 msgid "Zulu"
-msgstr ""
+msgstr "Ζουλού"
