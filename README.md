@@ -23,6 +23,7 @@ hr             | Croatian             | @milotype
 hu             | Hungarian            | @meskobalazs
 id             | Indonesian           | @cho2
 it             | Italian              | @albanobattistella
+ka             | Georgian             | @TheOPtimal
 kmr            | Kurdish (Northern)   | Roniyê Bekrî
 ko             | Korean               | @darkcircle
 nb_NO          | Norwegian Bokmål     | Allan Nordhøy
