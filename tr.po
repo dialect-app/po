@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
 "POT-Creation-Date: 2021-10-16 23:00+0530\n"
-"PO-Revision-Date: 2021-12-10 18:33+0000\n"
+"PO-Revision-Date: 2021-12-11 18:53+0000\n"
 "Last-Translator: Ömer Faruk Çakmak <omerfarukckmk@protonmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/dialect/dialect/"
 "tr/>\n"
@@ -423,7 +423,7 @@ msgstr "Sebuanoca"
 
 #: dialect/translators/__init__.py:39
 msgid "Chichewa"
-msgstr "Nyanja"
+msgstr "Çiçevaca"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
@@ -435,7 +435,7 @@ msgstr "Çince (Basitleştirilmiş)"
 
 #: dialect/translators/__init__.py:42
 msgid "Chinese (Traditional)"
-msgstr "Geleneksel Çince"
+msgstr "Çince (Geleneksel)"
 
 #: dialect/translators/__init__.py:43
 msgid "Corsican"
@@ -511,11 +511,11 @@ msgstr "Haiti Kreyolu"
 
 #: dialect/translators/__init__.py:61
 msgid "Hausa"
-msgstr "Hausa dili"
+msgstr "Hausaca"
 
 #: dialect/translators/__init__.py:62
 msgid "Hawaiian"
-msgstr "Hawaii dili"
+msgstr "Havai'ice"
 
 #: dialect/translators/__init__.py:63 dialect/translators/__init__.py:64
 msgid "Hebrew"
@@ -527,7 +527,7 @@ msgstr "Hintçe"
 
 #: dialect/translators/__init__.py:66
 msgid "Hmong"
-msgstr "Hmong"
+msgstr "Hmongca"
 
 #: dialect/translators/__init__.py:67
 msgid "Hungarian"
@@ -559,11 +559,11 @@ msgstr "Japonca"
 
 #: dialect/translators/__init__.py:74
 msgid "Javanese"
-msgstr "Cava Dili"
+msgstr "Cavaca"
 
 #: dialect/translators/__init__.py:75
 msgid "Kannada"
-msgstr "Kannada dili"
+msgstr "Kannadaca"
 
 #: dialect/translators/__init__.py:76
 msgid "Kazakh"
@@ -583,7 +583,7 @@ msgstr "Korece"
 
 #: dialect/translators/__init__.py:80
 msgid "Kurdish (Kurmanji)"
-msgstr "Kürtçe"
+msgstr "Kürtçe (Kurmançça)"
 
 #: dialect/translators/__init__.py:81
 msgid "Kyrgyz"
@@ -591,7 +591,7 @@ msgstr "Kırgızca"
 
 #: dialect/translators/__init__.py:82
 msgid "Lao"
-msgstr "Lao dili"
+msgstr "Laoca"
 
 #: dialect/translators/__init__.py:83
 msgid "Latin"
@@ -623,7 +623,7 @@ msgstr "Malayca"
 
 #: dialect/translators/__init__.py:90
 msgid "Malayalam"
-msgstr "Malayalam dili"
+msgstr "Malayalamca"
 
 #: dialect/translators/__init__.py:91
 msgid "Maltese"
@@ -631,11 +631,11 @@ msgstr "Maltaca"
 
 #: dialect/translators/__init__.py:92
 msgid "Maori"
-msgstr "Maori dili"
+msgstr "Maorice"
 
 #: dialect/translators/__init__.py:93
 msgid "Marathi"
-msgstr "Marathi dili"
+msgstr "Maratice"
 
 #: dialect/translators/__init__.py:94
 msgid "Mongolian"
@@ -643,7 +643,7 @@ msgstr "Moğolca"
 
 #: dialect/translators/__init__.py:95
 msgid "Myanmar (Burmese)"
-msgstr "Birman dili"
+msgstr "Birmanca"
 
 #: dialect/translators/__init__.py:96
 msgid "Nepali"
@@ -655,7 +655,7 @@ msgstr "Norveççe"
 
 #: dialect/translators/__init__.py:98
 msgid "Odia (Oriya)"
-msgstr "Oriya dili"
+msgstr "Oriyaca"
 
 #: dialect/translators/__init__.py:99
 msgid "Pashto"
@@ -703,11 +703,11 @@ msgstr "Güney Sotho dili"
 
 #: dialect/translators/__init__.py:110
 msgid "Shona"
-msgstr "Şona dili"
+msgstr "Şonaca"
 
 #: dialect/translators/__init__.py:111
 msgid "Sindhi"
-msgstr "Sindhi dili"
+msgstr "Sindce"
 
 #: dialect/translators/__init__.py:112
 msgid "Sinhala"
@@ -731,11 +731,11 @@ msgstr "İspanyolca"
 
 #: dialect/translators/__init__.py:117
 msgid "Sundanese"
-msgstr "Sunda dili"
+msgstr "Sundaca"
 
 #: dialect/translators/__init__.py:118
 msgid "Swahili"
-msgstr "Svahili dili"
+msgstr "Svahilice"
 
 #: dialect/translators/__init__.py:119
 msgid "Swedish"
@@ -755,7 +755,7 @@ msgstr "Tatarca"
 
 #: dialect/translators/__init__.py:123
 msgid "Telugu"
-msgstr "Telugu dili"
+msgstr "Teluguca"
 
 #: dialect/translators/__init__.py:124
 msgid "Thai"
