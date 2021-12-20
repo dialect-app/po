@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
 "POT-Creation-Date: 2021-10-16 23:00+0530\n"
-"PO-Revision-Date: 2021-09-20 22:36+0000\n"
-"Last-Translator: Omar TS <omats@vivaldi.net>\n"
+"PO-Revision-Date: 2021-12-20 15:51+0000\n"
+"Last-Translator: Ayza <ayza69420@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/dialect/dialect/"
 "ar/>\n"
 "Language: ar\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.10\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
@@ -240,130 +240,134 @@ msgstr "استمع إلى الترجمة"
 #: data/resources/shortcuts-window.ui:74
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "التنقل"
 
 #: data/resources/shortcuts-window.ui:78
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "الرجوع بالتاريخ"
 
 #: data/resources/shortcuts-window.ui:85
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr ""
+msgstr "المضي بالتاريخ"
 
 #: data/resources/shortcuts-window.ui:94
 msgctxt "shortcuts window"
 msgid "General"
-msgstr ""
+msgstr "عام"
 
 #: data/resources/shortcuts-window.ui:98
 msgctxt "shortcuts window"
 msgid "Preferences"
-msgstr ""
+msgstr "تفضيلات"
 
 #: data/resources/shortcuts-window.ui:105
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr ""
+msgstr "اختصارات"
 
 #: data/resources/shortcuts-window.ui:112
 msgctxt "shortcuts window"
 msgid "Quit"
-msgstr ""
+msgstr "خروج"
 
 #: data/resources/window.ui:42
 msgid "Loading…"
-msgstr ""
+msgstr "جاري التحميل…"
 
 #: data/resources/window.ui:83
 msgid "Could not load the translator service"
-msgstr ""
+msgstr "لا يمكن تحميل خدمة الترجمة"
 
 #: data/resources/window.ui:108
 msgid "Retry"
-msgstr ""
+msgstr "أعد المحاولة"
 
 #: data/resources/window.ui:115
 msgid "Open preferences"
-msgstr ""
+msgstr "فتح التفضيلات"
 
 #: data/resources/window.ui:194 data/resources/window.ui:728
 msgid "Switch languages"
-msgstr ""
+msgstr "تغيير اللغة"
 
 #: data/resources/window.ui:274
 msgid "Previous translation"
-msgstr ""
+msgstr "ترجمة سابقة"
 
 #: data/resources/window.ui:293
 msgid "Next translation"
-msgstr ""
+msgstr "ترجمة لاحقة"
 
 #: data/resources/window.ui:454
 msgid "Clear"
-msgstr ""
+msgstr "مسح"
 
 #: data/resources/window.ui:470
 msgid "Paste"
-msgstr ""
+msgstr "لصق"
 
 #: data/resources/window.ui:486 data/resources/window.ui:624
 msgid "Listen"
-msgstr ""
+msgstr "استماع"
 
 #: data/resources/window.ui:494
 msgid "Translate"
-msgstr ""
+msgstr "ترجم"
 
 #: data/resources/window.ui:605
 msgid "Translating…"
-msgstr ""
+msgstr "جاري الترجمة…"
 
 #: data/resources/window.ui:613
 msgid "Could not translate the text"
-msgstr ""
+msgstr "لا يمكن ترجمة النص"
 
 #: data/resources/window.ui:639
 msgid "Copy"
-msgstr ""
+msgstr "نسخ"
 
 #: data/resources/window.ui:820
 msgid "No network connection detected."
-msgstr ""
+msgstr "لا يوجد اتصال بالشبكة."
 
 #: dialect/preferences.py:251
 #, python-brace-format
 msgid "Not a valid {backend} instance"
-msgstr ""
+msgstr "مثيل {backend} غير صالح"
 
 #: dialect/window.py:234
 msgid "A network issue has occured. Retry?"
-msgstr ""
+msgstr "حدثت مشكلة في الشبكة. أعد المحاولة؟"
 
 #: dialect/window.py:238
 msgid ""
 "A network issue has occured.\n"
 "Please try again."
 msgstr ""
+"حدثت مشكلة في الشبكة.\n"
+"يرجة اعادة المحاولة."
 
 #: dialect/window.py:498 dialect/window.py:502
 msgid "Auto"
-msgstr ""
+msgstr "تلقائي"
 
 #: dialect/window.py:775
 msgid "5000 characters limit reached!"
-msgstr ""
+msgstr "لا يمكن كتابة اكثر من 5000 حرف!"
 
 #: dialect/window.py:877
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
 msgstr ""
+"فشلت عملية الترجمة.\n"
+"يرجى التأكد من مشاكل الشبكة."
 
 #: dialect/window.py:893
 msgid "Did you mean: "
-msgstr ""
+msgstr "هل كنت تقصد: "
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
@@ -467,7 +471,7 @@ msgstr "الإستونية"
 
 #: dialect/translators/__init__.py:51
 msgid "Filipino"
-msgstr "التاغالوغية"
+msgstr "الفلبينية"
 
 #: dialect/translators/__init__.py:52
 msgid "Finnish"
@@ -555,7 +559,7 @@ msgstr "اليابانية"
 
 #: dialect/translators/__init__.py:74
 msgid "Javanese"
-msgstr ""
+msgstr "الجاوية"
 
 #: dialect/translators/__init__.py:75
 msgid "Kannada"
