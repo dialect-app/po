@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
 "POT-Creation-Date: 2021-10-16 23:00+0530\n"
-"PO-Revision-Date: 2021-12-13 21:51+0000\n"
+"PO-Revision-Date: 2021-12-23 11:50+0000\n"
 "Last-Translator: Gabriel Gian <gabrielgian@live.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "dialect/dialect/pt_BR/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.10-dev\n"
+"X-Generator: Weblate 4.10.1\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
@@ -87,7 +87,9 @@ msgstr "Página do GitHub"
 #. Replace me with your names.
 #: data/resources/about.ui:19
 msgid "translator-credits"
-msgstr "Gustavo Costa <xfgusta@gmail.com>"
+msgstr ""
+"Gustavo Costa <xfgusta@gmail.com>\n"
+"Gabriel Gian <gabrielgian@protonmail.com>"
 
 #: data/resources/menu.ui:7
 msgid "Show Pronunciation"
