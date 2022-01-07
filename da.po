@@ -8,173 +8,178 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
 "POT-Creation-Date: 2021-10-16 23:00+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-01-07 01:54+0000\n"
+"Last-Translator: Abdul Kikar <oklomsy2@gmail.com>\n"
+"Language-Team: Danish <https://hosted.weblate.org/projects/dialect/dialect/"
+"da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.10.1\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/about.ui:10
 #: data/resources/window.ui:66 dialect/main.py:56 dialect/main.py:93
 msgid "Dialect"
-msgstr ""
+msgstr "Dialect"
 
 #: data/com.github.gi_lom.dialect.desktop.in:9
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:7
 msgid "Translate between languages"
-msgstr ""
+msgstr "Oversæt imellem sprog"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/com.github.gi_lom.dialect.desktop.in:13
 msgid "translate;translation;"
-msgstr ""
+msgstr "oversæt;oversættelse;"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:9 data/resources/about.ui:12
 msgid "A translation app for GNOME."
-msgstr ""
+msgstr "En oversættelse app for GNOME."
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:12
 msgid "Features:"
-msgstr ""
+msgstr "Funktioner:"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:16
 msgid "Translation based on an unofficial API for Google Translate"
-msgstr ""
+msgstr "Oversættelse baseret på et uofficielt API for Google Oversæt"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:17
 msgid ""
 "Translation based on the LibreTranslate API, allowing you use any instance "
 "available online"
 msgstr ""
+"Oversættelse baseret på LibreTranslate API som tillader dig at bruge enhver "
+"instans online"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:18
 msgid "Text to speech"
-msgstr ""
+msgstr "Tekst til tale"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:19
 msgid "Translation history"
-msgstr ""
+msgstr "Oversættelse historie"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:20
 msgid "Automatic language detection"
-msgstr ""
+msgstr "Automatisk sprog opdagelse"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:21
 msgid "Clipboard buttons"
-msgstr ""
+msgstr "Udklipsholder knapper"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:27
 msgid "The Dialect Authors"
-msgstr ""
+msgstr "Dialect forfattere"
 
 #: data/resources/about.ui:11
 msgid "Copyright 2020–⁠2021 The Dialect Authors"
-msgstr ""
+msgstr "Ophavsret 2020-2021 Dialect Forfattere"
 
 #: data/resources/about.ui:14
 msgid "GitHub page"
-msgstr ""
+msgstr "GitHub side"
 
 #. Replace me with your names.
 #: data/resources/about.ui:19
 msgid "translator-credits"
-msgstr ""
+msgstr "Abdul Karim Kikar"
 
 #: data/resources/menu.ui:7
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "Vis udtale"
 
 #: data/resources/menu.ui:14
 msgid "Preferences"
-msgstr ""
+msgstr "Præferencer"
 
 #: data/resources/menu.ui:18
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Tastatur Genveje"
 
 #: data/resources/menu.ui:22
 msgid "About Dialect"
-msgstr ""
+msgstr "Om Dialect"
 
 #: data/resources/preferences.ui:15
 msgid "Appearance"
-msgstr ""
+msgstr "Udseende"
 
 #: data/resources/preferences.ui:19
 msgid "Dark Mode"
-msgstr ""
+msgstr "Mørk Mode"
 
 #: data/resources/preferences.ui:35
 msgid "Behavior"
-msgstr ""
+msgstr "Opførsel"
 
 #: data/resources/preferences.ui:39
 msgid "Live Translation"
-msgstr ""
+msgstr "Live Oversættelse"
 
 #: data/resources/preferences.ui:40
 msgid "Warning: Your IP address may get banned for API abuse."
-msgstr ""
+msgstr "Advarsel: Dit IP adresse kan måske blive forbudt for API misbrug."
 
 #: data/resources/preferences.ui:54
 msgid "Translation Shortcut"
-msgstr ""
+msgstr "Oversættelse Genveje"
 
 #: data/resources/preferences.ui:55
 msgid "The unselected choice will be used for line break."
-msgstr ""
+msgstr "Den ikke-selekterede valg vil blive brugt for linje afbrydelse."
 
 #: data/resources/preferences.ui:61
 msgid "Default to Auto"
-msgstr ""
+msgstr "Default til Auto"
 
 #: data/resources/preferences.ui:62
 msgid "Use \"Auto\" as the default language"
-msgstr ""
+msgstr "Brug \"Auto\" som standard sprog"
 
 #: data/resources/preferences.ui:76
 msgid "Translator"
-msgstr ""
+msgstr "Oversættere"
 
 #: data/resources/preferences.ui:77
 msgid "Choose from the available translation services."
-msgstr ""
+msgstr "Vælge fra de tilgængelige oversættelse tjenester."
 
 #: data/resources/preferences.ui:83
 msgid "Translator Instance"
-msgstr ""
+msgstr "Oversættelse Instans"
 
 #: data/resources/preferences.ui:84
 msgid "Enter a translation service URL."
-msgstr ""
+msgstr "Indtast et oversættelse tjeneste URL."
 
 #: data/resources/preferences.ui:109
 msgid "Edit"
-msgstr ""
+msgstr "Redigere"
 
 #: data/resources/preferences.ui:143
 msgid "Reset to default"
-msgstr ""
+msgstr "Nulstil til standard"
 
 #: data/resources/preferences.ui:158
 msgid "Save"
-msgstr ""
+msgstr "Gemme"
 
 #: data/resources/preferences.ui:175
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Text-til-tale"
 
 #: data/resources/preferences.ui:176
 msgid "Use Google for TTS."
-msgstr ""
+msgstr "Brug Google for Text-til-tale."
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
-msgstr ""
+msgstr "Søge Udbyder"
 
 #: data/resources/preferences.ui:193
 msgid ""
@@ -182,227 +187,234 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
+"Til at reducere API misbrug, GNOME søge udbyder I Dialect er slukket når "
+"Live Oversættelse er tændt. Være sikker på at søge udbyderen er også tændt I "
+"GNOME indstillinger."
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
 msgid "Translator"
-msgstr ""
+msgstr "Oversættere"
 
 #: data/resources/shortcuts-window.ui:17
 msgctxt "shortcuts window"
 msgid "Translate"
-msgstr ""
+msgstr "Oversæt"
 
 #: data/resources/shortcuts-window.ui:24
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr ""
+msgstr "Skift Sprog"
 
 #: data/resources/shortcuts-window.ui:31
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "Ryd kilde tekst"
 
 #: data/resources/shortcuts-window.ui:38
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr ""
+msgstr "Kopi oversættelse"
 
 #: data/resources/shortcuts-window.ui:45
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "Vis Udtale"
 
 #: data/resources/shortcuts-window.ui:54
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Tekst-til-Tale"
 
 #: data/resources/shortcuts-window.ui:58
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "Lyt til kilde tekst"
 
 #: data/resources/shortcuts-window.ui:65
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr ""
+msgstr "Lyt til oversættelse"
 
 #: data/resources/shortcuts-window.ui:74
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "Navigation"
 
 #: data/resources/shortcuts-window.ui:78
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "Gå tilbage I historie"
 
 #: data/resources/shortcuts-window.ui:85
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr ""
+msgstr "Gå frem I historie"
 
 #: data/resources/shortcuts-window.ui:94
 msgctxt "shortcuts window"
 msgid "General"
-msgstr ""
+msgstr "Generelt"
 
 #: data/resources/shortcuts-window.ui:98
 msgctxt "shortcuts window"
 msgid "Preferences"
-msgstr ""
+msgstr "Præferencer"
 
 #: data/resources/shortcuts-window.ui:105
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr ""
+msgstr "Genveje"
 
 #: data/resources/shortcuts-window.ui:112
 msgctxt "shortcuts window"
 msgid "Quit"
-msgstr ""
+msgstr "Afslut"
 
 #: data/resources/window.ui:42
 msgid "Loading…"
-msgstr ""
+msgstr "Indlæser…"
 
 #: data/resources/window.ui:83
 msgid "Could not load the translator service"
-msgstr ""
+msgstr "Kan ikke indlæse oversættelse tjeneste"
 
 #: data/resources/window.ui:108
 msgid "Retry"
-msgstr ""
+msgstr "Prøve igen"
 
 #: data/resources/window.ui:115
 msgid "Open preferences"
-msgstr ""
+msgstr "Åben Præferencer"
 
 #: data/resources/window.ui:194 data/resources/window.ui:728
 msgid "Switch languages"
-msgstr ""
+msgstr "Skift sprog"
 
 #: data/resources/window.ui:274
 msgid "Previous translation"
-msgstr ""
+msgstr "Tidligere oversættelse"
 
 #: data/resources/window.ui:293
 msgid "Next translation"
-msgstr ""
+msgstr "Næste oversættelse"
 
 #: data/resources/window.ui:454
 msgid "Clear"
-msgstr ""
+msgstr "Ryd"
 
 #: data/resources/window.ui:470
 msgid "Paste"
-msgstr ""
+msgstr "Sæt ind"
 
 #: data/resources/window.ui:486 data/resources/window.ui:624
 msgid "Listen"
-msgstr ""
+msgstr "Lyt"
 
 #: data/resources/window.ui:494
 msgid "Translate"
-msgstr ""
+msgstr "Oversæt"
 
 #: data/resources/window.ui:605
 msgid "Translating…"
-msgstr ""
+msgstr "Oversættere…"
 
 #: data/resources/window.ui:613
 msgid "Could not translate the text"
-msgstr ""
+msgstr "Kan ikke oversæt teksten"
 
 #: data/resources/window.ui:639
 msgid "Copy"
-msgstr ""
+msgstr "Kopi"
 
 #: data/resources/window.ui:820
 msgid "No network connection detected."
-msgstr ""
+msgstr "Ingen netværksforbindelse blev fundet."
 
 #: dialect/preferences.py:251
 #, python-brace-format
 msgid "Not a valid {backend} instance"
-msgstr ""
+msgstr "Ikke et gyldig {backend} instans"
 
 #: dialect/window.py:234
 msgid "A network issue has occured. Retry?"
-msgstr ""
+msgstr "Et netværksproblem har opstået. Prøv igen?"
 
 #: dialect/window.py:238
 msgid ""
 "A network issue has occured.\n"
 "Please try again."
 msgstr ""
+"Et netværksproblem har opstået\n"
+"Vær sød at prøve igen."
 
 #: dialect/window.py:498 dialect/window.py:502
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 #: dialect/window.py:775
 msgid "5000 characters limit reached!"
-msgstr ""
+msgstr "5000 bogstaver grænse nået!"
 
 #: dialect/window.py:877
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
 msgstr ""
+"Oversættelse mislykkedes.\n"
+"Være sød at tjekke for problemer med netværket."
 
 #: dialect/window.py:893
 msgid "Did you mean: "
-msgstr ""
+msgstr "Mente du: "
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
-msgstr ""
+msgstr "Afrikaans"
 
 #: dialect/translators/__init__.py:27
 msgid "Albanian"
-msgstr ""
+msgstr "Albansk"
 
 #: dialect/translators/__init__.py:28
 msgid "Amharic"
-msgstr ""
+msgstr "Amharisk"
 
 #: dialect/translators/__init__.py:29
 msgid "Arabic"
-msgstr ""
+msgstr "Arabisk"
 
 #: dialect/translators/__init__.py:30
 msgid "Armenian"
-msgstr ""
+msgstr "Armensk"
 
 #: dialect/translators/__init__.py:31
 msgid "Azerbaijani"
-msgstr ""
+msgstr "Aserbajdsjansk"
 
 #: dialect/translators/__init__.py:32
 msgid "Basque"
-msgstr ""
+msgstr "Baskisk"
 
 #: dialect/translators/__init__.py:33
 msgid "Belarusian"
-msgstr ""
+msgstr "Hviderussisk"
 
 #: dialect/translators/__init__.py:34
 msgid "Bengali"
-msgstr ""
+msgstr "Bengali"
 
 #: dialect/translators/__init__.py:35
 msgid "Bosnian"
-msgstr ""
+msgstr "Bosnisk"
 
 #: dialect/translators/__init__.py:36
 msgid "Bulgarian"
-msgstr ""
+msgstr "Bulgarsk"
 
 #: dialect/translators/__init__.py:37
 msgid "Catalan"
-msgstr ""
+msgstr "Catalansk"
 
 #: dialect/translators/__init__.py:38
 msgid "Cebuano"
@@ -414,15 +426,15 @@ msgstr ""
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
-msgstr ""
+msgstr "Kinesisk"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
-msgstr ""
+msgstr "Kinesisk (Forenklet)"
 
 #: dialect/translators/__init__.py:42
 msgid "Chinese (Traditional)"
-msgstr ""
+msgstr "Kinesisk (Traditionelt)"
 
 #: dialect/translators/__init__.py:43
 msgid "Corsican"
@@ -430,7 +442,7 @@ msgstr ""
 
 #: dialect/translators/__init__.py:44
 msgid "Croatian"
-msgstr ""
+msgstr "Kroatisk"
 
 #: dialect/translators/__init__.py:45
 msgid "Czech"
@@ -438,15 +450,15 @@ msgstr ""
 
 #: dialect/translators/__init__.py:46
 msgid "Danish"
-msgstr ""
+msgstr "Dansk"
 
 #: dialect/translators/__init__.py:47
 msgid "Dutch"
-msgstr ""
+msgstr "Hollandsk"
 
 #: dialect/translators/__init__.py:48
 msgid "English"
-msgstr ""
+msgstr "Engelsk"
 
 #: dialect/translators/__init__.py:49
 msgid "Esperanto"
@@ -454,7 +466,7 @@ msgstr ""
 
 #: dialect/translators/__init__.py:50
 msgid "Estonian"
-msgstr ""
+msgstr "Estisk"
 
 #: dialect/translators/__init__.py:51
 msgid "Filipino"
@@ -462,11 +474,11 @@ msgstr ""
 
 #: dialect/translators/__init__.py:52
 msgid "Finnish"
-msgstr ""
+msgstr "Finsk"
 
 #: dialect/translators/__init__.py:53
 msgid "French"
-msgstr ""
+msgstr "Fransk"
 
 #: dialect/translators/__init__.py:54
 msgid "Frisian"
@@ -482,11 +494,11 @@ msgstr ""
 
 #: dialect/translators/__init__.py:57
 msgid "German"
-msgstr ""
+msgstr "Tysk"
 
 #: dialect/translators/__init__.py:58
 msgid "Greek"
-msgstr ""
+msgstr "Græsk"
 
 #: dialect/translators/__init__.py:59
 msgid "Gujarati"
@@ -518,11 +530,11 @@ msgstr ""
 
 #: dialect/translators/__init__.py:67
 msgid "Hungarian"
-msgstr ""
+msgstr "Ungarsk"
 
 #: dialect/translators/__init__.py:68
 msgid "Icelandic"
-msgstr ""
+msgstr "Islandsk"
 
 #: dialect/translators/__init__.py:69
 msgid "Igbo"
@@ -538,11 +550,11 @@ msgstr ""
 
 #: dialect/translators/__init__.py:72
 msgid "Italian"
-msgstr ""
+msgstr "Italiensk"
 
 #: dialect/translators/__init__.py:73
 msgid "Japanese"
-msgstr ""
+msgstr "Japansk"
 
 #: dialect/translators/__init__.py:74
 msgid "Javanese"
@@ -566,7 +578,7 @@ msgstr ""
 
 #: dialect/translators/__init__.py:79
 msgid "Korean"
-msgstr ""
+msgstr "Koreansk"
 
 #: dialect/translators/__init__.py:80
 msgid "Kurdish (Kurmanji)"
@@ -582,7 +594,7 @@ msgstr ""
 
 #: dialect/translators/__init__.py:83
 msgid "Latin"
-msgstr ""
+msgstr "Latinsk"
 
 #: dialect/translators/__init__.py:84
 msgid "Latvian"
@@ -638,7 +650,7 @@ msgstr ""
 
 #: dialect/translators/__init__.py:97
 msgid "Norwegian"
-msgstr ""
+msgstr "Norsk"
 
 #: dialect/translators/__init__.py:98
 msgid "Odia (Oriya)"
@@ -654,7 +666,7 @@ msgstr ""
 
 #: dialect/translators/__init__.py:101
 msgid "Polish"
-msgstr ""
+msgstr "Polsk"
 
 #: dialect/translators/__init__.py:102
 msgid "Portuguese"
@@ -670,7 +682,7 @@ msgstr ""
 
 #: dialect/translators/__init__.py:105
 msgid "Russian"
-msgstr ""
+msgstr "Russisk"
 
 #: dialect/translators/__init__.py:106
 msgid "Samoan"
@@ -714,7 +726,7 @@ msgstr ""
 
 #: dialect/translators/__init__.py:116
 msgid "Spanish"
-msgstr ""
+msgstr "Spansk"
 
 #: dialect/translators/__init__.py:117
 msgid "Sundanese"
@@ -726,7 +738,7 @@ msgstr ""
 
 #: dialect/translators/__init__.py:119
 msgid "Swedish"
-msgstr ""
+msgstr "Svensk"
 
 #: dialect/translators/__init__.py:120
 msgid "Tajik"
@@ -750,7 +762,7 @@ msgstr ""
 
 #: dialect/translators/__init__.py:125
 msgid "Turkish"
-msgstr ""
+msgstr "Tyrkisk"
 
 #: dialect/translators/__init__.py:126
 msgid "Turkmen"
@@ -758,7 +770,7 @@ msgstr ""
 
 #: dialect/translators/__init__.py:127
 msgid "Ukrainian"
-msgstr ""
+msgstr "Ukrainsk"
 
 #: dialect/translators/__init__.py:128
 msgid "Urdu"
@@ -774,7 +786,7 @@ msgstr ""
 
 #: dialect/translators/__init__.py:131
 msgid "Vietnamese"
-msgstr ""
+msgstr "Vietnamesisk"
 
 #: dialect/translators/__init__.py:132
 msgid "Welsh"
