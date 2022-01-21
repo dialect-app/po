@@ -1,6 +1,6 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the dialect package.
-# Bedirhan Tuhana GAYRETLİ <noteqnil@gmail.com>, 2021
+# Tuhana GAYRETLİ <tuhana@tuta.io>, 2021
 #
 msgid ""
 msgstr ""
@@ -87,7 +87,7 @@ msgstr "GitHub sayfası"
 #: data/resources/about.ui:19
 msgid "translator-credits"
 msgstr ""
-"Bedirhan Tuhana GAYRETLİ <noteqnil@gmail.com>\n"
+"Tuhana GAYRETLİ <tuhana@tuta.io>\n"
 "Oğuz Ersen"
 
 #: data/resources/menu.ui:7
