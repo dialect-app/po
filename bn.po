@@ -8,173 +8,178 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
 "POT-Creation-Date: 2021-10-16 23:00+0530\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-01-25 05:53+0000\n"
+"Last-Translator: Saptarshi Mondal <saptarshistudying@gmail.com>\n"
+"Language-Team: Bengali <https://hosted.weblate.org/projects/dialect/dialect/"
+"bn/>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 4.11-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/about.ui:10
 #: data/resources/window.ui:66 dialect/main.py:56 dialect/main.py:93
 msgid "Dialect"
-msgstr ""
+msgstr "ডায়ালেক্ট"
 
 #: data/com.github.gi_lom.dialect.desktop.in:9
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:7
 msgid "Translate between languages"
-msgstr ""
+msgstr "বিভিন্ন ভাষায় অনুবাদ করুন"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/com.github.gi_lom.dialect.desktop.in:13
 msgid "translate;translation;"
-msgstr ""
+msgstr "অনুবাদ করুন;অনুবাদ;"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:9 data/resources/about.ui:12
 msgid "A translation app for GNOME."
-msgstr ""
+msgstr "জিনোমের জন্য একটি অনুবাদক অ্যাপ।"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:12
 msgid "Features:"
-msgstr ""
+msgstr "বৈশিষ্ট্য:"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:16
 msgid "Translation based on an unofficial API for Google Translate"
-msgstr ""
+msgstr "আনঅফিসিয়াল গুগল ট্রান্সলেট API এর উপর অনুবাদ আধারিত"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:17
 msgid ""
 "Translation based on the LibreTranslate API, allowing you use any instance "
 "available online"
 msgstr ""
+"লিব্রেট্রান্সলেট API এর উপর অনুবাদ আধারিত, অনলাইনে উপলব্ধ যেকোনো ইনস্ট্যান্স "
+"ব্যবহার করার অনুমতি দেয়"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:18
 msgid "Text to speech"
-msgstr ""
+msgstr "লেখা থেকে কথায়"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:19
 msgid "Translation history"
-msgstr ""
+msgstr "অনুবাদের ইতিহাস"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:20
 msgid "Automatic language detection"
-msgstr ""
+msgstr "স্বয়ংক্রিয় ভাষা সনাক্তকরণ"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:21
 msgid "Clipboard buttons"
-msgstr ""
+msgstr "ক্লিপবোর্ড বাটন"
 
 #: data/com.github.gi_lom.dialect.metainfo.xml.in:27
 msgid "The Dialect Authors"
-msgstr ""
+msgstr "দি ডায়ালেক্ট অথর্স"
 
 #: data/resources/about.ui:11
 msgid "Copyright 2020–⁠2021 The Dialect Authors"
-msgstr ""
+msgstr "কপিরাইট ২০২০-২০২১ ডায়ালেক্ট অথর্স"
 
 #: data/resources/about.ui:14
 msgid "GitHub page"
-msgstr ""
+msgstr "গিটহাব পেজ"
 
 #. Replace me with your names.
 #: data/resources/about.ui:19
 msgid "translator-credits"
-msgstr ""
+msgstr "অনুবাদক-ক্রেডিট"
 
 #: data/resources/menu.ui:7
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "উচ্চারণ দেখান"
 
 #: data/resources/menu.ui:14
 msgid "Preferences"
-msgstr ""
+msgstr "পছন্দসমূহ"
 
 #: data/resources/menu.ui:18
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "কীবোর্ড শর্টকাট"
 
 #: data/resources/menu.ui:22
 msgid "About Dialect"
-msgstr ""
+msgstr "ডায়ালেক্ট সম্পর্কে"
 
 #: data/resources/preferences.ui:15
 msgid "Appearance"
-msgstr ""
+msgstr "রূপ"
 
 #: data/resources/preferences.ui:19
 msgid "Dark Mode"
-msgstr ""
+msgstr "ডার্ক মোড"
 
 #: data/resources/preferences.ui:35
 msgid "Behavior"
-msgstr ""
+msgstr "আচরণ"
 
 #: data/resources/preferences.ui:39
 msgid "Live Translation"
-msgstr ""
+msgstr "লাইভ অনুবাদ"
 
 #: data/resources/preferences.ui:40
 msgid "Warning: Your IP address may get banned for API abuse."
-msgstr ""
+msgstr "সতর্কতা: API অপব্যবহারের জন্য আপনার IP অ্যাড্রেস নিষিদ্ধ হতে পারে।"
 
 #: data/resources/preferences.ui:54
 msgid "Translation Shortcut"
-msgstr ""
+msgstr "অনুবাদ শর্টকাট"
 
 #: data/resources/preferences.ui:55
 msgid "The unselected choice will be used for line break."
-msgstr ""
+msgstr "অনির্বাচিত পছন্দগুলি লাইন বিরতির জন্য ব্যবহার করা হবে।"
 
 #: data/resources/preferences.ui:61
 msgid "Default to Auto"
-msgstr ""
+msgstr "অটোতে ডিফল্ট সেট করুন"
 
 #: data/resources/preferences.ui:62
 msgid "Use \"Auto\" as the default language"
-msgstr ""
+msgstr "“অটো” কে ডিফল্ট ভাষা হিসাবে ব্যবহার করুন"
 
 #: data/resources/preferences.ui:76
 msgid "Translator"
-msgstr ""
+msgstr "অনুবাদক"
 
 #: data/resources/preferences.ui:77
 msgid "Choose from the available translation services."
-msgstr ""
+msgstr "এখানে উপলব্ধ অনুবাদ পরিষেবাগুলি থেকে বেছে নিন৷"
 
 #: data/resources/preferences.ui:83
 msgid "Translator Instance"
-msgstr ""
+msgstr "অনুবাদকের উদাহরণ"
 
 #: data/resources/preferences.ui:84
 msgid "Enter a translation service URL."
-msgstr ""
+msgstr "একটি অনুবাদ পরিষেবা URL লিখুন।"
 
 #: data/resources/preferences.ui:109
 msgid "Edit"
-msgstr ""
+msgstr "এডিট"
 
 #: data/resources/preferences.ui:143
 msgid "Reset to default"
-msgstr ""
+msgstr "ডিফল্টে রিসেট করুন"
 
 #: data/resources/preferences.ui:158
 msgid "Save"
-msgstr ""
+msgstr "সেভ"
 
 #: data/resources/preferences.ui:175
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "টেক্সট-টু-স্পীচ"
 
 #: data/resources/preferences.ui:176
 msgid "Use Google for TTS."
-msgstr ""
+msgstr "TTS এর জন্য গুগল ব্যবহার করুন।"
 
 #: data/resources/preferences.ui:192
 msgid "Search Provider"
-msgstr ""
+msgstr "সার্চ প্রোভাইডার"
 
 #: data/resources/preferences.ui:193
 msgid ""
@@ -182,616 +187,622 @@ msgid ""
 "Live translation is. Ensure the search provider is also turned on in the "
 "GNOME Settings."
 msgstr ""
+"API অপব্যবহার কমাতে, লাইভ অনুবাদের সময় ডায়ালেক্টে জিনোম সার্চ প্রোভাইডার "
+"বন্ধ থাকে। নিশ্চিত করুন যে জিনোম সেটিংসে সার্চ প্রোভাইডার চালু আছে।"
 
 #: data/resources/shortcuts-window.ui:13
 msgctxt "shortcuts window"
 msgid "Translator"
-msgstr ""
+msgstr "অনুবাদক"
 
 #: data/resources/shortcuts-window.ui:17
 msgctxt "shortcuts window"
 msgid "Translate"
-msgstr ""
+msgstr "অনুবাদ"
 
 #: data/resources/shortcuts-window.ui:24
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr ""
+msgstr "ভাষা পাল্টান"
 
 #: data/resources/shortcuts-window.ui:31
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "সোর্স টেক্সট ক্লিয়ার করুন"
 
 #: data/resources/shortcuts-window.ui:38
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr ""
+msgstr "অনুবাদ কপি করুন"
 
 #: data/resources/shortcuts-window.ui:45
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "উচ্চারণ দেখান"
 
 #: data/resources/shortcuts-window.ui:54
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "টেক্সট-টু-স্পীচ"
 
 #: data/resources/shortcuts-window.ui:58
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "সোর্স টেক্সটটি শুনুন"
 
 #: data/resources/shortcuts-window.ui:65
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr ""
+msgstr "অনুবাদটি শুনুন"
 
 #: data/resources/shortcuts-window.ui:74
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "নেভিগেশন"
 
 #: data/resources/shortcuts-window.ui:78
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "ইতিহাসে ফিরে যান"
 
 #: data/resources/shortcuts-window.ui:85
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr ""
+msgstr "ইতিহাসে এগিয়ে যান"
 
 #: data/resources/shortcuts-window.ui:94
 msgctxt "shortcuts window"
 msgid "General"
-msgstr ""
+msgstr "জেনারেল"
 
 #: data/resources/shortcuts-window.ui:98
 msgctxt "shortcuts window"
 msgid "Preferences"
-msgstr ""
+msgstr "পছন্দসমূহ"
 
 #: data/resources/shortcuts-window.ui:105
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr ""
+msgstr "শর্টকাট"
 
 #: data/resources/shortcuts-window.ui:112
 msgctxt "shortcuts window"
 msgid "Quit"
-msgstr ""
+msgstr "প্রস্থান করুন"
 
 #: data/resources/window.ui:42
 msgid "Loading…"
-msgstr ""
+msgstr "লোডিং…"
 
 #: data/resources/window.ui:83
 msgid "Could not load the translator service"
-msgstr ""
+msgstr "অনুবাদ সার্ভিস লোড করা যায়নি"
 
 #: data/resources/window.ui:108
 msgid "Retry"
-msgstr ""
+msgstr "পুনঃপ্রচেষ্টা করুন"
 
 #: data/resources/window.ui:115
 msgid "Open preferences"
-msgstr ""
+msgstr "পছন্দসমূহ খুলুন"
 
 #: data/resources/window.ui:194 data/resources/window.ui:728
 msgid "Switch languages"
-msgstr ""
+msgstr "ভাষা পাল্টান"
 
 #: data/resources/window.ui:274
 msgid "Previous translation"
-msgstr ""
+msgstr "পূর্ববর্তী অনুবাদ"
 
 #: data/resources/window.ui:293
 msgid "Next translation"
-msgstr ""
+msgstr "পরবর্তী অনুবাদ"
 
 #: data/resources/window.ui:454
 msgid "Clear"
-msgstr ""
+msgstr "পরিষ্কার করুন"
 
 #: data/resources/window.ui:470
 msgid "Paste"
-msgstr ""
+msgstr "পেস্ট"
 
 #: data/resources/window.ui:486 data/resources/window.ui:624
 msgid "Listen"
-msgstr ""
+msgstr "শুনুন"
 
 #: data/resources/window.ui:494
 msgid "Translate"
-msgstr ""
+msgstr "অনুবাদ করুন"
 
 #: data/resources/window.ui:605
 msgid "Translating…"
-msgstr ""
+msgstr "অনুবাদিত হচ্ছে…"
 
 #: data/resources/window.ui:613
 msgid "Could not translate the text"
-msgstr ""
+msgstr "টেক্সটটি অনুবাদ করা যায়নি"
 
 #: data/resources/window.ui:639
 msgid "Copy"
-msgstr ""
+msgstr "কপি"
 
 #: data/resources/window.ui:820
 msgid "No network connection detected."
-msgstr ""
+msgstr "কোন নেটওয়ার্ক সংযোগ সনাক্ত করা যায়নি।"
 
 #: dialect/preferences.py:251
 #, python-brace-format
 msgid "Not a valid {backend} instance"
-msgstr ""
+msgstr "কোন ভ্যালিড {backend} ইনস্ট্যান্স নয়"
 
 #: dialect/window.py:234
 msgid "A network issue has occured. Retry?"
-msgstr ""
+msgstr "একটি নেটওয়ার্ক ইস্যু দেখা দিয়েছে। পুন:প্রচেষ্টা করবেন?"
 
 #: dialect/window.py:238
 msgid ""
 "A network issue has occured.\n"
 "Please try again."
 msgstr ""
+"একটি নেটওয়ার্ক ইস্যু দেখা দিয়েছে।\n"
+"দয়া করে পুনঃ প্রচেষ্টা করুন।"
 
 #: dialect/window.py:498 dialect/window.py:502
 msgid "Auto"
-msgstr ""
+msgstr "অটো"
 
 #: dialect/window.py:775
 msgid "5000 characters limit reached!"
-msgstr ""
+msgstr "৫০০০ অক্ষর সীমা পৌঁছে গেছে!"
 
 #: dialect/window.py:877
 msgid ""
 "Translation failed.\n"
 "Please check for network issues."
 msgstr ""
+"অনুবাদ ব্যর্থ হয়েছে।\n"
+"দয়া করে নেটওয়ার্ক ইস্যু চেক করুন।"
 
 #: dialect/window.py:893
 msgid "Did you mean: "
-msgstr ""
+msgstr "আপনি কি এটি বোঝাতে চেয়েছেন: "
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
-msgstr ""
+msgstr "আফ্রিকান"
 
 #: dialect/translators/__init__.py:27
 msgid "Albanian"
-msgstr ""
+msgstr "অ্যালবেনিয়ান"
 
 #: dialect/translators/__init__.py:28
 msgid "Amharic"
-msgstr ""
+msgstr "আমহারিক"
 
 #: dialect/translators/__init__.py:29
 msgid "Arabic"
-msgstr ""
+msgstr "আরবি"
 
 #: dialect/translators/__init__.py:30
 msgid "Armenian"
-msgstr ""
+msgstr "আর্মেনিয়ান"
 
 #: dialect/translators/__init__.py:31
 msgid "Azerbaijani"
-msgstr ""
+msgstr "আজারবাইজানি"
 
 #: dialect/translators/__init__.py:32
 msgid "Basque"
-msgstr ""
+msgstr "বাস্ক"
 
 #: dialect/translators/__init__.py:33
 msgid "Belarusian"
-msgstr ""
+msgstr "বেলারুশিয়ান"
 
 #: dialect/translators/__init__.py:34
 msgid "Bengali"
-msgstr ""
+msgstr "বাংলা"
 
 #: dialect/translators/__init__.py:35
 msgid "Bosnian"
-msgstr ""
+msgstr "বসনিয়ান"
 
 #: dialect/translators/__init__.py:36
 msgid "Bulgarian"
-msgstr ""
+msgstr "বুলগেরিয়ান"
 
 #: dialect/translators/__init__.py:37
 msgid "Catalan"
-msgstr ""
+msgstr "কাতালান"
 
 #: dialect/translators/__init__.py:38
 msgid "Cebuano"
-msgstr ""
+msgstr "সেবুয়ানো"
 
 #: dialect/translators/__init__.py:39
 msgid "Chichewa"
-msgstr ""
+msgstr "চিচেওয়া"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
-msgstr ""
+msgstr "চাইনিজ"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
-msgstr ""
+msgstr "চাইনিজ (সরলীকৃত)"
 
 #: dialect/translators/__init__.py:42
 msgid "Chinese (Traditional)"
-msgstr ""
+msgstr "চাইনিজ (প্রথাগত)"
 
 #: dialect/translators/__init__.py:43
 msgid "Corsican"
-msgstr ""
+msgstr "কর্সিকান"
 
 #: dialect/translators/__init__.py:44
 msgid "Croatian"
-msgstr ""
+msgstr "ক্রোয়েশিয়ান"
 
 #: dialect/translators/__init__.py:45
 msgid "Czech"
-msgstr ""
+msgstr "চেক"
 
 #: dialect/translators/__init__.py:46
 msgid "Danish"
-msgstr ""
+msgstr "ড্যানিশ"
 
 #: dialect/translators/__init__.py:47
 msgid "Dutch"
-msgstr ""
+msgstr "ডাচ"
 
 #: dialect/translators/__init__.py:48
 msgid "English"
-msgstr ""
+msgstr "ইংরেজি"
 
 #: dialect/translators/__init__.py:49
 msgid "Esperanto"
-msgstr ""
+msgstr "এস্পেরান্তো"
 
 #: dialect/translators/__init__.py:50
 msgid "Estonian"
-msgstr ""
+msgstr "এস্তোনিয়ান"
 
 #: dialect/translators/__init__.py:51
 msgid "Filipino"
-msgstr ""
+msgstr "ফিলিপিনো"
 
 #: dialect/translators/__init__.py:52
 msgid "Finnish"
-msgstr ""
+msgstr "ফিনিশ"
 
 #: dialect/translators/__init__.py:53
 msgid "French"
-msgstr ""
+msgstr "ফরাসি"
 
 #: dialect/translators/__init__.py:54
 msgid "Frisian"
-msgstr ""
+msgstr "ফ্রিজিয়ান"
 
 #: dialect/translators/__init__.py:55
 msgid "Galician"
-msgstr ""
+msgstr "গ্যালিসিয়ান"
 
 #: dialect/translators/__init__.py:56
 msgid "Georgian"
-msgstr ""
+msgstr "জর্জিয়ান"
 
 #: dialect/translators/__init__.py:57
 msgid "German"
-msgstr ""
+msgstr "জার্মান"
 
 #: dialect/translators/__init__.py:58
 msgid "Greek"
-msgstr ""
+msgstr "গ্রীক"
 
 #: dialect/translators/__init__.py:59
 msgid "Gujarati"
-msgstr ""
+msgstr "গুজরাটি"
 
 #: dialect/translators/__init__.py:60
 msgid "Haitian Creole"
-msgstr ""
+msgstr "হাইতিয়ান ক্রেওল"
 
 #: dialect/translators/__init__.py:61
 msgid "Hausa"
-msgstr ""
+msgstr "হাউসা"
 
 #: dialect/translators/__init__.py:62
 msgid "Hawaiian"
-msgstr ""
+msgstr "হাওয়াইয়ান"
 
 #: dialect/translators/__init__.py:63 dialect/translators/__init__.py:64
 msgid "Hebrew"
-msgstr ""
+msgstr "হিব্রু"
 
 #: dialect/translators/__init__.py:65
 msgid "Hindi"
-msgstr ""
+msgstr "হিন্দি"
 
 #: dialect/translators/__init__.py:66
 msgid "Hmong"
-msgstr ""
+msgstr "হমং"
 
 #: dialect/translators/__init__.py:67
 msgid "Hungarian"
-msgstr ""
+msgstr "হাঙ্গেরিয়ান"
 
 #: dialect/translators/__init__.py:68
 msgid "Icelandic"
-msgstr ""
+msgstr "আইসল্যান্ডিক"
 
 #: dialect/translators/__init__.py:69
 msgid "Igbo"
-msgstr ""
+msgstr "ইগবো"
 
 #: dialect/translators/__init__.py:70
 msgid "Indonesian"
-msgstr ""
+msgstr "ইন্দোনেশিয়ান"
 
 #: dialect/translators/__init__.py:71
 msgid "Irish"
-msgstr ""
+msgstr "আইরিশ"
 
 #: dialect/translators/__init__.py:72
 msgid "Italian"
-msgstr ""
+msgstr "ইতালীয়"
 
 #: dialect/translators/__init__.py:73
 msgid "Japanese"
-msgstr ""
+msgstr "জাপানিজ"
 
 #: dialect/translators/__init__.py:74
 msgid "Javanese"
-msgstr ""
+msgstr "জাভানিজ"
 
 #: dialect/translators/__init__.py:75
 msgid "Kannada"
-msgstr ""
+msgstr "কন্নড়"
 
 #: dialect/translators/__init__.py:76
 msgid "Kazakh"
-msgstr ""
+msgstr "কাজাখ"
 
 #: dialect/translators/__init__.py:77
 msgid "Khmer"
-msgstr ""
+msgstr "খমের"
 
 #: dialect/translators/__init__.py:78
 msgid "Kinyarwanda"
-msgstr ""
+msgstr "কিনিয়ারওয়ান্ডা"
 
 #: dialect/translators/__init__.py:79
 msgid "Korean"
-msgstr ""
+msgstr "কোরিয়ান"
 
 #: dialect/translators/__init__.py:80
 msgid "Kurdish (Kurmanji)"
-msgstr ""
+msgstr "কুর্দি (কুরমাঞ্জি)"
 
 #: dialect/translators/__init__.py:81
 msgid "Kyrgyz"
-msgstr ""
+msgstr "কিরগিজ"
 
 #: dialect/translators/__init__.py:82
 msgid "Lao"
-msgstr ""
+msgstr "লাও"
 
 #: dialect/translators/__init__.py:83
 msgid "Latin"
-msgstr ""
+msgstr "ল্যাটিন"
 
 #: dialect/translators/__init__.py:84
 msgid "Latvian"
-msgstr ""
+msgstr "লাটভিয়ান"
 
 #: dialect/translators/__init__.py:85
 msgid "Lithuanian"
-msgstr ""
+msgstr "লিথুয়ানিয়ান"
 
 #: dialect/translators/__init__.py:86
 msgid "Luxembourgish"
-msgstr ""
+msgstr "লাক্সেমবার্গিশ"
 
 #: dialect/translators/__init__.py:87
 msgid "Macedonian"
-msgstr ""
+msgstr "ম্যাসেডোনিয়ান"
 
 #: dialect/translators/__init__.py:88
 msgid "Malagasy"
-msgstr ""
+msgstr "মালাগাসি"
 
 #: dialect/translators/__init__.py:89
 msgid "Malay"
-msgstr ""
+msgstr "মালয়"
 
 #: dialect/translators/__init__.py:90
 msgid "Malayalam"
-msgstr ""
+msgstr "মালায়লাম"
 
 #: dialect/translators/__init__.py:91
 msgid "Maltese"
-msgstr ""
+msgstr "মল্টিজ"
 
 #: dialect/translators/__init__.py:92
 msgid "Maori"
-msgstr ""
+msgstr "মাওরি"
 
 #: dialect/translators/__init__.py:93
 msgid "Marathi"
-msgstr ""
+msgstr "মারাঠি"
 
 #: dialect/translators/__init__.py:94
 msgid "Mongolian"
-msgstr ""
+msgstr "মঙ্গোলীয়"
 
 #: dialect/translators/__init__.py:95
 msgid "Myanmar (Burmese)"
-msgstr ""
+msgstr "মায়ানমার (বার্মা দেশীয়)"
 
 #: dialect/translators/__init__.py:96
 msgid "Nepali"
-msgstr ""
+msgstr "নেপালি"
 
 #: dialect/translators/__init__.py:97
 msgid "Norwegian"
-msgstr ""
+msgstr "নরওয়েজীয়"
 
 #: dialect/translators/__init__.py:98
 msgid "Odia (Oriya)"
-msgstr ""
+msgstr "ওডিয়া (ওড়িয়া)"
 
 #: dialect/translators/__init__.py:99
 msgid "Pashto"
-msgstr ""
+msgstr "পশতু"
 
 #: dialect/translators/__init__.py:100
 msgid "Persian"
-msgstr ""
+msgstr "ফার্সি"
 
 #: dialect/translators/__init__.py:101
 msgid "Polish"
-msgstr ""
+msgstr "পোলিশ"
 
 #: dialect/translators/__init__.py:102
 msgid "Portuguese"
-msgstr ""
+msgstr "পর্তুগীজ"
 
 #: dialect/translators/__init__.py:103
 msgid "Punjabi"
-msgstr ""
+msgstr "পাঞ্জাবি"
 
 #: dialect/translators/__init__.py:104
 msgid "Romanian"
-msgstr ""
+msgstr "রোমানিয়ান"
 
 #: dialect/translators/__init__.py:105
 msgid "Russian"
-msgstr ""
+msgstr "রাশিয়ান"
 
 #: dialect/translators/__init__.py:106
 msgid "Samoan"
-msgstr ""
+msgstr "সামোয়ান"
 
 #: dialect/translators/__init__.py:107
 msgid "Scots Gaelic"
-msgstr ""
+msgstr "স্কটস গেলিক"
 
 #: dialect/translators/__init__.py:108
 msgid "Serbian"
-msgstr ""
+msgstr "সার্বিয়ান"
 
 #: dialect/translators/__init__.py:109
 msgid "Sesotho"
-msgstr ""
+msgstr "সেসোথো"
 
 #: dialect/translators/__init__.py:110
 msgid "Shona"
-msgstr ""
+msgstr "শোনা"
 
 #: dialect/translators/__init__.py:111
 msgid "Sindhi"
-msgstr ""
+msgstr "সিন্ধি"
 
 #: dialect/translators/__init__.py:112
 msgid "Sinhala"
-msgstr ""
+msgstr "সিংহল"
 
 #: dialect/translators/__init__.py:113
 msgid "Slovak"
-msgstr ""
+msgstr "স্লোভাক"
 
 #: dialect/translators/__init__.py:114
 msgid "Slovenian"
-msgstr ""
+msgstr "স্লোভেনীয়"
 
 #: dialect/translators/__init__.py:115
 msgid "Somali"
-msgstr ""
+msgstr "সোমালি"
 
 #: dialect/translators/__init__.py:116
 msgid "Spanish"
-msgstr ""
+msgstr "স্পেনীয়"
 
 #: dialect/translators/__init__.py:117
 msgid "Sundanese"
-msgstr ""
+msgstr "সুন্দানিজ"
 
 #: dialect/translators/__init__.py:118
 msgid "Swahili"
-msgstr ""
+msgstr "সোয়াহিলি"
 
 #: dialect/translators/__init__.py:119
 msgid "Swedish"
-msgstr ""
+msgstr "সুইডিশ"
 
 #: dialect/translators/__init__.py:120
 msgid "Tajik"
-msgstr ""
+msgstr "তাজিক"
 
 #: dialect/translators/__init__.py:121
 msgid "Tamil"
-msgstr ""
+msgstr "তামিল"
 
 #: dialect/translators/__init__.py:122
 msgid "Tatar"
-msgstr ""
+msgstr "তাতার"
 
 #: dialect/translators/__init__.py:123
 msgid "Telugu"
-msgstr ""
+msgstr "তেলেগু"
 
 #: dialect/translators/__init__.py:124
 msgid "Thai"
-msgstr ""
+msgstr "থাই"
 
 #: dialect/translators/__init__.py:125
 msgid "Turkish"
-msgstr ""
+msgstr "তুর্কি"
 
 #: dialect/translators/__init__.py:126
 msgid "Turkmen"
-msgstr ""
+msgstr "তুর্কমেন"
 
 #: dialect/translators/__init__.py:127
 msgid "Ukrainian"
-msgstr ""
+msgstr "ইউক্রেনীয়"
 
 #: dialect/translators/__init__.py:128
 msgid "Urdu"
-msgstr ""
+msgstr "উর্দু"
 
 #: dialect/translators/__init__.py:129
 msgid "Uyghur"
-msgstr ""
+msgstr "উইঘুর"
 
 #: dialect/translators/__init__.py:130
 msgid "Uzbek"
-msgstr ""
+msgstr "উজবেক"
 
 #: dialect/translators/__init__.py:131
 msgid "Vietnamese"
-msgstr ""
+msgstr "ভিয়েতনামী"
 
 #: dialect/translators/__init__.py:132
 msgid "Welsh"
-msgstr ""
+msgstr "ওয়েলশ"
 
 #: dialect/translators/__init__.py:133
 msgid "Xhosa"
-msgstr ""
+msgstr "জোসা"
 
 #: dialect/translators/__init__.py:134
 msgid "Yiddish"
-msgstr ""
+msgstr "য়িদ্দিশ"
 
 #: dialect/translators/__init__.py:135
 msgid "Yoruba"
-msgstr ""
+msgstr "ইওরুবা"
 
 #: dialect/translators/__init__.py:136
 msgid "Zulu"
-msgstr ""
+msgstr "জুলু"
