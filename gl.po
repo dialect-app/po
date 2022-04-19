@@ -8,15 +8,16 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
 "POT-Creation-Date: 2021-10-16 23:00+0530\n"
-"PO-Revision-Date: 2021-09-13 21:59+0200\n"
-"Last-Translator: Fran Dieguez <frandieguez@gnome.org>\n"
-"Language-Team: Galician <proxecto@trasno.gal>\n"
+"PO-Revision-Date: 2022-04-19 03:09+0000\n"
+"Last-Translator: Jorge Teijeiro <jorge.teijeiro.ramos@gmail.com>\n"
+"Language-Team: Galician <https://hosted.weblate.org/projects/dialect/dialect/"
+"gl/>\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"X-Generator: Gtranslator 40.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
@@ -328,7 +329,7 @@ msgstr "Copiar"
 
 #: data/resources/window.ui:820
 msgid "No network connection detected."
-msgstr "Non se  detectou ningunha conexión de rede."
+msgstr "Non se detectou ningunha conexión de rede."
 
 #: dialect/preferences.py:251
 #, python-brace-format
@@ -353,7 +354,7 @@ msgstr "Automático"
 
 #: dialect/window.py:775
 msgid "5000 characters limit reached!"
-msgstr "Alcanzouse o límite de 5000 caracteres."
+msgstr "Alcanzouse o límite de 5000 caracteres!"
 
 #: dialect/window.py:877
 msgid ""
