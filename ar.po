@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
 "POT-Creation-Date: 2021-10-16 23:00+0530\n"
-"PO-Revision-Date: 2021-12-20 15:51+0000\n"
-"Last-Translator: Ayza <ayza69420@gmail.com>\n"
+"PO-Revision-Date: 2022-04-23 14:11+0000\n"
+"Last-Translator: Omar TS <ots@duck.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/dialect/dialect/"
 "ar/>\n"
 "Language: ar\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.10\n"
+"X-Generator: Weblate 4.12.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/com.github.gi_lom.dialect.desktop.in:8
@@ -274,7 +274,7 @@ msgstr "خروج"
 
 #: data/resources/window.ui:42
 msgid "Loading…"
-msgstr "جاري التحميل…"
+msgstr "جاري التحميل …"
 
 #: data/resources/window.ui:83
 msgid "Could not load the translator service"
@@ -318,7 +318,7 @@ msgstr "ترجم"
 
 #: data/resources/window.ui:605
 msgid "Translating…"
-msgstr "جاري الترجمة…"
+msgstr "جاري الترجمة …"
 
 #: data/resources/window.ui:613
 msgid "Could not translate the text"
