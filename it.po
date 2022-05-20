@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
-"Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
-"POT-Creation-Date: 2021-10-16 23:00+0530\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-27 16:22-0500\n"
 "PO-Revision-Date: 2021-10-20 06:38+0000\n"
 "Last-Translator: Michael Moroni <michaelmoroni@disroot.org>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -20,355 +20,457 @@ msgstr ""
 "X-Generator: Weblate 4.9-dev\n"
 
 #. Translators: Do not translate the app name!
-#: data/com.github.gi_lom.dialect.desktop.in:8
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/about.ui:10
-#: data/resources/window.ui:66 dialect/main.py:56 dialect/main.py:93
+#: data/app.drey.Dialect.desktop.in.in:8
+#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:6
+#: data/resources/window.blp:240 dialect/main.py:57
 msgid "Dialect"
 msgstr "Dialect"
 
-#: data/com.github.gi_lom.dialect.desktop.in:9
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:7
+#: data/app.drey.Dialect.desktop.in.in:9
+#: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
 msgstr "Traduci tra le lingue"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
-#: data/com.github.gi_lom.dialect.desktop.in:13
+#: data/app.drey.Dialect.desktop.in.in:13
 msgid "translate;translation;"
 msgstr "tradurre;traduzione;"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:9 data/resources/about.ui:12
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
 msgstr "Un'app di traduzione per GNOME."
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:12
+#: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
 msgstr "Caratteristiche:"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:16
-msgid "Translation based on an unofficial API for Google Translate"
+#: data/app.drey.Dialect.metainfo.xml.in.in:16
+#, fuzzy
+msgid "Translation based on Google Translate"
 msgstr "Traduzione basata su un'API non ufficiale per Google Translate"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:17
+#: data/app.drey.Dialect.metainfo.xml.in.in:17
+#, fuzzy
 msgid ""
-"Translation based on the LibreTranslate API, allowing you use any instance "
-"available online"
+"Translation based on the LibreTranslate API, allowing you to use any public "
+"instance"
 msgstr ""
 "Traduzione basata sull'API LibreTranslate, che ti consente di utilizzare "
 "qualsiasi istanza disponibile online"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:18
+#: data/app.drey.Dialect.metainfo.xml.in.in:18
+#, fuzzy
+msgid "Translation based on Lingva Translate API"
+msgstr "Traduzione basata su un'API non ufficiale per Google Translate"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Text to speech"
 msgstr "Sintesi vocale"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:19
+#: data/app.drey.Dialect.metainfo.xml.in.in:20
 msgid "Translation history"
 msgstr "Cronologia delle traduzioni"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:20
+#: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Automatic language detection"
 msgstr "Rilevamento automatico della lingua"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:21
+#: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Clipboard buttons"
 msgstr "Pulsanti degli appunti"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:27
+#: data/app.drey.Dialect.metainfo.xml.in.in:28
 msgid "The Dialect Authors"
 msgstr "Gli autori di Dialect"
 
-#: data/resources/about.ui:11
-msgid "Copyright 2020–⁠2021 The Dialect Authors"
+#: data/resources/about.blp:7
+#, fuzzy
+msgid "Copyright 2020–⁠2022 The Dialect Authors"
 msgstr "Copyright 2020–⁠2021 Gli autori di Dialect"
 
-#: data/resources/about.ui:14
+#: data/resources/about.blp:10
 msgid "GitHub page"
 msgstr "Pagina GitHub"
 
-#. Replace me with your names.
-#: data/resources/about.ui:19
+#. Translators: Replace me with your names.
+#: data/resources/about.blp:14
 msgid "translator-credits"
 msgstr "Albano Battistella, Michael Moroni"
 
-#: data/resources/menu.ui:7
-msgid "Show Pronunciation"
-msgstr "Mostra pronuncia"
-
-#: data/resources/menu.ui:14
-msgid "Preferences"
-msgstr "Preferenze"
-
-#: data/resources/menu.ui:18
-msgid "Keyboard Shortcuts"
-msgstr "Scorciatoie da tastiera"
-
-#: data/resources/menu.ui:22
-msgid "About Dialect"
-msgstr "Informazioni su Dialect"
-
-#: data/resources/preferences.ui:15
-msgid "Appearance"
-msgstr "Aspetto"
-
-#: data/resources/preferences.ui:19
-msgid "Dark Mode"
-msgstr "Modalità scura"
-
-#: data/resources/preferences.ui:35
+#: data/resources/preferences.ui:11
 msgid "Behavior"
 msgstr "Comportamento"
 
-#: data/resources/preferences.ui:39
+#: data/resources/preferences.ui:14
 msgid "Live Translation"
 msgstr "Traduzione dal vivo"
 
-#: data/resources/preferences.ui:40
+#: data/resources/preferences.ui:15
 msgid "Warning: Your IP address may get banned for API abuse."
 msgstr ""
 "Attenzione: il tuo indirizzo IP potrebbe essere bandito per abuso di API."
 
-#: data/resources/preferences.ui:54
+#: data/resources/preferences.ui:21
+#, fuzzy
+msgid "Show Translations in Desktop Search"
+msgstr "Cronologia delle traduzioni"
+
+#: data/resources/preferences.ui:22
+msgid "Warning: All desktop searches will be sent to the translation service"
+msgstr ""
+
+#: data/resources/preferences.ui:35
 msgid "Translation Shortcut"
 msgstr "Scorciatoia di traduzione"
 
-#: data/resources/preferences.ui:55
+#: data/resources/preferences.ui:36
 msgid "The unselected choice will be used for line break."
 msgstr ""
 "La scelta non selezionata verrà utilizzata per l'interruzione di linea."
 
-#: data/resources/preferences.ui:61
+#: data/resources/preferences.ui:49
 msgid "Default to Auto"
 msgstr "Predefinito su Automatico"
 
-#: data/resources/preferences.ui:62
+#: data/resources/preferences.ui:50
 msgid "Use \"Auto\" as the default language"
 msgstr "Usa \"Automatico\" come lingua predefinita"
 
-#: data/resources/preferences.ui:76
+#: data/resources/preferences.ui:61
 msgid "Translator"
 msgstr "Traduttore"
 
-#: data/resources/preferences.ui:77
+#: data/resources/preferences.ui:62
 msgid "Choose from the available translation services."
 msgstr "Scegli tra i servizi di traduzione disponibili."
 
-#: data/resources/preferences.ui:83
+#: data/resources/preferences.ui:70
 msgid "Translator Instance"
 msgstr "Istanza del traduttore"
 
-#: data/resources/preferences.ui:84
+#: data/resources/preferences.ui:71
 msgid "Enter a translation service URL."
 msgstr "Inserisci l'URL del servizio di traduzione."
 
-#: data/resources/preferences.ui:109
+#: data/resources/preferences.ui:89 data/resources/preferences.ui:161
 msgid "Edit"
 msgstr "Modifica"
 
-#: data/resources/preferences.ui:143
+#: data/resources/preferences.ui:116 data/resources/preferences.ui:188
 msgid "Reset to default"
 msgstr "Ripristina le impostazioni predefinite"
 
-#: data/resources/preferences.ui:158
+#: data/resources/preferences.ui:126 data/resources/preferences.ui:198
+#: data/resources/window.blp:524
 msgid "Save"
 msgstr "Salva"
 
-#: data/resources/preferences.ui:175
+#: data/resources/preferences.ui:142
+msgid "API Key"
+msgstr ""
+
+#: data/resources/preferences.ui:143
+#, fuzzy
+msgid "Enter an API key for the translation service."
+msgstr "Inserisci l'URL del servizio di traduzione."
+
+#: data/resources/preferences.ui:214
 msgid "Text-to-Speech"
 msgstr "Sintesi vocale"
 
-#: data/resources/preferences.ui:176
+#: data/resources/preferences.ui:215
 msgid "Use Google for TTS."
 msgstr "Usa Google per la sintesi vocale."
 
-#: data/resources/preferences.ui:192
-msgid "Search Provider"
-msgstr "Cerca provider"
-
-#: data/resources/preferences.ui:193
-msgid ""
-"To reduce API abuse, the GNOME search provider in Dialect is turned off when "
-"Live translation is. Ensure the search provider is also turned on in the "
-"GNOME Settings."
-msgstr ""
-"Per ridurre l'abuso dell'utilizzo dell'API, il motore di ricerca di GNOME "
-"presente in Dialect è stato spento quando la traduzione simultanea è attiva. "
-"Assicurati che il motore di ricerca è attivo dalle impostazioni di GNOME."
-
-#: data/resources/shortcuts-window.ui:13
+#: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
 msgid "Translator"
 msgstr "Traduttore"
 
-#: data/resources/shortcuts-window.ui:17
+#: data/resources/shortcuts.blp:17
 msgctxt "shortcuts window"
 msgid "Translate"
 msgstr "Traduci"
 
-#: data/resources/shortcuts-window.ui:24
+#: data/resources/shortcuts.blp:23
 msgctxt "shortcuts window"
 msgid "Switch Languages"
 msgstr "Cambia lingua"
 
-#: data/resources/shortcuts-window.ui:31
+#: data/resources/shortcuts.blp:29
 msgctxt "shortcuts window"
 msgid "Clear source text"
 msgstr "Rimuovi testo sorgente"
 
-#: data/resources/shortcuts-window.ui:38
+#: data/resources/shortcuts.blp:35
 msgctxt "shortcuts window"
 msgid "Copy translation"
 msgstr "Copia traduzione"
 
-#: data/resources/shortcuts-window.ui:45
+#: data/resources/shortcuts.blp:41
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
 msgstr "Mostra pronuncia"
 
-#: data/resources/shortcuts-window.ui:54
+#: data/resources/shortcuts.blp:48
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
 msgstr "Sintesi vocale"
 
-#: data/resources/shortcuts-window.ui:58
+#: data/resources/shortcuts.blp:52
 msgctxt "shortcuts window"
 msgid "Listen to source text"
 msgstr "Ascolta il testo sorgente"
 
-#: data/resources/shortcuts-window.ui:65
+#: data/resources/shortcuts.blp:58
 msgctxt "shortcuts window"
 msgid "Listen to translation"
 msgstr "Ascolta la traduzione"
 
-#: data/resources/shortcuts-window.ui:74
+#: data/resources/shortcuts.blp:65
 msgctxt "shortcuts window"
 msgid "Navigation"
 msgstr "Navigazione"
 
-#: data/resources/shortcuts-window.ui:78
+#: data/resources/shortcuts.blp:69
 msgctxt "shortcuts window"
 msgid "Go back in history"
 msgstr "Torna alla versione precedente"
 
-#: data/resources/shortcuts-window.ui:85
+#: data/resources/shortcuts.blp:75
 msgctxt "shortcuts window"
 msgid "Go forward in history"
 msgstr "Vai alla versione successiva"
 
-#: data/resources/shortcuts-window.ui:94
+#: data/resources/shortcuts.blp:82
 msgctxt "shortcuts window"
 msgid "General"
 msgstr "Generale"
 
-#: data/resources/shortcuts-window.ui:98
+#: data/resources/shortcuts.blp:86
 msgctxt "shortcuts window"
 msgid "Preferences"
 msgstr "Preferenze"
 
-#: data/resources/shortcuts-window.ui:105
+#: data/resources/shortcuts.blp:92
 msgctxt "shortcut window"
 msgid "Shortcuts"
 msgstr "Scorciatoie da tastiera"
 
-#: data/resources/shortcuts-window.ui:112
+#: data/resources/shortcuts.blp:98
 msgctxt "shortcuts window"
 msgid "Quit"
 msgstr "Esci"
 
-#: data/resources/window.ui:42
+#: data/resources/window.blp:15
+msgid "Show Pronunciation"
+msgstr "Mostra pronuncia"
+
+#: data/resources/window.blp:24 dialect/window.py:1224 dialect/window.py:1232
+msgid "Preferences"
+msgstr "Preferenze"
+
+#: data/resources/window.blp:29
+msgid "Keyboard Shortcuts"
+msgstr "Scorciatoie da tastiera"
+
+#: data/resources/window.blp:34
+msgid "About Dialect"
+msgstr "Informazioni su Dialect"
+
+#: data/resources/window.blp:70
 msgid "Loading…"
 msgstr "Caricamento in corso…"
 
-#: data/resources/window.ui:83
-msgid "Could not load the translator service"
-msgstr "Non è stato possibile caricare il servizio di traduzione"
-
-#: data/resources/window.ui:108
+#: data/resources/window.blp:103 dialect/window.py:375 dialect/window.py:1216
+#: dialect/window.py:1240
 msgid "Retry"
 msgstr "Riprova"
 
-#: data/resources/window.ui:115
-msgid "Open preferences"
+#: data/resources/window.blp:112 data/resources/window.blp:163
+#, fuzzy
+msgid "Open Preferences"
 msgstr "Apri preferenze"
 
-#: data/resources/window.ui:194 data/resources/window.ui:728
+#: data/resources/window.blp:154
+msgid "Remove Key and Retry"
+msgstr ""
+
+#: data/resources/window.blp:215 data/resources/window.blp:572
 msgid "Switch languages"
 msgstr "Cambia lingua"
 
-#: data/resources/window.ui:274
+#: data/resources/window.blp:251
 msgid "Previous translation"
 msgstr "Traduzione precedente"
 
-#: data/resources/window.ui:293
+#: data/resources/window.blp:257
 msgid "Next translation"
 msgstr "Prossima traduzione"
 
-#: data/resources/window.ui:454
+#: data/resources/window.blp:366
 msgid "Clear"
 msgstr "Rimuovi"
 
-#: data/resources/window.ui:470
+#: data/resources/window.blp:372
 msgid "Paste"
 msgstr "Incolla"
 
-#: data/resources/window.ui:486 data/resources/window.ui:624
+#: data/resources/window.blp:378 data/resources/window.blp:496
 msgid "Listen"
 msgstr "Ascolta"
 
-#: data/resources/window.ui:494
+#: data/resources/window.blp:398
 msgid "Translate"
 msgstr "Traduci"
 
-#: data/resources/window.ui:605
+#: data/resources/window.blp:470
 msgid "Translating…"
 msgstr "Traduzione in corso…"
 
-#: data/resources/window.ui:613
+#: data/resources/window.blp:475
 msgid "Could not translate the text"
 msgstr "Non è stato possibile tradurre il testo"
 
-#: data/resources/window.ui:639
+#: data/resources/window.blp:482
 msgid "Copy"
 msgstr "Copia"
 
-#: data/resources/window.ui:820
-msgid "No network connection detected."
-msgstr "Nessuna connessione di rete rilevata."
+#: data/resources/window.blp:490
+#, fuzzy
+msgid "Suggest Translation"
+msgstr "Traduzione dal vivo"
 
-#: dialect/preferences.py:251
+#: data/resources/window.blp:517
+msgid "Cancel"
+msgstr ""
+
+#: data/resources/lang-selector.blp:18
+#, fuzzy
+msgid "Search Languages…"
+msgstr "Cambia lingua"
+
+#: data/resources/theme-switcher.blp:25
+msgid "Follow system style"
+msgstr ""
+
+#: data/resources/theme-switcher.blp:39
+msgid "Light style"
+msgstr ""
+
+#: data/resources/theme-switcher.blp:53
+#, fuzzy
+msgid "Dark style"
+msgstr "Modalità scura"
+
+#: dialect/preferences.py:220
 #, python-brace-format
 msgid "Not a valid {backend} instance"
 msgstr "Non è un'istanza {backend} valida"
 
-#: dialect/window.py:234
-msgid "A network issue has occured. Retry?"
-msgstr "Si è verificato un problema di rete. Vuoi riprovare?"
+#: dialect/preferences.py:288
+#, fuzzy, python-brace-format
+msgid "Not a valid {backend} API key"
+msgstr "Non è un'istanza {backend} valida"
 
-#: dialect/window.py:238
-msgid ""
-"A network issue has occured.\n"
-"Please try again."
+#: dialect/window.py:296 dialect/window.py:1222
+msgid "The provided API key is invalid"
 msgstr ""
-"Si è verificato un problema di rete.\n"
-"Per favore riprova."
 
-#: dialect/window.py:498 dialect/window.py:502
-msgid "Auto"
-msgstr "Automatico"
+#: dialect/window.py:298
+msgid "Please set a valid API key in the preferences."
+msgstr ""
 
-#: dialect/window.py:775
-msgid "5000 characters limit reached!"
-msgstr "Limite di 5000 caratteri raggiunto!"
+#: dialect/window.py:301
+msgid "Please set a valid API key or unset the API key in the preferences."
+msgstr ""
 
-#: dialect/window.py:877
+#: dialect/window.py:322 dialect/window.py:1230
+msgid "API key is required to use the service"
+msgstr ""
+
+#: dialect/window.py:323
+msgid "Please set an API key in the preferences."
+msgstr ""
+
+#: dialect/window.py:336
+#, fuzzy
+msgid "Failed loading the translation service"
+msgstr "Non è stato possibile caricare il servizio di traduzione"
+
+#: dialect/window.py:337
+msgid "Please report this in the Dialect bug tracker if the issue persists."
+msgstr ""
+
+#: dialect/window.py:339
+#, python-brace-format
 msgid ""
-"Translation failed.\n"
-"Please check for network issues."
+"Failed loading \"{url}\", check if the instance address is correct or report "
+"in the Dialect bug tracker if the issue persists."
+msgstr ""
+
+#: dialect/window.py:343
+#, fuzzy
+msgid "Couldn’t connect to the translation service"
+msgstr "Non è stato possibile caricare il servizio di traduzione"
+
+#: dialect/window.py:344
+#, fuzzy
+msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
 "Traduzione non riuscita.\n"
 "Verifica la presenza di problemi di rete."
 
-#: dialect/window.py:893
+#: dialect/window.py:346
+#, python-brace-format
+msgid ""
+"We can’t connect to the {service} instance \"{url}\".\n"
+" Please check for network issues or if the address is correct."
+msgstr ""
+
+#: dialect/window.py:369
+msgid "A network issue has occured. Retry?"
+msgstr "Si è verificato un problema di rete. Vuoi riprovare?"
+
+#: dialect/window.py:382
+#, fuzzy
+msgid "A network issue has occured. Please try again."
+msgstr ""
+"Si è verificato un problema di rete.\n"
+"Per favore riprova."
+
+#: dialect/window.py:666 dialect/window.py:673 dialect/window.py:1126
+msgid "Auto"
+msgstr "Automatico"
+
+#: dialect/window.py:870
+msgid "New translation has been suggested!"
+msgstr ""
+
+#: dialect/window.py:872
+msgid "Suggestion failed."
+msgstr ""
+
+#: dialect/window.py:1012
+#, fuzzy
+msgid "{} characters limit reached!"
+msgstr "Limite di 5000 caratteri raggiunto!"
+
+#: dialect/window.py:1165
 msgid "Did you mean: "
 msgstr "Forse cercavi: "
+
+#: dialect/window.py:1214
+#, fuzzy
+msgid "Translation failed, check for network issues"
+msgstr ""
+"Traduzione non riuscita.\n"
+"Verifica la presenza di problemi di rete."
+
+#: dialect/window.py:1238
+#, fuzzy
+msgid "Translation failed"
+msgstr "La traduzione sembra essere fallita"
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
@@ -810,6 +912,25 @@ msgstr "Yoruba"
 msgid "Zulu"
 msgstr "Zulu"
 
+#~ msgid "Appearance"
+#~ msgstr "Aspetto"
+
+#~ msgid "Search Provider"
+#~ msgstr "Cerca provider"
+
+#~ msgid ""
+#~ "To reduce API abuse, the GNOME search provider in Dialect is turned off "
+#~ "when Live translation is. Ensure the search provider is also turned on in "
+#~ "the GNOME Settings."
+#~ msgstr ""
+#~ "Per ridurre l'abuso dell'utilizzo dell'API, il motore di ricerca di GNOME "
+#~ "presente in Dialect è stato spento quando la traduzione simultanea è "
+#~ "attiva. Assicurati che il motore di ricerca è attivo dalle impostazioni "
+#~ "di GNOME."
+
+#~ msgid "No network connection detected."
+#~ msgstr "Nessuna connessione di rete rilevata."
+
 #~ msgid "Use Google for Text to Speech functionality."
 #~ msgstr "Utilizza la funzionalità di sintesi vocale di Google."
 
@@ -827,9 +948,6 @@ msgstr "Zulu"
 
 #~ msgid "Translation in progress..."
 #~ msgstr "Traduzione in corso..."
-
-#~ msgid "Translation seems to have failed"
-#~ msgstr "La traduzione sembra essere fallita"
 
 #~ msgid "gi-lom"
 #~ msgstr "gi-lom"
