@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
-"Report-Msgid-Bugs-To: https://github.com/dialect-app/po/issues\n"
-"POT-Creation-Date: 2021-10-16 23:00+0530\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-27 16:36-0500\n"
 "PO-Revision-Date: 2021-10-31 17:36+0000\n"
 "Last-Translator: Iraklis Karagkiozoglou <iraklisk@outlook.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/dialect/dialect/el/"
@@ -20,355 +20,455 @@ msgstr ""
 "X-Generator: Weblate 4.9-dev\n"
 
 #. Translators: Do not translate the app name!
-#: data/com.github.gi_lom.dialect.desktop.in:8
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:6 data/resources/about.ui:10
-#: data/resources/window.ui:66 dialect/main.py:56 dialect/main.py:93
+#: data/app.drey.Dialect.desktop.in.in:8
+#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:6
+#: data/resources/window.blp:240 dialect/main.py:57
 msgid "Dialect"
 msgstr "Διάλεκτος"
 
-#: data/com.github.gi_lom.dialect.desktop.in:9
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:7
+#: data/app.drey.Dialect.desktop.in.in:9
+#: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
 msgstr "Μετάφραση σε διαφορετικές γλώσσες"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
-#: data/com.github.gi_lom.dialect.desktop.in:13
+#: data/app.drey.Dialect.desktop.in.in:13
 msgid "translate;translation;"
 msgstr "μετάφρασε;μετάφραση;"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:9 data/resources/about.ui:12
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
 msgstr "Μία εφαρμογή μετάφρασης για το GNOME."
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:12
+#: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
 msgstr "Δυνατότητες:"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:16
-msgid "Translation based on an unofficial API for Google Translate"
+#: data/app.drey.Dialect.metainfo.xml.in.in:16
+#, fuzzy
+msgid "Translation based on Google Translate"
 msgstr "Μετάφραση βασισμένη στο ανεπίσημο API του Google Translate"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:17
+#: data/app.drey.Dialect.metainfo.xml.in.in:17
 msgid ""
-"Translation based on the LibreTranslate API, allowing you use any instance "
-"available online"
+"Translation based on the LibreTranslate API, allowing you to use any public "
+"instance"
 msgstr ""
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:18
+#: data/app.drey.Dialect.metainfo.xml.in.in:18
+#, fuzzy
+msgid "Translation based on Lingva Translate API"
+msgstr "Μετάφραση βασισμένη στο ανεπίσημο API του Google Translate"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Text to speech"
 msgstr "Κείμενο σε ομιλία"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:19
+#: data/app.drey.Dialect.metainfo.xml.in.in:20
 msgid "Translation history"
 msgstr "Ιστορικό μεταφράσεων"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:20
+#: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Automatic language detection"
 msgstr "Αυτόματη αναγνώριση γλώσσας"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:21
+#: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Clipboard buttons"
 msgstr "Κουμπιά πρόχειρου"
 
-#: data/com.github.gi_lom.dialect.metainfo.xml.in:27
+#: data/app.drey.Dialect.metainfo.xml.in.in:28
 msgid "The Dialect Authors"
 msgstr "Οι Συγγραφείς του Dialect"
 
-#: data/resources/about.ui:11
-msgid "Copyright 2020–⁠2021 The Dialect Authors"
+#: data/resources/about.blp:7
+#, fuzzy
+msgid "Copyright 2020–⁠2022 The Dialect Authors"
 msgstr "Πνευματικά δικαιώματα 2020–⁠2021 Οι Συγγραφείς του Dialect"
 
-#: data/resources/about.ui:14
+#: data/resources/about.blp:10
 msgid "GitHub page"
 msgstr "Σελίδα GitHub"
 
-#. Replace me with your names.
-#: data/resources/about.ui:19
+#. Translators: Replace me with your names.
+#: data/resources/about.blp:14
 msgid "translator-credits"
 msgstr ""
 
-#: data/resources/menu.ui:7
-msgid "Show Pronunciation"
-msgstr "Προβολή προφοράς"
-
-#: data/resources/menu.ui:14
-msgid "Preferences"
-msgstr "Προτιμήσεις"
-
-#: data/resources/menu.ui:18
-msgid "Keyboard Shortcuts"
-msgstr "Συντομεύσεις Πληκτρολογίου"
-
-#: data/resources/menu.ui:22
-msgid "About Dialect"
-msgstr "Σχετικά με το Dialect"
-
-#: data/resources/preferences.ui:15
-msgid "Appearance"
-msgstr "Εμφάνιση"
-
-#: data/resources/preferences.ui:19
-msgid "Dark Mode"
-msgstr ""
-
-#: data/resources/preferences.ui:35
+#: data/resources/preferences.ui:11
 msgid "Behavior"
 msgstr "Συμπεριφορά"
 
-#: data/resources/preferences.ui:39
+#: data/resources/preferences.ui:14
 msgid "Live Translation"
 msgstr "Ζωντανή μετάφραση"
 
-#: data/resources/preferences.ui:40
+#: data/resources/preferences.ui:15
 msgid "Warning: Your IP address may get banned for API abuse."
 msgstr ""
 "Προειδοποίηση: Η IP διεύθυνση σας μπορεί να αποκλειστεί λόγω κατάχρησης του "
 "API."
 
-#: data/resources/preferences.ui:54
+#: data/resources/preferences.ui:21
+#, fuzzy
+msgid "Show Translations in Desktop Search"
+msgstr "Ιστορικό μεταφράσεων"
+
+#: data/resources/preferences.ui:22
+msgid "Warning: All desktop searches will be sent to the translation service"
+msgstr ""
+
+#: data/resources/preferences.ui:35
 msgid "Translation Shortcut"
 msgstr "Συντόμευση Μετάφρασης"
 
-#: data/resources/preferences.ui:55
+#: data/resources/preferences.ui:36
 msgid "The unselected choice will be used for line break."
 msgstr "Η μη επιλεγμένη επιλογή θα χρησιμοποιηθεί για αλλαγή γραμμής."
 
-#: data/resources/preferences.ui:61
+#: data/resources/preferences.ui:49
 msgid "Default to Auto"
 msgstr "Προεπιλογή σε Αυτόματο"
 
-#: data/resources/preferences.ui:62
+#: data/resources/preferences.ui:50
 msgid "Use \"Auto\" as the default language"
 msgstr "Χρήση του \"Auto\" ως προεπιλεγμένη γλώσσα"
 
-#: data/resources/preferences.ui:76
+#: data/resources/preferences.ui:61
 msgid "Translator"
 msgstr "Μεταφραστής"
 
-#: data/resources/preferences.ui:77
+#: data/resources/preferences.ui:62
 msgid "Choose from the available translation services."
 msgstr "Επιλέξτε από τις διαθέσιμες υπηρεσίες μετάφρασης."
 
-#: data/resources/preferences.ui:83
+#: data/resources/preferences.ui:70
 #, fuzzy
 msgid "Translator Instance"
 msgstr "Instance Μεταφραστή"
 
-#: data/resources/preferences.ui:84
+#: data/resources/preferences.ui:71
 msgid "Enter a translation service URL."
 msgstr "Εισαγάγετε μια διεύθυνση URL υπηρεσίας μετάφρασης."
 
-#: data/resources/preferences.ui:109
+#: data/resources/preferences.ui:89 data/resources/preferences.ui:161
 msgid "Edit"
 msgstr "Επεξεργασία"
 
-#: data/resources/preferences.ui:143
+#: data/resources/preferences.ui:116 data/resources/preferences.ui:188
 msgid "Reset to default"
 msgstr "Επαναφορά προεπιλογής"
 
-#: data/resources/preferences.ui:158
+#: data/resources/preferences.ui:126 data/resources/preferences.ui:198
+#: data/resources/window.blp:524
 msgid "Save"
 msgstr "Αποθήκευση"
 
-#: data/resources/preferences.ui:175
+#: data/resources/preferences.ui:142
+msgid "API Key"
+msgstr ""
+
+#: data/resources/preferences.ui:143
+#, fuzzy
+msgid "Enter an API key for the translation service."
+msgstr "Εισαγάγετε μια διεύθυνση URL υπηρεσίας μετάφρασης."
+
+#: data/resources/preferences.ui:214
 msgid "Text-to-Speech"
 msgstr "Κείμενο σε ομιλία"
 
-#: data/resources/preferences.ui:176
+#: data/resources/preferences.ui:215
 msgid "Use Google for TTS."
 msgstr "Χρησιμοποιήστε το Google για κείμενο σε ομιλία."
 
-#: data/resources/preferences.ui:192
-msgid "Search Provider"
-msgstr "Πάροχος αναζήτησης"
-
-#: data/resources/preferences.ui:193
-msgid ""
-"To reduce API abuse, the GNOME search provider in Dialect is turned off when "
-"Live translation is. Ensure the search provider is also turned on in the "
-"GNOME Settings."
-msgstr ""
-"Για να μειωθεί η κατάχρηση API, ο πάροχος αναζήτησης GNOME στο Dialect "
-"απενεργοποιείται όταν η ζωντανή μετάφραση είναι ενεργοποιημένη. Βεβαιωθείτε "
-"ότι ο πάροχος αναζήτησης είναι επίσης ενεργοποιημένος στις Ρυθμίσεις GNOME."
-
-#: data/resources/shortcuts-window.ui:13
+#: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
 msgid "Translator"
 msgstr "Μεταφραστής"
 
-#: data/resources/shortcuts-window.ui:17
+#: data/resources/shortcuts.blp:17
 msgctxt "shortcuts window"
 msgid "Translate"
 msgstr "Μετάφραση"
 
-#: data/resources/shortcuts-window.ui:24
+#: data/resources/shortcuts.blp:23
 msgctxt "shortcuts window"
 msgid "Switch Languages"
 msgstr "Εναλλαγή Γλωσσών"
 
-#: data/resources/shortcuts-window.ui:31
+#: data/resources/shortcuts.blp:29
 msgctxt "shortcuts window"
 msgid "Clear source text"
 msgstr "Εκκαθάριση αρχικού κειμένου"
 
-#: data/resources/shortcuts-window.ui:38
+#: data/resources/shortcuts.blp:35
 msgctxt "shortcuts window"
 msgid "Copy translation"
 msgstr "Αντιγραφή μετάφρασης"
 
-#: data/resources/shortcuts-window.ui:45
+#: data/resources/shortcuts.blp:41
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
 msgstr "Προβολή Προφοράς"
 
-#: data/resources/shortcuts-window.ui:54
+#: data/resources/shortcuts.blp:48
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
 msgstr "Κείμενο σε Ομιλία"
 
-#: data/resources/shortcuts-window.ui:58
+#: data/resources/shortcuts.blp:52
 msgctxt "shortcuts window"
 msgid "Listen to source text"
 msgstr "Ακρόαση αρχικού κειμένου"
 
-#: data/resources/shortcuts-window.ui:65
+#: data/resources/shortcuts.blp:58
 msgctxt "shortcuts window"
 msgid "Listen to translation"
 msgstr "Ακρόαση μετάφρασης"
 
-#: data/resources/shortcuts-window.ui:74
+#: data/resources/shortcuts.blp:65
 msgctxt "shortcuts window"
 msgid "Navigation"
 msgstr "Πλοήγηση"
 
-#: data/resources/shortcuts-window.ui:78
+#: data/resources/shortcuts.blp:69
 msgctxt "shortcuts window"
 msgid "Go back in history"
 msgstr "Πηγαίνετε πίσω στο ιστορικό"
 
-#: data/resources/shortcuts-window.ui:85
+#: data/resources/shortcuts.blp:75
 msgctxt "shortcuts window"
 msgid "Go forward in history"
 msgstr "Πηγαίνετε μπροστά στo ιστορικό"
 
-#: data/resources/shortcuts-window.ui:94
+#: data/resources/shortcuts.blp:82
 msgctxt "shortcuts window"
 msgid "General"
 msgstr "Γενικά"
 
-#: data/resources/shortcuts-window.ui:98
+#: data/resources/shortcuts.blp:86
 msgctxt "shortcuts window"
 msgid "Preferences"
 msgstr "Προτιμήσεις"
 
-#: data/resources/shortcuts-window.ui:105
+#: data/resources/shortcuts.blp:92
 msgctxt "shortcut window"
 msgid "Shortcuts"
 msgstr "Συντομεύσεις"
 
-#: data/resources/shortcuts-window.ui:112
+#: data/resources/shortcuts.blp:98
 msgctxt "shortcuts window"
 msgid "Quit"
 msgstr "Έξοδος"
 
-#: data/resources/window.ui:42
+#: data/resources/window.blp:15
+msgid "Show Pronunciation"
+msgstr "Προβολή προφοράς"
+
+#: data/resources/window.blp:24 dialect/window.py:1224 dialect/window.py:1232
+msgid "Preferences"
+msgstr "Προτιμήσεις"
+
+#: data/resources/window.blp:29
+msgid "Keyboard Shortcuts"
+msgstr "Συντομεύσεις Πληκτρολογίου"
+
+#: data/resources/window.blp:34
+msgid "About Dialect"
+msgstr "Σχετικά με το Dialect"
+
+#: data/resources/window.blp:70
 msgid "Loading…"
 msgstr "Φόρτωση…"
 
-#: data/resources/window.ui:83
-msgid "Could not load the translator service"
-msgstr "Δεν ήταν δυνατή η φόρτωση της υπηρεσίας μεταφραστή"
-
-#: data/resources/window.ui:108
+#: data/resources/window.blp:103 dialect/window.py:375 dialect/window.py:1216
+#: dialect/window.py:1240
 msgid "Retry"
 msgstr "Προσπαθησε ξανα"
 
-#: data/resources/window.ui:115
-msgid "Open preferences"
+#: data/resources/window.blp:112 data/resources/window.blp:163
+#, fuzzy
+msgid "Open Preferences"
 msgstr "Άνοιγμα προτιμήσεων"
 
-#: data/resources/window.ui:194 data/resources/window.ui:728
+#: data/resources/window.blp:154
+msgid "Remove Key and Retry"
+msgstr ""
+
+#: data/resources/window.blp:215 data/resources/window.blp:572
 msgid "Switch languages"
 msgstr "Εναλλαγή γλωσσών"
 
-#: data/resources/window.ui:274
+#: data/resources/window.blp:251
 msgid "Previous translation"
 msgstr "Προηγούμενη μετάφραση"
 
-#: data/resources/window.ui:293
+#: data/resources/window.blp:257
 msgid "Next translation"
 msgstr "Επόμενη μετάφραση"
 
-#: data/resources/window.ui:454
+#: data/resources/window.blp:366
 msgid "Clear"
 msgstr "Εκκαθάριση"
 
-#: data/resources/window.ui:470
+#: data/resources/window.blp:372
 msgid "Paste"
 msgstr "Επικόλληση"
 
-#: data/resources/window.ui:486 data/resources/window.ui:624
+#: data/resources/window.blp:378 data/resources/window.blp:496
 msgid "Listen"
 msgstr "Ακρόαση"
 
-#: data/resources/window.ui:494
+#: data/resources/window.blp:398
 msgid "Translate"
 msgstr "Μετάφραση"
 
-#: data/resources/window.ui:605
+#: data/resources/window.blp:470
 msgid "Translating…"
 msgstr "Μεταφράζοντας…"
 
-#: data/resources/window.ui:613
+#: data/resources/window.blp:475
 msgid "Could not translate the text"
 msgstr "Δεν ήταν δυνατή η μετάφραση του κειμένου"
 
-#: data/resources/window.ui:639
+#: data/resources/window.blp:482
 msgid "Copy"
 msgstr "Αντιγραφή"
 
-#: data/resources/window.ui:820
-msgid "No network connection detected."
-msgstr "Δεν εντοπίστηκε σύνδεση δικτύου."
+#: data/resources/window.blp:490
+#, fuzzy
+msgid "Suggest Translation"
+msgstr "Ζωντανή μετάφραση"
 
-#: dialect/preferences.py:251
+#: data/resources/window.blp:517
+msgid "Cancel"
+msgstr ""
+
+#: data/resources/lang-selector.blp:18
+#, fuzzy
+msgid "Search Languages…"
+msgstr "Εναλλαγή Γλωσσών"
+
+#: data/resources/theme-switcher.blp:25
+msgid "Follow system style"
+msgstr ""
+
+#: data/resources/theme-switcher.blp:39
+msgid "Light style"
+msgstr ""
+
+#: data/resources/theme-switcher.blp:53
+msgid "Dark style"
+msgstr ""
+
+#: dialect/preferences.py:220
 #, fuzzy, python-brace-format
 msgid "Not a valid {backend} instance"
 msgstr "Μη έγκυρη {backend} instance."
 
-#: dialect/window.py:234
-#, fuzzy
-msgid "A network issue has occured. Retry?"
-msgstr "Παρουσιάστηκε πρόβλημα δικτύου. Επανάληψη προσπάθειας?"
+#: dialect/preferences.py:288
+#, fuzzy, python-brace-format
+msgid "Not a valid {backend} API key"
+msgstr "Μη έγκυρη {backend} instance."
 
-#: dialect/window.py:238
-msgid ""
-"A network issue has occured.\n"
-"Please try again."
+#: dialect/window.py:296 dialect/window.py:1222
+msgid "The provided API key is invalid"
 msgstr ""
-"Παρουσιάστηκε πρόβλημα δικτύου.\n"
-"Δοκιμάστε ξανά."
 
-#: dialect/window.py:498 dialect/window.py:502
-msgid "Auto"
-msgstr "Αυτόματη"
+#: dialect/window.py:298
+msgid "Please set a valid API key in the preferences."
+msgstr ""
 
-#: dialect/window.py:775
-msgid "5000 characters limit reached!"
-msgstr "Φτάσατε το όριο των 5000 χαρακτήρων!"
+#: dialect/window.py:301
+msgid "Please set a valid API key or unset the API key in the preferences."
+msgstr ""
 
-#: dialect/window.py:877
+#: dialect/window.py:322 dialect/window.py:1230
+msgid "API key is required to use the service"
+msgstr ""
+
+#: dialect/window.py:323
+msgid "Please set an API key in the preferences."
+msgstr ""
+
+#: dialect/window.py:336
+#, fuzzy
+msgid "Failed loading the translation service"
+msgstr "Δεν ήταν δυνατή η φόρτωση της υπηρεσίας μεταφραστή"
+
+#: dialect/window.py:337
+msgid "Please report this in the Dialect bug tracker if the issue persists."
+msgstr ""
+
+#: dialect/window.py:339
+#, python-brace-format
 msgid ""
-"Translation failed.\n"
-"Please check for network issues."
+"Failed loading \"{url}\", check if the instance address is correct or report "
+"in the Dialect bug tracker if the issue persists."
+msgstr ""
+
+#: dialect/window.py:343
+#, fuzzy
+msgid "Couldn’t connect to the translation service"
+msgstr "Δεν ήταν δυνατή η φόρτωση της υπηρεσίας μεταφραστή"
+
+#: dialect/window.py:344
+#, fuzzy
+msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
 "Η μετάφραση απέτυχε.\n"
 "Ελέγξτε για προβλήματα δικτύου."
 
-#: dialect/window.py:893
+#: dialect/window.py:346
+#, python-brace-format
+msgid ""
+"We can’t connect to the {service} instance \"{url}\".\n"
+" Please check for network issues or if the address is correct."
+msgstr ""
+
+#: dialect/window.py:369
+#, fuzzy
+msgid "A network issue has occured. Retry?"
+msgstr "Παρουσιάστηκε πρόβλημα δικτύου. Επανάληψη προσπάθειας?"
+
+#: dialect/window.py:382
+#, fuzzy
+msgid "A network issue has occured. Please try again."
+msgstr ""
+"Παρουσιάστηκε πρόβλημα δικτύου.\n"
+"Δοκιμάστε ξανά."
+
+#: dialect/window.py:666 dialect/window.py:673 dialect/window.py:1126
+msgid "Auto"
+msgstr "Αυτόματη"
+
+#: dialect/window.py:870
+msgid "New translation has been suggested!"
+msgstr ""
+
+#: dialect/window.py:872
+msgid "Suggestion failed."
+msgstr ""
+
+#: dialect/window.py:1012
+#, fuzzy
+msgid "{} characters limit reached!"
+msgstr "Φτάσατε το όριο των 5000 χαρακτήρων!"
+
+#: dialect/window.py:1165
 msgid "Did you mean: "
 msgstr "Μήπως εννοούσες: "
+
+#: dialect/window.py:1214
+#, fuzzy
+msgid "Translation failed, check for network issues"
+msgstr ""
+"Η μετάφραση απέτυχε.\n"
+"Ελέγξτε για προβλήματα δικτύου."
+
+#: dialect/window.py:1238
+#, fuzzy
+msgid "Translation failed"
+msgstr "Ιστορικό μεταφράσεων"
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
@@ -809,3 +909,22 @@ msgstr "Γιορούμπα"
 #: dialect/translators/__init__.py:136
 msgid "Zulu"
 msgstr "Ζουλού"
+
+#~ msgid "Appearance"
+#~ msgstr "Εμφάνιση"
+
+#~ msgid "Search Provider"
+#~ msgstr "Πάροχος αναζήτησης"
+
+#~ msgid ""
+#~ "To reduce API abuse, the GNOME search provider in Dialect is turned off "
+#~ "when Live translation is. Ensure the search provider is also turned on in "
+#~ "the GNOME Settings."
+#~ msgstr ""
+#~ "Για να μειωθεί η κατάχρηση API, ο πάροχος αναζήτησης GNOME στο Dialect "
+#~ "απενεργοποιείται όταν η ζωντανή μετάφραση είναι ενεργοποιημένη. "
+#~ "Βεβαιωθείτε ότι ο πάροχος αναζήτησης είναι επίσης ενεργοποιημένος στις "
+#~ "Ρυθμίσεις GNOME."
+
+#~ msgid "No network connection detected."
+#~ msgstr "Δεν εντοπίστηκε σύνδεση δικτύου."
