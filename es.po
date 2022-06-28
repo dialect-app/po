@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2021-09-20 22:36+0000\n"
-"Last-Translator: Sergio Varela <sergitroll9@gmail.com>\n"
+"PO-Revision-Date: 2022-06-28 13:30+0000\n"
+"Last-Translator: Germe the fur star <FOSSgerme.deb@tuta.io>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/dialect/dialect/"
 "es/>\n"
 "Language: es\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.13.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -46,23 +46,20 @@ msgid "Features:"
 msgstr "Características:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
-#, fuzzy
 msgid "Translation based on Google Translate"
-msgstr "Traducción basada en una API no oficial de Google Translate"
+msgstr "Traducción basada en Google Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
-#, fuzzy
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
 "Traducción basada en la API de LibreTranslate, permitiendo el uso de "
-"cualquier instancia disponible en linea"
+"cualquier instancia pública"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
-#, fuzzy
 msgid "Translation based on Lingva Translate API"
-msgstr "Traducción basada en una API no oficial de Google Translate"
+msgstr "Traducción basada en la API de Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Text to speech"
@@ -85,9 +82,8 @@ msgid "The Dialect Authors"
 msgstr "Los autores de Dialect"
 
 #: data/resources/about.blp:7
-#, fuzzy
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
-msgstr "Derechos de autor © 2020–2021 de los autores de Dialect"
+msgstr "Derechos de autor © 2020–2022 Los Autores de Dialect"
 
 #: data/resources/about.blp:10
 msgid "GitHub page"
@@ -111,13 +107,14 @@ msgid "Warning: Your IP address may get banned for API abuse."
 msgstr "Atención: su IP podría ser bloqueada por abuso de API."
 
 #: data/resources/preferences.ui:21
-#, fuzzy
 msgid "Show Translations in Desktop Search"
-msgstr "Historial de traducción"
+msgstr "Ver Traducciones en la Búsqueda del Escritorio"
 
 #: data/resources/preferences.ui:22
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr ""
+"Atención: Todas las busquedas del escritorio serán enviadas al servicio de "
+"traducción"
 
 #: data/resources/preferences.ui:35
 msgid "Translation Shortcut"
@@ -166,12 +163,11 @@ msgstr "Guardar"
 
 #: data/resources/preferences.ui:142
 msgid "API Key"
-msgstr ""
+msgstr "Llave del API"
 
 #: data/resources/preferences.ui:143
-#, fuzzy
 msgid "Enter an API key for the translation service."
-msgstr "Introduzca el URL de un servicio de traducción."
+msgstr "Introduzca una llave de API para el servicio de traducción."
 
 #: data/resources/preferences.ui:214
 msgid "Text-to-Speech"
@@ -287,13 +283,12 @@ msgid "Retry"
 msgstr "Reintentar"
 
 #: data/resources/window.blp:112 data/resources/window.blp:163
-#, fuzzy
 msgid "Open Preferences"
-msgstr "Abrir preferencias"
+msgstr "Abrir Preferencias"
 
 #: data/resources/window.blp:154
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "Borrar Llave y Reintentar"
 
 #: data/resources/window.blp:215 data/resources/window.blp:572
 msgid "Switch languages"
@@ -336,31 +331,28 @@ msgid "Copy"
 msgstr "Copiar"
 
 #: data/resources/window.blp:490
-#, fuzzy
 msgid "Suggest Translation"
-msgstr "Traducción en tiempo real"
+msgstr "Sugerir Traducción"
 
 #: data/resources/window.blp:517
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: data/resources/lang-selector.blp:18
-#, fuzzy
 msgid "Search Languages…"
-msgstr "Intercambiar idiomas"
+msgstr "Buscar Idiomas…"
 
 #: data/resources/theme-switcher.blp:25
 msgid "Follow system style"
-msgstr ""
+msgstr "Seguir estilo del sistema"
 
 #: data/resources/theme-switcher.blp:39
 msgid "Light style"
-msgstr ""
+msgstr "Estilo Claro"
 
 #: data/resources/theme-switcher.blp:53
-#, fuzzy
 msgid "Dark style"
-msgstr "Modo oscuro"
+msgstr "Estilo Oscuro"
 
 #: dialect/preferences.py:220
 #, python-brace-format
@@ -368,92 +360,95 @@ msgid "Not a valid {backend} instance"
 msgstr "No es una instalación válida de {backend}"
 
 #: dialect/preferences.py:288
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Not a valid {backend} API key"
-msgstr "No es una instalación válida de {backend}"
+msgstr "No es una llave válida de {backend}"
 
 #: dialect/window.py:296 dialect/window.py:1222
+#, fuzzy
 msgid "The provided API key is invalid"
-msgstr ""
+msgstr "La llave de API entregada es invalida"
 
 #: dialect/window.py:298
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "Por favor configura una llave de API valida en las preferencias."
 
 #: dialect/window.py:301
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
+"Por favor configura una llave de API valida o quita la llave de API en las "
+"preferencias."
 
 #: dialect/window.py:322 dialect/window.py:1230
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "Una llave de API es requerida para usar este servicio"
 
 #: dialect/window.py:323
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "Por favor configura una llave de API en las preferencias."
 
 #: dialect/window.py:336
-#, fuzzy
 msgid "Failed loading the translation service"
-msgstr "No se pudo cargar el servicio de traducción"
+msgstr "Fallo al cargar el servicio de traducción"
 
 #: dialect/window.py:337
+#, fuzzy
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
+"Por favor reporta esto en el bug tracker de Dialect si el error persiste."
 
 #: dialect/window.py:339
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid ""
 "Failed loading \"{url}\", check if the instance address is correct or report "
 "in the Dialect bug tracker if the issue persists."
 msgstr ""
+"Falló al cargar \"{url}\", chequea si la dirección de la instancia es "
+"correcta o reportalo en el bug tracker de dialect si el error persiste."
 
 #: dialect/window.py:343
-#, fuzzy
 msgid "Couldn’t connect to the translation service"
-msgstr "No se pudo cargar el servicio de traducción"
+msgstr "No se pudo conectar al servicio de traducción"
 
 #: dialect/window.py:344
-#, fuzzy
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
-"La traducción falló.\n"
-"Compruebe si hay problemas de red."
+"No podemos conectarnos al servidor. Por favor chequea si hay problemas de "
+"conexión."
 
 #: dialect/window.py:346
-#, python-brace-format
+#, fuzzy, python-brace-format
 msgid ""
 "We can’t connect to the {service} instance \"{url}\".\n"
 " Please check for network issues or if the address is correct."
 msgstr ""
+"No podemos conectarnos a \"{url}\" de la instancia {service}.\n"
+" Por favor chequea por problemas de conexión o si la dirección es correcta."
 
 #: dialect/window.py:369
 msgid "A network issue has occured. Retry?"
 msgstr "Ha ocurrido un problema de red. ¿Reintentar?"
 
 #: dialect/window.py:382
-#, fuzzy
 msgid "A network issue has occured. Please try again."
-msgstr ""
-"Ha ocurrido un problema de red.\n"
-"Vuelva a intentarlo."
+msgstr "Un problema de red ha ocurrido. Por favor intenta de nuevo."
 
 #: dialect/window.py:666 dialect/window.py:673 dialect/window.py:1126
 msgid "Auto"
 msgstr "Automático"
 
 #: dialect/window.py:870
+#, fuzzy
 msgid "New translation has been suggested!"
-msgstr ""
+msgstr "Nueva traducción ha sido _ !"
 
 #: dialect/window.py:872
 msgid "Suggestion failed."
 msgstr ""
 
 #: dialect/window.py:1012
-#, fuzzy
 msgid "{} characters limit reached!"
-msgstr "¡Se alcanzó el límite de 5000 caracteres!"
+msgstr "¡Se alcanzó el límite de {} caracteres!"
 
 #: dialect/window.py:1165
 msgid "Did you mean: "
