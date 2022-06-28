@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2021-09-20 22:36+0000\n"
+"PO-Revision-Date: 2022-06-28 04:16+0000\n"
 "Last-Translator: Åke Engelbrektson <eson@svenskasprakfiler.se>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/dialect/dialect/"
 "sv/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.13.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -45,23 +45,20 @@ msgid "Features:"
 msgstr "Funktioner:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
-#, fuzzy
 msgid "Translation based on Google Translate"
-msgstr "Översättning baserad på en inofficiell API för Google Translate"
+msgstr "Översättning baserad på Google Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
-#, fuzzy
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
-"Översättning baserat på LibreTranslate API, låter dig använda valfri instans "
-"tillgänglig på nätet."
+"Översättning baserat på LibreTranslate API, låter dig använda valfri publik "
+"instans."
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
-#, fuzzy
 msgid "Translation based on Lingva Translate API"
-msgstr "Översättning baserad på en inofficiell API för Google Translate"
+msgstr "Översättning baserad på Lingva Translate API"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Text to speech"
@@ -84,9 +81,8 @@ msgid "The Dialect Authors"
 msgstr "Dialects utvecklare"
 
 #: data/resources/about.blp:7
-#, fuzzy
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
-msgstr "Copyright 2020–⁠2021 Dialects utvecklare"
+msgstr "Copyright 2020–⁠2022 Dialects utvecklare"
 
 #: data/resources/about.blp:10
 msgid "GitHub page"
@@ -110,13 +106,14 @@ msgid "Warning: Your IP address may get banned for API abuse."
 msgstr "Varning! Din IP-adress kan bannlysas för API-missbruk."
 
 #: data/resources/preferences.ui:21
-#, fuzzy
 msgid "Show Translations in Desktop Search"
-msgstr "Översättningshistorik"
+msgstr "Visa översättningar i skrivbordssökning"
 
 #: data/resources/preferences.ui:22
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr ""
+"Varning! Alla skrivbordssökningar kommer att skickas till "
+"översättningstjänsten."
 
 #: data/resources/preferences.ui:35
 msgid "Translation Shortcut"
@@ -165,12 +162,11 @@ msgstr "Spara"
 
 #: data/resources/preferences.ui:142
 msgid "API Key"
-msgstr ""
+msgstr "API-nyckel"
 
 #: data/resources/preferences.ui:143
-#, fuzzy
 msgid "Enter an API key for the translation service."
-msgstr "Ange URL till en översättningstjänst."
+msgstr "Ange en API-nyckel för översättningstjänsten."
 
 #: data/resources/preferences.ui:214
 msgid "Text-to-Speech"
@@ -286,13 +282,12 @@ msgid "Retry"
 msgstr "Försök igen"
 
 #: data/resources/window.blp:112 data/resources/window.blp:163
-#, fuzzy
 msgid "Open Preferences"
 msgstr "Öppna inställningarna"
 
 #: data/resources/window.blp:154
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "Ta bort nyckeln och försök igen"
 
 #: data/resources/window.blp:215 data/resources/window.blp:572
 msgid "Switch languages"
@@ -335,31 +330,28 @@ msgid "Copy"
 msgstr "Kopiera"
 
 #: data/resources/window.blp:490
-#, fuzzy
 msgid "Suggest Translation"
-msgstr "Live-översättning"
+msgstr "Föreslå översättning"
 
 #: data/resources/window.blp:517
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 #: data/resources/lang-selector.blp:18
-#, fuzzy
 msgid "Search Languages…"
-msgstr "Byt språk"
+msgstr "Sök språk…"
 
 #: data/resources/theme-switcher.blp:25
 msgid "Follow system style"
-msgstr ""
+msgstr "Följ systemstilen"
 
 #: data/resources/theme-switcher.blp:39
 msgid "Light style"
-msgstr ""
+msgstr "Ljus stil"
 
 #: data/resources/theme-switcher.blp:53
-#, fuzzy
 msgid "Dark style"
-msgstr "Mörkt läge"
+msgstr "Mörk stil"
 
 #: dialect/preferences.py:220
 #, python-brace-format
@@ -367,38 +359,37 @@ msgid "Not a valid {backend} instance"
 msgstr "Ingen giltig {backend}-instans"
 
 #: dialect/preferences.py:288
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Not a valid {backend} API key"
-msgstr "Ingen giltig {backend}-instans"
+msgstr "Ingen giltig {backend} API-nyckel"
 
 #: dialect/window.py:296 dialect/window.py:1222
 msgid "The provided API key is invalid"
-msgstr ""
+msgstr "Den angivna API-nyckeln är ogiltig"
 
 #: dialect/window.py:298
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "Ange en giltig API-nyckel i inställningarna."
 
 #: dialect/window.py:301
 msgid "Please set a valid API key or unset the API key in the preferences."
-msgstr ""
+msgstr "Ange en giltig API-nyckel eller ta bort API-nyckeln i inställningarna."
 
 #: dialect/window.py:322 dialect/window.py:1230
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "API-nyckel krävs för att använda tjänsten"
 
 #: dialect/window.py:323
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "Ange en API-nyckel i inställningarna."
 
 #: dialect/window.py:336
-#, fuzzy
 msgid "Failed loading the translation service"
 msgstr "Kunde inte läsa in översättningstjänsten"
 
 #: dialect/window.py:337
 msgid "Please report this in the Dialect bug tracker if the issue persists."
-msgstr ""
+msgstr "Rapportera detta i Dialects ärendehanterare om problemet kvarstår."
 
 #: dialect/window.py:339
 #, python-brace-format
@@ -406,18 +397,17 @@ msgid ""
 "Failed loading \"{url}\", check if the instance address is correct or report "
 "in the Dialect bug tracker if the issue persists."
 msgstr ""
+"Kunde inte läsa in \"{url}\", kontrollera om instansadressen är korrekt "
+"eller rapportera i Dialects ärendehanterare om problemet kvarstår."
 
 #: dialect/window.py:343
-#, fuzzy
 msgid "Couldn’t connect to the translation service"
-msgstr "Kunde inte läsa in översättningstjänsten"
+msgstr "Kunde inte ansluta till översättningstjänsten"
 
 #: dialect/window.py:344
-#, fuzzy
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
-"Översättning misslyckades.\n"
-"Undersök eventuella nätverksproblem."
+"Vi kan inte ansluta till servern. Kontrollera om det finns nätverksproblem."
 
 #: dialect/window.py:346
 #, python-brace-format
@@ -425,17 +415,16 @@ msgid ""
 "We can’t connect to the {service} instance \"{url}\".\n"
 " Please check for network issues or if the address is correct."
 msgstr ""
+"Vi kan inte ansluta till {service}-instansen \"{url}\".\n"
+" Kontrollera om det finns nätverksproblem eller om adressen är korrekt."
 
 #: dialect/window.py:369
 msgid "A network issue has occured. Retry?"
 msgstr "Ett nätverksproblem har uppstått. Vill du försöka igen?"
 
 #: dialect/window.py:382
-#, fuzzy
 msgid "A network issue has occured. Please try again."
-msgstr ""
-"Ett nätverksproblem har uppstått.\n"
-"Försöka igen."
+msgstr "Ett nätverksproblem har uppstått. Försök igen."
 
 #: dialect/window.py:666 dialect/window.py:673 dialect/window.py:1126
 msgid "Auto"
@@ -443,32 +432,27 @@ msgstr "Auto"
 
 #: dialect/window.py:870
 msgid "New translation has been suggested!"
-msgstr ""
+msgstr "En ny översättning har föreslagits!"
 
 #: dialect/window.py:872
 msgid "Suggestion failed."
-msgstr ""
+msgstr "Förslaget misslyckades."
 
 #: dialect/window.py:1012
-#, fuzzy
 msgid "{} characters limit reached!"
-msgstr "Gränsen på 5000 tecken har uppnåtts!"
+msgstr "{}-teckengränsen är nådd!"
 
 #: dialect/window.py:1165
 msgid "Did you mean: "
 msgstr "Menade du: "
 
 #: dialect/window.py:1214
-#, fuzzy
 msgid "Translation failed, check for network issues"
-msgstr ""
-"Översättning misslyckades.\n"
-"Undersök eventuella nätverksproblem."
+msgstr "Översättningen misslyckades, kontrollera om det finns nätverksproblem"
 
 #: dialect/window.py:1238
-#, fuzzy
 msgid "Translation failed"
-msgstr "Översättningen verkar ha misslyckats"
+msgstr "Översättningen misslyckades"
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
