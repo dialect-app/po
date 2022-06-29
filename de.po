@@ -74,7 +74,7 @@ msgstr "Automatische Sprachenerkennung"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Clipboard buttons"
-msgstr "Zwischenablage-Knöpfe"
+msgstr "Knöpfe für Zwischenablage"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:28
 msgid "The Dialect Authors"
