@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2022-06-29 00:29+0000\n"
-"Last-Translator: Rafael Mardojai CM <mardojai.cardenas@gmail.com>\n"
+"PO-Revision-Date: 2022-06-30 01:14+0000\n"
+"Last-Translator: Germe the fur star <FOSSgerme.deb@tuta.io>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/dialect/dialect/"
 "es/>\n"
 "Language: es\n"
@@ -457,7 +457,7 @@ msgstr "La traducción falló, compruebe si hay problemas de red"
 
 #: dialect/window.py:1238
 msgid "Translation failed"
-msgstr "La traducción parece haber fallado"
+msgstr "La traducción falló"
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
