@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2021-09-05 22:30+0000\n"
+"PO-Revision-Date: 2022-06-30 01:14+0000\n"
 "Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Occitan <https://hosted.weblate.org/projects/dialect/dialect/"
 "oc/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.8.1-dev\n"
+"X-Generator: Weblate 4.13.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -45,9 +45,8 @@ msgid "Features:"
 msgstr "Foncionalitats :"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
-#, fuzzy
 msgid "Translation based on Google Translate"
-msgstr "Traduccion basada sus una API pas oficiala de Google Translate"
+msgstr "Traduccion basada sus Google Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
 #, fuzzy
@@ -59,9 +58,8 @@ msgstr ""
 "instància que siá disponibla en linha"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
-#, fuzzy
 msgid "Translation based on Lingva Translate API"
-msgstr "Traduccion basada sus una API pas oficiala de Google Translate"
+msgstr "Traduccion basada sus una API Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Text to speech"
@@ -84,9 +82,8 @@ msgid "The Dialect Authors"
 msgstr "Los autors de Dialècte"
 
 #: data/resources/about.blp:7
-#, fuzzy
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
-msgstr "Dreches d’autor© 2020-2021 dels autors de Dialècte"
+msgstr "Dreches d’autor© 2020-2022 dels autors de Dialècte"
 
 #: data/resources/about.blp:10
 msgid "GitHub page"
