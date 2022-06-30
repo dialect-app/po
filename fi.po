@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2021-09-20 22:36+0000\n"
-"Last-Translator: J. Lavoie <j.lavoie@net-c.ca>\n"
+"PO-Revision-Date: 2022-06-30 01:14+0000\n"
+"Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/dialect/dialect/"
 "fi/>\n"
 "Language: fi\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.13.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -45,23 +45,20 @@ msgid "Features:"
 msgstr "Ominaisuudet:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
-#, fuzzy
 msgid "Translation based on Google Translate"
-msgstr "Käännökset pohjautuen epäviralliseen Google Translate -rajapintaan"
+msgstr "Käännökset pohjautuen Google Translate -palveluun"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
-#, fuzzy
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
-"Käännökset pohjautuen LibreTranslate-rajapintaan, minkä tahansa instanssin "
-"käyttäminen on mahdollista"
+"Käännökset pohjautuen LibreTranslate-rajapintaan, minkä tahansa julkisen "
+"instanssin käyttäminen on mahdollista"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
-#, fuzzy
 msgid "Translation based on Lingva Translate API"
-msgstr "Käännökset pohjautuen epäviralliseen Google Translate -rajapintaan"
+msgstr "Käännökset pohjautuen Lingva Translate -rajapintaan"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Text to speech"
@@ -84,9 +81,8 @@ msgid "The Dialect Authors"
 msgstr "Dialect-kehittäjät"
 
 #: data/resources/about.blp:7
-#, fuzzy
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
-msgstr "Tekijänoikeus 2020–⁠2021 Dialect-kehittäjät"
+msgstr "Tekijänoikeus 2020–⁠2022 Dialect-kehittäjät"
 
 #: data/resources/about.blp:10
 msgid "GitHub page"
@@ -111,13 +107,12 @@ msgstr ""
 "Varoitus: IP-osoitteesi saatetaan estää rajapinnan väärinkäytöksen vuoksi."
 
 #: data/resources/preferences.ui:21
-#, fuzzy
 msgid "Show Translations in Desktop Search"
-msgstr "Käännöshistoria"
+msgstr "Näytä käännökset työpöytähaussa"
 
 #: data/resources/preferences.ui:22
 msgid "Warning: All desktop searches will be sent to the translation service"
-msgstr ""
+msgstr "Varoitus: kaikki työpöydällä tehdyt haut lähetetään käännöspalveluun"
 
 #: data/resources/preferences.ui:35
 msgid "Translation Shortcut"
@@ -166,12 +161,11 @@ msgstr "Tallenna"
 
 #: data/resources/preferences.ui:142
 msgid "API Key"
-msgstr ""
+msgstr "API-avain"
 
 #: data/resources/preferences.ui:143
-#, fuzzy
 msgid "Enter an API key for the translation service."
-msgstr "Määritä kääntäjäpalvelun verkko-osoite."
+msgstr "Anna käännöspalvelun API-avain."
 
 #: data/resources/preferences.ui:214
 msgid "Text-to-Speech"
@@ -287,13 +281,12 @@ msgid "Retry"
 msgstr "Yritä uudelleen"
 
 #: data/resources/window.blp:112 data/resources/window.blp:163
-#, fuzzy
 msgid "Open Preferences"
 msgstr "Avaa asetukset"
 
 #: data/resources/window.blp:154
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "Poista avain ja yritä uudelleen"
 
 #: data/resources/window.blp:215 data/resources/window.blp:572
 msgid "Switch languages"
@@ -336,31 +329,28 @@ msgid "Copy"
 msgstr "Kopioi"
 
 #: data/resources/window.blp:490
-#, fuzzy
 msgid "Suggest Translation"
-msgstr "Reaaliaikainen käännös"
+msgstr "Ehdota käännöstä"
 
 #: data/resources/window.blp:517
 msgid "Cancel"
-msgstr ""
+msgstr "Peru"
 
 #: data/resources/lang-selector.blp:18
-#, fuzzy
 msgid "Search Languages…"
-msgstr "Vaihda kieliä"
+msgstr "Etsi kieliä…"
 
 #: data/resources/theme-switcher.blp:25
 msgid "Follow system style"
-msgstr ""
+msgstr "Seuraa järjestelmän tyyliä"
 
 #: data/resources/theme-switcher.blp:39
 msgid "Light style"
-msgstr ""
+msgstr "Vaalea tyyli"
 
 #: data/resources/theme-switcher.blp:53
-#, fuzzy
 msgid "Dark style"
-msgstr "Tumma tila"
+msgstr "Tumma tyyli"
 
 #: dialect/preferences.py:220
 #, python-brace-format
@@ -368,38 +358,37 @@ msgid "Not a valid {backend} instance"
 msgstr "Ei kelvollinen {backend}-instanssi"
 
 #: dialect/preferences.py:288
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Not a valid {backend} API key"
-msgstr "Ei kelvollinen {backend}-instanssi"
+msgstr "Ei kelvollinen {backend} API -avain"
 
 #: dialect/window.py:296 dialect/window.py:1222
 msgid "The provided API key is invalid"
-msgstr ""
+msgstr "Annettu API-avain on virheellinen"
 
 #: dialect/window.py:298
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "Aseta kelvollinen API-avain asetuksissa."
 
 #: dialect/window.py:301
 msgid "Please set a valid API key or unset the API key in the preferences."
-msgstr ""
+msgstr "Aseta kelvollinen API-avain tai poista nykyinen API-avain asetuksista."
 
 #: dialect/window.py:322 dialect/window.py:1230
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "Tämän palvvelun käyttö vaatii API-avaimen"
 
 #: dialect/window.py:323
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "Aseta API-avain asetuksissa."
 
 #: dialect/window.py:336
-#, fuzzy
 msgid "Failed loading the translation service"
-msgstr "Käännöspalvelua ei voitu ladata"
+msgstr "Käännöspalvelun lataaminen epäonnistui"
 
 #: dialect/window.py:337
 msgid "Please report this in the Dialect bug tracker if the issue persists."
-msgstr ""
+msgstr "Ilmoita tästä Dialektin vianseurantajärjestelmään, jos ongelma toistuu."
 
 #: dialect/window.py:339
 #, python-brace-format
@@ -407,18 +396,17 @@ msgid ""
 "Failed loading \"{url}\", check if the instance address is correct or report "
 "in the Dialect bug tracker if the issue persists."
 msgstr ""
+"Osoitteen \"{url}\" lataaminen epäonnistui. Varmista että instanssin osoite "
+"on oikein tai ilmoita tästä Dialektin vianseurantajärjestelmään, jos ongelma "
+"toistuu."
 
 #: dialect/window.py:343
-#, fuzzy
 msgid "Couldn’t connect to the translation service"
-msgstr "Käännöspalvelua ei voitu ladata"
+msgstr "Käännöspalveluun ei voitu yhdistää"
 
 #: dialect/window.py:344
-#, fuzzy
 msgid "We can’t connect to the server. Please check for network issues."
-msgstr ""
-"Kääntäminen epäonnistui.\n"
-"Tarkista verkkoyhteyden toimivuus."
+msgstr "Kääntäminen epäonnistui. Tarkista verkkoyhteyden toimivuus."
 
 #: dialect/window.py:346
 #, python-brace-format
@@ -426,17 +414,16 @@ msgid ""
 "We can’t connect to the {service} instance \"{url}\".\n"
 " Please check for network issues or if the address is correct."
 msgstr ""
+"Palvelun {service} instassiin \"{url}\" ei voi yhdistää.\n"
+" Tarkista verkkoyhteyden toimivuus ja osoitteen oikeellisuus."
 
 #: dialect/window.py:369
 msgid "A network issue has occured. Retry?"
 msgstr "Tapahtui verkkovirhe. Yritetäänkö uudelleen?"
 
 #: dialect/window.py:382
-#, fuzzy
 msgid "A network issue has occured. Please try again."
-msgstr ""
-"Tapahtui verkkovirhe.\n"
-"Yritä uudelleen."
+msgstr "Tapahtui verkkovirhe. Yritä uudelleen."
 
 #: dialect/window.py:666 dialect/window.py:673 dialect/window.py:1126
 msgid "Auto"
@@ -444,32 +431,27 @@ msgstr "Automaattinen"
 
 #: dialect/window.py:870
 msgid "New translation has been suggested!"
-msgstr ""
+msgstr "Uutta käännöstä on ehdotettu!"
 
 #: dialect/window.py:872
 msgid "Suggestion failed."
-msgstr ""
+msgstr "Ehdotus epäonnistui."
 
 #: dialect/window.py:1012
-#, fuzzy
 msgid "{} characters limit reached!"
-msgstr "5000 merkin raja tuli vastaan!"
+msgstr "{} merkin raja tuli vastaan!"
 
 #: dialect/window.py:1165
 msgid "Did you mean: "
 msgstr "Tarkoititko: "
 
 #: dialect/window.py:1214
-#, fuzzy
 msgid "Translation failed, check for network issues"
-msgstr ""
-"Kääntäminen epäonnistui.\n"
-"Tarkista verkkoyhteyden toimivuus."
+msgstr "Kääntäminen epäonnistui. Tarkista verkkoyhteyden toimivuus"
 
 #: dialect/window.py:1238
-#, fuzzy
 msgid "Translation failed"
-msgstr "Käännöshistoria"
+msgstr "Kääntäminen epäonistui"
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
