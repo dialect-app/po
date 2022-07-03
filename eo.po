@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2021-09-22 18:37+0000\n"
+"PO-Revision-Date: 2022-07-03 14:20+0000\n"
 "Last-Translator: phlostically <phlostically@mailinator.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/dialect/"
 "dialect/eo/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.13.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -45,23 +45,20 @@ msgid "Features:"
 msgstr "Funkcioj:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
-#, fuzzy
 msgid "Translation based on Google Translate"
-msgstr "Tradukado per neoficiala API por Google-Tradukilo"
+msgstr "Tradukado per Google-Tradukilo"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
-#, fuzzy
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
-"Tradukado per la API LibreTranslate, permesante al vi uzi ajnan servilon "
-"Interrete disponeblan"
+"Tradukado per la API LibreTranslate, permesante al vi uzi ajnan publikan "
+"servilon"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
-#, fuzzy
 msgid "Translation based on Lingva Translate API"
-msgstr "Tradukado per neoficiala API por Google-Tradukilo"
+msgstr "Tradukado per la API de Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Text to speech"
@@ -84,9 +81,8 @@ msgid "The Dialect Authors"
 msgstr "La aŭtoroj de Dialect"
 
 #: data/resources/about.blp:7
-#, fuzzy
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
-msgstr "Kopirajto 2020–2021 La aŭtoroj de Dialect"
+msgstr "Kopirajto 2020–2022 La aŭtoroj de Dialect"
 
 #: data/resources/about.blp:10
 msgid "GitHub page"
@@ -110,13 +106,12 @@ msgid "Warning: Your IP address may get banned for API abuse."
 msgstr "Averto: Via IP-adreso eble malpermesiĝos pro API-misuzo."
 
 #: data/resources/preferences.ui:21
-#, fuzzy
 msgid "Show Translations in Desktop Search"
-msgstr "Historio de tradukado"
+msgstr "Montri tradukojn en la Labortabla Serĉo"
 
 #: data/resources/preferences.ui:22
 msgid "Warning: All desktop searches will be sent to the translation service"
-msgstr ""
+msgstr "Averto: ĉiuj labortablaj serĉoj estas sendotaj al la tradukservo"
 
 #: data/resources/preferences.ui:35
 msgid "Translation Shortcut"
@@ -165,12 +160,11 @@ msgstr "Konservi"
 
 #: data/resources/preferences.ui:142
 msgid "API Key"
-msgstr ""
+msgstr "API-ŝlosilo"
 
 #: data/resources/preferences.ui:143
-#, fuzzy
 msgid "Enter an API key for the translation service."
-msgstr "Tajpu adreson de Interreta traduka servo."
+msgstr "Tajpu API-ŝlosilon por la tradukservo."
 
 #: data/resources/preferences.ui:214
 msgid "Text-to-Speech"
@@ -286,13 +280,12 @@ msgid "Retry"
 msgstr "Reprovi"
 
 #: data/resources/window.blp:112 data/resources/window.blp:163
-#, fuzzy
 msgid "Open Preferences"
 msgstr "Agordi preferojn"
 
 #: data/resources/window.blp:154
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "Forigi ŝlosilon kaj reprovi"
 
 #: data/resources/window.blp:215 data/resources/window.blp:572
 msgid "Switch languages"
@@ -335,31 +328,28 @@ msgid "Copy"
 msgstr "Kopii"
 
 #: data/resources/window.blp:490
-#, fuzzy
 msgid "Suggest Translation"
-msgstr "Dumtajpa tradukado"
+msgstr "Proponi tradukon"
 
 #: data/resources/window.blp:517
 msgid "Cancel"
-msgstr ""
+msgstr "Nuligi"
 
 #: data/resources/lang-selector.blp:18
-#, fuzzy
 msgid "Search Languages…"
-msgstr "Ŝanĝi lingvojn"
+msgstr "Serĉi lingvojn…"
 
 #: data/resources/theme-switcher.blp:25
 msgid "Follow system style"
-msgstr ""
+msgstr "Laŭ sistema etoso"
 
 #: data/resources/theme-switcher.blp:39
 msgid "Light style"
-msgstr ""
+msgstr "Hela etoso"
 
 #: data/resources/theme-switcher.blp:53
-#, fuzzy
 msgid "Dark style"
-msgstr "Malhela reĝimo"
+msgstr "Malhela etoso"
 
 #: dialect/preferences.py:220
 #, python-brace-format
@@ -367,38 +357,40 @@ msgid "Not a valid {backend} instance"
 msgstr "Ne estas valida servilo de {backend}"
 
 #: dialect/preferences.py:288
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Not a valid {backend} API key"
-msgstr "Ne estas valida servilo de {backend}"
+msgstr "Ne estas valida API-ŝlosilo de {backend}"
 
 #: dialect/window.py:296 dialect/window.py:1222
 msgid "The provided API key is invalid"
-msgstr ""
+msgstr "La provizita API-ŝlosilo estas nevalida"
 
 #: dialect/window.py:298
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "Bonvolu agordi validan API-ŝlosilon en la preferoj."
 
 #: dialect/window.py:301
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
+"Bonvolu agordi validan API-ŝlosilon aŭ malagordi la API-ŝlosilon en la "
+"preferoj."
 
 #: dialect/window.py:322 dialect/window.py:1230
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "API-ŝlosilo estas bezonata por uzi la servon"
 
 #: dialect/window.py:323
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "Bonvolu agordi API-ŝlosilon en la preferoj."
 
 #: dialect/window.py:336
-#, fuzzy
 msgid "Failed loading the translation service"
-msgstr "Ne eblis ŝargi tradukan servon"
+msgstr "Malsukcesis konektiĝi al la tradukservo"
 
 #: dialect/window.py:337
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
+"Bonvolu raporti tion en la cimspurilon de Dialect, se la problemo daŭras."
 
 #: dialect/window.py:339
 #, python-brace-format
@@ -406,18 +398,16 @@ msgid ""
 "Failed loading \"{url}\", check if the instance address is correct or report "
 "in the Dialect bug tracker if the issue persists."
 msgstr ""
+"Malsukcesis konektiĝi al «{url}». Kontrolu, ĉu la servila adreso estas "
+"ĝusta, aŭ raportu tion en la cimspurilon de Dialect, se la problemo daŭras."
 
 #: dialect/window.py:343
-#, fuzzy
 msgid "Couldn’t connect to the translation service"
-msgstr "Ne eblis ŝargi tradukan servon"
+msgstr "Ne eblis konektiĝi al traduka servo"
 
 #: dialect/window.py:344
-#, fuzzy
 msgid "We can’t connect to the server. Please check for network issues."
-msgstr ""
-"Traduko malsukcesis.\n"
-"Bonvolu kontroli pri retaj problemoj."
+msgstr "Ne eblis konektiĝi al servilo. Bonvolu kontroli pri retaj problemoj."
 
 #: dialect/window.py:346
 #, python-brace-format
@@ -425,17 +415,16 @@ msgid ""
 "We can’t connect to the {service} instance \"{url}\".\n"
 " Please check for network issues or if the address is correct."
 msgstr ""
+"Ne eblas konektiĝi al la servilo «{url}» de {service}.\n"
+" Bonvolu kontroli pri retaj problemoj aŭ ĉu la adreso estas ĝusta."
 
 #: dialect/window.py:369
 msgid "A network issue has occured. Retry?"
 msgstr "Reta problemo okazis. Ĉu reprovi?"
 
 #: dialect/window.py:382
-#, fuzzy
 msgid "A network issue has occured. Please try again."
-msgstr ""
-"Reta problemo okazis.\n"
-"Bonvolu reprovi."
+msgstr "Reta problemo okazis. Bonvolu reprovi."
 
 #: dialect/window.py:666 dialect/window.py:673 dialect/window.py:1126
 msgid "Auto"
@@ -443,32 +432,27 @@ msgstr "Aŭtomata"
 
 #: dialect/window.py:870
 msgid "New translation has been suggested!"
-msgstr ""
+msgstr "Nova traduko estis proponita!"
 
 #: dialect/window.py:872
 msgid "Suggestion failed."
-msgstr ""
+msgstr "Proponado malsukcesis."
 
 #: dialect/window.py:1012
-#, fuzzy
 msgid "{} characters limit reached!"
-msgstr "Atingiĝis limo de 5000 skribsignoj!"
+msgstr "Atingiĝis limo de {} skribsignoj!"
 
 #: dialect/window.py:1165
 msgid "Did you mean: "
 msgstr "Ĉu vi intencis la jenon: "
 
 #: dialect/window.py:1214
-#, fuzzy
 msgid "Translation failed, check for network issues"
-msgstr ""
-"Traduko malsukcesis.\n"
-"Bonvolu kontroli pri retaj problemoj."
+msgstr "Tradukado malsukcesis; bonvolu kontroli pri retaj problemoj"
 
 #: dialect/window.py:1238
-#, fuzzy
 msgid "Translation failed"
-msgstr "Historio de tradukado"
+msgstr "Tradukado malsukcesis"
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
