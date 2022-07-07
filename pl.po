@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2021-10-09 06:01+0000\n"
+"PO-Revision-Date: 2022-07-07 06:14+0000\n"
 "Last-Translator: IntinteDAO <lordfervi@protonmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/dialect/dialect/"
 "pl/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.13.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -118,6 +118,8 @@ msgstr "Historia tłumaczeń"
 #: data/resources/preferences.ui:22
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr ""
+"Ostrzeżenie: Wszystkie wyszukiwania na pulpicie zostaną wysłane do serwisu "
+"tłumaczącego"
 
 #: data/resources/preferences.ui:35
 msgid "Translation Shortcut"
@@ -166,7 +168,7 @@ msgstr "Zapisz"
 
 #: data/resources/preferences.ui:142
 msgid "API Key"
-msgstr ""
+msgstr "Klucz API"
 
 #: data/resources/preferences.ui:143
 #, fuzzy
@@ -293,7 +295,7 @@ msgstr "Otwórz preferencje"
 
 #: data/resources/window.blp:154
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "Usuń klucz i spróbuj ponownie"
 
 #: data/resources/window.blp:215 data/resources/window.blp:572
 msgid "Switch languages"
@@ -342,7 +344,7 @@ msgstr "Tłumacz na żywo"
 
 #: data/resources/window.blp:517
 msgid "Cancel"
-msgstr ""
+msgstr "Anuluj"
 
 #: data/resources/lang-selector.blp:18
 #, fuzzy
@@ -351,11 +353,11 @@ msgstr "Zamień języki"
 
 #: data/resources/theme-switcher.blp:25
 msgid "Follow system style"
-msgstr ""
+msgstr "Dostosuj się do stylu systemowego"
 
 #: data/resources/theme-switcher.blp:39
 msgid "Light style"
-msgstr ""
+msgstr "Jasny motyw"
 
 #: data/resources/theme-switcher.blp:53
 #, fuzzy
@@ -374,23 +376,23 @@ msgstr "Niepoprawna instancja {backend}"
 
 #: dialect/window.py:296 dialect/window.py:1222
 msgid "The provided API key is invalid"
-msgstr ""
+msgstr "Dostarczony klucz API jest niepoprawny"
 
 #: dialect/window.py:298
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "Proszę ustaw poprawny klucz API w ustawieniach."
 
 #: dialect/window.py:301
 msgid "Please set a valid API key or unset the API key in the preferences."
-msgstr ""
+msgstr "Proszę podać poprawny klucz API lub usuń go z ustawień."
 
 #: dialect/window.py:322 dialect/window.py:1230
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "Klucz API jest wymagany do korzystania z usługi"
 
 #: dialect/window.py:323
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "Proszę ustaw klucz API w ustawieniach."
 
 #: dialect/window.py:336
 #, fuzzy
@@ -400,6 +402,7 @@ msgstr "Nie mogę się połączyć z usługą tłumacza"
 #: dialect/window.py:337
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
+"Proszę zgłosić to w bug trackerze Dialect, jeśli problem nadal występuje."
 
 #: dialect/window.py:339
 #, python-brace-format
@@ -444,7 +447,7 @@ msgstr "Wykryj język"
 
 #: dialect/window.py:870
 msgid "New translation has been suggested!"
-msgstr ""
+msgstr "Zaproponowano nowe tłumaczenie!"
 
 #: dialect/window.py:872
 msgid "Suggestion failed."
