@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2021-10-01 15:38+0000\n"
+"PO-Revision-Date: 2022-07-11 15:22+0000\n"
 "Last-Translator: Vojtěch Perník <translations@pervoj.cz>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/dialect/dialect/cs/"
 ">\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.14-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -45,23 +45,20 @@ msgid "Features:"
 msgstr "Funkce:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
-#, fuzzy
 msgid "Translation based on Google Translate"
-msgstr "Překlad je postavený na neoficiálním API pro Google Překladač"
+msgstr "Překlad postavený na Google Překladači"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
-#, fuzzy
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
-"Překlad založený na API LibreTranslate, který vám umožní použít jakoukoli "
-"instanci dostupnou online"
+"Překlad založený na API LibreTranslate, umožňuje použít jakoukoli veřejnou "
+"instanci"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
-#, fuzzy
 msgid "Translation based on Lingva Translate API"
-msgstr "Překlad je postavený na neoficiálním API pro Google Překladač"
+msgstr "Překlad postavený na API Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Text to speech"
@@ -84,9 +81,8 @@ msgid "The Dialect Authors"
 msgstr "Autoři Dialektu"
 
 #: data/resources/about.blp:7
-#, fuzzy
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
-msgstr "Copyright 2020–2021 Autoři Dialektu"
+msgstr "Copyright 2020–⁠2022 autoři Dialektu"
 
 #: data/resources/about.blp:10
 msgid "GitHub page"
@@ -110,13 +106,12 @@ msgid "Warning: Your IP address may get banned for API abuse."
 msgstr "Varování: Vaše IP adresa může být zablokována za zneužívání API."
 
 #: data/resources/preferences.ui:21
-#, fuzzy
 msgid "Show Translations in Desktop Search"
-msgstr "Historie překladů"
+msgstr "Zobrazit překlady ve vyhledávání v Přehledu činností"
 
 #: data/resources/preferences.ui:22
 msgid "Warning: All desktop searches will be sent to the translation service"
-msgstr ""
+msgstr "Varování: Všechna vyhledávání budou poslána na servery překladače"
 
 #: data/resources/preferences.ui:35
 msgid "Translation Shortcut"
@@ -165,12 +160,11 @@ msgstr "Uložit"
 
 #: data/resources/preferences.ui:142
 msgid "API Key"
-msgstr ""
+msgstr "Klíč API"
 
 #: data/resources/preferences.ui:143
-#, fuzzy
 msgid "Enter an API key for the translation service."
-msgstr "Zadejte URL adresu překladače."
+msgstr "Zadejte klíč API překladače."
 
 #: data/resources/preferences.ui:214
 msgid "Text-to-Speech"
@@ -286,7 +280,6 @@ msgid "Retry"
 msgstr "Zkusit znovu"
 
 #: data/resources/window.blp:112 data/resources/window.blp:163
-#, fuzzy
 msgid "Open Preferences"
 msgstr "Otevřít předvolby"
 
@@ -335,29 +328,26 @@ msgid "Copy"
 msgstr "Kopírovat"
 
 #: data/resources/window.blp:490
-#, fuzzy
 msgid "Suggest Translation"
-msgstr "Živý překlad"
+msgstr "Navrhovat překlad"
 
 #: data/resources/window.blp:517
 msgid "Cancel"
-msgstr ""
+msgstr "Zrušit"
 
 #: data/resources/lang-selector.blp:18
-#, fuzzy
 msgid "Search Languages…"
-msgstr "Změnit jazyky"
+msgstr "Jazyky vyhledávání…"
 
 #: data/resources/theme-switcher.blp:25
 msgid "Follow system style"
-msgstr ""
+msgstr "Použít systémové téma"
 
 #: data/resources/theme-switcher.blp:39
 msgid "Light style"
-msgstr ""
+msgstr "Světlý režim"
 
 #: data/resources/theme-switcher.blp:53
-#, fuzzy
 msgid "Dark style"
 msgstr "Tmavý režim"
 
@@ -367,38 +357,39 @@ msgid "Not a valid {backend} instance"
 msgstr "Neplatná instance {backend}"
 
 #: dialect/preferences.py:288
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Not a valid {backend} API key"
-msgstr "Neplatná instance {backend}"
+msgstr "Neplatný klíč API {backend}"
 
 #: dialect/window.py:296 dialect/window.py:1222
 msgid "The provided API key is invalid"
-msgstr ""
+msgstr "Zadaný klíč API je neplatný"
 
 #: dialect/window.py:298
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "Prosím, zadejte platný klíč API v předvolbách."
 
 #: dialect/window.py:301
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
+"Prosím, zadejte platný klíč API nebo odeberte současný klíč API v "
+"předvolbách."
 
 #: dialect/window.py:322 dialect/window.py:1230
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "Pro používání této služby je vyžadován klíč API"
 
 #: dialect/window.py:323
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "Prosím, zadejte klíč API v předvolbách."
 
 #: dialect/window.py:336
-#, fuzzy
 msgid "Failed loading the translation service"
 msgstr "Nepodařilo se načíst překladač"
 
 #: dialect/window.py:337
 msgid "Please report this in the Dialect bug tracker if the issue persists."
-msgstr ""
+msgstr "Pokud problém přetrvává, prosím, nahlaste to v sledovači chyb Dialektu."
 
 #: dialect/window.py:339
 #, python-brace-format
@@ -406,18 +397,16 @@ msgid ""
 "Failed loading \"{url}\", check if the instance address is correct or report "
 "in the Dialect bug tracker if the issue persists."
 msgstr ""
+"„{url}“ se nepodařilo načíst, zkontrolujte, jestli je adresa instance "
+"správná, nebo, pokud chyba přetrvává, nahlaste to ve sledovači chyb Dialektu."
 
 #: dialect/window.py:343
-#, fuzzy
 msgid "Couldn’t connect to the translation service"
-msgstr "Nepodařilo se načíst překladač"
+msgstr "Nepodařilo se připojit k překladači"
 
 #: dialect/window.py:344
-#, fuzzy
 msgid "We can’t connect to the server. Please check for network issues."
-msgstr ""
-"Překládání selhalo.\n"
-"Zkontrolujte prosím síť."
+msgstr "Nepodařilo se připojit k serveru. Zkontrolujte prosím síť."
 
 #: dialect/window.py:346
 #, python-brace-format
@@ -425,17 +414,16 @@ msgid ""
 "We can’t connect to the {service} instance \"{url}\".\n"
 " Please check for network issues or if the address is correct."
 msgstr ""
+"Nepodařilo se připojit k instanci {service} bug tracker „{url}“.\n"
+" Prosím, zkontrolujte síť nebo jestli je tato adresa zprávná."
 
 #: dialect/window.py:369
 msgid "A network issue has occured. Retry?"
 msgstr "Došlo k problému se sítí. Zkusit znovu?"
 
 #: dialect/window.py:382
-#, fuzzy
 msgid "A network issue has occured. Please try again."
-msgstr ""
-"Došlo k problému se sítí.\n"
-"Prosím, zkuste to znovu."
+msgstr "Došlo k problému se sítí. Prosím, zkuste to znovu."
 
 #: dialect/window.py:666 dialect/window.py:673 dialect/window.py:1126
 msgid "Auto"
@@ -443,32 +431,27 @@ msgstr "Automatický"
 
 #: dialect/window.py:870
 msgid "New translation has been suggested!"
-msgstr ""
+msgstr "Byl navržen nový překlad!"
 
 #: dialect/window.py:872
 msgid "Suggestion failed."
-msgstr ""
+msgstr "Návrh selhal."
 
 #: dialect/window.py:1012
-#, fuzzy
 msgid "{} characters limit reached!"
-msgstr "Limit 5000 znaků byl dosažen!"
+msgstr "Limit {} znaků byl dosažen!"
 
 #: dialect/window.py:1165
 msgid "Did you mean: "
 msgstr "Měli jste na mysli: "
 
 #: dialect/window.py:1214
-#, fuzzy
 msgid "Translation failed, check for network issues"
-msgstr ""
-"Překládání selhalo.\n"
-"Zkontrolujte prosím síť."
+msgstr "Překládání selhalo, zkontrolujte prosím síť"
 
 #: dialect/window.py:1238
-#, fuzzy
 msgid "Translation failed"
-msgstr "Vypadá to, že překládání selhalo"
+msgstr "Překládání selhalo"
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
