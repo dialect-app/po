@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2021-09-20 22:36+0000\n"
+"PO-Revision-Date: 2022-07-15 09:20+0000\n"
 "Last-Translator: Sergio Varela <sergitroll9@gmail.com>\n"
 "Language-Team: Basque <https://hosted.weblate.org/projects/dialect/dialect/"
 "eu/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.14-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -84,9 +84,8 @@ msgid "The Dialect Authors"
 msgstr "Dialect-en egileak"
 
 #: data/resources/about.blp:7
-#, fuzzy
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
-msgstr "Copyright © 2020–⁠2021 Dialect-en egileak"
+msgstr "Copyright © 2020–⁠2022 Dialect-en egileak"
 
 #: data/resources/about.blp:10
 msgid "GitHub page"
@@ -119,6 +118,7 @@ msgstr "Itzulpenaren historia"
 #: data/resources/preferences.ui:22
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr ""
+"Adi: Mahaigain inguruneko bilaketa guztiak itzulpen-zerbitzura bidaliko dira"
 
 #: data/resources/preferences.ui:35
 msgid "Translation Shortcut"
@@ -167,7 +167,7 @@ msgstr "Gorde"
 
 #: data/resources/preferences.ui:142
 msgid "API Key"
-msgstr ""
+msgstr "API giltza"
 
 #: data/resources/preferences.ui:143
 #, fuzzy
