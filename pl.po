@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2022-07-11 15:22+0000\n"
-"Last-Translator: marcin <martinwolski04@gmail.com>\n"
+"PO-Revision-Date: 2022-07-17 21:14+0000\n"
+"Last-Translator: IntinteDAO <lordfervi@protonmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/dialect/dialect/"
 "pl/>\n"
 "Language: pl\n"
@@ -122,7 +122,7 @@ msgstr "Skrót klawiszowy do przetłumaczenia tekstu"
 
 #: data/resources/preferences.ui:36
 msgid "The unselected choice will be used for line break."
-msgstr "Druga opcja będzie służyć do tworzenia nowej linii."
+msgstr "Niezaznaczenie opcji będzie automatycznie łamać linię."
 
 #: data/resources/preferences.ui:49
 msgid "Default to Auto"
@@ -142,7 +142,7 @@ msgstr "Wybierz jeden z dostępnych serwisów tłumaczeń."
 
 #: data/resources/preferences.ui:70
 msgid "Translator Instance"
-msgstr "Instancja silnika tłumacza"
+msgstr "Instancja tłumacza"
 
 #: data/resources/preferences.ui:71
 msgid "Enter a translation service URL."
@@ -420,8 +420,8 @@ msgid ""
 "We can’t connect to the {service} instance \"{url}\".\n"
 " Please check for network issues or if the address is correct."
 msgstr ""
-"Nie możemy połączyć się z instancją serwisu {service} - „{url}”.\n"
-"Sprawdź, czy nie ma problemów z siecią, lub czy adres jest prawidłowy."
+"Nie możemy połączyć się z instancją {service}  \"{url}\".\n"
+" Sprawdź połączenie sieciowe lub czy adres jest poprawny."
 
 #: dialect/window.py:369
 msgid "A network issue has occured. Retry?"
@@ -433,7 +433,7 @@ msgstr "Wystąpił problem z siecią. Spróbuj ponownie."
 
 #: dialect/window.py:666 dialect/window.py:673 dialect/window.py:1126
 msgid "Auto"
-msgstr "Wykryj język"
+msgstr "Automatycznie"
 
 #: dialect/window.py:870
 msgid "New translation has been suggested!"
@@ -441,7 +441,7 @@ msgstr "Zaproponowano nowe tłumaczenie!"
 
 #: dialect/window.py:872
 msgid "Suggestion failed."
-msgstr "Sugestia nie powiodła się."
+msgstr "Sugestia odrzucona."
 
 #: dialect/window.py:1012
 msgid "{} characters limit reached!"
