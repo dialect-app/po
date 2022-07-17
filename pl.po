@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
 "PO-Revision-Date: 2022-07-17 21:14+0000\n"
-"Last-Translator: IntinteDAO <lordfervi@protonmail.com>\n"
+"Last-Translator: gnu-ewm <gnu.ewm@protonmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/dialect/dialect/"
 "pl/>\n"
 "Language: pl\n"
@@ -351,7 +351,6 @@ msgid "Light style"
 msgstr "Jasny motyw"
 
 #: data/resources/theme-switcher.blp:53
-#, fuzzy
 msgid "Dark style"
 msgstr "Tryb ciemny"
 
@@ -453,7 +452,7 @@ msgstr "Czy miałeś na myśli: "
 
 #: dialect/window.py:1214
 msgid "Translation failed, check for network issues"
-msgstr "Tłumaczenie nie udało się, sprawdź połączenie z internetem."
+msgstr "Tłumaczenie nie udało się, sprawdź połączenie z internetem"
 
 #: dialect/window.py:1238
 msgid "Translation failed"
