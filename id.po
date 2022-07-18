@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2021-10-01 15:38+0000\n"
-"Last-Translator: Adzka Muhammad Mumtaz <4dzkamivi@gmail.com>\n"
+"PO-Revision-Date: 2022-07-18 21:20+0000\n"
+"Last-Translator: Kukuh Syafaat <syafaatkukuh@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/dialect/"
 "dialect/id/>\n"
 "Language: id\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.14-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -45,23 +45,20 @@ msgid "Features:"
 msgstr "Fitur:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
-#, fuzzy
 msgid "Translation based on Google Translate"
-msgstr "Terjemahan berdasarkan API tidak resmi untuk Google Terjemahan"
+msgstr "Terjemahan berdasarkan Google Terjemahan"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
-#, fuzzy
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
 "Terjemahan berdasarkan LibreTranslate API, memungkinkan Anda menggunakan "
-"instance apa pun yang tersedia secara daring"
+"instance publik apa pun"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
-#, fuzzy
 msgid "Translation based on Lingva Translate API"
-msgstr "Terjemahan berdasarkan API tidak resmi untuk Google Terjemahan"
+msgstr "Terjemahan berdasarkan Lingva Translate API"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Text to speech"
@@ -84,9 +81,8 @@ msgid "The Dialect Authors"
 msgstr "Penulis Dialect"
 
 #: data/resources/about.blp:7
-#, fuzzy
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
-msgstr "Hak Cipta 2020–2021 Penulis Dialect"
+msgstr "Hak Cipta 2020–2022 Penulis Dialect"
 
 #: data/resources/about.blp:10
 msgid "GitHub page"
@@ -95,7 +91,7 @@ msgstr "Halaman GitHub"
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:14
 msgid "translator-credits"
-msgstr "Kukuh Syafaat <kukuhsyafaat@gnome.org>, 2020-2021."
+msgstr "Kukuh Syafaat <kukuhsyafaat@gnome.org>, 2020-2022."
 
 #: data/resources/preferences.ui:11
 msgid "Behavior"
@@ -110,13 +106,12 @@ msgid "Warning: Your IP address may get banned for API abuse."
 msgstr "Peringatan: Alamat IP Anda mungkin dilarang untuk penyalahgunaan API."
 
 #: data/resources/preferences.ui:21
-#, fuzzy
 msgid "Show Translations in Desktop Search"
-msgstr "Riwayat terjemahan"
+msgstr "Tampilkan Terjemahan di Pencarian Destop"
 
 #: data/resources/preferences.ui:22
 msgid "Warning: All desktop searches will be sent to the translation service"
-msgstr ""
+msgstr "Peringatan: Semua pencarian destop akan dikirim ke layanan terjemahan"
 
 #: data/resources/preferences.ui:35
 msgid "Translation Shortcut"
@@ -165,12 +160,11 @@ msgstr "Simpan"
 
 #: data/resources/preferences.ui:142
 msgid "API Key"
-msgstr ""
+msgstr "Kunci API"
 
 #: data/resources/preferences.ui:143
-#, fuzzy
 msgid "Enter an API key for the translation service."
-msgstr "Masukkan sebuah alamat URL layanan penerjemahan."
+msgstr "Masukkan kunci API untuk layanan terjemahan."
 
 #: data/resources/preferences.ui:214
 msgid "Text-to-Speech"
@@ -286,13 +280,12 @@ msgid "Retry"
 msgstr "Coba lagi"
 
 #: data/resources/window.blp:112 data/resources/window.blp:163
-#, fuzzy
 msgid "Open Preferences"
-msgstr "Buka preferensi"
+msgstr "Buka Preferensi"
 
 #: data/resources/window.blp:154
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "Hapus Kunci dan Coba Lagi"
 
 #: data/resources/window.blp:215 data/resources/window.blp:572
 msgid "Switch languages"
@@ -335,31 +328,28 @@ msgid "Copy"
 msgstr "Salin"
 
 #: data/resources/window.blp:490
-#, fuzzy
 msgid "Suggest Translation"
-msgstr "Terjemahan Langsung"
+msgstr "Terjemahan LangsungSarankan Terjemahan"
 
 #: data/resources/window.blp:517
 msgid "Cancel"
-msgstr ""
+msgstr "Batal"
 
 #: data/resources/lang-selector.blp:18
-#, fuzzy
 msgid "Search Languages…"
-msgstr "Beralih Bahasa"
+msgstr "Cari Bahasa…"
 
 #: data/resources/theme-switcher.blp:25
 msgid "Follow system style"
-msgstr ""
+msgstr "Ikuti gaya sistem"
 
 #: data/resources/theme-switcher.blp:39
 msgid "Light style"
-msgstr ""
+msgstr "Gaya terang"
 
 #: data/resources/theme-switcher.blp:53
-#, fuzzy
 msgid "Dark style"
-msgstr "Mode Gelap"
+msgstr "Gaya gelap"
 
 #: dialect/preferences.py:220
 #, python-brace-format
@@ -367,38 +357,38 @@ msgid "Not a valid {backend} instance"
 msgstr "Bukan instance {backend} yang valid"
 
 #: dialect/preferences.py:288
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Not a valid {backend} API key"
-msgstr "Bukan instance {backend} yang valid"
+msgstr "Bukan kunci API {backend} yang valid"
 
 #: dialect/window.py:296 dialect/window.py:1222
 msgid "The provided API key is invalid"
-msgstr ""
+msgstr "Kunci API yang diberikan tidak valid"
 
 #: dialect/window.py:298
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "Harap tetapkan kunci API yang valid di preferensi."
 
 #: dialect/window.py:301
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
+"Harap setel kunci API yang valid atau batalkan setel kunci API di preferensi."
 
 #: dialect/window.py:322 dialect/window.py:1230
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "Kunci API diperlukan untuk menggunakan layanan"
 
 #: dialect/window.py:323
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "Harap tetapkan kunci API di preferensi."
 
 #: dialect/window.py:336
-#, fuzzy
 msgid "Failed loading the translation service"
-msgstr "Tidak dapat memuat layanan penerjemah"
+msgstr "Gagal memuat layanan terjemahan"
 
 #: dialect/window.py:337
 msgid "Please report this in the Dialect bug tracker if the issue persists."
-msgstr ""
+msgstr "Harap laporkan ini di pelacak kutu Dialect jika masalah berlanjut."
 
 #: dialect/window.py:339
 #, python-brace-format
@@ -406,18 +396,17 @@ msgid ""
 "Failed loading \"{url}\", check if the instance address is correct or report "
 "in the Dialect bug tracker if the issue persists."
 msgstr ""
+"Gagal memuat \"{url}\", periksa apakah alamat instance sudah benar atau "
+"laporkan di pelacak bug Dialect jika masalah berlanjut."
 
 #: dialect/window.py:343
-#, fuzzy
 msgid "Couldn’t connect to the translation service"
-msgstr "Tidak dapat memuat layanan penerjemah"
+msgstr "Tidak dapat terhubung ke layanan terjemahan"
 
 #: dialect/window.py:344
-#, fuzzy
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
-"Terjemahan gagal.\n"
-"Silakan periksa masalah jaringan."
+"Kami tidak dapat terhubung ke peladen. Silakan periksa masalah jaringan."
 
 #: dialect/window.py:346
 #, python-brace-format
@@ -425,17 +414,16 @@ msgid ""
 "We can’t connect to the {service} instance \"{url}\".\n"
 " Please check for network issues or if the address is correct."
 msgstr ""
+"Kami tidak dapat terhubung ke instance {service} \"{url}\".\n"
+" Harap periksa apakah ada masalah jaringan atau apakah alamatnya benar."
 
 #: dialect/window.py:369
 msgid "A network issue has occured. Retry?"
 msgstr "Terjadi masalah jaringan. Ulangi?"
 
 #: dialect/window.py:382
-#, fuzzy
 msgid "A network issue has occured. Please try again."
-msgstr ""
-"Terjadi masalah jaringan.\n"
-"Silakan coba lagi."
+msgstr "Terjadi masalah jaringan. Silakan coba lagi."
 
 #: dialect/window.py:666 dialect/window.py:673 dialect/window.py:1126
 msgid "Auto"
@@ -443,32 +431,27 @@ msgstr "Otomatis"
 
 #: dialect/window.py:870
 msgid "New translation has been suggested!"
-msgstr ""
+msgstr "Terjemahan baru telah disarankan!"
 
 #: dialect/window.py:872
 msgid "Suggestion failed."
-msgstr ""
+msgstr "Saran gagal."
 
 #: dialect/window.py:1012
-#, fuzzy
 msgid "{} characters limit reached!"
-msgstr "Batas 5000 karakter tercapai!"
+msgstr "{} batas karakter tercapai!"
 
 #: dialect/window.py:1165
 msgid "Did you mean: "
 msgstr "Apakah maksud Anda: "
 
 #: dialect/window.py:1214
-#, fuzzy
 msgid "Translation failed, check for network issues"
-msgstr ""
-"Terjemahan gagal.\n"
-"Silakan periksa masalah jaringan."
+msgstr "Terjemahan gagal, periksa masalah jaringan"
 
 #: dialect/window.py:1238
-#, fuzzy
 msgid "Translation failed"
-msgstr "Penerjemahan tampaknya telah gagal"
+msgstr "Terjemahan gagal"
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
