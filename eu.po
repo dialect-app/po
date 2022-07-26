@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2022-07-15 09:20+0000\n"
+"PO-Revision-Date: 2022-07-26 11:19+0000\n"
 "Last-Translator: Sergio Varela <sergitroll9@gmail.com>\n"
 "Language-Team: Basque <https://hosted.weblate.org/projects/dialect/dialect/"
 "eu/>\n"
@@ -45,23 +45,20 @@ msgid "Features:"
 msgstr "Ezaugarriak:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
-#, fuzzy
 msgid "Translation based on Google Translate"
-msgstr "Google Translateko API ez-ofizial batean oinarritutako itzulpena"
+msgstr "Google Translateko APIren itzulpena"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
-#, fuzzy
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
-"LibreTranslate APIan oinarritutako itzulpena, linean eskuragarri dagoen "
-"edozein instantzia erabiltzeko aukera ematen duena"
+"LibreTranslate APIan oinarritutako itzulpena, edozein instantzia erabiltzeko "
+"aukera ematen duena"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
-#, fuzzy
 msgid "Translation based on Lingva Translate API"
-msgstr "Google Translateko API ez-ofizial batean oinarritutako itzulpena"
+msgstr "Lingva Translateko API oinarritutako itzulpena"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Text to speech"
@@ -111,9 +108,8 @@ msgstr ""
 "erabiltzeagatik."
 
 #: data/resources/preferences.ui:21
-#, fuzzy
 msgid "Show Translations in Desktop Search"
-msgstr "Itzulpenaren historia"
+msgstr "Itzulpenak erakutsi mahaigaineko bilaketan"
 
 #: data/resources/preferences.ui:22
 msgid "Warning: All desktop searches will be sent to the translation service"
@@ -170,9 +166,8 @@ msgid "API Key"
 msgstr "API giltza"
 
 #: data/resources/preferences.ui:143
-#, fuzzy
 msgid "Enter an API key for the translation service."
-msgstr "Sartu itzulpen-zerbitzu baten URLa."
+msgstr "Sartu API giltza bat itzulpen-zerbitzurako."
 
 #: data/resources/preferences.ui:214
 msgid "Text-to-Speech"
@@ -288,13 +283,12 @@ msgid "Retry"
 msgstr "Berriro saiatu"
 
 #: data/resources/window.blp:112 data/resources/window.blp:163
-#, fuzzy
 msgid "Open Preferences"
-msgstr "Ireki lehentasunak"
+msgstr "Ireki hobespenak"
 
 #: data/resources/window.blp:154
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "Ezabatu giltza eta saiatu berriro"
 
 #: data/resources/window.blp:215 data/resources/window.blp:572
 msgid "Switch languages"
@@ -337,31 +331,28 @@ msgid "Copy"
 msgstr "Kopiatu"
 
 #: data/resources/window.blp:490
-#, fuzzy
 msgid "Suggest Translation"
-msgstr "Zuzeneko itzulpena"
+msgstr "Iradoki itzulpena"
 
 #: data/resources/window.blp:517
 msgid "Cancel"
-msgstr ""
+msgstr "Ezeztatu"
 
 #: data/resources/lang-selector.blp:18
-#, fuzzy
 msgid "Search Languages…"
-msgstr "Hizkuntza aldatu"
+msgstr "Bilatu hizkuntzak…"
 
 #: data/resources/theme-switcher.blp:25
 msgid "Follow system style"
-msgstr ""
+msgstr "Sistemaren estiloa jarraitu"
 
 #: data/resources/theme-switcher.blp:39
 msgid "Light style"
-msgstr ""
+msgstr "Estilo argia"
 
 #: data/resources/theme-switcher.blp:53
-#, fuzzy
 msgid "Dark style"
-msgstr "Modu iluna"
+msgstr "Estilo iluna"
 
 #: dialect/preferences.py:220
 #, python-brace-format
@@ -369,38 +360,41 @@ msgid "Not a valid {backend} instance"
 msgstr "Ez da {backend} baliozkotutako instantzia bat"
 
 #: dialect/preferences.py:288
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Not a valid {backend} API key"
-msgstr "Ez da {backend} baliozkotutako instantzia bat"
+msgstr "Ez da {backend}-ko API giltza balioduna"
 
 #: dialect/window.py:296 dialect/window.py:1222
 msgid "The provided API key is invalid"
-msgstr ""
+msgstr "Emandako API giltza baliogabea da"
 
 #: dialect/window.py:298
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "Mesedez, konfiguratu API giltza bat hobespesunetan baliozkoa."
 
 #: dialect/window.py:301
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
+"Mesedez, konfiguratu API giltza baliozkotu bat edo kendu API giltza "
+"lehentasunetan."
 
 #: dialect/window.py:322 dialect/window.py:1230
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "APIko giltza bat behar da zerbitzu hau erabiltzeko"
 
 #: dialect/window.py:323
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "Mesedez, konfiguratu API giltza bat hobespesunetan."
 
 #: dialect/window.py:336
-#, fuzzy
 msgid "Failed loading the translation service"
-msgstr "Ezin izan zen itzulpen-zerbitzua kargatu"
+msgstr "Errorea itzulpen-zerbitzua kargatzean"
 
 #: dialect/window.py:337
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
+"Mesedez, bidali honen berri Dialect-en bug trackerrean, erroreak bere "
+"horretan jarraitzen badu."
 
 #: dialect/window.py:339
 #, python-brace-format
@@ -408,18 +402,17 @@ msgid ""
 "Failed loading \"{url}\", check if the instance address is correct or report "
 "in the Dialect bug tracker if the issue persists."
 msgstr ""
+"\"{url}\" kargatzean huts egin duzu, egiaztatu eskabidearen helbidea zuzena "
+"den edo Dialect-en bug tracker-ean idatzi, erroreak bere horretan jarraitzen "
+"badu."
 
 #: dialect/window.py:343
-#, fuzzy
 msgid "Couldn’t connect to the translation service"
-msgstr "Ezin izan zen itzulpen-zerbitzua kargatu"
+msgstr "Ezin izan da itzulpen-zerbitzura konektatu"
 
 #: dialect/window.py:344
-#, fuzzy
 msgid "We can’t connect to the server. Please check for network issues."
-msgstr ""
-"Itzulpenak huts egin du.\n"
-"Mesedez, egiaztatu sare-arazorik dagoen."
+msgstr "Ezin dugu zerbitzariarekin konektatu. Mesedez, aztertu sareko arazoak."
 
 #: dialect/window.py:346
 #, python-brace-format
@@ -427,17 +420,16 @@ msgid ""
 "We can’t connect to the {service} instance \"{url}\".\n"
 " Please check for network issues or if the address is correct."
 msgstr ""
+"Ezin gara {service} \"{url}\" instantziara konektatu.\n"
+"Mesedez, egiaztatu konexio-arazoak dituzula edo helbidea zuzena dela."
 
 #: dialect/window.py:369
 msgid "A network issue has occured. Retry?"
 msgstr "Sareko arazo bat gertatu da. Berriz saiatu?"
 
 #: dialect/window.py:382
-#, fuzzy
 msgid "A network issue has occured. Please try again."
-msgstr ""
-"Sareko arazo bat gertatu da.\n"
-"Mesedez, saiatu berriro."
+msgstr "Sare-arazo bat gertatu da. Mesedez saiatu berriro."
 
 #: dialect/window.py:666 dialect/window.py:673 dialect/window.py:1126
 msgid "Auto"
@@ -445,32 +437,27 @@ msgstr "Automatikoa"
 
 #: dialect/window.py:870
 msgid "New translation has been suggested!"
-msgstr ""
+msgstr "Itzulpen berri bat iradoki da!"
 
 #: dialect/window.py:872
 msgid "Suggestion failed."
-msgstr ""
+msgstr "Iradokizunak huts egin zuen."
 
 #: dialect/window.py:1012
-#, fuzzy
 msgid "{} characters limit reached!"
-msgstr "5000 karaktereko mugara iritsi zara!"
+msgstr "{} karaktereko mugara iritsi zara!"
 
 #: dialect/window.py:1165
 msgid "Did you mean: "
 msgstr "Zera esan nahi duzu: "
 
 #: dialect/window.py:1214
-#, fuzzy
 msgid "Translation failed, check for network issues"
-msgstr ""
-"Itzulpenak huts egin du.\n"
-"Mesedez, egiaztatu sare-arazorik dagoen."
+msgstr "Itzulpenak huts egin du, egiaztatu sareko arazorik dagoen"
 
 #: dialect/window.py:1238
-#, fuzzy
 msgid "Translation failed"
-msgstr "Badirudi itzulpenak huts egin duela"
+msgstr "Itzulpenak huts egin dute"
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
