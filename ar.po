@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2022-04-23 14:11+0000\n"
-"Last-Translator: Omar TS <ots@duck.com>\n"
+"PO-Revision-Date: 2022-07-30 06:14+0000\n"
+"Last-Translator: Ibrahim Muhammad <ebraheem010@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/dialect/dialect/"
 "ar/>\n"
 "Language: ar\n"
@@ -18,19 +18,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.12.1-dev\n"
+"X-Generator: Weblate 4.14-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:6
 #: data/resources/window.blp:240 dialect/main.py:57
 msgid "Dialect"
-msgstr "Dialect"
+msgstr "دايلكت"
 
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
-msgstr "ترجم بين اللغات"
+msgstr "ترجمة بين اللغات"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:13
@@ -46,23 +46,18 @@ msgid "Features:"
 msgstr "الميزات:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
-#, fuzzy
 msgid "Translation based on Google Translate"
-msgstr "تعتمد الترجمة على واجهة برمجة تطبيقات غير رسمية لترجمة جوجل"
+msgstr "ترجمة تعتمد على ترجمة جوجل"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
-#, fuzzy
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
-msgstr ""
-"تعتمد الترجمة على LibreTranslate API ، مما يتيح لك استخدام أي مثيل متاح عبر "
-"الإنترنت"
+msgstr "ترجمة تعتمد على واجهة LibreTranslate، مما يتيح لك استخدام أي مثيل عام"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
-#, fuzzy
 msgid "Translation based on Lingva Translate API"
-msgstr "تعتمد الترجمة على واجهة برمجة تطبيقات غير رسمية لترجمة جوجل"
+msgstr "ترجمة تعتمد على واجهة Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Text to speech"
@@ -74,7 +69,7 @@ msgstr "تاريخ الترجمة"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Automatic language detection"
-msgstr "الكشف التلقائي عن اللغة"
+msgstr "تحديد اللغة تلقائيًا"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Clipboard buttons"
@@ -82,12 +77,11 @@ msgstr "أزرار الحافظة"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:28
 msgid "The Dialect Authors"
-msgstr "مؤلفو Dialect"
+msgstr "مؤلفو دايلكت"
 
 #: data/resources/about.blp:7
-#, fuzzy
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
-msgstr "حقوق النشر 2020– 2021 مؤلفو Dialect"
+msgstr "حقوق النشر 2020– 2022 مؤلفو دايلكت"
 
 #: data/resources/about.blp:10
 msgid "GitHub page"
@@ -96,11 +90,11 @@ msgstr "صفحة جت هب"
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:14
 msgid "translator-credits"
-msgstr "إشادات المترجم"
+msgstr "Ibrahim Muhammad <ibrahim.muhammad.mu@outlook.com>"
 
 #: data/resources/preferences.ui:11
 msgid "Behavior"
-msgstr "سلوك"
+msgstr "السلوك"
 
 #: data/resources/preferences.ui:14
 msgid "Live Translation"
@@ -111,13 +105,12 @@ msgid "Warning: Your IP address may get banned for API abuse."
 msgstr "تحذير: قد يتم حظر عنوان IP الخاص بك بسبب إساءة استخدام API."
 
 #: data/resources/preferences.ui:21
-#, fuzzy
 msgid "Show Translations in Desktop Search"
-msgstr "تاريخ الترجمة"
+msgstr "إظهار الترجمة في البحث على سطح المكتب"
 
 #: data/resources/preferences.ui:22
 msgid "Warning: All desktop searches will be sent to the translation service"
-msgstr ""
+msgstr "تحذير: سيتم إرسال كل عمليات البحث إلى خدمة الترجمة"
 
 #: data/resources/preferences.ui:35
 msgid "Translation Shortcut"
@@ -129,7 +122,7 @@ msgstr "سيتم استخدام الخيار غير المحدد لكسر الخ
 
 #: data/resources/preferences.ui:49
 msgid "Default to Auto"
-msgstr "الافتراضي إلى تلقائي"
+msgstr "تلقائي افتراضيًا"
 
 #: data/resources/preferences.ui:50
 msgid "Use \"Auto\" as the default language"
@@ -141,7 +134,7 @@ msgstr "مترجِم"
 
 #: data/resources/preferences.ui:62
 msgid "Choose from the available translation services."
-msgstr "اختر من خدمات الترجمة المتاحة."
+msgstr "يرجى الاختيار من خدمات الترجمة المتاحة."
 
 #: data/resources/preferences.ui:70
 msgid "Translator Instance"
@@ -149,11 +142,11 @@ msgstr "حالة المترجِم"
 
 #: data/resources/preferences.ui:71
 msgid "Enter a translation service URL."
-msgstr "أدخل عنوان URL لخدمة الترجمة."
+msgstr "يرجى إدخال عنوان URL لخدمة الترجمة."
 
 #: data/resources/preferences.ui:89 data/resources/preferences.ui:161
 msgid "Edit"
-msgstr "تحرير"
+msgstr "تعديل"
 
 #: data/resources/preferences.ui:116 data/resources/preferences.ui:188
 msgid "Reset to default"
@@ -166,12 +159,11 @@ msgstr "حفظ"
 
 #: data/resources/preferences.ui:142
 msgid "API Key"
-msgstr ""
+msgstr "مفتاح API"
 
 #: data/resources/preferences.ui:143
-#, fuzzy
 msgid "Enter an API key for the translation service."
-msgstr "أدخل عنوان URL لخدمة الترجمة."
+msgstr "يرجى إدخال مفتاح ال API لخدمة الترجمة."
 
 #: data/resources/preferences.ui:214
 msgid "Text-to-Speech"
@@ -179,7 +171,7 @@ msgstr "نص إلى كلام"
 
 #: data/resources/preferences.ui:215
 msgid "Use Google for TTS."
-msgstr "استخدم جوجل ل TTS ."
+msgstr "إستخدام جوجل ل TTS ."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -189,12 +181,12 @@ msgstr "المترجم"
 #: data/resources/shortcuts.blp:17
 msgctxt "shortcuts window"
 msgid "Translate"
-msgstr "ترجم"
+msgstr "ترجمة"
 
 #: data/resources/shortcuts.blp:23
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr "بدّل اللغات"
+msgstr "تبديل اللغات"
 
 #: data/resources/shortcuts.blp:29
 msgctxt "shortcuts window"
@@ -209,7 +201,7 @@ msgstr "نسخ الترجمة"
 #: data/resources/shortcuts.blp:41
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
-msgstr "إظهار النطق"
+msgstr "عرض النطق"
 
 #: data/resources/shortcuts.blp:48
 msgctxt "shortcuts window"
@@ -219,12 +211,12 @@ msgstr "نص إلى كلام"
 #: data/resources/shortcuts.blp:52
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr "استمع إلى نص المصدر"
+msgstr "الاستماع إلى نص المصدر"
 
 #: data/resources/shortcuts.blp:58
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr "استمع إلى الترجمة"
+msgstr "الاستماع إلى الترجمة"
 
 #: data/resources/shortcuts.blp:65
 msgctxt "shortcuts window"
@@ -275,25 +267,24 @@ msgstr "اختصارات لوحة المفاتيح"
 
 #: data/resources/window.blp:34
 msgid "About Dialect"
-msgstr "حول Dialect"
+msgstr "عن دايلكت"
 
 #: data/resources/window.blp:70
 msgid "Loading…"
-msgstr "جاري التحميل …"
+msgstr "يجري التحميل …"
 
 #: data/resources/window.blp:103 dialect/window.py:375 dialect/window.py:1216
 #: dialect/window.py:1240
 msgid "Retry"
-msgstr "أعد المحاولة"
+msgstr "إعادة المحاولة"
 
 #: data/resources/window.blp:112 data/resources/window.blp:163
-#, fuzzy
 msgid "Open Preferences"
 msgstr "فتح التفضيلات"
 
 #: data/resources/window.blp:154
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "إزالة المفتاح وإعادة المحاولة"
 
 #: data/resources/window.blp:215 data/resources/window.blp:572
 msgid "Switch languages"
@@ -321,11 +312,11 @@ msgstr "استماع"
 
 #: data/resources/window.blp:398
 msgid "Translate"
-msgstr "ترجم"
+msgstr "ترجمة"
 
 #: data/resources/window.blp:470
 msgid "Translating…"
-msgstr "جاري الترجمة …"
+msgstr "تجري الترجمة …"
 
 #: data/resources/window.blp:475
 msgid "Could not translate the text"
@@ -336,31 +327,28 @@ msgid "Copy"
 msgstr "نسخ"
 
 #: data/resources/window.blp:490
-#, fuzzy
 msgid "Suggest Translation"
-msgstr "ترجمة مباشرة"
+msgstr "اقتراح ترجمة"
 
 #: data/resources/window.blp:517
 msgid "Cancel"
-msgstr ""
+msgstr "إلغاء"
 
 #: data/resources/lang-selector.blp:18
-#, fuzzy
 msgid "Search Languages…"
-msgstr "بدّل اللغات"
+msgstr "البحث عن اللغات…"
 
 #: data/resources/theme-switcher.blp:25
 msgid "Follow system style"
-msgstr ""
+msgstr "اتباع النظام"
 
 #: data/resources/theme-switcher.blp:39
 msgid "Light style"
-msgstr ""
+msgstr "النمط الفاتح"
 
 #: data/resources/theme-switcher.blp:53
-#, fuzzy
 msgid "Dark style"
-msgstr "الوضع المظلم"
+msgstr "النمط الداكن"
 
 #: dialect/preferences.py:220
 #, python-brace-format
@@ -368,38 +356,38 @@ msgid "Not a valid {backend} instance"
 msgstr "مثيل {backend} غير صالح"
 
 #: dialect/preferences.py:288
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Not a valid {backend} API key"
-msgstr "مثيل {backend} غير صالح"
+msgstr "مفتاح API {backend} غير صالح"
 
 #: dialect/window.py:296 dialect/window.py:1222
 msgid "The provided API key is invalid"
-msgstr ""
+msgstr "مفتاح ال API المعطى غير صالح"
 
 #: dialect/window.py:298
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "يرجى إعداد مفتاح API صالح في التفضيلات."
 
 #: dialect/window.py:301
 msgid "Please set a valid API key or unset the API key in the preferences."
-msgstr ""
+msgstr "يرجى إعداد مفتاح API صالح أو إزالة مفتاح ال API في التفضيلات."
 
 #: dialect/window.py:322 dialect/window.py:1230
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "إن مفتاح ال API ضروري لاستخدام الخدمة"
 
 #: dialect/window.py:323
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "يرجي إعداد مفتاح API في التفضيلات."
 
 #: dialect/window.py:336
-#, fuzzy
 msgid "Failed loading the translation service"
-msgstr "لا يمكن تحميل خدمة الترجمة"
+msgstr "لقد فشل تحميل خدمة الترجمة"
 
 #: dialect/window.py:337
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
+"يرجى الإبلاغ عن ذلك في متتبع الأخطاء الخاص بدايلكت إذا استمرت هذه المشكلة."
 
 #: dialect/window.py:339
 #, python-brace-format
@@ -407,18 +395,16 @@ msgid ""
 "Failed loading \"{url}\", check if the instance address is correct or report "
 "in the Dialect bug tracker if the issue persists."
 msgstr ""
+"فشل تحميل \"{url}\"، تحقق من صلاحية المثيل أو أبلغ في متتبع الأخطاء الخاص "
+"بدايلكت إذا استمرت هذه المشكلة."
 
 #: dialect/window.py:343
-#, fuzzy
 msgid "Couldn’t connect to the translation service"
-msgstr "لا يمكن تحميل خدمة الترجمة"
+msgstr "فشل الاتصال بخدمة الترجمة"
 
 #: dialect/window.py:344
-#, fuzzy
 msgid "We can’t connect to the server. Please check for network issues."
-msgstr ""
-"فشلت عملية الترجمة.\n"
-"يرجى التأكد من مشاكل الشبكة."
+msgstr "لا يمكننا الاتصال بالخادوم. يرجى التحقق من مشاكل الشبكة."
 
 #: dialect/window.py:346
 #, python-brace-format
@@ -426,17 +412,16 @@ msgid ""
 "We can’t connect to the {service} instance \"{url}\".\n"
 " Please check for network issues or if the address is correct."
 msgstr ""
+"لا يمكننا التصال بمثيل {service} على \"{url}\".\n"
+"يرجى التحقق من مشاكل الشبكة أو من صحة العنوان."
 
 #: dialect/window.py:369
 msgid "A network issue has occured. Retry?"
-msgstr "حدثت مشكلة في الشبكة. أعد المحاولة؟"
+msgstr "حدثت مشكلة في الشبكة. إعادة المحاولة؟"
 
 #: dialect/window.py:382
-#, fuzzy
 msgid "A network issue has occured. Please try again."
-msgstr ""
-"حدثت مشكلة في الشبكة.\n"
-"يرجة اعادة المحاولة."
+msgstr "حدثت مشكلة في الشبكة. يرجى اعادة المحاولة."
 
 #: dialect/window.py:666 dialect/window.py:673 dialect/window.py:1126
 msgid "Auto"
@@ -444,32 +429,27 @@ msgstr "تلقائي"
 
 #: dialect/window.py:870
 msgid "New translation has been suggested!"
-msgstr ""
+msgstr "لقد تم اقتراح ترجمة جديدة!"
 
 #: dialect/window.py:872
 msgid "Suggestion failed."
-msgstr ""
+msgstr "لقد فشل الاقتراح."
 
 #: dialect/window.py:1012
-#, fuzzy
 msgid "{} characters limit reached!"
-msgstr "لا يمكن كتابة اكثر من 5000 حرف!"
+msgstr "لقد تم الوصول إلى حد {} حرف!"
 
 #: dialect/window.py:1165
 msgid "Did you mean: "
-msgstr "هل كنت تقصد: "
+msgstr "هل كان المقصود: "
 
 #: dialect/window.py:1214
-#, fuzzy
 msgid "Translation failed, check for network issues"
-msgstr ""
-"فشلت عملية الترجمة.\n"
-"يرجى التأكد من مشاكل الشبكة."
+msgstr "لقد فشلت عملية الترجمة، يرجى التحقق من مشاكل الشبكة"
 
 #: dialect/window.py:1238
-#, fuzzy
 msgid "Translation failed"
-msgstr "تاريخ الترجمة"
+msgstr "لقد فشلت الترجمة"
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
@@ -525,7 +505,7 @@ msgstr "السيبيوانية"
 
 #: dialect/translators/__init__.py:39
 msgid "Chichewa"
-msgstr "النيانجا"
+msgstr "الشيشيوا"
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
