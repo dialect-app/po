@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2022-08-14 21:08+0000\n"
-"Last-Translator: zeno <telometto@protonmail.com>\n"
+"PO-Revision-Date: 2022-08-15 22:16+0000\n"
+"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/dialect/"
 "dialect/nb_NO/>\n"
 "Language: nb_NO\n"
@@ -53,7 +53,7 @@ msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
-"Oversettelse basert LibreTranslate API-et, noe som tillater deg å bruke en "
+"Oversettelse basert LibreTranslate API-et, noe som tillater deg å bruke "
 "hvilken som helst instans"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
@@ -111,7 +111,7 @@ msgstr "Vis oversettelser i skrivebordssøk"
 
 #: data/resources/preferences.ui:22
 msgid "Warning: All desktop searches will be sent to the translation service"
-msgstr "Advarsel: alle skrivebordssøk vil bli sendt til oversettelsestjeneren"
+msgstr "Advarsel: Alle skrivebordssøk vil bli sendt til oversettelsestjenesten"
 
 #: data/resources/preferences.ui:35
 msgid "Translation Shortcut"
@@ -212,12 +212,12 @@ msgstr "Tekst-til-tale"
 #: data/resources/shortcuts.blp:52
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr "Lytt til kildetekst"
+msgstr "Lytt til kildeteksten"
 
 #: data/resources/shortcuts.blp:58
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr "Lytt til oversettelse"
+msgstr "Lytt til oversettelsen"
 
 #: data/resources/shortcuts.blp:65
 msgctxt "shortcuts window"
@@ -337,7 +337,7 @@ msgstr "Avbryt"
 
 #: data/resources/lang-selector.blp:18
 msgid "Search Languages…"
-msgstr "Søk språk…"
+msgstr "Søk etter språk…"
 
 #: data/resources/theme-switcher.blp:25
 msgid "Follow system style"
@@ -359,39 +359,35 @@ msgstr "Ikke en gyldig {backend}-instans"
 #: dialect/preferences.py:288
 #, python-brace-format
 msgid "Not a valid {backend} API key"
-msgstr "Ugyldig {backend} API-nøkkel"
+msgstr "Ugyldig {backend}-API-nøkkel"
 
 #: dialect/window.py:296 dialect/window.py:1222
 msgid "The provided API key is invalid"
-msgstr "Den oppgitte API-nøkkelen er ugyldig"
+msgstr "Den angitte API-nøkkelen er ugyldig"
 
 #: dialect/window.py:298
 msgid "Please set a valid API key in the preferences."
-msgstr "Vennligst sett en gyldig API-nøkkel i innstillingene."
+msgstr "Sett en gyldig API-nøkkel i innstillingene."
 
 #: dialect/window.py:301
 msgid "Please set a valid API key or unset the API key in the preferences."
-msgstr ""
-"Vennligst sett en gyldig API-nøkkel eller deaktiver API-nøkkelen i "
-"innstillingene."
+msgstr "Sett en gyldig API-nøkkel eller skru av API-nøkkelen i innstillingene."
 
 #: dialect/window.py:322 dialect/window.py:1230
 msgid "API key is required to use the service"
-msgstr "API-nøkkel er påkrevd for å kunne bruke tjenesten"
+msgstr "API-nøkkel kreves for å kunne bruke tjenesten"
 
 #: dialect/window.py:323
 msgid "Please set an API key in the preferences."
-msgstr "Vennligst sett en API-nøkkel i innstillingene."
+msgstr "Sett en API-nøkkel i innstillingene."
 
 #: dialect/window.py:336
 msgid "Failed loading the translation service"
-msgstr "Innlasting av oversettelsestjeneste feilet"
+msgstr "Kunne ikke laste inn oversettelsestjenesten"
 
 #: dialect/window.py:337
 msgid "Please report this in the Dialect bug tracker if the issue persists."
-msgstr ""
-"Vennligst innrapportér dette i Dialect bug-sporeren dersom problemet "
-"vedvarer."
+msgstr "Innrapporter dette i Dialect-feilsporeren dersom problemet vedvarer."
 
 #: dialect/window.py:339
 #, python-brace-format
@@ -399,9 +395,8 @@ msgid ""
 "Failed loading \"{url}\", check if the instance address is correct or report "
 "in the Dialect bug tracker if the issue persists."
 msgstr ""
-"Innlasting av \"{url}\" feilet. Vennligst sjekk at instanseaddressen er "
-"gyldig eller innrapportér dette i Dialect bug-sporeren dersom problemet "
-"vedvarer."
+"Kunne ikke laste inn «{url}». Sjekk at instanseadressen er gyldig eller "
+"innrapporter dette i Dialect-feilsporeren dersom problemet vedvarer."
 
 #: dialect/window.py:343
 msgid "Couldn’t connect to the translation service"
@@ -409,9 +404,7 @@ msgstr "Klarte ikke å koble til oversettelsestjenesten"
 
 #: dialect/window.py:344
 msgid "We can’t connect to the server. Please check for network issues."
-msgstr ""
-"Klarer ikke å kobles opp til serveren. Vennligst sjekk for "
-"nettverksproblemer."
+msgstr "Klarer ikke å koble til tjeneren. Sjekk om du har nettverksproblemer."
 
 #: dialect/window.py:346
 #, python-brace-format
@@ -419,8 +412,8 @@ msgid ""
 "We can’t connect to the {service} instance \"{url}\".\n"
 " Please check for network issues or if the address is correct."
 msgstr ""
-"Klarer ikke å koble opp til {service} instans \"{url}.\n"
-"Vennligst sjekk for nettverksproblemer eller at adressen er gyldig."
+"Klarer ikke å koble opp til {service}-instansen «{url}».\n"
+"Sjekk om du har nettverksproblemer og at adressen er riktig."
 
 #: dialect/window.py:369
 msgid "A network issue has occured. Retry?"
@@ -428,23 +421,23 @@ msgstr "Problemer med nettverket. Prøv igjen?"
 
 #: dialect/window.py:382
 msgid "A network issue has occured. Please try again."
-msgstr "Et nettverksproblem har oppstått. Vennligst prøv igjen."
+msgstr "Et nettverksproblem har oppstått. Prøv igjen."
 
 #: dialect/window.py:666 dialect/window.py:673 dialect/window.py:1126
 msgid "Auto"
-msgstr "Auto"
+msgstr "Automatisk"
 
 #: dialect/window.py:870
 msgid "New translation has been suggested!"
-msgstr "Ny oversettelse har blitt foreslått!"
+msgstr "Ny oversettelse foreslått."
 
 #: dialect/window.py:872
 msgid "Suggestion failed."
-msgstr "Forslag feilet."
+msgstr "Forslag mislyktes."
 
 #: dialect/window.py:1012
 msgid "{} characters limit reached!"
-msgstr "{} tegngrense nådd!"
+msgstr "Tegngrense på {} tegn nådd."
 
 #: dialect/window.py:1165
 msgid "Did you mean: "
@@ -452,11 +445,11 @@ msgstr "Mente du: "
 
 #: dialect/window.py:1214
 msgid "Translation failed, check for network issues"
-msgstr "Oversettelse feilet. Vennligst sjekk for nettverksproblemer"
+msgstr "Oversettelsen mislyktes. Sjekk om du har nettverksproblemer."
 
 #: dialect/window.py:1238
 msgid "Translation failed"
-msgstr "Oversettelse feilet"
+msgstr "Oversettelsen mislyktes"
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
