@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2021-09-29 13:37+0000\n"
-"Last-Translator: Богдан Матвіїв <bomtvv@gmail.com>\n"
+"PO-Revision-Date: 2022-08-21 13:14+0000\n"
+"Last-Translator: Maksym Lemak <lemakmaksym@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/dialect/"
 "dialect/uk/>\n"
 "Language: uk\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.14-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -46,12 +46,10 @@ msgid "Features:"
 msgstr "Особливості:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
-#, fuzzy
 msgid "Translation based on Google Translate"
-msgstr "Переклад на основі неофіційного API від Google Translate"
+msgstr "Переклад на основі Google Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
-#, fuzzy
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
@@ -60,9 +58,8 @@ msgstr ""
 "екземпляр, доступний онлайн"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
-#, fuzzy
 msgid "Translation based on Lingva Translate API"
-msgstr "Переклад на основі неофіційного API від Google Translate"
+msgstr "Переклад на основі Lingva Translate API"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Text to speech"
@@ -112,13 +109,13 @@ msgstr ""
 "Попередження: ваша IP-адреса може бути заблокована через зловживання API."
 
 #: data/resources/preferences.ui:21
-#, fuzzy
 msgid "Show Translations in Desktop Search"
-msgstr "Історія перекладу"
+msgstr "Показати переклади в Настільному пошуку"
 
 #: data/resources/preferences.ui:22
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr ""
+"Попередження: Всі Настільні пошуки будуть відправлені в сервіс перекладу"
 
 #: data/resources/preferences.ui:35
 msgid "Translation Shortcut"
@@ -167,7 +164,7 @@ msgstr "Зберегти"
 
 #: data/resources/preferences.ui:142
 msgid "API Key"
-msgstr ""
+msgstr "Ключ API"
 
 #: data/resources/preferences.ui:143
 #, fuzzy
