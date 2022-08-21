@@ -8,291 +8,298 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-08-21 13:14+0000\n"
+"Last-Translator: K.B.Dharun Krishna <kbdharunkrishna@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/dialect/dialect/ta/"
+">\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.14-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:6
 #: data/resources/window.blp:240 dialect/main.py:57
 msgid "Dialect"
-msgstr ""
+msgstr "Dialect"
 
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
-msgstr ""
+msgstr "மொழிகளுக்கு இடையே மொழிபெயர்க்கவும்"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:13
 msgid "translate;translation;"
-msgstr ""
+msgstr "மொழியாக்கம்;மொழிபெயர்ப்பு;"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
-msgstr ""
+msgstr "க்னோமிற்கான மொழிபெயர்ப்புப் பயன்பாடு."
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
-msgstr ""
+msgstr "அம்சங்கள்:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
 msgid "Translation based on Google Translate"
-msgstr ""
+msgstr "கூகுள் மொழிபெயர்ப்பின் அடிப்படையிலான மொழிபெயர்ப்பு"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
+"LibreTranslate API அடிப்படையிலான மொழிபெயர்ப்பு, எந்தவொரு பொது நிகழ்வையும் "
+"பயன்படுத்த உங்களை அனுமதிக்கிறது"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
-msgstr ""
+msgstr "Lingva Translate API அடிப்படையில் மொழிபெயர்ப்பு"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Text to speech"
-msgstr ""
+msgstr "உரைக்குப் பேச்சு"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
 msgid "Translation history"
-msgstr ""
+msgstr "மொழிபெயர்ப்பு வரலாறு"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Automatic language detection"
-msgstr ""
+msgstr "தானியங்கி மொழி கண்டறிதல்"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Clipboard buttons"
-msgstr ""
+msgstr "கிளிப்போர்டு பொத்தான்கள்"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:28
 msgid "The Dialect Authors"
-msgstr ""
+msgstr "Dialect ஆசிரியர்கள்"
 
 #: data/resources/about.blp:7
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
-msgstr ""
+msgstr "பதிப்புரிமை 2020–⁠2022 Dialect ஆசிரியர்கள்"
 
 #: data/resources/about.blp:10
 msgid "GitHub page"
-msgstr ""
+msgstr "கிட்ஹப் பக்கம்"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:14
 msgid "translator-credits"
-msgstr ""
+msgstr "மொழிபெயர்ப்பாளர்-வரவுகள்"
 
 #: data/resources/preferences.ui:11
 msgid "Behavior"
-msgstr ""
+msgstr "நடத்தை"
 
 #: data/resources/preferences.ui:14
 msgid "Live Translation"
-msgstr ""
+msgstr "நேரடி மொழிபெயர்ப்பு"
 
 #: data/resources/preferences.ui:15
 msgid "Warning: Your IP address may get banned for API abuse."
-msgstr ""
+msgstr "எச்சரிக்கை: API துஷ்பிரயோகத்திற்காக உங்கள் IP முகவரி தடைசெய்யப்படலாம்."
 
 #: data/resources/preferences.ui:21
 msgid "Show Translations in Desktop Search"
-msgstr ""
+msgstr "டெஸ்க்டாப் தேடலில் மொழிபெயர்ப்புகளைக் காட்டு"
 
 #: data/resources/preferences.ui:22
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr ""
+"எச்சரிக்கை: அனைத்து டெஸ்க்டாப் தேடல்களும் மொழிபெயர்ப்பு சேவைக்கு "
+"அனுப்பப்படும்"
 
 #: data/resources/preferences.ui:35
 msgid "Translation Shortcut"
-msgstr ""
+msgstr "மொழிபெயர்ப்பு குறுக்குவழி"
 
 #: data/resources/preferences.ui:36
 msgid "The unselected choice will be used for line break."
-msgstr ""
+msgstr "தேர்வு செய்யப்படாத தேர்வு வரி முறிவுக்குப் பயன்படுத்தப்படும்."
 
 #: data/resources/preferences.ui:49
 msgid "Default to Auto"
-msgstr ""
+msgstr "ஆட்டோவிற்கு இயல்புநிலை"
 
 #: data/resources/preferences.ui:50
 msgid "Use \"Auto\" as the default language"
-msgstr ""
+msgstr "\"ஆட்டோ\" என்பதை இயல்பு மொழியாகப் பயன்படுத்தவும்"
 
 #: data/resources/preferences.ui:61
 msgid "Translator"
-msgstr ""
+msgstr "மொழிபெயர்ப்பாளர்"
 
 #: data/resources/preferences.ui:62
 msgid "Choose from the available translation services."
-msgstr ""
+msgstr "கிடைக்கக்கூடிய மொழிபெயர்ப்பு சேவைகளில் இருந்து தேர்வு செய்யவும்."
 
 #: data/resources/preferences.ui:70
 msgid "Translator Instance"
-msgstr ""
+msgstr "மொழிபெயர்ப்பாளர் நிகழ்வு"
 
 #: data/resources/preferences.ui:71
 msgid "Enter a translation service URL."
-msgstr ""
+msgstr "மொழிபெயர்ப்பு சேவை URL ஐ உள்ளிடவும்."
 
 #: data/resources/preferences.ui:89 data/resources/preferences.ui:161
 msgid "Edit"
-msgstr ""
+msgstr "தொகு"
 
 #: data/resources/preferences.ui:116 data/resources/preferences.ui:188
 msgid "Reset to default"
-msgstr ""
+msgstr "இயல்புநிலைக்கு மீட்டமைக்கவும்"
 
 #: data/resources/preferences.ui:126 data/resources/preferences.ui:198
 #: data/resources/window.blp:524
 msgid "Save"
-msgstr ""
+msgstr "சேமிக்கவும்"
 
 #: data/resources/preferences.ui:142
 msgid "API Key"
-msgstr ""
+msgstr "API விசை"
 
 #: data/resources/preferences.ui:143
 msgid "Enter an API key for the translation service."
-msgstr ""
+msgstr "மொழிபெயர்ப்பு சேவைக்கான API விசையை உள்ளிடவும்."
 
 #: data/resources/preferences.ui:214
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "உரையிலிருந்து-பேச்சு"
 
 #: data/resources/preferences.ui:215
 msgid "Use Google for TTS."
-msgstr ""
+msgstr "TTS க்கு Google ஐப் பயன்படுத்தவும்."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
 msgid "Translator"
-msgstr ""
+msgstr "மொழிபெயர்ப்பாளர்"
 
 #: data/resources/shortcuts.blp:17
 msgctxt "shortcuts window"
 msgid "Translate"
-msgstr ""
+msgstr "மொழிபெயர்க்கவும்"
 
 #: data/resources/shortcuts.blp:23
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr ""
+msgstr "மொழிகளை மாற்றவும்"
 
 #: data/resources/shortcuts.blp:29
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "மூல உரையை அழிக்கவும்"
 
 #: data/resources/shortcuts.blp:35
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr ""
+msgstr "மொழிபெயர்ப்பை நகலெடுக்கவும்"
 
 #: data/resources/shortcuts.blp:41
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "உச்சரிப்பைக் காட்டு"
 
 #: data/resources/shortcuts.blp:48
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "உரையிலிருந்து-பேச்சு"
 
 #: data/resources/shortcuts.blp:52
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "மூல உரையைக் கேளுங்கள்"
 
 #: data/resources/shortcuts.blp:58
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr ""
+msgstr "மொழிபெயர்ப்பைக் கேளுங்கள்"
 
 #: data/resources/shortcuts.blp:65
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "வழிசெலுத்தல்"
 
 #: data/resources/shortcuts.blp:69
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "வரலாற்றில் திரும்பிச் செல்லுங்கள்"
 
 #: data/resources/shortcuts.blp:75
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr ""
+msgstr "வரலாற்றில் முன்னேறுங்கள்"
 
 #: data/resources/shortcuts.blp:82
 msgctxt "shortcuts window"
 msgid "General"
-msgstr ""
+msgstr "ஜெனரல்"
 
 #: data/resources/shortcuts.blp:86
 msgctxt "shortcuts window"
 msgid "Preferences"
-msgstr ""
+msgstr "விருப்பங்கள்"
 
 #: data/resources/shortcuts.blp:92
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr ""
+msgstr "குறுக்குவழிகள்"
 
 #: data/resources/shortcuts.blp:98
 msgctxt "shortcuts window"
 msgid "Quit"
-msgstr ""
+msgstr "வெளியேறு"
 
 #: data/resources/window.blp:15
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "உச்சரிப்பைக் காட்டு"
 
 #: data/resources/window.blp:24 dialect/window.py:1224 dialect/window.py:1232
 msgid "Preferences"
-msgstr ""
+msgstr "விருப்பங்கள்"
 
 #: data/resources/window.blp:29
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "விசைப்பலகை குறுக்குவழிகள்"
 
 #: data/resources/window.blp:34
 msgid "About Dialect"
-msgstr ""
+msgstr "Dialect பற்றி"
 
 #: data/resources/window.blp:70
 msgid "Loading…"
-msgstr ""
+msgstr "ஏற்றுகிறது…"
 
 #: data/resources/window.blp:103 dialect/window.py:375 dialect/window.py:1216
 #: dialect/window.py:1240
 msgid "Retry"
-msgstr ""
+msgstr "மீண்டும் முயற்சிக்கவும்"
 
 #: data/resources/window.blp:112 data/resources/window.blp:163
 msgid "Open Preferences"
-msgstr ""
+msgstr "விருப்பங்களைத் திறக்கவும்"
 
 #: data/resources/window.blp:154
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "விசையை அகற்றி மீண்டும் முயற்சிக்கவும்"
 
 #: data/resources/window.blp:215 data/resources/window.blp:572
 msgid "Switch languages"
-msgstr ""
+msgstr "மொழிகளை மாற்றவும்"
 
 #: data/resources/window.blp:251
 msgid "Previous translation"
-msgstr ""
+msgstr "முந்தைய மொழிபெயர்ப்பு"
 
 #: data/resources/window.blp:257
 msgid "Next translation"
-msgstr ""
+msgstr "அடுத்த மொழிபெயர்ப்பு"
 
 #: data/resources/window.blp:366
 msgid "Clear"
