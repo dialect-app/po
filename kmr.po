@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2022-01-15 12:53+0000\n"
+"PO-Revision-Date: 2022-08-21 13:14+0000\n"
 "Last-Translator: Pêşeroja paşerojê <cyax1@protonmail.com>\n"
 "Language-Team: Kurdish (Northern) <https://hosted.weblate.org/projects/"
 "dialect/dialect/kmr/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.14-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -45,23 +45,20 @@ msgid "Features:"
 msgstr "Taybetî:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
-#, fuzzy
 msgid "Translation based on Google Translate"
-msgstr "Wergera ne fermî li ser bingeha API-ya Google Translate-ê"
+msgstr "Werger li ser bingeha Google Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
-#, fuzzy
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
-"Wergera bi bingeha API-ya LibreTranslate-ê dihêle ku tu karibî her mînaka "
+"Wergera li ser bingeha API ya LibreTranslate, dihêle ku tu karibî her mînaka "
 "serhêlî bi kar bînî"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
-#, fuzzy
 msgid "Translation based on Lingva Translate API"
-msgstr "Wergera ne fermî li ser bingeha API-ya Google Translate-ê"
+msgstr "Werger li ser bingeha API ya Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Text to speech"
@@ -84,9 +81,8 @@ msgid "The Dialect Authors"
 msgstr "Afirînerên Dialect-ê"
 
 #: data/resources/about.blp:7
-#, fuzzy
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
-msgstr "Maf 2020-2021 Afirînerên Dialect-ê"
+msgstr "Mafê jêgirtinê 2020-2021 Afirînerên Zaravayan"
 
 #: data/resources/about.blp:10
 msgid "GitHub page"
@@ -111,13 +107,12 @@ msgstr ""
 "Hişyarî: Dibe ku navnîşana te ya IP-yê ji ber xerabkariyê were astengkirin."
 
 #: data/resources/preferences.ui:21
-#, fuzzy
 msgid "Show Translations in Desktop Search"
-msgstr "Dîroka wergerê"
+msgstr "Wergerê di lêgerîna sermaseyê de nîşan bide"
 
 #: data/resources/preferences.ui:22
 msgid "Warning: All desktop searches will be sent to the translation service"
-msgstr ""
+msgstr "Hişyarî: Hemû lêgerînên sermaseyê wê ji rajekara wergerê re bêne şandin"
 
 #: data/resources/preferences.ui:35
 msgid "Translation Shortcut"
@@ -166,12 +161,11 @@ msgstr "Tomar bike"
 
 #: data/resources/preferences.ui:142
 msgid "API Key"
-msgstr ""
+msgstr "Kilîta API"
 
 #: data/resources/preferences.ui:143
-#, fuzzy
 msgid "Enter an API key for the translation service."
-msgstr "URL-ya servîsekê wergeriyê binivîse."
+msgstr "Kilîteke API ji bo rajekarê wergerê têxe."
 
 #: data/resources/preferences.ui:214
 msgid "Text-to-Speech"
@@ -287,13 +281,12 @@ msgid "Retry"
 msgstr "Ji nû be biceribîne"
 
 #: data/resources/window.blp:112 data/resources/window.blp:163
-#, fuzzy
 msgid "Open Preferences"
-msgstr "Tercîhan veke"
+msgstr "Hevyazn veke"
 
 #: data/resources/window.blp:154
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "Kilîtê rake û dîsa binêre"
 
 #: data/resources/window.blp:215 data/resources/window.blp:572
 msgid "Switch languages"
@@ -336,31 +329,28 @@ msgid "Copy"
 msgstr "Jê bigire"
 
 #: data/resources/window.blp:490
-#, fuzzy
 msgid "Suggest Translation"
-msgstr "Wergera jîndar"
+msgstr "Wergerê pêşniyar bike"
 
 #: data/resources/window.blp:517
 msgid "Cancel"
-msgstr ""
+msgstr "Têk bibe"
 
 #: data/resources/lang-selector.blp:18
-#, fuzzy
 msgid "Search Languages…"
-msgstr "Zimên biguherîne"
+msgstr "Li Zimanan Bigere…"
 
 #: data/resources/theme-switcher.blp:25
 msgid "Follow system style"
-msgstr ""
+msgstr "Awaya pergalê bişopîne"
 
 #: data/resources/theme-switcher.blp:39
 msgid "Light style"
-msgstr ""
+msgstr "Awaya Ron"
 
 #: data/resources/theme-switcher.blp:53
-#, fuzzy
 msgid "Dark style"
-msgstr "Moda Tarî"
+msgstr "Awaya Tarî"
 
 #: dialect/preferences.py:220
 #, python-brace-format
@@ -368,9 +358,9 @@ msgid "Not a valid {backend} instance"
 msgstr "Ne mînaka derbasdar a {backend} e"
 
 #: dialect/preferences.py:288
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Not a valid {backend} API key"
-msgstr "Ne mînaka derbasdar a {backend} e"
+msgstr "Ne kilîteke API {backend} a derbasdar e"
 
 #: dialect/window.py:296 dialect/window.py:1222
 msgid "The provided API key is invalid"
@@ -493,11 +483,11 @@ msgstr "ermenî"
 
 #: dialect/translators/__init__.py:31
 msgid "Azerbaijani"
-msgstr "azerî"
+msgstr "Ezerî"
 
 #: dialect/translators/__init__.py:32
 msgid "Basque"
-msgstr "baskî"
+msgstr "Baskî"
 
 #: dialect/translators/__init__.py:33
 msgid "Belarusian"
