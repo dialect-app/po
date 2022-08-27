@@ -34,6 +34,7 @@ pt_BR          | Brazilian Portuguese | @xfgusta
 ru             | Russian              | @nexeleriot
 sv             | Swedish              | @eson57
 tr             | Turkish              | @noteqnil
+ta             | Tamil                | @kbdharun
 
 Dialect is a translation application, meaning it's intended to help get over language barriers, so we believe UI translation to be an essential part of the application's development. As such, we really appreciate all the work put into it! :)
 
