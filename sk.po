@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2021-10-09 06:02+0000\n"
-"Last-Translator: Dušan Kazik <prescott66@gmail.com>\n"
+"PO-Revision-Date: 2022-09-04 08:18+0000\n"
+"Last-Translator: Marek Ľach <graweeld@googlemail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/dialect/dialect/"
 "sk/>\n"
 "Language: sk\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.9-dev\n"
+"X-Generator: Weblate 4.14.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -46,7 +46,7 @@ msgstr "Funkcie:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
 msgid "Translation based on Google Translate"
-msgstr ""
+msgstr "Preklad postavený na Google Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
 msgid ""
@@ -64,11 +64,11 @@ msgstr ""
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
 msgid "Translation history"
-msgstr ""
+msgstr "História prekladov"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Automatic language detection"
-msgstr ""
+msgstr "Automatické rozpoznanie jazyka"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Clipboard buttons"
@@ -97,7 +97,7 @@ msgstr "Správanie"
 
 #: data/resources/preferences.ui:14
 msgid "Live Translation"
-msgstr ""
+msgstr "Živý preklad"
 
 #: data/resources/preferences.ui:15
 msgid "Warning: Your IP address may get banned for API abuse."
@@ -134,7 +134,7 @@ msgstr "Prekladač"
 
 #: data/resources/preferences.ui:62
 msgid "Choose from the available translation services."
-msgstr ""
+msgstr "Vyberte si z dostupných prekladateľských služieb."
 
 #: data/resources/preferences.ui:70
 msgid "Translator Instance"
