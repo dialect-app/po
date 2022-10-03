@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2022-06-30 01:14+0000\n"
+"PO-Revision-Date: 2022-10-03 19:17+0000\n"
 "Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Occitan <https://hosted.weblate.org/projects/dialect/dialect/"
 "oc/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.13.1-dev\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -117,7 +117,7 @@ msgstr ""
 
 #: data/resources/preferences.ui:35
 msgid "Translation Shortcut"
-msgstr ""
+msgstr "Acorchi d’ajuda"
 
 #: data/resources/preferences.ui:36
 msgid "The unselected choice will be used for line break."
@@ -125,7 +125,7 @@ msgstr ""
 
 #: data/resources/preferences.ui:49
 msgid "Default to Auto"
-msgstr ""
+msgstr "Per defaut sus Auto"
 
 #: data/resources/preferences.ui:50
 msgid "Use \"Auto\" as the default language"
@@ -162,7 +162,7 @@ msgstr "Enregistrar"
 
 #: data/resources/preferences.ui:142
 msgid "API Key"
-msgstr ""
+msgstr "Clau API"
 
 #: data/resources/preferences.ui:143
 #, fuzzy
@@ -283,7 +283,6 @@ msgid "Retry"
 msgstr "Tornar ensajar"
 
 #: data/resources/window.blp:112 data/resources/window.blp:163
-#, fuzzy
 msgid "Open Preferences"
 msgstr "Dobrir las preferéncias"
 
@@ -338,12 +337,11 @@ msgstr "Traduccion en simultanèa"
 
 #: data/resources/window.blp:517
 msgid "Cancel"
-msgstr ""
+msgstr "Anullar"
 
 #: data/resources/lang-selector.blp:18
-#, fuzzy
 msgid "Search Languages…"
-msgstr "Intervertir las lengas"
+msgstr "Cercar de lengas…"
 
 #: data/resources/theme-switcher.blp:25
 msgid "Follow system style"
@@ -351,12 +349,11 @@ msgstr ""
 
 #: data/resources/theme-switcher.blp:39
 msgid "Light style"
-msgstr ""
+msgstr "Estil escur"
 
 #: data/resources/theme-switcher.blp:53
-#, fuzzy
 msgid "Dark style"
-msgstr "Mòde escur"
+msgstr "Estil escur"
 
 #: dialect/preferences.py:220
 #, python-brace-format
@@ -430,7 +427,7 @@ msgstr ""
 
 #: dialect/window.py:666 dialect/window.py:673 dialect/window.py:1126
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 #: dialect/window.py:870
 msgid "New translation has been suggested!"
@@ -463,7 +460,7 @@ msgstr ""
 
 #: dialect/translators/__init__.py:27
 msgid "Albanian"
-msgstr ""
+msgstr "albanés"
 
 #: dialect/translators/__init__.py:28
 msgid "Amharic"
@@ -503,7 +500,7 @@ msgstr ""
 
 #: dialect/translators/__init__.py:37
 msgid "Catalan"
-msgstr ""
+msgstr "catalan"
 
 #: dialect/translators/__init__.py:38
 msgid "Cebuano"
@@ -515,7 +512,7 @@ msgstr ""
 
 #: dialect/translators/__init__.py:40
 msgid "Chinese"
-msgstr ""
+msgstr "chinés"
 
 #: dialect/translators/__init__.py:41
 msgid "Chinese (Simplified)"
@@ -539,15 +536,15 @@ msgstr ""
 
 #: dialect/translators/__init__.py:46
 msgid "Danish"
-msgstr ""
+msgstr "danés"
 
 #: dialect/translators/__init__.py:47
 msgid "Dutch"
-msgstr ""
+msgstr "neerlandés"
 
 #: dialect/translators/__init__.py:48
 msgid "English"
-msgstr ""
+msgstr "anglés"
 
 #: dialect/translators/__init__.py:49
 msgid "Esperanto"
@@ -567,7 +564,7 @@ msgstr ""
 
 #: dialect/translators/__init__.py:53
 msgid "French"
-msgstr ""
+msgstr "francés"
 
 #: dialect/translators/__init__.py:54
 msgid "Frisian"
@@ -575,7 +572,7 @@ msgstr ""
 
 #: dialect/translators/__init__.py:55
 msgid "Galician"
-msgstr ""
+msgstr "galèc"
 
 #: dialect/translators/__init__.py:56
 msgid "Georgian"
@@ -583,7 +580,7 @@ msgstr ""
 
 #: dialect/translators/__init__.py:57
 msgid "German"
-msgstr ""
+msgstr "alemand"
 
 #: dialect/translators/__init__.py:58
 msgid "Greek"
