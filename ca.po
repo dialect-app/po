@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2021-08-11 14:07+0000\n"
-"Last-Translator: Sergi Font <sfont@tuta.io>\n"
+"PO-Revision-Date: 2022-10-10 18:15+0000\n"
+"Last-Translator: Albert Simon <simon.albert75@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/dialect/dialect/"
 "ca/>\n"
 "Language: ca\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.8-dev\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -116,7 +116,7 @@ msgstr "Historial de traduccions"
 
 #: data/resources/preferences.ui:22
 msgid "Warning: All desktop searches will be sent to the translation service"
-msgstr ""
+msgstr "Atenció: Totes les cerques seran enviades al servei de traducció"
 
 #: data/resources/preferences.ui:35
 msgid "Translation Shortcut"
