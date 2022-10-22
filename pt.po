@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2022-07-01 11:15+0000\n"
-"Last-Translator: Juliano de Souza Camargo <julianosc@protonmail.com>\n"
+"PO-Revision-Date: 2022-10-22 11:06+0000\n"
+"Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/dialect/"
 "dialect/pt/>\n"
 "Language: pt\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13.1-dev\n"
+"X-Generator: Weblate 4.14.2-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -169,7 +169,7 @@ msgstr "Chave de API"
 
 #: data/resources/preferences.ui:143
 msgid "Enter an API key for the translation service."
-msgstr "Informe uma chave de API para o serviço de tradução."
+msgstr "Introduza uma chave de API para o serviço de tradução."
 
 #: data/resources/preferences.ui:214
 msgid "Text-to-Speech"
@@ -393,7 +393,7 @@ msgstr "Falhou ao carregar o serviço de tradução"
 
 #: dialect/window.py:337
 msgid "Please report this in the Dialect bug tracker if the issue persists."
-msgstr "informe no registo de erros do Dialect se o problema persistir."
+msgstr "Informe no registo de erros do Dialect se o problema persistir."
 
 #: dialect/window.py:339
 #, python-brace-format
