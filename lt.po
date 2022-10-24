@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2022-10-23 16:03+0000\n"
+"PO-Revision-Date: 2022-10-24 19:39+0000\n"
 "Last-Translator: Gediminas Murauskas <muziejusinfo@gmail.com>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/dialect/"
 "dialect/lt/>\n"
@@ -114,7 +114,7 @@ msgstr "Rodyti vertimus darbalaukio paieškoje"
 
 #: data/resources/preferences.ui:22
 msgid "Warning: All desktop searches will be sent to the translation service"
-msgstr ""
+msgstr "Įspėjimas: Visos darbalaukio paieškos bus siunčiamos į vertimo tarnybą"
 
 #: data/resources/preferences.ui:35
 msgid "Translation Shortcut"
@@ -166,9 +166,8 @@ msgid "API Key"
 msgstr "API raktas"
 
 #: data/resources/preferences.ui:143
-#, fuzzy
 msgid "Enter an API key for the translation service."
-msgstr "Įveskite vertimo paslaugos URL."
+msgstr "Įveskite vertimo tarnybos API raktą."
 
 #: data/resources/preferences.ui:214
 msgid "Text-to-Speech"
@@ -284,13 +283,12 @@ msgid "Retry"
 msgstr "Kartoti"
 
 #: data/resources/window.blp:112 data/resources/window.blp:163
-#, fuzzy
 msgid "Open Preferences"
 msgstr "Atidaryti nustatymus"
 
 #: data/resources/window.blp:154
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "Pašalinkite raktą ir bandykite dar kartą"
 
 #: data/resources/window.blp:215 data/resources/window.blp:572
 msgid "Switch languages"
@@ -333,31 +331,28 @@ msgid "Copy"
 msgstr "Kopijuoti"
 
 #: data/resources/window.blp:490
-#, fuzzy
 msgid "Suggest Translation"
-msgstr "Vertimas berašant"
+msgstr "Siūlyti vertimą"
 
 #: data/resources/window.blp:517
 msgid "Cancel"
-msgstr ""
+msgstr "Atšaukti"
 
 #: data/resources/lang-selector.blp:18
-#, fuzzy
 msgid "Search Languages…"
-msgstr "Perjungti kalbas"
+msgstr "Ieškoti kalbų…"
 
 #: data/resources/theme-switcher.blp:25
 msgid "Follow system style"
-msgstr ""
+msgstr "Sekite sistemos stilių"
 
 #: data/resources/theme-switcher.blp:39
 msgid "Light style"
-msgstr ""
+msgstr "Šviesus stilius"
 
 #: data/resources/theme-switcher.blp:53
-#, fuzzy
 msgid "Dark style"
-msgstr "Tamsusis režimas"
+msgstr "Tamsus stilius"
 
 #: dialect/preferences.py:220
 #, python-brace-format
@@ -365,38 +360,40 @@ msgid "Not a valid {backend} instance"
 msgstr "Netinkamas {backend} išteklius"
 
 #: dialect/preferences.py:288
-#, fuzzy, python-brace-format
+#, python-brace-format
 msgid "Not a valid {backend} API key"
-msgstr "Netinkamas {backend} išteklius"
+msgstr "Netinkamas {backend} API raktas"
 
 #: dialect/window.py:296 dialect/window.py:1222
 msgid "The provided API key is invalid"
-msgstr ""
+msgstr "Pateiktas API raktas neteisingas"
 
 #: dialect/window.py:298
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "Nustatymuose nustatykite galiojantį API raktą."
 
 #: dialect/window.py:301
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
+"Nustatykite galiojantį API raktą arba panaikinkite API rakto nustatymą "
+"nustatymuose."
 
 #: dialect/window.py:322 dialect/window.py:1230
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "Norint naudotis paslauga, reikalingas API raktas"
 
 #: dialect/window.py:323
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "Nustatymuose nustatykite API raktą."
 
 #: dialect/window.py:336
-#, fuzzy
 msgid "Failed loading the translation service"
-msgstr "Nepavyko įkelti vertėjo paslaugos"
+msgstr "Nepavyko įkelti vertimo paslaugos"
 
 #: dialect/window.py:337
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
+"Jei problema išlieka, praneškite apie tai Dialekto klaidų sekimo priemonėje."
 
 #: dialect/window.py:339
 #, python-brace-format
@@ -404,18 +401,18 @@ msgid ""
 "Failed loading \"{url}\", check if the instance address is correct or report "
 "in the Dialect bug tracker if the issue persists."
 msgstr ""
+"Nepavyko įkelti „{url}“, patikrinkite, ar perdavimo šaltinio adresas yra "
+"teisingas, arba praneškite Dialekto klaidų sekimo priemonėje, jei problema "
+"išlieka."
 
 #: dialect/window.py:343
-#, fuzzy
 msgid "Couldn’t connect to the translation service"
-msgstr "Nepavyko įkelti vertėjo paslaugos"
+msgstr "Nepavyko prisijungti prie vertimo paslaugos"
 
 #: dialect/window.py:344
-#, fuzzy
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
-"Vertimas nepavyko.\n"
-"Patikrinkite, ar nėra tinklo problemų."
+"Negalime prisijungti prie serverio. Patikrinkite, ar nėra tinklo problemų."
 
 #: dialect/window.py:346
 #, python-brace-format
@@ -423,17 +420,16 @@ msgid ""
 "We can’t connect to the {service} instance \"{url}\".\n"
 " Please check for network issues or if the address is correct."
 msgstr ""
+"Negalime prisijungti prie {service} perdavimo šaltinio „{url}“.\n"
+" Patikrinkite, ar nėra tinklo problemų arba ar teisingas adresas."
 
 #: dialect/window.py:369
 msgid "A network issue has occured. Retry?"
 msgstr "Įvyko tinklo klaida. Pakartoti bandymą?"
 
 #: dialect/window.py:382
-#, fuzzy
 msgid "A network issue has occured. Please try again."
-msgstr ""
-"Įvyko tinklo klaida.\n"
-"Bandykite dar kartą."
+msgstr "Įvyko tinklo klaida. Bandykite dar kartą."
 
 #: dialect/window.py:666 dialect/window.py:673 dialect/window.py:1126
 msgid "Auto"
@@ -441,32 +437,27 @@ msgstr "Automatinis kalbos aptikimas"
 
 #: dialect/window.py:870
 msgid "New translation has been suggested!"
-msgstr ""
+msgstr "Pasiūlytas naujas vertimas!"
 
 #: dialect/window.py:872
 msgid "Suggestion failed."
-msgstr ""
+msgstr "Pasiūlymas nepavyko."
 
 #: dialect/window.py:1012
-#, fuzzy
 msgid "{} characters limit reached!"
-msgstr "Pasiekta 5000 simbolių riba!"
+msgstr "{} simbolių limitas pasiektas!"
 
 #: dialect/window.py:1165
 msgid "Did you mean: "
 msgstr "Ar turėjote omenyje: "
 
 #: dialect/window.py:1214
-#, fuzzy
 msgid "Translation failed, check for network issues"
-msgstr ""
-"Vertimas nepavyko.\n"
-"Patikrinkite, ar nėra tinklo problemų."
+msgstr "Vertimas nepavyko, patikrinkite, ar nėra tinklo problemų"
 
 #: dialect/window.py:1238
-#, fuzzy
 msgid "Translation failed"
-msgstr "Vertimų istorija"
+msgstr "Vertimas nepavyko"
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
