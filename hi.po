@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2022-10-06 01:15+0000\n"
+"PO-Revision-Date: 2022-11-13 17:47+0000\n"
 "Last-Translator: Hemish <hemish04082005@gmail.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/dialect/dialect/hi/"
 ">\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 4.15-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -333,7 +333,7 @@ msgstr "अनुवाद का सुझाव दें"
 
 #: data/resources/window.blp:517
 msgid "Cancel"
-msgstr ""
+msgstr "रद्द"
 
 #: data/resources/lang-selector.blp:18
 msgid "Search Languages…"
@@ -367,19 +367,21 @@ msgstr "प्रदान की गई API कुंजी (API Key) अमा
 
 #: dialect/window.py:298
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "कृपया सेटिंग्स में मान्य API कुंजी (API key) सेट करें।"
 
 #: dialect/window.py:301
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
+"कृपया सेटिंग्स में मान्य API कुंजी (API key) सेट करें या फ़िर API कुंजी "
+"हटाएँ।"
 
 #: dialect/window.py:322 dialect/window.py:1230
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "अनुवाद सेवा का उपयोग करने के लिए API कुंजी की आवश्यकता है।"
 
 #: dialect/window.py:323
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "कृपया सेटिंग्स में एक API कुंजी (API key) सेट करें।"
 
 #: dialect/window.py:336
 msgid "Failed loading the translation service"
