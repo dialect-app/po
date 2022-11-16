@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2022-11-13 17:47+0000\n"
+"PO-Revision-Date: 2022-11-16 17:47+0000\n"
 "Last-Translator: Hemish <hemish04082005@gmail.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/dialect/dialect/hi/"
 ">\n"
@@ -24,12 +24,12 @@ msgstr ""
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:6
 #: data/resources/window.blp:240 dialect/main.py:57
 msgid "Dialect"
-msgstr "Dialect"
+msgstr "डायलेक्ट"
 
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
-msgstr "भाषाओं के बीच अनुवाद"
+msgstr "भाषाओं के बीच अनुवाद करें"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:13
@@ -38,7 +38,7 @@ msgstr "अनुवाद;अनुवादन;अनुवादक;translate
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
-msgstr "GNOME के लिए एक अनुवादक ऐप।"
+msgstr "गनोम के लिए एक अनुवादक ऐप।"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
@@ -46,19 +46,19 @@ msgstr "सुविधाएँ:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
 msgid "Translation based on Google Translate"
-msgstr "Google Translate पर आधारित अनुवाद"
+msgstr "'गूगल ट्रांसलेट' पर आधारित अनुवाद"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
-"LibreTranslate API पर आधारित अनुवाद, जो आपको किसी भी instance का उपयोग करने "
-"की अनुमति देता है"
+"'लिब्रेट्रांसलेट' API पर आधारित अनुवाद, जो आपको किसी भी इन्स्टेंस का उपयोग "
+"करने की अनुमति देता है"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
-msgstr "Lingva Translate API पर आधारित अनुवाद"
+msgstr "'लिंग्वा ट्रांसलेट' API पर आधारित अनुवाद"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Text to speech"
@@ -74,19 +74,19 @@ msgstr "भाषा का पता लगाना (स्वचालित)
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Clipboard buttons"
-msgstr "Clipboard के बटन"
+msgstr "क्लिपबॉर्ड के बटन"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:28
 msgid "The Dialect Authors"
-msgstr "Dialect के रचनाकार (निर्माता)"
+msgstr "डायलेक्ट के निर्माता"
 
 #: data/resources/about.blp:7
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
-msgstr "Copyright २०२०-२०२२ Dialect के निर्माता"
+msgstr "कॉपीराइट २०२०-२०२२ डायलेक्ट के निर्माता"
 
 #: data/resources/about.blp:10
 msgid "GitHub page"
-msgstr "GitHub वेबपेज (वेब पृष्ठ)"
+msgstr "गिटहब वेब पृष्ठ"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:14
@@ -139,11 +139,11 @@ msgstr "उपलब्ध अनुवाद सेवाओं में स�
 
 #: data/resources/preferences.ui:70
 msgid "Translator Instance"
-msgstr "अनुवादक instance"
+msgstr "अनुवादक इन्स्टेंस"
 
 #: data/resources/preferences.ui:71
 msgid "Enter a translation service URL."
-msgstr "अनुवाद सेवा का URL लिखें।"
+msgstr "अनुवाद सेवा का URL पता लिखें।"
 
 #: data/resources/preferences.ui:89 data/resources/preferences.ui:161
 msgid "Edit"
@@ -197,7 +197,7 @@ msgstr "स्रोत (Source) लेख खाली करें"
 #: data/resources/shortcuts.blp:35
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr "अनुवाद को copy (प्रतिलिपित) करें"
+msgstr "अनुवाद को कॉपी करें"
 
 #: data/resources/shortcuts.blp:41
 msgctxt "shortcuts window"
@@ -237,7 +237,7 @@ msgstr "अगले अनुवाद पर जाएँ"
 #: data/resources/shortcuts.blp:82
 msgctxt "shortcuts window"
 msgid "General"
-msgstr "आम (General)"
+msgstr "साधारण"
 
 #: data/resources/shortcuts.blp:86
 msgctxt "shortcuts window"
@@ -268,7 +268,7 @@ msgstr "कीबोर्ड शॉर्टकट"
 
 #: data/resources/window.blp:34
 msgid "About Dialect"
-msgstr "Dialect के बारे में"
+msgstr "डायलेक्ट का परिचय"
 
 #: data/resources/window.blp:70
 msgid "Loading…"
@@ -305,7 +305,7 @@ msgstr "खाली करें"
 
 #: data/resources/window.blp:372
 msgid "Paste"
-msgstr "Paste करें"
+msgstr "पेस्ट करें"
 
 #: data/resources/window.blp:378 data/resources/window.blp:496
 msgid "Listen"
@@ -325,7 +325,7 @@ msgstr "दिए गए लेख का अनुवाद नहीं हो
 
 #: data/resources/window.blp:482
 msgid "Copy"
-msgstr "Copy करें"
+msgstr "कॉपी करें"
 
 #: data/resources/window.blp:490
 msgid "Suggest Translation"
@@ -337,7 +337,7 @@ msgstr "रद्द"
 
 #: data/resources/lang-selector.blp:18
 msgid "Search Languages…"
-msgstr "भाषाएं खोजें…"
+msgstr "भाषाएँ खोजें…"
 
 #: data/resources/theme-switcher.blp:25
 msgid "Follow system style"
@@ -458,15 +458,15 @@ msgstr "अनुवाद असफल हुआ"
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
-msgstr "अफ़्रीकी"
+msgstr "अफ़्रीकी (Afrikaans)"
 
 #: dialect/translators/__init__.py:27
 msgid "Albanian"
-msgstr "अल्बानियाई"
+msgstr "अल्बानियाई (Albanian)"
 
 #: dialect/translators/__init__.py:28
 msgid "Amharic"
-msgstr "अम्हेरी"
+msgstr "अम्हेरी (Amharic)"
 
 #: dialect/translators/__init__.py:29
 msgid "Arabic"
@@ -578,19 +578,19 @@ msgstr "गैलिशियन (Galician)"
 
 #: dialect/translators/__init__.py:56
 msgid "Georgian"
-msgstr "जॉर्जियाई"
+msgstr "जॉर्जियाई (Georgian)"
 
 #: dialect/translators/__init__.py:57
 msgid "German"
-msgstr "जर्मन"
+msgstr "जर्मन (German)"
 
 #: dialect/translators/__init__.py:58
 msgid "Greek"
-msgstr "यूनानी"
+msgstr "यूनानी (Greek)"
 
 #: dialect/translators/__init__.py:59
 msgid "Gujarati"
-msgstr "गुजराती"
+msgstr "गुजराती (Gujarati)"
 
 #: dialect/translators/__init__.py:60
 msgid "Haitian Creole"
@@ -610,7 +610,7 @@ msgstr "हिब्रू"
 
 #: dialect/translators/__init__.py:65
 msgid "Hindi"
-msgstr "हिन्दी"
+msgstr "हिन्दी (Hindi)"
 
 #: dialect/translators/__init__.py:66
 msgid "Hmong"
@@ -770,7 +770,7 @@ msgstr "रोमानियाई"
 
 #: dialect/translators/__init__.py:105
 msgid "Russian"
-msgstr "रूसी"
+msgstr "रूसी (Russian)"
 
 #: dialect/translators/__init__.py:106
 msgid "Samoan"
@@ -834,7 +834,7 @@ msgstr "ताजिक"
 
 #: dialect/translators/__init__.py:121
 msgid "Tamil"
-msgstr "तमिल"
+msgstr "तमिल (Tamil)"
 
 #: dialect/translators/__init__.py:122
 msgid "Tatar"
@@ -842,7 +842,7 @@ msgstr "तातार"
 
 #: dialect/translators/__init__.py:123
 msgid "Telugu"
-msgstr "तेलुगू"
+msgstr "तेलुगू (Telugu)"
 
 #: dialect/translators/__init__.py:124
 msgid "Thai"
@@ -862,7 +862,7 @@ msgstr "यूक्रेनियाई"
 
 #: dialect/translators/__init__.py:128
 msgid "Urdu"
-msgstr "उर्दू"
+msgstr "उर्दू (Urdu)"
 
 #: dialect/translators/__init__.py:129
 msgid "Uyghur"
