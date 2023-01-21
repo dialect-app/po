@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2022-06-30 01:14+0000\n"
-"Last-Translator: Swann Fournial <s.fournial@protonmail.com>\n"
+"PO-Revision-Date: 2023-01-21 16:28+0000\n"
+"Last-Translator: J. Lavoie <j.lavoie@net-c.ca>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/dialect/dialect/"
 "fr/>\n"
 "Language: fr\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.13.1-dev\n"
+"X-Generator: Weblate 4.15.1\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -751,7 +751,7 @@ msgstr "Odia (oriya)"
 
 #: dialect/translators/__init__.py:99
 msgid "Pashto"
-msgstr "Pachtô"
+msgstr "Pachto"
 
 #: dialect/translators/__init__.py:100
 msgid "Persian"
@@ -767,7 +767,7 @@ msgstr "Portugais"
 
 #: dialect/translators/__init__.py:103
 msgid "Punjabi"
-msgstr "Panjabi"
+msgstr "Pendjabi"
 
 #: dialect/translators/__init__.py:104
 msgid "Romanian"
@@ -799,11 +799,11 @@ msgstr "Shona"
 
 #: dialect/translators/__init__.py:111
 msgid "Sindhi"
-msgstr "Sindhî"
+msgstr "Sindhi"
 
 #: dialect/translators/__init__.py:112
 msgid "Sinhala"
-msgstr "Cingalais"
+msgstr "Singhalais"
 
 #: dialect/translators/__init__.py:113
 msgid "Slovak"
