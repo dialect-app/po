@@ -9,15 +9,16 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2021-11-16 14:09+0400\n"
-"Last-Translator: Jacob Gogichaishvili <jggsecondary@gmail.com>\n"
-"Language-Team: Georgian <>\n"
+"PO-Revision-Date: 2023-03-03 22:38+0000\n"
+"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
+"Language-Team: Georgian <https://hosted.weblate.org/projects/dialect/dialect/"
+"ka/>\n"
 "Language: ka\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0\n"
-"X-Generator: Gtranslator 41.0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.16.2-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -34,7 +35,7 @@ msgstr "თარგმნა ენებს შორის"
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:13
 msgid "translate;translation;"
-msgstr "გადათარგმნეთ;თარგმნა;ტრანზლაცია"
+msgstr "თარგმანი;თარგმნეთ;"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
@@ -51,13 +52,12 @@ msgstr ""
 "თარგმნა რომელიც დაფუძნებულია არაოფიციალურ ინტერფეისზე გუგლ თარგნმნისთვის"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
-#, fuzzy
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
-"თარგმანი რომელიც დაფუძნებულია ლიბრეთარგმნაზე, რომელიც საშუალებას გაძლევთ რომ "
-"ნებისმიერი ლიბრეთარგმნის სერვერი იხმაროთ."
+"თარგმანი დაფუძნებულია LibreTranslate-ის API-ზე, რაც საშუალებას გაძლევთ, "
+"ნებისმიერი საჯარო ვერსია გამოიყენოთ"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 #, fuzzy
@@ -346,9 +346,8 @@ msgid "Cancel"
 msgstr ""
 
 #: data/resources/lang-selector.blp:18
-#, fuzzy
 msgid "Search Languages…"
-msgstr "ენების შემოტრიალება"
+msgstr "ენის მოძებნა…"
 
 #: data/resources/theme-switcher.blp:25
 msgid "Follow system style"
@@ -415,11 +414,8 @@ msgid "Couldn’t connect to the translation service"
 msgstr "თარგმნის სერვისი ვერ ჩაიტვირთა"
 
 #: dialect/window.py:344
-#, fuzzy
 msgid "We can’t connect to the server. Please check for network issues."
-msgstr ""
-"თარგმნა ვერ მოხერხდა.\n"
-"გთხოვთ შეამოწმეთ ქსელის პრობლემები."
+msgstr "სერვერთან მიერთების შეცდომა. შეამოწმეთ ქსელის პრობლემები."
 
 #: dialect/window.py:346
 #, python-brace-format
@@ -433,11 +429,8 @@ msgid "A network issue has occured. Retry?"
 msgstr "ქსელის პრობლემა მოცდა. ხელახლა ვცადო?"
 
 #: dialect/window.py:382
-#, fuzzy
 msgid "A network issue has occured. Please try again."
-msgstr ""
-"ქსელის პრობლემა მოხდა.\n"
-"გთხოვთ რომ ხელახლა ცადოთ."
+msgstr "აღმოჩენილია ქსელის პრობლემა. თავიდან სცადეთ."
 
 #: dialect/window.py:666 dialect/window.py:673 dialect/window.py:1126
 msgid "Auto"
@@ -458,14 +451,11 @@ msgstr "5000 ასოს ლიმიტი მიაღწიეთ!"
 
 #: dialect/window.py:1165
 msgid "Did you mean: "
-msgstr "ხომ არ იგულისხმეთ:"
+msgstr "გულისხმობდით: "
 
 #: dialect/window.py:1214
-#, fuzzy
 msgid "Translation failed, check for network issues"
-msgstr ""
-"თარგმნა ვერ მოხერხდა.\n"
-"გთხოვთ შეამოწმეთ ქსელის პრობლემები."
+msgstr "თარგმანის შეცდომა. შეამოწმეთ ქსელი"
 
 #: dialect/window.py:1238
 #, fuzzy
