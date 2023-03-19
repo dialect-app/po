@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2023-02-20 01:37+0000\n"
+"PO-Revision-Date: 2023-03-19 07:39+0000\n"
 "Last-Translator: Philip Goto <philip.goto@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/dialect/dialect/nl/"
 ">\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16-dev\n"
+"X-Generator: Weblate 4.16.2-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -58,7 +58,7 @@ msgstr ""
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
-msgstr "Vertaling op basis van de Lingva Translate-api"
+msgstr "Vertaling op basis van de Lingva Translate-API"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Text to speech"
@@ -91,7 +91,9 @@ msgstr "GitHub-pagina"
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:14
 msgid "translator-credits"
-msgstr "Heimen Stoffels <vistausss@fastmail.com>"
+msgstr ""
+"Heimen Stoffels <vistausss@fastmail.com>\n"
+"Philip Goto <philip.goto@gmail.com>"
 
 #: data/resources/preferences.ui:11
 msgid "Behavior"
@@ -138,7 +140,7 @@ msgstr "Vertaler"
 
 #: data/resources/preferences.ui:62
 msgid "Choose from the available translation services."
-msgstr "Kies één van de beschikbare vertaaldiensten."
+msgstr "Kies één van de beschikbare vertaaldiensten"
 
 #: data/resources/preferences.ui:70
 msgid "Translator Instance"
@@ -146,7 +148,7 @@ msgstr "Vertaalproces"
 
 #: data/resources/preferences.ui:71
 msgid "Enter a translation service URL."
-msgstr "Voer de url van een vertaaldienst in."
+msgstr "Voer de URL van een vertaaldienst in"
 
 #: data/resources/preferences.ui:89 data/resources/preferences.ui:161
 msgid "Edit"
@@ -163,11 +165,11 @@ msgstr "Opslaan"
 
 #: data/resources/preferences.ui:142
 msgid "API Key"
-msgstr "Api-sleutel"
+msgstr "API-sleutel"
 
 #: data/resources/preferences.ui:143
 msgid "Enter an API key for the translation service."
-msgstr "Voer de api-sleutel van een vertaaldienst in."
+msgstr "Voer de API-sleutel van een vertaaldienst in"
 
 #: data/resources/preferences.ui:214
 msgid "Text-to-Speech"
@@ -175,7 +177,7 @@ msgstr "Voorlezen"
 
 #: data/resources/preferences.ui:215
 msgid "Use Google for TTS."
-msgstr "Gebruik Google om voor te lezen."
+msgstr "Gebruik Google om voor te lezen"
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -230,12 +232,12 @@ msgstr "Navigatie"
 #: data/resources/shortcuts.blp:69
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr "Ga terug in de geschiedenis"
+msgstr "Teruggaan in geschiedenis"
 
 #: data/resources/shortcuts.blp:75
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr "Ga vooruit in de geschiedenis"
+msgstr "Vooruitgaan in geschiedenis"
 
 #: data/resources/shortcuts.blp:82
 msgctxt "shortcuts window"
@@ -344,15 +346,15 @@ msgstr "Zoeken naar talen…"
 
 #: data/resources/theme-switcher.blp:25
 msgid "Follow system style"
-msgstr "Systeemthema"
+msgstr "Systeemstijl volgen"
 
 #: data/resources/theme-switcher.blp:39
 msgid "Light style"
-msgstr "Licht thema"
+msgstr "Lichte stijl"
 
 #: data/resources/theme-switcher.blp:53
 msgid "Dark style"
-msgstr "Donker thema"
+msgstr "Donkere stijl"
 
 #: dialect/preferences.py:220
 #, python-brace-format
@@ -362,28 +364,28 @@ msgstr "Verkeerd {backend}-proces"
 #: dialect/preferences.py:288
 #, python-brace-format
 msgid "Not a valid {backend} API key"
-msgstr "Verkeerde {backend}-api-sleutel"
+msgstr "Verkeerde {backend}-API-sleutel"
 
 #: dialect/window.py:296 dialect/window.py:1222
 msgid "The provided API key is invalid"
-msgstr "De opgegeven api-sleutel is onjuist"
+msgstr "De opgegeven API-sleutel is onjuist"
 
 #: dialect/window.py:298
 msgid "Please set a valid API key in the preferences."
-msgstr "Stel een geldige api-sleutel in in de voorkeuren."
+msgstr "Stel een geldige API-sleutel in in de voorkeuren"
 
 #: dialect/window.py:301
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
-"Stel een geldige api-sleutel in of wis de huidige sleutel in de voorkeuren."
+"Stel een geldige API-sleutel in of wis de huidige sleutel in de voorkeuren"
 
 #: dialect/window.py:322 dialect/window.py:1230
 msgid "API key is required to use the service"
-msgstr "Api-sleutel vereist"
+msgstr "API-sleutel vereist"
 
 #: dialect/window.py:323
 msgid "Please set an API key in the preferences."
-msgstr "Stel een api-sleutel in in de voorkeuren."
+msgstr "Stel een API-sleutel in in de voorkeuren"
 
 #: dialect/window.py:336
 msgid "Failed loading the translation service"
@@ -440,11 +442,11 @@ msgstr "Er is een vertaalsuggestie aangeleverd!"
 
 #: dialect/window.py:872
 msgid "Suggestion failed."
-msgstr "Het aanleveren is mislukt."
+msgstr "Suggestie aanleveren mislukt"
 
 #: dialect/window.py:1012
 msgid "{} characters limit reached!"
-msgstr "U heeft het tekenlimiet ({}) bereikt!"
+msgstr "Tekenlimiet ({}) bereikt!"
 
 #: dialect/window.py:1165
 msgid "Did you mean: "
@@ -452,11 +454,11 @@ msgstr "Bedoelde u: "
 
 #: dialect/window.py:1214
 msgid "Translation failed, check for network issues"
-msgstr "De vertaling is mislukt - controleer uw internetverbinding."
+msgstr "Vertaling mislukt, controleer uw internetverbinding"
 
 #: dialect/window.py:1238
 msgid "Translation failed"
-msgstr "De vertaling is mislukt"
+msgstr "Vertaling mislukt"
 
 #: dialect/translators/__init__.py:26
 msgid "Afrikaans"
