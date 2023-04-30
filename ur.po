@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-06-27 16:36-0500\n"
-"PO-Revision-Date: 2023-04-28 13:49+0000\n"
+"PO-Revision-Date: 2023-04-30 07:48+0000\n"
 "Last-Translator: duckienome <xvchattw@duck.com>\n"
 "Language-Team: Urdu <https://hosted.weblate.org/projects/dialect/dialect/ur/>"
 "\n"
@@ -350,7 +350,7 @@ msgstr "سفیری انداز"
 
 #: data/resources/theme-switcher.blp:53
 msgid "Dark style"
-msgstr "سرخ انداز"
+msgstr "سیاہ انداز"
 
 #: dialect/preferences.py:220
 #, python-brace-format
