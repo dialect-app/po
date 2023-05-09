@@ -387,191 +387,191 @@ msgstr "Saglabāt"
 
 #: dialect/languages.py:11
 msgid "Afrikaans"
-msgstr "Afrikāņu"
+msgstr "afrikandu"
 
 #: dialect/languages.py:12
 msgid "Albanian"
-msgstr "Albāņu"
+msgstr "albāņu"
 
 #: dialect/languages.py:13
 msgid "Amharic"
-msgstr "Amharu"
+msgstr "amharu"
 
 #: dialect/languages.py:14
 msgid "Arabic"
-msgstr "Arābu"
+msgstr "arābu"
 
 #: dialect/languages.py:15
 msgid "Armenian"
-msgstr "Armēņu"
+msgstr "armēņu"
 
 #: dialect/languages.py:16
 msgid "Azerbaijani"
-msgstr "Azerbaidžāņu"
+msgstr "azerbaidžāņu"
 
 #: dialect/languages.py:17
 msgid "Basque"
-msgstr "Basku"
+msgstr "basku"
 
 #: dialect/languages.py:18
 msgid "Belarusian"
-msgstr "Baltkrievu"
+msgstr "baltkrievu"
 
 #: dialect/languages.py:19
 msgid "Bengali"
-msgstr "Bengāļu"
+msgstr "bengāļu"
 
 #: dialect/languages.py:20
 msgid "Bosnian"
-msgstr "Bosniešu"
+msgstr "bosniešu"
 
 #: dialect/languages.py:21
 msgid "Bulgarian"
-msgstr "Bulgāru"
+msgstr "bulgāru"
 
 #: dialect/languages.py:22
 msgid "Catalan"
-msgstr "Katalāņu"
+msgstr "katalāņu"
 
 #: dialect/languages.py:23
 msgid "Cebuano"
-msgstr "Sebuāno"
+msgstr "sebuāņu"
 
 #: dialect/languages.py:24
 msgid "Chichewa"
-msgstr "Čičeva"
+msgstr "čičeva"
 
 #: dialect/languages.py:25
 msgid "Chinese"
-msgstr "Ķīniešu"
+msgstr "ķīniešu"
 
 #: dialect/languages.py:26
 msgid "Chinese (Simplified)"
-msgstr "Ķīniešu (Vienkāršotā)"
+msgstr "ķīniešu vienkāršotā"
 
 #: dialect/languages.py:27
 msgid "Chinese (Traditional)"
-msgstr "Ķīniešu (Tradicionālā)"
+msgstr "ķīniešu tradicionālā"
 
 #: dialect/languages.py:28
 msgid "Corsican"
-msgstr "Korsikāņu"
+msgstr "korsikāņu"
 
 #: dialect/languages.py:29
 msgid "Croatian"
-msgstr "Horvātu"
+msgstr "horvātu"
 
 #: dialect/languages.py:30
 msgid "Czech"
-msgstr "Čehu"
+msgstr "čehu"
 
 #: dialect/languages.py:31
 msgid "Danish"
-msgstr "Dāņu"
+msgstr "dāņu"
 
 #: dialect/languages.py:32
 msgid "Dutch"
-msgstr "Holandiešu"
+msgstr "holandiešu"
 
 #: dialect/languages.py:33
 msgid "English"
-msgstr "Angļu"
+msgstr "angļu"
 
 #: dialect/languages.py:34
 msgid "Esperanto"
-msgstr "Esperanto"
+msgstr "esperanto"
 
 #: dialect/languages.py:35
 msgid "Estonian"
-msgstr "Igauņu"
+msgstr "igauņu"
 
 #: dialect/languages.py:36
 msgid "Filipino"
-msgstr "Filipīniešu"
+msgstr "tagalu"
 
 #: dialect/languages.py:37
 msgid "Finnish"
-msgstr "Somu"
+msgstr "somu"
 
 #: dialect/languages.py:38
 msgid "French"
-msgstr "Franču"
+msgstr "franču"
 
 #: dialect/languages.py:39
 msgid "Frisian"
-msgstr "Frīzu"
+msgstr "rietumfrīzu"
 
 #: dialect/languages.py:40
 msgid "Galician"
-msgstr "Galisiešu"
+msgstr "galisiešu"
 
 #: dialect/languages.py:41
 msgid "Georgian"
-msgstr "Gruzīnu"
+msgstr "gruzīnu"
 
 #: dialect/languages.py:42
 msgid "German"
-msgstr "Vācu"
+msgstr "vācu"
 
 #: dialect/languages.py:43
 msgid "Greek"
-msgstr "Grieķu"
+msgstr "grieķu"
 
 #: dialect/languages.py:44
 msgid "Gujarati"
-msgstr "Gudžaratu"
+msgstr "gudžaratu"
 
 #: dialect/languages.py:45
 msgid "Haitian Creole"
-msgstr "Haiti Kreolu"
+msgstr "haitiešu"
 
 #: dialect/languages.py:46
 msgid "Hausa"
-msgstr "Hausa"
+msgstr "hausu"
 
 #: dialect/languages.py:47
 msgid "Hawaiian"
-msgstr "Havajiešu"
+msgstr "havajiešu"
 
 #: dialect/languages.py:48 dialect/languages.py:49
 msgid "Hebrew"
-msgstr "Ebreju"
+msgstr "ivrits"
 
 #: dialect/languages.py:50
 msgid "Hindi"
-msgstr "Hindu"
+msgstr "hindi"
 
 #: dialect/languages.py:51
 msgid "Hmong"
-msgstr "Hmong"
+msgstr "hmongu"
 
 #: dialect/languages.py:52
 msgid "Hungarian"
-msgstr "Ungāru"
+msgstr "ungāru"
 
 #: dialect/languages.py:53
 msgid "Icelandic"
-msgstr "Islandiešu"
+msgstr "islandiešu"
 
 #: dialect/languages.py:54
 msgid "Igbo"
-msgstr "Igbo"
+msgstr "igbo"
 
 #: dialect/languages.py:55
 msgid "Indonesian"
-msgstr "Indonēziešu"
+msgstr "indonēziešu"
 
 #: dialect/languages.py:56
 msgid "Irish"
-msgstr "Īru"
+msgstr "īru"
 
 #: dialect/languages.py:57
 msgid "Italian"
-msgstr "Itāļu"
+msgstr "itāļu"
 
 #: dialect/languages.py:58
 msgid "Japanese"
-msgstr "Japāņu"
+msgstr "japāņu"
 
 #: dialect/languages.py:59
 msgid "Javanese"
@@ -579,251 +579,251 @@ msgstr "Javiešu"
 
 #: dialect/languages.py:60
 msgid "Kannada"
-msgstr "Kannada"
+msgstr "kannadu"
 
 #: dialect/languages.py:61
 msgid "Kazakh"
-msgstr "Kazahu"
+msgstr "kazahu"
 
 #: dialect/languages.py:62
 msgid "Khmer"
-msgstr "Khmeri"
+msgstr "khmeru"
 
 #: dialect/languages.py:63
 msgid "Kinyarwanda"
-msgstr "Kinyarwanda"
+msgstr "kiņaruanda"
 
 #: dialect/languages.py:64
 msgid "Korean"
-msgstr "Korejiešu"
+msgstr "korejiešu"
 
 #: dialect/languages.py:65
 msgid "Kurdish (Kurmanji)"
-msgstr "Kurdu (Kurmanji)"
+msgstr "kurdu"
 
 #: dialect/languages.py:66
 msgid "Kyrgyz"
-msgstr "Kirgīzu"
+msgstr "kirgīzu"
 
 #: dialect/languages.py:67
 msgid "Lao"
-msgstr "Lao"
+msgstr "laosiešu"
 
 #: dialect/languages.py:68
 msgid "Latin"
-msgstr "Latīņu"
+msgstr "latīņu"
 
 #: dialect/languages.py:69
 msgid "Latvian"
-msgstr "Latviešu"
+msgstr "latviešu"
 
 #: dialect/languages.py:70
 msgid "Lithuanian"
-msgstr "Lietuviešu"
+msgstr "lietuviešu"
 
 #: dialect/languages.py:71
 msgid "Luxembourgish"
-msgstr "Luksemburgiešu"
+msgstr "luksemburgiešu"
 
 #: dialect/languages.py:72
 msgid "Macedonian"
-msgstr "Maķedoniešu"
+msgstr "maķedoniešu"
 
 #: dialect/languages.py:73
 msgid "Malagasy"
-msgstr "Madagaskariešu"
+msgstr "malagasu"
 
 #: dialect/languages.py:74
 msgid "Malay"
-msgstr "Malajiešu"
+msgstr "malajiešu"
 
 #: dialect/languages.py:75
 msgid "Malayalam"
-msgstr "Malajalu"
+msgstr "malajalu"
 
 #: dialect/languages.py:76
 msgid "Maltese"
-msgstr "Maltiešu"
+msgstr "maltiešu"
 
 #: dialect/languages.py:77
 msgid "Maori"
-msgstr "Maori"
+msgstr "maoru"
 
 #: dialect/languages.py:78
 msgid "Marathi"
-msgstr "Maratu"
+msgstr "marathu"
 
 #: dialect/languages.py:79
 msgid "Mongolian"
-msgstr "Mongoļu"
+msgstr "mongoļu"
 
 #: dialect/languages.py:80
 msgid "Myanmar (Burmese)"
-msgstr "Mjanma (birmiešu)"
+msgstr "birmiešu"
 
 #: dialect/languages.py:81
 msgid "Nepali"
-msgstr "Nepāliešu"
+msgstr "nepāliešu"
 
 #: dialect/languages.py:82
 msgid "Norwegian"
-msgstr "Norvēģu"
+msgstr "norvēģu"
 
 #: dialect/languages.py:83
 msgid "Odia (Oriya)"
-msgstr "Odija (Orija)"
+msgstr "oriju"
 
 #: dialect/languages.py:84
 msgid "Pashto"
-msgstr "Puštu"
+msgstr "puštu"
 
 #: dialect/languages.py:85
 msgid "Persian"
-msgstr "Persiešu"
+msgstr "persiešu"
 
 #: dialect/languages.py:86
 msgid "Polish"
-msgstr "Poļu"
+msgstr "poļu"
 
 #: dialect/languages.py:87
 msgid "Portuguese"
-msgstr "Portugāļu"
+msgstr "portugāļu"
 
 #: dialect/languages.py:88
 msgid "Punjabi"
-msgstr "Pandžabī"
+msgstr "pandžabu"
 
 #: dialect/languages.py:89
 msgid "Romanian"
-msgstr "Rumāņu"
+msgstr "rumāņu"
 
 #: dialect/languages.py:90
 msgid "Russian"
-msgstr "Krievu"
+msgstr "krievu"
 
 #: dialect/languages.py:91
 msgid "Samoan"
-msgstr "Samoāņu"
+msgstr "samoāņu"
 
 #: dialect/languages.py:92
 msgid "Scots Gaelic"
-msgstr "Skotu gēlu"
+msgstr "skotu gēlu"
 
 #: dialect/languages.py:93
 msgid "Serbian"
-msgstr "Serbu"
+msgstr "serbu"
 
 #: dialect/languages.py:94
 msgid "Sesotho"
-msgstr "Sesoto"
+msgstr "dienvidsotu"
 
 #: dialect/languages.py:95
 msgid "Shona"
-msgstr "Šona"
+msgstr "šonu"
 
 #: dialect/languages.py:96
 msgid "Sindhi"
-msgstr "Sindhi"
+msgstr "sindhu"
 
 #: dialect/languages.py:97
 msgid "Sinhala"
-msgstr "Sinhala"
+msgstr "singāļu"
 
 #: dialect/languages.py:98
 msgid "Slovak"
-msgstr "Slovāku"
+msgstr "slovāku"
 
 #: dialect/languages.py:99
 msgid "Slovenian"
-msgstr "Slovēņu"
+msgstr "slovēņu"
 
 #: dialect/languages.py:100
 msgid "Somali"
-msgstr "Somālijas"
+msgstr "somāļu"
 
 #: dialect/languages.py:101
 msgid "Spanish"
-msgstr "Spāņu"
+msgstr "spāņu"
 
 #: dialect/languages.py:102
 msgid "Sundanese"
-msgstr "Sundaniešu"
+msgstr "zundu"
 
 #: dialect/languages.py:103
 msgid "Swahili"
-msgstr "Svahili"
+msgstr "svahili"
 
 #: dialect/languages.py:104
 msgid "Swedish"
-msgstr "Zviedru"
+msgstr "zviedru"
 
 #: dialect/languages.py:105
 msgid "Tajik"
-msgstr "Tadžiku"
+msgstr "tadžiku"
 
 #: dialect/languages.py:106
 msgid "Tamil"
-msgstr "Tamilu"
+msgstr "tamilu"
 
 #: dialect/languages.py:107
 msgid "Tatar"
-msgstr "Tatāru"
+msgstr "tatāru"
 
 #: dialect/languages.py:108
 msgid "Telugu"
-msgstr "Telugu"
+msgstr "telugu"
 
 #: dialect/languages.py:109
 msgid "Thai"
-msgstr "Taju"
+msgstr "taju"
 
 #: dialect/languages.py:110
 msgid "Turkish"
-msgstr "Turku"
+msgstr "turku"
 
 #: dialect/languages.py:111
 msgid "Turkmen"
-msgstr "Turkmēņu"
+msgstr "turkmēņu"
 
 #: dialect/languages.py:112
 msgid "Ukrainian"
-msgstr "Ukraiņu"
+msgstr "ukraiņu"
 
 #: dialect/languages.py:113
 msgid "Urdu"
-msgstr "Urdu"
+msgstr "urdu"
 
 #: dialect/languages.py:114
 msgid "Uyghur"
-msgstr "Uiguru"
+msgstr "uiguru"
 
 #: dialect/languages.py:115
 msgid "Uzbek"
-msgstr "Uzbeku"
+msgstr "uzbeku"
 
 #: dialect/languages.py:116
 msgid "Vietnamese"
-msgstr "Vjetnamiešu"
+msgstr "vjetnamiešu"
 
 #: dialect/languages.py:117
 msgid "Welsh"
-msgstr "Velsiešu"
+msgstr "velsiešu"
 
 #: dialect/languages.py:118
 msgid "Xhosa"
-msgstr "Ksosa"
+msgstr "khosu"
 
 #: dialect/languages.py:119
 msgid "Yiddish"
-msgstr "Jidiš"
+msgstr "jidišs"
 
 #: dialect/languages.py:120
 msgid "Yoruba"
-msgstr "Joruba"
+msgstr "jorubu"
 
 #: dialect/languages.py:121
 msgid "Zulu"
-msgstr "Zulu"
+msgstr "zulu"
 
 #: dialect/languages.py:198
 msgid "Auto"

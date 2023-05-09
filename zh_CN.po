@@ -436,7 +436,7 @@ msgstr "宿务语"
 
 #: dialect/languages.py:24
 msgid "Chichewa"
-msgstr "齐佩瓦语"
+msgstr "齐切瓦语"
 
 #: dialect/languages.py:25
 msgid "Chinese"
@@ -444,11 +444,11 @@ msgstr "中文"
 
 #: dialect/languages.py:26
 msgid "Chinese (Simplified)"
-msgstr "中文 (简体)"
+msgstr "简体中文"
 
 #: dialect/languages.py:27
 msgid "Chinese (Traditional)"
-msgstr "中文 (繁体)"
+msgstr "繁体中文"
 
 #: dialect/languages.py:28
 msgid "Corsican"
@@ -456,7 +456,7 @@ msgstr "科西嘉语"
 
 #: dialect/languages.py:29
 msgid "Croatian"
-msgstr "克罗西亚语"
+msgstr "克罗地亚语"
 
 #: dialect/languages.py:30
 msgid "Czech"
@@ -484,7 +484,7 @@ msgstr "爱沙尼亚语"
 
 #: dialect/languages.py:36
 msgid "Filipino"
-msgstr "菲律宾语"
+msgstr "他加禄语"
 
 #: dialect/languages.py:37
 msgid "Finnish"
@@ -496,7 +496,7 @@ msgstr "法语"
 
 #: dialect/languages.py:39
 msgid "Frisian"
-msgstr "弗里斯兰语"
+msgstr "西弗里西亚语"
 
 #: dialect/languages.py:40
 msgid "Galician"
@@ -596,7 +596,7 @@ msgstr "韩语"
 
 #: dialect/languages.py:65
 msgid "Kurdish (Kurmanji)"
-msgstr "北库尔德语"
+msgstr "库尔德语"
 
 #: dialect/languages.py:66
 msgid "Kyrgyz"
@@ -628,7 +628,7 @@ msgstr "马其顿语"
 
 #: dialect/languages.py:73
 msgid "Malagasy"
-msgstr "马达加斯加语"
+msgstr "马拉加斯语"
 
 #: dialect/languages.py:74
 msgid "Malay"
@@ -648,7 +648,7 @@ msgstr "毛利语"
 
 #: dialect/languages.py:78
 msgid "Marathi"
-msgstr "马拉塔语"
+msgstr "马拉地语"
 
 #: dialect/languages.py:79
 msgid "Mongolian"
@@ -712,7 +712,7 @@ msgstr "塞尔维亚语"
 
 #: dialect/languages.py:94
 msgid "Sesotho"
-msgstr "塞索托语"
+msgstr "南索托语"
 
 #: dialect/languages.py:95
 msgid "Shona"
@@ -744,7 +744,7 @@ msgstr "西班牙语"
 
 #: dialect/languages.py:102
 msgid "Sundanese"
-msgstr "圣丹内斯语"
+msgstr "巽他语"
 
 #: dialect/languages.py:103
 msgid "Swahili"
@@ -796,7 +796,7 @@ msgstr "维吾尔语"
 
 #: dialect/languages.py:115
 msgid "Uzbek"
-msgstr "乌孜别克语"
+msgstr "乌兹别克语"
 
 #: dialect/languages.py:116
 msgid "Vietnamese"

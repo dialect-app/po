@@ -133,14 +133,6 @@ CLDR_NAMES = {
 EXCLUDE_LIST = [
     # No decent source
     "oc",  # Occitan
-    # Was manually updated by the translator
-    "eo",  # Esperanto
-    "fr",  # French
-    "fy",  # Frisian
-    "ja",  # Japanese
-    "lv",  # Latvian
-    "uk",  # Ukranian
-    "zh_CN",  # Chinese
 ]
 # Even if a language is in this list, you can pass it as a parameter to the program.
 

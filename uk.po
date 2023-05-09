@@ -449,11 +449,11 @@ msgstr "китайська"
 
 #: dialect/languages.py:26
 msgid "Chinese (Simplified)"
-msgstr "китайська (спрощена)"
+msgstr "китайська (спрощене письмо)"
 
 #: dialect/languages.py:27
 msgid "Chinese (Traditional)"
-msgstr "китайська (традиційна)"
+msgstr "китайська (традиційне письмо)"
 
 #: dialect/languages.py:28
 msgid "Corsican"
@@ -601,7 +601,7 @@ msgstr "корейська"
 
 #: dialect/languages.py:65
 msgid "Kurdish (Kurmanji)"
-msgstr "курдська (Курманджі)"
+msgstr "курдська"
 
 #: dialect/languages.py:66
 msgid "Kyrgyz"
@@ -661,7 +661,7 @@ msgstr "монгольська"
 
 #: dialect/languages.py:80
 msgid "Myanmar (Burmese)"
-msgstr "м'янма (бірманська)"
+msgstr "бірманська"
 
 #: dialect/languages.py:81
 msgid "Nepali"
@@ -673,7 +673,7 @@ msgstr "норвезька"
 
 #: dialect/languages.py:83
 msgid "Odia (Oriya)"
-msgstr "одія (Орія)"
+msgstr "одія"
 
 #: dialect/languages.py:84
 msgid "Pashto"

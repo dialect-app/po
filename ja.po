@@ -440,7 +440,7 @@ msgstr "セブアノ語"
 
 #: dialect/languages.py:24
 msgid "Chichewa"
-msgstr "チェワ語"
+msgstr "ニャンジャ語"
 
 #: dialect/languages.py:25
 msgid "Chinese"
@@ -448,11 +448,11 @@ msgstr "中国語"
 
 #: dialect/languages.py:26
 msgid "Chinese (Simplified)"
-msgstr "中国語（簡体字）"
+msgstr "簡体中国語"
 
 #: dialect/languages.py:27
 msgid "Chinese (Traditional)"
-msgstr "中国語（繁体字）"
+msgstr "繁体中国語"
 
 #: dialect/languages.py:28
 msgid "Corsican"
@@ -488,7 +488,7 @@ msgstr "エストニア語"
 
 #: dialect/languages.py:36
 msgid "Filipino"
-msgstr "フィリピン語"
+msgstr "タガログ語"
 
 #: dialect/languages.py:37
 msgid "Finnish"
@@ -500,7 +500,7 @@ msgstr "フランス語"
 
 #: dialect/languages.py:39
 msgid "Frisian"
-msgstr "フリジア語"
+msgstr "西フリジア語"
 
 #: dialect/languages.py:40
 msgid "Galician"
@@ -508,7 +508,7 @@ msgstr "ガリシア語"
 
 #: dialect/languages.py:41
 msgid "Georgian"
-msgstr "ジョージア（グルジア）語"
+msgstr "ジョージア語"
 
 #: dialect/languages.py:42
 msgid "German"
@@ -524,7 +524,7 @@ msgstr "グジャラート語"
 
 #: dialect/languages.py:45
 msgid "Haitian Creole"
-msgstr "ハイチ語"
+msgstr "ハイチ・クレオール語"
 
 #: dialect/languages.py:46
 msgid "Hausa"
@@ -544,7 +544,7 @@ msgstr "ヒンディー語"
 
 #: dialect/languages.py:51
 msgid "Hmong"
-msgstr "モン語"
+msgstr "フモン語"
 
 #: dialect/languages.py:52
 msgid "Hungarian"
@@ -592,7 +592,7 @@ msgstr "クメール語"
 
 #: dialect/languages.py:63
 msgid "Kinyarwanda"
-msgstr "ルワンダ語"
+msgstr "キニアルワンダ語"
 
 #: dialect/languages.py:64
 msgid "Korean"
@@ -660,7 +660,7 @@ msgstr "モンゴル語"
 
 #: dialect/languages.py:80
 msgid "Myanmar (Burmese)"
-msgstr "ミャンマー（ビルマ）語"
+msgstr "ミャンマー語"
 
 #: dialect/languages.py:81
 msgid "Nepali"
@@ -672,15 +672,15 @@ msgstr "ノルウェー語"
 
 #: dialect/languages.py:83
 msgid "Odia (Oriya)"
-msgstr "オリヤ語"
+msgstr "オディア語"
 
 #: dialect/languages.py:84
 msgid "Pashto"
-msgstr "パシュト語"
+msgstr "パシュトゥー語"
 
 #: dialect/languages.py:85
 msgid "Persian"
-msgstr "ペルシャ語"
+msgstr "ペルシア語"
 
 #: dialect/languages.py:86
 msgid "Polish"
@@ -708,7 +708,7 @@ msgstr "サモア語"
 
 #: dialect/languages.py:92
 msgid "Scots Gaelic"
-msgstr "スコットランド ゲール語"
+msgstr "スコットランド・ゲール語"
 
 #: dialect/languages.py:93
 msgid "Serbian"
@@ -716,7 +716,7 @@ msgstr "セルビア語"
 
 #: dialect/languages.py:94
 msgid "Sesotho"
-msgstr "ソト語"
+msgstr "南部ソト語"
 
 #: dialect/languages.py:95
 msgid "Shona"
@@ -724,7 +724,7 @@ msgstr "ショナ語"
 
 #: dialect/languages.py:96
 msgid "Sindhi"
-msgstr "シンディ語"
+msgstr "シンド語"
 
 #: dialect/languages.py:97
 msgid "Sinhala"
@@ -792,7 +792,7 @@ msgstr "ウクライナ語"
 
 #: dialect/languages.py:113
 msgid "Urdu"
-msgstr "ウルドゥ語"
+msgstr "ウルドゥー語"
 
 #: dialect/languages.py:114
 msgid "Uyghur"
