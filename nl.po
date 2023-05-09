@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-09 11:30-0500\n"
-"PO-Revision-Date: 2023-04-05 19:52+0000\n"
+"PO-Revision-Date: 2023-05-09 17:43+0000\n"
 "Last-Translator: Philip Goto <philip.goto@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/dialect/dialect/nl/"
 ">\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.17-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -61,14 +61,12 @@ msgid "Translation based on Lingva Translate API"
 msgstr "Vertaling op basis van de Lingva Translate-API"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr "Vertaling op basis van de Lingva Translate-API"
+msgstr "Vertaling op basis van Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "Vertaling op basis van Google Vertalen"
+msgstr "Vertaling op basis van Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
@@ -106,9 +104,8 @@ msgid "Search Languages…"
 msgstr "Zoeken naar talen…"
 
 #: data/resources/preferences.ui:12
-#, fuzzy
 msgid "Providers"
-msgstr "Zoekmachine"
+msgstr "Aanbieders"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
@@ -123,9 +120,8 @@ msgid "Text-to-Speech"
 msgstr "Voorlezen"
 
 #: data/resources/preferences.ui:48
-#, fuzzy
 msgid "Choose from the available TTS services."
-msgstr "Kies één van de beschikbare vertaaldiensten"
+msgstr "Kies één van de beschikbare TTS-diensten"
 
 #: data/resources/preferences.ui:81
 msgid "Behavior"
@@ -168,16 +164,14 @@ msgstr "Gebruik standaard ‘Automatisch detecteren’ als taalkeuze"
 
 #: data/resources/provider-preferences.blp:25
 msgid "Instance URL"
-msgstr ""
+msgstr "Instantie-URL"
 
 #: data/resources/provider-preferences.blp:26
-#, fuzzy
 msgid "Enter an Instance URL for the Provider."
-msgstr "Voer de API-sleutel van een vertaaldienst in"
+msgstr "Voer een instantie-URL in voor de aanbieder"
 
 #: data/resources/provider-preferences.blp:36
 #: data/resources/provider-preferences.blp:66
-#, fuzzy
 msgid "Reset to Default"
 msgstr "Standaardwaarden herstellen"
 
@@ -186,9 +180,8 @@ msgid "API Key"
 msgstr "API-sleutel"
 
 #: data/resources/provider-preferences.blp:57
-#, fuzzy
 msgid "Enter an API Key for the Provider."
-msgstr "Voer de API-sleutel van een vertaaldienst in"
+msgstr "Voer een API-sleutel in voor de aanbieder"
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -271,17 +264,14 @@ msgid "Quit"
 msgstr "Afsluiten"
 
 #: data/resources/theme-switcher.blp:20
-#, fuzzy
 msgid "Follow System Style"
 msgstr "Systeemstijl volgen"
 
 #: data/resources/theme-switcher.blp:35
-#, fuzzy
 msgid "Light Style"
 msgstr "Lichte stijl"
 
 #: data/resources/theme-switcher.blp:50
-#, fuzzy
 msgid "Dark Style"
 msgstr "Donkere stijl"
 
@@ -321,30 +311,27 @@ msgstr "Sleutel wissen en opnieuw proberen"
 
 #: data/resources/window.blp:265 data/resources/window.blp:591
 msgid "Change Source Language"
-msgstr ""
+msgstr "Brontaal wijzigen"
 
 #: data/resources/window.blp:270 data/resources/window.blp:599
-#, fuzzy
 msgid "Switch Languages"
 msgstr "Talen omwisselen"
 
 #: data/resources/window.blp:277 data/resources/window.blp:607
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Doeltaal wijzigen"
 
 #: data/resources/window.blp:292
-#, fuzzy
 msgid "Previous Translation"
 msgstr "Vorige vertaling"
 
 #: data/resources/window.blp:298
-#, fuzzy
 msgid "Next Translation"
 msgstr "Volgende vertaling"
 
 #: data/resources/window.blp:305
 msgid "Main Menu"
-msgstr ""
+msgstr "Hoofdmenu"
 
 #: data/resources/window.blp:409
 msgid "Clear"
@@ -367,9 +354,8 @@ msgid "Translating…"
 msgstr "Bezig met vertalen…"
 
 #: data/resources/window.blp:519
-#, fuzzy
 msgid "Could not Translate the Text"
-msgstr "De tekst kan niet worden vertaald"
+msgstr "Kon de tekst niet vertalen"
 
 #: data/resources/window.blp:526
 msgid "Copy"
@@ -833,11 +819,11 @@ msgstr "Automatisch"
 
 #: dialect/preferences.py:122
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Aanbieders­instellingen wijzigen"
 
 #: dialect/preferences.py:124
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Geen instellingen voor deze aanbieder"
 
 #: dialect/window.py:381 dialect/window.py:1266
 msgid "The provided API key is invalid"
@@ -879,14 +865,12 @@ msgstr ""
 "internetverbinding."
 
 #: dialect/window.py:522
-#, fuzzy
 msgid "A network issue has occurred. Retry?"
-msgstr "Er is een verbindingsprobleem opgetreden. Wilt u het opnieuw proberen?"
+msgstr "Er is een netwerkprobleem opgetreden. Opnieuw proberen?"
 
 #: dialect/window.py:536
-#, fuzzy
 msgid "A network issue has occurred. Please try again."
-msgstr "Er is een verbindingsprobleem opgetreden. Probeer het opnieuw."
+msgstr "Er is een netwerkprobleem opgetreden. Probeer het opnieuw."
 
 #: dialect/window.py:864
 msgid "New translation has been suggested!"
