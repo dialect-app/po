@@ -406,7 +406,7 @@ msgstr "Ermenice"
 
 #: dialect/languages.py:16
 msgid "Azerbaijani"
-msgstr "Azerice"
+msgstr "Azerbaycan dili"
 
 #: dialect/languages.py:17
 msgid "Basque"
@@ -434,11 +434,11 @@ msgstr "Katalanca"
 
 #: dialect/languages.py:23
 msgid "Cebuano"
-msgstr "Sebuanoca"
+msgstr "Sebuano dili"
 
 #: dialect/languages.py:24
 msgid "Chichewa"
-msgstr "Çiçevaca"
+msgstr "Nyanja"
 
 #: dialect/languages.py:25
 msgid "Chinese"
@@ -446,11 +446,11 @@ msgstr "Çince"
 
 #: dialect/languages.py:26
 msgid "Chinese (Simplified)"
-msgstr "Çince (Basitleştirilmiş)"
+msgstr "Basitleştirilmiş Çince"
 
 #: dialect/languages.py:27
 msgid "Chinese (Traditional)"
-msgstr "Çince (Geleneksel)"
+msgstr "Geleneksel Çince"
 
 #: dialect/languages.py:28
 msgid "Corsican"
@@ -526,11 +526,11 @@ msgstr "Haiti Kreyolu"
 
 #: dialect/languages.py:46
 msgid "Hausa"
-msgstr "Hausaca"
+msgstr "Hausa dili"
 
 #: dialect/languages.py:47
 msgid "Hawaiian"
-msgstr "Havai'ice"
+msgstr "Hawaii dili"
 
 #: dialect/languages.py:48 dialect/languages.py:49
 msgid "Hebrew"
@@ -542,7 +542,7 @@ msgstr "Hintçe"
 
 #: dialect/languages.py:51
 msgid "Hmong"
-msgstr "Hmongca"
+msgstr "Hmong"
 
 #: dialect/languages.py:52
 msgid "Hungarian"
@@ -578,7 +578,7 @@ msgstr "Cavaca"
 
 #: dialect/languages.py:60
 msgid "Kannada"
-msgstr "Kannadaca"
+msgstr "Kannada dili"
 
 #: dialect/languages.py:61
 msgid "Kazakh"
@@ -598,7 +598,7 @@ msgstr "Korece"
 
 #: dialect/languages.py:65
 msgid "Kurdish (Kurmanji)"
-msgstr "Kürtçe (Kurmançça)"
+msgstr "Kürtçe"
 
 #: dialect/languages.py:66
 msgid "Kyrgyz"
@@ -606,7 +606,7 @@ msgstr "Kırgızca"
 
 #: dialect/languages.py:67
 msgid "Lao"
-msgstr "Laoca"
+msgstr "Lao dili"
 
 #: dialect/languages.py:68
 msgid "Latin"
@@ -638,7 +638,7 @@ msgstr "Malayca"
 
 #: dialect/languages.py:75
 msgid "Malayalam"
-msgstr "Malayalamca"
+msgstr "Malayalam dili"
 
 #: dialect/languages.py:76
 msgid "Maltese"
@@ -646,11 +646,11 @@ msgstr "Maltaca"
 
 #: dialect/languages.py:77
 msgid "Maori"
-msgstr "Maorice"
+msgstr "Maori dili"
 
 #: dialect/languages.py:78
 msgid "Marathi"
-msgstr "Maratice"
+msgstr "Marathi dili"
 
 #: dialect/languages.py:79
 msgid "Mongolian"
@@ -658,7 +658,7 @@ msgstr "Moğolca"
 
 #: dialect/languages.py:80
 msgid "Myanmar (Burmese)"
-msgstr "Birmanca"
+msgstr "Birman dili"
 
 #: dialect/languages.py:81
 msgid "Nepali"
@@ -670,7 +670,7 @@ msgstr "Norveççe"
 
 #: dialect/languages.py:83
 msgid "Odia (Oriya)"
-msgstr "Oriyaca"
+msgstr "Oriya dili"
 
 #: dialect/languages.py:84
 msgid "Pashto"
@@ -718,11 +718,11 @@ msgstr "Güney Sotho dili"
 
 #: dialect/languages.py:95
 msgid "Shona"
-msgstr "Şonaca"
+msgstr "Şona dili"
 
 #: dialect/languages.py:96
 msgid "Sindhi"
-msgstr "Sindce"
+msgstr "Sindhi dili"
 
 #: dialect/languages.py:97
 msgid "Sinhala"
@@ -746,11 +746,11 @@ msgstr "İspanyolca"
 
 #: dialect/languages.py:102
 msgid "Sundanese"
-msgstr "Sundaca"
+msgstr "Sunda dili"
 
 #: dialect/languages.py:103
 msgid "Swahili"
-msgstr "Svahilice"
+msgstr "Svahili dili"
 
 #: dialect/languages.py:104
 msgid "Swedish"
@@ -770,7 +770,7 @@ msgstr "Tatarca"
 
 #: dialect/languages.py:108
 msgid "Telugu"
-msgstr "Teluguca"
+msgstr "Telugu dili"
 
 #: dialect/languages.py:109
 msgid "Thai"

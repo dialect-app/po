@@ -639,7 +639,7 @@ msgstr "malayo"
 
 #: dialect/languages.py:75
 msgid "Malayalam"
-msgstr "malayalam"
+msgstr "malayálam"
 
 #: dialect/languages.py:76
 msgid "Maltese"
@@ -723,7 +723,7 @@ msgstr "shona"
 
 #: dialect/languages.py:96
 msgid "Sindhi"
-msgstr "sindhi"
+msgstr "sindi"
 
 #: dialect/languages.py:97
 msgid "Sinhala"

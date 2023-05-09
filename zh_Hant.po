@@ -369,191 +369,191 @@ msgstr ""
 
 #: dialect/languages.py:11
 msgid "Afrikaans"
-msgstr ""
+msgstr "南非荷蘭文"
 
 #: dialect/languages.py:12
 msgid "Albanian"
-msgstr ""
+msgstr "阿爾巴尼亞文"
 
 #: dialect/languages.py:13
 msgid "Amharic"
-msgstr ""
+msgstr "阿姆哈拉文"
 
 #: dialect/languages.py:14
 msgid "Arabic"
-msgstr ""
+msgstr "阿拉伯文"
 
 #: dialect/languages.py:15
 msgid "Armenian"
-msgstr ""
+msgstr "亞美尼亞文"
 
 #: dialect/languages.py:16
 msgid "Azerbaijani"
-msgstr ""
+msgstr "亞塞拜然文"
 
 #: dialect/languages.py:17
 msgid "Basque"
-msgstr ""
+msgstr "巴斯克文"
 
 #: dialect/languages.py:18
 msgid "Belarusian"
-msgstr ""
+msgstr "白俄羅斯文"
 
 #: dialect/languages.py:19
 msgid "Bengali"
-msgstr ""
+msgstr "孟加拉文"
 
 #: dialect/languages.py:20
 msgid "Bosnian"
-msgstr ""
+msgstr "波士尼亞文"
 
 #: dialect/languages.py:21
 msgid "Bulgarian"
-msgstr ""
+msgstr "保加利亞文"
 
 #: dialect/languages.py:22
 msgid "Catalan"
-msgstr ""
+msgstr "加泰蘭文"
 
 #: dialect/languages.py:23
 msgid "Cebuano"
-msgstr ""
+msgstr "宿霧文"
 
 #: dialect/languages.py:24
 msgid "Chichewa"
-msgstr ""
+msgstr "尼揚賈文"
 
 #: dialect/languages.py:25
 msgid "Chinese"
-msgstr ""
+msgstr "中文"
 
 #: dialect/languages.py:26
 msgid "Chinese (Simplified)"
-msgstr ""
+msgstr "簡體中文"
 
 #: dialect/languages.py:27
 msgid "Chinese (Traditional)"
-msgstr ""
+msgstr "繁體中文"
 
 #: dialect/languages.py:28
 msgid "Corsican"
-msgstr ""
+msgstr "科西嘉文"
 
 #: dialect/languages.py:29
 msgid "Croatian"
-msgstr ""
+msgstr "克羅埃西亞文"
 
 #: dialect/languages.py:30
 msgid "Czech"
-msgstr ""
+msgstr "捷克文"
 
 #: dialect/languages.py:31
 msgid "Danish"
-msgstr ""
+msgstr "丹麥文"
 
 #: dialect/languages.py:32
 msgid "Dutch"
-msgstr ""
+msgstr "荷蘭文"
 
 #: dialect/languages.py:33
 msgid "English"
-msgstr ""
+msgstr "英文"
 
 #: dialect/languages.py:34
 msgid "Esperanto"
-msgstr ""
+msgstr "世界文"
 
 #: dialect/languages.py:35
 msgid "Estonian"
-msgstr ""
+msgstr "愛沙尼亞文"
 
 #: dialect/languages.py:36
 msgid "Filipino"
-msgstr ""
+msgstr "塔加路族文"
 
 #: dialect/languages.py:37
 msgid "Finnish"
-msgstr ""
+msgstr "芬蘭文"
 
 #: dialect/languages.py:38
 msgid "French"
-msgstr ""
+msgstr "法文"
 
 #: dialect/languages.py:39
 msgid "Frisian"
-msgstr ""
+msgstr "西弗里西亞文"
 
 #: dialect/languages.py:40
 msgid "Galician"
-msgstr ""
+msgstr "加利西亞文"
 
 #: dialect/languages.py:41
 msgid "Georgian"
-msgstr ""
+msgstr "喬治亞文"
 
 #: dialect/languages.py:42
 msgid "German"
-msgstr ""
+msgstr "德文"
 
 #: dialect/languages.py:43
 msgid "Greek"
-msgstr ""
+msgstr "希臘文"
 
 #: dialect/languages.py:44
 msgid "Gujarati"
-msgstr ""
+msgstr "古吉拉特文"
 
 #: dialect/languages.py:45
 msgid "Haitian Creole"
-msgstr ""
+msgstr "海地文"
 
 #: dialect/languages.py:46
 msgid "Hausa"
-msgstr ""
+msgstr "豪撒文"
 
 #: dialect/languages.py:47
 msgid "Hawaiian"
-msgstr ""
+msgstr "夏威夷文"
 
 #: dialect/languages.py:48 dialect/languages.py:49
 msgid "Hebrew"
-msgstr ""
+msgstr "希伯來文"
 
 #: dialect/languages.py:50
 msgid "Hindi"
-msgstr ""
+msgstr "印地文"
 
 #: dialect/languages.py:51
 msgid "Hmong"
-msgstr ""
+msgstr "孟文"
 
 #: dialect/languages.py:52
 msgid "Hungarian"
-msgstr ""
+msgstr "匈牙利文"
 
 #: dialect/languages.py:53
 msgid "Icelandic"
-msgstr ""
+msgstr "冰島文"
 
 #: dialect/languages.py:54
 msgid "Igbo"
-msgstr ""
+msgstr "伊布文"
 
 #: dialect/languages.py:55
 msgid "Indonesian"
-msgstr ""
+msgstr "印尼文"
 
 #: dialect/languages.py:56
 msgid "Irish"
-msgstr ""
+msgstr "愛爾蘭文"
 
 #: dialect/languages.py:57
 msgid "Italian"
-msgstr ""
+msgstr "義大利文"
 
 #: dialect/languages.py:58
 msgid "Japanese"
-msgstr ""
+msgstr "日文"
 
 #: dialect/languages.py:59
 msgid "Javanese"
@@ -561,251 +561,251 @@ msgstr ""
 
 #: dialect/languages.py:60
 msgid "Kannada"
-msgstr ""
+msgstr "坎那達文"
 
 #: dialect/languages.py:61
 msgid "Kazakh"
-msgstr ""
+msgstr "哈薩克文"
 
 #: dialect/languages.py:62
 msgid "Khmer"
-msgstr ""
+msgstr "高棉文"
 
 #: dialect/languages.py:63
 msgid "Kinyarwanda"
-msgstr ""
+msgstr "盧安達文"
 
 #: dialect/languages.py:64
 msgid "Korean"
-msgstr ""
+msgstr "韓文"
 
 #: dialect/languages.py:65
 msgid "Kurdish (Kurmanji)"
-msgstr ""
+msgstr "庫德文"
 
 #: dialect/languages.py:66
 msgid "Kyrgyz"
-msgstr ""
+msgstr "吉爾吉斯文"
 
 #: dialect/languages.py:67
 msgid "Lao"
-msgstr ""
+msgstr "寮文"
 
 #: dialect/languages.py:68
 msgid "Latin"
-msgstr ""
+msgstr "拉丁文"
 
 #: dialect/languages.py:69
 msgid "Latvian"
-msgstr ""
+msgstr "拉脫維亞文"
 
 #: dialect/languages.py:70
 msgid "Lithuanian"
-msgstr ""
+msgstr "立陶宛文"
 
 #: dialect/languages.py:71
 msgid "Luxembourgish"
-msgstr ""
+msgstr "盧森堡文"
 
 #: dialect/languages.py:72
 msgid "Macedonian"
-msgstr ""
+msgstr "馬其頓文"
 
 #: dialect/languages.py:73
 msgid "Malagasy"
-msgstr ""
+msgstr "馬達加斯加文"
 
 #: dialect/languages.py:74
 msgid "Malay"
-msgstr ""
+msgstr "馬來文"
 
 #: dialect/languages.py:75
 msgid "Malayalam"
-msgstr ""
+msgstr "馬來亞拉姆文"
 
 #: dialect/languages.py:76
 msgid "Maltese"
-msgstr ""
+msgstr "馬爾他文"
 
 #: dialect/languages.py:77
 msgid "Maori"
-msgstr ""
+msgstr "毛利文"
 
 #: dialect/languages.py:78
 msgid "Marathi"
-msgstr ""
+msgstr "馬拉地文"
 
 #: dialect/languages.py:79
 msgid "Mongolian"
-msgstr ""
+msgstr "蒙古文"
 
 #: dialect/languages.py:80
 msgid "Myanmar (Burmese)"
-msgstr ""
+msgstr "緬甸文"
 
 #: dialect/languages.py:81
 msgid "Nepali"
-msgstr ""
+msgstr "尼泊爾文"
 
 #: dialect/languages.py:82
 msgid "Norwegian"
-msgstr ""
+msgstr "挪威文"
 
 #: dialect/languages.py:83
 msgid "Odia (Oriya)"
-msgstr ""
+msgstr "歐迪亞文"
 
 #: dialect/languages.py:84
 msgid "Pashto"
-msgstr ""
+msgstr "普什圖文"
 
 #: dialect/languages.py:85
 msgid "Persian"
-msgstr ""
+msgstr "波斯文"
 
 #: dialect/languages.py:86
 msgid "Polish"
-msgstr ""
+msgstr "波蘭文"
 
 #: dialect/languages.py:87
 msgid "Portuguese"
-msgstr ""
+msgstr "葡萄牙文"
 
 #: dialect/languages.py:88
 msgid "Punjabi"
-msgstr ""
+msgstr "旁遮普文"
 
 #: dialect/languages.py:89
 msgid "Romanian"
-msgstr ""
+msgstr "羅馬尼亞文"
 
 #: dialect/languages.py:90
 msgid "Russian"
-msgstr ""
+msgstr "俄文"
 
 #: dialect/languages.py:91
 msgid "Samoan"
-msgstr ""
+msgstr "薩摩亞文"
 
 #: dialect/languages.py:92
 msgid "Scots Gaelic"
-msgstr ""
+msgstr "蘇格蘭蓋爾文"
 
 #: dialect/languages.py:93
 msgid "Serbian"
-msgstr ""
+msgstr "塞爾維亞文"
 
 #: dialect/languages.py:94
 msgid "Sesotho"
-msgstr ""
+msgstr "塞索托文"
 
 #: dialect/languages.py:95
 msgid "Shona"
-msgstr ""
+msgstr "紹納文"
 
 #: dialect/languages.py:96
 msgid "Sindhi"
-msgstr ""
+msgstr "信德文"
 
 #: dialect/languages.py:97
 msgid "Sinhala"
-msgstr ""
+msgstr "僧伽羅文"
 
 #: dialect/languages.py:98
 msgid "Slovak"
-msgstr ""
+msgstr "斯洛伐克文"
 
 #: dialect/languages.py:99
 msgid "Slovenian"
-msgstr ""
+msgstr "斯洛維尼亞文"
 
 #: dialect/languages.py:100
 msgid "Somali"
-msgstr ""
+msgstr "索馬利文"
 
 #: dialect/languages.py:101
 msgid "Spanish"
-msgstr ""
+msgstr "西班牙文"
 
 #: dialect/languages.py:102
 msgid "Sundanese"
-msgstr ""
+msgstr "巽他文"
 
 #: dialect/languages.py:103
 msgid "Swahili"
-msgstr ""
+msgstr "史瓦希里文"
 
 #: dialect/languages.py:104
 msgid "Swedish"
-msgstr ""
+msgstr "瑞典文"
 
 #: dialect/languages.py:105
 msgid "Tajik"
-msgstr ""
+msgstr "塔吉克文"
 
 #: dialect/languages.py:106
 msgid "Tamil"
-msgstr ""
+msgstr "坦米爾文"
 
 #: dialect/languages.py:107
 msgid "Tatar"
-msgstr ""
+msgstr "韃靼文"
 
 #: dialect/languages.py:108
 msgid "Telugu"
-msgstr ""
+msgstr "泰盧固文"
 
 #: dialect/languages.py:109
 msgid "Thai"
-msgstr ""
+msgstr "泰文"
 
 #: dialect/languages.py:110
 msgid "Turkish"
-msgstr ""
+msgstr "土耳其文"
 
 #: dialect/languages.py:111
 msgid "Turkmen"
-msgstr ""
+msgstr "土庫曼文"
 
 #: dialect/languages.py:112
 msgid "Ukrainian"
-msgstr ""
+msgstr "烏克蘭文"
 
 #: dialect/languages.py:113
 msgid "Urdu"
-msgstr ""
+msgstr "烏都文"
 
 #: dialect/languages.py:114
 msgid "Uyghur"
-msgstr ""
+msgstr "維吾爾文"
 
 #: dialect/languages.py:115
 msgid "Uzbek"
-msgstr ""
+msgstr "烏茲別克文"
 
 #: dialect/languages.py:116
 msgid "Vietnamese"
-msgstr ""
+msgstr "越南文"
 
 #: dialect/languages.py:117
 msgid "Welsh"
-msgstr ""
+msgstr "威爾斯文"
 
 #: dialect/languages.py:118
 msgid "Xhosa"
-msgstr ""
+msgstr "科薩文"
 
 #: dialect/languages.py:119
 msgid "Yiddish"
-msgstr ""
+msgstr "意第緒文"
 
 #: dialect/languages.py:120
 msgid "Yoruba"
-msgstr ""
+msgstr "約魯巴文"
 
 #: dialect/languages.py:121
 msgid "Zulu"
-msgstr ""
+msgstr "祖魯文"
 
 #: dialect/languages.py:198
 msgid "Auto"

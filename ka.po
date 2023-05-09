@@ -437,7 +437,7 @@ msgstr "ბულგარული"
 
 #: dialect/languages.py:22
 msgid "Catalan"
-msgstr "კატალონიური"
+msgstr "კატალანური"
 
 #: dialect/languages.py:23
 msgid "Cebuano"
@@ -445,7 +445,7 @@ msgstr "სებუანო"
 
 #: dialect/languages.py:24
 msgid "Chichewa"
-msgstr "ჩიჩევა"
+msgstr "ნიანჯა"
 
 #: dialect/languages.py:25
 msgid "Chinese"
@@ -453,11 +453,11 @@ msgstr "ჩინური"
 
 #: dialect/languages.py:26
 msgid "Chinese (Simplified)"
-msgstr "ჩინური (გამარტივებული)"
+msgstr "გამარტივებული ჩინური"
 
 #: dialect/languages.py:27
 msgid "Chinese (Traditional)"
-msgstr "ჩინური (ტრადიციული)"
+msgstr "ტრადიციული ჩინური"
 
 #: dialect/languages.py:28
 msgid "Corsican"
@@ -477,7 +477,7 @@ msgstr "დანიური"
 
 #: dialect/languages.py:32
 msgid "Dutch"
-msgstr "ჰოლანდიური"
+msgstr "ნიდერლანდური"
 
 #: dialect/languages.py:33
 msgid "English"
@@ -505,7 +505,7 @@ msgstr "ფრანგული"
 
 #: dialect/languages.py:39
 msgid "Frisian"
-msgstr "ფრიზიული"
+msgstr "დასავლეთფრიზიული"
 
 #: dialect/languages.py:40
 msgid "Galician"
@@ -529,7 +529,7 @@ msgstr "გუჯარათი"
 
 #: dialect/languages.py:45
 msgid "Haitian Creole"
-msgstr "ჰაიტური კრეოლური"
+msgstr "ჰაიტიური კრეოლი"
 
 #: dialect/languages.py:46
 msgid "Hausa"
@@ -605,7 +605,7 @@ msgstr "კორეული"
 
 #: dialect/languages.py:65
 msgid "Kurdish (Kurmanji)"
-msgstr "ქურთული (კურმანჯი)"
+msgstr "ქურთული"
 
 #: dialect/languages.py:66
 msgid "Kyrgyz"
@@ -625,7 +625,7 @@ msgstr "ლატვიური"
 
 #: dialect/languages.py:70
 msgid "Lithuanian"
-msgstr "ლიტვური"
+msgstr "ლიეტუვური"
 
 #: dialect/languages.py:71
 msgid "Luxembourgish"
@@ -633,15 +633,15 @@ msgstr "ლუქსემბურგული"
 
 #: dialect/languages.py:72
 msgid "Macedonian"
-msgstr "მაკედონიური"
+msgstr "მაკედონური"
 
 #: dialect/languages.py:73
 msgid "Malagasy"
-msgstr "მალაგასური"
+msgstr "მალაგასიური"
 
 #: dialect/languages.py:74
 msgid "Malay"
-msgstr "მალაიზიური"
+msgstr "მალაიური"
 
 #: dialect/languages.py:75
 msgid "Malayalam"
@@ -665,7 +665,7 @@ msgstr "მონღოლური"
 
 #: dialect/languages.py:80
 msgid "Myanmar (Burmese)"
-msgstr "მიანმარი (ბირმული)"
+msgstr "ბირმული"
 
 #: dialect/languages.py:81
 msgid "Nepali"
@@ -677,7 +677,7 @@ msgstr "ნორვეგიული"
 
 #: dialect/languages.py:83
 msgid "Odia (Oriya)"
-msgstr "ოდია (ორია)"
+msgstr "ორია"
 
 #: dialect/languages.py:84
 msgid "Pashto"
@@ -709,7 +709,7 @@ msgstr "რუსული"
 
 #: dialect/languages.py:91
 msgid "Samoan"
-msgstr "სამოური"
+msgstr "სამოა"
 
 #: dialect/languages.py:92
 msgid "Scots Gaelic"
@@ -721,7 +721,7 @@ msgstr "სერბული"
 
 #: dialect/languages.py:94
 msgid "Sesotho"
-msgstr "სესოტო"
+msgstr "სამხრეთ სოთოს ენა"
 
 #: dialect/languages.py:95
 msgid "Shona"
@@ -729,7 +729,7 @@ msgstr "შონა"
 
 #: dialect/languages.py:96
 msgid "Sindhi"
-msgstr "სინდური"
+msgstr "სინდჰური"
 
 #: dialect/languages.py:97
 msgid "Sinhala"
@@ -801,7 +801,7 @@ msgstr "ურდუ"
 
 #: dialect/languages.py:114
 msgid "Uyghur"
-msgstr "უიღური"
+msgstr "უიღურული"
 
 #: dialect/languages.py:115
 msgid "Uzbek"
@@ -817,7 +817,7 @@ msgstr "უელსური"
 
 #: dialect/languages.py:118
 msgid "Xhosa"
-msgstr "ხოსა"
+msgstr "ქჰოსა"
 
 #: dialect/languages.py:119
 msgid "Yiddish"

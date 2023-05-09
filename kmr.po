@@ -406,11 +406,11 @@ msgstr "ermenî"
 
 #: dialect/languages.py:16
 msgid "Azerbaijani"
-msgstr "Ezerî"
+msgstr "azerî"
 
 #: dialect/languages.py:17
 msgid "Basque"
-msgstr "Baskî"
+msgstr "baskî"
 
 #: dialect/languages.py:18
 msgid "Belarusian"

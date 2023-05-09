@@ -387,7 +387,7 @@ msgstr "Gorde"
 
 #: dialect/languages.py:11
 msgid "Afrikaans"
-msgstr "afrikaans"
+msgstr "afrikaansa"
 
 #: dialect/languages.py:12
 msgid "Albanian"
@@ -431,11 +431,11 @@ msgstr "bulgariera"
 
 #: dialect/languages.py:22
 msgid "Catalan"
-msgstr "katalan"
+msgstr "katalana"
 
 #: dialect/languages.py:23
 msgid "Cebuano"
-msgstr "cebuera"
+msgstr "cebuanoera"
 
 #: dialect/languages.py:24
 msgid "Chichewa"
@@ -447,7 +447,7 @@ msgstr "txinera"
 
 #: dialect/languages.py:26
 msgid "Chinese (Simplified)"
-msgstr "txinera sinplifikatu"
+msgstr "txinera sinplifikatua"
 
 #: dialect/languages.py:27
 msgid "Chinese (Traditional)"
@@ -475,11 +475,11 @@ msgstr "nederlandera"
 
 #: dialect/languages.py:33
 msgid "English"
-msgstr "ingeles"
+msgstr "ingelesa"
 
 #: dialect/languages.py:34
 msgid "Esperanto"
-msgstr "esperanto"
+msgstr "esperantoa"
 
 #: dialect/languages.py:35
 msgid "Estonian"
@@ -487,7 +487,7 @@ msgstr "estoniera"
 
 #: dialect/languages.py:36
 msgid "Filipino"
-msgstr "tagalog"
+msgstr "tagaloa"
 
 #: dialect/languages.py:37
 msgid "Finnish"
@@ -495,7 +495,7 @@ msgstr "finlandiera"
 
 #: dialect/languages.py:38
 msgid "French"
-msgstr "frantses"
+msgstr "frantsesa"
 
 #: dialect/languages.py:39
 msgid "Frisian"
@@ -511,7 +511,7 @@ msgstr "georgiera"
 
 #: dialect/languages.py:42
 msgid "German"
-msgstr "aleman"
+msgstr "alemana"
 
 #: dialect/languages.py:43
 msgid "Greek"
@@ -539,11 +539,11 @@ msgstr "hebreera"
 
 #: dialect/languages.py:50
 msgid "Hindi"
-msgstr "hindi"
+msgstr "hindia"
 
 #: dialect/languages.py:51
 msgid "Hmong"
-msgstr "hmong"
+msgstr "hmonga"
 
 #: dialect/languages.py:52
 msgid "Hungarian"
@@ -611,7 +611,7 @@ msgstr "laosera"
 
 #: dialect/languages.py:68
 msgid "Latin"
-msgstr "latin"
+msgstr "latina"
 
 #: dialect/languages.py:69
 msgid "Latvian"
@@ -631,7 +631,7 @@ msgstr "mazedoniera"
 
 #: dialect/languages.py:73
 msgid "Malagasy"
-msgstr "malgaxe"
+msgstr "malgaxea"
 
 #: dialect/languages.py:74
 msgid "Malay"
@@ -675,7 +675,7 @@ msgstr "oriya"
 
 #: dialect/languages.py:84
 msgid "Pashto"
-msgstr "paxtuera"
+msgstr "paxtunera"
 
 #: dialect/languages.py:85
 msgid "Persian"
@@ -687,7 +687,7 @@ msgstr "poloniera"
 
 #: dialect/languages.py:87
 msgid "Portuguese"
-msgstr "portuges"
+msgstr "portugesa"
 
 #: dialect/languages.py:88
 msgid "Punjabi"
@@ -707,7 +707,7 @@ msgstr "samoera"
 
 #: dialect/languages.py:92
 msgid "Scots Gaelic"
-msgstr "Eskoziako gaeliko"
+msgstr "Eskoziako gaelikoa"
 
 #: dialect/languages.py:93
 msgid "Serbian"
@@ -723,7 +723,7 @@ msgstr "shonera"
 
 #: dialect/languages.py:96
 msgid "Sindhi"
-msgstr "sindhi"
+msgstr "sindhia"
 
 #: dialect/languages.py:97
 msgid "Sinhala"
@@ -771,7 +771,7 @@ msgstr "tatarera"
 
 #: dialect/languages.py:108
 msgid "Telugu"
-msgstr "telugu"
+msgstr "telugua"
 
 #: dialect/languages.py:109
 msgid "Thai"
@@ -791,7 +791,7 @@ msgstr "ukrainera"
 
 #: dialect/languages.py:113
 msgid "Urdu"
-msgstr "urdu"
+msgstr "urdua"
 
 #: dialect/languages.py:114
 msgid "Uyghur"
@@ -807,7 +807,7 @@ msgstr "vietnamera"
 
 #: dialect/languages.py:117
 msgid "Welsh"
-msgstr "gales"
+msgstr "galesa"
 
 #: dialect/languages.py:118
 msgid "Xhosa"
@@ -815,7 +815,7 @@ msgstr "xhosera"
 
 #: dialect/languages.py:119
 msgid "Yiddish"
-msgstr "yiddish"
+msgstr "yiddisha"
 
 #: dialect/languages.py:120
 msgid "Yoruba"

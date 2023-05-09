@@ -649,7 +649,7 @@ msgstr "מאורית"
 
 #: dialect/languages.py:78
 msgid "Marathi"
-msgstr "מראטהי"
+msgstr "מראטהית"
 
 #: dialect/languages.py:79
 msgid "Mongolian"
@@ -793,7 +793,7 @@ msgstr "אורדו"
 
 #: dialect/languages.py:114
 msgid "Uyghur"
-msgstr "אויגור"
+msgstr "אויגורית"
 
 #: dialect/languages.py:115
 msgid "Uzbek"

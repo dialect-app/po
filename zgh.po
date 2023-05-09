@@ -394,7 +394,7 @@ msgstr "ⵜⴰⵎⵀⴰⵔⵉⵜ"
 
 #: dialect/languages.py:14
 msgid "Arabic"
-msgstr "ⵜⴰⵄⵕⴰⴱⵜ"
+msgstr "ⵜⴰⵄⵔⴰⴱⵜ"
 
 #: dialect/languages.py:15
 msgid "Armenian"
@@ -410,11 +410,11 @@ msgstr "ⵜⴰⴱⴰⵚⴽⵉⵜ"
 
 #: dialect/languages.py:18
 msgid "Belarusian"
-msgstr "ⵜⴰⴱⵉⵍⴰⵔⵓⵙⵉⵜ"
+msgstr "ⵜⴰⴱⵉⵍⴰⵔⵓⵙⵜ"
 
 #: dialect/languages.py:19
 msgid "Bengali"
-msgstr "ⵜⴰⴱⵉⵏⴳⴰⵍⵉⵜ"
+msgstr "ⵜⴰⴱⵏⵖⴰⵍⵉⵜ"
 
 #: dialect/languages.py:20
 msgid "Bosnian"
@@ -422,7 +422,7 @@ msgstr "ⵜⴰⴱⵓⵙⵏⵢⴰⵏⵉⵜ"
 
 #: dialect/languages.py:21
 msgid "Bulgarian"
-msgstr "ⵜⴰⴱⵍⴳⴰⵔⵉⵜ"
+msgstr "ⵜⴰⴱⵍⵖⴰⵔⵉⵜ"
 
 #: dialect/languages.py:22
 msgid "Catalan"
@@ -470,7 +470,7 @@ msgstr "ⵜⴰⵀⵓⵍⴰⵏⴷⵉⵜ"
 
 #: dialect/languages.py:33
 msgid "English"
-msgstr "ⵜⵉⵏⴳⵍⵉⵣⵉⵜ"
+msgstr "ⵜⴰⵏⴳⵍⵉⵣⵜ"
 
 #: dialect/languages.py:34
 msgid "Esperanto"
@@ -490,7 +490,7 @@ msgstr "ⵜⴰⴼⵉⵏⵍⴰⵏⴷⵉⵜ"
 
 #: dialect/languages.py:38
 msgid "French"
-msgstr "ⵜⴰⴼⵕⴰⵏⵚⵉⵚⵜ"
+msgstr "ⵜⴰⴼⵔⴰⵏⵙⵉⵙⵜ"
 
 #: dialect/languages.py:39
 msgid "Frisian"
@@ -506,11 +506,11 @@ msgstr "ⵜⴰⵊⵢⵓⵕⵊⵉⵜ"
 
 #: dialect/languages.py:42
 msgid "German"
-msgstr "ⵜⴰⵍⵎⴰⵏⵉⵜ"
+msgstr "ⵜⴰⵍⵉⵎⴰⵏⵜ"
 
 #: dialect/languages.py:43
 msgid "Greek"
-msgstr "ⵜⴰⵢⵓⵏⴰⵏⵜ"
+msgstr "ⵜⴰⴳⵔⵉⴳⵉⵜ"
 
 #: dialect/languages.py:44
 msgid "Gujarati"
@@ -522,7 +522,7 @@ msgstr "ⵜⴰⵀⴰⵢⵜⵉⵜ ⵜⴰⴳⵔⵢⵓⵍⵉⵜ"
 
 #: dialect/languages.py:46
 msgid "Hausa"
-msgstr "ⵜⴰⵀⵓⵙⴰⵢⵜ"
+msgstr "ⵜⴰⵀⴰⵡⵙⴰⵜ"
 
 #: dialect/languages.py:47
 msgid "Hawaiian"
@@ -542,7 +542,7 @@ msgstr "ⵜⴰⵀⵓⵎⵓⵏⴳⵉⵜ"
 
 #: dialect/languages.py:52
 msgid "Hungarian"
-msgstr "ⵜⴰⵀⵓⵏⴳⴰⵔⵉⵜ"
+msgstr "ⵜⴰⵀⵏⵖⴰⵔⵉⵜ"
 
 #: dialect/languages.py:53
 msgid "Icelandic"
@@ -554,7 +554,7 @@ msgstr "ⵜⵉⴳⴱⵓⵜ"
 
 #: dialect/languages.py:55
 msgid "Indonesian"
-msgstr "ⵜⵉⵏⴷⵓⵏⵉⵙⵉⵜ"
+msgstr "ⵜⴰⵏⴷⵓⵏⵉⵙⵉⵜ"
 
 #: dialect/languages.py:56
 msgid "Irish"
@@ -562,11 +562,11 @@ msgstr "ⵜⵉⵔⵉⵛⵉⵜ"
 
 #: dialect/languages.py:57
 msgid "Italian"
-msgstr "ⵜⴰⵟⴰⵍⵢⴰⵏⵉⵜ"
+msgstr "ⵜⴰⵟⴰⵍⵢⴰⵏⵜ"
 
 #: dialect/languages.py:58
 msgid "Japanese"
-msgstr "ⵜⴰⵊⴰⴱⵓⵏⵉⵜ"
+msgstr "ⵜⴰⵊⴰⴱⴱⵓⵏⵉⵜ"
 
 #: dialect/languages.py:59
 msgid "Javanese"
@@ -582,11 +582,11 @@ msgstr "ⵜⴰⴽⴰⵣⴰⵅⵉⵜ"
 
 #: dialect/languages.py:62
 msgid "Khmer"
-msgstr "ⵜⴰⵅⵎⵉⵔⵉⵜ"
+msgstr "ⵜⴰⵅⵎⵉⵔⵜ"
 
 #: dialect/languages.py:63
 msgid "Kinyarwanda"
-msgstr "ⵜⴰⴽⵉⵏⵢⴰⵕⵡⴰⵏⴷⵉⵜ"
+msgstr "ⵜⴰⵔⵓⵡⴰⵏⴷⵉⵜ"
 
 #: dialect/languages.py:64
 msgid "Korean"
@@ -630,7 +630,7 @@ msgstr "ⵜⴰⵎⴰⵍⴳⴰⵛⵉⵜ"
 
 #: dialect/languages.py:74
 msgid "Malay"
-msgstr "ⵜⴰⵎⴰⵍⴰⵢⵉⵜ"
+msgstr "ⵜⴰⵎⴰⵍⴰⵡⵉⵜ"
 
 #: dialect/languages.py:75
 msgid "Malayalam"
@@ -654,7 +654,7 @@ msgstr "ⵜⴰⵎⵓⵏⴳⵓⵍⵉⵜ"
 
 #: dialect/languages.py:80
 msgid "Myanmar (Burmese)"
-msgstr "ⵜⴰⵎⵢⴰⵏⵎⴰⵔⵉⵜ (ⴱⵓⵕⵎⴰ)"
+msgstr "ⵜⴰⴱⵉⵔⵎⴰⵏⵉⵜ"
 
 #: dialect/languages.py:81
 msgid "Nepali"
@@ -674,23 +674,23 @@ msgstr "ⵜⴰⴱⴰⵛⵜⵓⵜ"
 
 #: dialect/languages.py:85
 msgid "Persian"
-msgstr "ⵜⴰⴼⴰⵔⵉⵙⵉⵜ"
+msgstr "ⵜⴰⴼⵓⵔⵙⵉⵜ"
 
 #: dialect/languages.py:86
 msgid "Polish"
-msgstr "ⵜⴰⴱⵓⵍⴰⵏⴷⵉⵜ"
+msgstr "ⵜⴰⴱⵓⵍⵓⵏⵉⵜ"
 
 #: dialect/languages.py:87
 msgid "Portuguese"
-msgstr "ⵜⴰⴱⵓⵔⵜⵓⴳⴰⵍⵉⵜ"
+msgstr "ⵜⴰⴱⵕⵟⵇⵉⵣⵜ"
 
 #: dialect/languages.py:88
 msgid "Punjabi"
-msgstr "ⵜⴰⴱⵉⵏⵊⴰⴱⵉⵜ"
+msgstr "ⵜⴰⴱⵏⵊⴰⴱⵉⵜ"
 
 #: dialect/languages.py:89
 msgid "Romanian"
-msgstr "ⵜⴰⵕⵓⵎⴰⵏⵉⵜ"
+msgstr "ⵜⴰⵔⵓⵎⴰⵏⵉⵜ"
 
 #: dialect/languages.py:90
 msgid "Russian"
@@ -734,11 +734,11 @@ msgstr "ⵜⴰⵙⵍⵓⴼⵉⵏⵉⵜ"
 
 #: dialect/languages.py:100
 msgid "Somali"
-msgstr "ⵜⴰⵚⵓⵎⴰⵍⵉⵜ"
+msgstr "ⵜⴰⵙⵓⵎⴰⵍⵉⵜ"
 
 #: dialect/languages.py:101
 msgid "Spanish"
-msgstr "ⵜⴰⵚⴱⵍⵢⵓⵏⵉⵜ"
+msgstr "ⵜⴰⵙⴱⵏⵢⵓⵍⵉⵜ"
 
 #: dialect/languages.py:102
 msgid "Sundanese"
@@ -770,7 +770,7 @@ msgstr "ⵜⴰⵜⵉⵍⴳⵓⵜ"
 
 #: dialect/languages.py:109
 msgid "Thai"
-msgstr "ⵜⴰⵟⴰⵢⵍⵓⵏⴷⵉⵜ"
+msgstr "ⵜⴰⵜⴰⵢⵍⴰⵏⴷⵉⵜ"
 
 #: dialect/languages.py:110
 msgid "Turkish"
@@ -782,7 +782,7 @@ msgstr "ⵜⴰⵜⵓⵔⴽⵎⴰⵏⵉⵜ"
 
 #: dialect/languages.py:112
 msgid "Ukrainian"
-msgstr "ⵜⴰⵡⴽⵔⴰⵏⵉⵜ"
+msgstr "ⵜⵓⴽⵔⴰⵏⵉⵜ"
 
 #: dialect/languages.py:113
 msgid "Urdu"
@@ -798,7 +798,7 @@ msgstr "ⵜⵓⵥⴱⵉⴽⵉⵜ"
 
 #: dialect/languages.py:116
 msgid "Vietnamese"
-msgstr "ⵜⴰⴼⵉⵜⵏⴰⵎⵉⵜ"
+msgstr "ⵜⴰⴱⵉⵜⵏⴰⵎⵉⵜ"
 
 #: dialect/languages.py:117
 msgid "Welsh"
@@ -814,7 +814,7 @@ msgstr "ⵜⴰⵢⵉⴷⴷⵉⵛⵉⵜ"
 
 #: dialect/languages.py:120
 msgid "Yoruba"
-msgstr "ⵜⴰⵢⵓⵔⵓⴱⵉⵜ"
+msgstr "ⵜⴰⵢⵔⵓⴱⴰⵜ"
 
 #: dialect/languages.py:121
 msgid "Zulu"

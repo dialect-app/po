@@ -23,8 +23,8 @@ LANGUAGES = {
     "ceb": "Cebuano",
     "ny": "Chichewa",
     "zh": "Chinese",
-    "zh-CN": "Chinese (Simplified)",
-    "zh-TW": "Chinese (Traditional)",
+    "zh-Hans": "Chinese (Simplified)",
+    "zh-Hant": "Chinese (Traditional)",
     "co": "Corsican",
     "hr": "Croatian",
     "cs": "Czech",
@@ -129,11 +129,6 @@ CLDR_NAMES = {
     "zh-TW": "zh-Hant",
 }
 
-DIALECT_NAMES = {
-    "zh-Hans": "zh-CN",
-    "zh-Hant": "zh-TW",
-}
-
 # Add any language to this list to exclude it from the automated process.
 EXCLUDE_LIST = [
     # No decent source
@@ -210,9 +205,6 @@ def process_language(lang, arged=False):
         if cldr_present and not args.google:
             cldr_langs = cldr_json["main"][cldr_lang]["localeDisplayNames"]["languages"]
             for lang_code, lang_name in cldr_langs.items():
-                if lang_code in DIALECT_NAMES:
-                    lang_code = DIALECT_NAMES[lang_code]
-
                 if lang_code not in LANGUAGES:
                     continue
 
