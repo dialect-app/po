@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-27 16:36-0500\n"
+"POT-Creation-Date: 2023-05-09 11:30-0500\n"
 "PO-Revision-Date: 2022-10-10 18:15+0000\n"
 "Last-Translator: Albert Simon <simon.albert75@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -20,23 +20,23 @@ msgstr ""
 "X-Generator: Weblate 4.14.1\n"
 
 #. Translators: Do not translate the app name!
-#: data/app.drey.Dialect.desktop.in.in:8
-#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:6
-#: data/resources/window.blp:240 dialect/main.py:57
+#: data/app.drey.Dialect.desktop.in.in:9
+#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:7
+#: data/resources/window.blp:285 dialect/main.py:61
 msgid "Dialect"
 msgstr "Dialecte"
 
-#: data/app.drey.Dialect.desktop.in.in:9
+#: data/app.drey.Dialect.desktop.in.in:10
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
 msgstr "Traduïu entre diverses llengües"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
-#: data/app.drey.Dialect.desktop.in.in:13
+#: data/app.drey.Dialect.desktop.in.in:14
 msgid "translate;translation;"
 msgstr "tradueix;traducció;"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
 msgstr "Una aplicació de traducció per al GNOME."
 
@@ -64,207 +64,231 @@ msgid "Translation based on Lingva Translate API"
 msgstr "Traducció basada en una API no oficial del Google Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
+#, fuzzy
+msgid "Translation based on Bing"
+msgstr "Traducció basada en una API no oficial del Google Translate"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:20
+#, fuzzy
+msgid "Translation based on Yandex"
+msgstr "Traducció basada en una API no oficial del Google Translate"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
 msgstr "Text a veu"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:20
+#: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Translation history"
 msgstr "Historial de traduccions"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:21
+#: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Automatic language detection"
 msgstr "Detecció automàtica de la llengua"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:22
+#: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Clipboard buttons"
 msgstr "Botons del porta-retalls"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:28
+#: data/app.drey.Dialect.metainfo.xml.in.in:30 data/resources/about.blp:8
 msgid "The Dialect Authors"
 msgstr "Els autors del Dialect"
 
-#: data/resources/about.blp:7
+#: data/resources/about.blp:9
 #, fuzzy
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
 msgstr "Drets d’autor © 2020-2021 dels autors del Dialect"
 
-#: data/resources/about.blp:10
-msgid "GitHub page"
-msgstr "Pàgina al GitHub"
-
 #. Translators: Replace me with your names.
-#: data/resources/about.blp:14
+#: data/resources/about.blp:17
 msgid "translator-credits"
 msgstr "Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2021"
 
-#: data/resources/preferences.ui:11
+#: data/resources/lang-selector.blp:47
+#, fuzzy
+msgid "Search Languages…"
+msgstr "Canvia de llengua"
+
+#: data/resources/preferences.ui:12
+#, fuzzy
+msgid "Providers"
+msgstr "Proveïdor de cerques"
+
+#: data/resources/preferences.ui:15
+msgid "Translator"
+msgstr "Traductor"
+
+#: data/resources/preferences.ui:16
+msgid "Choose from the available translation services."
+msgstr "Trieu un dels serveis de traducció disponibles."
+
+#: data/resources/preferences.ui:47
+msgid "Text-to-Speech"
+msgstr "Text a veu"
+
+#: data/resources/preferences.ui:48
+#, fuzzy
+msgid "Choose from the available TTS services."
+msgstr "Trieu un dels serveis de traducció disponibles."
+
+#: data/resources/preferences.ui:81
 msgid "Behavior"
 msgstr "Comportament"
 
-#: data/resources/preferences.ui:14
+#: data/resources/preferences.ui:84
 msgid "Live Translation"
 msgstr "Traducció en temps real"
 
-#: data/resources/preferences.ui:15
+#: data/resources/preferences.ui:85
 msgid "Warning: Your IP address may get banned for API abuse."
 msgstr "Avís: potser que us bloquin l’adreça IP per abusar de l’API."
 
-#: data/resources/preferences.ui:21
+#: data/resources/preferences.ui:91
 #, fuzzy
 msgid "Show Translations in Desktop Search"
 msgstr "Historial de traduccions"
 
-#: data/resources/preferences.ui:22
+#: data/resources/preferences.ui:92
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr "Atenció: Totes les cerques seran enviades al servei de traducció"
 
-#: data/resources/preferences.ui:35
+#: data/resources/preferences.ui:105
 msgid "Translation Shortcut"
 msgstr "Drecera de traducció"
 
-#: data/resources/preferences.ui:36
+#: data/resources/preferences.ui:106
 msgid "The unselected choice will be used for line break."
 msgstr "L’opció no seleccionada s’utilitzarà per al salt de línia."
 
-#: data/resources/preferences.ui:49
+#: data/resources/preferences.ui:124
 msgid "Default to Auto"
 msgstr "Automàtic per defecte"
 
-#: data/resources/preferences.ui:50
+#: data/resources/preferences.ui:125
 msgid "Use \"Auto\" as the default language"
 msgstr "Utilitza «Automàtic» com a llengua per defecte"
 
-#: data/resources/preferences.ui:61
-msgid "Translator"
-msgstr "Traductor"
+#: data/resources/provider-preferences.blp:25
+msgid "Instance URL"
+msgstr ""
 
-#: data/resources/preferences.ui:62
-msgid "Choose from the available translation services."
-msgstr "Trieu un dels serveis de traducció disponibles."
-
-#: data/resources/preferences.ui:70
-msgid "Translator Instance"
-msgstr "Instal·lació del traductor"
-
-#: data/resources/preferences.ui:71
-msgid "Enter a translation service URL."
+#: data/resources/provider-preferences.blp:26
+#, fuzzy
+msgid "Enter an Instance URL for the Provider."
 msgstr "Introduïu l’URL d’un servei de traducció."
 
-#: data/resources/preferences.ui:89 data/resources/preferences.ui:161
-msgid "Edit"
-msgstr "Edita"
-
-#: data/resources/preferences.ui:116 data/resources/preferences.ui:188
-msgid "Reset to default"
+#: data/resources/provider-preferences.blp:36
+#: data/resources/provider-preferences.blp:66
+#, fuzzy
+msgid "Reset to Default"
 msgstr "Reinicialitza als valors per defecte"
 
-#: data/resources/preferences.ui:126 data/resources/preferences.ui:198
-#: data/resources/window.blp:524
-msgid "Save"
-msgstr "Desa"
-
-#: data/resources/preferences.ui:142
+#: data/resources/provider-preferences.blp:56
 msgid "API Key"
 msgstr ""
 
-#: data/resources/preferences.ui:143
+#: data/resources/provider-preferences.blp:57
 #, fuzzy
-msgid "Enter an API key for the translation service."
+msgid "Enter an API Key for the Provider."
 msgstr "Introduïu l’URL d’un servei de traducció."
-
-#: data/resources/preferences.ui:214
-msgid "Text-to-Speech"
-msgstr "Text a veu"
-
-#: data/resources/preferences.ui:215
-msgid "Use Google for TTS."
-msgstr "Fes servir el TTS de Google."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
 msgid "Translator"
 msgstr "Traductor"
 
-#: data/resources/shortcuts.blp:17
+#: data/resources/shortcuts.blp:16
 msgctxt "shortcuts window"
 msgid "Translate"
 msgstr "Tradueix"
 
-#: data/resources/shortcuts.blp:23
+#: data/resources/shortcuts.blp:21
 msgctxt "shortcuts window"
 msgid "Switch Languages"
 msgstr "Canvia de llengua"
 
-#: data/resources/shortcuts.blp:29
+#: data/resources/shortcuts.blp:26
 msgctxt "shortcuts window"
 msgid "Clear source text"
 msgstr "Esborrar text original"
 
-#: data/resources/shortcuts.blp:35
+#: data/resources/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Copy translation"
 msgstr "Traducció següent"
 
-#: data/resources/shortcuts.blp:41
+#: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
 msgstr "Mostra la pronunciació"
 
-#: data/resources/shortcuts.blp:48
+#: data/resources/shortcuts.blp:42
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
 msgstr "Text per parlar"
 
-#: data/resources/shortcuts.blp:52
+#: data/resources/shortcuts.blp:45
 msgctxt "shortcuts window"
 msgid "Listen to source text"
 msgstr "Escolta el text original"
 
-#: data/resources/shortcuts.blp:58
+#: data/resources/shortcuts.blp:50
 msgctxt "shortcuts window"
 msgid "Listen to translation"
 msgstr "Escolta la traducció"
 
-#: data/resources/shortcuts.blp:65
+#: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Navigation"
 msgstr "Navegar"
 
-#: data/resources/shortcuts.blp:69
+#: data/resources/shortcuts.blp:59
 msgctxt "shortcuts window"
 msgid "Go back in history"
 msgstr "Tornar a l'historial"
 
-#: data/resources/shortcuts.blp:75
+#: data/resources/shortcuts.blp:64
 msgctxt "shortcuts window"
 msgid "Go forward in history"
 msgstr "Següent historial"
 
-#: data/resources/shortcuts.blp:82
+#: data/resources/shortcuts.blp:70
 msgctxt "shortcuts window"
 msgid "General"
 msgstr "General"
 
-#: data/resources/shortcuts.blp:86
+#: data/resources/shortcuts.blp:73
 msgctxt "shortcuts window"
 msgid "Preferences"
 msgstr "Preferències"
 
-#: data/resources/shortcuts.blp:92
+#: data/resources/shortcuts.blp:78
 msgctxt "shortcut window"
 msgid "Shortcuts"
 msgstr "Dreceres"
 
-#: data/resources/shortcuts.blp:98
+#: data/resources/shortcuts.blp:83
 msgctxt "shortcuts window"
 msgid "Quit"
 msgstr "Surt"
+
+#: data/resources/theme-switcher.blp:20
+msgid "Follow System Style"
+msgstr ""
+
+#: data/resources/theme-switcher.blp:35
+msgid "Light Style"
+msgstr ""
+
+#: data/resources/theme-switcher.blp:50
+#, fuzzy
+msgid "Dark Style"
+msgstr "Mode fosc"
 
 #: data/resources/window.blp:15
 msgid "Show Pronunciation"
 msgstr "Mostra la pronúncia"
 
-#: data/resources/window.blp:24 dialect/window.py:1224 dialect/window.py:1232
+#: data/resources/window.blp:24 dialect/window.py:1268 dialect/window.py:1276
 msgid "Preferences"
 msgstr "Preferències"
 
@@ -280,641 +304,652 @@ msgstr "Quant al Dialect"
 msgid "Loading…"
 msgstr "S’està carregant…"
 
-#: data/resources/window.blp:103 dialect/window.py:375 dialect/window.py:1216
-#: dialect/window.py:1240
+#: data/resources/window.blp:103 data/resources/window.blp:135
+#: dialect/window.py:529 dialect/window.py:1260 dialect/window.py:1284
 msgid "Retry"
 msgstr "Torna a provar"
 
-#: data/resources/window.blp:112 data/resources/window.blp:163
+#: data/resources/window.blp:113 data/resources/window.blp:148
+#: data/resources/window.blp:194 data/resources/window.blp:230
 #, fuzzy
 msgid "Open Preferences"
 msgstr "Obre les preferències"
 
-#: data/resources/window.blp:154
+#: data/resources/window.blp:184 data/resources/window.blp:217
 msgid "Remove Key and Retry"
 msgstr ""
 
-#: data/resources/window.blp:215 data/resources/window.blp:572
-msgid "Switch languages"
+#: data/resources/window.blp:265 data/resources/window.blp:591
+msgid "Change Source Language"
+msgstr ""
+
+#: data/resources/window.blp:270 data/resources/window.blp:599
+#, fuzzy
+msgid "Switch Languages"
 msgstr "Canvia de llengua"
 
-#: data/resources/window.blp:251
-msgid "Previous translation"
+#: data/resources/window.blp:277 data/resources/window.blp:607
+msgid "Change Destination Language"
+msgstr ""
+
+#: data/resources/window.blp:292
+#, fuzzy
+msgid "Previous Translation"
 msgstr "Traducció anterior"
 
-#: data/resources/window.blp:257
-msgid "Next translation"
+#: data/resources/window.blp:298
+#, fuzzy
+msgid "Next Translation"
 msgstr "Traducció següent"
 
-#: data/resources/window.blp:366
+#: data/resources/window.blp:305
+msgid "Main Menu"
+msgstr ""
+
+#: data/resources/window.blp:409
 msgid "Clear"
 msgstr "Neteja"
 
-#: data/resources/window.blp:372
+#: data/resources/window.blp:415
 msgid "Paste"
 msgstr "Enganxa"
 
-#: data/resources/window.blp:378 data/resources/window.blp:496
+#: data/resources/window.blp:421 data/resources/window.blp:540
 msgid "Listen"
 msgstr "Escolta"
 
-#: data/resources/window.blp:398
+#: data/resources/window.blp:442
 msgid "Translate"
 msgstr "Tradueix"
 
-#: data/resources/window.blp:470
+#: data/resources/window.blp:514
 msgid "Translating…"
 msgstr "S’està traduint…"
 
-#: data/resources/window.blp:475
-msgid "Could not translate the text"
+#: data/resources/window.blp:519
+#, fuzzy
+msgid "Could not Translate the Text"
 msgstr "No s’ha pogut traduir el text"
 
-#: data/resources/window.blp:482
+#: data/resources/window.blp:526
 msgid "Copy"
 msgstr "Copia"
 
-#: data/resources/window.blp:490
+#: data/resources/window.blp:534
 #, fuzzy
 msgid "Suggest Translation"
 msgstr "Traducció en temps real"
 
-#: data/resources/window.blp:517
+#: data/resources/window.blp:558
 msgid "Cancel"
 msgstr ""
 
-#: data/resources/lang-selector.blp:18
-#, fuzzy
-msgid "Search Languages…"
-msgstr "Canvia de llengua"
+#: data/resources/window.blp:565
+msgid "Save"
+msgstr "Desa"
 
-#: data/resources/theme-switcher.blp:25
-msgid "Follow system style"
+#: dialect/languages.py:11
+msgid "Afrikaans"
+msgstr "afrikaans"
+
+#: dialect/languages.py:12
+msgid "Albanian"
+msgstr "albanès"
+
+#: dialect/languages.py:13
+msgid "Amharic"
+msgstr "amhàric"
+
+#: dialect/languages.py:14
+msgid "Arabic"
+msgstr "àrab"
+
+#: dialect/languages.py:15
+msgid "Armenian"
+msgstr "armeni"
+
+#: dialect/languages.py:16
+msgid "Azerbaijani"
+msgstr "azerbaidjanès"
+
+#: dialect/languages.py:17
+msgid "Basque"
+msgstr "basc"
+
+#: dialect/languages.py:18
+msgid "Belarusian"
+msgstr "belarús"
+
+#: dialect/languages.py:19
+msgid "Bengali"
+msgstr "bengalí"
+
+#: dialect/languages.py:20
+msgid "Bosnian"
+msgstr "bosnià"
+
+#: dialect/languages.py:21
+msgid "Bulgarian"
+msgstr "búlgar"
+
+#: dialect/languages.py:22
+msgid "Catalan"
+msgstr "català"
+
+#: dialect/languages.py:23
+msgid "Cebuano"
+msgstr "cebuà"
+
+#: dialect/languages.py:24
+msgid "Chichewa"
+msgstr "nyanja"
+
+#: dialect/languages.py:25
+msgid "Chinese"
+msgstr "xinès"
+
+#: dialect/languages.py:26
+msgid "Chinese (Simplified)"
+msgstr "xinès simplificat"
+
+#: dialect/languages.py:27
+msgid "Chinese (Traditional)"
+msgstr "xinès tradicional"
+
+#: dialect/languages.py:28
+msgid "Corsican"
+msgstr "cors"
+
+#: dialect/languages.py:29
+msgid "Croatian"
+msgstr "croat"
+
+#: dialect/languages.py:30
+msgid "Czech"
+msgstr "txec"
+
+#: dialect/languages.py:31
+msgid "Danish"
+msgstr "danès"
+
+#: dialect/languages.py:32
+msgid "Dutch"
+msgstr "neerlandès"
+
+#: dialect/languages.py:33
+msgid "English"
+msgstr "anglès"
+
+#: dialect/languages.py:34
+msgid "Esperanto"
+msgstr "esperanto"
+
+#: dialect/languages.py:35
+msgid "Estonian"
+msgstr "estonià"
+
+#: dialect/languages.py:36
+msgid "Filipino"
+msgstr "tagal"
+
+#: dialect/languages.py:37
+msgid "Finnish"
+msgstr "finès"
+
+#: dialect/languages.py:38
+msgid "French"
+msgstr "francès"
+
+#: dialect/languages.py:39
+msgid "Frisian"
+msgstr "frisó occidental"
+
+#: dialect/languages.py:40
+msgid "Galician"
+msgstr "gallec"
+
+#: dialect/languages.py:41
+msgid "Georgian"
+msgstr "georgià"
+
+#: dialect/languages.py:42
+msgid "German"
+msgstr "alemany"
+
+#: dialect/languages.py:43
+msgid "Greek"
+msgstr "grec"
+
+#: dialect/languages.py:44
+msgid "Gujarati"
+msgstr "gujarati"
+
+#: dialect/languages.py:45
+msgid "Haitian Creole"
+msgstr "crioll d’Haití"
+
+#: dialect/languages.py:46
+msgid "Hausa"
+msgstr "haussa"
+
+#: dialect/languages.py:47
+msgid "Hawaiian"
+msgstr "hawaià"
+
+#: dialect/languages.py:48 dialect/languages.py:49
+msgid "Hebrew"
+msgstr "hebreu"
+
+#: dialect/languages.py:50
+msgid "Hindi"
+msgstr "hindi"
+
+#: dialect/languages.py:51
+msgid "Hmong"
+msgstr "hmong"
+
+#: dialect/languages.py:52
+msgid "Hungarian"
+msgstr "hongarès"
+
+#: dialect/languages.py:53
+msgid "Icelandic"
+msgstr "islandès"
+
+#: dialect/languages.py:54
+msgid "Igbo"
+msgstr "igbo"
+
+#: dialect/languages.py:55
+msgid "Indonesian"
+msgstr "indonesi"
+
+#: dialect/languages.py:56
+msgid "Irish"
+msgstr "irlandès"
+
+#: dialect/languages.py:57
+msgid "Italian"
+msgstr "italià"
+
+#: dialect/languages.py:58
+msgid "Japanese"
+msgstr "japonès"
+
+#: dialect/languages.py:59
+msgid "Javanese"
+msgstr "javanès"
+
+#: dialect/languages.py:60
+msgid "Kannada"
+msgstr "kannada"
+
+#: dialect/languages.py:61
+msgid "Kazakh"
+msgstr "kazakh"
+
+#: dialect/languages.py:62
+msgid "Khmer"
+msgstr "khmer"
+
+#: dialect/languages.py:63
+msgid "Kinyarwanda"
+msgstr "ruandès"
+
+#: dialect/languages.py:64
+msgid "Korean"
+msgstr "coreà"
+
+#: dialect/languages.py:65
+msgid "Kurdish (Kurmanji)"
+msgstr "kurd"
+
+#: dialect/languages.py:66
+msgid "Kyrgyz"
+msgstr "kirguís"
+
+#: dialect/languages.py:67
+msgid "Lao"
+msgstr "laosià"
+
+#: dialect/languages.py:68
+msgid "Latin"
+msgstr "llatí"
+
+#: dialect/languages.py:69
+msgid "Latvian"
+msgstr "letó"
+
+#: dialect/languages.py:70
+msgid "Lithuanian"
+msgstr "lituà"
+
+#: dialect/languages.py:71
+msgid "Luxembourgish"
+msgstr "luxemburguès"
+
+#: dialect/languages.py:72
+msgid "Macedonian"
+msgstr "macedoni"
+
+#: dialect/languages.py:73
+msgid "Malagasy"
+msgstr "malgaix"
+
+#: dialect/languages.py:74
+msgid "Malay"
+msgstr "malai"
+
+#: dialect/languages.py:75
+msgid "Malayalam"
+msgstr "malaiàlam"
+
+#: dialect/languages.py:76
+msgid "Maltese"
+msgstr "maltès"
+
+#: dialect/languages.py:77
+msgid "Maori"
+msgstr "maori"
+
+#: dialect/languages.py:78
+msgid "Marathi"
+msgstr "marathi"
+
+#: dialect/languages.py:79
+msgid "Mongolian"
+msgstr "mongol"
+
+#: dialect/languages.py:80
+msgid "Myanmar (Burmese)"
+msgstr "birmà"
+
+#: dialect/languages.py:81
+msgid "Nepali"
+msgstr "nepalès"
+
+#: dialect/languages.py:82
+msgid "Norwegian"
+msgstr "noruec"
+
+#: dialect/languages.py:83
+msgid "Odia (Oriya)"
+msgstr "oriya"
+
+#: dialect/languages.py:84
+msgid "Pashto"
+msgstr "paixtu"
+
+#: dialect/languages.py:85
+msgid "Persian"
+msgstr "persa"
+
+#: dialect/languages.py:86
+msgid "Polish"
+msgstr "polonès"
+
+#: dialect/languages.py:87
+msgid "Portuguese"
+msgstr "portuguès"
+
+#: dialect/languages.py:88
+msgid "Punjabi"
+msgstr "panjabi"
+
+#: dialect/languages.py:89
+msgid "Romanian"
+msgstr "romanès"
+
+#: dialect/languages.py:90
+msgid "Russian"
+msgstr "rus"
+
+#: dialect/languages.py:91
+msgid "Samoan"
+msgstr "samoà"
+
+#: dialect/languages.py:92
+msgid "Scots Gaelic"
+msgstr "gaèlic escocès"
+
+#: dialect/languages.py:93
+msgid "Serbian"
+msgstr "serbi"
+
+#: dialect/languages.py:94
+msgid "Sesotho"
+msgstr "sotho meridional"
+
+#: dialect/languages.py:95
+msgid "Shona"
+msgstr "shona"
+
+#: dialect/languages.py:96
+msgid "Sindhi"
+msgstr "sindi"
+
+#: dialect/languages.py:97
+msgid "Sinhala"
+msgstr "singalès"
+
+#: dialect/languages.py:98
+msgid "Slovak"
+msgstr "eslovac"
+
+#: dialect/languages.py:99
+msgid "Slovenian"
+msgstr "eslovè"
+
+#: dialect/languages.py:100
+msgid "Somali"
+msgstr "somali"
+
+#: dialect/languages.py:101
+msgid "Spanish"
+msgstr "espanyol"
+
+#: dialect/languages.py:102
+msgid "Sundanese"
+msgstr "sondanès"
+
+#: dialect/languages.py:103
+msgid "Swahili"
+msgstr "suahili"
+
+#: dialect/languages.py:104
+msgid "Swedish"
+msgstr "suec"
+
+#: dialect/languages.py:105
+msgid "Tajik"
+msgstr "tadjik"
+
+#: dialect/languages.py:106
+msgid "Tamil"
+msgstr "tàmil"
+
+#: dialect/languages.py:107
+msgid "Tatar"
+msgstr "tàtar"
+
+#: dialect/languages.py:108
+msgid "Telugu"
+msgstr "telugu"
+
+#: dialect/languages.py:109
+msgid "Thai"
+msgstr "tai"
+
+#: dialect/languages.py:110
+msgid "Turkish"
+msgstr "turc"
+
+#: dialect/languages.py:111
+msgid "Turkmen"
+msgstr "turcman"
+
+#: dialect/languages.py:112
+msgid "Ukrainian"
+msgstr "ucraïnès"
+
+#: dialect/languages.py:113
+msgid "Urdu"
+msgstr "urdú"
+
+#: dialect/languages.py:114
+msgid "Uyghur"
+msgstr "uigur"
+
+#: dialect/languages.py:115
+msgid "Uzbek"
+msgstr "uzbek"
+
+#: dialect/languages.py:116
+msgid "Vietnamese"
+msgstr "vietnamita"
+
+#: dialect/languages.py:117
+msgid "Welsh"
+msgstr "gal·lès"
+
+#: dialect/languages.py:118
+msgid "Xhosa"
+msgstr "xosa"
+
+#: dialect/languages.py:119
+msgid "Yiddish"
+msgstr "ídix"
+
+#: dialect/languages.py:120
+msgid "Yoruba"
+msgstr "ioruba"
+
+#: dialect/languages.py:121
+msgid "Zulu"
+msgstr "zulu"
+
+#: dialect/languages.py:198
+msgid "Auto"
+msgstr "Automàtic"
+
+#: dialect/preferences.py:122
+msgid "Edit Provider Settings"
 msgstr ""
 
-#: data/resources/theme-switcher.blp:39
-msgid "Light style"
+#: dialect/preferences.py:124
+msgid "No Settings for This Provider"
 msgstr ""
 
-#: data/resources/theme-switcher.blp:53
-#, fuzzy
-msgid "Dark style"
-msgstr "Mode fosc"
-
-#: dialect/preferences.py:220
-#, python-brace-format
-msgid "Not a valid {backend} instance"
-msgstr "No és una instal·lació vàlida del {backend}"
-
-#: dialect/preferences.py:288
-#, fuzzy, python-brace-format
-msgid "Not a valid {backend} API key"
-msgstr "No és una instal·lació vàlida del {backend}"
-
-#: dialect/window.py:296 dialect/window.py:1222
+#: dialect/window.py:381 dialect/window.py:1266
 msgid "The provided API key is invalid"
 msgstr ""
 
-#: dialect/window.py:298
+#: dialect/window.py:383
 msgid "Please set a valid API key in the preferences."
 msgstr ""
 
-#: dialect/window.py:301
+#: dialect/window.py:386
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
 
-#: dialect/window.py:322 dialect/window.py:1230
+#: dialect/window.py:403 dialect/window.py:1274
 msgid "API key is required to use the service"
 msgstr ""
 
-#: dialect/window.py:323
+#: dialect/window.py:404
 msgid "Please set an API key in the preferences."
 msgstr ""
 
-#: dialect/window.py:336
+#: dialect/window.py:417
 #, fuzzy
 msgid "Failed loading the translation service"
 msgstr "No s’ha pogut carregar el servei de traducció"
 
-#: dialect/window.py:337
+#: dialect/window.py:418
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
 
-#: dialect/window.py:339
-#, python-brace-format
-msgid ""
-"Failed loading \"{url}\", check if the instance address is correct or report "
-"in the Dialect bug tracker if the issue persists."
-msgstr ""
-
-#: dialect/window.py:343
+#: dialect/window.py:427
 #, fuzzy
 msgid "Couldn’t connect to the translation service"
 msgstr "No s’ha pogut carregar el servei de traducció"
 
-#: dialect/window.py:344
+#: dialect/window.py:428
 #, fuzzy
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
 "Ha fallat la traducció.\n"
 "Comproveu si hi ha problemes amb la xarxa."
 
-#: dialect/window.py:346
-#, python-brace-format
-msgid ""
-"We can’t connect to the {service} instance \"{url}\".\n"
-" Please check for network issues or if the address is correct."
-msgstr ""
-
-#: dialect/window.py:369
-msgid "A network issue has occured. Retry?"
+#: dialect/window.py:522
+#, fuzzy
+msgid "A network issue has occurred. Retry?"
 msgstr "S’ha produït un problema amb la xarxa. Voleu tornar a intentar-ho?"
 
-#: dialect/window.py:382
+#: dialect/window.py:536
 #, fuzzy
-msgid "A network issue has occured. Please try again."
+msgid "A network issue has occurred. Please try again."
 msgstr ""
 "S’ha produït un problema amb la xarxa.\n"
 "Torneu a intentar-ho."
 
-#: dialect/window.py:666 dialect/window.py:673 dialect/window.py:1126
-msgid "Auto"
-msgstr "Automàtic"
-
-#: dialect/window.py:870
+#: dialect/window.py:864
 msgid "New translation has been suggested!"
 msgstr ""
 
-#: dialect/window.py:872
+#: dialect/window.py:866
 msgid "Suggestion failed."
 msgstr ""
 
-#: dialect/window.py:1012
+#: dialect/window.py:1036
 #, fuzzy
 msgid "{} characters limit reached!"
 msgstr "S’ha assolit el límit de 5000 caràcters!"
 
-#: dialect/window.py:1165
+#: dialect/window.py:1209
 msgid "Did you mean: "
 msgstr "Volíeu dir: "
 
-#: dialect/window.py:1214
+#: dialect/window.py:1258
 #, fuzzy
 msgid "Translation failed, check for network issues"
 msgstr ""
 "Ha fallat la traducció.\n"
 "Comproveu si hi ha problemes amb la xarxa."
 
-#: dialect/window.py:1238
+#: dialect/window.py:1282
 #, fuzzy
 msgid "Translation failed"
 msgstr "Sembla que ha fallat la traducció"
 
-#: dialect/translators/__init__.py:26
-msgid "Afrikaans"
-msgstr "afrikaans"
+#~ msgid "GitHub page"
+#~ msgstr "Pàgina al GitHub"
 
-#: dialect/translators/__init__.py:27
-msgid "Albanian"
-msgstr "albanès"
+#~ msgid "Translator Instance"
+#~ msgstr "Instal·lació del traductor"
 
-#: dialect/translators/__init__.py:28
-msgid "Amharic"
-msgstr "amhàric"
+#~ msgid "Enter a translation service URL."
+#~ msgstr "Introduïu l’URL d’un servei de traducció."
 
-#: dialect/translators/__init__.py:29
-msgid "Arabic"
-msgstr "àrab"
+#~ msgid "Edit"
+#~ msgstr "Edita"
 
-#: dialect/translators/__init__.py:30
-msgid "Armenian"
-msgstr "armeni"
+#~ msgid "Use Google for TTS."
+#~ msgstr "Fes servir el TTS de Google."
 
-#: dialect/translators/__init__.py:31
-msgid "Azerbaijani"
-msgstr "azerbaidjanès"
+#~ msgid "Switch languages"
+#~ msgstr "Canvia de llengua"
 
-#: dialect/translators/__init__.py:32
-msgid "Basque"
-msgstr "basc"
+#, python-brace-format
+#~ msgid "Not a valid {backend} instance"
+#~ msgstr "No és una instal·lació vàlida del {backend}"
 
-#: dialect/translators/__init__.py:33
-msgid "Belarusian"
-msgstr "belarús"
-
-#: dialect/translators/__init__.py:34
-msgid "Bengali"
-msgstr "bengalí"
-
-#: dialect/translators/__init__.py:35
-msgid "Bosnian"
-msgstr "bosnià"
-
-#: dialect/translators/__init__.py:36
-msgid "Bulgarian"
-msgstr "búlgar"
-
-#: dialect/translators/__init__.py:37
-msgid "Catalan"
-msgstr "català"
-
-#: dialect/translators/__init__.py:38
-msgid "Cebuano"
-msgstr "cebuà"
-
-#: dialect/translators/__init__.py:39
-msgid "Chichewa"
-msgstr "nyanja"
-
-#: dialect/translators/__init__.py:40
-msgid "Chinese"
-msgstr "xinès"
-
-#: dialect/translators/__init__.py:41
-msgid "Chinese (Simplified)"
-msgstr "xinès simplificat"
-
-#: dialect/translators/__init__.py:42
-msgid "Chinese (Traditional)"
-msgstr "xinès tradicional"
-
-#: dialect/translators/__init__.py:43
-msgid "Corsican"
-msgstr "cors"
-
-#: dialect/translators/__init__.py:44
-msgid "Croatian"
-msgstr "croat"
-
-#: dialect/translators/__init__.py:45
-msgid "Czech"
-msgstr "txec"
-
-#: dialect/translators/__init__.py:46
-msgid "Danish"
-msgstr "danès"
-
-#: dialect/translators/__init__.py:47
-msgid "Dutch"
-msgstr "neerlandès"
-
-#: dialect/translators/__init__.py:48
-msgid "English"
-msgstr "anglès"
-
-#: dialect/translators/__init__.py:49
-msgid "Esperanto"
-msgstr "esperanto"
-
-#: dialect/translators/__init__.py:50
-msgid "Estonian"
-msgstr "estonià"
-
-#: dialect/translators/__init__.py:51
-msgid "Filipino"
-msgstr "tagal"
-
-#: dialect/translators/__init__.py:52
-msgid "Finnish"
-msgstr "finès"
-
-#: dialect/translators/__init__.py:53
-msgid "French"
-msgstr "francès"
-
-#: dialect/translators/__init__.py:54
-msgid "Frisian"
-msgstr "frisó occidental"
-
-#: dialect/translators/__init__.py:55
-msgid "Galician"
-msgstr "gallec"
-
-#: dialect/translators/__init__.py:56
-msgid "Georgian"
-msgstr "georgià"
-
-#: dialect/translators/__init__.py:57
-msgid "German"
-msgstr "alemany"
-
-#: dialect/translators/__init__.py:58
-msgid "Greek"
-msgstr "grec"
-
-#: dialect/translators/__init__.py:59
-msgid "Gujarati"
-msgstr "gujarati"
-
-#: dialect/translators/__init__.py:60
-msgid "Haitian Creole"
-msgstr "crioll d’Haití"
-
-#: dialect/translators/__init__.py:61
-msgid "Hausa"
-msgstr "haussa"
-
-#: dialect/translators/__init__.py:62
-msgid "Hawaiian"
-msgstr "hawaià"
-
-#: dialect/translators/__init__.py:63 dialect/translators/__init__.py:64
-msgid "Hebrew"
-msgstr "hebreu"
-
-#: dialect/translators/__init__.py:65
-msgid "Hindi"
-msgstr "hindi"
-
-#: dialect/translators/__init__.py:66
-msgid "Hmong"
-msgstr "hmong"
-
-#: dialect/translators/__init__.py:67
-msgid "Hungarian"
-msgstr "hongarès"
-
-#: dialect/translators/__init__.py:68
-msgid "Icelandic"
-msgstr "islandès"
-
-#: dialect/translators/__init__.py:69
-msgid "Igbo"
-msgstr "igbo"
-
-#: dialect/translators/__init__.py:70
-msgid "Indonesian"
-msgstr "indonesi"
-
-#: dialect/translators/__init__.py:71
-msgid "Irish"
-msgstr "irlandès"
-
-#: dialect/translators/__init__.py:72
-msgid "Italian"
-msgstr "italià"
-
-#: dialect/translators/__init__.py:73
-msgid "Japanese"
-msgstr "japonès"
-
-#: dialect/translators/__init__.py:74
-msgid "Javanese"
-msgstr "javanès"
-
-#: dialect/translators/__init__.py:75
-msgid "Kannada"
-msgstr "kannada"
-
-#: dialect/translators/__init__.py:76
-msgid "Kazakh"
-msgstr "kazakh"
-
-#: dialect/translators/__init__.py:77
-msgid "Khmer"
-msgstr "khmer"
-
-#: dialect/translators/__init__.py:78
-msgid "Kinyarwanda"
-msgstr "ruandès"
-
-#: dialect/translators/__init__.py:79
-msgid "Korean"
-msgstr "coreà"
-
-#: dialect/translators/__init__.py:80
-msgid "Kurdish (Kurmanji)"
-msgstr "kurd"
-
-#: dialect/translators/__init__.py:81
-msgid "Kyrgyz"
-msgstr "kirguís"
-
-#: dialect/translators/__init__.py:82
-msgid "Lao"
-msgstr "laosià"
-
-#: dialect/translators/__init__.py:83
-msgid "Latin"
-msgstr "llatí"
-
-#: dialect/translators/__init__.py:84
-msgid "Latvian"
-msgstr "letó"
-
-#: dialect/translators/__init__.py:85
-msgid "Lithuanian"
-msgstr "lituà"
-
-#: dialect/translators/__init__.py:86
-msgid "Luxembourgish"
-msgstr "luxemburguès"
-
-#: dialect/translators/__init__.py:87
-msgid "Macedonian"
-msgstr "macedoni"
-
-#: dialect/translators/__init__.py:88
-msgid "Malagasy"
-msgstr "malgaix"
-
-#: dialect/translators/__init__.py:89
-msgid "Malay"
-msgstr "malai"
-
-#: dialect/translators/__init__.py:90
-msgid "Malayalam"
-msgstr "malaiàlam"
-
-#: dialect/translators/__init__.py:91
-msgid "Maltese"
-msgstr "maltès"
-
-#: dialect/translators/__init__.py:92
-msgid "Maori"
-msgstr "maori"
-
-#: dialect/translators/__init__.py:93
-msgid "Marathi"
-msgstr "marathi"
-
-#: dialect/translators/__init__.py:94
-msgid "Mongolian"
-msgstr "mongol"
-
-#: dialect/translators/__init__.py:95
-msgid "Myanmar (Burmese)"
-msgstr "birmà"
-
-#: dialect/translators/__init__.py:96
-msgid "Nepali"
-msgstr "nepalès"
-
-#: dialect/translators/__init__.py:97
-msgid "Norwegian"
-msgstr "noruec"
-
-#: dialect/translators/__init__.py:98
-msgid "Odia (Oriya)"
-msgstr "oriya"
-
-#: dialect/translators/__init__.py:99
-msgid "Pashto"
-msgstr "paixtu"
-
-#: dialect/translators/__init__.py:100
-msgid "Persian"
-msgstr "persa"
-
-#: dialect/translators/__init__.py:101
-msgid "Polish"
-msgstr "polonès"
-
-#: dialect/translators/__init__.py:102
-msgid "Portuguese"
-msgstr "portuguès"
-
-#: dialect/translators/__init__.py:103
-msgid "Punjabi"
-msgstr "panjabi"
-
-#: dialect/translators/__init__.py:104
-msgid "Romanian"
-msgstr "romanès"
-
-#: dialect/translators/__init__.py:105
-msgid "Russian"
-msgstr "rus"
-
-#: dialect/translators/__init__.py:106
-msgid "Samoan"
-msgstr "samoà"
-
-#: dialect/translators/__init__.py:107
-msgid "Scots Gaelic"
-msgstr "gaèlic escocès"
-
-#: dialect/translators/__init__.py:108
-msgid "Serbian"
-msgstr "serbi"
-
-#: dialect/translators/__init__.py:109
-msgid "Sesotho"
-msgstr "sotho meridional"
-
-#: dialect/translators/__init__.py:110
-msgid "Shona"
-msgstr "shona"
-
-#: dialect/translators/__init__.py:111
-msgid "Sindhi"
-msgstr "sindi"
-
-#: dialect/translators/__init__.py:112
-msgid "Sinhala"
-msgstr "singalès"
-
-#: dialect/translators/__init__.py:113
-msgid "Slovak"
-msgstr "eslovac"
-
-#: dialect/translators/__init__.py:114
-msgid "Slovenian"
-msgstr "eslovè"
-
-#: dialect/translators/__init__.py:115
-msgid "Somali"
-msgstr "somali"
-
-#: dialect/translators/__init__.py:116
-msgid "Spanish"
-msgstr "espanyol"
-
-#: dialect/translators/__init__.py:117
-msgid "Sundanese"
-msgstr "sondanès"
-
-#: dialect/translators/__init__.py:118
-msgid "Swahili"
-msgstr "suahili"
-
-#: dialect/translators/__init__.py:119
-msgid "Swedish"
-msgstr "suec"
-
-#: dialect/translators/__init__.py:120
-msgid "Tajik"
-msgstr "tadjik"
-
-#: dialect/translators/__init__.py:121
-msgid "Tamil"
-msgstr "tàmil"
-
-#: dialect/translators/__init__.py:122
-msgid "Tatar"
-msgstr "tàtar"
-
-#: dialect/translators/__init__.py:123
-msgid "Telugu"
-msgstr "telugu"
-
-#: dialect/translators/__init__.py:124
-msgid "Thai"
-msgstr "tai"
-
-#: dialect/translators/__init__.py:125
-msgid "Turkish"
-msgstr "turc"
-
-#: dialect/translators/__init__.py:126
-msgid "Turkmen"
-msgstr "turcman"
-
-#: dialect/translators/__init__.py:127
-msgid "Ukrainian"
-msgstr "ucraïnès"
-
-#: dialect/translators/__init__.py:128
-msgid "Urdu"
-msgstr "urdú"
-
-#: dialect/translators/__init__.py:129
-msgid "Uyghur"
-msgstr "uigur"
-
-#: dialect/translators/__init__.py:130
-msgid "Uzbek"
-msgstr "uzbek"
-
-#: dialect/translators/__init__.py:131
-msgid "Vietnamese"
-msgstr "vietnamita"
-
-#: dialect/translators/__init__.py:132
-msgid "Welsh"
-msgstr "gal·lès"
-
-#: dialect/translators/__init__.py:133
-msgid "Xhosa"
-msgstr "xosa"
-
-#: dialect/translators/__init__.py:134
-msgid "Yiddish"
-msgstr "ídix"
-
-#: dialect/translators/__init__.py:135
-msgid "Yoruba"
-msgstr "ioruba"
-
-#: dialect/translators/__init__.py:136
-msgid "Zulu"
-msgstr "zulu"
+#, fuzzy, python-brace-format
+#~ msgid "Not a valid {backend} API key"
+#~ msgstr "No és una instal·lació vàlida del {backend}"
 
 #~ msgid "Appearance"
 #~ msgstr "Aspecte"
-
-#~ msgid "Search Provider"
-#~ msgstr "Proveïdor de cerques"
 
 #~ msgid ""
 #~ "To reduce API abuse, the GNOME search provider in Dialect is turned off "

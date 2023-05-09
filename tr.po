@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-27 16:36-0500\n"
+"POT-Creation-Date: 2023-05-09 11:30-0500\n"
 "PO-Revision-Date: 2022-06-30 01:14+0000\n"
 "Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -19,23 +19,23 @@ msgstr ""
 "X-Generator: Weblate 4.13.1-dev\n"
 
 #. Translators: Do not translate the app name!
-#: data/app.drey.Dialect.desktop.in.in:8
-#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:6
-#: data/resources/window.blp:240 dialect/main.py:57
+#: data/app.drey.Dialect.desktop.in.in:9
+#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:7
+#: data/resources/window.blp:285 dialect/main.py:61
 msgid "Dialect"
 msgstr "Dialect"
 
-#: data/app.drey.Dialect.desktop.in.in:9
+#: data/app.drey.Dialect.desktop.in.in:10
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
 msgstr "Diller arasında çevir"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
-#: data/app.drey.Dialect.desktop.in.in:13
+#: data/app.drey.Dialect.desktop.in.in:14
 msgid "translate;translation;"
 msgstr "translate;translation;çevir;çeviri;"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
 msgstr "GNOME için çeviri uygulaması."
 
@@ -60,207 +60,233 @@ msgid "Translation based on Lingva Translate API"
 msgstr "Lingva Translate API tabanlı çeviri"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
+#, fuzzy
+msgid "Translation based on Bing"
+msgstr "Lingva Translate API tabanlı çeviri"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:20
+#, fuzzy
+msgid "Translation based on Yandex"
+msgstr "Google Translate tabanlı çeviri"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
 msgstr "Metinden sese"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:20
+#: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Translation history"
 msgstr "Çeviri geçmişi"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:21
+#: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Automatic language detection"
 msgstr "Otomatik dil algılama"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:22
+#: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Clipboard buttons"
 msgstr "Pano düğmeleri"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:28
+#: data/app.drey.Dialect.metainfo.xml.in.in:30 data/resources/about.blp:8
 msgid "The Dialect Authors"
 msgstr "Dialect Yaratıcıları"
 
-#: data/resources/about.blp:7
+#: data/resources/about.blp:9
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
 msgstr "Telif Hakkı 2020–⁠2022 Dialect Yazarları"
 
-#: data/resources/about.blp:10
-msgid "GitHub page"
-msgstr "GitHub sayfası"
-
 #. Translators: Replace me with your names.
-#: data/resources/about.blp:14
+#: data/resources/about.blp:17
 msgid "translator-credits"
 msgstr ""
 "Tuhana GAYRETLİ <tuhana@tuta.io>\n"
 "Oğuz Ersen\n"
 "Sabri Ünal <libreajans@gmail.com>"
 
-#: data/resources/preferences.ui:11
-msgid "Behavior"
-msgstr "Davranış"
+#: data/resources/lang-selector.blp:47
+msgid "Search Languages…"
+msgstr "Dilleri Ara…"
 
-#: data/resources/preferences.ui:14
-msgid "Live Translation"
-msgstr "Canlı Çeviri"
+#: data/resources/preferences.ui:12
+#, fuzzy
+msgid "Providers"
+msgstr "Arama Sağlayıcısı"
 
 #: data/resources/preferences.ui:15
-msgid "Warning: Your IP address may get banned for API abuse."
-msgstr "Uyarı: IP adresiniz kötüye kullanım sebebiyle yasaklanabilir."
-
-#: data/resources/preferences.ui:21
-msgid "Show Translations in Desktop Search"
-msgstr "Masaüstü Aramasında Çevirileri Göster"
-
-#: data/resources/preferences.ui:22
-msgid "Warning: All desktop searches will be sent to the translation service"
-msgstr "Uyarı: Tüm masaüstü aramaları çeviri servisine gönderililir"
-
-#: data/resources/preferences.ui:35
-msgid "Translation Shortcut"
-msgstr "Çeviri Kısayolu"
-
-#: data/resources/preferences.ui:36
-msgid "The unselected choice will be used for line break."
-msgstr "Seçili olmayan seçim satır sonu için kullanılacaktır."
-
-#: data/resources/preferences.ui:49
-msgid "Default to Auto"
-msgstr "Varsayılan Olarak Otomatik"
-
-#: data/resources/preferences.ui:50
-msgid "Use \"Auto\" as the default language"
-msgstr "Varsayılan dil olarak \"Otomatik\" kullan"
-
-#: data/resources/preferences.ui:61
 msgid "Translator"
 msgstr "Çevirmen"
 
-#: data/resources/preferences.ui:62
+#: data/resources/preferences.ui:16
 msgid "Choose from the available translation services."
 msgstr "Kullanılabilir çeviri hizmetleri arasından seçim yapın."
 
-#: data/resources/preferences.ui:70
-msgid "Translator Instance"
-msgstr "Çevirmen Örneği"
-
-#: data/resources/preferences.ui:71
-msgid "Enter a translation service URL."
-msgstr "Bir çeviri hizmeti URL'si girin."
-
-#: data/resources/preferences.ui:89 data/resources/preferences.ui:161
-msgid "Edit"
-msgstr "Düzenle"
-
-#: data/resources/preferences.ui:116 data/resources/preferences.ui:188
-msgid "Reset to default"
-msgstr "Varsayılana sıfırla"
-
-#: data/resources/preferences.ui:126 data/resources/preferences.ui:198
-#: data/resources/window.blp:524
-msgid "Save"
-msgstr "Kaydet"
-
-#: data/resources/preferences.ui:142
-msgid "API Key"
-msgstr "API Anahtarı"
-
-#: data/resources/preferences.ui:143
-msgid "Enter an API key for the translation service."
-msgstr "Çeviri hizmeti için API anahtarı girin."
-
-#: data/resources/preferences.ui:214
+#: data/resources/preferences.ui:47
 msgid "Text-to-Speech"
 msgstr "Metinden Sese"
 
-#: data/resources/preferences.ui:215
-msgid "Use Google for TTS."
-msgstr "Metinden Sese için Google kullan."
+#: data/resources/preferences.ui:48
+#, fuzzy
+msgid "Choose from the available TTS services."
+msgstr "Kullanılabilir çeviri hizmetleri arasından seçim yapın."
+
+#: data/resources/preferences.ui:81
+msgid "Behavior"
+msgstr "Davranış"
+
+#: data/resources/preferences.ui:84
+msgid "Live Translation"
+msgstr "Canlı Çeviri"
+
+#: data/resources/preferences.ui:85
+msgid "Warning: Your IP address may get banned for API abuse."
+msgstr "Uyarı: IP adresiniz kötüye kullanım sebebiyle yasaklanabilir."
+
+#: data/resources/preferences.ui:91
+msgid "Show Translations in Desktop Search"
+msgstr "Masaüstü Aramasında Çevirileri Göster"
+
+#: data/resources/preferences.ui:92
+msgid "Warning: All desktop searches will be sent to the translation service"
+msgstr "Uyarı: Tüm masaüstü aramaları çeviri servisine gönderililir"
+
+#: data/resources/preferences.ui:105
+msgid "Translation Shortcut"
+msgstr "Çeviri Kısayolu"
+
+#: data/resources/preferences.ui:106
+msgid "The unselected choice will be used for line break."
+msgstr "Seçili olmayan seçim satır sonu için kullanılacaktır."
+
+#: data/resources/preferences.ui:124
+msgid "Default to Auto"
+msgstr "Varsayılan Olarak Otomatik"
+
+#: data/resources/preferences.ui:125
+msgid "Use \"Auto\" as the default language"
+msgstr "Varsayılan dil olarak \"Otomatik\" kullan"
+
+#: data/resources/provider-preferences.blp:25
+msgid "Instance URL"
+msgstr ""
+
+#: data/resources/provider-preferences.blp:26
+#, fuzzy
+msgid "Enter an Instance URL for the Provider."
+msgstr "Çeviri hizmeti için API anahtarı girin."
+
+#: data/resources/provider-preferences.blp:36
+#: data/resources/provider-preferences.blp:66
+#, fuzzy
+msgid "Reset to Default"
+msgstr "Varsayılana sıfırla"
+
+#: data/resources/provider-preferences.blp:56
+msgid "API Key"
+msgstr "API Anahtarı"
+
+#: data/resources/provider-preferences.blp:57
+#, fuzzy
+msgid "Enter an API Key for the Provider."
+msgstr "Çeviri hizmeti için API anahtarı girin."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
 msgid "Translator"
 msgstr "Çevirmen"
 
-#: data/resources/shortcuts.blp:17
+#: data/resources/shortcuts.blp:16
 msgctxt "shortcuts window"
 msgid "Translate"
 msgstr "Çevir"
 
-#: data/resources/shortcuts.blp:23
+#: data/resources/shortcuts.blp:21
 msgctxt "shortcuts window"
 msgid "Switch Languages"
 msgstr "Dili Değiştir"
 
-#: data/resources/shortcuts.blp:29
+#: data/resources/shortcuts.blp:26
 msgctxt "shortcuts window"
 msgid "Clear source text"
 msgstr "Kaynak metni temizle"
 
-#: data/resources/shortcuts.blp:35
+#: data/resources/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Copy translation"
 msgstr "Çeviriyi kopyala"
 
-#: data/resources/shortcuts.blp:41
+#: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
 msgstr "Telaffuzunu Göster"
 
-#: data/resources/shortcuts.blp:48
+#: data/resources/shortcuts.blp:42
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
 msgstr "Metinden Sese"
 
-#: data/resources/shortcuts.blp:52
+#: data/resources/shortcuts.blp:45
 msgctxt "shortcuts window"
 msgid "Listen to source text"
 msgstr "Kaynak metni dinle"
 
-#: data/resources/shortcuts.blp:58
+#: data/resources/shortcuts.blp:50
 msgctxt "shortcuts window"
 msgid "Listen to translation"
 msgstr "Çeviriyi dinle"
 
-#: data/resources/shortcuts.blp:65
+#: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Navigation"
 msgstr "Gezinme"
 
-#: data/resources/shortcuts.blp:69
+#: data/resources/shortcuts.blp:59
 msgctxt "shortcuts window"
 msgid "Go back in history"
 msgstr "Geçmişte geri git"
 
-#: data/resources/shortcuts.blp:75
+#: data/resources/shortcuts.blp:64
 msgctxt "shortcuts window"
 msgid "Go forward in history"
 msgstr "Geçmişte ileri git"
 
-#: data/resources/shortcuts.blp:82
+#: data/resources/shortcuts.blp:70
 msgctxt "shortcuts window"
 msgid "General"
 msgstr "Genel"
 
-#: data/resources/shortcuts.blp:86
+#: data/resources/shortcuts.blp:73
 msgctxt "shortcuts window"
 msgid "Preferences"
 msgstr "Tercihler"
 
-#: data/resources/shortcuts.blp:92
+#: data/resources/shortcuts.blp:78
 msgctxt "shortcut window"
 msgid "Shortcuts"
 msgstr "Kısayollar"
 
-#: data/resources/shortcuts.blp:98
+#: data/resources/shortcuts.blp:83
 msgctxt "shortcuts window"
 msgid "Quit"
 msgstr "Çıkış"
+
+#: data/resources/theme-switcher.blp:20
+#, fuzzy
+msgid "Follow System Style"
+msgstr "Sistem biçimini takip et"
+
+#: data/resources/theme-switcher.blp:35
+#, fuzzy
+msgid "Light Style"
+msgstr "Açık biçim"
+
+#: data/resources/theme-switcher.blp:50
+#, fuzzy
+msgid "Dark Style"
+msgstr "Koyu biçim"
 
 #: data/resources/window.blp:15
 msgid "Show Pronunciation"
 msgstr "Telaffuzunu Göster"
 
-#: data/resources/window.blp:24 dialect/window.py:1224 dialect/window.py:1232
+#: data/resources/window.blp:24 dialect/window.py:1268 dialect/window.py:1276
 msgid "Preferences"
 msgstr "Tercihler"
 
@@ -276,630 +302,656 @@ msgstr "Dialect Hakkında"
 msgid "Loading…"
 msgstr "Yükleniyor…"
 
-#: data/resources/window.blp:103 dialect/window.py:375 dialect/window.py:1216
-#: dialect/window.py:1240
+#: data/resources/window.blp:103 data/resources/window.blp:135
+#: dialect/window.py:529 dialect/window.py:1260 dialect/window.py:1284
 msgid "Retry"
 msgstr "Yeniden dene"
 
-#: data/resources/window.blp:112 data/resources/window.blp:163
+#: data/resources/window.blp:113 data/resources/window.blp:148
+#: data/resources/window.blp:194 data/resources/window.blp:230
 msgid "Open Preferences"
 msgstr "Tercihleri Aç"
 
-#: data/resources/window.blp:154
+#: data/resources/window.blp:184 data/resources/window.blp:217
 msgid "Remove Key and Retry"
 msgstr "Anahtarı Kaldır ve Yeniden Dene"
 
-#: data/resources/window.blp:215 data/resources/window.blp:572
-msgid "Switch languages"
-msgstr "Dili değiştir"
+#: data/resources/window.blp:265 data/resources/window.blp:591
+msgid "Change Source Language"
+msgstr ""
 
-#: data/resources/window.blp:251
-msgid "Previous translation"
+#: data/resources/window.blp:270 data/resources/window.blp:599
+#, fuzzy
+msgid "Switch Languages"
+msgstr "Dili Değiştir"
+
+#: data/resources/window.blp:277 data/resources/window.blp:607
+msgid "Change Destination Language"
+msgstr ""
+
+#: data/resources/window.blp:292
+#, fuzzy
+msgid "Previous Translation"
 msgstr "Önceki çeviri"
 
-#: data/resources/window.blp:257
-msgid "Next translation"
+#: data/resources/window.blp:298
+#, fuzzy
+msgid "Next Translation"
 msgstr "Sonraki çeviri"
 
-#: data/resources/window.blp:366
+#: data/resources/window.blp:305
+msgid "Main Menu"
+msgstr ""
+
+#: data/resources/window.blp:409
 msgid "Clear"
 msgstr "Temizle"
 
-#: data/resources/window.blp:372
+#: data/resources/window.blp:415
 msgid "Paste"
 msgstr "Yapıştır"
 
-#: data/resources/window.blp:378 data/resources/window.blp:496
+#: data/resources/window.blp:421 data/resources/window.blp:540
 msgid "Listen"
 msgstr "Dinle"
 
-#: data/resources/window.blp:398
+#: data/resources/window.blp:442
 msgid "Translate"
 msgstr "Çevir"
 
-#: data/resources/window.blp:470
+#: data/resources/window.blp:514
 msgid "Translating…"
 msgstr "Çevriliyor…"
 
-#: data/resources/window.blp:475
-msgid "Could not translate the text"
+#: data/resources/window.blp:519
+#, fuzzy
+msgid "Could not Translate the Text"
 msgstr "Metin çevrilemedi"
 
-#: data/resources/window.blp:482
+#: data/resources/window.blp:526
 msgid "Copy"
 msgstr "Kopyala"
 
-#: data/resources/window.blp:490
+#: data/resources/window.blp:534
 msgid "Suggest Translation"
 msgstr "Çeviri Öner"
 
-#: data/resources/window.blp:517
+#: data/resources/window.blp:558
 msgid "Cancel"
 msgstr "İptal Et"
 
-#: data/resources/lang-selector.blp:18
-msgid "Search Languages…"
-msgstr "Dilleri Ara…"
+#: data/resources/window.blp:565
+msgid "Save"
+msgstr "Kaydet"
 
-#: data/resources/theme-switcher.blp:25
-msgid "Follow system style"
-msgstr "Sistem biçimini takip et"
+#: dialect/languages.py:11
+msgid "Afrikaans"
+msgstr "Afrikaanca"
 
-#: data/resources/theme-switcher.blp:39
-msgid "Light style"
-msgstr "Açık biçim"
+#: dialect/languages.py:12
+msgid "Albanian"
+msgstr "Arnavutça"
 
-#: data/resources/theme-switcher.blp:53
-msgid "Dark style"
-msgstr "Koyu biçim"
+#: dialect/languages.py:13
+msgid "Amharic"
+msgstr "Amharca"
 
-#: dialect/preferences.py:220
-#, python-brace-format
-msgid "Not a valid {backend} instance"
-msgstr "Geçerli bir {backend} örneği değil"
+#: dialect/languages.py:14
+msgid "Arabic"
+msgstr "Arapça"
 
-#: dialect/preferences.py:288
-#, python-brace-format
-msgid "Not a valid {backend} API key"
-msgstr "Geçerli bir {backend} API anahtarı değil"
+#: dialect/languages.py:15
+msgid "Armenian"
+msgstr "Ermenice"
 
-#: dialect/window.py:296 dialect/window.py:1222
+#: dialect/languages.py:16
+msgid "Azerbaijani"
+msgstr "Azerice"
+
+#: dialect/languages.py:17
+msgid "Basque"
+msgstr "Baskça"
+
+#: dialect/languages.py:18
+msgid "Belarusian"
+msgstr "Belarusça"
+
+#: dialect/languages.py:19
+msgid "Bengali"
+msgstr "Bengalce"
+
+#: dialect/languages.py:20
+msgid "Bosnian"
+msgstr "Boşnakça"
+
+#: dialect/languages.py:21
+msgid "Bulgarian"
+msgstr "Bulgarca"
+
+#: dialect/languages.py:22
+msgid "Catalan"
+msgstr "Katalanca"
+
+#: dialect/languages.py:23
+msgid "Cebuano"
+msgstr "Sebuanoca"
+
+#: dialect/languages.py:24
+msgid "Chichewa"
+msgstr "Çiçevaca"
+
+#: dialect/languages.py:25
+msgid "Chinese"
+msgstr "Çince"
+
+#: dialect/languages.py:26
+msgid "Chinese (Simplified)"
+msgstr "Çince (Basitleştirilmiş)"
+
+#: dialect/languages.py:27
+msgid "Chinese (Traditional)"
+msgstr "Çince (Geleneksel)"
+
+#: dialect/languages.py:28
+msgid "Corsican"
+msgstr "Korsikaca"
+
+#: dialect/languages.py:29
+msgid "Croatian"
+msgstr "Hırvatça"
+
+#: dialect/languages.py:30
+msgid "Czech"
+msgstr "Çekçe"
+
+#: dialect/languages.py:31
+msgid "Danish"
+msgstr "Danca"
+
+#: dialect/languages.py:32
+msgid "Dutch"
+msgstr "Felemenkçe"
+
+#: dialect/languages.py:33
+msgid "English"
+msgstr "İngilizce"
+
+#: dialect/languages.py:34
+msgid "Esperanto"
+msgstr "Esperanto"
+
+#: dialect/languages.py:35
+msgid "Estonian"
+msgstr "Estonca"
+
+#: dialect/languages.py:36
+msgid "Filipino"
+msgstr "Tagalogca"
+
+#: dialect/languages.py:37
+msgid "Finnish"
+msgstr "Fince"
+
+#: dialect/languages.py:38
+msgid "French"
+msgstr "Fransızca"
+
+#: dialect/languages.py:39
+msgid "Frisian"
+msgstr "Batı Frizcesi"
+
+#: dialect/languages.py:40
+msgid "Galician"
+msgstr "Galiçyaca"
+
+#: dialect/languages.py:41
+msgid "Georgian"
+msgstr "Gürcüce"
+
+#: dialect/languages.py:42
+msgid "German"
+msgstr "Almanca"
+
+#: dialect/languages.py:43
+msgid "Greek"
+msgstr "Yunanca"
+
+#: dialect/languages.py:44
+msgid "Gujarati"
+msgstr "Güceratça"
+
+#: dialect/languages.py:45
+msgid "Haitian Creole"
+msgstr "Haiti Kreyolu"
+
+#: dialect/languages.py:46
+msgid "Hausa"
+msgstr "Hausaca"
+
+#: dialect/languages.py:47
+msgid "Hawaiian"
+msgstr "Havai'ice"
+
+#: dialect/languages.py:48 dialect/languages.py:49
+msgid "Hebrew"
+msgstr "İbranice"
+
+#: dialect/languages.py:50
+msgid "Hindi"
+msgstr "Hintçe"
+
+#: dialect/languages.py:51
+msgid "Hmong"
+msgstr "Hmongca"
+
+#: dialect/languages.py:52
+msgid "Hungarian"
+msgstr "Macarca"
+
+#: dialect/languages.py:53
+msgid "Icelandic"
+msgstr "İzlandaca"
+
+#: dialect/languages.py:54
+msgid "Igbo"
+msgstr "İbo dili"
+
+#: dialect/languages.py:55
+msgid "Indonesian"
+msgstr "Endonezce"
+
+#: dialect/languages.py:56
+msgid "Irish"
+msgstr "İrlandaca"
+
+#: dialect/languages.py:57
+msgid "Italian"
+msgstr "İtalyanca"
+
+#: dialect/languages.py:58
+msgid "Japanese"
+msgstr "Japonca"
+
+#: dialect/languages.py:59
+msgid "Javanese"
+msgstr "Cavaca"
+
+#: dialect/languages.py:60
+msgid "Kannada"
+msgstr "Kannadaca"
+
+#: dialect/languages.py:61
+msgid "Kazakh"
+msgstr "Kazakça"
+
+#: dialect/languages.py:62
+msgid "Khmer"
+msgstr "Khmer dili"
+
+#: dialect/languages.py:63
+msgid "Kinyarwanda"
+msgstr "Kinyarwanda"
+
+#: dialect/languages.py:64
+msgid "Korean"
+msgstr "Korece"
+
+#: dialect/languages.py:65
+msgid "Kurdish (Kurmanji)"
+msgstr "Kürtçe (Kurmançça)"
+
+#: dialect/languages.py:66
+msgid "Kyrgyz"
+msgstr "Kırgızca"
+
+#: dialect/languages.py:67
+msgid "Lao"
+msgstr "Laoca"
+
+#: dialect/languages.py:68
+msgid "Latin"
+msgstr "Latince"
+
+#: dialect/languages.py:69
+msgid "Latvian"
+msgstr "Letonca"
+
+#: dialect/languages.py:70
+msgid "Lithuanian"
+msgstr "Litvanca"
+
+#: dialect/languages.py:71
+msgid "Luxembourgish"
+msgstr "Lüksemburgca"
+
+#: dialect/languages.py:72
+msgid "Macedonian"
+msgstr "Makedonca"
+
+#: dialect/languages.py:73
+msgid "Malagasy"
+msgstr "Malgaşça"
+
+#: dialect/languages.py:74
+msgid "Malay"
+msgstr "Malayca"
+
+#: dialect/languages.py:75
+msgid "Malayalam"
+msgstr "Malayalamca"
+
+#: dialect/languages.py:76
+msgid "Maltese"
+msgstr "Maltaca"
+
+#: dialect/languages.py:77
+msgid "Maori"
+msgstr "Maorice"
+
+#: dialect/languages.py:78
+msgid "Marathi"
+msgstr "Maratice"
+
+#: dialect/languages.py:79
+msgid "Mongolian"
+msgstr "Moğolca"
+
+#: dialect/languages.py:80
+msgid "Myanmar (Burmese)"
+msgstr "Birmanca"
+
+#: dialect/languages.py:81
+msgid "Nepali"
+msgstr "Nepalce"
+
+#: dialect/languages.py:82
+msgid "Norwegian"
+msgstr "Norveççe"
+
+#: dialect/languages.py:83
+msgid "Odia (Oriya)"
+msgstr "Oriyaca"
+
+#: dialect/languages.py:84
+msgid "Pashto"
+msgstr "Peştuca"
+
+#: dialect/languages.py:85
+msgid "Persian"
+msgstr "Farsça"
+
+#: dialect/languages.py:86
+msgid "Polish"
+msgstr "Lehçe"
+
+#: dialect/languages.py:87
+msgid "Portuguese"
+msgstr "Portekizce"
+
+#: dialect/languages.py:88
+msgid "Punjabi"
+msgstr "Pencapça"
+
+#: dialect/languages.py:89
+msgid "Romanian"
+msgstr "Rumence"
+
+#: dialect/languages.py:90
+msgid "Russian"
+msgstr "Rusça"
+
+#: dialect/languages.py:91
+msgid "Samoan"
+msgstr "Samoa dili"
+
+#: dialect/languages.py:92
+msgid "Scots Gaelic"
+msgstr "İskoç Gaelcesi"
+
+#: dialect/languages.py:93
+msgid "Serbian"
+msgstr "Sırpça"
+
+#: dialect/languages.py:94
+msgid "Sesotho"
+msgstr "Güney Sotho dili"
+
+#: dialect/languages.py:95
+msgid "Shona"
+msgstr "Şonaca"
+
+#: dialect/languages.py:96
+msgid "Sindhi"
+msgstr "Sindce"
+
+#: dialect/languages.py:97
+msgid "Sinhala"
+msgstr "Sinhali dili"
+
+#: dialect/languages.py:98
+msgid "Slovak"
+msgstr "Slovakça"
+
+#: dialect/languages.py:99
+msgid "Slovenian"
+msgstr "Slovence"
+
+#: dialect/languages.py:100
+msgid "Somali"
+msgstr "Somalice"
+
+#: dialect/languages.py:101
+msgid "Spanish"
+msgstr "İspanyolca"
+
+#: dialect/languages.py:102
+msgid "Sundanese"
+msgstr "Sundaca"
+
+#: dialect/languages.py:103
+msgid "Swahili"
+msgstr "Svahilice"
+
+#: dialect/languages.py:104
+msgid "Swedish"
+msgstr "İsveççe"
+
+#: dialect/languages.py:105
+msgid "Tajik"
+msgstr "Tacikçe"
+
+#: dialect/languages.py:106
+msgid "Tamil"
+msgstr "Tamilce"
+
+#: dialect/languages.py:107
+msgid "Tatar"
+msgstr "Tatarca"
+
+#: dialect/languages.py:108
+msgid "Telugu"
+msgstr "Teluguca"
+
+#: dialect/languages.py:109
+msgid "Thai"
+msgstr "Tayca"
+
+#: dialect/languages.py:110
+msgid "Turkish"
+msgstr "Türkçe"
+
+#: dialect/languages.py:111
+msgid "Turkmen"
+msgstr "Türkmence"
+
+#: dialect/languages.py:112
+msgid "Ukrainian"
+msgstr "Ukraynaca"
+
+#: dialect/languages.py:113
+msgid "Urdu"
+msgstr "Urduca"
+
+#: dialect/languages.py:114
+msgid "Uyghur"
+msgstr "Uygurca"
+
+#: dialect/languages.py:115
+msgid "Uzbek"
+msgstr "Özbekçe"
+
+#: dialect/languages.py:116
+msgid "Vietnamese"
+msgstr "Vietnamca"
+
+#: dialect/languages.py:117
+msgid "Welsh"
+msgstr "Galce"
+
+#: dialect/languages.py:118
+msgid "Xhosa"
+msgstr "Zosa dili"
+
+#: dialect/languages.py:119
+msgid "Yiddish"
+msgstr "Yidiş"
+
+#: dialect/languages.py:120
+msgid "Yoruba"
+msgstr "Yorubaca"
+
+#: dialect/languages.py:121
+msgid "Zulu"
+msgstr "Zuluca"
+
+#: dialect/languages.py:198
+msgid "Auto"
+msgstr "Otomatik"
+
+#: dialect/preferences.py:122
+msgid "Edit Provider Settings"
+msgstr ""
+
+#: dialect/preferences.py:124
+msgid "No Settings for This Provider"
+msgstr ""
+
+#: dialect/window.py:381 dialect/window.py:1266
 msgid "The provided API key is invalid"
 msgstr "Sağlanan API anahtarı geçersiz"
 
-#: dialect/window.py:298
+#: dialect/window.py:383
 msgid "Please set a valid API key in the preferences."
 msgstr "Lütfen tercihlerden geçerli bir API anahtarı ayarlayın."
 
-#: dialect/window.py:301
+#: dialect/window.py:386
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
 "Lütfen geçerli bir API anahtarı ayarlayın veya tercihlerde API anahtarını "
 "kaldırın."
 
-#: dialect/window.py:322 dialect/window.py:1230
+#: dialect/window.py:403 dialect/window.py:1274
 msgid "API key is required to use the service"
 msgstr "Hizmeti kullanmak için API anahtarı gerekli"
 
-#: dialect/window.py:323
+#: dialect/window.py:404
 msgid "Please set an API key in the preferences."
 msgstr "Lütfen tercihlerde API anahtarı ayarlayın."
 
-#: dialect/window.py:336
+#: dialect/window.py:417
 msgid "Failed loading the translation service"
 msgstr "Çeviri hizmeti yüklenemedi"
 
-#: dialect/window.py:337
+#: dialect/window.py:418
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr "Sorun devam ederse lütfen hatayı Dialect hata izleyicisinde bildirin."
 
-#: dialect/window.py:339
-#, python-brace-format
-msgid ""
-"Failed loading \"{url}\", check if the instance address is correct or report "
-"in the Dialect bug tracker if the issue persists."
-msgstr ""
-"\"{url}\" yüklenemedi, örnek adresinin doğruluğunu denetleyin ya da sorun "
-"devam ederse Dialect hata izleyicisine bildirin."
-
-#: dialect/window.py:343
+#: dialect/window.py:427
 msgid "Couldn’t connect to the translation service"
 msgstr "Çeviri hizmetine bağlanılamadı"
 
-#: dialect/window.py:344
+#: dialect/window.py:428
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr "Sunucuya bağlanamıyor. Lütfen ağ sorunlarını denetleyin."
 
-#: dialect/window.py:346
-#, python-brace-format
-msgid ""
-"We can’t connect to the {service} instance \"{url}\".\n"
-" Please check for network issues or if the address is correct."
-msgstr ""
-"{service} örneği \"{url}\" adresine bağlanamıyoruz.\n"
-" Lütfen ağ sorunlarını ya da adresin doğruluğunu denetleyin."
-
-#: dialect/window.py:369
-msgid "A network issue has occured. Retry?"
+#: dialect/window.py:522
+#, fuzzy
+msgid "A network issue has occurred. Retry?"
 msgstr "Ağ sorunu oluştu. Yeniden denensin mi?"
 
-#: dialect/window.py:382
-msgid "A network issue has occured. Please try again."
+#: dialect/window.py:536
+#, fuzzy
+msgid "A network issue has occurred. Please try again."
 msgstr "Ağ sorunu oluştu. Lütfen tekrar deneyin."
 
-#: dialect/window.py:666 dialect/window.py:673 dialect/window.py:1126
-msgid "Auto"
-msgstr "Otomatik"
-
-#: dialect/window.py:870
+#: dialect/window.py:864
 msgid "New translation has been suggested!"
 msgstr "Yeni çeviri önerildi!"
 
-#: dialect/window.py:872
+#: dialect/window.py:866
 msgid "Suggestion failed."
 msgstr "Öneri başarısız oldu."
 
-#: dialect/window.py:1012
+#: dialect/window.py:1036
 msgid "{} characters limit reached!"
 msgstr "{} karakter sınırına ulaşıldı!"
 
-#: dialect/window.py:1165
+#: dialect/window.py:1209
 msgid "Did you mean: "
 msgstr "Bunu mu demek istediniz: "
 
-#: dialect/window.py:1214
+#: dialect/window.py:1258
 msgid "Translation failed, check for network issues"
 msgstr "Çeviri başarısız oldu, ağ sorunlarını denetleyin"
 
-#: dialect/window.py:1238
+#: dialect/window.py:1282
 msgid "Translation failed"
 msgstr "Çeviri başarısız oldu"
 
-#: dialect/translators/__init__.py:26
-msgid "Afrikaans"
-msgstr "Afrikaanca"
-
-#: dialect/translators/__init__.py:27
-msgid "Albanian"
-msgstr "Arnavutça"
-
-#: dialect/translators/__init__.py:28
-msgid "Amharic"
-msgstr "Amharca"
-
-#: dialect/translators/__init__.py:29
-msgid "Arabic"
-msgstr "Arapça"
-
-#: dialect/translators/__init__.py:30
-msgid "Armenian"
-msgstr "Ermenice"
-
-#: dialect/translators/__init__.py:31
-msgid "Azerbaijani"
-msgstr "Azerice"
-
-#: dialect/translators/__init__.py:32
-msgid "Basque"
-msgstr "Baskça"
-
-#: dialect/translators/__init__.py:33
-msgid "Belarusian"
-msgstr "Belarusça"
-
-#: dialect/translators/__init__.py:34
-msgid "Bengali"
-msgstr "Bengalce"
-
-#: dialect/translators/__init__.py:35
-msgid "Bosnian"
-msgstr "Boşnakça"
-
-#: dialect/translators/__init__.py:36
-msgid "Bulgarian"
-msgstr "Bulgarca"
-
-#: dialect/translators/__init__.py:37
-msgid "Catalan"
-msgstr "Katalanca"
-
-#: dialect/translators/__init__.py:38
-msgid "Cebuano"
-msgstr "Sebuanoca"
-
-#: dialect/translators/__init__.py:39
-msgid "Chichewa"
-msgstr "Çiçevaca"
-
-#: dialect/translators/__init__.py:40
-msgid "Chinese"
-msgstr "Çince"
-
-#: dialect/translators/__init__.py:41
-msgid "Chinese (Simplified)"
-msgstr "Çince (Basitleştirilmiş)"
-
-#: dialect/translators/__init__.py:42
-msgid "Chinese (Traditional)"
-msgstr "Çince (Geleneksel)"
-
-#: dialect/translators/__init__.py:43
-msgid "Corsican"
-msgstr "Korsikaca"
-
-#: dialect/translators/__init__.py:44
-msgid "Croatian"
-msgstr "Hırvatça"
-
-#: dialect/translators/__init__.py:45
-msgid "Czech"
-msgstr "Çekçe"
-
-#: dialect/translators/__init__.py:46
-msgid "Danish"
-msgstr "Danca"
-
-#: dialect/translators/__init__.py:47
-msgid "Dutch"
-msgstr "Felemenkçe"
-
-#: dialect/translators/__init__.py:48
-msgid "English"
-msgstr "İngilizce"
-
-#: dialect/translators/__init__.py:49
-msgid "Esperanto"
-msgstr "Esperanto"
-
-#: dialect/translators/__init__.py:50
-msgid "Estonian"
-msgstr "Estonca"
-
-#: dialect/translators/__init__.py:51
-msgid "Filipino"
-msgstr "Tagalogca"
-
-#: dialect/translators/__init__.py:52
-msgid "Finnish"
-msgstr "Fince"
-
-#: dialect/translators/__init__.py:53
-msgid "French"
-msgstr "Fransızca"
-
-#: dialect/translators/__init__.py:54
-msgid "Frisian"
-msgstr "Batı Frizcesi"
-
-#: dialect/translators/__init__.py:55
-msgid "Galician"
-msgstr "Galiçyaca"
-
-#: dialect/translators/__init__.py:56
-msgid "Georgian"
-msgstr "Gürcüce"
-
-#: dialect/translators/__init__.py:57
-msgid "German"
-msgstr "Almanca"
-
-#: dialect/translators/__init__.py:58
-msgid "Greek"
-msgstr "Yunanca"
-
-#: dialect/translators/__init__.py:59
-msgid "Gujarati"
-msgstr "Güceratça"
-
-#: dialect/translators/__init__.py:60
-msgid "Haitian Creole"
-msgstr "Haiti Kreyolu"
-
-#: dialect/translators/__init__.py:61
-msgid "Hausa"
-msgstr "Hausaca"
-
-#: dialect/translators/__init__.py:62
-msgid "Hawaiian"
-msgstr "Havai'ice"
-
-#: dialect/translators/__init__.py:63 dialect/translators/__init__.py:64
-msgid "Hebrew"
-msgstr "İbranice"
-
-#: dialect/translators/__init__.py:65
-msgid "Hindi"
-msgstr "Hintçe"
-
-#: dialect/translators/__init__.py:66
-msgid "Hmong"
-msgstr "Hmongca"
-
-#: dialect/translators/__init__.py:67
-msgid "Hungarian"
-msgstr "Macarca"
-
-#: dialect/translators/__init__.py:68
-msgid "Icelandic"
-msgstr "İzlandaca"
-
-#: dialect/translators/__init__.py:69
-msgid "Igbo"
-msgstr "İbo dili"
-
-#: dialect/translators/__init__.py:70
-msgid "Indonesian"
-msgstr "Endonezce"
-
-#: dialect/translators/__init__.py:71
-msgid "Irish"
-msgstr "İrlandaca"
-
-#: dialect/translators/__init__.py:72
-msgid "Italian"
-msgstr "İtalyanca"
-
-#: dialect/translators/__init__.py:73
-msgid "Japanese"
-msgstr "Japonca"
-
-#: dialect/translators/__init__.py:74
-msgid "Javanese"
-msgstr "Cavaca"
-
-#: dialect/translators/__init__.py:75
-msgid "Kannada"
-msgstr "Kannadaca"
-
-#: dialect/translators/__init__.py:76
-msgid "Kazakh"
-msgstr "Kazakça"
-
-#: dialect/translators/__init__.py:77
-msgid "Khmer"
-msgstr "Khmer dili"
-
-#: dialect/translators/__init__.py:78
-msgid "Kinyarwanda"
-msgstr "Kinyarwanda"
-
-#: dialect/translators/__init__.py:79
-msgid "Korean"
-msgstr "Korece"
-
-#: dialect/translators/__init__.py:80
-msgid "Kurdish (Kurmanji)"
-msgstr "Kürtçe (Kurmançça)"
-
-#: dialect/translators/__init__.py:81
-msgid "Kyrgyz"
-msgstr "Kırgızca"
-
-#: dialect/translators/__init__.py:82
-msgid "Lao"
-msgstr "Laoca"
-
-#: dialect/translators/__init__.py:83
-msgid "Latin"
-msgstr "Latince"
-
-#: dialect/translators/__init__.py:84
-msgid "Latvian"
-msgstr "Letonca"
-
-#: dialect/translators/__init__.py:85
-msgid "Lithuanian"
-msgstr "Litvanca"
-
-#: dialect/translators/__init__.py:86
-msgid "Luxembourgish"
-msgstr "Lüksemburgca"
-
-#: dialect/translators/__init__.py:87
-msgid "Macedonian"
-msgstr "Makedonca"
-
-#: dialect/translators/__init__.py:88
-msgid "Malagasy"
-msgstr "Malgaşça"
-
-#: dialect/translators/__init__.py:89
-msgid "Malay"
-msgstr "Malayca"
-
-#: dialect/translators/__init__.py:90
-msgid "Malayalam"
-msgstr "Malayalamca"
-
-#: dialect/translators/__init__.py:91
-msgid "Maltese"
-msgstr "Maltaca"
-
-#: dialect/translators/__init__.py:92
-msgid "Maori"
-msgstr "Maorice"
-
-#: dialect/translators/__init__.py:93
-msgid "Marathi"
-msgstr "Maratice"
-
-#: dialect/translators/__init__.py:94
-msgid "Mongolian"
-msgstr "Moğolca"
-
-#: dialect/translators/__init__.py:95
-msgid "Myanmar (Burmese)"
-msgstr "Birmanca"
-
-#: dialect/translators/__init__.py:96
-msgid "Nepali"
-msgstr "Nepalce"
-
-#: dialect/translators/__init__.py:97
-msgid "Norwegian"
-msgstr "Norveççe"
-
-#: dialect/translators/__init__.py:98
-msgid "Odia (Oriya)"
-msgstr "Oriyaca"
-
-#: dialect/translators/__init__.py:99
-msgid "Pashto"
-msgstr "Peştuca"
-
-#: dialect/translators/__init__.py:100
-msgid "Persian"
-msgstr "Farsça"
-
-#: dialect/translators/__init__.py:101
-msgid "Polish"
-msgstr "Lehçe"
-
-#: dialect/translators/__init__.py:102
-msgid "Portuguese"
-msgstr "Portekizce"
-
-#: dialect/translators/__init__.py:103
-msgid "Punjabi"
-msgstr "Pencapça"
-
-#: dialect/translators/__init__.py:104
-msgid "Romanian"
-msgstr "Rumence"
-
-#: dialect/translators/__init__.py:105
-msgid "Russian"
-msgstr "Rusça"
-
-#: dialect/translators/__init__.py:106
-msgid "Samoan"
-msgstr "Samoa dili"
-
-#: dialect/translators/__init__.py:107
-msgid "Scots Gaelic"
-msgstr "İskoç Gaelcesi"
-
-#: dialect/translators/__init__.py:108
-msgid "Serbian"
-msgstr "Sırpça"
-
-#: dialect/translators/__init__.py:109
-msgid "Sesotho"
-msgstr "Güney Sotho dili"
-
-#: dialect/translators/__init__.py:110
-msgid "Shona"
-msgstr "Şonaca"
-
-#: dialect/translators/__init__.py:111
-msgid "Sindhi"
-msgstr "Sindce"
-
-#: dialect/translators/__init__.py:112
-msgid "Sinhala"
-msgstr "Sinhali dili"
-
-#: dialect/translators/__init__.py:113
-msgid "Slovak"
-msgstr "Slovakça"
-
-#: dialect/translators/__init__.py:114
-msgid "Slovenian"
-msgstr "Slovence"
-
-#: dialect/translators/__init__.py:115
-msgid "Somali"
-msgstr "Somalice"
-
-#: dialect/translators/__init__.py:116
-msgid "Spanish"
-msgstr "İspanyolca"
-
-#: dialect/translators/__init__.py:117
-msgid "Sundanese"
-msgstr "Sundaca"
-
-#: dialect/translators/__init__.py:118
-msgid "Swahili"
-msgstr "Svahilice"
-
-#: dialect/translators/__init__.py:119
-msgid "Swedish"
-msgstr "İsveççe"
-
-#: dialect/translators/__init__.py:120
-msgid "Tajik"
-msgstr "Tacikçe"
-
-#: dialect/translators/__init__.py:121
-msgid "Tamil"
-msgstr "Tamilce"
-
-#: dialect/translators/__init__.py:122
-msgid "Tatar"
-msgstr "Tatarca"
-
-#: dialect/translators/__init__.py:123
-msgid "Telugu"
-msgstr "Teluguca"
-
-#: dialect/translators/__init__.py:124
-msgid "Thai"
-msgstr "Tayca"
-
-#: dialect/translators/__init__.py:125
-msgid "Turkish"
-msgstr "Türkçe"
-
-#: dialect/translators/__init__.py:126
-msgid "Turkmen"
-msgstr "Türkmence"
-
-#: dialect/translators/__init__.py:127
-msgid "Ukrainian"
-msgstr "Ukraynaca"
-
-#: dialect/translators/__init__.py:128
-msgid "Urdu"
-msgstr "Urduca"
-
-#: dialect/translators/__init__.py:129
-msgid "Uyghur"
-msgstr "Uygurca"
-
-#: dialect/translators/__init__.py:130
-msgid "Uzbek"
-msgstr "Özbekçe"
-
-#: dialect/translators/__init__.py:131
-msgid "Vietnamese"
-msgstr "Vietnamca"
-
-#: dialect/translators/__init__.py:132
-msgid "Welsh"
-msgstr "Galce"
-
-#: dialect/translators/__init__.py:133
-msgid "Xhosa"
-msgstr "Zosa dili"
-
-#: dialect/translators/__init__.py:134
-msgid "Yiddish"
-msgstr "Yidiş"
-
-#: dialect/translators/__init__.py:135
-msgid "Yoruba"
-msgstr "Yorubaca"
-
-#: dialect/translators/__init__.py:136
-msgid "Zulu"
-msgstr "Zuluca"
+#~ msgid "GitHub page"
+#~ msgstr "GitHub sayfası"
+
+#~ msgid "Translator Instance"
+#~ msgstr "Çevirmen Örneği"
+
+#~ msgid "Enter a translation service URL."
+#~ msgstr "Bir çeviri hizmeti URL'si girin."
+
+#~ msgid "Edit"
+#~ msgstr "Düzenle"
+
+#~ msgid "Use Google for TTS."
+#~ msgstr "Metinden Sese için Google kullan."
+
+#~ msgid "Switch languages"
+#~ msgstr "Dili değiştir"
+
+#, python-brace-format
+#~ msgid "Not a valid {backend} instance"
+#~ msgstr "Geçerli bir {backend} örneği değil"
+
+#, python-brace-format
+#~ msgid "Not a valid {backend} API key"
+#~ msgstr "Geçerli bir {backend} API anahtarı değil"
+
+#, python-brace-format
+#~ msgid ""
+#~ "Failed loading \"{url}\", check if the instance address is correct or "
+#~ "report in the Dialect bug tracker if the issue persists."
+#~ msgstr ""
+#~ "\"{url}\" yüklenemedi, örnek adresinin doğruluğunu denetleyin ya da sorun "
+#~ "devam ederse Dialect hata izleyicisine bildirin."
+
+#, python-brace-format
+#~ msgid ""
+#~ "We can’t connect to the {service} instance \"{url}\".\n"
+#~ " Please check for network issues or if the address is correct."
+#~ msgstr ""
+#~ "{service} örneği \"{url}\" adresine bağlanamıyoruz.\n"
+#~ " Lütfen ağ sorunlarını ya da adresin doğruluğunu denetleyin."
 
 #~ msgid "Appearance"
 #~ msgstr "Görünüm"
-
-#~ msgid "Search Provider"
-#~ msgstr "Arama Sağlayıcısı"
 
 #~ msgid ""
 #~ "To reduce API abuse, the GNOME search provider in Dialect is turned off "

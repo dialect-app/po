@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-27 16:36-0500\n"
+"POT-Creation-Date: 2023-05-09 11:30-0500\n"
 "PO-Revision-Date: 2022-10-24 19:39+0000\n"
 "Last-Translator: Gediminas Murauskas <muziejusinfo@gmail.com>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/dialect/"
@@ -22,23 +22,23 @@ msgstr ""
 "X-Generator: Weblate 4.14.2-dev\n"
 
 #. Translators: Do not translate the app name!
-#: data/app.drey.Dialect.desktop.in.in:8
-#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:6
-#: data/resources/window.blp:240 dialect/main.py:57
+#: data/app.drey.Dialect.desktop.in.in:9
+#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:7
+#: data/resources/window.blp:285 dialect/main.py:61
 msgid "Dialect"
 msgstr "Dialektas"
 
-#: data/app.drey.Dialect.desktop.in.in:9
+#: data/app.drey.Dialect.desktop.in.in:10
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
 msgstr "Vertimas tarp skirtingų kalbų"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
-#: data/app.drey.Dialect.desktop.in.in:13
+#: data/app.drey.Dialect.desktop.in.in:14
 msgid "translate;translation;"
 msgstr "versti;vertimas;vertėjas;"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
 msgstr "Vertėjas skirtas GNOME."
 
@@ -63,205 +63,231 @@ msgid "Translation based on Lingva Translate API"
 msgstr "Vertimas pagrįstas neoficialiu „Lingva Translate“ API"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
+#, fuzzy
+msgid "Translation based on Bing"
+msgstr "Vertimas pagrįstas neoficialiu „Lingva Translate“ API"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:20
+#, fuzzy
+msgid "Translation based on Yandex"
+msgstr "Vertimas pagrįstas neoficialiu „Google Translate“"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
 msgstr "Garsinis teksto atkūrimas"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:20
+#: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Translation history"
 msgstr "Vertimų istorija"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:21
+#: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Automatic language detection"
 msgstr "Automatinis kalbos aptikimas"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:22
+#: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Clipboard buttons"
 msgstr "Iškarpinės mygtukai"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:28
+#: data/app.drey.Dialect.metainfo.xml.in.in:30 data/resources/about.blp:8
 msgid "The Dialect Authors"
 msgstr "Dialektas programėlės autoriai"
 
-#: data/resources/about.blp:7
+#: data/resources/about.blp:9
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
 msgstr "Copyright 2020–202č Dialekto autoriai"
 
-#: data/resources/about.blp:10
-msgid "GitHub page"
-msgstr "GitHub puslapis"
-
 #. Translators: Replace me with your names.
-#: data/resources/about.blp:14
+#: data/resources/about.blp:17
 msgid "translator-credits"
 msgstr "Gediminas Murauskas"
 
-#: data/resources/preferences.ui:11
+#: data/resources/lang-selector.blp:47
+msgid "Search Languages…"
+msgstr "Ieškoti kalbų…"
+
+#: data/resources/preferences.ui:12
+#, fuzzy
+msgid "Providers"
+msgstr "Paieškos teikėjas"
+
+#: data/resources/preferences.ui:15
+msgid "Translator"
+msgstr "Vertėjas"
+
+#: data/resources/preferences.ui:16
+msgid "Choose from the available translation services."
+msgstr "Pasirinkite vieną iš galimų vertimo paslaugų."
+
+#: data/resources/preferences.ui:47
+msgid "Text-to-Speech"
+msgstr "Garsinis teksto atkūrimas"
+
+#: data/resources/preferences.ui:48
+#, fuzzy
+msgid "Choose from the available TTS services."
+msgstr "Pasirinkite vieną iš galimų vertimo paslaugų."
+
+#: data/resources/preferences.ui:81
 msgid "Behavior"
 msgstr "Elgsena"
 
-#: data/resources/preferences.ui:14
+#: data/resources/preferences.ui:84
 msgid "Live Translation"
 msgstr "Vertimas berašant"
 
-#: data/resources/preferences.ui:15
+#: data/resources/preferences.ui:85
 msgid "Warning: Your IP address may get banned for API abuse."
 msgstr ""
 "Įspėjimas: Jūsų IP adresas gali būti blokuojamas už piktnaudžiavimą API."
 
-#: data/resources/preferences.ui:21
+#: data/resources/preferences.ui:91
 msgid "Show Translations in Desktop Search"
 msgstr "Rodyti vertimus darbalaukio paieškoje"
 
-#: data/resources/preferences.ui:22
+#: data/resources/preferences.ui:92
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr "Įspėjimas: Visos darbalaukio paieškos bus siunčiamos į vertimo tarnybą"
 
-#: data/resources/preferences.ui:35
+#: data/resources/preferences.ui:105
 msgid "Translation Shortcut"
 msgstr "Vertėjo spartusis klavišas"
 
-#: data/resources/preferences.ui:36
+#: data/resources/preferences.ui:106
 msgid "The unselected choice will be used for line break."
 msgstr "Nepažymėtas pasirinkimas bus naudojamas eilutės lūžiui."
 
-#: data/resources/preferences.ui:49
+#: data/resources/preferences.ui:124
 msgid "Default to Auto"
 msgstr "Numatytasis pasirinkimas: „Automatinis kalbos aptikimas”"
 
-#: data/resources/preferences.ui:50
+#: data/resources/preferences.ui:125
 msgid "Use \"Auto\" as the default language"
 msgstr "Naudokite „Automatinis kalbos aptikimas“ kaip numatytąją kalbą"
 
-#: data/resources/preferences.ui:61
-msgid "Translator"
-msgstr "Vertėjas"
+#: data/resources/provider-preferences.blp:25
+msgid "Instance URL"
+msgstr ""
 
-#: data/resources/preferences.ui:62
-msgid "Choose from the available translation services."
-msgstr "Pasirinkite vieną iš galimų vertimo paslaugų."
+#: data/resources/provider-preferences.blp:26
+#, fuzzy
+msgid "Enter an Instance URL for the Provider."
+msgstr "Įveskite vertimo tarnybos API raktą."
 
-#: data/resources/preferences.ui:70
-msgid "Translator Instance"
-msgstr "Vertėjo ištėklius"
-
-#: data/resources/preferences.ui:71
-msgid "Enter a translation service URL."
-msgstr "Įveskite vertimo paslaugos URL."
-
-#: data/resources/preferences.ui:89 data/resources/preferences.ui:161
-msgid "Edit"
-msgstr "Redaguoti"
-
-#: data/resources/preferences.ui:116 data/resources/preferences.ui:188
-msgid "Reset to default"
+#: data/resources/provider-preferences.blp:36
+#: data/resources/provider-preferences.blp:66
+#, fuzzy
+msgid "Reset to Default"
 msgstr "Atstatyti į numatytuosius nustatymus"
 
-#: data/resources/preferences.ui:126 data/resources/preferences.ui:198
-#: data/resources/window.blp:524
-msgid "Save"
-msgstr "Išsaugoti"
-
-#: data/resources/preferences.ui:142
+#: data/resources/provider-preferences.blp:56
 msgid "API Key"
 msgstr "API raktas"
 
-#: data/resources/preferences.ui:143
-msgid "Enter an API key for the translation service."
+#: data/resources/provider-preferences.blp:57
+#, fuzzy
+msgid "Enter an API Key for the Provider."
 msgstr "Įveskite vertimo tarnybos API raktą."
-
-#: data/resources/preferences.ui:214
-msgid "Text-to-Speech"
-msgstr "Garsinis teksto atkūrimas"
-
-#: data/resources/preferences.ui:215
-msgid "Use Google for TTS."
-msgstr "Naudoti „Google“ TTS (Garsinį teksto atkūrimą)."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
 msgid "Translator"
 msgstr "Vertėjas"
 
-#: data/resources/shortcuts.blp:17
+#: data/resources/shortcuts.blp:16
 msgctxt "shortcuts window"
 msgid "Translate"
 msgstr "Versti"
 
-#: data/resources/shortcuts.blp:23
+#: data/resources/shortcuts.blp:21
 msgctxt "shortcuts window"
 msgid "Switch Languages"
 msgstr "Perjungti kalbas"
 
-#: data/resources/shortcuts.blp:29
+#: data/resources/shortcuts.blp:26
 msgctxt "shortcuts window"
 msgid "Clear source text"
 msgstr "Išvalyti pradinį tekstą"
 
-#: data/resources/shortcuts.blp:35
+#: data/resources/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Copy translation"
 msgstr "Kopijuoti vertimą"
 
-#: data/resources/shortcuts.blp:41
+#: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
 msgstr "Rodyti tarimą"
 
-#: data/resources/shortcuts.blp:48
+#: data/resources/shortcuts.blp:42
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
 msgstr "Garsinis teksto atkūrimas"
 
-#: data/resources/shortcuts.blp:52
+#: data/resources/shortcuts.blp:45
 msgctxt "shortcuts window"
 msgid "Listen to source text"
 msgstr "Klausytis pradinio teksto"
 
-#: data/resources/shortcuts.blp:58
+#: data/resources/shortcuts.blp:50
 msgctxt "shortcuts window"
 msgid "Listen to translation"
 msgstr "Klausytis vertimo"
 
-#: data/resources/shortcuts.blp:65
+#: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Navigation"
 msgstr "Naršymas"
 
-#: data/resources/shortcuts.blp:69
+#: data/resources/shortcuts.blp:59
 msgctxt "shortcuts window"
 msgid "Go back in history"
 msgstr "Grįžti atgal istorijoje"
 
-#: data/resources/shortcuts.blp:75
+#: data/resources/shortcuts.blp:64
 msgctxt "shortcuts window"
 msgid "Go forward in history"
 msgstr "Eiti į priekį istorijoje"
 
-#: data/resources/shortcuts.blp:82
+#: data/resources/shortcuts.blp:70
 msgctxt "shortcuts window"
 msgid "General"
 msgstr "Bendrieji"
 
-#: data/resources/shortcuts.blp:86
+#: data/resources/shortcuts.blp:73
 msgctxt "shortcuts window"
 msgid "Preferences"
 msgstr "Nustatymai"
 
-#: data/resources/shortcuts.blp:92
+#: data/resources/shortcuts.blp:78
 msgctxt "shortcut window"
 msgid "Shortcuts"
 msgstr "Nuorodos"
 
-#: data/resources/shortcuts.blp:98
+#: data/resources/shortcuts.blp:83
 msgctxt "shortcuts window"
 msgid "Quit"
 msgstr "Išeiti"
+
+#: data/resources/theme-switcher.blp:20
+#, fuzzy
+msgid "Follow System Style"
+msgstr "Sekite sistemos stilių"
+
+#: data/resources/theme-switcher.blp:35
+#, fuzzy
+msgid "Light Style"
+msgstr "Šviesus stilius"
+
+#: data/resources/theme-switcher.blp:50
+#, fuzzy
+msgid "Dark Style"
+msgstr "Tamsus stilius"
 
 #: data/resources/window.blp:15
 msgid "Show Pronunciation"
 msgstr "Rodyti tarimą"
 
-#: data/resources/window.blp:24 dialect/window.py:1224 dialect/window.py:1232
+#: data/resources/window.blp:24 dialect/window.py:1268 dialect/window.py:1276
 msgid "Preferences"
 msgstr "Nustatymai"
 
@@ -277,633 +303,659 @@ msgstr "Apie Dialektą"
 msgid "Loading…"
 msgstr "Įkeliama…"
 
-#: data/resources/window.blp:103 dialect/window.py:375 dialect/window.py:1216
-#: dialect/window.py:1240
+#: data/resources/window.blp:103 data/resources/window.blp:135
+#: dialect/window.py:529 dialect/window.py:1260 dialect/window.py:1284
 msgid "Retry"
 msgstr "Kartoti"
 
-#: data/resources/window.blp:112 data/resources/window.blp:163
+#: data/resources/window.blp:113 data/resources/window.blp:148
+#: data/resources/window.blp:194 data/resources/window.blp:230
 msgid "Open Preferences"
 msgstr "Atidaryti nustatymus"
 
-#: data/resources/window.blp:154
+#: data/resources/window.blp:184 data/resources/window.blp:217
 msgid "Remove Key and Retry"
 msgstr "Pašalinkite raktą ir bandykite dar kartą"
 
-#: data/resources/window.blp:215 data/resources/window.blp:572
-msgid "Switch languages"
+#: data/resources/window.blp:265 data/resources/window.blp:591
+msgid "Change Source Language"
+msgstr ""
+
+#: data/resources/window.blp:270 data/resources/window.blp:599
+#, fuzzy
+msgid "Switch Languages"
 msgstr "Perjungti kalbas"
 
-#: data/resources/window.blp:251
-msgid "Previous translation"
+#: data/resources/window.blp:277 data/resources/window.blp:607
+msgid "Change Destination Language"
+msgstr ""
+
+#: data/resources/window.blp:292
+#, fuzzy
+msgid "Previous Translation"
 msgstr "Ankstesnis vertimas"
 
-#: data/resources/window.blp:257
-msgid "Next translation"
+#: data/resources/window.blp:298
+#, fuzzy
+msgid "Next Translation"
 msgstr "Sekantis vertimas"
 
-#: data/resources/window.blp:366
+#: data/resources/window.blp:305
+msgid "Main Menu"
+msgstr ""
+
+#: data/resources/window.blp:409
 msgid "Clear"
 msgstr "Išvalyti"
 
-#: data/resources/window.blp:372
+#: data/resources/window.blp:415
 msgid "Paste"
 msgstr "Įklijuoti"
 
-#: data/resources/window.blp:378 data/resources/window.blp:496
+#: data/resources/window.blp:421 data/resources/window.blp:540
 msgid "Listen"
 msgstr "Klausyti"
 
-#: data/resources/window.blp:398
+#: data/resources/window.blp:442
 msgid "Translate"
 msgstr "Versti"
 
-#: data/resources/window.blp:470
+#: data/resources/window.blp:514
 msgid "Translating…"
 msgstr "Verčiama…"
 
-#: data/resources/window.blp:475
-msgid "Could not translate the text"
+#: data/resources/window.blp:519
+#, fuzzy
+msgid "Could not Translate the Text"
 msgstr "Nepavyko išversti teksto"
 
-#: data/resources/window.blp:482
+#: data/resources/window.blp:526
 msgid "Copy"
 msgstr "Kopijuoti"
 
-#: data/resources/window.blp:490
+#: data/resources/window.blp:534
 msgid "Suggest Translation"
 msgstr "Siūlyti vertimą"
 
-#: data/resources/window.blp:517
+#: data/resources/window.blp:558
 msgid "Cancel"
 msgstr "Atšaukti"
 
-#: data/resources/lang-selector.blp:18
-msgid "Search Languages…"
-msgstr "Ieškoti kalbų…"
+#: data/resources/window.blp:565
+msgid "Save"
+msgstr "Išsaugoti"
 
-#: data/resources/theme-switcher.blp:25
-msgid "Follow system style"
-msgstr "Sekite sistemos stilių"
+#: dialect/languages.py:11
+msgid "Afrikaans"
+msgstr "afrikanų"
 
-#: data/resources/theme-switcher.blp:39
-msgid "Light style"
-msgstr "Šviesus stilius"
+#: dialect/languages.py:12
+msgid "Albanian"
+msgstr "albanų"
 
-#: data/resources/theme-switcher.blp:53
-msgid "Dark style"
-msgstr "Tamsus stilius"
+#: dialect/languages.py:13
+msgid "Amharic"
+msgstr "amharų"
 
-#: dialect/preferences.py:220
-#, python-brace-format
-msgid "Not a valid {backend} instance"
-msgstr "Netinkamas {backend} išteklius"
+#: dialect/languages.py:14
+msgid "Arabic"
+msgstr "arabų"
 
-#: dialect/preferences.py:288
-#, python-brace-format
-msgid "Not a valid {backend} API key"
-msgstr "Netinkamas {backend} API raktas"
+#: dialect/languages.py:15
+msgid "Armenian"
+msgstr "armėnų"
 
-#: dialect/window.py:296 dialect/window.py:1222
+#: dialect/languages.py:16
+msgid "Azerbaijani"
+msgstr "azerbaidžaniečių"
+
+#: dialect/languages.py:17
+msgid "Basque"
+msgstr "baskų"
+
+#: dialect/languages.py:18
+msgid "Belarusian"
+msgstr "baltarusių"
+
+#: dialect/languages.py:19
+msgid "Bengali"
+msgstr "bengalų"
+
+#: dialect/languages.py:20
+msgid "Bosnian"
+msgstr "bosnių"
+
+#: dialect/languages.py:21
+msgid "Bulgarian"
+msgstr "bulgarų"
+
+#: dialect/languages.py:22
+msgid "Catalan"
+msgstr "katalonų"
+
+#: dialect/languages.py:23
+msgid "Cebuano"
+msgstr "sebuanų"
+
+#: dialect/languages.py:24
+msgid "Chichewa"
+msgstr "nianjų"
+
+#: dialect/languages.py:25
+msgid "Chinese"
+msgstr "kinų"
+
+#: dialect/languages.py:26
+msgid "Chinese (Simplified)"
+msgstr "supaprastintoji kinų"
+
+#: dialect/languages.py:27
+msgid "Chinese (Traditional)"
+msgstr "tradicinė kinų"
+
+#: dialect/languages.py:28
+msgid "Corsican"
+msgstr "korsikiečių"
+
+#: dialect/languages.py:29
+msgid "Croatian"
+msgstr "kroatų"
+
+#: dialect/languages.py:30
+msgid "Czech"
+msgstr "čekų"
+
+#: dialect/languages.py:31
+msgid "Danish"
+msgstr "danų"
+
+#: dialect/languages.py:32
+msgid "Dutch"
+msgstr "olandų"
+
+#: dialect/languages.py:33
+msgid "English"
+msgstr "anglų"
+
+#: dialect/languages.py:34
+msgid "Esperanto"
+msgstr "esperanto"
+
+#: dialect/languages.py:35
+msgid "Estonian"
+msgstr "estų"
+
+#: dialect/languages.py:36
+msgid "Filipino"
+msgstr "tagalogų"
+
+#: dialect/languages.py:37
+msgid "Finnish"
+msgstr "suomių"
+
+#: dialect/languages.py:38
+msgid "French"
+msgstr "prancūzų"
+
+#: dialect/languages.py:39
+msgid "Frisian"
+msgstr "vakarų fryzų"
+
+#: dialect/languages.py:40
+msgid "Galician"
+msgstr "galisų"
+
+#: dialect/languages.py:41
+msgid "Georgian"
+msgstr "gruzinų"
+
+#: dialect/languages.py:42
+msgid "German"
+msgstr "vokiečių"
+
+#: dialect/languages.py:43
+msgid "Greek"
+msgstr "graikų"
+
+#: dialect/languages.py:44
+msgid "Gujarati"
+msgstr "gudžaratų"
+
+#: dialect/languages.py:45
+msgid "Haitian Creole"
+msgstr "Haičio"
+
+#: dialect/languages.py:46
+msgid "Hausa"
+msgstr "hausų"
+
+#: dialect/languages.py:47
+msgid "Hawaiian"
+msgstr "havajiečių"
+
+#: dialect/languages.py:48 dialect/languages.py:49
+msgid "Hebrew"
+msgstr "hebrajų"
+
+#: dialect/languages.py:50
+msgid "Hindi"
+msgstr "hindi"
+
+#: dialect/languages.py:51
+msgid "Hmong"
+msgstr "hmong"
+
+#: dialect/languages.py:52
+msgid "Hungarian"
+msgstr "vengrų"
+
+#: dialect/languages.py:53
+msgid "Icelandic"
+msgstr "islandų"
+
+#: dialect/languages.py:54
+msgid "Igbo"
+msgstr "igbų"
+
+#: dialect/languages.py:55
+msgid "Indonesian"
+msgstr "indoneziečių"
+
+#: dialect/languages.py:56
+msgid "Irish"
+msgstr "airių"
+
+#: dialect/languages.py:57
+msgid "Italian"
+msgstr "italų"
+
+#: dialect/languages.py:58
+msgid "Japanese"
+msgstr "japonų"
+
+#: dialect/languages.py:59
+msgid "Javanese"
+msgstr "javiečių"
+
+#: dialect/languages.py:60
+msgid "Kannada"
+msgstr "kanadų"
+
+#: dialect/languages.py:61
+msgid "Kazakh"
+msgstr "kazachų"
+
+#: dialect/languages.py:62
+msgid "Khmer"
+msgstr "khmerų"
+
+#: dialect/languages.py:63
+msgid "Kinyarwanda"
+msgstr "kinjaruandų"
+
+#: dialect/languages.py:64
+msgid "Korean"
+msgstr "korėjiečių"
+
+#: dialect/languages.py:65
+msgid "Kurdish (Kurmanji)"
+msgstr "kurdų"
+
+#: dialect/languages.py:66
+msgid "Kyrgyz"
+msgstr "kirgizų"
+
+#: dialect/languages.py:67
+msgid "Lao"
+msgstr "laosiečių"
+
+#: dialect/languages.py:68
+msgid "Latin"
+msgstr "lotynų"
+
+#: dialect/languages.py:69
+msgid "Latvian"
+msgstr "latvių"
+
+#: dialect/languages.py:70
+msgid "Lithuanian"
+msgstr "lietuvių"
+
+#: dialect/languages.py:71
+msgid "Luxembourgish"
+msgstr "liuksemburgiečių"
+
+#: dialect/languages.py:72
+msgid "Macedonian"
+msgstr "makedonų"
+
+#: dialect/languages.py:73
+msgid "Malagasy"
+msgstr "malagasų"
+
+#: dialect/languages.py:74
+msgid "Malay"
+msgstr "malajiečių"
+
+#: dialect/languages.py:75
+msgid "Malayalam"
+msgstr "malajalių"
+
+#: dialect/languages.py:76
+msgid "Maltese"
+msgstr "maltiečių"
+
+#: dialect/languages.py:77
+msgid "Maori"
+msgstr "maorių"
+
+#: dialect/languages.py:78
+msgid "Marathi"
+msgstr "maratų"
+
+#: dialect/languages.py:79
+msgid "Mongolian"
+msgstr "mongolų"
+
+#: dialect/languages.py:80
+msgid "Myanmar (Burmese)"
+msgstr "birmiečių"
+
+#: dialect/languages.py:81
+msgid "Nepali"
+msgstr "nepaliečių"
+
+#: dialect/languages.py:82
+msgid "Norwegian"
+msgstr "norvegų"
+
+#: dialect/languages.py:83
+msgid "Odia (Oriya)"
+msgstr "odijų"
+
+#: dialect/languages.py:84
+msgid "Pashto"
+msgstr "puštūnų"
+
+#: dialect/languages.py:85
+msgid "Persian"
+msgstr "persų"
+
+#: dialect/languages.py:86
+msgid "Polish"
+msgstr "lenkų"
+
+#: dialect/languages.py:87
+msgid "Portuguese"
+msgstr "portugalų"
+
+#: dialect/languages.py:88
+msgid "Punjabi"
+msgstr "pendžabų"
+
+#: dialect/languages.py:89
+msgid "Romanian"
+msgstr "rumunų"
+
+#: dialect/languages.py:90
+msgid "Russian"
+msgstr "rusų"
+
+#: dialect/languages.py:91
+msgid "Samoan"
+msgstr "Samoa"
+
+#: dialect/languages.py:92
+msgid "Scots Gaelic"
+msgstr "škotų (gėlų)"
+
+#: dialect/languages.py:93
+msgid "Serbian"
+msgstr "serbų"
+
+#: dialect/languages.py:94
+msgid "Sesotho"
+msgstr "pietų Soto"
+
+#: dialect/languages.py:95
+msgid "Shona"
+msgstr "šonų"
+
+#: dialect/languages.py:96
+msgid "Sindhi"
+msgstr "sindų"
+
+#: dialect/languages.py:97
+msgid "Sinhala"
+msgstr "sinhalų"
+
+#: dialect/languages.py:98
+msgid "Slovak"
+msgstr "slovakų"
+
+#: dialect/languages.py:99
+msgid "Slovenian"
+msgstr "slovėnų"
+
+#: dialect/languages.py:100
+msgid "Somali"
+msgstr "somaliečių"
+
+#: dialect/languages.py:101
+msgid "Spanish"
+msgstr "ispanų"
+
+#: dialect/languages.py:102
+msgid "Sundanese"
+msgstr "sundų"
+
+#: dialect/languages.py:103
+msgid "Swahili"
+msgstr "suahilių"
+
+#: dialect/languages.py:104
+msgid "Swedish"
+msgstr "švedų"
+
+#: dialect/languages.py:105
+msgid "Tajik"
+msgstr "tadžikų"
+
+#: dialect/languages.py:106
+msgid "Tamil"
+msgstr "tamilų"
+
+#: dialect/languages.py:107
+msgid "Tatar"
+msgstr "totorių"
+
+#: dialect/languages.py:108
+msgid "Telugu"
+msgstr "telugų"
+
+#: dialect/languages.py:109
+msgid "Thai"
+msgstr "tajų"
+
+#: dialect/languages.py:110
+msgid "Turkish"
+msgstr "turkų"
+
+#: dialect/languages.py:111
+msgid "Turkmen"
+msgstr "turkmėnų"
+
+#: dialect/languages.py:112
+msgid "Ukrainian"
+msgstr "ukrainiečių"
+
+#: dialect/languages.py:113
+msgid "Urdu"
+msgstr "urdų"
+
+#: dialect/languages.py:114
+msgid "Uyghur"
+msgstr "uigūrų"
+
+#: dialect/languages.py:115
+msgid "Uzbek"
+msgstr "uzbekų"
+
+#: dialect/languages.py:116
+msgid "Vietnamese"
+msgstr "vietnamiečių"
+
+#: dialect/languages.py:117
+msgid "Welsh"
+msgstr "valų"
+
+#: dialect/languages.py:118
+msgid "Xhosa"
+msgstr "kosų"
+
+#: dialect/languages.py:119
+msgid "Yiddish"
+msgstr "jidiš"
+
+#: dialect/languages.py:120
+msgid "Yoruba"
+msgstr "jorubų"
+
+#: dialect/languages.py:121
+msgid "Zulu"
+msgstr "zulų"
+
+#: dialect/languages.py:198
+msgid "Auto"
+msgstr "Automatinis kalbos aptikimas"
+
+#: dialect/preferences.py:122
+msgid "Edit Provider Settings"
+msgstr ""
+
+#: dialect/preferences.py:124
+msgid "No Settings for This Provider"
+msgstr ""
+
+#: dialect/window.py:381 dialect/window.py:1266
 msgid "The provided API key is invalid"
 msgstr "Pateiktas API raktas neteisingas"
 
-#: dialect/window.py:298
+#: dialect/window.py:383
 msgid "Please set a valid API key in the preferences."
 msgstr "Nustatymuose nustatykite galiojantį API raktą."
 
-#: dialect/window.py:301
+#: dialect/window.py:386
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
 "Nustatykite galiojantį API raktą arba panaikinkite API rakto nustatymą "
 "nustatymuose."
 
-#: dialect/window.py:322 dialect/window.py:1230
+#: dialect/window.py:403 dialect/window.py:1274
 msgid "API key is required to use the service"
 msgstr "Norint naudotis paslauga, reikalingas API raktas"
 
-#: dialect/window.py:323
+#: dialect/window.py:404
 msgid "Please set an API key in the preferences."
 msgstr "Nustatymuose nustatykite API raktą."
 
-#: dialect/window.py:336
+#: dialect/window.py:417
 msgid "Failed loading the translation service"
 msgstr "Nepavyko įkelti vertimo paslaugos"
 
-#: dialect/window.py:337
+#: dialect/window.py:418
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
 "Jei problema išlieka, praneškite apie tai Dialekto klaidų sekimo priemonėje."
 
-#: dialect/window.py:339
-#, python-brace-format
-msgid ""
-"Failed loading \"{url}\", check if the instance address is correct or report "
-"in the Dialect bug tracker if the issue persists."
-msgstr ""
-"Nepavyko įkelti „{url}“, patikrinkite, ar perdavimo šaltinio adresas yra "
-"teisingas, arba praneškite Dialekto klaidų sekimo priemonėje, jei problema "
-"išlieka."
-
-#: dialect/window.py:343
+#: dialect/window.py:427
 msgid "Couldn’t connect to the translation service"
 msgstr "Nepavyko prisijungti prie vertimo paslaugos"
 
-#: dialect/window.py:344
+#: dialect/window.py:428
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
 "Negalime prisijungti prie serverio. Patikrinkite, ar nėra tinklo problemų."
 
-#: dialect/window.py:346
-#, python-brace-format
-msgid ""
-"We can’t connect to the {service} instance \"{url}\".\n"
-" Please check for network issues or if the address is correct."
-msgstr ""
-"Negalime prisijungti prie {service} perdavimo šaltinio „{url}“.\n"
-" Patikrinkite, ar nėra tinklo problemų arba ar teisingas adresas."
-
-#: dialect/window.py:369
-msgid "A network issue has occured. Retry?"
+#: dialect/window.py:522
+#, fuzzy
+msgid "A network issue has occurred. Retry?"
 msgstr "Įvyko tinklo klaida. Pakartoti bandymą?"
 
-#: dialect/window.py:382
-msgid "A network issue has occured. Please try again."
+#: dialect/window.py:536
+#, fuzzy
+msgid "A network issue has occurred. Please try again."
 msgstr "Įvyko tinklo klaida. Bandykite dar kartą."
 
-#: dialect/window.py:666 dialect/window.py:673 dialect/window.py:1126
-msgid "Auto"
-msgstr "Automatinis kalbos aptikimas"
-
-#: dialect/window.py:870
+#: dialect/window.py:864
 msgid "New translation has been suggested!"
 msgstr "Pasiūlytas naujas vertimas!"
 
-#: dialect/window.py:872
+#: dialect/window.py:866
 msgid "Suggestion failed."
 msgstr "Pasiūlymas nepavyko."
 
-#: dialect/window.py:1012
+#: dialect/window.py:1036
 msgid "{} characters limit reached!"
 msgstr "{} simbolių limitas pasiektas!"
 
-#: dialect/window.py:1165
+#: dialect/window.py:1209
 msgid "Did you mean: "
 msgstr "Ar turėjote omenyje: "
 
-#: dialect/window.py:1214
+#: dialect/window.py:1258
 msgid "Translation failed, check for network issues"
 msgstr "Vertimas nepavyko, patikrinkite, ar nėra tinklo problemų"
 
-#: dialect/window.py:1238
+#: dialect/window.py:1282
 msgid "Translation failed"
 msgstr "Vertimas nepavyko"
 
-#: dialect/translators/__init__.py:26
-msgid "Afrikaans"
-msgstr "afrikanų"
-
-#: dialect/translators/__init__.py:27
-msgid "Albanian"
-msgstr "albanų"
-
-#: dialect/translators/__init__.py:28
-msgid "Amharic"
-msgstr "amharų"
-
-#: dialect/translators/__init__.py:29
-msgid "Arabic"
-msgstr "arabų"
-
-#: dialect/translators/__init__.py:30
-msgid "Armenian"
-msgstr "armėnų"
-
-#: dialect/translators/__init__.py:31
-msgid "Azerbaijani"
-msgstr "azerbaidžaniečių"
-
-#: dialect/translators/__init__.py:32
-msgid "Basque"
-msgstr "baskų"
-
-#: dialect/translators/__init__.py:33
-msgid "Belarusian"
-msgstr "baltarusių"
-
-#: dialect/translators/__init__.py:34
-msgid "Bengali"
-msgstr "bengalų"
-
-#: dialect/translators/__init__.py:35
-msgid "Bosnian"
-msgstr "bosnių"
-
-#: dialect/translators/__init__.py:36
-msgid "Bulgarian"
-msgstr "bulgarų"
-
-#: dialect/translators/__init__.py:37
-msgid "Catalan"
-msgstr "katalonų"
-
-#: dialect/translators/__init__.py:38
-msgid "Cebuano"
-msgstr "sebuanų"
-
-#: dialect/translators/__init__.py:39
-msgid "Chichewa"
-msgstr "nianjų"
-
-#: dialect/translators/__init__.py:40
-msgid "Chinese"
-msgstr "kinų"
-
-#: dialect/translators/__init__.py:41
-msgid "Chinese (Simplified)"
-msgstr "supaprastintoji kinų"
-
-#: dialect/translators/__init__.py:42
-msgid "Chinese (Traditional)"
-msgstr "tradicinė kinų"
-
-#: dialect/translators/__init__.py:43
-msgid "Corsican"
-msgstr "korsikiečių"
-
-#: dialect/translators/__init__.py:44
-msgid "Croatian"
-msgstr "kroatų"
-
-#: dialect/translators/__init__.py:45
-msgid "Czech"
-msgstr "čekų"
-
-#: dialect/translators/__init__.py:46
-msgid "Danish"
-msgstr "danų"
-
-#: dialect/translators/__init__.py:47
-msgid "Dutch"
-msgstr "olandų"
-
-#: dialect/translators/__init__.py:48
-msgid "English"
-msgstr "anglų"
-
-#: dialect/translators/__init__.py:49
-msgid "Esperanto"
-msgstr "esperanto"
-
-#: dialect/translators/__init__.py:50
-msgid "Estonian"
-msgstr "estų"
-
-#: dialect/translators/__init__.py:51
-msgid "Filipino"
-msgstr "tagalogų"
-
-#: dialect/translators/__init__.py:52
-msgid "Finnish"
-msgstr "suomių"
-
-#: dialect/translators/__init__.py:53
-msgid "French"
-msgstr "prancūzų"
-
-#: dialect/translators/__init__.py:54
-msgid "Frisian"
-msgstr "vakarų fryzų"
-
-#: dialect/translators/__init__.py:55
-msgid "Galician"
-msgstr "galisų"
-
-#: dialect/translators/__init__.py:56
-msgid "Georgian"
-msgstr "gruzinų"
-
-#: dialect/translators/__init__.py:57
-msgid "German"
-msgstr "vokiečių"
-
-#: dialect/translators/__init__.py:58
-msgid "Greek"
-msgstr "graikų"
-
-#: dialect/translators/__init__.py:59
-msgid "Gujarati"
-msgstr "gudžaratų"
-
-#: dialect/translators/__init__.py:60
-msgid "Haitian Creole"
-msgstr "Haičio"
-
-#: dialect/translators/__init__.py:61
-msgid "Hausa"
-msgstr "hausų"
-
-#: dialect/translators/__init__.py:62
-msgid "Hawaiian"
-msgstr "havajiečių"
-
-#: dialect/translators/__init__.py:63 dialect/translators/__init__.py:64
-msgid "Hebrew"
-msgstr "hebrajų"
-
-#: dialect/translators/__init__.py:65
-msgid "Hindi"
-msgstr "hindi"
-
-#: dialect/translators/__init__.py:66
-msgid "Hmong"
-msgstr "hmong"
-
-#: dialect/translators/__init__.py:67
-msgid "Hungarian"
-msgstr "vengrų"
-
-#: dialect/translators/__init__.py:68
-msgid "Icelandic"
-msgstr "islandų"
-
-#: dialect/translators/__init__.py:69
-msgid "Igbo"
-msgstr "igbų"
-
-#: dialect/translators/__init__.py:70
-msgid "Indonesian"
-msgstr "indoneziečių"
-
-#: dialect/translators/__init__.py:71
-msgid "Irish"
-msgstr "airių"
-
-#: dialect/translators/__init__.py:72
-msgid "Italian"
-msgstr "italų"
-
-#: dialect/translators/__init__.py:73
-msgid "Japanese"
-msgstr "japonų"
-
-#: dialect/translators/__init__.py:74
-msgid "Javanese"
-msgstr "javiečių"
-
-#: dialect/translators/__init__.py:75
-msgid "Kannada"
-msgstr "kanadų"
-
-#: dialect/translators/__init__.py:76
-msgid "Kazakh"
-msgstr "kazachų"
-
-#: dialect/translators/__init__.py:77
-msgid "Khmer"
-msgstr "khmerų"
-
-#: dialect/translators/__init__.py:78
-msgid "Kinyarwanda"
-msgstr "kinjaruandų"
-
-#: dialect/translators/__init__.py:79
-msgid "Korean"
-msgstr "korėjiečių"
-
-#: dialect/translators/__init__.py:80
-msgid "Kurdish (Kurmanji)"
-msgstr "kurdų"
-
-#: dialect/translators/__init__.py:81
-msgid "Kyrgyz"
-msgstr "kirgizų"
-
-#: dialect/translators/__init__.py:82
-msgid "Lao"
-msgstr "laosiečių"
-
-#: dialect/translators/__init__.py:83
-msgid "Latin"
-msgstr "lotynų"
-
-#: dialect/translators/__init__.py:84
-msgid "Latvian"
-msgstr "latvių"
-
-#: dialect/translators/__init__.py:85
-msgid "Lithuanian"
-msgstr "lietuvių"
-
-#: dialect/translators/__init__.py:86
-msgid "Luxembourgish"
-msgstr "liuksemburgiečių"
-
-#: dialect/translators/__init__.py:87
-msgid "Macedonian"
-msgstr "makedonų"
-
-#: dialect/translators/__init__.py:88
-msgid "Malagasy"
-msgstr "malagasų"
-
-#: dialect/translators/__init__.py:89
-msgid "Malay"
-msgstr "malajiečių"
-
-#: dialect/translators/__init__.py:90
-msgid "Malayalam"
-msgstr "malajalių"
-
-#: dialect/translators/__init__.py:91
-msgid "Maltese"
-msgstr "maltiečių"
-
-#: dialect/translators/__init__.py:92
-msgid "Maori"
-msgstr "maorių"
-
-#: dialect/translators/__init__.py:93
-msgid "Marathi"
-msgstr "maratų"
-
-#: dialect/translators/__init__.py:94
-msgid "Mongolian"
-msgstr "mongolų"
-
-#: dialect/translators/__init__.py:95
-msgid "Myanmar (Burmese)"
-msgstr "birmiečių"
-
-#: dialect/translators/__init__.py:96
-msgid "Nepali"
-msgstr "nepaliečių"
-
-#: dialect/translators/__init__.py:97
-msgid "Norwegian"
-msgstr "norvegų"
-
-#: dialect/translators/__init__.py:98
-msgid "Odia (Oriya)"
-msgstr "odijų"
-
-#: dialect/translators/__init__.py:99
-msgid "Pashto"
-msgstr "puštūnų"
-
-#: dialect/translators/__init__.py:100
-msgid "Persian"
-msgstr "persų"
-
-#: dialect/translators/__init__.py:101
-msgid "Polish"
-msgstr "lenkų"
-
-#: dialect/translators/__init__.py:102
-msgid "Portuguese"
-msgstr "portugalų"
-
-#: dialect/translators/__init__.py:103
-msgid "Punjabi"
-msgstr "pendžabų"
-
-#: dialect/translators/__init__.py:104
-msgid "Romanian"
-msgstr "rumunų"
-
-#: dialect/translators/__init__.py:105
-msgid "Russian"
-msgstr "rusų"
-
-#: dialect/translators/__init__.py:106
-msgid "Samoan"
-msgstr "Samoa"
-
-#: dialect/translators/__init__.py:107
-msgid "Scots Gaelic"
-msgstr "škotų (gėlų)"
-
-#: dialect/translators/__init__.py:108
-msgid "Serbian"
-msgstr "serbų"
-
-#: dialect/translators/__init__.py:109
-msgid "Sesotho"
-msgstr "pietų Soto"
-
-#: dialect/translators/__init__.py:110
-msgid "Shona"
-msgstr "šonų"
-
-#: dialect/translators/__init__.py:111
-msgid "Sindhi"
-msgstr "sindų"
-
-#: dialect/translators/__init__.py:112
-msgid "Sinhala"
-msgstr "sinhalų"
-
-#: dialect/translators/__init__.py:113
-msgid "Slovak"
-msgstr "slovakų"
-
-#: dialect/translators/__init__.py:114
-msgid "Slovenian"
-msgstr "slovėnų"
-
-#: dialect/translators/__init__.py:115
-msgid "Somali"
-msgstr "somaliečių"
-
-#: dialect/translators/__init__.py:116
-msgid "Spanish"
-msgstr "ispanų"
-
-#: dialect/translators/__init__.py:117
-msgid "Sundanese"
-msgstr "sundų"
-
-#: dialect/translators/__init__.py:118
-msgid "Swahili"
-msgstr "suahilių"
-
-#: dialect/translators/__init__.py:119
-msgid "Swedish"
-msgstr "švedų"
-
-#: dialect/translators/__init__.py:120
-msgid "Tajik"
-msgstr "tadžikų"
-
-#: dialect/translators/__init__.py:121
-msgid "Tamil"
-msgstr "tamilų"
-
-#: dialect/translators/__init__.py:122
-msgid "Tatar"
-msgstr "totorių"
-
-#: dialect/translators/__init__.py:123
-msgid "Telugu"
-msgstr "telugų"
-
-#: dialect/translators/__init__.py:124
-msgid "Thai"
-msgstr "tajų"
-
-#: dialect/translators/__init__.py:125
-msgid "Turkish"
-msgstr "turkų"
-
-#: dialect/translators/__init__.py:126
-msgid "Turkmen"
-msgstr "turkmėnų"
-
-#: dialect/translators/__init__.py:127
-msgid "Ukrainian"
-msgstr "ukrainiečių"
-
-#: dialect/translators/__init__.py:128
-msgid "Urdu"
-msgstr "urdų"
-
-#: dialect/translators/__init__.py:129
-msgid "Uyghur"
-msgstr "uigūrų"
-
-#: dialect/translators/__init__.py:130
-msgid "Uzbek"
-msgstr "uzbekų"
-
-#: dialect/translators/__init__.py:131
-msgid "Vietnamese"
-msgstr "vietnamiečių"
-
-#: dialect/translators/__init__.py:132
-msgid "Welsh"
-msgstr "valų"
-
-#: dialect/translators/__init__.py:133
-msgid "Xhosa"
-msgstr "kosų"
-
-#: dialect/translators/__init__.py:134
-msgid "Yiddish"
-msgstr "jidiš"
-
-#: dialect/translators/__init__.py:135
-msgid "Yoruba"
-msgstr "jorubų"
-
-#: dialect/translators/__init__.py:136
-msgid "Zulu"
-msgstr "zulų"
+#~ msgid "GitHub page"
+#~ msgstr "GitHub puslapis"
+
+#~ msgid "Translator Instance"
+#~ msgstr "Vertėjo ištėklius"
+
+#~ msgid "Enter a translation service URL."
+#~ msgstr "Įveskite vertimo paslaugos URL."
+
+#~ msgid "Edit"
+#~ msgstr "Redaguoti"
+
+#~ msgid "Use Google for TTS."
+#~ msgstr "Naudoti „Google“ TTS (Garsinį teksto atkūrimą)."
+
+#~ msgid "Switch languages"
+#~ msgstr "Perjungti kalbas"
+
+#, python-brace-format
+#~ msgid "Not a valid {backend} instance"
+#~ msgstr "Netinkamas {backend} išteklius"
+
+#, python-brace-format
+#~ msgid "Not a valid {backend} API key"
+#~ msgstr "Netinkamas {backend} API raktas"
+
+#, python-brace-format
+#~ msgid ""
+#~ "Failed loading \"{url}\", check if the instance address is correct or "
+#~ "report in the Dialect bug tracker if the issue persists."
+#~ msgstr ""
+#~ "Nepavyko įkelti „{url}“, patikrinkite, ar perdavimo šaltinio adresas yra "
+#~ "teisingas, arba praneškite Dialekto klaidų sekimo priemonėje, jei "
+#~ "problema išlieka."
+
+#, python-brace-format
+#~ msgid ""
+#~ "We can’t connect to the {service} instance \"{url}\".\n"
+#~ " Please check for network issues or if the address is correct."
+#~ msgstr ""
+#~ "Negalime prisijungti prie {service} perdavimo šaltinio „{url}“.\n"
+#~ " Patikrinkite, ar nėra tinklo problemų arba ar teisingas adresas."
 
 #~ msgid "Appearance"
 #~ msgstr "Išvaizda"
-
-#~ msgid "Search Provider"
-#~ msgstr "Paieškos teikėjas"
 
 #~ msgid ""
 #~ "To reduce API abuse, the GNOME search provider in Dialect is turned off "

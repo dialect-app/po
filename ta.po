@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-27 16:36-0500\n"
+"POT-Creation-Date: 2023-05-09 11:30-0500\n"
 "PO-Revision-Date: 2022-08-23 00:20+0000\n"
 "Last-Translator: K.B.Dharun Krishna <kbdharunkrishna@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/dialect/dialect/ta/"
@@ -20,23 +20,23 @@ msgstr ""
 "X-Generator: Weblate 4.14-dev\n"
 
 #. Translators: Do not translate the app name!
-#: data/app.drey.Dialect.desktop.in.in:8
-#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:6
-#: data/resources/window.blp:240 dialect/main.py:57
+#: data/app.drey.Dialect.desktop.in.in:9
+#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:7
+#: data/resources/window.blp:285 dialect/main.py:61
 msgid "Dialect"
 msgstr "Dialect"
 
-#: data/app.drey.Dialect.desktop.in.in:9
+#: data/app.drey.Dialect.desktop.in.in:10
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
 msgstr "மொழிகளுக்கு இடையே மொழிபெயர்க்கவும்"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
-#: data/app.drey.Dialect.desktop.in.in:13
+#: data/app.drey.Dialect.desktop.in.in:14
 msgid "translate;translation;"
 msgstr "மொழியாக்கம்;மொழிபெயர்ப்பு;"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
 msgstr "க்னோமிற்கான மொழிபெயர்ப்புப் பயன்பாடு."
 
@@ -53,214 +53,237 @@ msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
-"LibreTranslate API அடிப்படையிலான மொழிபெயர்ப்பு, எந்தவொரு பொது நிகழ்வையும் "
-"பயன்படுத்த உங்களை அனுமதிக்கிறது"
+"LibreTranslate API அடிப்படையிலான மொழிபெயர்ப்பு, எந்தவொரு பொது நிகழ்வையும் பயன்படுத்த "
+"உங்களை அனுமதிக்கிறது"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
 msgstr "Lingva Translate API அடிப்படையில் மொழிபெயர்ப்பு"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
+#, fuzzy
+msgid "Translation based on Bing"
+msgstr "Lingva Translate API அடிப்படையில் மொழிபெயர்ப்பு"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:20
+#, fuzzy
+msgid "Translation based on Yandex"
+msgstr "கூகுள் மொழிபெயர்ப்பின் அடிப்படையிலான மொழிபெயர்ப்பு"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
 msgstr "உரைக்குப் பேச்சு"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:20
+#: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Translation history"
 msgstr "மொழிபெயர்ப்பு வரலாறு"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:21
+#: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Automatic language detection"
 msgstr "தானியங்கி மொழி கண்டறிதல்"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:22
+#: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Clipboard buttons"
 msgstr "கிளிப்போர்டு பொத்தான்கள்"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:28
+#: data/app.drey.Dialect.metainfo.xml.in.in:30 data/resources/about.blp:8
 msgid "The Dialect Authors"
 msgstr "Dialect ஆசிரியர்கள்"
 
-#: data/resources/about.blp:7
+#: data/resources/about.blp:9
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
 msgstr "பதிப்புரிமை 2020–⁠2022 Dialect ஆசிரியர்கள்"
 
-#: data/resources/about.blp:10
-msgid "GitHub page"
-msgstr "கிட்ஹப் பக்கம்"
-
 #. Translators: Replace me with your names.
-#: data/resources/about.blp:14
+#: data/resources/about.blp:17
 msgid "translator-credits"
 msgstr "K.B.Dharun Krishna"
 
-#: data/resources/preferences.ui:11
-msgid "Behavior"
-msgstr "நடத்தை"
+#: data/resources/lang-selector.blp:47
+msgid "Search Languages…"
+msgstr "மொழிகளைத் தேடுங்கள்…"
 
-#: data/resources/preferences.ui:14
-msgid "Live Translation"
-msgstr "நேரடி மொழிபெயர்ப்பு"
+#: data/resources/preferences.ui:12
+msgid "Providers"
+msgstr ""
 
 #: data/resources/preferences.ui:15
-msgid "Warning: Your IP address may get banned for API abuse."
-msgstr "எச்சரிக்கை: API துஷ்பிரயோகத்திற்காக உங்கள் IP முகவரி தடைசெய்யப்படலாம்."
-
-#: data/resources/preferences.ui:21
-msgid "Show Translations in Desktop Search"
-msgstr "டெஸ்க்டாப் தேடலில் மொழிபெயர்ப்புகளைக் காட்டு"
-
-#: data/resources/preferences.ui:22
-msgid "Warning: All desktop searches will be sent to the translation service"
-msgstr ""
-"எச்சரிக்கை: அனைத்து டெஸ்க்டாப் தேடல்களும் மொழிபெயர்ப்பு சேவைக்கு "
-"அனுப்பப்படும்"
-
-#: data/resources/preferences.ui:35
-msgid "Translation Shortcut"
-msgstr "மொழிபெயர்ப்பு குறுக்குவழி"
-
-#: data/resources/preferences.ui:36
-msgid "The unselected choice will be used for line break."
-msgstr "தேர்வு செய்யப்படாத தேர்வு வரி முறிவுக்குப் பயன்படுத்தப்படும்."
-
-#: data/resources/preferences.ui:49
-msgid "Default to Auto"
-msgstr "ஆட்டோவிற்கு இயல்புநிலை"
-
-#: data/resources/preferences.ui:50
-msgid "Use \"Auto\" as the default language"
-msgstr "\"ஆட்டோ\" என்பதை இயல்பு மொழியாகப் பயன்படுத்தவும்"
-
-#: data/resources/preferences.ui:61
 msgid "Translator"
 msgstr "மொழிபெயர்ப்பாளர்"
 
-#: data/resources/preferences.ui:62
+#: data/resources/preferences.ui:16
 msgid "Choose from the available translation services."
 msgstr "கிடைக்கக்கூடிய மொழிபெயர்ப்பு சேவைகளில் இருந்து தேர்வு செய்யவும்."
 
-#: data/resources/preferences.ui:70
-msgid "Translator Instance"
-msgstr "மொழிபெயர்ப்பாளர் நிகழ்வு"
-
-#: data/resources/preferences.ui:71
-msgid "Enter a translation service URL."
-msgstr "மொழிபெயர்ப்பு சேவை URL ஐ உள்ளிடவும்."
-
-#: data/resources/preferences.ui:89 data/resources/preferences.ui:161
-msgid "Edit"
-msgstr "தொகு"
-
-#: data/resources/preferences.ui:116 data/resources/preferences.ui:188
-msgid "Reset to default"
-msgstr "இயல்புநிலைக்கு மீட்டமைக்கவும்"
-
-#: data/resources/preferences.ui:126 data/resources/preferences.ui:198
-#: data/resources/window.blp:524
-msgid "Save"
-msgstr "சேமிக்கவும்"
-
-#: data/resources/preferences.ui:142
-msgid "API Key"
-msgstr "API விசை"
-
-#: data/resources/preferences.ui:143
-msgid "Enter an API key for the translation service."
-msgstr "மொழிபெயர்ப்பு சேவைக்கான API விசையை உள்ளிடவும்."
-
-#: data/resources/preferences.ui:214
+#: data/resources/preferences.ui:47
 msgid "Text-to-Speech"
 msgstr "உரையிலிருந்து-பேச்சு"
 
-#: data/resources/preferences.ui:215
-msgid "Use Google for TTS."
-msgstr "TTS க்கு Google ஐப் பயன்படுத்தவும்."
+#: data/resources/preferences.ui:48
+#, fuzzy
+msgid "Choose from the available TTS services."
+msgstr "கிடைக்கக்கூடிய மொழிபெயர்ப்பு சேவைகளில் இருந்து தேர்வு செய்யவும்."
+
+#: data/resources/preferences.ui:81
+msgid "Behavior"
+msgstr "நடத்தை"
+
+#: data/resources/preferences.ui:84
+msgid "Live Translation"
+msgstr "நேரடி மொழிபெயர்ப்பு"
+
+#: data/resources/preferences.ui:85
+msgid "Warning: Your IP address may get banned for API abuse."
+msgstr "எச்சரிக்கை: API துஷ்பிரயோகத்திற்காக உங்கள் IP முகவரி தடைசெய்யப்படலாம்."
+
+#: data/resources/preferences.ui:91
+msgid "Show Translations in Desktop Search"
+msgstr "டெஸ்க்டாப் தேடலில் மொழிபெயர்ப்புகளைக் காட்டு"
+
+#: data/resources/preferences.ui:92
+msgid "Warning: All desktop searches will be sent to the translation service"
+msgstr "எச்சரிக்கை: அனைத்து டெஸ்க்டாப் தேடல்களும் மொழிபெயர்ப்பு சேவைக்கு அனுப்பப்படும்"
+
+#: data/resources/preferences.ui:105
+msgid "Translation Shortcut"
+msgstr "மொழிபெயர்ப்பு குறுக்குவழி"
+
+#: data/resources/preferences.ui:106
+msgid "The unselected choice will be used for line break."
+msgstr "தேர்வு செய்யப்படாத தேர்வு வரி முறிவுக்குப் பயன்படுத்தப்படும்."
+
+#: data/resources/preferences.ui:124
+msgid "Default to Auto"
+msgstr "ஆட்டோவிற்கு இயல்புநிலை"
+
+#: data/resources/preferences.ui:125
+msgid "Use \"Auto\" as the default language"
+msgstr "\"ஆட்டோ\" என்பதை இயல்பு மொழியாகப் பயன்படுத்தவும்"
+
+#: data/resources/provider-preferences.blp:25
+msgid "Instance URL"
+msgstr ""
+
+#: data/resources/provider-preferences.blp:26
+#, fuzzy
+msgid "Enter an Instance URL for the Provider."
+msgstr "மொழிபெயர்ப்பு சேவைக்கான API விசையை உள்ளிடவும்."
+
+#: data/resources/provider-preferences.blp:36
+#: data/resources/provider-preferences.blp:66
+#, fuzzy
+msgid "Reset to Default"
+msgstr "இயல்புநிலைக்கு மீட்டமைக்கவும்"
+
+#: data/resources/provider-preferences.blp:56
+msgid "API Key"
+msgstr "API விசை"
+
+#: data/resources/provider-preferences.blp:57
+#, fuzzy
+msgid "Enter an API Key for the Provider."
+msgstr "மொழிபெயர்ப்பு சேவைக்கான API விசையை உள்ளிடவும்."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
 msgid "Translator"
 msgstr "மொழிபெயர்ப்பாளர்"
 
-#: data/resources/shortcuts.blp:17
+#: data/resources/shortcuts.blp:16
 msgctxt "shortcuts window"
 msgid "Translate"
 msgstr "மொழிபெயர்க்கவும்"
 
-#: data/resources/shortcuts.blp:23
+#: data/resources/shortcuts.blp:21
 msgctxt "shortcuts window"
 msgid "Switch Languages"
 msgstr "மொழிகளை மாற்றவும்"
 
-#: data/resources/shortcuts.blp:29
+#: data/resources/shortcuts.blp:26
 msgctxt "shortcuts window"
 msgid "Clear source text"
 msgstr "மூல உரையை அழிக்கவும்"
 
-#: data/resources/shortcuts.blp:35
+#: data/resources/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Copy translation"
 msgstr "மொழிபெயர்ப்பை நகலெடுக்கவும்"
 
-#: data/resources/shortcuts.blp:41
+#: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
 msgstr "உச்சரிப்பைக் காட்டு"
 
-#: data/resources/shortcuts.blp:48
+#: data/resources/shortcuts.blp:42
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
 msgstr "உரையிலிருந்து-பேச்சு"
 
-#: data/resources/shortcuts.blp:52
+#: data/resources/shortcuts.blp:45
 msgctxt "shortcuts window"
 msgid "Listen to source text"
 msgstr "மூல உரையைக் கேளுங்கள்"
 
-#: data/resources/shortcuts.blp:58
+#: data/resources/shortcuts.blp:50
 msgctxt "shortcuts window"
 msgid "Listen to translation"
 msgstr "மொழிபெயர்ப்பைக் கேளுங்கள்"
 
-#: data/resources/shortcuts.blp:65
+#: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Navigation"
 msgstr "வழிசெலுத்தல்"
 
-#: data/resources/shortcuts.blp:69
+#: data/resources/shortcuts.blp:59
 msgctxt "shortcuts window"
 msgid "Go back in history"
 msgstr "வரலாற்றில் திரும்பிச் செல்லுங்கள்"
 
-#: data/resources/shortcuts.blp:75
+#: data/resources/shortcuts.blp:64
 msgctxt "shortcuts window"
 msgid "Go forward in history"
 msgstr "வரலாற்றில் முன்னேறுங்கள்"
 
-#: data/resources/shortcuts.blp:82
+#: data/resources/shortcuts.blp:70
 msgctxt "shortcuts window"
 msgid "General"
 msgstr "ஜெனரல்"
 
-#: data/resources/shortcuts.blp:86
+#: data/resources/shortcuts.blp:73
 msgctxt "shortcuts window"
 msgid "Preferences"
 msgstr "விருப்பங்கள்"
 
-#: data/resources/shortcuts.blp:92
+#: data/resources/shortcuts.blp:78
 msgctxt "shortcut window"
 msgid "Shortcuts"
 msgstr "குறுக்குவழிகள்"
 
-#: data/resources/shortcuts.blp:98
+#: data/resources/shortcuts.blp:83
 msgctxt "shortcuts window"
 msgid "Quit"
 msgstr "வெளியேறு"
+
+#: data/resources/theme-switcher.blp:20
+#, fuzzy
+msgid "Follow System Style"
+msgstr "கணினி பாணியைப் பின்பற்றவும்"
+
+#: data/resources/theme-switcher.blp:35
+#, fuzzy
+msgid "Light Style"
+msgstr "ஒளி பாணி"
+
+#: data/resources/theme-switcher.blp:50
+#, fuzzy
+msgid "Dark Style"
+msgstr "இருண்ட பாணி"
 
 #: data/resources/window.blp:15
 msgid "Show Pronunciation"
 msgstr "உச்சரிப்பைக் காட்டு"
 
-#: data/resources/window.blp:24 dialect/window.py:1224 dialect/window.py:1232
+#: data/resources/window.blp:24 dialect/window.py:1268 dialect/window.py:1276
 msgid "Preferences"
 msgstr "விருப்பங்கள்"
 
@@ -276,625 +299,648 @@ msgstr "Dialect பற்றி"
 msgid "Loading…"
 msgstr "ஏற்றுகிறது…"
 
-#: data/resources/window.blp:103 dialect/window.py:375 dialect/window.py:1216
-#: dialect/window.py:1240
+#: data/resources/window.blp:103 data/resources/window.blp:135
+#: dialect/window.py:529 dialect/window.py:1260 dialect/window.py:1284
 msgid "Retry"
 msgstr "மீண்டும் முயற்சிக்கவும்"
 
-#: data/resources/window.blp:112 data/resources/window.blp:163
+#: data/resources/window.blp:113 data/resources/window.blp:148
+#: data/resources/window.blp:194 data/resources/window.blp:230
 msgid "Open Preferences"
 msgstr "விருப்பங்களைத் திறக்கவும்"
 
-#: data/resources/window.blp:154
+#: data/resources/window.blp:184 data/resources/window.blp:217
 msgid "Remove Key and Retry"
 msgstr "விசையை அகற்றி மீண்டும் முயற்சிக்கவும்"
 
-#: data/resources/window.blp:215 data/resources/window.blp:572
-msgid "Switch languages"
+#: data/resources/window.blp:265 data/resources/window.blp:591
+msgid "Change Source Language"
+msgstr ""
+
+#: data/resources/window.blp:270 data/resources/window.blp:599
+#, fuzzy
+msgid "Switch Languages"
 msgstr "மொழிகளை மாற்றவும்"
 
-#: data/resources/window.blp:251
-msgid "Previous translation"
+#: data/resources/window.blp:277 data/resources/window.blp:607
+msgid "Change Destination Language"
+msgstr ""
+
+#: data/resources/window.blp:292
+#, fuzzy
+msgid "Previous Translation"
 msgstr "முந்தைய மொழிபெயர்ப்பு"
 
-#: data/resources/window.blp:257
-msgid "Next translation"
+#: data/resources/window.blp:298
+#, fuzzy
+msgid "Next Translation"
 msgstr "அடுத்த மொழிபெயர்ப்பு"
 
-#: data/resources/window.blp:366
+#: data/resources/window.blp:305
+msgid "Main Menu"
+msgstr ""
+
+#: data/resources/window.blp:409
 msgid "Clear"
 msgstr "தெளிவு"
 
-#: data/resources/window.blp:372
+#: data/resources/window.blp:415
 msgid "Paste"
 msgstr "ஒட்டு"
 
-#: data/resources/window.blp:378 data/resources/window.blp:496
+#: data/resources/window.blp:421 data/resources/window.blp:540
 msgid "Listen"
 msgstr "கேளுங்கள்"
 
-#: data/resources/window.blp:398
+#: data/resources/window.blp:442
 msgid "Translate"
 msgstr "மொழிபெயர்"
 
-#: data/resources/window.blp:470
+#: data/resources/window.blp:514
 msgid "Translating…"
 msgstr "மொழியாக்கம் செய்கிறது…"
 
-#: data/resources/window.blp:475
-msgid "Could not translate the text"
+#: data/resources/window.blp:519
+#, fuzzy
+msgid "Could not Translate the Text"
 msgstr "உரையை மொழிபெயர்க்க முடியவில்லை"
 
-#: data/resources/window.blp:482
+#: data/resources/window.blp:526
 msgid "Copy"
 msgstr "நகல்"
 
-#: data/resources/window.blp:490
+#: data/resources/window.blp:534
 msgid "Suggest Translation"
 msgstr "மொழிபெயர்ப்பைப் பரிந்துரைக்கவும்"
 
-#: data/resources/window.blp:517
+#: data/resources/window.blp:558
 msgid "Cancel"
 msgstr "ரத்து செய்"
 
-#: data/resources/lang-selector.blp:18
-msgid "Search Languages…"
-msgstr "மொழிகளைத் தேடுங்கள்…"
+#: data/resources/window.blp:565
+msgid "Save"
+msgstr "சேமிக்கவும்"
 
-#: data/resources/theme-switcher.blp:25
-msgid "Follow system style"
-msgstr "கணினி பாணியைப் பின்பற்றவும்"
-
-#: data/resources/theme-switcher.blp:39
-msgid "Light style"
-msgstr "ஒளி பாணி"
-
-#: data/resources/theme-switcher.blp:53
-msgid "Dark style"
-msgstr "இருண்ட பாணி"
-
-#: dialect/preferences.py:220
-#, python-brace-format
-msgid "Not a valid {backend} instance"
-msgstr "சரியான {backend} நிகழ்வு அல்ல"
-
-#: dialect/preferences.py:288
-#, python-brace-format
-msgid "Not a valid {backend} API key"
-msgstr "சரியான {backend} API விசை இல்லை"
-
-#: dialect/window.py:296 dialect/window.py:1222
-msgid "The provided API key is invalid"
-msgstr "வழங்கப்பட்ட API விசை தவறானது"
-
-#: dialect/window.py:298
-msgid "Please set a valid API key in the preferences."
-msgstr "விருப்பங்களில் சரியான API விசையை அமைக்கவும்."
-
-#: dialect/window.py:301
-msgid "Please set a valid API key or unset the API key in the preferences."
-msgstr ""
-"சரியான API விசையை அமைக்கவும் அல்லது விருப்பத்தேர்வுகளில் API விசையை "
-"அமைக்கவும்."
-
-#: dialect/window.py:322 dialect/window.py:1230
-msgid "API key is required to use the service"
-msgstr "சேவையைப் பயன்படுத்த API விசை தேவை"
-
-#: dialect/window.py:323
-msgid "Please set an API key in the preferences."
-msgstr "விருப்பங்களில் API விசையை அமைக்கவும்."
-
-#: dialect/window.py:336
-msgid "Failed loading the translation service"
-msgstr "மொழிபெயர்ப்பு சேவையை ஏற்றுவதில் தோல்வி"
-
-#: dialect/window.py:337
-msgid "Please report this in the Dialect bug tracker if the issue persists."
-msgstr "சிக்கல் தொடர்ந்தால், டயலெக்ட் பிழை டிராக்கரில் இதைப் புகாரளிக்கவும்."
-
-#: dialect/window.py:339
-#, python-brace-format
-msgid ""
-"Failed loading \"{url}\", check if the instance address is correct or report "
-"in the Dialect bug tracker if the issue persists."
-msgstr ""
-"\"{url}\"ஐ ஏற்றுவதில் தோல்வி, நேர்வு முகவரி சரியாக உள்ளதா என சரிபார்க்கவும் "
-"அல்லது சிக்கல் தொடர்ந்தால் டயலெக்ட் பிழை டிராக்கரில் புகாரளிக்கவும்."
-
-#: dialect/window.py:343
-msgid "Couldn’t connect to the translation service"
-msgstr "மொழிபெயர்ப்பு சேவையுடன் இணைக்க முடியவில்லை"
-
-#: dialect/window.py:344
-msgid "We can’t connect to the server. Please check for network issues."
-msgstr ""
-"எங்களால் சேவையகத்துடன் இணைக்க முடியவில்லை. நெட்வொர்க் சிக்கல்களை "
-"சரிபார்க்கவும்."
-
-#: dialect/window.py:346
-#, python-brace-format
-msgid ""
-"We can’t connect to the {service} instance \"{url}\".\n"
-" Please check for network issues or if the address is correct."
-msgstr ""
-"எங்களால் {service} நிகழ்வை \"{url}\" உடன் இணைக்க முடியாது.\n"
-"நெட்வொர்க் சிக்கல்கள் உள்ளதா அல்லது முகவரி சரியாக உள்ளதா என சரிபார்க்கவும்."
-
-#: dialect/window.py:369
-msgid "A network issue has occured. Retry?"
-msgstr "நெட்வொர்க் சிக்கல் ஏற்பட்டுள்ளது. மீண்டும் முயற்சிக்கவா?"
-
-#: dialect/window.py:382
-msgid "A network issue has occured. Please try again."
-msgstr "நெட்வொர்க் சிக்கல் ஏற்பட்டுள்ளது. தயவுசெய்து மீண்டும் முயற்சி செய்க."
-
-#: dialect/window.py:666 dialect/window.py:673 dialect/window.py:1126
-msgid "Auto"
-msgstr "ஆட்டோ"
-
-#: dialect/window.py:870
-msgid "New translation has been suggested!"
-msgstr "புதிய மொழிபெயர்ப்பு பரிந்துரைக்கப்பட்டது!"
-
-#: dialect/window.py:872
-msgid "Suggestion failed."
-msgstr "பரிந்துரை தோல்வியடைந்தது."
-
-#: dialect/window.py:1012
-msgid "{} characters limit reached!"
-msgstr "{} எழுத்துக்கள் வரம்பை அடைந்துவிட்டது!"
-
-#: dialect/window.py:1165
-msgid "Did you mean: "
-msgstr "நீங்கள் கூறுவது: "
-
-#: dialect/window.py:1214
-msgid "Translation failed, check for network issues"
-msgstr ""
-"மொழிபெயர்ப்பு தோல்வியடைந்தது, நெட்வொர்க் சிக்கல்கள் உள்ளதா எனச் "
-"சரிபார்க்கவும்"
-
-#: dialect/window.py:1238
-msgid "Translation failed"
-msgstr "மொழிபெயர்ப்பு தோல்வியடைந்தது"
-
-#: dialect/translators/__init__.py:26
+#: dialect/languages.py:11
 msgid "Afrikaans"
 msgstr "ஆஃப்ரிகான்ஸ்"
 
-#: dialect/translators/__init__.py:27
+#: dialect/languages.py:12
 msgid "Albanian"
 msgstr "அல்பேனியன்"
 
-#: dialect/translators/__init__.py:28
+#: dialect/languages.py:13
 msgid "Amharic"
 msgstr "அம்ஹாரிக்"
 
-#: dialect/translators/__init__.py:29
+#: dialect/languages.py:14
 msgid "Arabic"
 msgstr "அரபு"
 
-#: dialect/translators/__init__.py:30
+#: dialect/languages.py:15
 msgid "Armenian"
 msgstr "ஆர்மேனியன்"
 
-#: dialect/translators/__init__.py:31
+#: dialect/languages.py:16
 msgid "Azerbaijani"
 msgstr "அஜர்பைஜானி"
 
-#: dialect/translators/__init__.py:32
+#: dialect/languages.py:17
 msgid "Basque"
 msgstr "பாஸ்க்"
 
-#: dialect/translators/__init__.py:33
+#: dialect/languages.py:18
 msgid "Belarusian"
 msgstr "பெலாரசியன்"
 
-#: dialect/translators/__init__.py:34
+#: dialect/languages.py:19
 msgid "Bengali"
 msgstr "பெங்காலி"
 
-#: dialect/translators/__init__.py:35
+#: dialect/languages.py:20
 msgid "Bosnian"
 msgstr "போஸ்னியன்"
 
-#: dialect/translators/__init__.py:36
+#: dialect/languages.py:21
 msgid "Bulgarian"
 msgstr "பல்கேரியன்"
 
-#: dialect/translators/__init__.py:37
+#: dialect/languages.py:22
 msgid "Catalan"
 msgstr "கற்றலான்"
 
-#: dialect/translators/__init__.py:38
+#: dialect/languages.py:23
 msgid "Cebuano"
 msgstr "செபுவானோ"
 
-#: dialect/translators/__init__.py:39
+#: dialect/languages.py:24
 msgid "Chichewa"
 msgstr "சிச்சேவா"
 
-#: dialect/translators/__init__.py:40
+#: dialect/languages.py:25
 msgid "Chinese"
 msgstr "சீன"
 
-#: dialect/translators/__init__.py:41
+#: dialect/languages.py:26
 msgid "Chinese (Simplified)"
 msgstr "சீனம் (எளிமையானது)"
 
-#: dialect/translators/__init__.py:42
+#: dialect/languages.py:27
 msgid "Chinese (Traditional)"
 msgstr "சீன (பாரம்பரியம்)"
 
-#: dialect/translators/__init__.py:43
+#: dialect/languages.py:28
 msgid "Corsican"
 msgstr "கோர்சிகன்"
 
-#: dialect/translators/__init__.py:44
+#: dialect/languages.py:29
 msgid "Croatian"
 msgstr "குரோஷியன்"
 
-#: dialect/translators/__init__.py:45
+#: dialect/languages.py:30
 msgid "Czech"
 msgstr "செக்"
 
-#: dialect/translators/__init__.py:46
+#: dialect/languages.py:31
 msgid "Danish"
 msgstr "டேனிஷ்"
 
-#: dialect/translators/__init__.py:47
+#: dialect/languages.py:32
 msgid "Dutch"
 msgstr "டச்சு"
 
-#: dialect/translators/__init__.py:48
+#: dialect/languages.py:33
 msgid "English"
 msgstr "ஆங்கிலம்"
 
-#: dialect/translators/__init__.py:49
+#: dialect/languages.py:34
 msgid "Esperanto"
 msgstr "எஸ்பெராண்டோ"
 
-#: dialect/translators/__init__.py:50
+#: dialect/languages.py:35
 msgid "Estonian"
 msgstr "எஸ்டோனியன்"
 
-#: dialect/translators/__init__.py:51
+#: dialect/languages.py:36
 msgid "Filipino"
 msgstr "பிலிப்பினோ"
 
-#: dialect/translators/__init__.py:52
+#: dialect/languages.py:37
 msgid "Finnish"
 msgstr "பின்னிஷ்"
 
-#: dialect/translators/__init__.py:53
+#: dialect/languages.py:38
 msgid "French"
 msgstr "பிரெஞ்சு"
 
-#: dialect/translators/__init__.py:54
+#: dialect/languages.py:39
 msgid "Frisian"
 msgstr "ஃப்ரிஷியன்"
 
-#: dialect/translators/__init__.py:55
+#: dialect/languages.py:40
 msgid "Galician"
 msgstr "காலிசியன்"
 
-#: dialect/translators/__init__.py:56
+#: dialect/languages.py:41
 msgid "Georgian"
 msgstr "ஜார்ஜியன்"
 
-#: dialect/translators/__init__.py:57
+#: dialect/languages.py:42
 msgid "German"
 msgstr "ஜெர்மன்"
 
-#: dialect/translators/__init__.py:58
+#: dialect/languages.py:43
 msgid "Greek"
 msgstr "கிரேக்கம்"
 
-#: dialect/translators/__init__.py:59
+#: dialect/languages.py:44
 msgid "Gujarati"
 msgstr "குஜராத்தி"
 
-#: dialect/translators/__init__.py:60
+#: dialect/languages.py:45
 msgid "Haitian Creole"
 msgstr "ஹைட்டியன் கிரியோல்"
 
-#: dialect/translators/__init__.py:61
+#: dialect/languages.py:46
 msgid "Hausa"
 msgstr "ஹவுசா"
 
-#: dialect/translators/__init__.py:62
+#: dialect/languages.py:47
 msgid "Hawaiian"
 msgstr "ஹவாய்"
 
-#: dialect/translators/__init__.py:63 dialect/translators/__init__.py:64
+#: dialect/languages.py:48 dialect/languages.py:49
 msgid "Hebrew"
 msgstr "ஹீப்ரு"
 
-#: dialect/translators/__init__.py:65
+#: dialect/languages.py:50
 msgid "Hindi"
 msgstr "ஹிந்தி"
 
-#: dialect/translators/__init__.py:66
+#: dialect/languages.py:51
 msgid "Hmong"
 msgstr "ஹ்மாங்"
 
-#: dialect/translators/__init__.py:67
+#: dialect/languages.py:52
 msgid "Hungarian"
 msgstr "ஹங்கேரியன்"
 
-#: dialect/translators/__init__.py:68
+#: dialect/languages.py:53
 msgid "Icelandic"
 msgstr "ஐஸ்லாண்டிக்"
 
-#: dialect/translators/__init__.py:69
+#: dialect/languages.py:54
 msgid "Igbo"
 msgstr "இக்போ"
 
-#: dialect/translators/__init__.py:70
+#: dialect/languages.py:55
 msgid "Indonesian"
 msgstr "இந்தோனேஷியன்"
 
-#: dialect/translators/__init__.py:71
+#: dialect/languages.py:56
 msgid "Irish"
 msgstr "ஐரிஷ்"
 
-#: dialect/translators/__init__.py:72
+#: dialect/languages.py:57
 msgid "Italian"
 msgstr "இத்தாலியன்"
 
-#: dialect/translators/__init__.py:73
+#: dialect/languages.py:58
 msgid "Japanese"
 msgstr "ஜப்பானிஸ்"
 
-#: dialect/translators/__init__.py:74
+#: dialect/languages.py:59
 msgid "Javanese"
 msgstr "ஜாவனீஸ்"
 
-#: dialect/translators/__init__.py:75
+#: dialect/languages.py:60
 msgid "Kannada"
 msgstr "கன்னடம்"
 
-#: dialect/translators/__init__.py:76
+#: dialect/languages.py:61
 msgid "Kazakh"
 msgstr "கசாக்"
 
-#: dialect/translators/__init__.py:77
+#: dialect/languages.py:62
 msgid "Khmer"
 msgstr "கெமெர்"
 
-#: dialect/translators/__init__.py:78
+#: dialect/languages.py:63
 msgid "Kinyarwanda"
 msgstr "கிண்ணியார்வாண்டா"
 
-#: dialect/translators/__init__.py:79
+#: dialect/languages.py:64
 msgid "Korean"
 msgstr "கொரியன்"
 
-#: dialect/translators/__init__.py:80
+#: dialect/languages.py:65
 msgid "Kurdish (Kurmanji)"
 msgstr "குர்திஷ் (குர்மான்ஜி)"
 
-#: dialect/translators/__init__.py:81
+#: dialect/languages.py:66
 msgid "Kyrgyz"
 msgstr "கிர்கிசு"
 
-#: dialect/translators/__init__.py:82
+#: dialect/languages.py:67
 msgid "Lao"
 msgstr "லாவோ"
 
-#: dialect/translators/__init__.py:83
+#: dialect/languages.py:68
 msgid "Latin"
 msgstr "இலத்தீன்"
 
-#: dialect/translators/__init__.py:84
+#: dialect/languages.py:69
 msgid "Latvian"
 msgstr "லத்வியன்"
 
-#: dialect/translators/__init__.py:85
+#: dialect/languages.py:70
 msgid "Lithuanian"
 msgstr "லிதுவேனியன்"
 
-#: dialect/translators/__init__.py:86
+#: dialect/languages.py:71
 msgid "Luxembourgish"
 msgstr "லக்சம்பர்கிஷ்"
 
-#: dialect/translators/__init__.py:87
+#: dialect/languages.py:72
 msgid "Macedonian"
 msgstr "மாசிடோனியன்"
 
-#: dialect/translators/__init__.py:88
+#: dialect/languages.py:73
 msgid "Malagasy"
 msgstr "மலகாசி"
 
-#: dialect/translators/__init__.py:89
+#: dialect/languages.py:74
 msgid "Malay"
 msgstr "மலாய்"
 
-#: dialect/translators/__init__.py:90
+#: dialect/languages.py:75
 msgid "Malayalam"
 msgstr "மலையாளம்"
 
-#: dialect/translators/__init__.py:91
+#: dialect/languages.py:76
 msgid "Maltese"
 msgstr "மால்டிஸ்"
 
-#: dialect/translators/__init__.py:92
+#: dialect/languages.py:77
 msgid "Maori"
 msgstr "மௌரி"
 
-#: dialect/translators/__init__.py:93
+#: dialect/languages.py:78
 msgid "Marathi"
 msgstr "மராத்தி"
 
-#: dialect/translators/__init__.py:94
+#: dialect/languages.py:79
 msgid "Mongolian"
 msgstr "மங்கோலியன்"
 
-#: dialect/translators/__init__.py:95
+#: dialect/languages.py:80
 msgid "Myanmar (Burmese)"
 msgstr "மியான்மர் (பர்மிய)"
 
-#: dialect/translators/__init__.py:96
+#: dialect/languages.py:81
 msgid "Nepali"
 msgstr "நேபாளி"
 
-#: dialect/translators/__init__.py:97
+#: dialect/languages.py:82
 msgid "Norwegian"
 msgstr "நார்வேஜியன்"
 
-#: dialect/translators/__init__.py:98
+#: dialect/languages.py:83
 msgid "Odia (Oriya)"
 msgstr "ஒடியா (ஒரியா)"
 
-#: dialect/translators/__init__.py:99
+#: dialect/languages.py:84
 msgid "Pashto"
 msgstr "பாஷ்டோ"
 
-#: dialect/translators/__init__.py:100
+#: dialect/languages.py:85
 msgid "Persian"
 msgstr "பெர்சியன்"
 
-#: dialect/translators/__init__.py:101
+#: dialect/languages.py:86
 msgid "Polish"
 msgstr "போலிஷ்"
 
-#: dialect/translators/__init__.py:102
+#: dialect/languages.py:87
 msgid "Portuguese"
 msgstr "போர்ச்சுகீஸ்"
 
-#: dialect/translators/__init__.py:103
+#: dialect/languages.py:88
 msgid "Punjabi"
 msgstr "பஞ்சாபி"
 
-#: dialect/translators/__init__.py:104
+#: dialect/languages.py:89
 msgid "Romanian"
 msgstr "ரோமேனியன்"
 
-#: dialect/translators/__init__.py:105
+#: dialect/languages.py:90
 msgid "Russian"
 msgstr "ரஷ்யன்"
 
-#: dialect/translators/__init__.py:106
+#: dialect/languages.py:91
 msgid "Samoan"
 msgstr "சமோவன்"
 
-#: dialect/translators/__init__.py:107
+#: dialect/languages.py:92
 msgid "Scots Gaelic"
 msgstr "ஸ்காட்ஸ் கேலிக்"
 
-#: dialect/translators/__init__.py:108
+#: dialect/languages.py:93
 msgid "Serbian"
 msgstr "செர்பியன்"
 
-#: dialect/translators/__init__.py:109
+#: dialect/languages.py:94
 msgid "Sesotho"
 msgstr "செசோதோ"
 
-#: dialect/translators/__init__.py:110
+#: dialect/languages.py:95
 msgid "Shona"
 msgstr "ஷோனா"
 
-#: dialect/translators/__init__.py:111
+#: dialect/languages.py:96
 msgid "Sindhi"
 msgstr "சிந்தி"
 
-#: dialect/translators/__init__.py:112
+#: dialect/languages.py:97
 msgid "Sinhala"
 msgstr "சிங்களம்"
 
-#: dialect/translators/__init__.py:113
+#: dialect/languages.py:98
 msgid "Slovak"
 msgstr "ஸ்லோவாக்"
 
-#: dialect/translators/__init__.py:114
+#: dialect/languages.py:99
 msgid "Slovenian"
 msgstr "ஸ்லோவேனியன்"
 
-#: dialect/translators/__init__.py:115
+#: dialect/languages.py:100
 msgid "Somali"
 msgstr "சோமாலி"
 
-#: dialect/translators/__init__.py:116
+#: dialect/languages.py:101
 msgid "Spanish"
 msgstr "ஸ்பானிஷ்"
 
-#: dialect/translators/__init__.py:117
+#: dialect/languages.py:102
 msgid "Sundanese"
 msgstr "சுண்டனீஸ்"
 
-#: dialect/translators/__init__.py:118
+#: dialect/languages.py:103
 msgid "Swahili"
 msgstr "சுவாஹிலி"
 
-#: dialect/translators/__init__.py:119
+#: dialect/languages.py:104
 msgid "Swedish"
 msgstr "ஸ்வீடிஷ்"
 
-#: dialect/translators/__init__.py:120
+#: dialect/languages.py:105
 msgid "Tajik"
 msgstr "தாஜிக்"
 
-#: dialect/translators/__init__.py:121
+#: dialect/languages.py:106
 msgid "Tamil"
 msgstr "தமிழ்"
 
-#: dialect/translators/__init__.py:122
+#: dialect/languages.py:107
 msgid "Tatar"
 msgstr "டாடர்"
 
-#: dialect/translators/__init__.py:123
+#: dialect/languages.py:108
 msgid "Telugu"
 msgstr "தெலுங்கு"
 
-#: dialect/translators/__init__.py:124
+#: dialect/languages.py:109
 msgid "Thai"
 msgstr "தாய்"
 
-#: dialect/translators/__init__.py:125
+#: dialect/languages.py:110
 msgid "Turkish"
 msgstr "துருக்கிய"
 
-#: dialect/translators/__init__.py:126
+#: dialect/languages.py:111
 msgid "Turkmen"
 msgstr "டர்க்மென்"
 
-#: dialect/translators/__init__.py:127
+#: dialect/languages.py:112
 msgid "Ukrainian"
 msgstr "உக்ரேனியன்"
 
-#: dialect/translators/__init__.py:128
+#: dialect/languages.py:113
 msgid "Urdu"
 msgstr "உருது"
 
-#: dialect/translators/__init__.py:129
+#: dialect/languages.py:114
 msgid "Uyghur"
 msgstr "உய்குர்"
 
-#: dialect/translators/__init__.py:130
+#: dialect/languages.py:115
 msgid "Uzbek"
 msgstr "உஸ்பெக்"
 
-#: dialect/translators/__init__.py:131
+#: dialect/languages.py:116
 msgid "Vietnamese"
 msgstr "வியட்நாமிஸ்"
 
-#: dialect/translators/__init__.py:132
+#: dialect/languages.py:117
 msgid "Welsh"
 msgstr "வெல்ஷ்"
 
-#: dialect/translators/__init__.py:133
+#: dialect/languages.py:118
 msgid "Xhosa"
 msgstr "ஷோசா"
 
-#: dialect/translators/__init__.py:134
+#: dialect/languages.py:119
 msgid "Yiddish"
 msgstr "இத்திஷ்"
 
-#: dialect/translators/__init__.py:135
+#: dialect/languages.py:120
 msgid "Yoruba"
 msgstr "யாருப்பா"
 
-#: dialect/translators/__init__.py:136
+#: dialect/languages.py:121
 msgid "Zulu"
 msgstr "ஜூலு"
+
+#: dialect/languages.py:198
+msgid "Auto"
+msgstr "ஆட்டோ"
+
+#: dialect/preferences.py:122
+msgid "Edit Provider Settings"
+msgstr ""
+
+#: dialect/preferences.py:124
+msgid "No Settings for This Provider"
+msgstr ""
+
+#: dialect/window.py:381 dialect/window.py:1266
+msgid "The provided API key is invalid"
+msgstr "வழங்கப்பட்ட API விசை தவறானது"
+
+#: dialect/window.py:383
+msgid "Please set a valid API key in the preferences."
+msgstr "விருப்பங்களில் சரியான API விசையை அமைக்கவும்."
+
+#: dialect/window.py:386
+msgid "Please set a valid API key or unset the API key in the preferences."
+msgstr "சரியான API விசையை அமைக்கவும் அல்லது விருப்பத்தேர்வுகளில் API விசையை அமைக்கவும்."
+
+#: dialect/window.py:403 dialect/window.py:1274
+msgid "API key is required to use the service"
+msgstr "சேவையைப் பயன்படுத்த API விசை தேவை"
+
+#: dialect/window.py:404
+msgid "Please set an API key in the preferences."
+msgstr "விருப்பங்களில் API விசையை அமைக்கவும்."
+
+#: dialect/window.py:417
+msgid "Failed loading the translation service"
+msgstr "மொழிபெயர்ப்பு சேவையை ஏற்றுவதில் தோல்வி"
+
+#: dialect/window.py:418
+msgid "Please report this in the Dialect bug tracker if the issue persists."
+msgstr "சிக்கல் தொடர்ந்தால், டயலெக்ட் பிழை டிராக்கரில் இதைப் புகாரளிக்கவும்."
+
+#: dialect/window.py:427
+msgid "Couldn’t connect to the translation service"
+msgstr "மொழிபெயர்ப்பு சேவையுடன் இணைக்க முடியவில்லை"
+
+#: dialect/window.py:428
+msgid "We can’t connect to the server. Please check for network issues."
+msgstr "எங்களால் சேவையகத்துடன் இணைக்க முடியவில்லை. நெட்வொர்க் சிக்கல்களை சரிபார்க்கவும்."
+
+#: dialect/window.py:522
+#, fuzzy
+msgid "A network issue has occurred. Retry?"
+msgstr "நெட்வொர்க் சிக்கல் ஏற்பட்டுள்ளது. மீண்டும் முயற்சிக்கவா?"
+
+#: dialect/window.py:536
+#, fuzzy
+msgid "A network issue has occurred. Please try again."
+msgstr "நெட்வொர்க் சிக்கல் ஏற்பட்டுள்ளது. தயவுசெய்து மீண்டும் முயற்சி செய்க."
+
+#: dialect/window.py:864
+msgid "New translation has been suggested!"
+msgstr "புதிய மொழிபெயர்ப்பு பரிந்துரைக்கப்பட்டது!"
+
+#: dialect/window.py:866
+msgid "Suggestion failed."
+msgstr "பரிந்துரை தோல்வியடைந்தது."
+
+#: dialect/window.py:1036
+msgid "{} characters limit reached!"
+msgstr "{} எழுத்துக்கள் வரம்பை அடைந்துவிட்டது!"
+
+#: dialect/window.py:1209
+msgid "Did you mean: "
+msgstr "நீங்கள் கூறுவது: "
+
+#: dialect/window.py:1258
+msgid "Translation failed, check for network issues"
+msgstr "மொழிபெயர்ப்பு தோல்வியடைந்தது, நெட்வொர்க் சிக்கல்கள் உள்ளதா எனச் சரிபார்க்கவும்"
+
+#: dialect/window.py:1282
+msgid "Translation failed"
+msgstr "மொழிபெயர்ப்பு தோல்வியடைந்தது"
+
+#~ msgid "GitHub page"
+#~ msgstr "கிட்ஹப் பக்கம்"
+
+#~ msgid "Translator Instance"
+#~ msgstr "மொழிபெயர்ப்பாளர் நிகழ்வு"
+
+#~ msgid "Enter a translation service URL."
+#~ msgstr "மொழிபெயர்ப்பு சேவை URL ஐ உள்ளிடவும்."
+
+#~ msgid "Edit"
+#~ msgstr "தொகு"
+
+#~ msgid "Use Google for TTS."
+#~ msgstr "TTS க்கு Google ஐப் பயன்படுத்தவும்."
+
+#~ msgid "Switch languages"
+#~ msgstr "மொழிகளை மாற்றவும்"
+
+#, python-brace-format
+#~ msgid "Not a valid {backend} instance"
+#~ msgstr "சரியான {backend} நிகழ்வு அல்ல"
+
+#, python-brace-format
+#~ msgid "Not a valid {backend} API key"
+#~ msgstr "சரியான {backend} API விசை இல்லை"
+
+#, python-brace-format
+#~ msgid ""
+#~ "Failed loading \"{url}\", check if the instance address is correct or "
+#~ "report in the Dialect bug tracker if the issue persists."
+#~ msgstr ""
+#~ "\"{url}\"ஐ ஏற்றுவதில் தோல்வி, நேர்வு முகவரி சரியாக உள்ளதா என சரிபார்க்கவும் அல்லது "
+#~ "சிக்கல் தொடர்ந்தால் டயலெக்ட் பிழை டிராக்கரில் புகாரளிக்கவும்."
+
+#, python-brace-format
+#~ msgid ""
+#~ "We can’t connect to the {service} instance \"{url}\".\n"
+#~ " Please check for network issues or if the address is correct."
+#~ msgstr ""
+#~ "எங்களால் {service} நிகழ்வை \"{url}\" உடன் இணைக்க முடியாது.\n"
+#~ "நெட்வொர்க் சிக்கல்கள் உள்ளதா அல்லது முகவரி சரியாக உள்ளதா என சரிபார்க்கவும்."
