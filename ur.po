@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-09 11:30-0500\n"
-"PO-Revision-Date: 2023-04-30 07:48+0000\n"
+"PO-Revision-Date: 2023-05-09 19:05+0000\n"
 "Last-Translator: duckienome <xvchattw@duck.com>\n"
-"Language-Team: Urdu <https://hosted.weblate.org/projects/dialect/dialect/ur/"
-">\n"
+"Language-Team: Urdu <https://hosted.weblate.org/projects/dialect/dialect/ur/>"
+"\n"
 "Language: ur\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -34,7 +34,7 @@ msgstr "زبانوں کے درمیان ترجمہ کریں"
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:14
 msgid "translate;translation;"
-msgstr "ترجمہ;ترجمہ کرنا;"
+msgstr "ترجمہ;ترجمان کرنا;مترجم;"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
@@ -61,14 +61,12 @@ msgid "Translation based on Lingva Translate API"
 msgstr "لنگوا ترجمان API پر مبنی ترجمہ"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr "لنگوا ترجمان API پر مبنی ترجمہ"
+msgstr "بینگ(Bing) پر مبنی ترجمہ"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "گوگل ترجمہ پر مبنی ترجمہ"
+msgstr "یانڈیسک(Yandex) پر مبنی ترجمہ"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
@@ -105,7 +103,7 @@ msgstr "زبانیں تلاش کریں…"
 
 #: data/resources/preferences.ui:12
 msgid "Providers"
-msgstr ""
+msgstr "فراہم کنندگان"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
@@ -120,9 +118,8 @@ msgid "Text-to-Speech"
 msgstr "الفاظ-سے-تقریر"
 
 #: data/resources/preferences.ui:48
-#, fuzzy
 msgid "Choose from the available TTS services."
-msgstr "دستیاب ترجمے کی خدمات میں سے انتخاب کریں۔"
+msgstr "دستیاب TTS خدمات میں سے انتخاب کریں۔"
 
 #: data/resources/preferences.ui:81
 msgid "Behavior"
@@ -163,16 +160,14 @@ msgstr "\"آٹو\" کو بطور ڈیفالٹ زبان استعمال کریں"
 
 #: data/resources/provider-preferences.blp:25
 msgid "Instance URL"
-msgstr ""
+msgstr "مثل URL"
 
 #: data/resources/provider-preferences.blp:26
-#, fuzzy
 msgid "Enter an Instance URL for the Provider."
-msgstr "ترجمہ سروس کے لیے ایک API کیِ درج کریں۔"
+msgstr "فراہم کنندہ کے لیے ایک مثال کا URL درج کریں۔"
 
 #: data/resources/provider-preferences.blp:36
 #: data/resources/provider-preferences.blp:66
-#, fuzzy
 msgid "Reset to Default"
 msgstr "دوبارہ پہلے جیسا کر دو"
 
@@ -181,9 +176,8 @@ msgid "API Key"
 msgstr "API کیِ"
 
 #: data/resources/provider-preferences.blp:57
-#, fuzzy
 msgid "Enter an API Key for the Provider."
-msgstr "ترجمہ سروس کے لیے ایک API کیِ درج کریں۔"
+msgstr "ترجمہ سروس کے لیے ایک API کیِ درج کریں."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -266,17 +260,14 @@ msgid "Quit"
 msgstr "بند کریں"
 
 #: data/resources/theme-switcher.blp:20
-#, fuzzy
 msgid "Follow System Style"
-msgstr "سسٹم کے انداز پر عمل کریں"
+msgstr "نظامی انداز پر عمل کریں"
 
 #: data/resources/theme-switcher.blp:35
-#, fuzzy
 msgid "Light Style"
-msgstr "سفیری انداز"
+msgstr "سفید انداز"
 
 #: data/resources/theme-switcher.blp:50
-#, fuzzy
 msgid "Dark Style"
 msgstr "سیاہ انداز"
 
@@ -316,30 +307,27 @@ msgstr "کیِ نکالیں اور دوبارہ کوشش کریں"
 
 #: data/resources/window.blp:265 data/resources/window.blp:591
 msgid "Change Source Language"
-msgstr ""
+msgstr "ماخذ کی زبان تبدیل کریں"
 
 #: data/resources/window.blp:270 data/resources/window.blp:599
-#, fuzzy
 msgid "Switch Languages"
 msgstr "زباں تبدیل کریں"
 
 #: data/resources/window.blp:277 data/resources/window.blp:607
 msgid "Change Destination Language"
-msgstr ""
+msgstr "منزل کی زبان تبدیل کریں"
 
 #: data/resources/window.blp:292
-#, fuzzy
 msgid "Previous Translation"
-msgstr "پچھلا ترجمہ"
+msgstr "گزشتہ ترجمہ"
 
 #: data/resources/window.blp:298
-#, fuzzy
 msgid "Next Translation"
 msgstr "اگلا ترجمہ"
 
 #: data/resources/window.blp:305
 msgid "Main Menu"
-msgstr ""
+msgstr "مرکزی مینو"
 
 #: data/resources/window.blp:409
 msgid "Clear"
@@ -362,7 +350,6 @@ msgid "Translating…"
 msgstr "ترجمہ کیا جارہا ہے…"
 
 #: data/resources/window.blp:519
-#, fuzzy
 msgid "Could not Translate the Text"
 msgstr "متن کا ترجمہ نہیں ہو سکا"
 
@@ -828,11 +815,11 @@ msgstr "خودکار"
 
 #: dialect/preferences.py:122
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "فراہم کنندہ کی ترتیبات میں ترمیم کریں"
 
 #: dialect/preferences.py:124
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "اس فراہم کنندہ کے لیے کوئی ترتیبات نہیں ہیں"
 
 #: dialect/window.py:381 dialect/window.py:1266
 msgid "The provided API key is invalid"
@@ -873,14 +860,12 @@ msgid "We can’t connect to the server. Please check for network issues."
 msgstr "ہم سرور سے منسلک نہیں ہو سکتے۔ براہ کرم نیٹ ورک کے مسائل کی جانچ کریں۔"
 
 #: dialect/window.py:522
-#, fuzzy
 msgid "A network issue has occurred. Retry?"
-msgstr "نیٹ ورک کا مسئلہ پیش آیا ہے۔ دوبارہ کوشش کریں؟"
+msgstr "نیٹ ورک کا مسئلہ پیش آیا ہے. دوبارہ کوشش کریں؟"
 
 #: dialect/window.py:536
-#, fuzzy
 msgid "A network issue has occurred. Please try again."
-msgstr "نیٹ ورک کا مسئلہ پیش آیا ہے۔ دوبارہ کوشش کریں."
+msgstr "نیٹ ورک کا مسئلہ پیش آیا ہے.دوبارہ کوشش کریں."
 
 #: dialect/window.py:864
 msgid "New translation has been suggested!"
