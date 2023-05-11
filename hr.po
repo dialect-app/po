@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-09 11:30-0500\n"
-"PO-Revision-Date: 2022-06-30 01:14+0000\n"
+"PO-Revision-Date: 2023-05-11 19:51+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/dialect/dialect/"
 "hr/>\n"
@@ -16,9 +16,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.13.1-dev\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -62,14 +62,12 @@ msgid "Translation based on Lingva Translate API"
 msgstr "Prijevod zasnovan na Lingva Translate API-u"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr "Prijevod zasnovan na Lingva Translate API-u"
+msgstr "Prijevod zasnovan na Bingu"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "Prijevod zasnovan na Google prevoditelju"
+msgstr "Prijevod zasnovan na Yandexu"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
@@ -105,9 +103,8 @@ msgid "Search Languages…"
 msgstr "Traži jezike …"
 
 #: data/resources/preferences.ui:12
-#, fuzzy
 msgid "Providers"
-msgstr "Usluga pretraživanja"
+msgstr "Pružatelji usluge"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
@@ -122,9 +119,8 @@ msgid "Text-to-Speech"
 msgstr "Tekst u govor"
 
 #: data/resources/preferences.ui:48
-#, fuzzy
 msgid "Choose from the available TTS services."
-msgstr "Odaberi iz dostupnih usluga prevođenja."
+msgstr "Odaberi iz dostupnih TTS usluga."
 
 #: data/resources/preferences.ui:81
 msgid "Behavior"
@@ -165,16 +161,14 @@ msgstr "Koristi „Automatski” kao standardni jezik"
 
 #: data/resources/provider-preferences.blp:25
 msgid "Instance URL"
-msgstr ""
+msgstr "URL instance"
 
 #: data/resources/provider-preferences.blp:26
-#, fuzzy
 msgid "Enter an Instance URL for the Provider."
-msgstr "Upiši API ključ za uslugu prevođenja."
+msgstr "Upiši URL instance za pružatelja usluge."
 
 #: data/resources/provider-preferences.blp:36
 #: data/resources/provider-preferences.blp:66
-#, fuzzy
 msgid "Reset to Default"
 msgstr "Vrati na standardno"
 
@@ -183,9 +177,8 @@ msgid "API Key"
 msgstr "API ključ"
 
 #: data/resources/provider-preferences.blp:57
-#, fuzzy
 msgid "Enter an API Key for the Provider."
-msgstr "Upiši API ključ za uslugu prevođenja."
+msgstr "Upiši API ključ za pružatelja usluge."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -268,17 +261,14 @@ msgid "Quit"
 msgstr "Zatvori program"
 
 #: data/resources/theme-switcher.blp:20
-#, fuzzy
 msgid "Follow System Style"
-msgstr "Prati stil sustava"
+msgstr "Koristi stil sustava"
 
 #: data/resources/theme-switcher.blp:35
-#, fuzzy
 msgid "Light Style"
-msgstr "Svjetli stil"
+msgstr "Svijetli stil"
 
 #: data/resources/theme-switcher.blp:50
-#, fuzzy
 msgid "Dark Style"
 msgstr "Tamni stil"
 
@@ -318,30 +308,27 @@ msgstr "Ukloni ključ i pokušaj ponovo"
 
 #: data/resources/window.blp:265 data/resources/window.blp:591
 msgid "Change Source Language"
-msgstr ""
+msgstr "Promijeni jezik izvora"
 
 #: data/resources/window.blp:270 data/resources/window.blp:599
-#, fuzzy
 msgid "Switch Languages"
-msgstr "Zamijeni jezike"
+msgstr "Promijeni jezik"
 
 #: data/resources/window.blp:277 data/resources/window.blp:607
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Promijeni ciljani jezik"
 
 #: data/resources/window.blp:292
-#, fuzzy
 msgid "Previous Translation"
 msgstr "Prethodni prijevod"
 
 #: data/resources/window.blp:298
-#, fuzzy
 msgid "Next Translation"
 msgstr "Sljedeći prijevod"
 
 #: data/resources/window.blp:305
 msgid "Main Menu"
-msgstr ""
+msgstr "Glavni izbornik"
 
 #: data/resources/window.blp:409
 msgid "Clear"
@@ -364,7 +351,6 @@ msgid "Translating…"
 msgstr "Prevodi se …"
 
 #: data/resources/window.blp:519
-#, fuzzy
 msgid "Could not Translate the Text"
 msgstr "Neuspjelo prevođenje teksta"
 
@@ -830,11 +816,11 @@ msgstr "Automatski"
 
 #: dialect/preferences.py:122
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Uredi postavke pružatelja usluge"
 
 #: dialect/preferences.py:124
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Nema postavki za ovog pružatelja usluge"
 
 #: dialect/window.py:381 dialect/window.py:1266
 msgid "The provided API key is invalid"
@@ -873,12 +859,10 @@ msgid "We can’t connect to the server. Please check for network issues."
 msgstr "Ne možemo se povezati s poslužiteljem. Provjeri internetske probleme."
 
 #: dialect/window.py:522
-#, fuzzy
 msgid "A network issue has occurred. Retry?"
 msgstr "Problem s internetskom vezom. Ponovo pokušati?"
 
 #: dialect/window.py:536
-#, fuzzy
 msgid "A network issue has occurred. Please try again."
 msgstr "Problem s internetskom vezom. Pokušaj ponovo."
 
