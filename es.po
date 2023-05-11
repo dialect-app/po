@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-09 11:30-0500\n"
-"PO-Revision-Date: 2022-06-30 01:14+0000\n"
-"Last-Translator: Germe the fur star <FOSSgerme.deb@tuta.io>\n"
+"PO-Revision-Date: 2023-05-11 19:51+0000\n"
+"Last-Translator: gallegonovato <fran-carro@hotmail.es>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/dialect/dialect/"
 "es/>\n"
 "Language: es\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13.1-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -62,14 +62,12 @@ msgid "Translation based on Lingva Translate API"
 msgstr "Traducción basada en la API de Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr "Traducción basada en la API de Lingva Translate"
+msgstr "Traducción a partir de Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "Traducción basada en Google Translate"
+msgstr "Traducción a partir de Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
@@ -105,9 +103,8 @@ msgid "Search Languages…"
 msgstr "Buscar Idiomas…"
 
 #: data/resources/preferences.ui:12
-#, fuzzy
 msgid "Providers"
-msgstr "Proveedor de búsquedas"
+msgstr "Proveedores"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
@@ -122,9 +119,8 @@ msgid "Text-to-Speech"
 msgstr "Texto a voz"
 
 #: data/resources/preferences.ui:48
-#, fuzzy
 msgid "Choose from the available TTS services."
-msgstr "Elija entre los servicios de traducción disponibles."
+msgstr "Elije entre los servicios TTS disponibles."
 
 #: data/resources/preferences.ui:81
 msgid "Behavior"
@@ -166,27 +162,24 @@ msgstr "Utilice «Automático» como idioma predeterminado"
 
 #: data/resources/provider-preferences.blp:25
 msgid "Instance URL"
-msgstr ""
+msgstr "URL de la instancia"
 
 #: data/resources/provider-preferences.blp:26
-#, fuzzy
 msgid "Enter an Instance URL for the Provider."
-msgstr "Introduzca una llave de API para el servicio de traducción."
+msgstr "Introduce una URL de la instancia para el proveedor."
 
 #: data/resources/provider-preferences.blp:36
 #: data/resources/provider-preferences.blp:66
-#, fuzzy
 msgid "Reset to Default"
-msgstr "Restablecer valor predeterminado"
+msgstr "Restablecer los valores por defecto"
 
 #: data/resources/provider-preferences.blp:56
 msgid "API Key"
 msgstr "Llave del API"
 
 #: data/resources/provider-preferences.blp:57
-#, fuzzy
 msgid "Enter an API Key for the Provider."
-msgstr "Introduzca una llave de API para el servicio de traducción."
+msgstr "Introduce una clave API para el proveedor."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -269,17 +262,14 @@ msgid "Quit"
 msgstr "Salir"
 
 #: data/resources/theme-switcher.blp:20
-#, fuzzy
 msgid "Follow System Style"
-msgstr "Seguir estilo del sistema"
+msgstr "Seguir el estilo del sistema"
 
 #: data/resources/theme-switcher.blp:35
-#, fuzzy
 msgid "Light Style"
 msgstr "Estilo Claro"
 
 #: data/resources/theme-switcher.blp:50
-#, fuzzy
 msgid "Dark Style"
 msgstr "Estilo Oscuro"
 
@@ -319,30 +309,27 @@ msgstr "Borrar Llave y Reintentar"
 
 #: data/resources/window.blp:265 data/resources/window.blp:591
 msgid "Change Source Language"
-msgstr ""
+msgstr "Cambiar el idioma de origen"
 
 #: data/resources/window.blp:270 data/resources/window.blp:599
-#, fuzzy
 msgid "Switch Languages"
-msgstr "Intercambiar idiomas"
+msgstr "Cambiar de idioma"
 
 #: data/resources/window.blp:277 data/resources/window.blp:607
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Cambiar el idioma del destino"
 
 #: data/resources/window.blp:292
-#, fuzzy
 msgid "Previous Translation"
 msgstr "Traducción anterior"
 
 #: data/resources/window.blp:298
-#, fuzzy
 msgid "Next Translation"
-msgstr "Siguiente traducción"
+msgstr "Traducción siguiente"
 
 #: data/resources/window.blp:305
 msgid "Main Menu"
-msgstr ""
+msgstr "Menú principal"
 
 #: data/resources/window.blp:409
 msgid "Clear"
@@ -365,7 +352,6 @@ msgid "Translating…"
 msgstr "Traduciendo…"
 
 #: data/resources/window.blp:519
-#, fuzzy
 msgid "Could not Translate the Text"
 msgstr "No se pudo traducir el texto"
 
@@ -831,11 +817,11 @@ msgstr "Automático"
 
 #: dialect/preferences.py:122
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Editar los ajustes del proveedor"
 
 #: dialect/preferences.py:124
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "No hay ajustes para este proveedor"
 
 #: dialect/window.py:381 dialect/window.py:1266
 msgid "The provided API key is invalid"
@@ -879,14 +865,12 @@ msgstr ""
 "conexión."
 
 #: dialect/window.py:522
-#, fuzzy
 msgid "A network issue has occurred. Retry?"
-msgstr "Ha ocurrido un problema de red. ¿Reintentar?"
+msgstr "Se ha producido un problema en la red. ¿Reintentar?"
 
 #: dialect/window.py:536
-#, fuzzy
 msgid "A network issue has occurred. Please try again."
-msgstr "Un problema de red ha ocurrido. Por favor intenta de nuevo."
+msgstr "Se ha producido un problema en la red. Por favor, inténtelo de nuevo."
 
 #: dialect/window.py:864
 msgid "New translation has been suggested!"
