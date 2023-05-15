@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-09 11:30-0500\n"
-"PO-Revision-Date: 2022-06-30 01:14+0000\n"
-"Last-Translator: Balázs Meskó <meskobalazs@mailbox.org>\n"
+"PO-Revision-Date: 2023-05-15 19:53+0000\n"
+"Last-Translator: ovari <ovari123@zoho.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/dialect/"
 "dialect/hu/>\n"
 "Language: hu\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13.1-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -46,29 +46,27 @@ msgstr "Funkciók:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
 msgid "Translation based on Google Translate"
-msgstr "Fordítás a Google Fordító alapján"
+msgstr "Google Fordító alapján készült fordítás"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
-"Fordítás a LibreTranslate API alapján, amellyel tetszőleges nyilvános "
+"LibreTranslate API alapján készült fordítás, amellyel tetszőleges nyilvános "
 "példányt használhat"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
-msgstr "Fordítás a Lingva Translate API alapján"
+msgstr "Lingva Fordító API alapján készült fordítás"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr "Fordítás a Lingva Translate API alapján"
+msgstr "Bing alapján készült fordítás"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "Fordítás a Google Fordító alapján"
+msgstr "Yandex alapján készült fordítás"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
@@ -104,9 +102,8 @@ msgid "Search Languages…"
 msgstr "Nyelvek keresése…"
 
 #: data/resources/preferences.ui:12
-#, fuzzy
 msgid "Providers"
-msgstr "Keresésszolgáltató"
+msgstr "Szolgáltatók"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
@@ -121,9 +118,10 @@ msgid "Text-to-Speech"
 msgstr "Szöveg beszéddé alakítása"
 
 #: data/resources/preferences.ui:48
-#, fuzzy
 msgid "Choose from the available TTS services."
-msgstr "Válasszon az elérhető fordítási szolgáltatások közül."
+msgstr ""
+"Válasszon az elérhető TTS (Text-to-Speech – Szövegfelolvasás) szolgáltatások "
+"közül."
 
 #: data/resources/preferences.ui:81
 msgid "Behavior"
@@ -166,27 +164,24 @@ msgstr "„Automatikus” lehetőség használata alapértelmezett nyelvként"
 
 #: data/resources/provider-preferences.blp:25
 msgid "Instance URL"
-msgstr ""
+msgstr "Példány URL-címe"
 
 #: data/resources/provider-preferences.blp:26
-#, fuzzy
 msgid "Enter an Instance URL for the Provider."
-msgstr "Adja meg a fordítási szolgáltatás API-kulcsát."
+msgstr "Adja meg a szolgáltató példány URL-címét."
 
 #: data/resources/provider-preferences.blp:36
 #: data/resources/provider-preferences.blp:66
-#, fuzzy
 msgid "Reset to Default"
-msgstr "Visszaállítás az alapértelmezettre"
+msgstr "Visszaállítás alapértelmezettre"
 
 #: data/resources/provider-preferences.blp:56
 msgid "API Key"
 msgstr "API-kulcs"
 
 #: data/resources/provider-preferences.blp:57
-#, fuzzy
 msgid "Enter an API Key for the Provider."
-msgstr "Adja meg a fordítási szolgáltatás API-kulcsát."
+msgstr "Adja meg a szolgáltató API-kulcsát."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -269,19 +264,16 @@ msgid "Quit"
 msgstr "Kilépés"
 
 #: data/resources/theme-switcher.blp:20
-#, fuzzy
 msgid "Follow System Style"
-msgstr "Rendszerstílus követése"
+msgstr "A rendszertéma használata"
 
 #: data/resources/theme-switcher.blp:35
-#, fuzzy
 msgid "Light Style"
-msgstr "Világos stílus"
+msgstr "Világos téma"
 
 #: data/resources/theme-switcher.blp:50
-#, fuzzy
 msgid "Dark Style"
-msgstr "Sötét stílus"
+msgstr "Sötét téma"
 
 #: data/resources/window.blp:15
 msgid "Show Pronunciation"
@@ -319,30 +311,27 @@ msgstr "Kulcs eltávolítása és újrapróbálkozás"
 
 #: data/resources/window.blp:265 data/resources/window.blp:591
 msgid "Change Source Language"
-msgstr ""
+msgstr "Forrásnyelv módosítása"
 
 #: data/resources/window.blp:270 data/resources/window.blp:599
-#, fuzzy
 msgid "Switch Languages"
-msgstr "Nyelvek felcserélése"
+msgstr "Nyelvváltás"
 
 #: data/resources/window.blp:277 data/resources/window.blp:607
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Célnyelv módosítása"
 
 #: data/resources/window.blp:292
-#, fuzzy
 msgid "Previous Translation"
 msgstr "Előző fordítás"
 
 #: data/resources/window.blp:298
-#, fuzzy
 msgid "Next Translation"
 msgstr "Következő fordítás"
 
 #: data/resources/window.blp:305
 msgid "Main Menu"
-msgstr ""
+msgstr "Főmenü"
 
 #: data/resources/window.blp:409
 msgid "Clear"
@@ -365,7 +354,6 @@ msgid "Translating…"
 msgstr "Fordítás…"
 
 #: data/resources/window.blp:519
-#, fuzzy
 msgid "Could not Translate the Text"
 msgstr "A szöveg nem fordítható le"
 
@@ -831,11 +819,11 @@ msgstr "Automatikus"
 
 #: dialect/preferences.py:122
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Szolgáltatói beállítások szerkesztése"
 
 #: dialect/preferences.py:124
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Nincsenek beállítások ennél a szolgáltatónál"
 
 #: dialect/window.py:381 dialect/window.py:1266
 msgid "The provided API key is invalid"
@@ -878,12 +866,10 @@ msgstr ""
 "probléma."
 
 #: dialect/window.py:522
-#, fuzzy
 msgid "A network issue has occurred. Retry?"
 msgstr "Hálózati probléma történt. Újrapróbálja?"
 
 #: dialect/window.py:536
-#, fuzzy
 msgid "A network issue has occurred. Please try again."
 msgstr "Hálózati probléma történt. Próbálja újra."
 
