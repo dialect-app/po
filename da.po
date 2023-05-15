@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-09 11:30-0500\n"
-"PO-Revision-Date: 2022-01-07 01:54+0000\n"
-"Last-Translator: Abdul Kikar <oklomsy2@gmail.com>\n"
+"PO-Revision-Date: 2023-05-15 19:53+0000\n"
+"Last-Translator: Abdul Karim Kikar <abdul@oklomsy.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/dialect/dialect/"
 "da/>\n"
 "Language: da\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.10.1\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -29,7 +29,7 @@ msgstr "Dialect"
 #: data/app.drey.Dialect.desktop.in.in:10
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
-msgstr "Oversæt imellem sprog"
+msgstr "Oversæt imellem sproge"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:14
@@ -38,40 +38,35 @@ msgstr "oversæt;oversættelse;"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
-msgstr "En oversættelse app for GNOME."
+msgstr "En oversættelsesprogram for GNOME."
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
 msgstr "Funktioner:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
-#, fuzzy
 msgid "Translation based on Google Translate"
-msgstr "Oversættelse baseret på et uofficielt API for Google Oversæt"
+msgstr "Oversættelse baseret på Google Oversæt"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
-#, fuzzy
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
-"Oversættelse baseret på LibreTranslate API som tillader dig at bruge enhver "
-"instans online"
+"Oversættelse baseret på LibreTranslate API, som tillader dig til at bruge "
+"enhver offentlige instans"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
-#, fuzzy
 msgid "Translation based on Lingva Translate API"
-msgstr "Oversættelse baseret på et uofficielt API for Google Oversæt"
+msgstr "Oversættelse baseret på Lingva Translate API"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr "Oversættelse baseret på et uofficielt API for Google Oversæt"
+msgstr "Oversættelse baseret på Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "Oversættelse baseret på et uofficielt API for Google Oversæt"
+msgstr "Oversættelse baseret på Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
@@ -79,7 +74,7 @@ msgstr "Tekst til tale"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Translation history"
-msgstr "Oversættelse historie"
+msgstr "Oversættelse historik"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Automatic language detection"
@@ -87,16 +82,15 @@ msgstr "Automatisk sprog opdagelse"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Clipboard buttons"
-msgstr "Udklipsholder knapper"
+msgstr "Klippebord knapper"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:30 data/resources/about.blp:8
 msgid "The Dialect Authors"
-msgstr "Dialect forfattere"
+msgstr "Dialect forfatterne"
 
 #: data/resources/about.blp:9
-#, fuzzy
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
-msgstr "Ophavsret 2020-2021 Dialect Forfattere"
+msgstr "Ophavsret 2020-2022 Dialect Forfatterne"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:17
@@ -104,14 +98,12 @@ msgid "translator-credits"
 msgstr "Abdul Karim Kikar"
 
 #: data/resources/lang-selector.blp:47
-#, fuzzy
 msgid "Search Languages…"
-msgstr "Skift Sprog"
+msgstr "Skift Sproge…"
 
 #: data/resources/preferences.ui:12
-#, fuzzy
 msgid "Providers"
-msgstr "Søge Udbyder"
+msgstr "Udbyder"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
@@ -119,16 +111,15 @@ msgstr "Oversættere"
 
 #: data/resources/preferences.ui:16
 msgid "Choose from the available translation services."
-msgstr "Vælge fra de tilgængelige oversættelse tjenester."
+msgstr "Vælge fra de tilgængelige oversættelsestjenester."
 
 #: data/resources/preferences.ui:47
 msgid "Text-to-Speech"
-msgstr "Text-til-tale"
+msgstr "Tekst-til-tale"
 
 #: data/resources/preferences.ui:48
-#, fuzzy
 msgid "Choose from the available TTS services."
-msgstr "Vælge fra de tilgængelige oversættelse tjenester."
+msgstr "Vælge fra de tilgængelige TTS-tjenester."
 
 #: data/resources/preferences.ui:81
 msgid "Behavior"
@@ -140,16 +131,16 @@ msgstr "Live Oversættelse"
 
 #: data/resources/preferences.ui:85
 msgid "Warning: Your IP address may get banned for API abuse."
-msgstr "Advarsel: Dit IP adresse kan måske blive forbudt for API misbrug."
+msgstr "Advarsel: Dit IP-adresse kan blive forbudt for API misbrug."
 
 #: data/resources/preferences.ui:91
-#, fuzzy
 msgid "Show Translations in Desktop Search"
-msgstr "Oversættelse historie"
+msgstr "Vis oversættelser i skrivebordsøgning"
 
 #: data/resources/preferences.ui:92
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr ""
+"Advarsel: Alle skrivebordssøgninger vil blive sendt til oversættelse-tjensten"
 
 #: data/resources/preferences.ui:105
 msgid "Translation Shortcut"
@@ -157,39 +148,36 @@ msgstr "Oversættelse Genveje"
 
 #: data/resources/preferences.ui:106
 msgid "The unselected choice will be used for line break."
-msgstr "Den ikke-selekterede valg vil blive brugt for linje afbrydelse."
+msgstr "Den fravalgt mulighed vil blive brugt for linje-afbrydelse."
 
 #: data/resources/preferences.ui:124
 msgid "Default to Auto"
-msgstr "Default til Auto"
+msgstr "Sæt standard til Auto"
 
 #: data/resources/preferences.ui:125
 msgid "Use \"Auto\" as the default language"
-msgstr "Brug \"Auto\" som standard sprog"
+msgstr "Brug \"Auto\" som standardsprog"
 
 #: data/resources/provider-preferences.blp:25
 msgid "Instance URL"
-msgstr ""
+msgstr "Instans URL"
 
 #: data/resources/provider-preferences.blp:26
-#, fuzzy
 msgid "Enter an Instance URL for the Provider."
-msgstr "Indtast et oversættelse tjeneste URL."
+msgstr "Indtast et Instans URL for denne udbyder."
 
 #: data/resources/provider-preferences.blp:36
 #: data/resources/provider-preferences.blp:66
-#, fuzzy
 msgid "Reset to Default"
 msgstr "Nulstil til standard"
 
 #: data/resources/provider-preferences.blp:56
 msgid "API Key"
-msgstr ""
+msgstr "API Nøgle"
 
 #: data/resources/provider-preferences.blp:57
-#, fuzzy
 msgid "Enter an API Key for the Provider."
-msgstr "Indtast et oversættelse tjeneste URL."
+msgstr "Indtast et API nøgle for denne udbyder."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -209,7 +197,7 @@ msgstr "Skift Sprog"
 #: data/resources/shortcuts.blp:26
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr "Ryd kilde tekst"
+msgstr "Ryd kildetekst"
 
 #: data/resources/shortcuts.blp:31
 msgctxt "shortcuts window"
@@ -229,7 +217,7 @@ msgstr "Tekst-til-Tale"
 #: data/resources/shortcuts.blp:45
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr "Lyt til kilde tekst"
+msgstr "Lyt til kildetekst"
 
 #: data/resources/shortcuts.blp:50
 msgctxt "shortcuts window"
@@ -239,17 +227,17 @@ msgstr "Lyt til oversættelse"
 #: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr "Navigation"
+msgstr "Navigering"
 
 #: data/resources/shortcuts.blp:59
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr "Gå tilbage I historie"
+msgstr "Gå tilbage I historik"
 
 #: data/resources/shortcuts.blp:64
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr "Gå frem I historie"
+msgstr "Gå frem I historik"
 
 #: data/resources/shortcuts.blp:70
 msgctxt "shortcuts window"
@@ -273,16 +261,15 @@ msgstr "Afslut"
 
 #: data/resources/theme-switcher.blp:20
 msgid "Follow System Style"
-msgstr ""
+msgstr "Følg Systemstil"
 
 #: data/resources/theme-switcher.blp:35
 msgid "Light Style"
-msgstr ""
+msgstr "Lysstil"
 
 #: data/resources/theme-switcher.blp:50
-#, fuzzy
 msgid "Dark Style"
-msgstr "Mørk Mode"
+msgstr "Mørkstil"
 
 #: data/resources/window.blp:15
 msgid "Show Pronunciation"
@@ -311,40 +298,36 @@ msgstr "Prøve igen"
 
 #: data/resources/window.blp:113 data/resources/window.blp:148
 #: data/resources/window.blp:194 data/resources/window.blp:230
-#, fuzzy
 msgid "Open Preferences"
-msgstr "Åben Præferencer"
+msgstr "Åbne Præferencer"
 
 #: data/resources/window.blp:184 data/resources/window.blp:217
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "Slet nøgle og prøve igen"
 
 #: data/resources/window.blp:265 data/resources/window.blp:591
 msgid "Change Source Language"
-msgstr ""
+msgstr "Skift kildesprog"
 
 #: data/resources/window.blp:270 data/resources/window.blp:599
-#, fuzzy
 msgid "Switch Languages"
-msgstr "Skift Sprog"
+msgstr "Skift Sproge"
 
 #: data/resources/window.blp:277 data/resources/window.blp:607
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Skrift destinationsprog"
 
 #: data/resources/window.blp:292
-#, fuzzy
 msgid "Previous Translation"
 msgstr "Tidligere oversættelse"
 
 #: data/resources/window.blp:298
-#, fuzzy
 msgid "Next Translation"
 msgstr "Næste oversættelse"
 
 #: data/resources/window.blp:305
 msgid "Main Menu"
-msgstr ""
+msgstr "Hovedmenu"
 
 #: data/resources/window.blp:409
 msgid "Clear"
@@ -367,22 +350,20 @@ msgid "Translating…"
 msgstr "Oversættere…"
 
 #: data/resources/window.blp:519
-#, fuzzy
 msgid "Could not Translate the Text"
-msgstr "Kan ikke oversæt teksten"
+msgstr "Kunne ikke oversæt teksten"
 
 #: data/resources/window.blp:526
 msgid "Copy"
 msgstr "Kopi"
 
 #: data/resources/window.blp:534
-#, fuzzy
 msgid "Suggest Translation"
-msgstr "Live Oversættelse"
+msgstr "Foreslå Oversættelse"
 
 #: data/resources/window.blp:558
 msgid "Cancel"
-msgstr ""
+msgstr "Annullere"
 
 #: data/resources/window.blp:565
 msgid "Save"
@@ -422,7 +403,7 @@ msgstr "belarusisk"
 
 #: dialect/languages.py:19
 msgid "Bengali"
-msgstr "bengali"
+msgstr "bengalsk"
 
 #: dialect/languages.py:20
 msgid "Bosnian"
@@ -578,7 +559,7 @@ msgstr "japansk"
 
 #: dialect/languages.py:59
 msgid "Javanese"
-msgstr ""
+msgstr "javanesisk"
 
 #: dialect/languages.py:60
 msgid "Kannada"
@@ -834,93 +815,85 @@ msgstr "Auto"
 
 #: dialect/preferences.py:122
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Ændre udbydernes indstillinger"
 
 #: dialect/preferences.py:124
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Ingen indstillinger for denne udbyder"
 
 #: dialect/window.py:381 dialect/window.py:1266
 msgid "The provided API key is invalid"
-msgstr ""
+msgstr "Den forudsat API nøgle er ugyldig"
 
 #: dialect/window.py:383
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "Vær sød at indsætte et gyldig API nøgle inden i præferencerne."
 
 #: dialect/window.py:386
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
+"Vær sød at indsætte et gyldig API nøgle eller slette API-nøglen inden I "
+"præferencerne."
 
 #: dialect/window.py:403 dialect/window.py:1274
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "API nøgle er krævet til at bruge denne tjenste"
 
 #: dialect/window.py:404
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "Vær sød at indsætte en API nøgle inden i præferencerne."
 
 #: dialect/window.py:417
-#, fuzzy
 msgid "Failed loading the translation service"
-msgstr "Kan ikke indlæse oversættelse tjeneste"
+msgstr "Kan ikke indlæse oversættelse-tjeneste"
 
 #: dialect/window.py:418
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
+"Vær sød at anmelde det inden I Dialect softwarefejl-sporeren hvis problemet "
+"fortsættes."
 
 #: dialect/window.py:427
-#, fuzzy
 msgid "Couldn’t connect to the translation service"
-msgstr "Kan ikke indlæse oversættelse tjeneste"
+msgstr "Kan ikke forbinde til oversættelse-tjenesten"
 
 #: dialect/window.py:428
-#, fuzzy
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
-"Oversættelse mislykkedes.\n"
-"Være sød at tjekke for problemer med netværket."
+"Vi kan ikke forbinde til serveren. Være sød at tjekke for problemer med "
+"netværket."
 
 #: dialect/window.py:522
-#, fuzzy
 msgid "A network issue has occurred. Retry?"
 msgstr "Et netværksproblem har opstået. Prøv igen?"
 
 #: dialect/window.py:536
-#, fuzzy
 msgid "A network issue has occurred. Please try again."
-msgstr ""
-"Et netværksproblem har opstået\n"
-"Vær sød at prøve igen."
+msgstr "Et netværksproblem har opstået. Vær sød at prøve igen."
 
 #: dialect/window.py:864
 msgid "New translation has been suggested!"
-msgstr ""
+msgstr "Nyt oversættelse har blevet forslået!"
 
 #: dialect/window.py:866
 msgid "Suggestion failed."
-msgstr ""
+msgstr "Forslag mislykkeds."
 
 #: dialect/window.py:1036
-#, fuzzy
 msgid "{} characters limit reached!"
-msgstr "5000 bogstaver grænse nået!"
+msgstr "{} bogstaver grænse nået!"
 
 #: dialect/window.py:1209
 msgid "Did you mean: "
 msgstr "Mente du: "
 
 #: dialect/window.py:1258
-#, fuzzy
 msgid "Translation failed, check for network issues"
-msgstr ""
-"Oversættelse mislykkedes.\n"
-"Være sød at tjekke for problemer med netværket."
+msgstr "Oversættelse mislykkedes, tjek for problemer med netværket"
 
 #: dialect/window.py:1282
-#, fuzzy
 msgid "Translation failed"
-msgstr "Oversættelse historie"
+msgstr "Oversættelse mislykkedes"
 
 #~ msgid "GitHub page"
 #~ msgstr "GitHub side"
