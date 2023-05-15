@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-09 11:30-0500\n"
-"PO-Revision-Date: 2022-06-30 01:14+0000\n"
+"PO-Revision-Date: 2023-05-15 19:53+0000\n"
 "Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/dialect/dialect/"
 "tr/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13.1-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -60,14 +60,12 @@ msgid "Translation based on Lingva Translate API"
 msgstr "Lingva Translate API tabanlı çeviri"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr "Lingva Translate API tabanlı çeviri"
+msgstr "Bing tabanlı çeviri"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "Google Translate tabanlı çeviri"
+msgstr "Yandex tabanlı çeviri"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
@@ -106,9 +104,8 @@ msgid "Search Languages…"
 msgstr "Dilleri Ara…"
 
 #: data/resources/preferences.ui:12
-#, fuzzy
 msgid "Providers"
-msgstr "Arama Sağlayıcısı"
+msgstr "Sağlayıcı"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
@@ -123,9 +120,8 @@ msgid "Text-to-Speech"
 msgstr "Metinden Sese"
 
 #: data/resources/preferences.ui:48
-#, fuzzy
 msgid "Choose from the available TTS services."
-msgstr "Kullanılabilir çeviri hizmetleri arasından seçim yapın."
+msgstr "Mevcut TTS hizmetleri arasından seçim yapın."
 
 #: data/resources/preferences.ui:81
 msgid "Behavior"
@@ -165,27 +161,24 @@ msgstr "Varsayılan dil olarak \"Otomatik\" kullan"
 
 #: data/resources/provider-preferences.blp:25
 msgid "Instance URL"
-msgstr ""
+msgstr "Örnek URL'si"
 
 #: data/resources/provider-preferences.blp:26
-#, fuzzy
 msgid "Enter an Instance URL for the Provider."
-msgstr "Çeviri hizmeti için API anahtarı girin."
+msgstr "Sağlayıcı için bir Örnek URL girin."
 
 #: data/resources/provider-preferences.blp:36
 #: data/resources/provider-preferences.blp:66
-#, fuzzy
 msgid "Reset to Default"
-msgstr "Varsayılana sıfırla"
+msgstr "Öntanımlılara Sıfırla"
 
 #: data/resources/provider-preferences.blp:56
 msgid "API Key"
 msgstr "API Anahtarı"
 
 #: data/resources/provider-preferences.blp:57
-#, fuzzy
 msgid "Enter an API Key for the Provider."
-msgstr "Çeviri hizmeti için API anahtarı girin."
+msgstr "Sağlayıcı için bir API Anahtarı girin."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -268,19 +261,16 @@ msgid "Quit"
 msgstr "Çıkış"
 
 #: data/resources/theme-switcher.blp:20
-#, fuzzy
 msgid "Follow System Style"
-msgstr "Sistem biçimini takip et"
+msgstr "Sistem Biçemini Takip Et"
 
 #: data/resources/theme-switcher.blp:35
-#, fuzzy
 msgid "Light Style"
-msgstr "Açık biçim"
+msgstr "Açık Biçem"
 
 #: data/resources/theme-switcher.blp:50
-#, fuzzy
 msgid "Dark Style"
-msgstr "Koyu biçim"
+msgstr "Koyu Biçem"
 
 #: data/resources/window.blp:15
 msgid "Show Pronunciation"
@@ -318,30 +308,27 @@ msgstr "Anahtarı Kaldır ve Yeniden Dene"
 
 #: data/resources/window.blp:265 data/resources/window.blp:591
 msgid "Change Source Language"
-msgstr ""
+msgstr "Kaynak Dili Değiştir"
 
 #: data/resources/window.blp:270 data/resources/window.blp:599
-#, fuzzy
 msgid "Switch Languages"
-msgstr "Dili Değiştir"
+msgstr "Dilleri Değiştir"
 
 #: data/resources/window.blp:277 data/resources/window.blp:607
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Hedef Dili Değiştir"
 
 #: data/resources/window.blp:292
-#, fuzzy
 msgid "Previous Translation"
-msgstr "Önceki çeviri"
+msgstr "Önceki Çeviri"
 
 #: data/resources/window.blp:298
-#, fuzzy
 msgid "Next Translation"
-msgstr "Sonraki çeviri"
+msgstr "Sonraki Çeviri"
 
 #: data/resources/window.blp:305
 msgid "Main Menu"
-msgstr ""
+msgstr "Ana Menü"
 
 #: data/resources/window.blp:409
 msgid "Clear"
@@ -364,9 +351,8 @@ msgid "Translating…"
 msgstr "Çevriliyor…"
 
 #: data/resources/window.blp:519
-#, fuzzy
 msgid "Could not Translate the Text"
-msgstr "Metin çevrilemedi"
+msgstr "Metin Çevrilemedi"
 
 #: data/resources/window.blp:526
 msgid "Copy"
@@ -830,11 +816,11 @@ msgstr "Otomatik"
 
 #: dialect/preferences.py:122
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Sağlayıcı Ayarlarını Düzenle"
 
 #: dialect/preferences.py:124
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Bu Sağlayıcı İçin Ayar Yok"
 
 #: dialect/window.py:381 dialect/window.py:1266
 msgid "The provided API key is invalid"
@@ -875,12 +861,10 @@ msgid "We can’t connect to the server. Please check for network issues."
 msgstr "Sunucuya bağlanamıyor. Lütfen ağ sorunlarını denetleyin."
 
 #: dialect/window.py:522
-#, fuzzy
 msgid "A network issue has occurred. Retry?"
 msgstr "Ağ sorunu oluştu. Yeniden denensin mi?"
 
 #: dialect/window.py:536
-#, fuzzy
 msgid "A network issue has occurred. Please try again."
 msgstr "Ağ sorunu oluştu. Lütfen tekrar deneyin."
 
