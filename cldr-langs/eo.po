@@ -1,0 +1,475 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dialect-cldr-langs\n"
+"Language: eo\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Afar"
+msgstr "afara"
+
+msgid "Abkhazian"
+msgstr "abĥaza"
+
+msgid "Afrikaans"
+msgstr "afrikansa"
+
+msgid "Amharic"
+msgstr "amhara"
+
+msgid "Arabic"
+msgstr "araba"
+
+msgid "Assamese"
+msgstr "asama"
+
+msgid "Aymara"
+msgstr "ajmara"
+
+msgid "Azerbaijani"
+msgstr "azerbajĝana"
+
+msgid "Azeri"
+msgstr "azerbajĝana"
+
+msgid "Bashkir"
+msgstr "baŝkira"
+
+msgid "Belarusian"
+msgstr "belorusa"
+
+msgid "Bulgarian"
+msgstr "bulgara"
+
+msgid "Bislama"
+msgstr "bislamo"
+
+msgid "Bangla"
+msgstr "bengala"
+
+msgid "Tibetan"
+msgstr "tibeta"
+
+msgid "Breton"
+msgstr "bretona"
+
+msgid "Bosnian"
+msgstr "bosnia"
+
+msgid "Catalan"
+msgstr "kataluna"
+
+msgid "Corsican"
+msgstr "korsika"
+
+msgid "Czech"
+msgstr "ĉeĥa"
+
+msgid "Welsh"
+msgstr "kimra"
+
+msgid "Danish"
+msgstr "dana"
+
+msgid "German"
+msgstr "germana"
+
+msgid "Divehi"
+msgstr "mahla"
+
+msgid "Dzongkha"
+msgstr "dzonko"
+
+msgid "Efik"
+msgstr "ibibioefika"
+
+msgid "Greek"
+msgstr "greka"
+
+msgid "English"
+msgstr "angla"
+
+msgid "Esperanto"
+msgstr "esperanto"
+
+msgid "Spanish"
+msgstr "hispana"
+
+msgid "Estonian"
+msgstr "estona"
+
+msgid "Basque"
+msgstr "eŭska"
+
+msgid "Persian"
+msgstr "persa"
+
+msgid "Finnish"
+msgstr "finna"
+
+msgid "Filipino"
+msgstr "filipina"
+
+msgid "Fijian"
+msgstr "fiĝia"
+
+msgid "Faroese"
+msgstr "feroa"
+
+msgid "French"
+msgstr "franca"
+
+msgid "Western Frisian"
+msgstr "frisa"
+
+msgid "Irish"
+msgstr "irlanda"
+
+msgid "Scottish Gaelic"
+msgstr "gaela"
+
+msgid "Galician"
+msgstr "galega"
+
+msgid "Guarani"
+msgstr "gvarania"
+
+msgid "Gujarati"
+msgstr "guĝarata"
+
+msgid "Hausa"
+msgstr "haŭsa"
+
+msgid "Hawaiian"
+msgstr "havaja"
+
+msgid "Hebrew"
+msgstr "hebrea"
+
+msgid "Hindi"
+msgstr "hinda"
+
+msgid "Croatian"
+msgstr "kroata"
+
+msgid "Haitian Creole"
+msgstr "haitia kreola"
+
+msgid "Hungarian"
+msgstr "hungara"
+
+msgid "Armenian"
+msgstr "armena"
+
+msgid "Interlingua"
+msgstr "interlingvao"
+
+msgid "Indonesian"
+msgstr "indonezia"
+
+msgid "Interlingue"
+msgstr "okcidentalo"
+
+msgid "Inupiaq"
+msgstr "eskima"
+
+msgid "Icelandic"
+msgstr "islanda"
+
+msgid "Italian"
+msgstr "itala"
+
+msgid "Inuktitut"
+msgstr "inuita"
+
+msgid "Japanese"
+msgstr "japana"
+
+msgid "Javanese"
+msgstr "java"
+
+msgid "Georgian"
+msgstr "kartvela"
+
+msgid "Kazakh"
+msgstr "kazaĥa"
+
+msgid "Kalaallisut"
+msgstr "gronlanda"
+
+msgid "Khmer"
+msgstr "kmera"
+
+msgid "Kannada"
+msgstr "kanara"
+
+msgid "Korean"
+msgstr "korea"
+
+msgid "Kashmiri"
+msgstr "kaŝmira"
+
+msgid "Kurdish"
+msgstr "kurda"
+
+msgid "Kyrgyz"
+msgstr "kirgiza"
+
+msgid "Latin"
+msgstr "latino"
+
+msgid "Luxembourgish"
+msgstr "luksemburga"
+
+msgid "Lingala"
+msgstr "lingala"
+
+msgid "Lao"
+msgstr "laŭa"
+
+msgid "Lithuanian"
+msgstr "litova"
+
+msgid "Latvian"
+msgstr "latva"
+
+msgid "Malagasy"
+msgstr "malagasa"
+
+msgid "Māori"
+msgstr "maoria"
+
+msgid "Macedonian"
+msgstr "makedona"
+
+msgid "Malayalam"
+msgstr "malajalama"
+
+msgid "Mongolian"
+msgstr "mongola"
+
+msgid "Marathi"
+msgstr "marata"
+
+msgid "Malay"
+msgstr "malaja"
+
+msgid "Maltese"
+msgstr "malta"
+
+msgid "Burmese"
+msgstr "birma"
+
+msgid "Nauru"
+msgstr "naura"
+
+msgid "Norwegian Bokmål"
+msgstr "dannorvega"
+
+msgid "Nepali"
+msgstr "nepala"
+
+msgid "Dutch"
+msgstr "nederlanda"
+
+msgid "Norwegian Nynorsk"
+msgstr "novnorvega"
+
+msgid "Norwegian"
+msgstr "norvega"
+
+msgid "Occitan"
+msgstr "okcitana"
+
+msgid "Oromo"
+msgstr "oroma"
+
+msgid "Odia"
+msgstr "orijo"
+
+msgid "Punjabi"
+msgstr "panĝaba"
+
+msgid "Polish"
+msgstr "pola"
+
+msgid "Pashto"
+msgstr "paŝtoa"
+
+msgid "Portuguese"
+msgstr "portugala"
+
+msgid "Brazilian Portuguese"
+msgstr "brazilportugala"
+
+msgid "European Portuguese"
+msgstr "eŭropportugala"
+
+msgid "Quechua"
+msgstr "keĉua"
+
+msgid "Romansh"
+msgstr "romanĉa"
+
+msgid "Rundi"
+msgstr "burunda"
+
+msgid "Romanian"
+msgstr "rumana"
+
+msgid "Russian"
+msgstr "rusa"
+
+msgid "Kinyarwanda"
+msgstr "ruanda"
+
+msgid "Sanskrit"
+msgstr "sanskrito"
+
+msgid "Sindhi"
+msgstr "sinda"
+
+msgid "Sango"
+msgstr "sangoa"
+
+msgid "Serbo-Croatian"
+msgstr "serbo-Kroata"
+
+msgid "Sinhala"
+msgstr "sinhala"
+
+msgid "Slovak"
+msgstr "slovaka"
+
+msgid "Slovenian"
+msgstr "slovena"
+
+msgid "Samoan"
+msgstr "samoa"
+
+msgid "Shona"
+msgstr "ŝona"
+
+msgid "Somali"
+msgstr "somala"
+
+msgid "Albanian"
+msgstr "albana"
+
+msgid "Serbian"
+msgstr "serba"
+
+msgid "Swati"
+msgstr "svazia"
+
+msgid "Southern Sotho"
+msgstr "sota"
+
+msgid "Sundanese"
+msgstr "sunda"
+
+msgid "Swedish"
+msgstr "sveda"
+
+msgid "Swahili"
+msgstr "svahila"
+
+msgid "Tamil"
+msgstr "tamila"
+
+msgid "Telugu"
+msgstr "telugua"
+
+msgid "Tajik"
+msgstr "taĝika"
+
+msgid "Thai"
+msgstr "taja"
+
+msgid "Tigrinya"
+msgstr "tigraja"
+
+msgid "Turkmen"
+msgstr "turkmena"
+
+msgid "Tagalog"
+msgstr "tagaloga"
+
+msgid "Klingon"
+msgstr "klingona"
+
+msgid "Tswana"
+msgstr "cvana"
+
+msgid "Tongan"
+msgstr "tongaa"
+
+msgid "Turkish"
+msgstr "turka"
+
+msgid "Tsonga"
+msgstr "conga"
+
+msgid "Tatar"
+msgstr "tatara"
+
+msgid "Uyghur"
+msgstr "ujgura"
+
+msgid "Ukrainian"
+msgstr "ukraina"
+
+msgid "Unknown language"
+msgstr "nekonata lingvo"
+
+msgid "Urdu"
+msgstr "urduo"
+
+msgid "Uzbek"
+msgstr "uzbeka"
+
+msgid "Vietnamese"
+msgstr "vjetnama"
+
+msgid "Volapük"
+msgstr "volapuko"
+
+msgid "Wolof"
+msgstr "volofa"
+
+msgid "Xhosa"
+msgstr "ksosa"
+
+msgid "Yiddish"
+msgstr "jida"
+
+msgid "Yoruba"
+msgstr "joruba"
+
+msgid "Zhuang"
+msgstr "ĝuanga"
+
+msgid "Chinese"
+msgstr "ĉina"
+
+msgid "Chinese, Mandarin"
+msgstr "ĉina"
+
+msgid "Simplified Chinese"
+msgstr "ĉina simpligita"
+
+msgid "Simplified Mandarin Chinese"
+msgstr "ĉina simpligita"
+
+msgid "Traditional Chinese"
+msgstr "ĉina tradicia"
+
+msgid "Traditional Mandarin Chinese"
+msgstr "ĉina tradicia"
+
+msgid "Zulu"
+msgstr "zulua"
+
+msgid "No linguistic content"
+msgstr "nelingvaĵo"

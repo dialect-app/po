@@ -1,0 +1,1975 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dialect-cldr-langs\n"
+"Language: ja\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Afar"
+msgstr "アファル語"
+
+msgid "Abkhazian"
+msgstr "アブハズ語"
+
+msgid "Achinese"
+msgstr "アチェ語"
+
+msgid "Acoli"
+msgstr "アチョリ語"
+
+msgid "Adangme"
+msgstr "アダングメ語"
+
+msgid "Adyghe"
+msgstr "アディゲ語"
+
+msgid "Avestan"
+msgstr "アヴェスタ語"
+
+msgid "Tunisian Arabic"
+msgstr "チュニジア・アラビア語"
+
+msgid "Afrikaans"
+msgstr "アフリカーンス語"
+
+msgid "Afrihili"
+msgstr "アフリヒリ語"
+
+msgid "Aghem"
+msgstr "アゲム語"
+
+msgid "Ainu"
+msgstr "アイヌ語"
+
+msgid "Akan"
+msgstr "アカン語"
+
+msgid "Akkadian"
+msgstr "アッカド語"
+
+msgid "Alabama"
+msgstr "アラバマ語"
+
+msgid "Aleut"
+msgstr "アレウト語"
+
+msgid "Gheg Albanian"
+msgstr "ゲグ・アルバニア語"
+
+msgid "Southern Altai"
+msgstr "南アルタイ語"
+
+msgid "Amharic"
+msgstr "アムハラ語"
+
+msgid "Aragonese"
+msgstr "アラゴン語"
+
+msgid "Old English"
+msgstr "古英語"
+
+msgid "Obolo"
+msgstr "オボロ語"
+
+msgid "Angika"
+msgstr "アンギカ語"
+
+msgid "Arabic"
+msgstr "アラビア語"
+
+msgid "Modern Standard Arabic"
+msgstr "現代標準アラビア語"
+
+msgid "Aramaic"
+msgstr "アラム語"
+
+msgid "Mapuche"
+msgstr "マプチェ語"
+
+msgid "Araona"
+msgstr "アラオナ語"
+
+msgid "Arapaho"
+msgstr "アラパホー語"
+
+msgid "Algerian Arabic"
+msgstr "アルジェリア・アラビア語"
+
+msgid "Najdi Arabic"
+msgstr "ナジュド地方・アラビア語"
+
+msgid "Arabic, Najdi"
+msgstr "アラビア語（ナジュド地方）"
+
+msgid "Arawak"
+msgstr "アラワク語"
+
+msgid "Moroccan Arabic"
+msgstr "モロッコ・アラビア語"
+
+msgid "Egyptian Arabic"
+msgstr "エジプト・アラビア語"
+
+msgid "Assamese"
+msgstr "アッサム語"
+
+msgid "Asu"
+msgstr "アス語"
+
+msgid "American Sign Language"
+msgstr "アメリカ手話"
+
+msgid "Asturian"
+msgstr "アストゥリアス語"
+
+msgid "Atikamekw"
+msgstr "アティカメク語"
+
+msgid "Avaric"
+msgstr "アヴァル語"
+
+msgid "Kotava"
+msgstr "コタヴァ"
+
+msgid "Awadhi"
+msgstr "アワディー語"
+
+msgid "Aymara"
+msgstr "アイマラ語"
+
+msgid "Azerbaijani"
+msgstr "アゼルバイジャン語"
+
+msgid "Azeri"
+msgstr "アゼリー語"
+
+msgid "Bashkir"
+msgstr "バシキール語"
+
+msgid "Baluchi"
+msgstr "バルーチー語"
+
+msgid "Balinese"
+msgstr "バリ語"
+
+msgid "Bavarian"
+msgstr "バイエルン・オーストリア語"
+
+msgid "Basaa"
+msgstr "バサ語"
+
+msgid "Bamun"
+msgstr "バムン語"
+
+msgid "Batak Toba"
+msgstr "トバ・バタク語"
+
+msgid "Ghomala"
+msgstr "ゴーマラ語"
+
+msgid "Belarusian"
+msgstr "ベラルーシ語"
+
+msgid "Beja"
+msgstr "ベジャ語"
+
+msgid "Bemba"
+msgstr "ベンバ語"
+
+msgid "Betawi"
+msgstr "ベタウィ語"
+
+msgid "Bena"
+msgstr "ベナ語"
+
+msgid "Bafut"
+msgstr "バフット語"
+
+msgid "Badaga"
+msgstr "バダガ語"
+
+msgid "Bulgarian"
+msgstr "ブルガリア語"
+
+msgid "Western Balochi"
+msgstr "西バローチー語"
+
+msgid "Bhojpuri"
+msgstr "ボージュプリー語"
+
+msgid "Bislama"
+msgstr "ビスラマ語"
+
+msgid "Bikol"
+msgstr "ビコル語"
+
+msgid "Bini"
+msgstr "ビニ語"
+
+msgid "Banjar"
+msgstr "バンジャル語"
+
+msgid "Kom"
+msgstr "コム語"
+
+msgid "Siksiká"
+msgstr "シクシカ語"
+
+msgid "Bambara"
+msgstr "バンバラ語"
+
+msgid "Bangla"
+msgstr "ベンガル語"
+
+msgid "Tibetan"
+msgstr "チベット語"
+
+msgid "Bishnupriya"
+msgstr "ビシュヌプリヤ・マニプリ語"
+
+msgid "Bakhtiari"
+msgstr "バフティヤーリー語"
+
+msgid "Breton"
+msgstr "ブルトン語"
+
+msgid "Braj"
+msgstr "ブラジ語"
+
+msgid "Brahui"
+msgstr "ブラフイ語"
+
+msgid "Bodo"
+msgstr "ボド語"
+
+msgid "Bosnian"
+msgstr "ボスニア語"
+
+msgid "Akoose"
+msgstr "アコース語"
+
+msgid "Buriat"
+msgstr "ブリヤート語"
+
+msgid "Buginese"
+msgstr "ブギ語"
+
+msgid "Bulu"
+msgstr "ブル語"
+
+msgid "Blin"
+msgstr "ビリン語"
+
+msgid "Medumba"
+msgstr "メドゥンバ語"
+
+msgid "Catalan"
+msgstr "カタロニア語"
+
+msgid "Caddo"
+msgstr "カドー語"
+
+msgid "Carib"
+msgstr "カリブ語"
+
+msgid "Cayuga"
+msgstr "カユーガ語"
+
+msgid "Atsam"
+msgstr "チャワイ語"
+
+msgid "Chakma"
+msgstr "チャクマ語"
+
+msgid "Chechen"
+msgstr "チェチェン語"
+
+msgid "Cebuano"
+msgstr "セブアノ語"
+
+msgid "Chiga"
+msgstr "チガ語"
+
+msgid "Chamorro"
+msgstr "チャモロ語"
+
+msgid "Chibcha"
+msgstr "チブチャ語"
+
+msgid "Chagatai"
+msgstr "チャガタイ語"
+
+msgid "Chuukese"
+msgstr "チューク語"
+
+msgid "Mari"
+msgstr "マリ語"
+
+msgid "Chinook Jargon"
+msgstr "チヌーク混成語"
+
+msgid "Choctaw"
+msgstr "チョクトー語"
+
+msgid "Chipewyan"
+msgstr "チペワイアン語"
+
+msgid "Cherokee"
+msgstr "チェロキー語"
+
+msgid "Cheyenne"
+msgstr "シャイアン語"
+
+msgid "Central Kurdish"
+msgstr "中央クルド語"
+
+msgid "Kurdish, Central"
+msgstr "クルド語（中央）"
+
+msgid "Kurdish, Sorani"
+msgstr "クルド語（ソラニー）"
+
+msgid "Chilcotin"
+msgstr "チルコーティン語"
+
+msgid "Corsican"
+msgstr "コルシカ語"
+
+msgid "Coptic"
+msgstr "コプト語"
+
+msgid "Capiznon"
+msgstr "カピス語"
+
+msgid "Cree"
+msgstr "クリー語"
+
+msgid "Michif"
+msgstr "ミチフ語"
+
+msgid "Crimean Tatar"
+msgstr "クリミア・タタール語"
+
+msgid "Southern East Cree"
+msgstr "東部クリー語(南部)"
+
+msgid "Plains Cree"
+msgstr "平原クリー語"
+
+msgid "Northern East Cree"
+msgstr "東部クリー語(北部)"
+
+msgid "Moose Cree"
+msgstr "ムースクリー語"
+
+msgid "Carolina Algonquian"
+msgstr "カロライナ・アルゴンキン語"
+
+msgid "Seselwa Creole French"
+msgstr "セーシェル・クレオール語"
+
+msgid "Czech"
+msgstr "チェコ語"
+
+msgid "Kashubian"
+msgstr "カシューブ語"
+
+msgid "Swampy Cree"
+msgstr "湿原クリー語"
+
+msgid "Church Slavic"
+msgstr "教会スラブ語"
+
+msgid "Chuvash"
+msgstr "チュヴァシ語"
+
+msgid "Welsh"
+msgstr "ウェールズ語"
+
+msgid "Danish"
+msgstr "デンマーク語"
+
+msgid "Dakota"
+msgstr "ダコタ語"
+
+msgid "Dargwa"
+msgstr "ダルグワ語"
+
+msgid "Taita"
+msgstr "タイタ語"
+
+msgid "German"
+msgstr "ドイツ語"
+
+msgid "Swiss High German"
+msgstr "標準ドイツ語 (スイス)"
+
+msgid "Delaware"
+msgstr "デラウェア語"
+
+msgid "Slave"
+msgstr "スレイビー語"
+
+msgid "Dogrib"
+msgstr "ドグリブ語"
+
+msgid "Dinka"
+msgstr "ディンカ語"
+
+msgid "Zarma"
+msgstr "ザルマ語"
+
+msgid "Dogri"
+msgstr "ドーグリー語"
+
+msgid "Lower Sorbian"
+msgstr "低地ソルブ語"
+
+msgid "Central Dusun"
+msgstr "中央ドゥスン語"
+
+msgid "Duala"
+msgstr "ドゥアラ語"
+
+msgid "Middle Dutch"
+msgstr "中世オランダ語"
+
+msgid "Divehi"
+msgstr "ディベヒ語"
+
+msgid "Jola-Fonyi"
+msgstr "ジョラ＝フォニィ語"
+
+msgid "Dyula"
+msgstr "ジュラ語"
+
+msgid "Dzongkha"
+msgstr "ゾンカ語"
+
+msgid "Dazaga"
+msgstr "ダザガ語"
+
+msgid "Embu"
+msgstr "エンブ語"
+
+msgid "Ewe"
+msgstr "エウェ語"
+
+msgid "Efik"
+msgstr "エフィク語"
+
+msgid "Emilian"
+msgstr "エミリア語"
+
+msgid "Ancient Egyptian"
+msgstr "古代エジプト語"
+
+msgid "Ekajuk"
+msgstr "エカジュク語"
+
+msgid "Greek"
+msgstr "ギリシャ語"
+
+msgid "Elamite"
+msgstr "エラム語"
+
+msgid "English"
+msgstr "英語"
+
+msgid "Australian English"
+msgstr "オーストラリア英語"
+
+msgid "Canadian English"
+msgstr "カナダ英語"
+
+msgid "British English"
+msgstr "イギリス英語"
+
+msgid "UK English"
+msgstr "英語(英国)"
+
+msgid "American English"
+msgstr "アメリカ英語"
+
+msgid "US English"
+msgstr "英語(米国)"
+
+msgid "Middle English"
+msgstr "中英語"
+
+msgid "Esperanto"
+msgstr "エスペラント語"
+
+msgid "Spanish"
+msgstr "スペイン語"
+
+msgid "European Spanish"
+msgstr "スペイン語 (イベリア半島)"
+
+msgid "Central Yupik"
+msgstr "中央アラスカ・ユピック語"
+
+msgid "Estonian"
+msgstr "エストニア語"
+
+msgid "Basque"
+msgstr "バスク語"
+
+msgid "Ewondo"
+msgstr "エウォンド語"
+
+msgid "Extremaduran"
+msgstr "エストレマドゥーラ語"
+
+msgid "Persian"
+msgstr "ペルシア語"
+
+msgid "Dari"
+msgstr "ダリー語"
+
+msgid "Fang"
+msgstr "ファング語"
+
+msgid "Fanti"
+msgstr "ファンティー語"
+
+msgid "Fula"
+msgstr "フラ語"
+
+msgid "Finnish"
+msgstr "フィンランド語"
+
+msgid "Filipino"
+msgstr "フィリピノ語"
+
+msgid "Tornedalen Finnish"
+msgstr "トルネダール・フィンランド語"
+
+msgid "Fijian"
+msgstr "フィジー語"
+
+msgid "Faroese"
+msgstr "フェロー語"
+
+msgid "Fon"
+msgstr "フォン語"
+
+msgid "French"
+msgstr "フランス語"
+
+msgid "Cajun French"
+msgstr "ケイジャン・フランス語"
+
+msgid "Middle French"
+msgstr "中期フランス語"
+
+msgid "Old French"
+msgstr "古フランス語"
+
+msgid "Arpitan"
+msgstr "アルピタン語"
+
+msgid "Northern Frisian"
+msgstr "北フリジア語"
+
+msgid "Eastern Frisian"
+msgstr "東フリジア語"
+
+msgid "Friulian"
+msgstr "フリウリ語"
+
+msgid "Western Frisian"
+msgstr "西フリジア語"
+
+msgid "Irish"
+msgstr "アイルランド語"
+
+msgid "Ga"
+msgstr "ガ語"
+
+msgid "Gagauz"
+msgstr "ガガウズ語"
+
+msgid "Gan Chinese"
+msgstr "贛語"
+
+msgid "Gayo"
+msgstr "ガヨ語"
+
+msgid "Gbaya"
+msgstr "バヤ語"
+
+msgid "Zoroastrian Dari"
+msgstr "ダリー語(ゾロアスター教)"
+
+msgid "Scottish Gaelic"
+msgstr "スコットランド・ゲール語"
+
+msgid "Geez"
+msgstr "ゲエズ語"
+
+msgid "Gilbertese"
+msgstr "キリバス語"
+
+msgid "Galician"
+msgstr "ガリシア語"
+
+msgid "Gilaki"
+msgstr "ギラキ語"
+
+msgid "Middle High German"
+msgstr "中高ドイツ語"
+
+msgid "Guarani"
+msgstr "グアラニー語"
+
+msgid "Old High German"
+msgstr "古高ドイツ語"
+
+msgid "Goan Konkani"
+msgstr "ゴア・コンカニ語"
+
+msgid "Gondi"
+msgstr "ゴーンディー語"
+
+msgid "Gorontalo"
+msgstr "ゴロンタロ語"
+
+msgid "Gothic"
+msgstr "ゴート語"
+
+msgid "Grebo"
+msgstr "グレボ語"
+
+msgid "Ancient Greek"
+msgstr "古代ギリシャ語"
+
+msgid "Swiss German"
+msgstr "スイスドイツ語"
+
+msgid "Gujarati"
+msgstr "グジャラート語"
+
+msgid "Wayuu"
+msgstr "ワユ語"
+
+msgid "Frafra"
+msgstr "フラフラ語"
+
+msgid "Gusii"
+msgstr "グシイ語"
+
+msgid "Manx"
+msgstr "マン島語"
+
+msgid "Gwichʼin"
+msgstr "グウィッチン語"
+
+msgid "Hausa"
+msgstr "ハウサ語"
+
+msgid "Haida"
+msgstr "ハイダ語"
+
+msgid "Hakka Chinese"
+msgstr "客家語"
+
+msgid "Hawaiian"
+msgstr "ハワイ語"
+
+msgid "Southern Haida"
+msgstr "南部ハイダ語"
+
+msgid "Hebrew"
+msgstr "ヘブライ語"
+
+msgid "Hindi"
+msgstr "ヒンディー語"
+
+msgid "Hindi (Latin)"
+msgstr "ヒンディー語 (ラテン文字)"
+
+msgid "Hinglish"
+msgstr "インド英語 (ヒングリッシュ)"
+
+msgid "Fiji Hindi"
+msgstr "フィジー・ヒンディー語"
+
+msgid "Hiligaynon"
+msgstr "ヒリガイノン語"
+
+msgid "Hittite"
+msgstr "ヒッタイト語"
+
+msgid "Hmong"
+msgstr "フモン語"
+
+msgid "Hiri Motu"
+msgstr "ヒリモツ語"
+
+msgid "Croatian"
+msgstr "クロアチア語"
+
+msgid "Upper Sorbian"
+msgstr "高地ソルブ語"
+
+msgid "Xiang Chinese"
+msgstr "湘語"
+
+msgid "Haitian Creole"
+msgstr "ハイチ・クレオール語"
+
+msgid "Hungarian"
+msgstr "ハンガリー語"
+
+msgid "Hupa"
+msgstr "フパ語"
+
+msgid "Halkomelem"
+msgstr "ハルコメレム語"
+
+msgid "Armenian"
+msgstr "アルメニア語"
+
+msgid "Herero"
+msgstr "ヘレロ語"
+
+msgid "Interlingua"
+msgstr "インターリングア"
+
+msgid "Iban"
+msgstr "イバン語"
+
+msgid "Ibibio"
+msgstr "イビビオ語"
+
+msgid "Indonesian"
+msgstr "インドネシア語"
+
+msgid "Interlingue"
+msgstr "インターリング"
+
+msgid "Igbo"
+msgstr "イボ語"
+
+msgid "Sichuan Yi"
+msgstr "四川イ語"
+
+msgid "Inupiaq"
+msgstr "イヌピアック語"
+
+msgid "Western Canadian Inuktitut"
+msgstr "イヌイナクトゥン語"
+
+msgid "Iloko"
+msgstr "イロカノ語"
+
+msgid "Ingush"
+msgstr "イングーシ語"
+
+msgid "Ido"
+msgstr "イド語"
+
+msgid "Icelandic"
+msgstr "アイスランド語"
+
+msgid "Italian"
+msgstr "イタリア語"
+
+msgid "Inuktitut"
+msgstr "イヌクティトット語"
+
+msgid "Ingrian"
+msgstr "イングリア語"
+
+msgid "Japanese"
+msgstr "日本語"
+
+msgid "Jamaican Creole English"
+msgstr "ジャマイカ・クレオール語"
+
+msgid "Lojban"
+msgstr "ロジバン語"
+
+msgid "Ngomba"
+msgstr "ンゴンバ語"
+
+msgid "Machame"
+msgstr "マチャメ語"
+
+msgid "Judeo-Persian"
+msgstr "ユダヤ・ペルシア語"
+
+msgid "Judeo-Arabic"
+msgstr "ユダヤ・アラビア語"
+
+msgid "Jutish"
+msgstr "ユトランド語"
+
+msgid "Javanese"
+msgstr "ジャワ語"
+
+msgid "Georgian"
+msgstr "ジョージア語"
+
+msgid "Kara-Kalpak"
+msgstr "カラカルパク語"
+
+msgid "Kabyle"
+msgstr "カビル語"
+
+msgid "Kachin"
+msgstr "カチン語"
+
+msgid "Jju"
+msgstr "カジェ語"
+
+msgid "Kamba"
+msgstr "カンバ語"
+
+msgid "Kawi"
+msgstr "カウィ語"
+
+msgid "Kabardian"
+msgstr "カバルド語"
+
+msgid "Kanembu"
+msgstr "カネンブ語"
+
+msgid "Tyap"
+msgstr "カタブ語"
+
+msgid "Makonde"
+msgstr "マコンデ語"
+
+msgid "Kabuverdianu"
+msgstr "カーボベルデ・クレオール語"
+
+msgid "Kenyang"
+msgstr "ニャン語"
+
+msgid "Koro"
+msgstr "コロ語"
+
+msgid "Kongo"
+msgstr "コンゴ語"
+
+msgid "Kaingang"
+msgstr "カインガング語"
+
+msgid "Khasi"
+msgstr "カシ語"
+
+msgid "Khotanese"
+msgstr "コータン語"
+
+msgid "Koyra Chiini"
+msgstr "コイラ・チーニ語"
+
+msgid "Khowar"
+msgstr "コワール語"
+
+msgid "Kikuyu"
+msgstr "キクユ語"
+
+msgid "Kirmanjki"
+msgstr "キルマンジュキ語"
+
+msgid "Kuanyama"
+msgstr "クワニャマ語"
+
+msgid "Kazakh"
+msgstr "カザフ語"
+
+msgid "Kako"
+msgstr "カコ語"
+
+msgid "Kalaallisut"
+msgstr "グリーンランド語"
+
+msgid "Kalenjin"
+msgstr "カレンジン語"
+
+msgid "Khmer"
+msgstr "クメール語"
+
+msgid "Kimbundu"
+msgstr "キンブンド語"
+
+msgid "Kannada"
+msgstr "カンナダ語"
+
+msgid "Korean"
+msgstr "韓国語"
+
+msgid "Komi-Permyak"
+msgstr "コミ・ペルミャク語"
+
+msgid "Konkani"
+msgstr "コンカニ語"
+
+msgid "Kosraean"
+msgstr "コスラエ語"
+
+msgid "Kpelle"
+msgstr "クペレ語"
+
+msgid "Kanuri"
+msgstr "カヌリ語"
+
+msgid "Karachay-Balkar"
+msgstr "カラチャイ・バルカル語"
+
+msgid "Krio"
+msgstr "クリオ語"
+
+msgid "Kinaray-a"
+msgstr "キナライア語"
+
+msgid "Karelian"
+msgstr "カレリア語"
+
+msgid "Kurukh"
+msgstr "クルク語"
+
+msgid "Kashmiri"
+msgstr "カシミール語"
+
+msgid "Shambala"
+msgstr "サンバー語"
+
+msgid "Bafia"
+msgstr "バフィア語"
+
+msgid "Colognian"
+msgstr "ケルン語"
+
+msgid "Kurdish"
+msgstr "クルド語"
+
+msgid "Kumyk"
+msgstr "クムク語"
+
+msgid "Kutenai"
+msgstr "クテナイ語"
+
+msgid "Komi"
+msgstr "コミ語"
+
+msgid "Cornish"
+msgstr "コーンウォール語"
+
+msgid "Kwakʼwala"
+msgstr "クヮキゥワラ語"
+
+msgid "Kyrgyz"
+msgstr "キルギス語"
+
+msgid "Latin"
+msgstr "ラテン語"
+
+msgid "Ladino"
+msgstr "ラディノ語"
+
+msgid "Langi"
+msgstr "ランギ語"
+
+msgid "Western Panjabi"
+msgstr "ラフンダー語"
+
+msgid "Lamba"
+msgstr "ランバ語"
+
+msgid "Luxembourgish"
+msgstr "ルクセンブルク語"
+
+msgid "Lezghian"
+msgstr "レズギ語"
+
+msgid "Lingua Franca Nova"
+msgstr "リングア・フランカ・ノバ"
+
+msgid "Ganda"
+msgstr "ガンダ語"
+
+msgid "Limburgish"
+msgstr "リンブルフ語"
+
+msgid "Ligurian"
+msgstr "リグリア語"
+
+msgid "Lillooet"
+msgstr "リルエット語"
+
+msgid "Livonian"
+msgstr "リヴォニア語"
+
+msgid "Lakota"
+msgstr "ラコタ語"
+
+msgid "Lombard"
+msgstr "ロンバルド語"
+
+msgid "Lingala"
+msgstr "リンガラ語"
+
+msgid "Lao"
+msgstr "ラオ語"
+
+msgid "Mongo"
+msgstr "モンゴ語"
+
+msgid "Louisiana Creole"
+msgstr "ルイジアナ・クレオール語"
+
+msgid "Lozi"
+msgstr "ロジ語"
+
+msgid "Northern Luri"
+msgstr "北ロル語"
+
+msgid "Saamia"
+msgstr "サーミア語"
+
+msgid "Lithuanian"
+msgstr "リトアニア語"
+
+msgid "Latgalian"
+msgstr "ラトガリア語"
+
+msgid "Luba-Katanga"
+msgstr "ルバ・カタンガ語"
+
+msgid "Luba-Lulua"
+msgstr "ルバ・ルルア語"
+
+msgid "Luiseno"
+msgstr "ルイセーニョ語"
+
+msgid "Lunda"
+msgstr "ルンダ語"
+
+msgid "Luo"
+msgstr "ルオ語"
+
+msgid "Mizo"
+msgstr "ミゾ語"
+
+msgid "Luyia"
+msgstr "ルヒヤ語"
+
+msgid "Latvian"
+msgstr "ラトビア語"
+
+msgid "Literary Chinese"
+msgstr "漢文"
+
+msgid "Laz"
+msgstr "ラズ語"
+
+msgid "Madurese"
+msgstr "マドゥラ語"
+
+msgid "Mafa"
+msgstr "マファ語"
+
+msgid "Magahi"
+msgstr "マガヒー語"
+
+msgid "Maithili"
+msgstr "マイティリー語"
+
+msgid "Makasar"
+msgstr "マカッサル語"
+
+msgid "Mandingo"
+msgstr "マンディンゴ語"
+
+msgid "Masai"
+msgstr "マサイ語"
+
+msgid "Maba"
+msgstr "マバ語"
+
+msgid "Moksha"
+msgstr "モクシャ語"
+
+msgid "Mandar"
+msgstr "マンダル語"
+
+msgid "Mende"
+msgstr "メンデ語"
+
+msgid "Meru"
+msgstr "メル語"
+
+msgid "Morisyen"
+msgstr "モーリシャス・クレオール語"
+
+msgid "Malagasy"
+msgstr "マダガスカル語"
+
+msgid "Middle Irish"
+msgstr "中期アイルランド語"
+
+msgid "Makhuwa-Meetto"
+msgstr "マクア・ミート語"
+
+msgid "Metaʼ"
+msgstr "メタ語"
+
+msgid "Marshallese"
+msgstr "マーシャル語"
+
+msgid "Māori"
+msgstr "マオリ語"
+
+msgid "Mi'kmaq"
+msgstr "ミクマク語"
+
+msgid "Minangkabau"
+msgstr "ミナンカバウ語"
+
+msgid "Macedonian"
+msgstr "マケドニア語"
+
+msgid "Malayalam"
+msgstr "マラヤーラム語"
+
+msgid "Mongolian"
+msgstr "モンゴル語"
+
+msgid "Manchu"
+msgstr "満州語"
+
+msgid "Manipuri"
+msgstr "マニプリ語"
+
+msgid "Innu-aimun"
+msgstr "イヌー＝アイムン語"
+
+msgid "Mohawk"
+msgstr "モーホーク語"
+
+msgid "Mossi"
+msgstr "モシ語"
+
+msgid "Marathi"
+msgstr "マラーティー語"
+
+msgid "Western Mari"
+msgstr "山地マリ語"
+
+msgid "Malay"
+msgstr "マレー語"
+
+msgid "Maltese"
+msgstr "マルタ語"
+
+msgid "Mundang"
+msgstr "ムンダン語"
+
+msgid "Multiple languages"
+msgstr "複数言語"
+
+msgid "Muscogee"
+msgstr "クリーク語"
+
+msgid "Mirandese"
+msgstr "ミランダ語"
+
+msgid "Marwari"
+msgstr "マールワーリー語"
+
+msgid "Mentawai"
+msgstr "メンタワイ語"
+
+msgid "Burmese"
+msgstr "ミャンマー語"
+
+msgid "Myene"
+msgstr "ミエネ語"
+
+msgid "Erzya"
+msgstr "エルジャ語"
+
+msgid "Mazanderani"
+msgstr "マーザンダラーン語"
+
+msgid "Nauru"
+msgstr "ナウル語"
+
+msgid "Min Nan Chinese"
+msgstr "閩南語"
+
+msgid "Neapolitan"
+msgstr "ナポリ語"
+
+msgid "Nama"
+msgstr "ナマ語"
+
+msgid "Norwegian Bokmål"
+msgstr "ノルウェー語(ブークモール)"
+
+msgid "North Ndebele"
+msgstr "北ンデベレ語"
+
+msgid "Low German"
+msgstr "低地ドイツ語"
+
+msgid "Nepali"
+msgstr "ネパール語"
+
+msgid "Newari"
+msgstr "ネワール語"
+
+msgid "Ndonga"
+msgstr "ンドンガ語"
+
+msgid "Nias"
+msgstr "ニアス語"
+
+msgid "Niuean"
+msgstr "ニウーエイ語"
+
+msgid "Ao Naga"
+msgstr "アオ・ナガ語"
+
+msgid "Dutch"
+msgstr "オランダ語"
+
+msgid "Flemish"
+msgstr "フラマン語"
+
+msgid "Kwasio"
+msgstr "クワシオ語"
+
+msgid "Norwegian Nynorsk"
+msgstr "ノルウェー語(ニーノシュク)"
+
+msgid "Ngiemboon"
+msgstr "ンジエムブーン語"
+
+msgid "Norwegian"
+msgstr "ノルウェー語"
+
+msgid "Nogai"
+msgstr "ノガイ語"
+
+msgid "Old Norse"
+msgstr "古ノルド語"
+
+msgid "Novial"
+msgstr "ノヴィアル"
+
+msgid "N’Ko"
+msgstr "ンコ語"
+
+msgid "South Ndebele"
+msgstr "南ンデベレ語"
+
+msgid "Northern Sotho"
+msgstr "北部ソト語"
+
+msgid "Nuer"
+msgstr "ヌエル語"
+
+msgid "Navajo"
+msgstr "ナバホ語"
+
+msgid "Classical Newari"
+msgstr "古典ネワール語"
+
+msgid "Nyanja"
+msgstr "ニャンジャ語"
+
+msgid "Nyamwezi"
+msgstr "ニャムウェジ語"
+
+msgid "Nyankole"
+msgstr "ニャンコレ語"
+
+msgid "Nyoro"
+msgstr "ニョロ語"
+
+msgid "Nzima"
+msgstr "ンゼマ語"
+
+msgid "Occitan"
+msgstr "オック語"
+
+msgid "Ojibwa"
+msgstr "オジブウェー語"
+
+msgid "Northwestern Ojibwa"
+msgstr "北西部オジブワ語"
+
+msgid "Central Ojibwa"
+msgstr "中部オジブワ語"
+
+msgid "Oji-Cree"
+msgstr "セヴァーン・オジブワ語"
+
+msgid "Western Ojibwa"
+msgstr "西部オジブワ語"
+
+msgid "Okanagan"
+msgstr "オカナガン語"
+
+msgid "Oromo"
+msgstr "オロモ語"
+
+msgid "Odia"
+msgstr "オディア語"
+
+msgid "Ossetic"
+msgstr "オセット語"
+
+msgid "Osage"
+msgstr "オセージ語"
+
+msgid "Ottoman Turkish"
+msgstr "オスマントルコ語"
+
+msgid "Punjabi"
+msgstr "パンジャブ語"
+
+msgid "Pangasinan"
+msgstr "パンガシナン語"
+
+msgid "Pahlavi"
+msgstr "パフラヴィー語"
+
+msgid "Pampanga"
+msgstr "パンパンガ語"
+
+msgid "Papiamento"
+msgstr "パピアメント語"
+
+msgid "Palauan"
+msgstr "パラオ語"
+
+msgid "Picard"
+msgstr "ピカルディ語"
+
+msgid "Nigerian Pidgin"
+msgstr "ナイジェリア・ピジン語"
+
+msgid "Pennsylvania German"
+msgstr "ペンシルベニア・ドイツ語"
+
+msgid "Plautdietsch"
+msgstr "メノナイト低地ドイツ語"
+
+msgid "Old Persian"
+msgstr "古代ペルシア語"
+
+msgid "Palatine German"
+msgstr "プファルツ語"
+
+msgid "Phoenician"
+msgstr "フェニキア語"
+
+msgid "Pali"
+msgstr "パーリ語"
+
+msgid "Pijin"
+msgstr "ピジン語"
+
+msgid "Polish"
+msgstr "ポーランド語"
+
+msgid "Piedmontese"
+msgstr "ピエモンテ語"
+
+msgid "Pontic"
+msgstr "ポントス・ギリシャ語"
+
+msgid "Pohnpeian"
+msgstr "ポンペイ語"
+
+msgid "Maliseet-Passamaquoddy"
+msgstr "マリシート＝パサマコディ語"
+
+msgid "Prussian"
+msgstr "プロシア語"
+
+msgid "Old Provençal"
+msgstr "古期プロバンス語"
+
+msgid "Pashto"
+msgstr "パシュトゥー語"
+
+msgid "Pushto"
+msgstr "パシュトゥ語"
+
+msgid "Portuguese"
+msgstr "ポルトガル語"
+
+msgid "European Portuguese"
+msgstr "ポルトガル語 (イベリア半島)"
+
+msgid "Quechua"
+msgstr "ケチュア語"
+
+msgid "Kʼicheʼ"
+msgstr "キチェ語"
+
+msgid "Chimborazo Highland Quichua"
+msgstr "チンボラソ高地ケチュア語"
+
+msgid "Rajasthani"
+msgstr "ラージャスターン語"
+
+msgid "Rapanui"
+msgstr "ラパヌイ語"
+
+msgid "Rarotongan"
+msgstr "ラロトンガ語"
+
+msgid "Romagnol"
+msgstr "ロマーニャ語"
+
+msgid "Rohingya"
+msgstr "ロヒンギャ語"
+
+msgid "Riffian"
+msgstr "リーフ語"
+
+msgid "Romansh"
+msgstr "ロマンシュ語"
+
+msgid "Rundi"
+msgstr "ルンディ語"
+
+msgid "Romanian"
+msgstr "ルーマニア語"
+
+msgid "Moldavian"
+msgstr "モルダビア語"
+
+msgid "Rombo"
+msgstr "ロンボ語"
+
+msgid "Romany"
+msgstr "ロマーニー語"
+
+msgid "Rotuman"
+msgstr "ロツマ語"
+
+msgid "Russian"
+msgstr "ロシア語"
+
+msgid "Rusyn"
+msgstr "ルシン語"
+
+msgid "Roviana"
+msgstr "ロヴィアナ語"
+
+msgid "Aromanian"
+msgstr "アルーマニア語"
+
+msgid "Kinyarwanda"
+msgstr "キニアルワンダ語"
+
+msgid "Rwa"
+msgstr "ルワ語"
+
+msgid "Sanskrit"
+msgstr "サンスクリット語"
+
+msgid "Sandawe"
+msgstr "サンダウェ語"
+
+msgid "Yakut"
+msgstr "サハ語"
+
+msgid "Samaritan Aramaic"
+msgstr "サマリア・アラム語"
+
+msgid "Samburu"
+msgstr "サンブル語"
+
+msgid "Sasak"
+msgstr "ササク語"
+
+msgid "Santali"
+msgstr "サンターリー語"
+
+msgid "Saurashtra"
+msgstr "サウラーシュトラ語"
+
+msgid "Ngambay"
+msgstr "ンガムバイ語"
+
+msgid "Sangu"
+msgstr "サング語"
+
+msgid "Sardinian"
+msgstr "サルデーニャ語"
+
+msgid "Sicilian"
+msgstr "シチリア語"
+
+msgid "Scots"
+msgstr "スコットランド語"
+
+msgid "Sindhi"
+msgstr "シンド語"
+
+msgid "Sassarese Sardinian"
+msgstr "サッサリ・サルデーニャ語"
+
+msgid "Southern Kurdish"
+msgstr "南部クルド語"
+
+msgid "Northern Sami"
+msgstr "北サーミ語"
+
+msgid "Seneca"
+msgstr "セネカ語"
+
+msgid "Sena"
+msgstr "セナ語"
+
+msgid "Seri"
+msgstr "セリ語"
+
+msgid "Selkup"
+msgstr "セリクプ語"
+
+msgid "Koyraboro Senni"
+msgstr "コイラボロ・センニ語"
+
+msgid "Sango"
+msgstr "サンゴ語"
+
+msgid "Old Irish"
+msgstr "古アイルランド語"
+
+msgid "Samogitian"
+msgstr "サモギティア語"
+
+msgid "Serbo-Croatian"
+msgstr "セルボ・クロアチア語"
+
+msgid "Tachelhit"
+msgstr "タシルハイト語"
+
+msgid "Shan"
+msgstr "シャン語"
+
+msgid "Chadian Arabic"
+msgstr "チャド・アラビア語"
+
+msgid "Sinhala"
+msgstr "シンハラ語"
+
+msgid "Sidamo"
+msgstr "シダモ語"
+
+msgid "Slovak"
+msgstr "スロバキア語"
+
+msgid "Slovenian"
+msgstr "スロベニア語"
+
+msgid "Southern Lushootseed"
+msgstr "南部ルシュツィード語"
+
+msgid "Lower Silesian"
+msgstr "低シレジア語"
+
+msgid "Selayar"
+msgstr "スラヤール語"
+
+msgid "Samoan"
+msgstr "サモア語"
+
+msgid "Southern Sami"
+msgstr "南サーミ語"
+
+msgid "Lule Sami"
+msgstr "ルレ・サーミ語"
+
+msgid "Inari Sami"
+msgstr "イナリ・サーミ語"
+
+msgid "Skolt Sami"
+msgstr "スコルト・サーミ語"
+
+msgid "Shona"
+msgstr "ショナ語"
+
+msgid "Soninke"
+msgstr "ソニンケ語"
+
+msgid "Somali"
+msgstr "ソマリ語"
+
+msgid "Sogdien"
+msgstr "ソグド語"
+
+msgid "Albanian"
+msgstr "アルバニア語"
+
+msgid "Serbian"
+msgstr "セルビア語"
+
+msgid "Sranan Tongo"
+msgstr "スリナム語"
+
+msgid "Serer"
+msgstr "セレル語"
+
+msgid "Swati"
+msgstr "スワジ語"
+
+msgid "Saho"
+msgstr "サホ語"
+
+msgid "Southern Sotho"
+msgstr "南部ソト語"
+
+msgid "Saterland Frisian"
+msgstr "ザーターフリジア語"
+
+msgid "Straits Salish"
+msgstr "ストレイツセイリッシュ語"
+
+msgid "Sundanese"
+msgstr "スンダ語"
+
+msgid "Sukuma"
+msgstr "スクマ語"
+
+msgid "Susu"
+msgstr "スス語"
+
+msgid "Sumerian"
+msgstr "シュメール語"
+
+msgid "Swedish"
+msgstr "スウェーデン語"
+
+msgid "Swahili"
+msgstr "スワヒリ語"
+
+msgid "Congo Swahili"
+msgstr "コンゴ・スワヒリ語"
+
+msgid "Comorian"
+msgstr "コモロ語"
+
+msgid "Classical Syriac"
+msgstr "古典シリア語"
+
+msgid "Syriac"
+msgstr "シリア語"
+
+msgid "Silesian"
+msgstr "シレジア語"
+
+msgid "Tamil"
+msgstr "タミル語"
+
+msgid "Southern Tutchone"
+msgstr "南部トゥショーニ語"
+
+msgid "Tulu"
+msgstr "トゥル語"
+
+msgid "Telugu"
+msgstr "テルグ語"
+
+msgid "Timne"
+msgstr "テムネ語"
+
+msgid "Teso"
+msgstr "テソ語"
+
+msgid "Tereno"
+msgstr "テレーノ語"
+
+msgid "Tetum"
+msgstr "テトゥン語"
+
+msgid "Tajik"
+msgstr "タジク語"
+
+msgid "Tagish"
+msgstr "タギシュ語"
+
+msgid "Thai"
+msgstr "タイ語"
+
+msgid "Tahltan"
+msgstr "タールタン語"
+
+msgid "Tigrinya"
+msgstr "ティグリニア語"
+
+msgid "Tigre"
+msgstr "ティグレ語"
+
+msgid "Tiv"
+msgstr "ティブ語"
+
+msgid "Turkmen"
+msgstr "トルクメン語"
+
+msgid "Tokelau"
+msgstr "トケラウ語"
+
+msgid "Tsakhur"
+msgstr "ツァフル語"
+
+msgid "Tagalog"
+msgstr "タガログ語"
+
+msgid "Klingon"
+msgstr "クリンゴン語"
+
+msgid "Tlingit"
+msgstr "トリンギット語"
+
+msgid "Talysh"
+msgstr "タリシュ語"
+
+msgid "Tamashek"
+msgstr "タマシェク語"
+
+msgid "Tswana"
+msgstr "ツワナ語"
+
+msgid "Tongan"
+msgstr "トンガ語"
+
+msgid "Nyasa Tonga"
+msgstr "トンガ語(ニアサ)"
+
+msgid "Toki Pona"
+msgstr "トキポナ語"
+
+msgid "Tok Pisin"
+msgstr "トク・ピシン語"
+
+msgid "Turkish"
+msgstr "トルコ語"
+
+msgid "Turoyo"
+msgstr "トゥロヨ語"
+
+msgid "Taroko"
+msgstr "タロコ語"
+
+msgid "Tsonga"
+msgstr "ツォンガ語"
+
+msgid "Tsakonian"
+msgstr "ツァコン語"
+
+msgid "Tsimshian"
+msgstr "チムシュ語"
+
+msgid "Tatar"
+msgstr "タタール語"
+
+msgid "Northern Tutchone"
+msgstr "北部トゥショーニ語"
+
+msgid "Muslim Tat"
+msgstr "ムスリム・タタール語"
+
+msgid "Tumbuka"
+msgstr "トゥンブカ語"
+
+msgid "Tuvalu"
+msgstr "ツバル語"
+
+msgid "Twi"
+msgstr "トウィ語"
+
+msgid "Tasawaq"
+msgstr "タサワク語"
+
+msgid "Tahitian"
+msgstr "タヒチ語"
+
+msgid "Tuvinian"
+msgstr "トゥヴァ語"
+
+msgid "Central Atlas Tamazight"
+msgstr "中央アトラス・タマジクト語"
+
+msgid "Udmurt"
+msgstr "ウドムルト語"
+
+msgid "Uyghur"
+msgstr "ウイグル語"
+
+msgid "Uighur"
+msgstr "ウィグル語"
+
+msgid "Ugaritic"
+msgstr "ウガリト語"
+
+msgid "Ukrainian"
+msgstr "ウクライナ語"
+
+msgid "Umbundu"
+msgstr "ムブンドゥ語"
+
+msgid "Unknown language"
+msgstr "言語不明"
+
+msgid "Urdu"
+msgstr "ウルドゥー語"
+
+msgid "Uzbek"
+msgstr "ウズベク語"
+
+msgid "Vai"
+msgstr "ヴァイ語"
+
+msgid "Venda"
+msgstr "ベンダ語"
+
+msgid "Venetian"
+msgstr "ヴェネト語"
+
+msgid "Veps"
+msgstr "ヴェプス語"
+
+msgid "Vietnamese"
+msgstr "ベトナム語"
+
+msgid "West Flemish"
+msgstr "西フラマン語"
+
+msgid "Main-Franconian"
+msgstr "マインフランク語"
+
+msgid "Volapük"
+msgstr "ヴォラピュク語"
+
+msgid "Votic"
+msgstr "ヴォート語"
+
+msgid "Võro"
+msgstr "ヴォロ語"
+
+msgid "Vunjo"
+msgstr "ヴンジョ語"
+
+msgid "Walloon"
+msgstr "ワロン語"
+
+msgid "Walser"
+msgstr "ヴァリス語"
+
+msgid "Wolaytta"
+msgstr "ウォライタ語"
+
+msgid "Waray"
+msgstr "ワライ語"
+
+msgid "Washo"
+msgstr "ワショ語"
+
+msgid "Warlpiri"
+msgstr "ワルピリ語"
+
+msgid "Wolof"
+msgstr "ウォロフ語"
+
+msgid "Wu Chinese"
+msgstr "呉語"
+
+msgid "Kalmyk"
+msgstr "カルムイク語"
+
+msgid "Xhosa"
+msgstr "コサ語"
+
+msgid "Mingrelian"
+msgstr "メグレル語"
+
+msgid "Soga"
+msgstr "ソガ語"
+
+msgid "Yao"
+msgstr "ヤオ語"
+
+msgid "Yapese"
+msgstr "ヤップ語"
+
+msgid "Yangben"
+msgstr "ヤンベン語"
+
+msgid "Yemba"
+msgstr "イエンバ語"
+
+msgid "Yiddish"
+msgstr "イディッシュ語"
+
+msgid "Yoruba"
+msgstr "ヨルバ語"
+
+msgid "Nheengatu"
+msgstr "ニェエンガトゥ語"
+
+msgid "Cantonese"
+msgstr "広東語"
+
+msgid "Chinese, Cantonese"
+msgstr "中国語 (広東語)"
+
+msgid "Zhuang"
+msgstr "チワン語"
+
+msgid "Zapotec"
+msgstr "サポテカ語"
+
+msgid "Blissymbols"
+msgstr "ブリスシンボル"
+
+msgid "Zeelandic"
+msgstr "ゼーラント語"
+
+msgid "Zenaga"
+msgstr "ゼナガ語"
+
+msgid "Standard Moroccan Tamazight"
+msgstr "標準モロッコ タマジクト語"
+
+msgid "Chinese"
+msgstr "中国語"
+
+msgid "Chinese, Mandarin"
+msgstr "中国語 (標準語)"
+
+msgid "Simplified Chinese"
+msgstr "簡体中国語"
+
+msgid "Simplified Mandarin Chinese"
+msgstr "標準中国語 (簡体字)"
+
+msgid "Traditional Chinese"
+msgstr "繁体中国語"
+
+msgid "Traditional Mandarin Chinese"
+msgstr "標準中国語 (繁体字)"
+
+msgid "Zulu"
+msgstr "ズールー語"
+
+msgid "Zuni"
+msgstr "ズニ語"
+
+msgid "No linguistic content"
+msgstr "言語的内容なし"
+
+msgid "Zaza"
+msgstr "ザザ語"

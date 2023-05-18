@@ -1,0 +1,1978 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dialect-cldr-langs\n"
+"Language: lt\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Afar"
+msgstr "afarų"
+
+msgid "Abkhazian"
+msgstr "abchazų"
+
+msgid "Achinese"
+msgstr "ačinezų"
+
+msgid "Acoli"
+msgstr "akolių"
+
+msgid "Adangme"
+msgstr "adangmų"
+
+msgid "Adyghe"
+msgstr "adygėjų"
+
+msgid "Avestan"
+msgstr "avestų"
+
+msgid "Tunisian Arabic"
+msgstr "Tuniso arabų"
+
+msgid "Afrikaans"
+msgstr "afrikanų"
+
+msgid "Afrihili"
+msgstr "afrihili"
+
+msgid "Aghem"
+msgstr "aghemų"
+
+msgid "Ainu"
+msgstr "ainų"
+
+msgid "Akan"
+msgstr "akanų"
+
+msgid "Akkadian"
+msgstr "akadianų"
+
+msgid "Alabama"
+msgstr "alabamiečių"
+
+msgid "Aleut"
+msgstr "aleutų"
+
+msgid "Gheg Albanian"
+msgstr "albanų kalbos gegų tarmė"
+
+msgid "Southern Altai"
+msgstr "pietų Altajaus"
+
+msgid "Amharic"
+msgstr "amharų"
+
+msgid "Aragonese"
+msgstr "aragonesų"
+
+msgid "Old English"
+msgstr "senoji anglų"
+
+msgid "Obolo"
+msgstr "obolų"
+
+msgid "Angika"
+msgstr "angikų"
+
+msgid "Arabic"
+msgstr "arabų"
+
+msgid "Modern Standard Arabic"
+msgstr "šiuolaikinė standartinė arabų"
+
+msgid "Aramaic"
+msgstr "aramaikų"
+
+msgid "Mapuche"
+msgstr "mapudungunų"
+
+msgid "Araona"
+msgstr "araonų"
+
+msgid "Arapaho"
+msgstr "arapahų"
+
+msgid "Algerian Arabic"
+msgstr "Alžyro arabų"
+
+msgid "Najdi Arabic"
+msgstr "arabų najdi"
+
+msgid "Arawak"
+msgstr "aravakų"
+
+msgid "Moroccan Arabic"
+msgstr "Maroko arabų"
+
+msgid "Egyptian Arabic"
+msgstr "Egipto arabų"
+
+msgid "Assamese"
+msgstr "asamų"
+
+msgid "Asu"
+msgstr "asu"
+
+msgid "American Sign Language"
+msgstr "Amerikos ženklų kalba"
+
+msgid "Asturian"
+msgstr "asturianų"
+
+msgid "Atikamekw"
+msgstr "atikamekų"
+
+msgid "Avaric"
+msgstr "avarikų"
+
+msgid "Kotava"
+msgstr "kotava"
+
+msgid "Awadhi"
+msgstr "avadhi"
+
+msgid "Aymara"
+msgstr "aimarų"
+
+msgid "Azerbaijani"
+msgstr "azerbaidžaniečių"
+
+msgid "Azeri"
+msgstr "azeri"
+
+msgid "Bashkir"
+msgstr "baškirų"
+
+msgid "Baluchi"
+msgstr "baluči"
+
+msgid "Balinese"
+msgstr "baliečių"
+
+msgid "Bavarian"
+msgstr "bavarų"
+
+msgid "Basaa"
+msgstr "basų"
+
+msgid "Bamun"
+msgstr "bamunų"
+
+msgid "Batak Toba"
+msgstr "batak toba"
+
+msgid "Ghomala"
+msgstr "ghomalų"
+
+msgid "Belarusian"
+msgstr "baltarusių"
+
+msgid "Beja"
+msgstr "bėjų"
+
+msgid "Bemba"
+msgstr "bembų"
+
+msgid "Betawi"
+msgstr "betavi"
+
+msgid "Bena"
+msgstr "benų"
+
+msgid "Bafut"
+msgstr "bafutų"
+
+msgid "Badaga"
+msgstr "badaga"
+
+msgid "Bulgarian"
+msgstr "bulgarų"
+
+msgid "Western Balochi"
+msgstr "vakarų beludžių"
+
+msgid "Bhojpuri"
+msgstr "baučpuri"
+
+msgid "Bislama"
+msgstr "bislama"
+
+msgid "Bikol"
+msgstr "bikolų"
+
+msgid "Bini"
+msgstr "bini"
+
+msgid "Banjar"
+msgstr "bandžarų"
+
+msgid "Kom"
+msgstr "komų"
+
+msgid "Siksiká"
+msgstr "siksikų"
+
+msgid "Bambara"
+msgstr "bambarų"
+
+msgid "Bangla"
+msgstr "bengalų"
+
+msgid "Tibetan"
+msgstr "tibetiečių"
+
+msgid "Bishnupriya"
+msgstr "bišnuprijos"
+
+msgid "Bakhtiari"
+msgstr "bakhtiari"
+
+msgid "Breton"
+msgstr "bretonų"
+
+msgid "Braj"
+msgstr "brajų"
+
+msgid "Brahui"
+msgstr "brahujų"
+
+msgid "Bodo"
+msgstr "bodo"
+
+msgid "Bosnian"
+msgstr "bosnių"
+
+msgid "Akoose"
+msgstr "akūsų"
+
+msgid "Buriat"
+msgstr "buriatų"
+
+msgid "Buginese"
+msgstr "buginezų"
+
+msgid "Bulu"
+msgstr "bulu"
+
+msgid "Blin"
+msgstr "blin"
+
+msgid "Medumba"
+msgstr "medumbų"
+
+msgid "Catalan"
+msgstr "katalonų"
+
+msgid "Caddo"
+msgstr "kado"
+
+msgid "Carib"
+msgstr "karibų"
+
+msgid "Cayuga"
+msgstr "kaijūgų"
+
+msgid "Atsam"
+msgstr "atsamų"
+
+msgid "Chakma"
+msgstr "Čakma"
+
+msgid "Chechen"
+msgstr "čečėnų"
+
+msgid "Cebuano"
+msgstr "sebuanų"
+
+msgid "Chiga"
+msgstr "čigų"
+
+msgid "Chamorro"
+msgstr "čamorų"
+
+msgid "Chibcha"
+msgstr "čibčų"
+
+msgid "Chagatai"
+msgstr "čagatų"
+
+msgid "Chuukese"
+msgstr "čukesų"
+
+msgid "Mari"
+msgstr "marių"
+
+msgid "Chinook Jargon"
+msgstr "činuk žargonas"
+
+msgid "Choctaw"
+msgstr "čoktau"
+
+msgid "Chipewyan"
+msgstr "čipvėjų"
+
+msgid "Cherokee"
+msgstr "čerokių"
+
+msgid "Cheyenne"
+msgstr "čajenų"
+
+msgid "Central Kurdish"
+msgstr "soranių kurdų"
+
+msgid "Kurdish, Central"
+msgstr "soranių kurdų"
+
+msgid "Kurdish, Sorani"
+msgstr "soranių kurdų"
+
+msgid "Chilcotin"
+msgstr "čilkotinų"
+
+msgid "Corsican"
+msgstr "korsikiečių"
+
+msgid "Coptic"
+msgstr "koptų"
+
+msgid "Capiznon"
+msgstr "capiznon"
+
+msgid "Cree"
+msgstr "kry"
+
+msgid "Michif"
+msgstr "metisų"
+
+msgid "Crimean Tatar"
+msgstr "Krymo turkų"
+
+msgid "Southern East Cree"
+msgstr "pietryčių kri"
+
+msgid "Plains Cree"
+msgstr "supraprastinta kri"
+
+msgid "Northern East Cree"
+msgstr "šiaurės rytų kri"
+
+msgid "Moose Cree"
+msgstr "muskri"
+
+msgid "Carolina Algonquian"
+msgstr "pamlikų"
+
+msgid "Seselwa Creole French"
+msgstr "Seišelių kreolų ir prancūzų"
+
+msgid "Czech"
+msgstr "čekų"
+
+msgid "Kashubian"
+msgstr "kašubų"
+
+msgid "Swampy Cree"
+msgstr "pelkynų kri"
+
+msgid "Church Slavic"
+msgstr "bažnytinė slavų"
+
+msgid "Chuvash"
+msgstr "čiuvašų"
+
+msgid "Welsh"
+msgstr "valų"
+
+msgid "Danish"
+msgstr "danų"
+
+msgid "Dakota"
+msgstr "dakotų"
+
+msgid "Dargwa"
+msgstr "dargva"
+
+msgid "Taita"
+msgstr "taitų"
+
+msgid "German"
+msgstr "vokiečių"
+
+msgid "Austrian German"
+msgstr "Austrijos vokiečių"
+
+msgid "Swiss High German"
+msgstr "Šveicarijos aukštutinė vokiečių"
+
+msgid "Delaware"
+msgstr "delavero"
+
+msgid "Slave"
+msgstr "slave"
+
+msgid "Dogrib"
+msgstr "dogribų"
+
+msgid "Dinka"
+msgstr "dinkų"
+
+msgid "Zarma"
+msgstr "zarmų"
+
+msgid "Dogri"
+msgstr "dogri"
+
+msgid "Lower Sorbian"
+msgstr "žemutinių sorbų"
+
+msgid "Central Dusun"
+msgstr "centrinio Dusuno"
+
+msgid "Duala"
+msgstr "dualų"
+
+msgid "Middle Dutch"
+msgstr "Vidurio Vokietijos"
+
+msgid "Divehi"
+msgstr "divehų"
+
+msgid "Jola-Fonyi"
+msgstr "džiola-foni"
+
+msgid "Dyula"
+msgstr "dyulų"
+
+msgid "Dzongkha"
+msgstr "botijų"
+
+msgid "Dazaga"
+msgstr "dazagų"
+
+msgid "Embu"
+msgstr "embu"
+
+msgid "Ewe"
+msgstr "evių"
+
+msgid "Efik"
+msgstr "efik"
+
+msgid "Emilian"
+msgstr "italų kalbos Emilijos tarmė"
+
+msgid "Ancient Egyptian"
+msgstr "senovės egiptiečių"
+
+msgid "Ekajuk"
+msgstr "ekajuk"
+
+msgid "Greek"
+msgstr "graikų"
+
+msgid "Elamite"
+msgstr "elamitų"
+
+msgid "English"
+msgstr "anglų"
+
+msgid "Australian English"
+msgstr "Australijos anglų"
+
+msgid "Canadian English"
+msgstr "Kanados anglų"
+
+msgid "British English"
+msgstr "Didžiosios Britanijos anglų"
+
+msgid "UK English"
+msgstr "anglų (JK)"
+
+msgid "American English"
+msgstr "Jungtinių Valstijų anglų"
+
+msgid "US English"
+msgstr "anglų (JAV)"
+
+msgid "Middle English"
+msgstr "Vidurio Anglijos"
+
+msgid "Esperanto"
+msgstr "esperanto"
+
+msgid "Spanish"
+msgstr "ispanų"
+
+msgid "Latin American Spanish"
+msgstr "Lotynų Amerikos ispanų"
+
+msgid "European Spanish"
+msgstr "Europos ispanų"
+
+msgid "Mexican Spanish"
+msgstr "Meksikos ispanų"
+
+msgid "Central Yupik"
+msgstr "centrinės Aliaskos jupikų"
+
+msgid "Estonian"
+msgstr "estų"
+
+msgid "Basque"
+msgstr "baskų"
+
+msgid "Ewondo"
+msgstr "evondo"
+
+msgid "Extremaduran"
+msgstr "ispanų kalbos Ekstremadūros tarmė"
+
+msgid "Persian"
+msgstr "persų"
+
+msgid "Fang"
+msgstr "fangų"
+
+msgid "Fanti"
+msgstr "fanti"
+
+msgid "Fula"
+msgstr "fulahų"
+
+msgid "Finnish"
+msgstr "suomių"
+
+msgid "Filipino"
+msgstr "filipiniečių"
+
+msgid "Tornedalen Finnish"
+msgstr "suomių kalbos Tornedalio tarmė"
+
+msgid "Fijian"
+msgstr "fidžių"
+
+msgid "Faroese"
+msgstr "farerų"
+
+msgid "Fon"
+msgstr "fon"
+
+msgid "French"
+msgstr "prancūzų"
+
+msgid "Canadian French"
+msgstr "Kanados prancūzų"
+
+msgid "Swiss French"
+msgstr "Šveicarijos prancūzų"
+
+msgid "Cajun French"
+msgstr "kadžunų prancūzų"
+
+msgid "Middle French"
+msgstr "Vidurio Prancūzijos"
+
+msgid "Old French"
+msgstr "senoji prancūzų"
+
+msgid "Arpitan"
+msgstr "arpitano"
+
+msgid "Northern Frisian"
+msgstr "šiaurinių fryzų"
+
+msgid "Eastern Frisian"
+msgstr "rytų fryzų"
+
+msgid "Friulian"
+msgstr "friulių"
+
+msgid "Western Frisian"
+msgstr "vakarų fryzų"
+
+msgid "Irish"
+msgstr "airių"
+
+msgid "Ga"
+msgstr "ga"
+
+msgid "Gagauz"
+msgstr "gagaūzų"
+
+msgid "Gan Chinese"
+msgstr "kinų kalbos dziangsi tarmė"
+
+msgid "Gayo"
+msgstr "gajo"
+
+msgid "Gbaya"
+msgstr "gbaja"
+
+msgid "Zoroastrian Dari"
+msgstr "zoroastrų dari"
+
+msgid "Scottish Gaelic"
+msgstr "škotų (gėlų)"
+
+msgid "Geez"
+msgstr "gyz"
+
+msgid "Gilbertese"
+msgstr "kiribati"
+
+msgid "Galician"
+msgstr "galisų"
+
+msgid "Gilaki"
+msgstr "gilaki"
+
+msgid "Middle High German"
+msgstr "Vidurio Aukštosios Vokietijos"
+
+msgid "Guarani"
+msgstr "gvaranių"
+
+msgid "Old High German"
+msgstr "senoji Aukštosios Vokietijos"
+
+msgid "Goan Konkani"
+msgstr "Goa konkanių"
+
+msgid "Gondi"
+msgstr "gondi"
+
+msgid "Gorontalo"
+msgstr "gorontalo"
+
+msgid "Gothic"
+msgstr "gotų"
+
+msgid "Grebo"
+msgstr "grebo"
+
+msgid "Ancient Greek"
+msgstr "senovės graikų"
+
+msgid "Swiss German"
+msgstr "Šveicarijos vokiečių"
+
+msgid "Gujarati"
+msgstr "gudžaratų"
+
+msgid "Wayuu"
+msgstr "vajų"
+
+msgid "Frafra"
+msgstr "frafra"
+
+msgid "Gusii"
+msgstr "gusi"
+
+msgid "Manx"
+msgstr "meniečių"
+
+msgid "Gwichʼin"
+msgstr "gvičino"
+
+msgid "Hausa"
+msgstr "hausų"
+
+msgid "Haida"
+msgstr "haido"
+
+msgid "Hakka Chinese"
+msgstr "kinų kalbos hakų tarmė"
+
+msgid "Hawaiian"
+msgstr "havajiečių"
+
+msgid "Southern Haida"
+msgstr "Pietų Haidos"
+
+msgid "Hebrew"
+msgstr "hebrajų"
+
+msgid "Hindi"
+msgstr "hindi"
+
+msgid "Fiji Hindi"
+msgstr "Fidžio hindi"
+
+msgid "Hiligaynon"
+msgstr "hiligainonų"
+
+msgid "Hittite"
+msgstr "hititų"
+
+msgid "Hmong"
+msgstr "hmong"
+
+msgid "Hiri Motu"
+msgstr "hiri motu"
+
+msgid "Croatian"
+msgstr "kroatų"
+
+msgid "Upper Sorbian"
+msgstr "aukštutinių sorbų"
+
+msgid "Xiang Chinese"
+msgstr "kinų kalbos hunano tarmė"
+
+msgid "Haitian Creole"
+msgstr "Haičio"
+
+msgid "Hungarian"
+msgstr "vengrų"
+
+msgid "Hupa"
+msgstr "hupa"
+
+msgid "Halkomelem"
+msgstr "halkomelemų"
+
+msgid "Armenian"
+msgstr "armėnų"
+
+msgid "Herero"
+msgstr "hererų"
+
+msgid "Interlingua"
+msgstr "tarpinė"
+
+msgid "Iban"
+msgstr "iban"
+
+msgid "Ibibio"
+msgstr "ibibijų"
+
+msgid "Indonesian"
+msgstr "indoneziečių"
+
+msgid "Interlingue"
+msgstr "interkalba"
+
+msgid "Igbo"
+msgstr "igbų"
+
+msgid "Sichuan Yi"
+msgstr "sičuan ji"
+
+msgid "Inupiaq"
+msgstr "inupiakų"
+
+msgid "Western Canadian Inuktitut"
+msgstr "vakarų kanadiečių inuktitutas"
+
+msgid "Iloko"
+msgstr "ilokų"
+
+msgid "Ingush"
+msgstr "ingušų"
+
+msgid "Ido"
+msgstr "ido"
+
+msgid "Icelandic"
+msgstr "islandų"
+
+msgid "Italian"
+msgstr "italų"
+
+msgid "Inuktitut"
+msgstr "inukitut"
+
+msgid "Ingrian"
+msgstr "ingrų"
+
+msgid "Japanese"
+msgstr "japonų"
+
+msgid "Jamaican Creole English"
+msgstr "Jamaikos kreolų anglų"
+
+msgid "Lojban"
+msgstr "loiban"
+
+msgid "Ngomba"
+msgstr "ngombų"
+
+msgid "Machame"
+msgstr "mačamų"
+
+msgid "Judeo-Persian"
+msgstr "judėjų persų"
+
+msgid "Judeo-Arabic"
+msgstr "judėjų arabų"
+
+msgid "Jutish"
+msgstr "danų kalbos jutų tarmė"
+
+msgid "Javanese"
+msgstr "javiečių"
+
+msgid "Georgian"
+msgstr "gruzinų"
+
+msgid "Kara-Kalpak"
+msgstr "karakalpakų"
+
+msgid "Kabyle"
+msgstr "kebailų"
+
+msgid "Kachin"
+msgstr "kačinų"
+
+msgid "Jju"
+msgstr "ju"
+
+msgid "Kamba"
+msgstr "kembų"
+
+msgid "Kawi"
+msgstr "kavių"
+
+msgid "Kabardian"
+msgstr "kabardinų"
+
+msgid "Kanembu"
+msgstr "kanembų"
+
+msgid "Tyap"
+msgstr "tyap"
+
+msgid "Makonde"
+msgstr "makondų"
+
+msgid "Kabuverdianu"
+msgstr "Žaliojo Kyšulio kreolų"
+
+msgid "Kenyang"
+msgstr "kenyang"
+
+msgid "Koro"
+msgstr "koro"
+
+msgid "Kongo"
+msgstr "Kongo"
+
+msgid "Kaingang"
+msgstr "kaingang"
+
+msgid "Khasi"
+msgstr "kasi"
+
+msgid "Khotanese"
+msgstr "kotanezų"
+
+msgid "Koyra Chiini"
+msgstr "kojra čini"
+
+msgid "Khowar"
+msgstr "khovarų"
+
+msgid "Kikuyu"
+msgstr "kikujų"
+
+msgid "Kirmanjki"
+msgstr "kirmanjki"
+
+msgid "Kuanyama"
+msgstr "kuaniama"
+
+msgid "Kazakh"
+msgstr "kazachų"
+
+msgid "Kako"
+msgstr "kako"
+
+msgid "Kalaallisut"
+msgstr "kalalisut"
+
+msgid "Kalenjin"
+msgstr "kalenjinų"
+
+msgid "Khmer"
+msgstr "khmerų"
+
+msgid "Kimbundu"
+msgstr "kimbundu"
+
+msgid "Kannada"
+msgstr "kanadų"
+
+msgid "Korean"
+msgstr "korėjiečių"
+
+msgid "Komi-Permyak"
+msgstr "komių-permių"
+
+msgid "Konkani"
+msgstr "konkanių"
+
+msgid "Kosraean"
+msgstr "kosreanų"
+
+msgid "Kpelle"
+msgstr "kpelių"
+
+msgid "Kanuri"
+msgstr "kanurių"
+
+msgid "Karachay-Balkar"
+msgstr "karačiajų balkarijos"
+
+msgid "Krio"
+msgstr "krio"
+
+msgid "Kinaray-a"
+msgstr "kinaray-a"
+
+msgid "Karelian"
+msgstr "karelų"
+
+msgid "Kurukh"
+msgstr "kuruk"
+
+msgid "Kashmiri"
+msgstr "kašmyrų"
+
+msgid "Shambala"
+msgstr "šambalų"
+
+msgid "Bafia"
+msgstr "bafų"
+
+msgid "Colognian"
+msgstr "kolognų"
+
+msgid "Kurdish"
+msgstr "kurdų"
+
+msgid "Kumyk"
+msgstr "kumikų"
+
+msgid "Kutenai"
+msgstr "kutenai"
+
+msgid "Komi"
+msgstr "komi"
+
+msgid "Cornish"
+msgstr "kornų"
+
+msgid "Kwakʼwala"
+msgstr "kvakvalų"
+
+msgid "Kyrgyz"
+msgstr "kirgizų"
+
+msgid "Latin"
+msgstr "lotynų"
+
+msgid "Ladino"
+msgstr "ladino"
+
+msgid "Langi"
+msgstr "langi"
+
+msgid "Western Panjabi"
+msgstr "landa"
+
+msgid "Lamba"
+msgstr "lamba"
+
+msgid "Luxembourgish"
+msgstr "liuksemburgiečių"
+
+msgid "Lezghian"
+msgstr "lezginų"
+
+msgid "Lingua Franca Nova"
+msgstr "naujoji frankų kalba"
+
+msgid "Ganda"
+msgstr "ganda"
+
+msgid "Limburgish"
+msgstr "limburgiečių"
+
+msgid "Ligurian"
+msgstr "ligūrų"
+
+msgid "Lillooet"
+msgstr "liluetų"
+
+msgid "Livonian"
+msgstr "lyvių"
+
+msgid "Lakota"
+msgstr "lakotų"
+
+msgid "Lombard"
+msgstr "lombardų"
+
+msgid "Lingala"
+msgstr "ngalų"
+
+msgid "Lao"
+msgstr "laosiečių"
+
+msgid "Mongo"
+msgstr "mongų"
+
+msgid "Louisiana Creole"
+msgstr "Luizianos kreolų"
+
+msgid "Lozi"
+msgstr "lozių"
+
+msgid "Northern Luri"
+msgstr "šiaurės luri"
+
+msgid "Saamia"
+msgstr "samių"
+
+msgid "Lithuanian"
+msgstr "lietuvių"
+
+msgid "Latgalian"
+msgstr "latgalių"
+
+msgid "Luba-Katanga"
+msgstr "luba katanga"
+
+msgid "Luba-Lulua"
+msgstr "luba lulua"
+
+msgid "Luiseno"
+msgstr "luiseno"
+
+msgid "Lunda"
+msgstr "Lundos"
+
+msgid "Luo"
+msgstr "luo"
+
+msgid "Mizo"
+msgstr "mizo"
+
+msgid "Luyia"
+msgstr "luja"
+
+msgid "Latvian"
+msgstr "latvių"
+
+msgid "Literary Chinese"
+msgstr "klasikinė kinų"
+
+msgid "Laz"
+msgstr "laz"
+
+msgid "Madurese"
+msgstr "madurezų"
+
+msgid "Mafa"
+msgstr "mafų"
+
+msgid "Magahi"
+msgstr "magahi"
+
+msgid "Maithili"
+msgstr "maithili"
+
+msgid "Makasar"
+msgstr "Makasaro"
+
+msgid "Mandingo"
+msgstr "mandingų"
+
+msgid "Masai"
+msgstr "masajų"
+
+msgid "Maba"
+msgstr "mabų"
+
+msgid "Moksha"
+msgstr "mokša"
+
+msgid "Mandar"
+msgstr "mandarų"
+
+msgid "Mende"
+msgstr "mende"
+
+msgid "Meru"
+msgstr "merų"
+
+msgid "Morisyen"
+msgstr "morisijų"
+
+msgid "Malagasy"
+msgstr "malagasų"
+
+msgid "Middle Irish"
+msgstr "Vidurio Airijos"
+
+msgid "Makhuwa-Meetto"
+msgstr "makua-maeto"
+
+msgid "Metaʼ"
+msgstr "meta"
+
+msgid "Marshallese"
+msgstr "Maršalo Salų"
+
+msgid "Māori"
+msgstr "maorių"
+
+msgid "Mi'kmaq"
+msgstr "mikmakų"
+
+msgid "Minangkabau"
+msgstr "minangkabau"
+
+msgid "Macedonian"
+msgstr "makedonų"
+
+msgid "Malayalam"
+msgstr "malajalių"
+
+msgid "Mongolian"
+msgstr "mongolų"
+
+msgid "Manchu"
+msgstr "manču"
+
+msgid "Manipuri"
+msgstr "manipurių"
+
+msgid "Innu-aimun"
+msgstr "montanjų"
+
+msgid "Mohawk"
+msgstr "mohok"
+
+msgid "Mossi"
+msgstr "mosi"
+
+msgid "Marathi"
+msgstr "maratų"
+
+msgid "Western Mari"
+msgstr "vakarų mari"
+
+msgid "Malay"
+msgstr "malajiečių"
+
+msgid "Maltese"
+msgstr "maltiečių"
+
+msgid "Mundang"
+msgstr "mundangų"
+
+msgid "Multiple languages"
+msgstr "kelios kalbos"
+
+msgid "Muscogee"
+msgstr "krykų"
+
+msgid "Mirandese"
+msgstr "mirandezų"
+
+msgid "Marwari"
+msgstr "marvari"
+
+msgid "Mentawai"
+msgstr "mentavai"
+
+msgid "Burmese"
+msgstr "birmiečių"
+
+msgid "Myene"
+msgstr "mjenų"
+
+msgid "Erzya"
+msgstr "erzyjų"
+
+msgid "Mazanderani"
+msgstr "mazenderanių"
+
+msgid "Nauru"
+msgstr "naurų"
+
+msgid "Min Nan Chinese"
+msgstr "kinų kalbos pietų minų tarmė"
+
+msgid "Neapolitan"
+msgstr "neapoliečių"
+
+msgid "Nama"
+msgstr "nama"
+
+msgid "Norwegian Bokmål"
+msgstr "norvegų bukmolas"
+
+msgid "North Ndebele"
+msgstr "šiaurės ndebelų"
+
+msgid "Low German"
+msgstr "Žemutinės Vokietijos"
+
+msgid "Low Saxon"
+msgstr "Žemutinės Saksonijos (Nyderlandai)"
+
+msgid "Nepali"
+msgstr "nepaliečių"
+
+msgid "Newari"
+msgstr "nevari"
+
+msgid "Ndonga"
+msgstr "ndongų"
+
+msgid "Nias"
+msgstr "nias"
+
+msgid "Niuean"
+msgstr "niujiečių"
+
+msgid "Ao Naga"
+msgstr "ao naga"
+
+msgid "Dutch"
+msgstr "olandų"
+
+msgid "Flemish"
+msgstr "flamandų"
+
+msgid "Kwasio"
+msgstr "kvasių"
+
+msgid "Norwegian Nynorsk"
+msgstr "naujoji norvegų"
+
+msgid "Ngiemboon"
+msgstr "ngiembūnų"
+
+msgid "Norwegian"
+msgstr "norvegų"
+
+msgid "Nogai"
+msgstr "nogų"
+
+msgid "Old Norse"
+msgstr "senoji norsų"
+
+msgid "Novial"
+msgstr "novial"
+
+msgid "N’Ko"
+msgstr "enko"
+
+msgid "South Ndebele"
+msgstr "pietų ndebele"
+
+msgid "Northern Sotho"
+msgstr "šiaurės Soto"
+
+msgid "Nuer"
+msgstr "nuerų"
+
+msgid "Navajo"
+msgstr "navajų"
+
+msgid "Classical Newari"
+msgstr "klasikinė nevari"
+
+msgid "Nyanja"
+msgstr "nianjų"
+
+msgid "Nyamwezi"
+msgstr "niamvezi"
+
+msgid "Nyankole"
+msgstr "niankolų"
+
+msgid "Nyoro"
+msgstr "niorų"
+
+msgid "Nzima"
+msgstr "nzima"
+
+msgid "Occitan"
+msgstr "očitarų"
+
+msgid "Ojibwa"
+msgstr "ojibva"
+
+msgid "Northwestern Ojibwa"
+msgstr "šiaurės vakarų odžibvių"
+
+msgid "Central Ojibwa"
+msgstr "ojibvų"
+
+msgid "Oji-Cree"
+msgstr "odži kri"
+
+msgid "Western Ojibwa"
+msgstr "vakarų odžibvių"
+
+msgid "Okanagan"
+msgstr "okanaganų"
+
+msgid "Oromo"
+msgstr "oromų"
+
+msgid "Odia"
+msgstr "odijų"
+
+msgid "Ossetic"
+msgstr "osetinų"
+
+msgid "Osage"
+msgstr "osage"
+
+msgid "Ottoman Turkish"
+msgstr "osmanų turkų"
+
+msgid "Punjabi"
+msgstr "pendžabų"
+
+msgid "Pangasinan"
+msgstr "pangasinanų"
+
+msgid "Pahlavi"
+msgstr "vidurinė persų kalba"
+
+msgid "Pampanga"
+msgstr "pampangų"
+
+msgid "Papiamento"
+msgstr "papiamento"
+
+msgid "Palauan"
+msgstr "palauliečių"
+
+msgid "Picard"
+msgstr "pikardų"
+
+msgid "Nigerian Pidgin"
+msgstr "Nigerijos pidžinų"
+
+msgid "Pennsylvania German"
+msgstr "Pensilvanijos vokiečių"
+
+msgid "Plautdietsch"
+msgstr "vokiečių kalbos žemaičių tarmė"
+
+msgid "Old Persian"
+msgstr "senoji persų"
+
+msgid "Palatine German"
+msgstr "vokiečių kalbos Pfalco tarmė"
+
+msgid "Phoenician"
+msgstr "finikiečių"
+
+msgid "Pali"
+msgstr "pali"
+
+msgid "Pijin"
+msgstr "pidžinų"
+
+msgid "Polish"
+msgstr "lenkų"
+
+msgid "Piedmontese"
+msgstr "italų kalbos Pjemonto tarmė"
+
+msgid "Pontic"
+msgstr "Ponto"
+
+msgid "Pohnpeian"
+msgstr "Ponapės"
+
+msgid "Maliseet-Passamaquoddy"
+msgstr "Maliset-Pasamakvodžio"
+
+msgid "Prussian"
+msgstr "prūsų"
+
+msgid "Old Provençal"
+msgstr "senovės provansalų"
+
+msgid "Pashto"
+msgstr "puštūnų"
+
+msgid "Portuguese"
+msgstr "portugalų"
+
+msgid "Brazilian Portuguese"
+msgstr "Brazilijos portugalų"
+
+msgid "European Portuguese"
+msgstr "Europos portugalų"
+
+msgid "Quechua"
+msgstr "kečujų"
+
+msgid "Kʼicheʼ"
+msgstr "kičių"
+
+msgid "Chimborazo Highland Quichua"
+msgstr "Čimboraso aukštumų kečujų"
+
+msgid "Rajasthani"
+msgstr "Radžastano"
+
+msgid "Rapanui"
+msgstr "rapanui"
+
+msgid "Rarotongan"
+msgstr "rarotonganų"
+
+msgid "Romagnol"
+msgstr "italų kalbos Romanijos tarmė"
+
+msgid "Rohingya"
+msgstr "rochindža"
+
+msgid "Riffian"
+msgstr "rifų"
+
+msgid "Romansh"
+msgstr "retoromanų"
+
+msgid "Rundi"
+msgstr "rundi"
+
+msgid "Romanian"
+msgstr "rumunų"
+
+msgid "Moldavian"
+msgstr "moldavų"
+
+msgid "Rombo"
+msgstr "rombo"
+
+msgid "Romany"
+msgstr "romų"
+
+msgid "Rotuman"
+msgstr "rotumanų"
+
+msgid "Russian"
+msgstr "rusų"
+
+msgid "Rusyn"
+msgstr "rusinų"
+
+msgid "Roviana"
+msgstr "Rovianos"
+
+msgid "Aromanian"
+msgstr "aromanių"
+
+msgid "Kinyarwanda"
+msgstr "kinjaruandų"
+
+msgid "Rwa"
+msgstr "rua"
+
+msgid "Sanskrit"
+msgstr "sanskritas"
+
+msgid "Sandawe"
+msgstr "sandavių"
+
+msgid "Yakut"
+msgstr "jakutų"
+
+msgid "Samaritan Aramaic"
+msgstr "samarėjų aramių"
+
+msgid "Samburu"
+msgstr "sambūrų"
+
+msgid "Sasak"
+msgstr "sasak"
+
+msgid "Santali"
+msgstr "santalių"
+
+msgid "Saurashtra"
+msgstr "sauraštrų"
+
+msgid "Ngambay"
+msgstr "ngambajų"
+
+msgid "Sangu"
+msgstr "sangų"
+
+msgid "Sardinian"
+msgstr "sardiniečių"
+
+msgid "Sicilian"
+msgstr "siciliečių"
+
+msgid "Scots"
+msgstr "škotų"
+
+msgid "Sindhi"
+msgstr "sindų"
+
+msgid "Sassarese Sardinian"
+msgstr "sasaresų sardinų"
+
+msgid "Southern Kurdish"
+msgstr "pietų kurdų"
+
+msgid "Northern Sami"
+msgstr "šiaurės samių"
+
+msgid "Seneca"
+msgstr "senecų"
+
+msgid "Sena"
+msgstr "senų"
+
+msgid "Seri"
+msgstr "seri"
+
+msgid "Selkup"
+msgstr "selkup"
+
+msgid "Koyraboro Senni"
+msgstr "kojraboro seni"
+
+msgid "Sango"
+msgstr "sango"
+
+msgid "Old Irish"
+msgstr "senoji airių"
+
+msgid "Samogitian"
+msgstr "žemaičių"
+
+msgid "Serbo-Croatian"
+msgstr "serbų-kroatų"
+
+msgid "Tachelhit"
+msgstr "tachelhitų"
+
+msgid "Shan"
+msgstr "šan"
+
+msgid "Chadian Arabic"
+msgstr "chadian arabų"
+
+msgid "Sinhala"
+msgstr "sinhalų"
+
+msgid "Sidamo"
+msgstr "sidamų"
+
+msgid "Slovak"
+msgstr "slovakų"
+
+msgid "Slovenian"
+msgstr "slovėnų"
+
+msgid "Southern Lushootseed"
+msgstr "pietų lushusidų"
+
+msgid "Lower Silesian"
+msgstr "sileziečių žemaičių"
+
+msgid "Selayar"
+msgstr "selajarų"
+
+msgid "Samoan"
+msgstr "Samoa"
+
+msgid "Southern Sami"
+msgstr "pietų samių"
+
+msgid "Lule Sami"
+msgstr "Liuleo samių"
+
+msgid "Inari Sami"
+msgstr "Inario samių"
+
+msgid "Skolt Sami"
+msgstr "Skolto samių"
+
+msgid "Shona"
+msgstr "šonų"
+
+msgid "Soninke"
+msgstr "soninke"
+
+msgid "Somali"
+msgstr "somaliečių"
+
+msgid "Sogdien"
+msgstr "sogdien"
+
+msgid "Albanian"
+msgstr "albanų"
+
+msgid "Serbian"
+msgstr "serbų"
+
+msgid "Sranan Tongo"
+msgstr "sranan tongo"
+
+msgid "Serer"
+msgstr "sererų"
+
+msgid "Swati"
+msgstr "svatų"
+
+msgid "Saho"
+msgstr "saho"
+
+msgid "Southern Sotho"
+msgstr "pietų Soto"
+
+msgid "Saterland Frisian"
+msgstr "Saterlendo fryzų"
+
+msgid "Straits Salish"
+msgstr "Sališo sąsiaurio"
+
+msgid "Sundanese"
+msgstr "sundų"
+
+msgid "Sukuma"
+msgstr "sukuma"
+
+msgid "Susu"
+msgstr "susu"
+
+msgid "Sumerian"
+msgstr "šumerų"
+
+msgid "Swedish"
+msgstr "švedų"
+
+msgid "Swahili"
+msgstr "suahilių"
+
+msgid "Congo Swahili"
+msgstr "Kongo suahilių"
+
+msgid "Comorian"
+msgstr "komorų"
+
+msgid "Classical Syriac"
+msgstr "klasikinė sirų"
+
+msgid "Syriac"
+msgstr "sirų"
+
+msgid "Silesian"
+msgstr "sileziečių"
+
+msgid "Tamil"
+msgstr "tamilų"
+
+msgid "Southern Tutchone"
+msgstr "pietų tučonų"
+
+msgid "Tulu"
+msgstr "tulų"
+
+msgid "Telugu"
+msgstr "telugų"
+
+msgid "Timne"
+msgstr "timne"
+
+msgid "Teso"
+msgstr "teso"
+
+msgid "Tereno"
+msgstr "Tereno"
+
+msgid "Tetum"
+msgstr "tetum"
+
+msgid "Tajik"
+msgstr "tadžikų"
+
+msgid "Tagish"
+msgstr "tagišų"
+
+msgid "Thai"
+msgstr "tajų"
+
+msgid "Tahltan"
+msgstr "taltanų"
+
+msgid "Tigrinya"
+msgstr "tigrajų"
+
+msgid "Tigre"
+msgstr "tigre"
+
+msgid "Tiv"
+msgstr "tiv"
+
+msgid "Turkmen"
+msgstr "turkmėnų"
+
+msgid "Tokelau"
+msgstr "Tokelau"
+
+msgid "Tsakhur"
+msgstr "tsakurų"
+
+msgid "Tagalog"
+msgstr "tagalogų"
+
+msgid "Klingon"
+msgstr "klingonų"
+
+msgid "Tlingit"
+msgstr "tlingitų"
+
+msgid "Talysh"
+msgstr "talyšų"
+
+msgid "Tamashek"
+msgstr "tamašek"
+
+msgid "Tswana"
+msgstr "tsvanų"
+
+msgid "Tongan"
+msgstr "tonganų"
+
+msgid "Nyasa Tonga"
+msgstr "niasa tongų"
+
+msgid "Toki Pona"
+msgstr "Toki Pona"
+
+msgid "Tok Pisin"
+msgstr "Papua pidžinų"
+
+msgid "Turkish"
+msgstr "turkų"
+
+msgid "Turoyo"
+msgstr "turoyo"
+
+msgid "Taroko"
+msgstr "Taroko"
+
+msgid "Tsonga"
+msgstr "tsongų"
+
+msgid "Tsakonian"
+msgstr "tsakonų"
+
+msgid "Tsimshian"
+msgstr "tsimšian"
+
+msgid "Tatar"
+msgstr "totorių"
+
+msgid "Northern Tutchone"
+msgstr "šiaurės tutsonų"
+
+msgid "Muslim Tat"
+msgstr "musulmonų tatų"
+
+msgid "Tumbuka"
+msgstr "tumbukų"
+
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+msgid "Twi"
+msgstr "tvi"
+
+msgid "Tasawaq"
+msgstr "tasavakų"
+
+msgid "Tahitian"
+msgstr "taitiečių"
+
+msgid "Tuvinian"
+msgstr "tuvių"
+
+msgid "Central Atlas Tamazight"
+msgstr "Centrinio Maroko tamazitų"
+
+msgid "Udmurt"
+msgstr "udmurtų"
+
+msgid "Uyghur"
+msgstr "uigūrų"
+
+msgid "Ugaritic"
+msgstr "ugaritų"
+
+msgid "Ukrainian"
+msgstr "ukrainiečių"
+
+msgid "Umbundu"
+msgstr "umbundu"
+
+msgid "Unknown language"
+msgstr "nežinoma kalba"
+
+msgid "Urdu"
+msgstr "urdų"
+
+msgid "Uzbek"
+msgstr "uzbekų"
+
+msgid "Vai"
+msgstr "vai"
+
+msgid "Venda"
+msgstr "vendų"
+
+msgid "Venetian"
+msgstr "venetų"
+
+msgid "Veps"
+msgstr "vepsų"
+
+msgid "Vietnamese"
+msgstr "vietnamiečių"
+
+msgid "West Flemish"
+msgstr "vakarų flamandų"
+
+msgid "Main-Franconian"
+msgstr "pagrindinė frankonų"
+
+msgid "Volapük"
+msgstr "volapiuko"
+
+msgid "Votic"
+msgstr "Votik"
+
+msgid "Võro"
+msgstr "veru"
+
+msgid "Vunjo"
+msgstr "vunjo"
+
+msgid "Walloon"
+msgstr "valonų"
+
+msgid "Walser"
+msgstr "valserų"
+
+msgid "Wolaytta"
+msgstr "valamo"
+
+msgid "Waray"
+msgstr "varai"
+
+msgid "Washo"
+msgstr "Vašo"
+
+msgid "Warlpiri"
+msgstr "valrpiri"
+
+msgid "Wolof"
+msgstr "volofų"
+
+msgid "Wu Chinese"
+msgstr "kinų kalbos vu tarmė"
+
+msgid "Kalmyk"
+msgstr "kalmukų"
+
+msgid "Xhosa"
+msgstr "kosų"
+
+msgid "Mingrelian"
+msgstr "megrelų"
+
+msgid "Soga"
+msgstr "sogų"
+
+msgid "Yao"
+msgstr "jao"
+
+msgid "Yapese"
+msgstr "japezų"
+
+msgid "Yangben"
+msgstr "jangbenų"
+
+msgid "Yemba"
+msgstr "jembų"
+
+msgid "Yiddish"
+msgstr "jidiš"
+
+msgid "Yoruba"
+msgstr "jorubų"
+
+msgid "Nheengatu"
+msgstr "njengatu"
+
+msgid "Cantonese"
+msgstr "kinų kalbos Kantono tarmė"
+
+msgid "Chinese, Cantonese"
+msgstr "kinų kalbos Kantono tarmė"
+
+msgid "Zhuang"
+msgstr "chuang"
+
+msgid "Zapotec"
+msgstr "zapotekų"
+
+msgid "Blissymbols"
+msgstr "BLISS simbolių"
+
+msgid "Zeelandic"
+msgstr "zelandų"
+
+msgid "Zenaga"
+msgstr "zenaga"
+
+msgid "Standard Moroccan Tamazight"
+msgstr "standartinė Maroko tamazigtų"
+
+msgid "Chinese"
+msgstr "kinų"
+
+msgid "Chinese, Mandarin"
+msgstr "kinų, mandarinų"
+
+msgid "Simplified Chinese"
+msgstr "supaprastintoji kinų"
+
+msgid "Simplified Mandarin Chinese"
+msgstr "supaprastintoji mandarinų kinų"
+
+msgid "Traditional Chinese"
+msgstr "tradicinė kinų"
+
+msgid "Traditional Mandarin Chinese"
+msgstr "tradicinė mandarinų kinų"
+
+msgid "Zulu"
+msgstr "zulų"
+
+msgid "Zuni"
+msgstr "Zuni"
+
+msgid "No linguistic content"
+msgstr "nėra kalbinio turinio"
+
+msgid "Zaza"
+msgstr "zaza"

@@ -1,0 +1,1591 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dialect-cldr-langs\n"
+"Language: ka\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Afar"
+msgstr "აფარი"
+
+msgid "Abkhazian"
+msgstr "აფხაზური"
+
+msgid "Achinese"
+msgstr "აჩეხური"
+
+msgid "Acoli"
+msgstr "აჩოლი"
+
+msgid "Adangme"
+msgstr "ადანგმე"
+
+msgid "Adyghe"
+msgstr "ადიღეური"
+
+msgid "Avestan"
+msgstr "ავესტური"
+
+msgid "Afrikaans"
+msgstr "აფრიკაანსი"
+
+msgid "Aghem"
+msgstr "აღემი"
+
+msgid "Ainu"
+msgstr "აინუური"
+
+msgid "Akan"
+msgstr "აკანი"
+
+msgid "Akkadian"
+msgstr "აქადური"
+
+msgid "Aleut"
+msgstr "ალეუტური"
+
+msgid "Southern Altai"
+msgstr "სამხრეთ ალთაური"
+
+msgid "Amharic"
+msgstr "ამჰარული"
+
+msgid "Aragonese"
+msgstr "არაგონული"
+
+msgid "Old English"
+msgstr "ძველი ინგლისური"
+
+msgid "Obolo"
+msgstr "ობოლო"
+
+msgid "Angika"
+msgstr "ანგიკა"
+
+msgid "Arabic"
+msgstr "არაბული"
+
+msgid "Modern Standard Arabic"
+msgstr "თანამედროვე სტანდარტული არაბული"
+
+msgid "Aramaic"
+msgstr "არამეული"
+
+msgid "Mapuche"
+msgstr "მაპუდუნგუნი"
+
+msgid "Arapaho"
+msgstr "არაპაჰო"
+
+msgid "Najdi Arabic"
+msgstr "ნაჯის არაბული"
+
+msgid "Arawak"
+msgstr "არავაკი"
+
+msgid "Assamese"
+msgstr "ასამური"
+
+msgid "Asu"
+msgstr "ასუ"
+
+msgid "Asturian"
+msgstr "ასტურიული"
+
+msgid "Atikamekw"
+msgstr "ატიკამეკი"
+
+msgid "Avaric"
+msgstr "ხუნძური"
+
+msgid "Awadhi"
+msgstr "ავადი"
+
+msgid "Aymara"
+msgstr "აიმარა"
+
+msgid "Azerbaijani"
+msgstr "აზერბაიჯანული"
+
+msgid "Azeri"
+msgstr "აზერბაიჯანული"
+
+msgid "Bashkir"
+msgstr "ბაშკირული"
+
+msgid "Baluchi"
+msgstr "ბელუჯი"
+
+msgid "Balinese"
+msgstr "ბალინური"
+
+msgid "Basaa"
+msgstr "ბასა"
+
+msgid "Bamun"
+msgstr "ბამუნი"
+
+msgid "Belarusian"
+msgstr "ბელარუსული"
+
+msgid "Beja"
+msgstr "ბეჯა"
+
+msgid "Bemba"
+msgstr "ბემბა"
+
+msgid "Bena"
+msgstr "ბენა"
+
+msgid "Bulgarian"
+msgstr "ბულგარული"
+
+msgid "Western Balochi"
+msgstr "დასავლეთ ბელუჯი"
+
+msgid "Bhojpuri"
+msgstr "ბოჯპური"
+
+msgid "Bislama"
+msgstr "ბისლამა"
+
+msgid "Bini"
+msgstr "ბინი"
+
+msgid "Siksiká"
+msgstr "სიკსიკა"
+
+msgid "Bambara"
+msgstr "ბამბარა"
+
+msgid "Bangla"
+msgstr "ბენგალური"
+
+msgid "Tibetan"
+msgstr "ტიბეტური"
+
+msgid "Breton"
+msgstr "ბრეტონული"
+
+msgid "Braj"
+msgstr "ბრაჯი"
+
+msgid "Bodo"
+msgstr "ბოდო"
+
+msgid "Bosnian"
+msgstr "ბოსნიური"
+
+msgid "Buriat"
+msgstr "ბურიატული"
+
+msgid "Buginese"
+msgstr "ბუგინური"
+
+msgid "Blin"
+msgstr "ბილინი"
+
+msgid "Catalan"
+msgstr "კატალანური"
+
+msgid "Cayuga"
+msgstr "კაიუგა"
+
+msgid "Chakma"
+msgstr "ჩაკმა"
+
+msgid "Chechen"
+msgstr "ჩეჩნური"
+
+msgid "Cebuano"
+msgstr "სებუანო"
+
+msgid "Chiga"
+msgstr "ჩიგა"
+
+msgid "Chamorro"
+msgstr "ჩამორო"
+
+msgid "Chibcha"
+msgstr "ჩიბჩა"
+
+msgid "Chuukese"
+msgstr "ჩუკოტკური"
+
+msgid "Mari"
+msgstr "მარიული"
+
+msgid "Chinook Jargon"
+msgstr "ჩინუკის ჟარგონი"
+
+msgid "Choctaw"
+msgstr "ჩოკტო"
+
+msgid "Chipewyan"
+msgstr "ჩიპევიანი"
+
+msgid "Cherokee"
+msgstr "ჩეროკი"
+
+msgid "Cheyenne"
+msgstr "ჩეიენი"
+
+msgid "Central Kurdish"
+msgstr "ცენტრალური ქურთული"
+
+msgid "Kurdish, Central"
+msgstr "ცენტრალური ქურთული"
+
+msgid "Kurdish, Sorani"
+msgstr "ცენტრალური ქურთული"
+
+msgid "Chilcotin"
+msgstr "ჩილკოტინი"
+
+msgid "Corsican"
+msgstr "კორსიკული"
+
+msgid "Coptic"
+msgstr "კოპტური"
+
+msgid "Cree"
+msgstr "კრი"
+
+msgid "Michif"
+msgstr "მიჩიფი"
+
+msgid "Crimean Tatar"
+msgstr "ყირიმულ-თურქული"
+
+msgid "Southern East Cree"
+msgstr "სამხრეთ-აღმოსავლეთის კრი"
+
+msgid "Plains Cree"
+msgstr "დაბლობის კრი"
+
+msgid "Northern East Cree"
+msgstr "ჩრდილო-აღმოსავლეთის კრი"
+
+msgid "Moose Cree"
+msgstr "მუსური კრი"
+
+msgid "Carolina Algonquian"
+msgstr "კაროლინური ალგონკინი"
+
+msgid "Seselwa Creole French"
+msgstr "სესელვა-კრეოლური ფრანგული"
+
+msgid "Czech"
+msgstr "ჩეხური"
+
+msgid "Kashubian"
+msgstr "კაშუბური"
+
+msgid "Swampy Cree"
+msgstr "ჭაობის კრი"
+
+msgid "Church Slavic"
+msgstr "საეკლესიო სლავური"
+
+msgid "Chuvash"
+msgstr "ჩუვაშური"
+
+msgid "Welsh"
+msgstr "უელსური"
+
+msgid "Danish"
+msgstr "დანიური"
+
+msgid "Dakota"
+msgstr "დაკოტური"
+
+msgid "Dargwa"
+msgstr "დარგუული"
+
+msgid "Taita"
+msgstr "ტაიტა"
+
+msgid "German"
+msgstr "გერმანული"
+
+msgid "Austrian German"
+msgstr "ავსტრიული გერმანული"
+
+msgid "Swiss High German"
+msgstr "შვეიცარიული ზემოგერმანული"
+
+msgid "Delaware"
+msgstr "დელავერული"
+
+msgid "Slave"
+msgstr "სლეივი"
+
+msgid "Dogrib"
+msgstr "დოგრიბი"
+
+msgid "Dinka"
+msgstr "დინკა"
+
+msgid "Zarma"
+msgstr "ზარმა"
+
+msgid "Dogri"
+msgstr "დოგრი"
+
+msgid "Lower Sorbian"
+msgstr "ქვემოსორბული"
+
+msgid "Duala"
+msgstr "დუალა"
+
+msgid "Middle Dutch"
+msgstr "საშუალო ჰოლანდიური"
+
+msgid "Divehi"
+msgstr "დივეჰი"
+
+msgid "Jola-Fonyi"
+msgstr "დიოლა"
+
+msgid "Dyula"
+msgstr "დიულა"
+
+msgid "Dzongkha"
+msgstr "ძონგკხა"
+
+msgid "Dazaga"
+msgstr "დაზაგა"
+
+msgid "Embu"
+msgstr "ემბუ"
+
+msgid "Ewe"
+msgstr "ევე"
+
+msgid "Efik"
+msgstr "ეფიკი"
+
+msgid "Ancient Egyptian"
+msgstr "ძველეგვიპტური"
+
+msgid "Ekajuk"
+msgstr "ეკაჯუკი"
+
+msgid "Greek"
+msgstr "ბერძნული"
+
+msgid "English"
+msgstr "ინგლისური"
+
+msgid "Australian English"
+msgstr "ავსტრალიური ინგლისური"
+
+msgid "Canadian English"
+msgstr "კანადური ინგლისური"
+
+msgid "British English"
+msgstr "ბრიტანული ინგლისური"
+
+msgid "UK English"
+msgstr "ინგლისური (გაერთიანებული სამეფო)"
+
+msgid "American English"
+msgstr "ამერიკული ინგლისური"
+
+msgid "US English"
+msgstr "აშშ ინგლისური"
+
+msgid "Middle English"
+msgstr "საშუალო ინგლისური"
+
+msgid "Esperanto"
+msgstr "ესპერანტო"
+
+msgid "Spanish"
+msgstr "ესპანური"
+
+msgid "Latin American Spanish"
+msgstr "ლათინურ ამერიკული ესპანური"
+
+msgid "European Spanish"
+msgstr "ევროპული ესპანური"
+
+msgid "Mexican Spanish"
+msgstr "მექსიკური ესპანური"
+
+msgid "Estonian"
+msgstr "ესტონური"
+
+msgid "Basque"
+msgstr "ბასკური"
+
+msgid "Ewondo"
+msgstr "ევონდო"
+
+msgid "Persian"
+msgstr "სპარსული"
+
+msgid "Dari"
+msgstr "დარი"
+
+msgid "Fula"
+msgstr "ფულა"
+
+msgid "Finnish"
+msgstr "ფინური"
+
+msgid "Filipino"
+msgstr "ფილიპინური"
+
+msgid "Fijian"
+msgstr "ფიჯი"
+
+msgid "Faroese"
+msgstr "ფარერული"
+
+msgid "Fon"
+msgstr "ფონი"
+
+msgid "French"
+msgstr "ფრანგული"
+
+msgid "Canadian French"
+msgstr "კანადური ფრანგული"
+
+msgid "Swiss French"
+msgstr "შვეიცარიული ფრანგული"
+
+msgid "Cajun French"
+msgstr "კაჟუნური ფრანგული"
+
+msgid "Middle French"
+msgstr "საშუალო ფრანგული"
+
+msgid "Old French"
+msgstr "ძველი ფრანგული"
+
+msgid "Northern Frisian"
+msgstr "ჩრდილოფრიზიული"
+
+msgid "Eastern Frisian"
+msgstr "აღმოსავლეთფრიზიული"
+
+msgid "Friulian"
+msgstr "ფრიულური"
+
+msgid "Western Frisian"
+msgstr "დასავლეთფრიზიული"
+
+msgid "Irish"
+msgstr "ირლანდიური"
+
+msgid "Ga"
+msgstr "გა"
+
+msgid "Gagauz"
+msgstr "გაგაუზური"
+
+msgid "Gbaya"
+msgstr "გბაია"
+
+msgid "Scottish Gaelic"
+msgstr "შოტლანდიური გელური"
+
+msgid "Geez"
+msgstr "გეეზი"
+
+msgid "Gilbertese"
+msgstr "გილბერტული"
+
+msgid "Galician"
+msgstr "გალისიური"
+
+msgid "Middle High German"
+msgstr "საშუალო ზემოგერმანული"
+
+msgid "Guarani"
+msgstr "გუარანი"
+
+msgid "Old High German"
+msgstr "ძველი ზემოგერმანული"
+
+msgid "Gondi"
+msgstr "გონდი"
+
+msgid "Gorontalo"
+msgstr "გორონტალო"
+
+msgid "Gothic"
+msgstr "გოთური"
+
+msgid "Ancient Greek"
+msgstr "ძველი ბერძნული"
+
+msgid "Swiss German"
+msgstr "შვეიცარიული გერმანული"
+
+msgid "Gujarati"
+msgstr "გუჯარათი"
+
+msgid "Gusii"
+msgstr "გუსიი"
+
+msgid "Manx"
+msgstr "მენური"
+
+msgid "Gwichʼin"
+msgstr "გვიჩინი"
+
+msgid "Hausa"
+msgstr "ჰაუსა"
+
+msgid "Haida"
+msgstr "ჰაიდა"
+
+msgid "Hawaiian"
+msgstr "ჰავაიური"
+
+msgid "Southern Haida"
+msgstr "სამხრეთული ჰაიდა"
+
+msgid "Hebrew"
+msgstr "ებრაული"
+
+msgid "Hindi"
+msgstr "ჰინდი"
+
+msgid "Hinglish"
+msgstr "ჰინგლისური"
+
+msgid "Hiligaynon"
+msgstr "ჰილიგაინონი"
+
+msgid "Hittite"
+msgstr "ხეთური"
+
+msgid "Hmong"
+msgstr "ჰმონგი"
+
+msgid "Croatian"
+msgstr "ხორვატული"
+
+msgid "Upper Sorbian"
+msgstr "ზემოსორბული"
+
+msgid "Haitian Creole"
+msgstr "ჰაიტიური კრეოლი"
+
+msgid "Hungarian"
+msgstr "უნგრული"
+
+msgid "Hupa"
+msgstr "ჰუპა"
+
+msgid "Halkomelem"
+msgstr "ჰალკომელემი"
+
+msgid "Armenian"
+msgstr "სომხური"
+
+msgid "Herero"
+msgstr "ჰერერო"
+
+msgid "Interlingua"
+msgstr "ინტერლინგუალური"
+
+msgid "Iban"
+msgstr "იბანი"
+
+msgid "Ibibio"
+msgstr "იბიბიო"
+
+msgid "Indonesian"
+msgstr "ინდონეზიური"
+
+msgid "Interlingue"
+msgstr "ინტერლინგი"
+
+msgid "Igbo"
+msgstr "იგბო"
+
+msgid "Sichuan Yi"
+msgstr "სიჩუანის ი"
+
+msgid "Western Canadian Inuktitut"
+msgstr "დასავლეთ-კანადური ინუკტიტუტი"
+
+msgid "Iloko"
+msgstr "ილოკო"
+
+msgid "Ingush"
+msgstr "ინგუშური"
+
+msgid "Ido"
+msgstr "იდო"
+
+msgid "Icelandic"
+msgstr "ისლანდიური"
+
+msgid "Italian"
+msgstr "იტალიური"
+
+msgid "Inuktitut"
+msgstr "ინუკტიტუტი"
+
+msgid "Japanese"
+msgstr "იაპონური"
+
+msgid "Lojban"
+msgstr "ლოჟბანი"
+
+msgid "Ngomba"
+msgstr "ნგომბა"
+
+msgid "Machame"
+msgstr "კიმაშამი"
+
+msgid "Judeo-Persian"
+msgstr "იუდეო-სპარსული"
+
+msgid "Judeo-Arabic"
+msgstr "იუდეო-არაბული"
+
+msgid "Javanese"
+msgstr "იავური"
+
+msgid "Georgian"
+msgstr "ქართული"
+
+msgid "Kara-Kalpak"
+msgstr "ყარაყალფახური"
+
+msgid "Kabyle"
+msgstr "კაბილური"
+
+msgid "Kachin"
+msgstr "კაჩინი"
+
+msgid "Jju"
+msgstr "კაჯი"
+
+msgid "Kamba"
+msgstr "კამბა"
+
+msgid "Kabardian"
+msgstr "ყაბარდოული"
+
+msgid "Tyap"
+msgstr "ტიაპი"
+
+msgid "Makonde"
+msgstr "მაკონდე"
+
+msgid "Kabuverdianu"
+msgstr "კაბუვერდიანუ"
+
+msgid "Koro"
+msgstr "კორო"
+
+msgid "Kongo"
+msgstr "კონგო"
+
+msgid "Kaingang"
+msgstr "კაინგანგი"
+
+msgid "Khasi"
+msgstr "ხასი"
+
+msgid "Koyra Chiini"
+msgstr "კოირა-ჩიინი"
+
+msgid "Kikuyu"
+msgstr "კიკუიუ"
+
+msgid "Kuanyama"
+msgstr "კუნამა"
+
+msgid "Kazakh"
+msgstr "ყაზახური"
+
+msgid "Kako"
+msgstr "კაკო"
+
+msgid "Kalaallisut"
+msgstr "დასავლეთ გრენლანდიური"
+
+msgid "Kalenjin"
+msgstr "კალენჯინი"
+
+msgid "Khmer"
+msgstr "ქმერული"
+
+msgid "Kimbundu"
+msgstr "კიმბუნდუ"
+
+msgid "Kannada"
+msgstr "კანადა"
+
+msgid "Korean"
+msgstr "კორეული"
+
+msgid "Komi-Permyak"
+msgstr "კომი-პერმიაკული"
+
+msgid "Konkani"
+msgstr "კონკანი"
+
+msgid "Kosraean"
+msgstr "კუსაიე"
+
+msgid "Kpelle"
+msgstr "კპელე"
+
+msgid "Kanuri"
+msgstr "კანური"
+
+msgid "Karachay-Balkar"
+msgstr "ყარაჩაულ-ბალყარული"
+
+msgid "Karelian"
+msgstr "კარელიური"
+
+msgid "Kurukh"
+msgstr "კურუქი"
+
+msgid "Kashmiri"
+msgstr "ქაშმირული"
+
+msgid "Shambala"
+msgstr "შამბალა"
+
+msgid "Bafia"
+msgstr "ბაფია"
+
+msgid "Colognian"
+msgstr "კიოლში"
+
+msgid "Kurdish"
+msgstr "ქურთული"
+
+msgid "Kumyk"
+msgstr "ყუმუხური"
+
+msgid "Kutenai"
+msgstr "კუტენაი"
+
+msgid "Komi"
+msgstr "კომი"
+
+msgid "Cornish"
+msgstr "კორნული"
+
+msgid "Kwakʼwala"
+msgstr "კვაკვალა"
+
+msgid "Kyrgyz"
+msgstr "ყირგიზული"
+
+msgid "Latin"
+msgstr "ლათინური"
+
+msgid "Ladino"
+msgstr "ლადინო"
+
+msgid "Langi"
+msgstr "ლანგი"
+
+msgid "Western Panjabi"
+msgstr "ლანდა"
+
+msgid "Lamba"
+msgstr "ლამბა"
+
+msgid "Luxembourgish"
+msgstr "ლუქსემბურგული"
+
+msgid "Lezghian"
+msgstr "ლეზგიური"
+
+msgid "Ganda"
+msgstr "განდა"
+
+msgid "Limburgish"
+msgstr "ლიმბურგული"
+
+msgid "Lillooet"
+msgstr "ლილიეტი"
+
+msgid "Lakota"
+msgstr "ლაკოტა"
+
+msgid "Lingala"
+msgstr "ლინგალა"
+
+msgid "Lao"
+msgstr "ლაოსური"
+
+msgid "Mongo"
+msgstr "მონგო"
+
+msgid "Louisiana Creole"
+msgstr "ლუიზიანას კრეოლური"
+
+msgid "Lozi"
+msgstr "ლოზი"
+
+msgid "Northern Luri"
+msgstr "ჩრდილოეთ ლური"
+
+msgid "Saamia"
+msgstr "სამია"
+
+msgid "Lithuanian"
+msgstr "ლიეტუვური"
+
+msgid "Luba-Katanga"
+msgstr "ლუბა-კატანგა"
+
+msgid "Luba-Lulua"
+msgstr "ლუბა-ლულუა"
+
+msgid "Luiseno"
+msgstr "ლუისენიო"
+
+msgid "Lunda"
+msgstr "ლუნდა"
+
+msgid "Luo"
+msgstr "ლუო"
+
+msgid "Mizo"
+msgstr "მიზო"
+
+msgid "Luyia"
+msgstr "ლუჰია"
+
+msgid "Latvian"
+msgstr "ლატვიური"
+
+msgid "Madurese"
+msgstr "მადურული"
+
+msgid "Mafa"
+msgstr "მაფა"
+
+msgid "Magahi"
+msgstr "მაგაჰი"
+
+msgid "Maithili"
+msgstr "მაითილი"
+
+msgid "Makasar"
+msgstr "მაკასარი"
+
+msgid "Masai"
+msgstr "მასაი"
+
+msgid "Maba"
+msgstr "მაბა"
+
+msgid "Moksha"
+msgstr "მოქშა"
+
+msgid "Mende"
+msgstr "მენდე"
+
+msgid "Meru"
+msgstr "მერუ"
+
+msgid "Morisyen"
+msgstr "მორისიენი"
+
+msgid "Malagasy"
+msgstr "მალაგასიური"
+
+msgid "Middle Irish"
+msgstr "საშუალო ირლანდიური"
+
+msgid "Makhuwa-Meetto"
+msgstr "მაქუვა-მეეტო"
+
+msgid "Metaʼ"
+msgstr "მეტა-ენა"
+
+msgid "Marshallese"
+msgstr "მარშალური"
+
+msgid "Māori"
+msgstr "მაორი"
+
+msgid "Mi'kmaq"
+msgstr "მიკმაკი"
+
+msgid "Minangkabau"
+msgstr "მინანგკაბაუ"
+
+msgid "Macedonian"
+msgstr "მაკედონური"
+
+msgid "Malayalam"
+msgstr "მალაიალამური"
+
+msgid "Mongolian"
+msgstr "მონღოლური"
+
+msgid "Manchu"
+msgstr "მანჯურიული"
+
+msgid "Manipuri"
+msgstr "მანიპური"
+
+msgid "Innu-aimun"
+msgstr "ინუ-აიმუნი"
+
+msgid "Mohawk"
+msgstr "მოჰაუკური"
+
+msgid "Mossi"
+msgstr "მოსი"
+
+msgid "Marathi"
+msgstr "მარათჰი"
+
+msgid "Malay"
+msgstr "მალაიური"
+
+msgid "Maltese"
+msgstr "მალტური"
+
+msgid "Mundang"
+msgstr "მუნდანგი"
+
+msgid "Multiple languages"
+msgstr "სხვადასხვა ენა"
+
+msgid "Muscogee"
+msgstr "კრიკი"
+
+msgid "Mirandese"
+msgstr "მირანდული"
+
+msgid "Marwari"
+msgstr "მარვარი"
+
+msgid "Burmese"
+msgstr "ბირმული"
+
+msgid "Myene"
+msgstr "მიენე"
+
+msgid "Erzya"
+msgstr "ერზია"
+
+msgid "Mazanderani"
+msgstr "მაზანდერანული"
+
+msgid "Nauru"
+msgstr "ნაურუ"
+
+msgid "Neapolitan"
+msgstr "ნეაპოლიტანური"
+
+msgid "Nama"
+msgstr "ნამა"
+
+msgid "Norwegian Bokmål"
+msgstr "ნორვეგიული ბუკმოლი"
+
+msgid "North Ndebele"
+msgstr "ჩრდილოეთ ნდებელე"
+
+msgid "Low German"
+msgstr "ქვემოგერმანული"
+
+msgid "Low Saxon"
+msgstr "ქვემოსაქსონური"
+
+msgid "Nepali"
+msgstr "ნეპალური"
+
+msgid "Newari"
+msgstr "ნევარი"
+
+msgid "Ndonga"
+msgstr "ნდონგა"
+
+msgid "Nias"
+msgstr "ნიასი"
+
+msgid "Niuean"
+msgstr "ნიუე"
+
+msgid "Dutch"
+msgstr "ნიდერლანდური"
+
+msgid "Flemish"
+msgstr "ფლამანდიური"
+
+msgid "Kwasio"
+msgstr "კვასიო"
+
+msgid "Norwegian Nynorsk"
+msgstr "ნორვეგიული ნიუნორსკი"
+
+msgid "Ngiemboon"
+msgstr "ნგიმბუნი"
+
+msgid "Norwegian"
+msgstr "ნორვეგიული"
+
+msgid "Nogai"
+msgstr "ნოღაური"
+
+msgid "Old Norse"
+msgstr "ძველსკანდინავიური"
+
+msgid "N’Ko"
+msgstr "ნკო"
+
+msgid "South Ndebele"
+msgstr "სამხრეთ ნდებელური"
+
+msgid "Northern Sotho"
+msgstr "ჩრდილოეთ სოთო"
+
+msgid "Nuer"
+msgstr "ნუერი"
+
+msgid "Navajo"
+msgstr "ნავახო"
+
+msgid "Classical Newari"
+msgstr "კლასიკური ნევარული"
+
+msgid "Nyanja"
+msgstr "ნიანჯა"
+
+msgid "Nyamwezi"
+msgstr "ნიამვეზი"
+
+msgid "Nyankole"
+msgstr "ნიანკოლე"
+
+msgid "Nyoro"
+msgstr "ნიორო"
+
+msgid "Nzima"
+msgstr "ნზიმა"
+
+msgid "Occitan"
+msgstr "ოქსიტანური"
+
+msgid "Ojibwa"
+msgstr "ოჯიბვე"
+
+msgid "Northwestern Ojibwa"
+msgstr "ჩრდილო-დასავლეთის ოჯიბვა"
+
+msgid "Central Ojibwa"
+msgstr "ცენტრალური ოჯიბვე"
+
+msgid "Oji-Cree"
+msgstr "ოჯი-კრი"
+
+msgid "Western Ojibwa"
+msgstr "დასავლეთის ოჯიბვა"
+
+msgid "Okanagan"
+msgstr "ოკანაგანი"
+
+msgid "Oromo"
+msgstr "ორომო"
+
+msgid "Odia"
+msgstr "ორია"
+
+msgid "Ossetic"
+msgstr "ოსური"
+
+msgid "Punjabi"
+msgstr "პენჯაბური"
+
+msgid "Pangasinan"
+msgstr "პანგასინანი"
+
+msgid "Pahlavi"
+msgstr "ფალაური"
+
+msgid "Pampanga"
+msgstr "პამპანგა"
+
+msgid "Papiamento"
+msgstr "პაპიამენტო"
+
+msgid "Palauan"
+msgstr "ფალაუანი"
+
+msgid "Nigerian Pidgin"
+msgstr "ნიგერიული კრეოლური"
+
+msgid "Old Persian"
+msgstr "ძველი სპარსული"
+
+msgid "Phoenician"
+msgstr "ფინიკიური"
+
+msgid "Pali"
+msgstr "პალი"
+
+msgid "Pijin"
+msgstr "პიჯინი"
+
+msgid "Polish"
+msgstr "პოლონური"
+
+msgid "Maliseet-Passamaquoddy"
+msgstr "მალისეტ-პასამაკვოდი"
+
+msgid "Prussian"
+msgstr "პრუსიული"
+
+msgid "Old Provençal"
+msgstr "ძველი პროვანსული"
+
+msgid "Pashto"
+msgstr "პუშტუ"
+
+msgid "Portuguese"
+msgstr "პორტუგალიური"
+
+msgid "Brazilian Portuguese"
+msgstr "ბრაზილიური პორტუგალიური"
+
+msgid "European Portuguese"
+msgstr "ევროპული პორტუგალიური"
+
+msgid "Quechua"
+msgstr "კეჩუა"
+
+msgid "Kʼicheʼ"
+msgstr "კიჩე"
+
+msgid "Rajasthani"
+msgstr "რაჯასთანი"
+
+msgid "Rapanui"
+msgstr "რაპანუი"
+
+msgid "Rarotongan"
+msgstr "რაროტონგული"
+
+msgid "Rohingya"
+msgstr "როჰინგა"
+
+msgid "Romansh"
+msgstr "რეტორომანული"
+
+msgid "Rundi"
+msgstr "რუნდი"
+
+msgid "Romanian"
+msgstr "რუმინული"
+
+msgid "Moldavian"
+msgstr "მოლდავური"
+
+msgid "Rombo"
+msgstr "რომბო"
+
+msgid "Romany"
+msgstr "ბოშური"
+
+msgid "Russian"
+msgstr "რუსული"
+
+msgid "Aromanian"
+msgstr "არომანული"
+
+msgid "Kinyarwanda"
+msgstr "კინიარუანდა"
+
+msgid "Rwa"
+msgstr "რუა"
+
+msgid "Sanskrit"
+msgstr "სანსკრიტი"
+
+msgid "Sandawe"
+msgstr "სანდავე"
+
+msgid "Yakut"
+msgstr "იაკუტური"
+
+msgid "Samaritan Aramaic"
+msgstr "სამარიულ-არამეული"
+
+msgid "Samburu"
+msgstr "სამბურუ"
+
+msgid "Santali"
+msgstr "სანტალი"
+
+msgid "Ngambay"
+msgstr "ნგამბაი"
+
+msgid "Sangu"
+msgstr "სანგუ"
+
+msgid "Sardinian"
+msgstr "სარდინიული"
+
+msgid "Sicilian"
+msgstr "სიცილიური"
+
+msgid "Scots"
+msgstr "შოტლანდიური"
+
+msgid "Sindhi"
+msgstr "სინდჰური"
+
+msgid "Southern Kurdish"
+msgstr "სამხრეთქურთული"
+
+msgid "Northern Sami"
+msgstr "ჩრდილოეთ საამური"
+
+msgid "Seneca"
+msgstr "სენეკა"
+
+msgid "Sena"
+msgstr "სენა"
+
+msgid "Selkup"
+msgstr "სელკუპური"
+
+msgid "Koyraboro Senni"
+msgstr "კოირაბორო-სენი"
+
+msgid "Sango"
+msgstr "სანგო"
+
+msgid "Old Irish"
+msgstr "ძველი ირლანდიური"
+
+msgid "Serbo-Croatian"
+msgstr "სერბულ-ხორვატული"
+
+msgid "Tachelhit"
+msgstr "შილჰა"
+
+msgid "Shan"
+msgstr "შანი"
+
+msgid "Chadian Arabic"
+msgstr "ჩადური არაბული"
+
+msgid "Sinhala"
+msgstr "სინჰალური"
+
+msgid "Slovak"
+msgstr "სლოვაკური"
+
+msgid "Slovenian"
+msgstr "სლოვენური"
+
+msgid "Southern Lushootseed"
+msgstr "სამხრეთული ლუშუციდი"
+
+msgid "Samoan"
+msgstr "სამოა"
+
+msgid "Southern Sami"
+msgstr "სამხრეთსამური"
+
+msgid "Lule Sami"
+msgstr "ლულე-საამური"
+
+msgid "Inari Sami"
+msgstr "ინარი-საამური"
+
+msgid "Skolt Sami"
+msgstr "სკოლტ-საამური"
+
+msgid "Shona"
+msgstr "შონა"
+
+msgid "Soninke"
+msgstr "სონინკე"
+
+msgid "Somali"
+msgstr "სომალიური"
+
+msgid "Albanian"
+msgstr "ალბანური"
+
+msgid "Serbian"
+msgstr "სერბული"
+
+msgid "Sranan Tongo"
+msgstr "სრანან ტონგო"
+
+msgid "Swati"
+msgstr "სუატი"
+
+msgid "Saho"
+msgstr "საჰო"
+
+msgid "Southern Sotho"
+msgstr "სამხრეთ სოთოს ენა"
+
+msgid "Straits Salish"
+msgstr "სტრეიტს სალიში"
+
+msgid "Sundanese"
+msgstr "სუნდური"
+
+msgid "Sukuma"
+msgstr "სუკუმა"
+
+msgid "Sumerian"
+msgstr "შუმერული"
+
+msgid "Swedish"
+msgstr "შვედური"
+
+msgid "Swahili"
+msgstr "სუაჰილი"
+
+msgid "Congo Swahili"
+msgstr "კონგოს სუაჰილი"
+
+msgid "Comorian"
+msgstr "კომორული"
+
+msgid "Classical Syriac"
+msgstr "კლასიკური სირიული"
+
+msgid "Syriac"
+msgstr "სირიული"
+
+msgid "Tamil"
+msgstr "ტამილური"
+
+msgid "Southern Tutchone"
+msgstr "სამხრეთ ტუჩონი"
+
+msgid "Telugu"
+msgstr "ტელუგუ"
+
+msgid "Timne"
+msgstr "ტინმე"
+
+msgid "Teso"
+msgstr "ტესო"
+
+msgid "Tetum"
+msgstr "ტეტუმი"
+
+msgid "Tajik"
+msgstr "ტაჯიკური"
+
+msgid "Tagish"
+msgstr "ტაგიში"
+
+msgid "Thai"
+msgstr "ტაილანდური"
+
+msgid "Tahltan"
+msgstr "ტალტანი"
+
+msgid "Tigrinya"
+msgstr "ტიგრინია"
+
+msgid "Tigre"
+msgstr "თიგრე"
+
+msgid "Turkmen"
+msgstr "თურქმენული"
+
+msgid "Klingon"
+msgstr "კლინგონი"
+
+msgid "Tlingit"
+msgstr "ტლინგიტი"
+
+msgid "Tswana"
+msgstr "ტსვანა"
+
+msgid "Tongan"
+msgstr "ტონგანური"
+
+msgid "Toki Pona"
+msgstr "ტოკი-პონა"
+
+msgid "Tok Pisin"
+msgstr "ტოკ-პისინი"
+
+msgid "Turkish"
+msgstr "თურქული"
+
+msgid "Taroko"
+msgstr "ტაროკო"
+
+msgid "Tsonga"
+msgstr "ტსონგა"
+
+msgid "Tatar"
+msgstr "თათრული"
+
+msgid "Northern Tutchone"
+msgstr "ჩრდილოეთ ტუჩონი"
+
+msgid "Tumbuka"
+msgstr "ტუმბუკა"
+
+msgid "Tuvalu"
+msgstr "ტუვალუ"
+
+msgid "Twi"
+msgstr "თუი"
+
+msgid "Tasawaq"
+msgstr "ტასავაქი"
+
+msgid "Tahitian"
+msgstr "ტაიტური"
+
+msgid "Tuvinian"
+msgstr "ტუვა"
+
+msgid "Central Atlas Tamazight"
+msgstr "ცენტრალური მოროკოს ტამაზიგხტი"
+
+msgid "Udmurt"
+msgstr "უდმურტული"
+
+msgid "Uyghur"
+msgstr "უიღურული"
+
+msgid "Ugaritic"
+msgstr "უგარითული"
+
+msgid "Ukrainian"
+msgstr "უკრაინული"
+
+msgid "Umbundu"
+msgstr "უმბუნდუ"
+
+msgid "Unknown language"
+msgstr "უცნობი ენა"
+
+msgid "Urdu"
+msgstr "ურდუ"
+
+msgid "Uzbek"
+msgstr "უზბეკური"
+
+msgid "Vai"
+msgstr "ვაი"
+
+msgid "Venda"
+msgstr "ვენდა"
+
+msgid "Vietnamese"
+msgstr "ვიეტნამური"
+
+msgid "Volapük"
+msgstr "ვოლაპუკი"
+
+msgid "Vunjo"
+msgstr "ვუნჯო"
+
+msgid "Walloon"
+msgstr "ვალონური"
+
+msgid "Walser"
+msgstr "ვალსერი"
+
+msgid "Wolaytta"
+msgstr "ველაითა"
+
+msgid "Waray"
+msgstr "ვარაი"
+
+msgid "Warlpiri"
+msgstr "ვალპირი"
+
+msgid "Wolof"
+msgstr "ვოლოფური"
+
+msgid "Wu Chinese"
+msgstr "ვუ"
+
+msgid "Kalmyk"
+msgstr "ყალმუხური"
+
+msgid "Xhosa"
+msgstr "ქჰოსა"
+
+msgid "Soga"
+msgstr "სოგა"
+
+msgid "Yangben"
+msgstr "იანგბენი"
+
+msgid "Yemba"
+msgstr "იემბა"
+
+msgid "Yiddish"
+msgstr "იდიში"
+
+msgid "Yoruba"
+msgstr "იორუბა"
+
+msgid "Nheengatu"
+msgstr "ნენგატუ"
+
+msgid "Cantonese"
+msgstr "კანტონური"
+
+msgid "Chinese, Cantonese"
+msgstr "ჩინური, კანტონური"
+
+msgid "Blissymbols"
+msgstr "ბლისსიმბოლოები"
+
+msgid "Zenaga"
+msgstr "ზენაგა"
+
+msgid "Standard Moroccan Tamazight"
+msgstr "სტანდარტული მაროკოული ტამაზიგხტი"
+
+msgid "Chinese"
+msgstr "ჩინური"
+
+msgid "Chinese, Mandarin"
+msgstr "ჩინური, მანდარინი"
+
+msgid "Simplified Chinese"
+msgstr "გამარტივებული ჩინური"
+
+msgid "Simplified Mandarin Chinese"
+msgstr "გამარტივებული ჩინური მანდარინი"
+
+msgid "Traditional Chinese"
+msgstr "ტრადიციული ჩინური"
+
+msgid "Traditional Mandarin Chinese"
+msgstr "ტრადიციული ჩინური მანდარინი"
+
+msgid "Zulu"
+msgstr "ზულუ"
+
+msgid "Zuni"
+msgstr "ზუნი"
+
+msgid "No linguistic content"
+msgstr "ლინგვისტური შიგთავსი არ არის"
+
+msgid "Zaza"
+msgstr "ზაზაკი"

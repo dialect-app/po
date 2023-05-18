@@ -1,0 +1,1663 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dialect-cldr-langs\n"
+"Language: bn\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Afar"
+msgstr "আফার"
+
+msgid "Abkhazian"
+msgstr "আবখাজিয়ান"
+
+msgid "Achinese"
+msgstr "অ্যাচাইনিজ"
+
+msgid "Acoli"
+msgstr "আকোলি"
+
+msgid "Adangme"
+msgstr "অদাগ্মে"
+
+msgid "Adyghe"
+msgstr "আদেগে"
+
+msgid "Avestan"
+msgstr "আবেস্তীয়"
+
+msgid "Afrikaans"
+msgstr "আফ্রিকান"
+
+msgid "Afrihili"
+msgstr "আফ্রিহিলি"
+
+msgid "Aghem"
+msgstr "এঘেম"
+
+msgid "Ainu"
+msgstr "আইনু"
+
+msgid "Akan"
+msgstr "আকান"
+
+msgid "Akkadian"
+msgstr "আক্কাদিয়ান"
+
+msgid "Aleut"
+msgstr "আলেউত"
+
+msgid "Southern Altai"
+msgstr "দক্ষিন আলতাই"
+
+msgid "Amharic"
+msgstr "আমহারিক"
+
+msgid "Aragonese"
+msgstr "আর্গোনিজ"
+
+msgid "Old English"
+msgstr "প্রাচীন ইংরেজী"
+
+msgid "Obolo"
+msgstr "ওবোলো"
+
+msgid "Angika"
+msgstr "আঙ্গিকা"
+
+msgid "Arabic"
+msgstr "আরবী"
+
+msgid "Modern Standard Arabic"
+msgstr "আধুনিক আদর্শ আরবী"
+
+msgid "Aramaic"
+msgstr "আরামাইক"
+
+msgid "Mapuche"
+msgstr "মাপুচে"
+
+msgid "Arapaho"
+msgstr "আরাপাহো"
+
+msgid "Najdi Arabic"
+msgstr "নজদি আরবি"
+
+msgid "Arawak"
+msgstr "আরাওয়াক"
+
+msgid "Assamese"
+msgstr "অসমীয়া"
+
+msgid "Asu"
+msgstr "আসু"
+
+msgid "Asturian"
+msgstr "আস্তুরিয়"
+
+msgid "Atikamekw"
+msgstr "আটিকামেকিউ"
+
+msgid "Avaric"
+msgstr "আভেরিক"
+
+msgid "Awadhi"
+msgstr "আওয়াধি"
+
+msgid "Aymara"
+msgstr "আয়মারা"
+
+msgid "Azerbaijani"
+msgstr "আজারবাইজানী"
+
+msgid "Azeri"
+msgstr "আজেরি"
+
+msgid "Bashkir"
+msgstr "বাশকির"
+
+msgid "Baluchi"
+msgstr "বেলুচী"
+
+msgid "Balinese"
+msgstr "বালিনীয়"
+
+msgid "Basaa"
+msgstr "বাসা"
+
+msgid "Belarusian"
+msgstr "বেলারুশিয়"
+
+msgid "Beja"
+msgstr "বেজা"
+
+msgid "Bemba"
+msgstr "বেম্বা"
+
+msgid "Bena"
+msgstr "বেনা"
+
+msgid "Bulgarian"
+msgstr "বুলগেরিয়"
+
+msgid "Western Balochi"
+msgstr "পশ্চিম বালোচি"
+
+msgid "Bhojpuri"
+msgstr "ভোজপুরি"
+
+msgid "Bislama"
+msgstr "বিসলামা"
+
+msgid "Bikol"
+msgstr "বিকোল"
+
+msgid "Bini"
+msgstr "বিনি"
+
+msgid "Siksiká"
+msgstr "সিকসিকা"
+
+msgid "Bambara"
+msgstr "বামবারা"
+
+msgid "Bangla"
+msgstr "বাংলা"
+
+msgid "Tibetan"
+msgstr "তিব্বতি"
+
+msgid "Breton"
+msgstr "ব্রেটন"
+
+msgid "Braj"
+msgstr "ব্রাজ"
+
+msgid "Bodo"
+msgstr "বোড়ো"
+
+msgid "Bosnian"
+msgstr "বসনীয়"
+
+msgid "Buriat"
+msgstr "বুরিয়াত"
+
+msgid "Buginese"
+msgstr "বুগিনিজ"
+
+msgid "Blin"
+msgstr "ব্লিন"
+
+msgid "Catalan"
+msgstr "কাতালান"
+
+msgid "Caddo"
+msgstr "ক্যাডো"
+
+msgid "Carib"
+msgstr "ক্যারিব"
+
+msgid "Cayuga"
+msgstr "কায়ুগা"
+
+msgid "Atsam"
+msgstr "আত্সাম"
+
+msgid "Chakma"
+msgstr "চাকমা"
+
+msgid "Chechen"
+msgstr "চেচেন"
+
+msgid "Cebuano"
+msgstr "চেবুয়ানো"
+
+msgid "Chiga"
+msgstr "চিগা"
+
+msgid "Chamorro"
+msgstr "চামোরো"
+
+msgid "Chibcha"
+msgstr "চিবচা"
+
+msgid "Chagatai"
+msgstr "চাগাতাই"
+
+msgid "Chuukese"
+msgstr "চুকিজ"
+
+msgid "Mari"
+msgstr "মারি"
+
+msgid "Chinook Jargon"
+msgstr "চিনুক জার্গন"
+
+msgid "Choctaw"
+msgstr "চকটাও"
+
+msgid "Chipewyan"
+msgstr "চিপেওয়ান"
+
+msgid "Cherokee"
+msgstr "চেরোকী"
+
+msgid "Cheyenne"
+msgstr "চেইয়েন"
+
+msgid "Central Kurdish"
+msgstr "মধ্য কুর্দিশ"
+
+msgid "Kurdish, Central"
+msgstr "কুর্দিশ, মধ্য"
+
+msgid "Kurdish, Sorani"
+msgstr "কুর্দিশ, সোরানি"
+
+msgid "Chilcotin"
+msgstr "চিলকোটিন"
+
+msgid "Corsican"
+msgstr "কর্সিকান"
+
+msgid "Coptic"
+msgstr "কপটিক"
+
+msgid "Cree"
+msgstr "ক্রি"
+
+msgid "Michif"
+msgstr "মিচিফ"
+
+msgid "Crimean Tatar"
+msgstr "ক্রিমিয়ান তুর্কি"
+
+msgid "Southern East Cree"
+msgstr "দক্ষিণ পূর্ব ক্রী"
+
+msgid "Plains Cree"
+msgstr "প্লেনস ক্রী"
+
+msgid "Northern East Cree"
+msgstr "উত্তর পূর্ব ক্রী"
+
+msgid "Moose Cree"
+msgstr "মুস ক্রী"
+
+msgid "Carolina Algonquian"
+msgstr "ক্যারোলিনা অ্যাল্গঙ্কুইয়ান"
+
+msgid "Seselwa Creole French"
+msgstr "সেসেলওয়া ক্রেওল ফ্রেঞ্চ"
+
+msgid "Czech"
+msgstr "চেক"
+
+msgid "Kashubian"
+msgstr "কাশুবিয়ান"
+
+msgid "Swampy Cree"
+msgstr "সোয়াম্পি ক্রী"
+
+msgid "Church Slavic"
+msgstr "চার্চ স্লাভিক"
+
+msgid "Chuvash"
+msgstr "চুবাস"
+
+msgid "Welsh"
+msgstr "ওয়েলশ"
+
+msgid "Danish"
+msgstr "ডেনিশ"
+
+msgid "Dakota"
+msgstr "ডাকোটা"
+
+msgid "Dargwa"
+msgstr "দার্গওয়া"
+
+msgid "Taita"
+msgstr "তাইতা"
+
+msgid "German"
+msgstr "জার্মান"
+
+msgid "Delaware"
+msgstr "ডেলাওয়ের"
+
+msgid "Slave"
+msgstr "স্ল্যাভ"
+
+msgid "Dogrib"
+msgstr "দোগ্রীব"
+
+msgid "Dinka"
+msgstr "ডিংকা"
+
+msgid "Zarma"
+msgstr "জার্মা"
+
+msgid "Dogri"
+msgstr "ডোগরি"
+
+msgid "Lower Sorbian"
+msgstr "নিম্নতর সোর্বিয়ান"
+
+msgid "Duala"
+msgstr "দুয়ালা"
+
+msgid "Middle Dutch"
+msgstr "মধ্য ডাচ"
+
+msgid "Divehi"
+msgstr "দিবেহি"
+
+msgid "Jola-Fonyi"
+msgstr "জোলা-ফনী"
+
+msgid "Dyula"
+msgstr "ডিউলা"
+
+msgid "Dzongkha"
+msgstr "জোংখা"
+
+msgid "Dazaga"
+msgstr "দাজাগা"
+
+msgid "Embu"
+msgstr "এম্বু"
+
+msgid "Ewe"
+msgstr "ইউয়ি"
+
+msgid "Efik"
+msgstr "এফিক"
+
+msgid "Ancient Egyptian"
+msgstr "প্রাচীন মিশরীয়"
+
+msgid "Ekajuk"
+msgstr "ইকাজুক"
+
+msgid "Greek"
+msgstr "গ্রিক"
+
+msgid "Elamite"
+msgstr "এলামাইট"
+
+msgid "English"
+msgstr "ইংরেজি"
+
+msgid "UK English"
+msgstr "ইংরেজি (যুক্তরাজ্য)"
+
+msgid "American English"
+msgstr "ইংরেজি (আমেরিকা)"
+
+msgid "US English"
+msgstr "ইংরেজি (যুক্তরাষ্ট্র)"
+
+msgid "Middle English"
+msgstr "মধ্য ইংরেজি"
+
+msgid "Esperanto"
+msgstr "এস্পেরান্তো"
+
+msgid "Spanish"
+msgstr "স্প্যানিশ"
+
+msgid "European Spanish"
+msgstr "স্প্যানিশ (ইউরোপ)"
+
+msgid "Estonian"
+msgstr "এস্তোনীয়"
+
+msgid "Basque"
+msgstr "বাস্ক"
+
+msgid "Ewondo"
+msgstr "ইওন্ডো"
+
+msgid "Persian"
+msgstr "ফার্সি"
+
+msgid "Dari"
+msgstr "দারি"
+
+msgid "Fang"
+msgstr "ফ্যাঙ্গ"
+
+msgid "Fanti"
+msgstr "ফান্তি"
+
+msgid "Fula"
+msgstr "ফুলাহ্"
+
+msgid "Finnish"
+msgstr "ফিনিশ"
+
+msgid "Filipino"
+msgstr "ফিলিপিনো"
+
+msgid "Fijian"
+msgstr "ফিজিয়ান"
+
+msgid "Faroese"
+msgstr "ফেরোইস"
+
+msgid "Fon"
+msgstr "ফন"
+
+msgid "French"
+msgstr "ফরাসি"
+
+msgid "Cajun French"
+msgstr "কাজুন ফরাসি"
+
+msgid "Middle French"
+msgstr "মধ্য ফরাসি"
+
+msgid "Old French"
+msgstr "প্রাচীন ফরাসি"
+
+msgid "Northern Frisian"
+msgstr "উত্তরাঞ্চলীয় ফ্রিসিয়ান"
+
+msgid "Eastern Frisian"
+msgstr "পূর্ব ফ্রিসিয়"
+
+msgid "Friulian"
+msgstr "ফ্রিউলিও"
+
+msgid "Western Frisian"
+msgstr "পশ্চিম ফ্রিসিয়ান"
+
+msgid "Irish"
+msgstr "আইরিশ"
+
+msgid "Ga"
+msgstr "গা"
+
+msgid "Gagauz"
+msgstr "গাগাউজ"
+
+msgid "Gan Chinese"
+msgstr "gan"
+
+msgid "Gayo"
+msgstr "গায়ো"
+
+msgid "Gbaya"
+msgstr "বায়া"
+
+msgid "Scottish Gaelic"
+msgstr "স্কটিশ-গ্যেলিক"
+
+msgid "Geez"
+msgstr "গীজ"
+
+msgid "Gilbertese"
+msgstr "গিলবার্টিজ"
+
+msgid "Galician"
+msgstr "গ্যালিশিয়"
+
+msgid "Middle High German"
+msgstr "মধ্য-উচ্চ জার্মানি"
+
+msgid "Guarani"
+msgstr "গুয়ারানি"
+
+msgid "Old High German"
+msgstr "প্রাচীন উচ্চ জার্মানি"
+
+msgid "Gondi"
+msgstr "গোন্ডি"
+
+msgid "Gorontalo"
+msgstr "গোরোন্তালো"
+
+msgid "Gothic"
+msgstr "গথিক"
+
+msgid "Grebo"
+msgstr "গ্রেবো"
+
+msgid "Ancient Greek"
+msgstr "প্রাচীন গ্রীক"
+
+msgid "Swiss German"
+msgstr "সুইস জার্মান"
+
+msgid "Gujarati"
+msgstr "গুজরাটি"
+
+msgid "Gusii"
+msgstr "গুসী"
+
+msgid "Manx"
+msgstr "ম্যাঙ্কস"
+
+msgid "Gwichʼin"
+msgstr "গওইচ্’ইন"
+
+msgid "Hausa"
+msgstr "হাউসা"
+
+msgid "Haida"
+msgstr "হাইডা"
+
+msgid "Hawaiian"
+msgstr "হাওয়াইয়ান"
+
+msgid "Southern Haida"
+msgstr "দক্ষিণী হায়দা"
+
+msgid "Hebrew"
+msgstr "হিব্রু"
+
+msgid "Hindi"
+msgstr "হিন্দি"
+
+msgid "Hinglish"
+msgstr "হিংলিশ"
+
+msgid "Hiligaynon"
+msgstr "হিলিগ্যায়নোন"
+
+msgid "Hittite"
+msgstr "হিট্টিট"
+
+msgid "Hmong"
+msgstr "হ্‌মোঙ"
+
+msgid "Hiri Motu"
+msgstr "হিরি মোতু"
+
+msgid "Croatian"
+msgstr "ক্রোয়েশীয়"
+
+msgid "Upper Sorbian"
+msgstr "উচ্চ সোর্বিয়ান"
+
+msgid "Xiang Chinese"
+msgstr "Xiang চীনা"
+
+msgid "Haitian Creole"
+msgstr "হাইতিয়ান ক্রেওল"
+
+msgid "Hungarian"
+msgstr "হাঙ্গেরীয়"
+
+msgid "Hupa"
+msgstr "হুপা"
+
+msgid "Halkomelem"
+msgstr "হাল্কোমেলেম"
+
+msgid "Armenian"
+msgstr "আর্মেনিয়"
+
+msgid "Herero"
+msgstr "হেরেরো"
+
+msgid "Interlingua"
+msgstr "ইন্টারলিঙ্গুয়া"
+
+msgid "Iban"
+msgstr "ইবান"
+
+msgid "Ibibio"
+msgstr "ইবিবিও"
+
+msgid "Indonesian"
+msgstr "ইন্দোনেশীয়"
+
+msgid "Interlingue"
+msgstr "ইন্টারলিঙ্গ"
+
+msgid "Igbo"
+msgstr "ইগ্‌বো"
+
+msgid "Sichuan Yi"
+msgstr "সিচুয়ান য়ি"
+
+msgid "Inupiaq"
+msgstr "ইনুপিয়াক"
+
+msgid "Western Canadian Inuktitut"
+msgstr "পশ্চিম কানাডিয় ইনুক্টিটুট"
+
+msgid "Iloko"
+msgstr "ইলোকো"
+
+msgid "Ingush"
+msgstr "ইঙ্গুশ"
+
+msgid "Ido"
+msgstr "ইডো"
+
+msgid "Icelandic"
+msgstr "আইসল্যান্ডীয়"
+
+msgid "Italian"
+msgstr "ইতালিয়"
+
+msgid "Inuktitut"
+msgstr "ইনুক্টিটুট"
+
+msgid "Japanese"
+msgstr "জাপানি"
+
+msgid "Lojban"
+msgstr "লোজবান"
+
+msgid "Ngomba"
+msgstr "গোম্বা"
+
+msgid "Machame"
+msgstr "মাকামে"
+
+msgid "Judeo-Persian"
+msgstr "জুদেও ফার্সি"
+
+msgid "Judeo-Arabic"
+msgstr "জুদেও আরবি"
+
+msgid "Javanese"
+msgstr "জাভানিজ"
+
+msgid "Georgian"
+msgstr "জর্জিয়ান"
+
+msgid "Kara-Kalpak"
+msgstr "কারা-কাল্পাক"
+
+msgid "Kabyle"
+msgstr "কাবাইলে"
+
+msgid "Kachin"
+msgstr "কাচিন"
+
+msgid "Jju"
+msgstr "জজু"
+
+msgid "Kamba"
+msgstr "কাম্বা"
+
+msgid "Kawi"
+msgstr "কাউই"
+
+msgid "Kabardian"
+msgstr "কাবার্ডিয়ান"
+
+msgid "Tyap"
+msgstr "টিয়াপ"
+
+msgid "Makonde"
+msgstr "মাকোন্দে"
+
+msgid "Kabuverdianu"
+msgstr "কাবুভারদিয়ানু"
+
+msgid "Koro"
+msgstr "কোরো"
+
+msgid "Kongo"
+msgstr "কঙ্গো"
+
+msgid "Kaingang"
+msgstr "কেইনগ্যাং"
+
+msgid "Khasi"
+msgstr "খাশি"
+
+msgid "Khotanese"
+msgstr "খোটানিজ"
+
+msgid "Koyra Chiini"
+msgstr "কোয়রা চীনি"
+
+msgid "Kikuyu"
+msgstr "কিকুয়ু"
+
+msgid "Kuanyama"
+msgstr "কোয়ানিয়ামা"
+
+msgid "Kazakh"
+msgstr "কাজাখ"
+
+msgid "Kako"
+msgstr "কাকো"
+
+msgid "Kalaallisut"
+msgstr "কালাল্লিসুট"
+
+msgid "Kalenjin"
+msgstr "কালেনজিন"
+
+msgid "Khmer"
+msgstr "খমের"
+
+msgid "Kimbundu"
+msgstr "কিম্বুন্দু"
+
+msgid "Kannada"
+msgstr "কন্নড়"
+
+msgid "Korean"
+msgstr "কোরিয়ান"
+
+msgid "Komi-Permyak"
+msgstr "কমি-পারমিআক"
+
+msgid "Konkani"
+msgstr "কোঙ্কানি"
+
+msgid "Kosraean"
+msgstr "কোস্রাইন"
+
+msgid "Kpelle"
+msgstr "ক্‌পেল্লে"
+
+msgid "Kanuri"
+msgstr "কানুরি"
+
+msgid "Karachay-Balkar"
+msgstr "কারচে-বাল্কার"
+
+msgid "Karelian"
+msgstr "কারেলিয়ান"
+
+msgid "Kurukh"
+msgstr "কুরুখ"
+
+msgid "Kashmiri"
+msgstr "কাশ্মীরি"
+
+msgid "Shambala"
+msgstr "শাম্বালা"
+
+msgid "Bafia"
+msgstr "বাফিয়া"
+
+msgid "Colognian"
+msgstr "কলোগনিয়ান"
+
+msgid "Kurdish"
+msgstr "কুর্দিশ"
+
+msgid "Kumyk"
+msgstr "কুমিয়াক"
+
+msgid "Kutenai"
+msgstr "কুটেনাই"
+
+msgid "Komi"
+msgstr "কোমি"
+
+msgid "Cornish"
+msgstr "কর্ণিশ"
+
+msgid "Kwakʼwala"
+msgstr "কোয়াক’ওয়ালা"
+
+msgid "Kyrgyz"
+msgstr "কির্গিজ"
+
+msgid "Latin"
+msgstr "লাতিন"
+
+msgid "Ladino"
+msgstr "লাদিনো"
+
+msgid "Langi"
+msgstr "লাঙ্গি"
+
+msgid "Western Panjabi"
+msgstr "লান্ডা"
+
+msgid "Lamba"
+msgstr "লাম্বা"
+
+msgid "Luxembourgish"
+msgstr "লুক্সেমবার্গীয়"
+
+msgid "Lezghian"
+msgstr "লেজঘিয়ান"
+
+msgid "Ganda"
+msgstr "গান্ডা"
+
+msgid "Limburgish"
+msgstr "লিম্বুর্গিশ"
+
+msgid "Lillooet"
+msgstr "লিল্লুয়েট"
+
+msgid "Lakota"
+msgstr "লাকোটা"
+
+msgid "Lombard"
+msgstr "লম্বার্ড"
+
+msgid "Lingala"
+msgstr "লিঙ্গালা"
+
+msgid "Lao"
+msgstr "লাও"
+
+msgid "Mongo"
+msgstr "মোঙ্গো"
+
+msgid "Louisiana Creole"
+msgstr "লুইসিয়ানা ক্রেওল"
+
+msgid "Lozi"
+msgstr "লোজি"
+
+msgid "Northern Luri"
+msgstr "উত্তরাঞ্চলীয় লুরি"
+
+msgid "Saamia"
+msgstr "সামিয়া"
+
+msgid "Lithuanian"
+msgstr "লিথুয়েনীয়"
+
+msgid "Luba-Katanga"
+msgstr "লুবা-কাটাঙ্গা"
+
+msgid "Luba-Lulua"
+msgstr "লুবা-লুলুয়া"
+
+msgid "Luiseno"
+msgstr "লুইসেনো"
+
+msgid "Lunda"
+msgstr "লুন্ডা"
+
+msgid "Luo"
+msgstr "লুয়ো"
+
+msgid "Mizo"
+msgstr "মিজো"
+
+msgid "Luyia"
+msgstr "লুইয়া"
+
+msgid "Latvian"
+msgstr "লাত্‌ভীয়"
+
+msgid "Madurese"
+msgstr "মাদুরেজ"
+
+msgid "Magahi"
+msgstr "মাগাহি"
+
+msgid "Maithili"
+msgstr "মৈথিলি"
+
+msgid "Makasar"
+msgstr "ম্যাকাসার"
+
+msgid "Mandingo"
+msgstr "ম্যান্ডিঙ্গো"
+
+msgid "Masai"
+msgstr "মাসাই"
+
+msgid "Moksha"
+msgstr "মোকশা"
+
+msgid "Mandar"
+msgstr "ম্যাণ্ডার"
+
+msgid "Mende"
+msgstr "মেন্ডে"
+
+msgid "Meru"
+msgstr "মেরু"
+
+msgid "Morisyen"
+msgstr "মরিসিয়েন"
+
+msgid "Malagasy"
+msgstr "মালাগাসি"
+
+msgid "Middle Irish"
+msgstr "মধ্য আইরিশ"
+
+msgid "Makhuwa-Meetto"
+msgstr "মাখুয়া-মেত্তো"
+
+msgid "Metaʼ"
+msgstr "মেটা"
+
+msgid "Marshallese"
+msgstr "মার্শালিজ"
+
+msgid "Māori"
+msgstr "মাওরি"
+
+msgid "Mi'kmaq"
+msgstr "মিকম্যাক"
+
+msgid "Minangkabau"
+msgstr "মিনাংকাবাউ"
+
+msgid "Macedonian"
+msgstr "ম্যাসিডোনীয়"
+
+msgid "Malayalam"
+msgstr "মালায়ালাম"
+
+msgid "Mongolian"
+msgstr "মঙ্গোলিয়"
+
+msgid "Manchu"
+msgstr "মাঞ্চু"
+
+msgid "Manipuri"
+msgstr "মণিপুরী"
+
+msgid "Innu-aimun"
+msgstr "ইন্নু-এমুন"
+
+msgid "Mohawk"
+msgstr "মোহাওক"
+
+msgid "Mossi"
+msgstr "মসি"
+
+msgid "Marathi"
+msgstr "মারাঠি"
+
+msgid "Malay"
+msgstr "মালয়"
+
+msgid "Maltese"
+msgstr "মল্টিয়"
+
+msgid "Mundang"
+msgstr "মুদাঙ্গ"
+
+msgid "Multiple languages"
+msgstr "একাধিক ভাষা"
+
+msgid "Muscogee"
+msgstr "মুস্কোগী"
+
+msgid "Mirandese"
+msgstr "মিরান্ডিজ"
+
+msgid "Marwari"
+msgstr "মারোয়ারি"
+
+msgid "Burmese"
+msgstr "বর্মি"
+
+msgid "Erzya"
+msgstr "এরজিয়া"
+
+msgid "Mazanderani"
+msgstr "মাজানদেরানি"
+
+msgid "Nauru"
+msgstr "নাউরু"
+
+msgid "Neapolitan"
+msgstr "নেয়াপোলিটান"
+
+msgid "Nama"
+msgstr "নামা"
+
+msgid "Norwegian Bokmål"
+msgstr "নরওয়েজিয়ান বোকমাল"
+
+msgid "North Ndebele"
+msgstr "উত্তর এন্দেবেলে"
+
+msgid "Low German"
+msgstr "নিম্ন জার্মানি"
+
+msgid "Low Saxon"
+msgstr "লো স্যাক্সন"
+
+msgid "Nepali"
+msgstr "নেপালী"
+
+msgid "Newari"
+msgstr "নেওয়ারি"
+
+msgid "Ndonga"
+msgstr "এন্দোঙ্গা"
+
+msgid "Nias"
+msgstr "নিয়াস"
+
+msgid "Niuean"
+msgstr "নিউয়ান"
+
+msgid "Dutch"
+msgstr "ওলন্দাজ"
+
+msgid "Flemish"
+msgstr "ফ্লেমিশ"
+
+msgid "Kwasio"
+msgstr "কোয়াসিও"
+
+msgid "Norwegian Nynorsk"
+msgstr "নরওয়েজিয়ান নিনর্স্ক"
+
+msgid "Ngiemboon"
+msgstr "নগিয়েম্বুন"
+
+msgid "Norwegian"
+msgstr "নরওয়েজীয়"
+
+msgid "Nogai"
+msgstr "নোগাই"
+
+msgid "Old Norse"
+msgstr "প্রাচীন নর্স"
+
+msgid "N’Ko"
+msgstr "এন’কো"
+
+msgid "South Ndebele"
+msgstr "দক্ষিণ এনডেবেলে"
+
+msgid "Northern Sotho"
+msgstr "উত্তরাঞ্চলীয় সোথো"
+
+msgid "Nuer"
+msgstr "নুয়ার"
+
+msgid "Navajo"
+msgstr "নাভাজো"
+
+msgid "Classical Newari"
+msgstr "প্রাচীন নেওয়ারী"
+
+msgid "Nyanja"
+msgstr "নায়াঞ্জা"
+
+msgid "Nyamwezi"
+msgstr "ন্যায়ামওয়েজি"
+
+msgid "Nyankole"
+msgstr "ন্যায়াঙ্কোলে"
+
+msgid "Nyoro"
+msgstr "ন্যোরো"
+
+msgid "Nzima"
+msgstr "এনজিমা"
+
+msgid "Occitan"
+msgstr "অক্সিটান"
+
+msgid "Ojibwa"
+msgstr "ওজিবওয়া"
+
+msgid "Northwestern Ojibwa"
+msgstr "উত্তর পশ্চিম ওজিবোয়া"
+
+msgid "Central Ojibwa"
+msgstr "মধ্য ওজিবুয়া"
+
+msgid "Oji-Cree"
+msgstr "ওজি-ক্রী"
+
+msgid "Western Ojibwa"
+msgstr "পশ্চিম ওজিবোয়া"
+
+msgid "Okanagan"
+msgstr "ওকানাগান"
+
+msgid "Oromo"
+msgstr "অরোমো"
+
+msgid "Odia"
+msgstr "ওড়িয়া"
+
+msgid "Ossetic"
+msgstr "ওসেটিক"
+
+msgid "Osage"
+msgstr "ওসেজ"
+
+msgid "Ottoman Turkish"
+msgstr "অটোমান তুর্কি"
+
+msgid "Punjabi"
+msgstr "পাঞ্জাবী"
+
+msgid "Pangasinan"
+msgstr "পাঙ্গাসিনান"
+
+msgid "Pahlavi"
+msgstr "পাহ্লাভি"
+
+msgid "Pampanga"
+msgstr "পাম্পাঙ্গা"
+
+msgid "Papiamento"
+msgstr "পাপিয়ামেন্টো"
+
+msgid "Palauan"
+msgstr "পালায়ুয়ান"
+
+msgid "Nigerian Pidgin"
+msgstr "নাইজেরিয় পিজিন"
+
+msgid "Old Persian"
+msgstr "প্রাচীন ফার্সি"
+
+msgid "Phoenician"
+msgstr "ফোনিশীয়ান"
+
+msgid "Pali"
+msgstr "পালি"
+
+msgid "Pijin"
+msgstr "পিজিন"
+
+msgid "Polish"
+msgstr "পোলিশ"
+
+msgid "Pohnpeian"
+msgstr "পোহ্নপেইয়ান"
+
+msgid "Maliseet-Passamaquoddy"
+msgstr "মালিসেট-পাসামাকুয়োড্ডি"
+
+msgid "Prussian"
+msgstr "প্রুশিয়ান"
+
+msgid "Old Provençal"
+msgstr "প্রাচীন প্রোভেনসাল"
+
+msgid "Pashto"
+msgstr "পাশতু"
+
+msgid "Pushto"
+msgstr "পুশতো"
+
+msgid "Portuguese"
+msgstr "পর্তুগীজ"
+
+msgid "European Portuguese"
+msgstr "পর্তুগীজ (ইউরোপ)"
+
+msgid "Quechua"
+msgstr "কেচুয়া"
+
+msgid "Kʼicheʼ"
+msgstr "কি‘চে"
+
+msgid "Rajasthani"
+msgstr "রাজস্থানী"
+
+msgid "Rapanui"
+msgstr "রাপানুই"
+
+msgid "Rarotongan"
+msgstr "রারোটোংগান"
+
+msgid "Rohingya"
+msgstr "রোহিঙ্গা"
+
+msgid "Romansh"
+msgstr "রোমান্স"
+
+msgid "Rundi"
+msgstr "রুন্দি"
+
+msgid "Romanian"
+msgstr "রোমানীয়"
+
+msgid "Moldavian"
+msgstr "মলদাভিয়"
+
+msgid "Rombo"
+msgstr "রম্বো"
+
+msgid "Romany"
+msgstr "রোমানি"
+
+msgid "Russian"
+msgstr "রুশ"
+
+msgid "Aromanian"
+msgstr "আরোমেনিয়"
+
+msgid "Kinyarwanda"
+msgstr "কিনয়ারোয়ান্ডা"
+
+msgid "Rwa"
+msgstr "রাওয়া"
+
+msgid "Sanskrit"
+msgstr "সংস্কৃত"
+
+msgid "Sandawe"
+msgstr "সান্দাওয়ে"
+
+msgid "Yakut"
+msgstr "শাখা"
+
+msgid "Samaritan Aramaic"
+msgstr "সামারিটান আরামিক"
+
+msgid "Samburu"
+msgstr "সামবুরু"
+
+msgid "Sasak"
+msgstr "সাসাক"
+
+msgid "Santali"
+msgstr "সাঁওতালি"
+
+msgid "Ngambay"
+msgstr "গাম্বে"
+
+msgid "Sangu"
+msgstr "সাঙ্গু"
+
+msgid "Sardinian"
+msgstr "সার্ডিনিয়ান"
+
+msgid "Sicilian"
+msgstr "সিসিলিয়ান"
+
+msgid "Scots"
+msgstr "স্কটস"
+
+msgid "Sindhi"
+msgstr "সিন্ধি"
+
+msgid "Southern Kurdish"
+msgstr "দক্ষিণ কুর্দিশ"
+
+msgid "Northern Sami"
+msgstr "উত্তরাঞ্চলীয় সামি"
+
+msgid "Sena"
+msgstr "সেনা"
+
+msgid "Selkup"
+msgstr "সেল্কুপ"
+
+msgid "Koyraboro Senni"
+msgstr "কোয়রাবোরো সেন্নি"
+
+msgid "Sango"
+msgstr "সাঙ্গো"
+
+msgid "Old Irish"
+msgstr "প্রাচীন আইরিশ"
+
+msgid "Serbo-Croatian"
+msgstr "সার্বো-ক্রোয়েশিয়"
+
+msgid "Tachelhit"
+msgstr "তাচেলহিত"
+
+msgid "Shan"
+msgstr "শান"
+
+msgid "Sinhala"
+msgstr "সিংহলী"
+
+msgid "Sidamo"
+msgstr "সিডামো"
+
+msgid "Slovak"
+msgstr "স্লোভাক"
+
+msgid "Slovenian"
+msgstr "স্লোভেনীয়"
+
+msgid "Southern Lushootseed"
+msgstr "দক্ষিণী লুশুটসীড"
+
+msgid "Samoan"
+msgstr "সামোয়ান"
+
+msgid "Southern Sami"
+msgstr "দক্ষিণাঞ্চলীয় সামি"
+
+msgid "Lule Sami"
+msgstr "লুলে সামি"
+
+msgid "Inari Sami"
+msgstr "ইনারি সামি"
+
+msgid "Skolt Sami"
+msgstr "স্কোল্ট সামি"
+
+msgid "Shona"
+msgstr "শোনা"
+
+msgid "Soninke"
+msgstr "সোনিঙ্কে"
+
+msgid "Somali"
+msgstr "সোমালি"
+
+msgid "Sogdien"
+msgstr "সোগডিয়ান"
+
+msgid "Albanian"
+msgstr "আলবেনীয়"
+
+msgid "Serbian"
+msgstr "সার্বীয়"
+
+msgid "Sranan Tongo"
+msgstr "স্রানান টোঙ্গো"
+
+msgid "Serer"
+msgstr "সেরের"
+
+msgid "Swati"
+msgstr "সোয়াতি"
+
+msgid "Saho"
+msgstr "সাহো"
+
+msgid "Southern Sotho"
+msgstr "দক্ষিন সোথো"
+
+msgid "Straits Salish"
+msgstr "স্ট্রেটস সালিস"
+
+msgid "Sundanese"
+msgstr "সুদানী"
+
+msgid "Sukuma"
+msgstr "সুকুমা"
+
+msgid "Susu"
+msgstr "সুসু"
+
+msgid "Sumerian"
+msgstr "সুমেরীয়"
+
+msgid "Swedish"
+msgstr "সুইডিশ"
+
+msgid "Swahili"
+msgstr "সোয়াহিলি"
+
+msgid "Congo Swahili"
+msgstr "কঙ্গো সোয়াহিলি"
+
+msgid "Comorian"
+msgstr "কমোরিয়ান"
+
+msgid "Classical Syriac"
+msgstr "প্রাচীন সিরিও"
+
+msgid "Syriac"
+msgstr "সিরিয়াক"
+
+msgid "Tamil"
+msgstr "তামিল"
+
+msgid "Southern Tutchone"
+msgstr "দক্ষিণী টুচোন"
+
+msgid "Telugu"
+msgstr "তেলুগু"
+
+msgid "Timne"
+msgstr "টাইম্নে"
+
+msgid "Teso"
+msgstr "তেসো"
+
+msgid "Tereno"
+msgstr "তেরেনো"
+
+msgid "Tetum"
+msgstr "তেতুম"
+
+msgid "Tajik"
+msgstr "তাজিক"
+
+msgid "Tagish"
+msgstr "তাগিশ"
+
+msgid "Thai"
+msgstr "থাই"
+
+msgid "Tahltan"
+msgstr "তাহ্লতান"
+
+msgid "Tigrinya"
+msgstr "তিগরিনিয়া"
+
+msgid "Tigre"
+msgstr "টাইগ্রে"
+
+msgid "Tiv"
+msgstr "টিভ"
+
+msgid "Turkmen"
+msgstr "তুর্কমেনী"
+
+msgid "Tokelau"
+msgstr "টোকেলাউ"
+
+msgid "Tagalog"
+msgstr "তাগালগ"
+
+msgid "Klingon"
+msgstr "ক্লিঙ্গন"
+
+msgid "Tlingit"
+msgstr "ত্লিঙ্গিট"
+
+msgid "Tamashek"
+msgstr "তামাশেক"
+
+msgid "Tswana"
+msgstr "সোয়ানা"
+
+msgid "Tongan"
+msgstr "টোঙ্গান"
+
+msgid "Nyasa Tonga"
+msgstr "নায়াসা টোঙ্গা"
+
+msgid "Toki Pona"
+msgstr "টোকি পোনা"
+
+msgid "Tok Pisin"
+msgstr "টোক পিসিন"
+
+msgid "Turkish"
+msgstr "তুর্কী"
+
+msgid "Taroko"
+msgstr "তারোকো"
+
+msgid "Tsonga"
+msgstr "সঙ্গা"
+
+msgid "Tsimshian"
+msgstr "সিমশিয়ান"
+
+msgid "Tatar"
+msgstr "তাতার"
+
+msgid "Northern Tutchone"
+msgstr "উত্তরাঞ্চলীয় টুচোন"
+
+msgid "Tumbuka"
+msgstr "তুম্বুকা"
+
+msgid "Tuvalu"
+msgstr "টুভালু"
+
+msgid "Twi"
+msgstr "টোয়াই"
+
+msgid "Tasawaq"
+msgstr "তাসাওয়াক"
+
+msgid "Tahitian"
+msgstr "তাহিতিয়ান"
+
+msgid "Tuvinian"
+msgstr "টুভিনিয়ান"
+
+msgid "Central Atlas Tamazight"
+msgstr "সেন্ট্রাল আটলাস তামাজিগাত"
+
+msgid "Udmurt"
+msgstr "উডমুর্ট"
+
+msgid "Uyghur"
+msgstr "উইঘুর"
+
+msgid "Ugaritic"
+msgstr "উগারিটিক"
+
+msgid "Ukrainian"
+msgstr "ইউক্রেনীয়"
+
+msgid "Umbundu"
+msgstr "উম্বুন্দু"
+
+msgid "Unknown language"
+msgstr "অজানা ভাষা"
+
+msgid "Urdu"
+msgstr "উর্দু"
+
+msgid "Uzbek"
+msgstr "উজবেক"
+
+msgid "Vai"
+msgstr "ভাই"
+
+msgid "Venda"
+msgstr "ভেন্ডা"
+
+msgid "Vietnamese"
+msgstr "ভিয়েতনামী"
+
+msgid "Volapük"
+msgstr "ভোলাপুক"
+
+msgid "Votic"
+msgstr "ভোটিক"
+
+msgid "Vunjo"
+msgstr "ভুঞ্জো"
+
+msgid "Walloon"
+msgstr "ওয়ালুন"
+
+msgid "Walser"
+msgstr "ওয়ালসার"
+
+msgid "Wolaytta"
+msgstr "ওলায়ট্টা"
+
+msgid "Waray"
+msgstr "ওয়ারে"
+
+msgid "Washo"
+msgstr "ওয়াশো"
+
+msgid "Warlpiri"
+msgstr "ওয়ার্লপিরি"
+
+msgid "Wolof"
+msgstr "ওলোফ"
+
+msgid "Wu Chinese"
+msgstr "উ চীনা"
+
+msgid "Kalmyk"
+msgstr "কাল্মাইক"
+
+msgid "Xhosa"
+msgstr "জোসা"
+
+msgid "Soga"
+msgstr "সোগা"
+
+msgid "Yao"
+msgstr "ইয়াও"
+
+msgid "Yapese"
+msgstr "ইয়াপেসে"
+
+msgid "Yangben"
+msgstr "ইয়াঙ্গবেন"
+
+msgid "Yemba"
+msgstr "ইয়েম্বা"
+
+msgid "Yiddish"
+msgstr "ইদ্দিশ"
+
+msgid "Yoruba"
+msgstr "ইওরুবা"
+
+msgid "Nheengatu"
+msgstr "নহিংগাটু"
+
+msgid "Cantonese"
+msgstr "ক্যান্টোনিজ"
+
+msgid "Chinese, Cantonese"
+msgstr "চীনা, ক্যানটোনীজ"
+
+msgid "Zhuang"
+msgstr "ঝু্য়াঙ"
+
+msgid "Zapotec"
+msgstr "জাপোটেক"
+
+msgid "Blissymbols"
+msgstr "চিত্র ভাষা"
+
+msgid "Zenaga"
+msgstr "জেনাগা"
+
+msgid "Standard Moroccan Tamazight"
+msgstr "আদর্শ মরক্কোন তামাজিগাত"
+
+msgid "Chinese"
+msgstr "চীনা"
+
+msgid "Chinese, Mandarin"
+msgstr "চীনা, ম্যান্ডারিন"
+
+msgid "Simplified Mandarin Chinese"
+msgstr "চীনা ম্যান্ডারিন সরলীকৃত"
+
+msgid "Traditional Mandarin Chinese"
+msgstr "ম্যান্ডারিন চীনা (ঐতিহ্যবাহী)"
+
+msgid "Zulu"
+msgstr "জুলু"
+
+msgid "Zuni"
+msgstr "জুনি"
+
+msgid "No linguistic content"
+msgstr "ভাষাভিত্তিক বিষয়বস্তু নেই"
+
+msgid "Zaza"
+msgstr "জাজা"

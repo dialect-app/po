@@ -1,0 +1,577 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dialect-cldr-langs\n"
+"Language: fur\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Afar"
+msgstr "afar"
+
+msgid "Abkhazian"
+msgstr "abcazian"
+
+msgid "Avestan"
+msgstr "avestan"
+
+msgid "Afrikaans"
+msgstr "afrikaans"
+
+msgid "Amharic"
+msgstr "amaric"
+
+msgid "Aragonese"
+msgstr "aragonês"
+
+msgid "Old English"
+msgstr "vieri inglês"
+
+msgid "Arabic"
+msgstr "arap"
+
+msgid "Aramaic"
+msgstr "aramaic"
+
+msgid "Assamese"
+msgstr "assamês"
+
+msgid "Asturian"
+msgstr "asturian"
+
+msgid "Avaric"
+msgstr "avar"
+
+msgid "Aymara"
+msgstr "aymarà"
+
+msgid "Azerbaijani"
+msgstr "azerbaijani"
+
+msgid "Azeri"
+msgstr "azerbaijani"
+
+msgid "Belarusian"
+msgstr "bielorùs"
+
+msgid "Bulgarian"
+msgstr "bulgar"
+
+msgid "Bangla"
+msgstr "bengalês"
+
+msgid "Tibetan"
+msgstr "tibetan"
+
+msgid "Breton"
+msgstr "breton"
+
+msgid "Bosnian"
+msgstr "bosniac"
+
+msgid "Catalan"
+msgstr "catalan"
+
+msgid "Chechen"
+msgstr "cecen"
+
+msgid "Chamorro"
+msgstr "chamorro"
+
+msgid "Corsican"
+msgstr "cors"
+
+msgid "Coptic"
+msgstr "coptic"
+
+msgid "Cree"
+msgstr "cree"
+
+msgid "Czech"
+msgstr "cec"
+
+msgid "Church Slavic"
+msgstr "sclâf de glesie"
+
+msgid "Welsh"
+msgstr "galês"
+
+msgid "Danish"
+msgstr "danês"
+
+msgid "German"
+msgstr "todesc"
+
+msgid "Austrian German"
+msgstr "todesc de Austrie"
+
+msgid "Swiss High German"
+msgstr "alt todesc de Svuizare"
+
+msgid "Slave"
+msgstr "sclâf"
+
+msgid "Ancient Egyptian"
+msgstr "vieri egjizian"
+
+msgid "Greek"
+msgstr "grêc"
+
+msgid "English"
+msgstr "inglês"
+
+msgid "Australian English"
+msgstr "inglês australian"
+
+msgid "Canadian English"
+msgstr "inglês canadês"
+
+msgid "British English"
+msgstr "inglês britanic"
+
+msgid "UK English"
+msgstr "inglês britanic"
+
+msgid "American English"
+msgstr "ingles merecan"
+
+msgid "US English"
+msgstr "ingles merecan"
+
+msgid "Esperanto"
+msgstr "esperanto"
+
+msgid "Spanish"
+msgstr "spagnûl"
+
+msgid "Latin American Spanish"
+msgstr "spagnûl de Americhe Latine"
+
+msgid "European Spanish"
+msgstr "spagnûl iberic"
+
+msgid "Estonian"
+msgstr "eston"
+
+msgid "Basque"
+msgstr "basc"
+
+msgid "Persian"
+msgstr "persian"
+
+msgid "Fula"
+msgstr "fulah"
+
+msgid "Finnish"
+msgstr "finlandês"
+
+msgid "Filipino"
+msgstr "filipin"
+
+msgid "Fijian"
+msgstr "fizian"
+
+msgid "Faroese"
+msgstr "faroês"
+
+msgid "French"
+msgstr "francês"
+
+msgid "Canadian French"
+msgstr "francês dal Canade"
+
+msgid "Swiss French"
+msgstr "francês de Svuizare"
+
+msgid "Old French"
+msgstr "vieri francês"
+
+msgid "Friulian"
+msgstr "furlan"
+
+msgid "Western Frisian"
+msgstr "frisian"
+
+msgid "Irish"
+msgstr "gaelic irlandês"
+
+msgid "Scottish Gaelic"
+msgstr "gaelic scozês"
+
+msgid "Galician"
+msgstr "galizian"
+
+msgid "Guarani"
+msgstr "guaranì"
+
+msgid "Gothic"
+msgstr "gotic"
+
+msgid "Ancient Greek"
+msgstr "vieri grêc"
+
+msgid "Gujarati"
+msgstr "gujarati"
+
+msgid "Manx"
+msgstr "manx"
+
+msgid "Hebrew"
+msgstr "ebraic"
+
+msgid "Hindi"
+msgstr "hindi"
+
+msgid "Croatian"
+msgstr "cravuat"
+
+msgid "Haitian Creole"
+msgstr "haitian"
+
+msgid "Hungarian"
+msgstr "ongjarês"
+
+msgid "Armenian"
+msgstr "armen"
+
+msgid "Indonesian"
+msgstr "indonesian"
+
+msgid "Igbo"
+msgstr "igbo"
+
+msgid "Inupiaq"
+msgstr "inupiaq"
+
+msgid "Ido"
+msgstr "ido"
+
+msgid "Icelandic"
+msgstr "islandês"
+
+msgid "Italian"
+msgstr "talian"
+
+msgid "Inuktitut"
+msgstr "inuktitut"
+
+msgid "Japanese"
+msgstr "gjaponês"
+
+msgid "Georgian"
+msgstr "gjeorgjian"
+
+msgid "Kazakh"
+msgstr "kazac"
+
+msgid "Kalaallisut"
+msgstr "kalaallisut"
+
+msgid "Khmer"
+msgstr "khmer"
+
+msgid "Kannada"
+msgstr "kannada"
+
+msgid "Korean"
+msgstr "corean"
+
+msgid "Kurdish"
+msgstr "curd"
+
+msgid "Cornish"
+msgstr "cornualiês"
+
+msgid "Latin"
+msgstr "latin"
+
+msgid "Ladino"
+msgstr "ladin"
+
+msgid "Luxembourgish"
+msgstr "lussemburghês"
+
+msgid "Limburgish"
+msgstr "limburghês"
+
+msgid "Lingala"
+msgstr "lingala"
+
+msgid "Lao"
+msgstr "lao"
+
+msgid "Lithuanian"
+msgstr "lituan"
+
+msgid "Latvian"
+msgstr "leton"
+
+msgid "Malagasy"
+msgstr "malagasy"
+
+msgid "Māori"
+msgstr "maori"
+
+msgid "Macedonian"
+msgstr "macedon"
+
+msgid "Malayalam"
+msgstr "malayalam"
+
+msgid "Mongolian"
+msgstr "mongul"
+
+msgid "Marathi"
+msgstr "marathi"
+
+msgid "Malay"
+msgstr "malês"
+
+msgid "Maltese"
+msgstr "maltês"
+
+msgid "Multiple languages"
+msgstr "lenghis multiplis"
+
+msgid "Mirandese"
+msgstr "mirandês"
+
+msgid "Neapolitan"
+msgstr "napoletan"
+
+msgid "Norwegian Bokmål"
+msgstr "norvegjês bokmål"
+
+msgid "North Ndebele"
+msgstr "ndebele setentrionâl"
+
+msgid "Low German"
+msgstr "bas todesc"
+
+msgid "Nepali"
+msgstr "nepalês"
+
+msgid "Dutch"
+msgstr "olandês"
+
+msgid "Flemish"
+msgstr "flamant"
+
+msgid "Norwegian Nynorsk"
+msgstr "norvegjês nynorsk"
+
+msgid "Norwegian"
+msgstr "norvegjês"
+
+msgid "Old Norse"
+msgstr "vieri norvegjês"
+
+msgid "Northern Sotho"
+msgstr "sotho setentrionâl"
+
+msgid "Navajo"
+msgstr "navajo"
+
+msgid "Occitan"
+msgstr "ocitan"
+
+msgid "Odia"
+msgstr "oriya"
+
+msgid "Ossetic"
+msgstr "osetic"
+
+msgid "Ottoman Turkish"
+msgstr "turc otoman"
+
+msgid "Punjabi"
+msgstr "punjabi"
+
+msgid "Papiamento"
+msgstr "papiamento"
+
+msgid "Old Persian"
+msgstr "vieri persian"
+
+msgid "Polish"
+msgstr "polac"
+
+msgid "Old Provençal"
+msgstr "vieri provenzâl"
+
+msgid "Pashto"
+msgstr "pashto"
+
+msgid "Portuguese"
+msgstr "portughês"
+
+msgid "Brazilian Portuguese"
+msgstr "portughês brasilian"
+
+msgid "European Portuguese"
+msgstr "portughês iberic"
+
+msgid "Quechua"
+msgstr "quechua"
+
+msgid "Romansh"
+msgstr "rumanç"
+
+msgid "Romanian"
+msgstr "romen"
+
+msgid "Moldavian"
+msgstr "moldâf"
+
+msgid "Russian"
+msgstr "rus"
+
+msgid "Sanskrit"
+msgstr "sanscrit"
+
+msgid "Sardinian"
+msgstr "sardegnûl"
+
+msgid "Sicilian"
+msgstr "sicilian"
+
+msgid "Scots"
+msgstr "scozês"
+
+msgid "Sindhi"
+msgstr "sindhi"
+
+msgid "Northern Sami"
+msgstr "sami setentrionâl"
+
+msgid "Sango"
+msgstr "sango"
+
+msgid "Old Irish"
+msgstr "vieri irlandês"
+
+msgid "Sinhala"
+msgstr "sinalês"
+
+msgid "Slovak"
+msgstr "slovac"
+
+msgid "Slovenian"
+msgstr "sloven"
+
+msgid "Samoan"
+msgstr "samoan"
+
+msgid "Somali"
+msgstr "somal"
+
+msgid "Albanian"
+msgstr "albanês"
+
+msgid "Serbian"
+msgstr "serp"
+
+msgid "Swati"
+msgstr "swati"
+
+msgid "Southern Sotho"
+msgstr "sotho meridionâl"
+
+msgid "Sundanese"
+msgstr "sundanês"
+
+msgid "Sumerian"
+msgstr "sumeric"
+
+msgid "Swedish"
+msgstr "svedês"
+
+msgid "Swahili"
+msgstr "swahili"
+
+msgid "Tamil"
+msgstr "tamil"
+
+msgid "Telugu"
+msgstr "telegu"
+
+msgid "Tetum"
+msgstr "tetum"
+
+msgid "Tajik"
+msgstr "tagic"
+
+msgid "Thai"
+msgstr "thai"
+
+msgid "Turkmen"
+msgstr "turcmen"
+
+msgid "Tagalog"
+msgstr "tagalog"
+
+msgid "Turkish"
+msgstr "turc"
+
+msgid "Tatar"
+msgstr "tartar"
+
+msgid "Tahitian"
+msgstr "tahitian"
+
+msgid "Uyghur"
+msgstr "uigur"
+
+msgid "Ukrainian"
+msgstr "ucrain"
+
+msgid "Unknown language"
+msgstr "indeterminade"
+
+msgid "Urdu"
+msgstr "urdu"
+
+msgid "Uzbek"
+msgstr "uzbec"
+
+msgid "Venda"
+msgstr "venda"
+
+msgid "Vietnamese"
+msgstr "vietnamite"
+
+msgid "Walloon"
+msgstr "valon"
+
+msgid "Wolof"
+msgstr "wolof"
+
+msgid "Xhosa"
+msgstr "xhosa"
+
+msgid "Yiddish"
+msgstr "yiddish"
+
+msgid "Yoruba"
+msgstr "yoruba"
+
+msgid "Chinese"
+msgstr "cinês"
+
+msgid "Chinese, Mandarin"
+msgstr "cinês"
+
+msgid "Simplified Chinese"
+msgstr "cinês semplificât"
+
+msgid "Simplified Mandarin Chinese"
+msgstr "cinês semplificât"
+
+msgid "Traditional Chinese"
+msgstr "cinês tradizionâl"
+
+msgid "Traditional Mandarin Chinese"
+msgstr "cinês tradizionâl"
+
+msgid "Zulu"
+msgstr "zulu"
