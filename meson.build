@@ -1,1 +1,2 @@
-i18n.gettext('dialect', preset: 'glib')
+subdir('ui')
+subdir('cldr-langs')
