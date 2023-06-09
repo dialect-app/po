@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-09 11:30-0500\n"
+"POT-Creation-Date: 2023-06-09 15:15-0500\n"
 "PO-Revision-Date: 2022-07-26 11:19+0000\n"
 "Last-Translator: Sergio Varela <sergitroll9@gmail.com>\n"
 "Language-Team: Basque <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -22,7 +22,7 @@ msgstr ""
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:7
-#: data/resources/window.blp:285 dialect/main.py:61
+#: data/resources/window.blp:285 dialect/main.py:60
 msgid "Dialect"
 msgstr "Dialect"
 
@@ -287,7 +287,7 @@ msgstr "Estilo iluna"
 msgid "Show Pronunciation"
 msgstr "Erakutsi ahoskera"
 
-#: data/resources/window.blp:24 dialect/window.py:1268 dialect/window.py:1276
+#: data/resources/window.blp:24 dialect/window.py:1267 dialect/window.py:1275
 msgid "Preferences"
 msgstr "Lehentasunak"
 
@@ -304,7 +304,7 @@ msgid "Loading…"
 msgstr "Kargatzen…"
 
 #: data/resources/window.blp:103 data/resources/window.blp:135
-#: dialect/window.py:529 dialect/window.py:1260 dialect/window.py:1284
+#: dialect/window.py:528 dialect/window.py:1259 dialect/window.py:1283
 msgid "Retry"
 msgstr "Berriro saiatu"
 
@@ -385,531 +385,421 @@ msgstr "Ezeztatu"
 msgid "Save"
 msgstr "Gorde"
 
-#: dialect/languages.py:11
-msgid "Afrikaans"
-msgstr "afrikaansa"
-
-#: dialect/languages.py:12
-msgid "Albanian"
-msgstr "albaniera"
-
-#: dialect/languages.py:13
-msgid "Amharic"
-msgstr "amharera"
-
-#: dialect/languages.py:14
-msgid "Arabic"
-msgstr "arabiera"
-
-#: dialect/languages.py:15
-msgid "Armenian"
-msgstr "armeniera"
-
-#: dialect/languages.py:16
-msgid "Azerbaijani"
-msgstr "azerbaijanera"
-
-#: dialect/languages.py:17
-msgid "Basque"
-msgstr "euskara"
-
-#: dialect/languages.py:18
-msgid "Belarusian"
-msgstr "bielorrusiera"
-
-#: dialect/languages.py:19
-msgid "Bengali"
-msgstr "bengalera"
-
-#: dialect/languages.py:20
-msgid "Bosnian"
-msgstr "bosniera"
-
-#: dialect/languages.py:21
-msgid "Bulgarian"
-msgstr "bulgariera"
-
-#: dialect/languages.py:22
-msgid "Catalan"
-msgstr "katalana"
-
-#: dialect/languages.py:23
-msgid "Cebuano"
-msgstr "cebuanoera"
-
-#: dialect/languages.py:24
-msgid "Chichewa"
-msgstr "chewera"
-
-#: dialect/languages.py:25
-msgid "Chinese"
-msgstr "txinera"
-
-#: dialect/languages.py:26
-msgid "Chinese (Simplified)"
-msgstr "txinera sinplifikatua"
-
-#: dialect/languages.py:27
-msgid "Chinese (Traditional)"
-msgstr "txinera tradizionala"
-
-#: dialect/languages.py:28
-msgid "Corsican"
-msgstr "korsikera"
-
-#: dialect/languages.py:29
-msgid "Croatian"
-msgstr "kroaziera"
-
-#: dialect/languages.py:30
-msgid "Czech"
-msgstr "txekiera"
-
-#: dialect/languages.py:31
-msgid "Danish"
-msgstr "daniera"
-
-#: dialect/languages.py:32
-msgid "Dutch"
-msgstr "nederlandera"
-
-#: dialect/languages.py:33
-msgid "English"
-msgstr "ingelesa"
-
-#: dialect/languages.py:34
-msgid "Esperanto"
-msgstr "esperantoa"
-
-#: dialect/languages.py:35
-msgid "Estonian"
-msgstr "estoniera"
-
-#: dialect/languages.py:36
-msgid "Filipino"
-msgstr "tagaloa"
-
-#: dialect/languages.py:37
-msgid "Finnish"
-msgstr "finlandiera"
-
-#: dialect/languages.py:38
-msgid "French"
-msgstr "frantsesa"
-
-#: dialect/languages.py:39
-msgid "Frisian"
-msgstr "frisiera"
-
-#: dialect/languages.py:40
-msgid "Galician"
-msgstr "galiziera"
-
-#: dialect/languages.py:41
-msgid "Georgian"
-msgstr "georgiera"
-
-#: dialect/languages.py:42
-msgid "German"
-msgstr "alemana"
-
-#: dialect/languages.py:43
-msgid "Greek"
-msgstr "greziera"
-
-#: dialect/languages.py:44
-msgid "Gujarati"
-msgstr "gujaratera"
-
-#: dialect/languages.py:45
-msgid "Haitian Creole"
-msgstr "Haitiko kreolera"
-
-#: dialect/languages.py:46
-msgid "Hausa"
-msgstr "hausa"
-
-#: dialect/languages.py:47
-msgid "Hawaiian"
-msgstr "hawaiiera"
-
-#: dialect/languages.py:48 dialect/languages.py:49
-msgid "Hebrew"
-msgstr "hebreera"
-
-#: dialect/languages.py:50
-msgid "Hindi"
-msgstr "hindia"
-
-#: dialect/languages.py:51
-msgid "Hmong"
-msgstr "hmonga"
-
-#: dialect/languages.py:52
-msgid "Hungarian"
-msgstr "hungariera"
-
-#: dialect/languages.py:53
-msgid "Icelandic"
-msgstr "islandiera"
-
-#: dialect/languages.py:54
-msgid "Igbo"
-msgstr "igboera"
-
-#: dialect/languages.py:55
-msgid "Indonesian"
-msgstr "indonesiera"
-
-#: dialect/languages.py:56
-msgid "Irish"
-msgstr "irlandera"
-
-#: dialect/languages.py:57
-msgid "Italian"
-msgstr "italiera"
-
-#: dialect/languages.py:58
-msgid "Japanese"
-msgstr "japoniera"
-
-#: dialect/languages.py:59
-msgid "Javanese"
-msgstr "javera"
-
-#: dialect/languages.py:60
-msgid "Kannada"
-msgstr "kannada"
-
-#: dialect/languages.py:61
-msgid "Kazakh"
-msgstr "kazakhera"
-
-#: dialect/languages.py:62
-msgid "Khmer"
-msgstr "khemerera"
-
-#: dialect/languages.py:63
-msgid "Kinyarwanda"
-msgstr "kinyaruanda"
-
-#: dialect/languages.py:64
-msgid "Korean"
-msgstr "koreera"
-
-#: dialect/languages.py:65
-msgid "Kurdish (Kurmanji)"
-msgstr "kurduera"
-
-#: dialect/languages.py:66
-msgid "Kyrgyz"
-msgstr "kirgizera"
-
-#: dialect/languages.py:67
-msgid "Lao"
-msgstr "laosera"
-
-#: dialect/languages.py:68
-msgid "Latin"
-msgstr "latina"
-
-#: dialect/languages.py:69
-msgid "Latvian"
-msgstr "letoniera"
-
-#: dialect/languages.py:70
-msgid "Lithuanian"
-msgstr "lituaniera"
-
-#: dialect/languages.py:71
-msgid "Luxembourgish"
-msgstr "luxenburgera"
-
-#: dialect/languages.py:72
-msgid "Macedonian"
-msgstr "mazedoniera"
-
-#: dialect/languages.py:73
-msgid "Malagasy"
-msgstr "malgaxea"
-
-#: dialect/languages.py:74
-msgid "Malay"
-msgstr "malaysiera"
-
-#: dialect/languages.py:75
-msgid "Malayalam"
-msgstr "malabarera"
-
-#: dialect/languages.py:76
-msgid "Maltese"
-msgstr "maltera"
-
-#: dialect/languages.py:77
-msgid "Maori"
-msgstr "maoriera"
-
-#: dialect/languages.py:78
-msgid "Marathi"
-msgstr "marathera"
-
-#: dialect/languages.py:79
-msgid "Mongolian"
-msgstr "mongoliera"
-
-#: dialect/languages.py:80
-msgid "Myanmar (Burmese)"
-msgstr "birmaniera"
-
-#: dialect/languages.py:81
-msgid "Nepali"
-msgstr "nepalera"
-
-#: dialect/languages.py:82
-msgid "Norwegian"
-msgstr "norvegiera"
-
-#: dialect/languages.py:83
-msgid "Odia (Oriya)"
-msgstr "oriya"
-
-#: dialect/languages.py:84
-msgid "Pashto"
-msgstr "paxtunera"
-
-#: dialect/languages.py:85
-msgid "Persian"
-msgstr "persiera"
-
-#: dialect/languages.py:86
-msgid "Polish"
-msgstr "poloniera"
-
-#: dialect/languages.py:87
-msgid "Portuguese"
-msgstr "portugesa"
-
 #: dialect/languages.py:88
-msgid "Punjabi"
-msgstr "punjabera"
-
-#: dialect/languages.py:89
-msgid "Romanian"
-msgstr "errumaniera"
-
-#: dialect/languages.py:90
-msgid "Russian"
-msgstr "errusiera"
-
-#: dialect/languages.py:91
-msgid "Samoan"
-msgstr "samoera"
-
-#: dialect/languages.py:92
-msgid "Scots Gaelic"
-msgstr "Eskoziako gaelikoa"
-
-#: dialect/languages.py:93
-msgid "Serbian"
-msgstr "serbiera"
-
-#: dialect/languages.py:94
-msgid "Sesotho"
-msgstr "hegoaldeko sothoera"
-
-#: dialect/languages.py:95
-msgid "Shona"
-msgstr "shonera"
-
-#: dialect/languages.py:96
-msgid "Sindhi"
-msgstr "sindhia"
-
-#: dialect/languages.py:97
-msgid "Sinhala"
-msgstr "sinhala"
-
-#: dialect/languages.py:98
-msgid "Slovak"
-msgstr "eslovakiera"
-
-#: dialect/languages.py:99
-msgid "Slovenian"
-msgstr "esloveniera"
-
-#: dialect/languages.py:100
-msgid "Somali"
-msgstr "somaliera"
-
-#: dialect/languages.py:101
-msgid "Spanish"
-msgstr "espainiera"
-
-#: dialect/languages.py:102
-msgid "Sundanese"
-msgstr "sundanera"
-
-#: dialect/languages.py:103
-msgid "Swahili"
-msgstr "swahilia"
-
-#: dialect/languages.py:104
-msgid "Swedish"
-msgstr "suediera"
-
-#: dialect/languages.py:105
-msgid "Tajik"
-msgstr "tajikera"
-
-#: dialect/languages.py:106
-msgid "Tamil"
-msgstr "tamilera"
-
-#: dialect/languages.py:107
-msgid "Tatar"
-msgstr "tatarera"
-
-#: dialect/languages.py:108
-msgid "Telugu"
-msgstr "telugua"
-
-#: dialect/languages.py:109
-msgid "Thai"
-msgstr "thailandiera"
-
-#: dialect/languages.py:110
-msgid "Turkish"
-msgstr "turkiera"
-
-#: dialect/languages.py:111
-msgid "Turkmen"
-msgstr "turkmenera"
-
-#: dialect/languages.py:112
-msgid "Ukrainian"
-msgstr "ukrainera"
-
-#: dialect/languages.py:113
-msgid "Urdu"
-msgstr "urdua"
-
-#: dialect/languages.py:114
-msgid "Uyghur"
-msgstr "uigurrera"
-
-#: dialect/languages.py:115
-msgid "Uzbek"
-msgstr "uzbekera"
-
-#: dialect/languages.py:116
-msgid "Vietnamese"
-msgstr "vietnamera"
-
-#: dialect/languages.py:117
-msgid "Welsh"
-msgstr "galesa"
-
-#: dialect/languages.py:118
-msgid "Xhosa"
-msgstr "xhosera"
-
-#: dialect/languages.py:119
-msgid "Yiddish"
-msgstr "yiddisha"
-
-#: dialect/languages.py:120
-msgid "Yoruba"
-msgstr "jorubera"
-
-#: dialect/languages.py:121
-msgid "Zulu"
-msgstr "zuluera"
-
-#: dialect/languages.py:198
 msgid "Auto"
 msgstr "Automatikoa"
 
-#: dialect/preferences.py:122
+#: dialect/preferences.py:121
 msgid "Edit Provider Settings"
 msgstr ""
 
-#: dialect/preferences.py:124
+#: dialect/preferences.py:123
 msgid "No Settings for This Provider"
 msgstr ""
 
-#: dialect/window.py:381 dialect/window.py:1266
+#: dialect/window.py:380 dialect/window.py:1265
 msgid "The provided API key is invalid"
 msgstr "Emandako API giltza baliogabea da"
 
-#: dialect/window.py:383
+#: dialect/window.py:382
 msgid "Please set a valid API key in the preferences."
 msgstr "Mesedez, konfiguratu API giltza bat hobespesunetan baliozkoa."
 
-#: dialect/window.py:386
+#: dialect/window.py:385
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
 "Mesedez, konfiguratu API giltza baliozkotu bat edo kendu API giltza "
 "lehentasunetan."
 
-#: dialect/window.py:403 dialect/window.py:1274
+#: dialect/window.py:402 dialect/window.py:1273
 msgid "API key is required to use the service"
 msgstr "APIko giltza bat behar da zerbitzu hau erabiltzeko"
 
-#: dialect/window.py:404
+#: dialect/window.py:403
 msgid "Please set an API key in the preferences."
 msgstr "Mesedez, konfiguratu API giltza bat hobespesunetan."
 
-#: dialect/window.py:417
+#: dialect/window.py:416
 msgid "Failed loading the translation service"
 msgstr "Errorea itzulpen-zerbitzua kargatzean"
 
-#: dialect/window.py:418
+#: dialect/window.py:417
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
 "Mesedez, bidali honen berri Dialect-en bug trackerrean, erroreak bere "
 "horretan jarraitzen badu."
 
-#: dialect/window.py:427
+#: dialect/window.py:426
 msgid "Couldn’t connect to the translation service"
 msgstr "Ezin izan da itzulpen-zerbitzura konektatu"
 
-#: dialect/window.py:428
+#: dialect/window.py:427
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr "Ezin dugu zerbitzariarekin konektatu. Mesedez, aztertu sareko arazoak."
 
-#: dialect/window.py:522
+#: dialect/window.py:521
 #, fuzzy
 msgid "A network issue has occurred. Retry?"
 msgstr "Sareko arazo bat gertatu da. Berriz saiatu?"
 
-#: dialect/window.py:536
+#: dialect/window.py:535
 #, fuzzy
 msgid "A network issue has occurred. Please try again."
 msgstr "Sare-arazo bat gertatu da. Mesedez saiatu berriro."
 
-#: dialect/window.py:864
+#: dialect/window.py:863
 msgid "New translation has been suggested!"
 msgstr "Itzulpen berri bat iradoki da!"
 
-#: dialect/window.py:866
+#: dialect/window.py:865
 msgid "Suggestion failed."
 msgstr "Iradokizunak huts egin zuen."
 
-#: dialect/window.py:1036
+#: dialect/window.py:1035
 msgid "{} characters limit reached!"
 msgstr "{} karaktereko mugara iritsi zara!"
 
-#: dialect/window.py:1209
+#: dialect/window.py:1208
 msgid "Did you mean: "
 msgstr "Zera esan nahi duzu: "
 
-#: dialect/window.py:1258
+#: dialect/window.py:1257
 msgid "Translation failed, check for network issues"
 msgstr "Itzulpenak huts egin du, egiaztatu sareko arazorik dagoen"
 
-#: dialect/window.py:1282
+#: dialect/window.py:1281
 msgid "Translation failed"
 msgstr "Itzulpenak huts egin dute"
+
+#~ msgid "Afrikaans"
+#~ msgstr "afrikaansa"
+
+#~ msgid "Albanian"
+#~ msgstr "albaniera"
+
+#~ msgid "Amharic"
+#~ msgstr "amharera"
+
+#~ msgid "Arabic"
+#~ msgstr "arabiera"
+
+#~ msgid "Armenian"
+#~ msgstr "armeniera"
+
+#~ msgid "Azerbaijani"
+#~ msgstr "azerbaijanera"
+
+#~ msgid "Basque"
+#~ msgstr "euskara"
+
+#~ msgid "Belarusian"
+#~ msgstr "bielorrusiera"
+
+#~ msgid "Bengali"
+#~ msgstr "bengalera"
+
+#~ msgid "Bosnian"
+#~ msgstr "bosniera"
+
+#~ msgid "Bulgarian"
+#~ msgstr "bulgariera"
+
+#~ msgid "Catalan"
+#~ msgstr "katalana"
+
+#~ msgid "Cebuano"
+#~ msgstr "cebuanoera"
+
+#~ msgid "Chichewa"
+#~ msgstr "chewera"
+
+#~ msgid "Chinese"
+#~ msgstr "txinera"
+
+#~ msgid "Chinese (Simplified)"
+#~ msgstr "txinera sinplifikatua"
+
+#~ msgid "Chinese (Traditional)"
+#~ msgstr "txinera tradizionala"
+
+#~ msgid "Corsican"
+#~ msgstr "korsikera"
+
+#~ msgid "Croatian"
+#~ msgstr "kroaziera"
+
+#~ msgid "Czech"
+#~ msgstr "txekiera"
+
+#~ msgid "Danish"
+#~ msgstr "daniera"
+
+#~ msgid "Dutch"
+#~ msgstr "nederlandera"
+
+#~ msgid "English"
+#~ msgstr "ingelesa"
+
+#~ msgid "Esperanto"
+#~ msgstr "esperantoa"
+
+#~ msgid "Estonian"
+#~ msgstr "estoniera"
+
+#~ msgid "Filipino"
+#~ msgstr "tagaloa"
+
+#~ msgid "Finnish"
+#~ msgstr "finlandiera"
+
+#~ msgid "French"
+#~ msgstr "frantsesa"
+
+#~ msgid "Frisian"
+#~ msgstr "frisiera"
+
+#~ msgid "Galician"
+#~ msgstr "galiziera"
+
+#~ msgid "Georgian"
+#~ msgstr "georgiera"
+
+#~ msgid "German"
+#~ msgstr "alemana"
+
+#~ msgid "Greek"
+#~ msgstr "greziera"
+
+#~ msgid "Gujarati"
+#~ msgstr "gujaratera"
+
+#~ msgid "Haitian Creole"
+#~ msgstr "Haitiko kreolera"
+
+#~ msgid "Hausa"
+#~ msgstr "hausa"
+
+#~ msgid "Hawaiian"
+#~ msgstr "hawaiiera"
+
+#~ msgid "Hebrew"
+#~ msgstr "hebreera"
+
+#~ msgid "Hindi"
+#~ msgstr "hindia"
+
+#~ msgid "Hmong"
+#~ msgstr "hmonga"
+
+#~ msgid "Hungarian"
+#~ msgstr "hungariera"
+
+#~ msgid "Icelandic"
+#~ msgstr "islandiera"
+
+#~ msgid "Igbo"
+#~ msgstr "igboera"
+
+#~ msgid "Indonesian"
+#~ msgstr "indonesiera"
+
+#~ msgid "Irish"
+#~ msgstr "irlandera"
+
+#~ msgid "Italian"
+#~ msgstr "italiera"
+
+#~ msgid "Japanese"
+#~ msgstr "japoniera"
+
+#~ msgid "Javanese"
+#~ msgstr "javera"
+
+#~ msgid "Kannada"
+#~ msgstr "kannada"
+
+#~ msgid "Kazakh"
+#~ msgstr "kazakhera"
+
+#~ msgid "Khmer"
+#~ msgstr "khemerera"
+
+#~ msgid "Kinyarwanda"
+#~ msgstr "kinyaruanda"
+
+#~ msgid "Korean"
+#~ msgstr "koreera"
+
+#~ msgid "Kurdish (Kurmanji)"
+#~ msgstr "kurduera"
+
+#~ msgid "Kyrgyz"
+#~ msgstr "kirgizera"
+
+#~ msgid "Lao"
+#~ msgstr "laosera"
+
+#~ msgid "Latin"
+#~ msgstr "latina"
+
+#~ msgid "Latvian"
+#~ msgstr "letoniera"
+
+#~ msgid "Lithuanian"
+#~ msgstr "lituaniera"
+
+#~ msgid "Luxembourgish"
+#~ msgstr "luxenburgera"
+
+#~ msgid "Macedonian"
+#~ msgstr "mazedoniera"
+
+#~ msgid "Malagasy"
+#~ msgstr "malgaxea"
+
+#~ msgid "Malay"
+#~ msgstr "malaysiera"
+
+#~ msgid "Malayalam"
+#~ msgstr "malabarera"
+
+#~ msgid "Maltese"
+#~ msgstr "maltera"
+
+#~ msgid "Maori"
+#~ msgstr "maoriera"
+
+#~ msgid "Marathi"
+#~ msgstr "marathera"
+
+#~ msgid "Mongolian"
+#~ msgstr "mongoliera"
+
+#~ msgid "Myanmar (Burmese)"
+#~ msgstr "birmaniera"
+
+#~ msgid "Nepali"
+#~ msgstr "nepalera"
+
+#~ msgid "Norwegian"
+#~ msgstr "norvegiera"
+
+#~ msgid "Odia (Oriya)"
+#~ msgstr "oriya"
+
+#~ msgid "Pashto"
+#~ msgstr "paxtunera"
+
+#~ msgid "Persian"
+#~ msgstr "persiera"
+
+#~ msgid "Polish"
+#~ msgstr "poloniera"
+
+#~ msgid "Portuguese"
+#~ msgstr "portugesa"
+
+#~ msgid "Punjabi"
+#~ msgstr "punjabera"
+
+#~ msgid "Romanian"
+#~ msgstr "errumaniera"
+
+#~ msgid "Russian"
+#~ msgstr "errusiera"
+
+#~ msgid "Samoan"
+#~ msgstr "samoera"
+
+#~ msgid "Scots Gaelic"
+#~ msgstr "Eskoziako gaelikoa"
+
+#~ msgid "Serbian"
+#~ msgstr "serbiera"
+
+#~ msgid "Sesotho"
+#~ msgstr "hegoaldeko sothoera"
+
+#~ msgid "Shona"
+#~ msgstr "shonera"
+
+#~ msgid "Sindhi"
+#~ msgstr "sindhia"
+
+#~ msgid "Sinhala"
+#~ msgstr "sinhala"
+
+#~ msgid "Slovak"
+#~ msgstr "eslovakiera"
+
+#~ msgid "Slovenian"
+#~ msgstr "esloveniera"
+
+#~ msgid "Somali"
+#~ msgstr "somaliera"
+
+#~ msgid "Spanish"
+#~ msgstr "espainiera"
+
+#~ msgid "Sundanese"
+#~ msgstr "sundanera"
+
+#~ msgid "Swahili"
+#~ msgstr "swahilia"
+
+#~ msgid "Swedish"
+#~ msgstr "suediera"
+
+#~ msgid "Tajik"
+#~ msgstr "tajikera"
+
+#~ msgid "Tamil"
+#~ msgstr "tamilera"
+
+#~ msgid "Tatar"
+#~ msgstr "tatarera"
+
+#~ msgid "Telugu"
+#~ msgstr "telugua"
+
+#~ msgid "Thai"
+#~ msgstr "thailandiera"
+
+#~ msgid "Turkish"
+#~ msgstr "turkiera"
+
+#~ msgid "Turkmen"
+#~ msgstr "turkmenera"
+
+#~ msgid "Ukrainian"
+#~ msgstr "ukrainera"
+
+#~ msgid "Urdu"
+#~ msgstr "urdua"
+
+#~ msgid "Uyghur"
+#~ msgstr "uigurrera"
+
+#~ msgid "Uzbek"
+#~ msgstr "uzbekera"
+
+#~ msgid "Vietnamese"
+#~ msgstr "vietnamera"
+
+#~ msgid "Welsh"
+#~ msgstr "galesa"
+
+#~ msgid "Xhosa"
+#~ msgstr "xhosera"
+
+#~ msgid "Yiddish"
+#~ msgstr "yiddisha"
+
+#~ msgid "Yoruba"
+#~ msgstr "jorubera"
+
+#~ msgid "Zulu"
+#~ msgstr "zuluera"
 
 #~ msgid "GitHub page"
 #~ msgstr "GitHub orria"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-09 11:30-0500\n"
+"POT-Creation-Date: 2023-06-09 15:15-0500\n"
 "PO-Revision-Date: 2023-05-15 19:53+0000\n"
 "Last-Translator: Abdul Karim Kikar <abdul@oklomsy.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -22,7 +22,7 @@ msgstr ""
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:7
-#: data/resources/window.blp:285 dialect/main.py:61
+#: data/resources/window.blp:285 dialect/main.py:60
 msgid "Dialect"
 msgstr "Dialect"
 
@@ -275,7 +275,7 @@ msgstr "Mørkstil"
 msgid "Show Pronunciation"
 msgstr "Vis udtale"
 
-#: data/resources/window.blp:24 dialect/window.py:1268 dialect/window.py:1276
+#: data/resources/window.blp:24 dialect/window.py:1267 dialect/window.py:1275
 msgid "Preferences"
 msgstr "Præferencer"
 
@@ -292,7 +292,7 @@ msgid "Loading…"
 msgstr "Indlæser…"
 
 #: data/resources/window.blp:103 data/resources/window.blp:135
-#: dialect/window.py:529 dialect/window.py:1260 dialect/window.py:1284
+#: dialect/window.py:528 dialect/window.py:1259 dialect/window.py:1283
 msgid "Retry"
 msgstr "Prøve igen"
 
@@ -369,531 +369,421 @@ msgstr "Annullere"
 msgid "Save"
 msgstr "Gemme"
 
-#: dialect/languages.py:11
-msgid "Afrikaans"
-msgstr "afrikaans"
-
-#: dialect/languages.py:12
-msgid "Albanian"
-msgstr "albansk"
-
-#: dialect/languages.py:13
-msgid "Amharic"
-msgstr "amharisk"
-
-#: dialect/languages.py:14
-msgid "Arabic"
-msgstr "arabisk"
-
-#: dialect/languages.py:15
-msgid "Armenian"
-msgstr "armensk"
-
-#: dialect/languages.py:16
-msgid "Azerbaijani"
-msgstr "aserbajdsjansk"
-
-#: dialect/languages.py:17
-msgid "Basque"
-msgstr "baskisk"
-
-#: dialect/languages.py:18
-msgid "Belarusian"
-msgstr "belarusisk"
-
-#: dialect/languages.py:19
-msgid "Bengali"
-msgstr "bengalsk"
-
-#: dialect/languages.py:20
-msgid "Bosnian"
-msgstr "bosnisk"
-
-#: dialect/languages.py:21
-msgid "Bulgarian"
-msgstr "bulgarsk"
-
-#: dialect/languages.py:22
-msgid "Catalan"
-msgstr "catalansk"
-
-#: dialect/languages.py:23
-msgid "Cebuano"
-msgstr "cebuano"
-
-#: dialect/languages.py:24
-msgid "Chichewa"
-msgstr "nyanja"
-
-#: dialect/languages.py:25
-msgid "Chinese"
-msgstr "kinesisk"
-
-#: dialect/languages.py:26
-msgid "Chinese (Simplified)"
-msgstr "forenklet kinesisk"
-
-#: dialect/languages.py:27
-msgid "Chinese (Traditional)"
-msgstr "traditionelt kinesisk"
-
-#: dialect/languages.py:28
-msgid "Corsican"
-msgstr "korsikansk"
-
-#: dialect/languages.py:29
-msgid "Croatian"
-msgstr "kroatisk"
-
-#: dialect/languages.py:30
-msgid "Czech"
-msgstr "tjekkisk"
-
-#: dialect/languages.py:31
-msgid "Danish"
-msgstr "dansk"
-
-#: dialect/languages.py:32
-msgid "Dutch"
-msgstr "nederlandsk"
-
-#: dialect/languages.py:33
-msgid "English"
-msgstr "engelsk"
-
-#: dialect/languages.py:34
-msgid "Esperanto"
-msgstr "esperanto"
-
-#: dialect/languages.py:35
-msgid "Estonian"
-msgstr "estisk"
-
-#: dialect/languages.py:36
-msgid "Filipino"
-msgstr "tagalog"
-
-#: dialect/languages.py:37
-msgid "Finnish"
-msgstr "finsk"
-
-#: dialect/languages.py:38
-msgid "French"
-msgstr "fransk"
-
-#: dialect/languages.py:39
-msgid "Frisian"
-msgstr "vestfrisisk"
-
-#: dialect/languages.py:40
-msgid "Galician"
-msgstr "galicisk"
-
-#: dialect/languages.py:41
-msgid "Georgian"
-msgstr "georgisk"
-
-#: dialect/languages.py:42
-msgid "German"
-msgstr "tysk"
-
-#: dialect/languages.py:43
-msgid "Greek"
-msgstr "græsk"
-
-#: dialect/languages.py:44
-msgid "Gujarati"
-msgstr "gujarati"
-
-#: dialect/languages.py:45
-msgid "Haitian Creole"
-msgstr "haitisk"
-
-#: dialect/languages.py:46
-msgid "Hausa"
-msgstr "hausa"
-
-#: dialect/languages.py:47
-msgid "Hawaiian"
-msgstr "hawaiiansk"
-
-#: dialect/languages.py:48 dialect/languages.py:49
-msgid "Hebrew"
-msgstr "hebraisk"
-
-#: dialect/languages.py:50
-msgid "Hindi"
-msgstr "hindi"
-
-#: dialect/languages.py:51
-msgid "Hmong"
-msgstr "hmong"
-
-#: dialect/languages.py:52
-msgid "Hungarian"
-msgstr "ungarsk"
-
-#: dialect/languages.py:53
-msgid "Icelandic"
-msgstr "islandsk"
-
-#: dialect/languages.py:54
-msgid "Igbo"
-msgstr "igbo"
-
-#: dialect/languages.py:55
-msgid "Indonesian"
-msgstr "indonesisk"
-
-#: dialect/languages.py:56
-msgid "Irish"
-msgstr "irsk"
-
-#: dialect/languages.py:57
-msgid "Italian"
-msgstr "italiensk"
-
-#: dialect/languages.py:58
-msgid "Japanese"
-msgstr "japansk"
-
-#: dialect/languages.py:59
-msgid "Javanese"
-msgstr "javanesisk"
-
-#: dialect/languages.py:60
-msgid "Kannada"
-msgstr "kannada"
-
-#: dialect/languages.py:61
-msgid "Kazakh"
-msgstr "kasakhisk"
-
-#: dialect/languages.py:62
-msgid "Khmer"
-msgstr "khmer"
-
-#: dialect/languages.py:63
-msgid "Kinyarwanda"
-msgstr "kinyarwanda"
-
-#: dialect/languages.py:64
-msgid "Korean"
-msgstr "koreansk"
-
-#: dialect/languages.py:65
-msgid "Kurdish (Kurmanji)"
-msgstr "kurdisk"
-
-#: dialect/languages.py:66
-msgid "Kyrgyz"
-msgstr "kirgisisk"
-
-#: dialect/languages.py:67
-msgid "Lao"
-msgstr "lao"
-
-#: dialect/languages.py:68
-msgid "Latin"
-msgstr "latin"
-
-#: dialect/languages.py:69
-msgid "Latvian"
-msgstr "lettisk"
-
-#: dialect/languages.py:70
-msgid "Lithuanian"
-msgstr "litauisk"
-
-#: dialect/languages.py:71
-msgid "Luxembourgish"
-msgstr "luxembourgsk"
-
-#: dialect/languages.py:72
-msgid "Macedonian"
-msgstr "makedonsk"
-
-#: dialect/languages.py:73
-msgid "Malagasy"
-msgstr "malagassisk"
-
-#: dialect/languages.py:74
-msgid "Malay"
-msgstr "malajisk"
-
-#: dialect/languages.py:75
-msgid "Malayalam"
-msgstr "malayalam"
-
-#: dialect/languages.py:76
-msgid "Maltese"
-msgstr "maltesisk"
-
-#: dialect/languages.py:77
-msgid "Maori"
-msgstr "maori"
-
-#: dialect/languages.py:78
-msgid "Marathi"
-msgstr "marathisk"
-
-#: dialect/languages.py:79
-msgid "Mongolian"
-msgstr "mongolsk"
-
-#: dialect/languages.py:80
-msgid "Myanmar (Burmese)"
-msgstr "burmesisk"
-
-#: dialect/languages.py:81
-msgid "Nepali"
-msgstr "nepalesisk"
-
-#: dialect/languages.py:82
-msgid "Norwegian"
-msgstr "norsk"
-
-#: dialect/languages.py:83
-msgid "Odia (Oriya)"
-msgstr "oriya"
-
-#: dialect/languages.py:84
-msgid "Pashto"
-msgstr "pashto"
-
-#: dialect/languages.py:85
-msgid "Persian"
-msgstr "persisk"
-
-#: dialect/languages.py:86
-msgid "Polish"
-msgstr "polsk"
-
-#: dialect/languages.py:87
-msgid "Portuguese"
-msgstr "portugisisk"
-
 #: dialect/languages.py:88
-msgid "Punjabi"
-msgstr "punjabisk"
-
-#: dialect/languages.py:89
-msgid "Romanian"
-msgstr "rumænsk"
-
-#: dialect/languages.py:90
-msgid "Russian"
-msgstr "russisk"
-
-#: dialect/languages.py:91
-msgid "Samoan"
-msgstr "samoansk"
-
-#: dialect/languages.py:92
-msgid "Scots Gaelic"
-msgstr "skotsk gælisk"
-
-#: dialect/languages.py:93
-msgid "Serbian"
-msgstr "serbisk"
-
-#: dialect/languages.py:94
-msgid "Sesotho"
-msgstr "sydsotho"
-
-#: dialect/languages.py:95
-msgid "Shona"
-msgstr "shona"
-
-#: dialect/languages.py:96
-msgid "Sindhi"
-msgstr "sindhi"
-
-#: dialect/languages.py:97
-msgid "Sinhala"
-msgstr "singalesisk"
-
-#: dialect/languages.py:98
-msgid "Slovak"
-msgstr "slovakisk"
-
-#: dialect/languages.py:99
-msgid "Slovenian"
-msgstr "slovensk"
-
-#: dialect/languages.py:100
-msgid "Somali"
-msgstr "somali"
-
-#: dialect/languages.py:101
-msgid "Spanish"
-msgstr "spansk"
-
-#: dialect/languages.py:102
-msgid "Sundanese"
-msgstr "sundanesisk"
-
-#: dialect/languages.py:103
-msgid "Swahili"
-msgstr "swahili"
-
-#: dialect/languages.py:104
-msgid "Swedish"
-msgstr "svensk"
-
-#: dialect/languages.py:105
-msgid "Tajik"
-msgstr "tadsjikisk"
-
-#: dialect/languages.py:106
-msgid "Tamil"
-msgstr "tamil"
-
-#: dialect/languages.py:107
-msgid "Tatar"
-msgstr "tatarisk"
-
-#: dialect/languages.py:108
-msgid "Telugu"
-msgstr "telugu"
-
-#: dialect/languages.py:109
-msgid "Thai"
-msgstr "thai"
-
-#: dialect/languages.py:110
-msgid "Turkish"
-msgstr "tyrkisk"
-
-#: dialect/languages.py:111
-msgid "Turkmen"
-msgstr "turkmensk"
-
-#: dialect/languages.py:112
-msgid "Ukrainian"
-msgstr "ukrainsk"
-
-#: dialect/languages.py:113
-msgid "Urdu"
-msgstr "urdu"
-
-#: dialect/languages.py:114
-msgid "Uyghur"
-msgstr "uygurisk"
-
-#: dialect/languages.py:115
-msgid "Uzbek"
-msgstr "usbekisk"
-
-#: dialect/languages.py:116
-msgid "Vietnamese"
-msgstr "vietnamesisk"
-
-#: dialect/languages.py:117
-msgid "Welsh"
-msgstr "walisisk"
-
-#: dialect/languages.py:118
-msgid "Xhosa"
-msgstr "xhosa"
-
-#: dialect/languages.py:119
-msgid "Yiddish"
-msgstr "jiddisch"
-
-#: dialect/languages.py:120
-msgid "Yoruba"
-msgstr "yoruba"
-
-#: dialect/languages.py:121
-msgid "Zulu"
-msgstr "zulu"
-
-#: dialect/languages.py:198
 msgid "Auto"
 msgstr "Auto"
 
-#: dialect/preferences.py:122
+#: dialect/preferences.py:121
 msgid "Edit Provider Settings"
 msgstr "Ændre udbydernes indstillinger"
 
-#: dialect/preferences.py:124
+#: dialect/preferences.py:123
 msgid "No Settings for This Provider"
 msgstr "Ingen indstillinger for denne udbyder"
 
-#: dialect/window.py:381 dialect/window.py:1266
+#: dialect/window.py:380 dialect/window.py:1265
 msgid "The provided API key is invalid"
 msgstr "Den forudsat API nøgle er ugyldig"
 
-#: dialect/window.py:383
+#: dialect/window.py:382
 msgid "Please set a valid API key in the preferences."
 msgstr "Vær sød at indsætte et gyldig API nøgle inden i præferencerne."
 
-#: dialect/window.py:386
+#: dialect/window.py:385
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
 "Vær sød at indsætte et gyldig API nøgle eller slette API-nøglen inden I "
 "præferencerne."
 
-#: dialect/window.py:403 dialect/window.py:1274
+#: dialect/window.py:402 dialect/window.py:1273
 msgid "API key is required to use the service"
 msgstr "API nøgle er krævet til at bruge denne tjenste"
 
-#: dialect/window.py:404
+#: dialect/window.py:403
 msgid "Please set an API key in the preferences."
 msgstr "Vær sød at indsætte en API nøgle inden i præferencerne."
 
-#: dialect/window.py:417
+#: dialect/window.py:416
 msgid "Failed loading the translation service"
 msgstr "Kan ikke indlæse oversættelse-tjeneste"
 
-#: dialect/window.py:418
+#: dialect/window.py:417
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
 "Vær sød at anmelde det inden I Dialect softwarefejl-sporeren hvis problemet "
 "fortsættes."
 
-#: dialect/window.py:427
+#: dialect/window.py:426
 msgid "Couldn’t connect to the translation service"
 msgstr "Kan ikke forbinde til oversættelse-tjenesten"
 
-#: dialect/window.py:428
+#: dialect/window.py:427
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
 "Vi kan ikke forbinde til serveren. Være sød at tjekke for problemer med "
 "netværket."
 
-#: dialect/window.py:522
+#: dialect/window.py:521
 msgid "A network issue has occurred. Retry?"
 msgstr "Et netværksproblem har opstået. Prøv igen?"
 
-#: dialect/window.py:536
+#: dialect/window.py:535
 msgid "A network issue has occurred. Please try again."
 msgstr "Et netværksproblem har opstået. Vær sød at prøve igen."
 
-#: dialect/window.py:864
+#: dialect/window.py:863
 msgid "New translation has been suggested!"
 msgstr "Nyt oversættelse har blevet forslået!"
 
-#: dialect/window.py:866
+#: dialect/window.py:865
 msgid "Suggestion failed."
 msgstr "Forslag mislykkeds."
 
-#: dialect/window.py:1036
+#: dialect/window.py:1035
 msgid "{} characters limit reached!"
 msgstr "{} bogstaver grænse nået!"
 
-#: dialect/window.py:1209
+#: dialect/window.py:1208
 msgid "Did you mean: "
 msgstr "Mente du: "
 
-#: dialect/window.py:1258
+#: dialect/window.py:1257
 msgid "Translation failed, check for network issues"
 msgstr "Oversættelse mislykkedes, tjek for problemer med netværket"
 
-#: dialect/window.py:1282
+#: dialect/window.py:1281
 msgid "Translation failed"
 msgstr "Oversættelse mislykkedes"
+
+#~ msgid "Afrikaans"
+#~ msgstr "afrikaans"
+
+#~ msgid "Albanian"
+#~ msgstr "albansk"
+
+#~ msgid "Amharic"
+#~ msgstr "amharisk"
+
+#~ msgid "Arabic"
+#~ msgstr "arabisk"
+
+#~ msgid "Armenian"
+#~ msgstr "armensk"
+
+#~ msgid "Azerbaijani"
+#~ msgstr "aserbajdsjansk"
+
+#~ msgid "Basque"
+#~ msgstr "baskisk"
+
+#~ msgid "Belarusian"
+#~ msgstr "belarusisk"
+
+#~ msgid "Bengali"
+#~ msgstr "bengalsk"
+
+#~ msgid "Bosnian"
+#~ msgstr "bosnisk"
+
+#~ msgid "Bulgarian"
+#~ msgstr "bulgarsk"
+
+#~ msgid "Catalan"
+#~ msgstr "catalansk"
+
+#~ msgid "Cebuano"
+#~ msgstr "cebuano"
+
+#~ msgid "Chichewa"
+#~ msgstr "nyanja"
+
+#~ msgid "Chinese"
+#~ msgstr "kinesisk"
+
+#~ msgid "Chinese (Simplified)"
+#~ msgstr "forenklet kinesisk"
+
+#~ msgid "Chinese (Traditional)"
+#~ msgstr "traditionelt kinesisk"
+
+#~ msgid "Corsican"
+#~ msgstr "korsikansk"
+
+#~ msgid "Croatian"
+#~ msgstr "kroatisk"
+
+#~ msgid "Czech"
+#~ msgstr "tjekkisk"
+
+#~ msgid "Danish"
+#~ msgstr "dansk"
+
+#~ msgid "Dutch"
+#~ msgstr "nederlandsk"
+
+#~ msgid "English"
+#~ msgstr "engelsk"
+
+#~ msgid "Esperanto"
+#~ msgstr "esperanto"
+
+#~ msgid "Estonian"
+#~ msgstr "estisk"
+
+#~ msgid "Filipino"
+#~ msgstr "tagalog"
+
+#~ msgid "Finnish"
+#~ msgstr "finsk"
+
+#~ msgid "French"
+#~ msgstr "fransk"
+
+#~ msgid "Frisian"
+#~ msgstr "vestfrisisk"
+
+#~ msgid "Galician"
+#~ msgstr "galicisk"
+
+#~ msgid "Georgian"
+#~ msgstr "georgisk"
+
+#~ msgid "German"
+#~ msgstr "tysk"
+
+#~ msgid "Greek"
+#~ msgstr "græsk"
+
+#~ msgid "Gujarati"
+#~ msgstr "gujarati"
+
+#~ msgid "Haitian Creole"
+#~ msgstr "haitisk"
+
+#~ msgid "Hausa"
+#~ msgstr "hausa"
+
+#~ msgid "Hawaiian"
+#~ msgstr "hawaiiansk"
+
+#~ msgid "Hebrew"
+#~ msgstr "hebraisk"
+
+#~ msgid "Hindi"
+#~ msgstr "hindi"
+
+#~ msgid "Hmong"
+#~ msgstr "hmong"
+
+#~ msgid "Hungarian"
+#~ msgstr "ungarsk"
+
+#~ msgid "Icelandic"
+#~ msgstr "islandsk"
+
+#~ msgid "Igbo"
+#~ msgstr "igbo"
+
+#~ msgid "Indonesian"
+#~ msgstr "indonesisk"
+
+#~ msgid "Irish"
+#~ msgstr "irsk"
+
+#~ msgid "Italian"
+#~ msgstr "italiensk"
+
+#~ msgid "Japanese"
+#~ msgstr "japansk"
+
+#~ msgid "Javanese"
+#~ msgstr "javanesisk"
+
+#~ msgid "Kannada"
+#~ msgstr "kannada"
+
+#~ msgid "Kazakh"
+#~ msgstr "kasakhisk"
+
+#~ msgid "Khmer"
+#~ msgstr "khmer"
+
+#~ msgid "Kinyarwanda"
+#~ msgstr "kinyarwanda"
+
+#~ msgid "Korean"
+#~ msgstr "koreansk"
+
+#~ msgid "Kurdish (Kurmanji)"
+#~ msgstr "kurdisk"
+
+#~ msgid "Kyrgyz"
+#~ msgstr "kirgisisk"
+
+#~ msgid "Lao"
+#~ msgstr "lao"
+
+#~ msgid "Latin"
+#~ msgstr "latin"
+
+#~ msgid "Latvian"
+#~ msgstr "lettisk"
+
+#~ msgid "Lithuanian"
+#~ msgstr "litauisk"
+
+#~ msgid "Luxembourgish"
+#~ msgstr "luxembourgsk"
+
+#~ msgid "Macedonian"
+#~ msgstr "makedonsk"
+
+#~ msgid "Malagasy"
+#~ msgstr "malagassisk"
+
+#~ msgid "Malay"
+#~ msgstr "malajisk"
+
+#~ msgid "Malayalam"
+#~ msgstr "malayalam"
+
+#~ msgid "Maltese"
+#~ msgstr "maltesisk"
+
+#~ msgid "Maori"
+#~ msgstr "maori"
+
+#~ msgid "Marathi"
+#~ msgstr "marathisk"
+
+#~ msgid "Mongolian"
+#~ msgstr "mongolsk"
+
+#~ msgid "Myanmar (Burmese)"
+#~ msgstr "burmesisk"
+
+#~ msgid "Nepali"
+#~ msgstr "nepalesisk"
+
+#~ msgid "Norwegian"
+#~ msgstr "norsk"
+
+#~ msgid "Odia (Oriya)"
+#~ msgstr "oriya"
+
+#~ msgid "Pashto"
+#~ msgstr "pashto"
+
+#~ msgid "Persian"
+#~ msgstr "persisk"
+
+#~ msgid "Polish"
+#~ msgstr "polsk"
+
+#~ msgid "Portuguese"
+#~ msgstr "portugisisk"
+
+#~ msgid "Punjabi"
+#~ msgstr "punjabisk"
+
+#~ msgid "Romanian"
+#~ msgstr "rumænsk"
+
+#~ msgid "Russian"
+#~ msgstr "russisk"
+
+#~ msgid "Samoan"
+#~ msgstr "samoansk"
+
+#~ msgid "Scots Gaelic"
+#~ msgstr "skotsk gælisk"
+
+#~ msgid "Serbian"
+#~ msgstr "serbisk"
+
+#~ msgid "Sesotho"
+#~ msgstr "sydsotho"
+
+#~ msgid "Shona"
+#~ msgstr "shona"
+
+#~ msgid "Sindhi"
+#~ msgstr "sindhi"
+
+#~ msgid "Sinhala"
+#~ msgstr "singalesisk"
+
+#~ msgid "Slovak"
+#~ msgstr "slovakisk"
+
+#~ msgid "Slovenian"
+#~ msgstr "slovensk"
+
+#~ msgid "Somali"
+#~ msgstr "somali"
+
+#~ msgid "Spanish"
+#~ msgstr "spansk"
+
+#~ msgid "Sundanese"
+#~ msgstr "sundanesisk"
+
+#~ msgid "Swahili"
+#~ msgstr "swahili"
+
+#~ msgid "Swedish"
+#~ msgstr "svensk"
+
+#~ msgid "Tajik"
+#~ msgstr "tadsjikisk"
+
+#~ msgid "Tamil"
+#~ msgstr "tamil"
+
+#~ msgid "Tatar"
+#~ msgstr "tatarisk"
+
+#~ msgid "Telugu"
+#~ msgstr "telugu"
+
+#~ msgid "Thai"
+#~ msgstr "thai"
+
+#~ msgid "Turkish"
+#~ msgstr "tyrkisk"
+
+#~ msgid "Turkmen"
+#~ msgstr "turkmensk"
+
+#~ msgid "Ukrainian"
+#~ msgstr "ukrainsk"
+
+#~ msgid "Urdu"
+#~ msgstr "urdu"
+
+#~ msgid "Uyghur"
+#~ msgstr "uygurisk"
+
+#~ msgid "Uzbek"
+#~ msgstr "usbekisk"
+
+#~ msgid "Vietnamese"
+#~ msgstr "vietnamesisk"
+
+#~ msgid "Welsh"
+#~ msgstr "walisisk"
+
+#~ msgid "Xhosa"
+#~ msgstr "xhosa"
+
+#~ msgid "Yiddish"
+#~ msgstr "jiddisch"
+
+#~ msgid "Yoruba"
+#~ msgstr "yoruba"
+
+#~ msgid "Zulu"
+#~ msgstr "zulu"
 
 #~ msgid "GitHub page"
 #~ msgstr "GitHub side"

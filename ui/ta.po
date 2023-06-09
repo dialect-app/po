@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-09 11:30-0500\n"
+"POT-Creation-Date: 2023-06-09 15:15-0500\n"
 "PO-Revision-Date: 2023-05-21 06:49+0000\n"
 "Last-Translator: \"K.B.Dharun Krishna\" <kbdharunkrishna@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/dialect/dialect/ta/"
@@ -22,7 +22,7 @@ msgstr ""
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:7
-#: data/resources/window.blp:285 dialect/main.py:61
+#: data/resources/window.blp:285 dialect/main.py:60
 msgid "Dialect"
 msgstr "Dialect"
 
@@ -274,7 +274,7 @@ msgstr "இருண்ட பாணி"
 msgid "Show Pronunciation"
 msgstr "உச்சரிப்பைக் காட்டு"
 
-#: data/resources/window.blp:24 dialect/window.py:1268 dialect/window.py:1276
+#: data/resources/window.blp:24 dialect/window.py:1267 dialect/window.py:1275
 msgid "Preferences"
 msgstr "விருப்பங்கள்"
 
@@ -291,7 +291,7 @@ msgid "Loading…"
 msgstr "ஏற்றுகிறது…"
 
 #: data/resources/window.blp:103 data/resources/window.blp:135
-#: dialect/window.py:529 dialect/window.py:1260 dialect/window.py:1284
+#: dialect/window.py:528 dialect/window.py:1259 dialect/window.py:1283
 msgid "Retry"
 msgstr "மீண்டும் முயற்சிக்கவும்"
 
@@ -368,525 +368,415 @@ msgstr "ரத்து செய்"
 msgid "Save"
 msgstr "சேமிக்கவும்"
 
-#: dialect/languages.py:11
-msgid "Afrikaans"
-msgstr "ஆஃப்ரிகான்ஸ்"
-
-#: dialect/languages.py:12
-msgid "Albanian"
-msgstr "அல்பேனியன்"
-
-#: dialect/languages.py:13
-msgid "Amharic"
-msgstr "அம்ஹாரிக்"
-
-#: dialect/languages.py:14
-msgid "Arabic"
-msgstr "அரபிக்"
-
-#: dialect/languages.py:15
-msgid "Armenian"
-msgstr "ஆர்மேனியன்"
-
-#: dialect/languages.py:16
-msgid "Azerbaijani"
-msgstr "அசர்பைஜானி"
-
-#: dialect/languages.py:17
-msgid "Basque"
-msgstr "பாஸ்க்"
-
-#: dialect/languages.py:18
-msgid "Belarusian"
-msgstr "பெலாருஷியன்"
-
-#: dialect/languages.py:19
-msgid "Bengali"
-msgstr "வங்காளம்"
-
-#: dialect/languages.py:20
-msgid "Bosnian"
-msgstr "போஸ்னியன்"
-
-#: dialect/languages.py:21
-msgid "Bulgarian"
-msgstr "பல்கேரியன்"
-
-#: dialect/languages.py:22
-msgid "Catalan"
-msgstr "கேட்டலான்"
-
-#: dialect/languages.py:23
-msgid "Cebuano"
-msgstr "செபுவானோ"
-
-#: dialect/languages.py:24
-msgid "Chichewa"
-msgstr "நயன்ஜா"
-
-#: dialect/languages.py:25
-msgid "Chinese"
-msgstr "சீனம்"
-
-#: dialect/languages.py:26
-msgid "Chinese (Simplified)"
-msgstr "எளிதாக்கப்பட்ட சீனம்"
-
-#: dialect/languages.py:27
-msgid "Chinese (Traditional)"
-msgstr "பாரம்பரிய சீனம்"
-
-#: dialect/languages.py:28
-msgid "Corsican"
-msgstr "கார்சிகன்"
-
-#: dialect/languages.py:29
-msgid "Croatian"
-msgstr "குரோஷியன்"
-
-#: dialect/languages.py:30
-msgid "Czech"
-msgstr "செக்"
-
-#: dialect/languages.py:31
-msgid "Danish"
-msgstr "டேனிஷ்"
-
-#: dialect/languages.py:32
-msgid "Dutch"
-msgstr "டச்சு"
-
-#: dialect/languages.py:33
-msgid "English"
-msgstr "ஆங்கிலம்"
-
-#: dialect/languages.py:34
-msgid "Esperanto"
-msgstr "எஸ்பரேன்டோ"
-
-#: dialect/languages.py:35
-msgid "Estonian"
-msgstr "எஸ்டோனியன்"
-
-#: dialect/languages.py:36
-msgid "Filipino"
-msgstr "டாகாலோக்"
-
-#: dialect/languages.py:37
-msgid "Finnish"
-msgstr "ஃபின்னிஷ்"
-
-#: dialect/languages.py:38
-msgid "French"
-msgstr "பிரெஞ்சு"
-
-#: dialect/languages.py:39
-msgid "Frisian"
-msgstr "மேற்கு ஃப்ரிஷியன்"
-
-#: dialect/languages.py:40
-msgid "Galician"
-msgstr "காலிஸியன்"
-
-#: dialect/languages.py:41
-msgid "Georgian"
-msgstr "ஜார்ஜியன்"
-
-#: dialect/languages.py:42
-msgid "German"
-msgstr "ஜெர்மன்"
-
-#: dialect/languages.py:43
-msgid "Greek"
-msgstr "கிரேக்கம்"
-
-#: dialect/languages.py:44
-msgid "Gujarati"
-msgstr "குஜராத்தி"
-
-#: dialect/languages.py:45
-msgid "Haitian Creole"
-msgstr "ஹைத்தியன் க்ரியோலி"
-
-#: dialect/languages.py:46
-msgid "Hausa"
-msgstr "ஹௌஸா"
-
-#: dialect/languages.py:47
-msgid "Hawaiian"
-msgstr "ஹவாயியன்"
-
-#: dialect/languages.py:48 dialect/languages.py:49
-msgid "Hebrew"
-msgstr "ஹீப்ரூ"
-
-#: dialect/languages.py:50
-msgid "Hindi"
-msgstr "இந்தி"
-
-#: dialect/languages.py:51
-msgid "Hmong"
-msgstr "மாங்க்"
-
-#: dialect/languages.py:52
-msgid "Hungarian"
-msgstr "ஹங்கேரியன்"
-
-#: dialect/languages.py:53
-msgid "Icelandic"
-msgstr "ஐஸ்லேண்டிக்"
-
-#: dialect/languages.py:54
-msgid "Igbo"
-msgstr "இக்போ"
-
-#: dialect/languages.py:55
-msgid "Indonesian"
-msgstr "இந்தோனேஷியன்"
-
-#: dialect/languages.py:56
-msgid "Irish"
-msgstr "ஐரிஷ்"
-
-#: dialect/languages.py:57
-msgid "Italian"
-msgstr "இத்தாலியன்"
-
-#: dialect/languages.py:58
-msgid "Japanese"
-msgstr "ஜப்பானியம்"
-
-#: dialect/languages.py:59
-msgid "Javanese"
-msgstr "ஜாவனீஸ்"
-
-#: dialect/languages.py:60
-msgid "Kannada"
-msgstr "கன்னடம்"
-
-#: dialect/languages.py:61
-msgid "Kazakh"
-msgstr "கசாக்"
-
-#: dialect/languages.py:62
-msgid "Khmer"
-msgstr "கெமெர்"
-
-#: dialect/languages.py:63
-msgid "Kinyarwanda"
-msgstr "கின்யாருவான்டா"
-
-#: dialect/languages.py:64
-msgid "Korean"
-msgstr "கொரியன்"
-
-#: dialect/languages.py:65
-msgid "Kurdish (Kurmanji)"
-msgstr "குர்திஷ்"
-
-#: dialect/languages.py:66
-msgid "Kyrgyz"
-msgstr "கிர்கிஸ்"
-
-#: dialect/languages.py:67
-msgid "Lao"
-msgstr "லாவோ"
-
-#: dialect/languages.py:68
-msgid "Latin"
-msgstr "லத்தின்"
-
-#: dialect/languages.py:69
-msgid "Latvian"
-msgstr "லாட்வியன்"
-
-#: dialect/languages.py:70
-msgid "Lithuanian"
-msgstr "லிதுவேனியன்"
-
-#: dialect/languages.py:71
-msgid "Luxembourgish"
-msgstr "லக்ஸம்போர்கிஷ்"
-
-#: dialect/languages.py:72
-msgid "Macedonian"
-msgstr "மாஸிடோனியன்"
-
-#: dialect/languages.py:73
-msgid "Malagasy"
-msgstr "மலகாஸி"
-
-#: dialect/languages.py:74
-msgid "Malay"
-msgstr "மலாய்"
-
-#: dialect/languages.py:75
-msgid "Malayalam"
-msgstr "மலையாளம்"
-
-#: dialect/languages.py:76
-msgid "Maltese"
-msgstr "மால்டிஸ்"
-
-#: dialect/languages.py:77
-msgid "Maori"
-msgstr "மௌரி"
-
-#: dialect/languages.py:78
-msgid "Marathi"
-msgstr "மராத்தி"
-
-#: dialect/languages.py:79
-msgid "Mongolian"
-msgstr "மங்கோலியன்"
-
-#: dialect/languages.py:80
-msgid "Myanmar (Burmese)"
-msgstr "பர்மீஸ்"
-
-#: dialect/languages.py:81
-msgid "Nepali"
-msgstr "நேபாளி"
-
-#: dialect/languages.py:82
-msgid "Norwegian"
-msgstr "நார்வேஜியன்"
-
-#: dialect/languages.py:83
-msgid "Odia (Oriya)"
-msgstr "ஒடியா"
-
-#: dialect/languages.py:84
-msgid "Pashto"
-msgstr "பஷ்தோ"
-
-#: dialect/languages.py:85
-msgid "Persian"
-msgstr "பெர்ஷியன்"
-
-#: dialect/languages.py:86
-msgid "Polish"
-msgstr "போலிஷ்"
-
-#: dialect/languages.py:87
-msgid "Portuguese"
-msgstr "போர்ச்சுகீஸ்"
-
 #: dialect/languages.py:88
-msgid "Punjabi"
-msgstr "பஞ்சாபி"
-
-#: dialect/languages.py:89
-msgid "Romanian"
-msgstr "ரோமேனியன்"
-
-#: dialect/languages.py:90
-msgid "Russian"
-msgstr "ரஷியன்"
-
-#: dialect/languages.py:91
-msgid "Samoan"
-msgstr "சமோவான்"
-
-#: dialect/languages.py:92
-msgid "Scots Gaelic"
-msgstr "ஸ்காட்ஸ் கேலிக்"
-
-#: dialect/languages.py:93
-msgid "Serbian"
-msgstr "செர்பியன்"
-
-#: dialect/languages.py:94
-msgid "Sesotho"
-msgstr "தெற்கு ஸோதோ"
-
-#: dialect/languages.py:95
-msgid "Shona"
-msgstr "ஷோனா"
-
-#: dialect/languages.py:96
-msgid "Sindhi"
-msgstr "சிந்தி"
-
-#: dialect/languages.py:97
-msgid "Sinhala"
-msgstr "சிங்களம்"
-
-#: dialect/languages.py:98
-msgid "Slovak"
-msgstr "ஸ்லோவாக்"
-
-#: dialect/languages.py:99
-msgid "Slovenian"
-msgstr "ஸ்லோவேனியன்"
-
-#: dialect/languages.py:100
-msgid "Somali"
-msgstr "சோமாலி"
-
-#: dialect/languages.py:101
-msgid "Spanish"
-msgstr "ஸ்பானிஷ்"
-
-#: dialect/languages.py:102
-msgid "Sundanese"
-msgstr "சுண்டானீஸ்"
-
-#: dialect/languages.py:103
-msgid "Swahili"
-msgstr "ஸ்வாஹிலி"
-
-#: dialect/languages.py:104
-msgid "Swedish"
-msgstr "ஸ்வீடிஷ்"
-
-#: dialect/languages.py:105
-msgid "Tajik"
-msgstr "தஜிக்"
-
-#: dialect/languages.py:106
-msgid "Tamil"
-msgstr "தமிழ்"
-
-#: dialect/languages.py:107
-msgid "Tatar"
-msgstr "டாடர்"
-
-#: dialect/languages.py:108
-msgid "Telugu"
-msgstr "தெலுங்கு"
-
-#: dialect/languages.py:109
-msgid "Thai"
-msgstr "தாய்"
-
-#: dialect/languages.py:110
-msgid "Turkish"
-msgstr "துருக்கிஷ்"
-
-#: dialect/languages.py:111
-msgid "Turkmen"
-msgstr "துருக்மென்"
-
-#: dialect/languages.py:112
-msgid "Ukrainian"
-msgstr "உக்ரைனியன்"
-
-#: dialect/languages.py:113
-msgid "Urdu"
-msgstr "உருது"
-
-#: dialect/languages.py:114
-msgid "Uyghur"
-msgstr "உய்குர்"
-
-#: dialect/languages.py:115
-msgid "Uzbek"
-msgstr "உஸ்பெக்"
-
-#: dialect/languages.py:116
-msgid "Vietnamese"
-msgstr "வியட்நாமீஸ்"
-
-#: dialect/languages.py:117
-msgid "Welsh"
-msgstr "வேல்ஷ்"
-
-#: dialect/languages.py:118
-msgid "Xhosa"
-msgstr "ஹோசா"
-
-#: dialect/languages.py:119
-msgid "Yiddish"
-msgstr "யெட்டிஷ்"
-
-#: dialect/languages.py:120
-msgid "Yoruba"
-msgstr "யோருபா"
-
-#: dialect/languages.py:121
-msgid "Zulu"
-msgstr "ஜுலு"
-
-#: dialect/languages.py:198
 msgid "Auto"
 msgstr "ஆட்டோ"
 
-#: dialect/preferences.py:122
+#: dialect/preferences.py:121
 msgid "Edit Provider Settings"
 msgstr "வழங்குநர் அமைப்புகளைத் திருத்து"
 
-#: dialect/preferences.py:124
+#: dialect/preferences.py:123
 msgid "No Settings for This Provider"
 msgstr "இந்த வழங்குனருக்கான அமைப்புகள் இல்லை"
 
-#: dialect/window.py:381 dialect/window.py:1266
+#: dialect/window.py:380 dialect/window.py:1265
 msgid "The provided API key is invalid"
 msgstr "வழங்கப்பட்ட API விசை தவறானது"
 
-#: dialect/window.py:383
+#: dialect/window.py:382
 msgid "Please set a valid API key in the preferences."
 msgstr "விருப்பங்களில் சரியான API விசையை அமைக்கவும்."
 
-#: dialect/window.py:386
+#: dialect/window.py:385
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr "சரியான API விசையை அமைக்கவும் அல்லது விருப்பத்தேர்வுகளில் API விசையை அமைக்கவும்."
 
-#: dialect/window.py:403 dialect/window.py:1274
+#: dialect/window.py:402 dialect/window.py:1273
 msgid "API key is required to use the service"
 msgstr "சேவையைப் பயன்படுத்த API விசை தேவை"
 
-#: dialect/window.py:404
+#: dialect/window.py:403
 msgid "Please set an API key in the preferences."
 msgstr "விருப்பங்களில் API விசையை அமைக்கவும்."
 
-#: dialect/window.py:417
+#: dialect/window.py:416
 msgid "Failed loading the translation service"
 msgstr "மொழிபெயர்ப்பு சேவையை ஏற்றுவதில் தோல்வி"
 
-#: dialect/window.py:418
+#: dialect/window.py:417
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr "சிக்கல் தொடர்ந்தால், டயலெக்ட் பிழை டிராக்கரில் இதைப் புகாரளிக்கவும்."
 
-#: dialect/window.py:427
+#: dialect/window.py:426
 msgid "Couldn’t connect to the translation service"
 msgstr "மொழிபெயர்ப்பு சேவையுடன் இணைக்க முடியவில்லை"
 
-#: dialect/window.py:428
+#: dialect/window.py:427
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr "எங்களால் சேவையகத்துடன் இணைக்க முடியவில்லை. நெட்வொர்க் சிக்கல்களை சரிபார்க்கவும்."
 
-#: dialect/window.py:522
+#: dialect/window.py:521
 msgid "A network issue has occurred. Retry?"
 msgstr "பிணையப் பிரச்சினை ஏற்பட்டது. மீண்டும் முயற்சிக்கவா?"
 
-#: dialect/window.py:536
+#: dialect/window.py:535
 msgid "A network issue has occurred. Please try again."
 msgstr "பிணையப் பிரச்சினை ஏற்பட்டது. தயவு செய்து மீண்டும் முயற்சிக்கவும்."
 
-#: dialect/window.py:864
+#: dialect/window.py:863
 msgid "New translation has been suggested!"
 msgstr "புதிய மொழிபெயர்ப்பு பரிந்துரைக்கப்பட்டது!"
 
-#: dialect/window.py:866
+#: dialect/window.py:865
 msgid "Suggestion failed."
 msgstr "பரிந்துரை தோல்வியடைந்தது."
 
-#: dialect/window.py:1036
+#: dialect/window.py:1035
 msgid "{} characters limit reached!"
 msgstr "{} எழுத்துக்கள் வரம்பை அடைந்துவிட்டது!"
 
-#: dialect/window.py:1209
+#: dialect/window.py:1208
 msgid "Did you mean: "
 msgstr "நீங்கள் கூறுவது: "
 
-#: dialect/window.py:1258
+#: dialect/window.py:1257
 msgid "Translation failed, check for network issues"
 msgstr "மொழிபெயர்ப்பு தோல்வியடைந்தது, நெட்வொர்க் சிக்கல்கள் உள்ளதா எனச் சரிபார்க்கவும்"
 
-#: dialect/window.py:1282
+#: dialect/window.py:1281
 msgid "Translation failed"
 msgstr "மொழிபெயர்ப்பு தோல்வியடைந்தது"
+
+#~ msgid "Afrikaans"
+#~ msgstr "ஆஃப்ரிகான்ஸ்"
+
+#~ msgid "Albanian"
+#~ msgstr "அல்பேனியன்"
+
+#~ msgid "Amharic"
+#~ msgstr "அம்ஹாரிக்"
+
+#~ msgid "Arabic"
+#~ msgstr "அரபிக்"
+
+#~ msgid "Armenian"
+#~ msgstr "ஆர்மேனியன்"
+
+#~ msgid "Azerbaijani"
+#~ msgstr "அசர்பைஜானி"
+
+#~ msgid "Basque"
+#~ msgstr "பாஸ்க்"
+
+#~ msgid "Belarusian"
+#~ msgstr "பெலாருஷியன்"
+
+#~ msgid "Bengali"
+#~ msgstr "வங்காளம்"
+
+#~ msgid "Bosnian"
+#~ msgstr "போஸ்னியன்"
+
+#~ msgid "Bulgarian"
+#~ msgstr "பல்கேரியன்"
+
+#~ msgid "Catalan"
+#~ msgstr "கேட்டலான்"
+
+#~ msgid "Cebuano"
+#~ msgstr "செபுவானோ"
+
+#~ msgid "Chichewa"
+#~ msgstr "நயன்ஜா"
+
+#~ msgid "Chinese"
+#~ msgstr "சீனம்"
+
+#~ msgid "Chinese (Simplified)"
+#~ msgstr "எளிதாக்கப்பட்ட சீனம்"
+
+#~ msgid "Chinese (Traditional)"
+#~ msgstr "பாரம்பரிய சீனம்"
+
+#~ msgid "Corsican"
+#~ msgstr "கார்சிகன்"
+
+#~ msgid "Croatian"
+#~ msgstr "குரோஷியன்"
+
+#~ msgid "Czech"
+#~ msgstr "செக்"
+
+#~ msgid "Danish"
+#~ msgstr "டேனிஷ்"
+
+#~ msgid "Dutch"
+#~ msgstr "டச்சு"
+
+#~ msgid "English"
+#~ msgstr "ஆங்கிலம்"
+
+#~ msgid "Esperanto"
+#~ msgstr "எஸ்பரேன்டோ"
+
+#~ msgid "Estonian"
+#~ msgstr "எஸ்டோனியன்"
+
+#~ msgid "Filipino"
+#~ msgstr "டாகாலோக்"
+
+#~ msgid "Finnish"
+#~ msgstr "ஃபின்னிஷ்"
+
+#~ msgid "French"
+#~ msgstr "பிரெஞ்சு"
+
+#~ msgid "Frisian"
+#~ msgstr "மேற்கு ஃப்ரிஷியன்"
+
+#~ msgid "Galician"
+#~ msgstr "காலிஸியன்"
+
+#~ msgid "Georgian"
+#~ msgstr "ஜார்ஜியன்"
+
+#~ msgid "German"
+#~ msgstr "ஜெர்மன்"
+
+#~ msgid "Greek"
+#~ msgstr "கிரேக்கம்"
+
+#~ msgid "Gujarati"
+#~ msgstr "குஜராத்தி"
+
+#~ msgid "Haitian Creole"
+#~ msgstr "ஹைத்தியன் க்ரியோலி"
+
+#~ msgid "Hausa"
+#~ msgstr "ஹௌஸா"
+
+#~ msgid "Hawaiian"
+#~ msgstr "ஹவாயியன்"
+
+#~ msgid "Hebrew"
+#~ msgstr "ஹீப்ரூ"
+
+#~ msgid "Hindi"
+#~ msgstr "இந்தி"
+
+#~ msgid "Hmong"
+#~ msgstr "மாங்க்"
+
+#~ msgid "Hungarian"
+#~ msgstr "ஹங்கேரியன்"
+
+#~ msgid "Icelandic"
+#~ msgstr "ஐஸ்லேண்டிக்"
+
+#~ msgid "Igbo"
+#~ msgstr "இக்போ"
+
+#~ msgid "Indonesian"
+#~ msgstr "இந்தோனேஷியன்"
+
+#~ msgid "Irish"
+#~ msgstr "ஐரிஷ்"
+
+#~ msgid "Italian"
+#~ msgstr "இத்தாலியன்"
+
+#~ msgid "Japanese"
+#~ msgstr "ஜப்பானியம்"
+
+#~ msgid "Javanese"
+#~ msgstr "ஜாவனீஸ்"
+
+#~ msgid "Kannada"
+#~ msgstr "கன்னடம்"
+
+#~ msgid "Kazakh"
+#~ msgstr "கசாக்"
+
+#~ msgid "Khmer"
+#~ msgstr "கெமெர்"
+
+#~ msgid "Kinyarwanda"
+#~ msgstr "கின்யாருவான்டா"
+
+#~ msgid "Korean"
+#~ msgstr "கொரியன்"
+
+#~ msgid "Kurdish (Kurmanji)"
+#~ msgstr "குர்திஷ்"
+
+#~ msgid "Kyrgyz"
+#~ msgstr "கிர்கிஸ்"
+
+#~ msgid "Lao"
+#~ msgstr "லாவோ"
+
+#~ msgid "Latin"
+#~ msgstr "லத்தின்"
+
+#~ msgid "Latvian"
+#~ msgstr "லாட்வியன்"
+
+#~ msgid "Lithuanian"
+#~ msgstr "லிதுவேனியன்"
+
+#~ msgid "Luxembourgish"
+#~ msgstr "லக்ஸம்போர்கிஷ்"
+
+#~ msgid "Macedonian"
+#~ msgstr "மாஸிடோனியன்"
+
+#~ msgid "Malagasy"
+#~ msgstr "மலகாஸி"
+
+#~ msgid "Malay"
+#~ msgstr "மலாய்"
+
+#~ msgid "Malayalam"
+#~ msgstr "மலையாளம்"
+
+#~ msgid "Maltese"
+#~ msgstr "மால்டிஸ்"
+
+#~ msgid "Maori"
+#~ msgstr "மௌரி"
+
+#~ msgid "Marathi"
+#~ msgstr "மராத்தி"
+
+#~ msgid "Mongolian"
+#~ msgstr "மங்கோலியன்"
+
+#~ msgid "Myanmar (Burmese)"
+#~ msgstr "பர்மீஸ்"
+
+#~ msgid "Nepali"
+#~ msgstr "நேபாளி"
+
+#~ msgid "Norwegian"
+#~ msgstr "நார்வேஜியன்"
+
+#~ msgid "Odia (Oriya)"
+#~ msgstr "ஒடியா"
+
+#~ msgid "Pashto"
+#~ msgstr "பஷ்தோ"
+
+#~ msgid "Persian"
+#~ msgstr "பெர்ஷியன்"
+
+#~ msgid "Polish"
+#~ msgstr "போலிஷ்"
+
+#~ msgid "Portuguese"
+#~ msgstr "போர்ச்சுகீஸ்"
+
+#~ msgid "Punjabi"
+#~ msgstr "பஞ்சாபி"
+
+#~ msgid "Romanian"
+#~ msgstr "ரோமேனியன்"
+
+#~ msgid "Russian"
+#~ msgstr "ரஷியன்"
+
+#~ msgid "Samoan"
+#~ msgstr "சமோவான்"
+
+#~ msgid "Scots Gaelic"
+#~ msgstr "ஸ்காட்ஸ் கேலிக்"
+
+#~ msgid "Serbian"
+#~ msgstr "செர்பியன்"
+
+#~ msgid "Sesotho"
+#~ msgstr "தெற்கு ஸோதோ"
+
+#~ msgid "Shona"
+#~ msgstr "ஷோனா"
+
+#~ msgid "Sindhi"
+#~ msgstr "சிந்தி"
+
+#~ msgid "Sinhala"
+#~ msgstr "சிங்களம்"
+
+#~ msgid "Slovak"
+#~ msgstr "ஸ்லோவாக்"
+
+#~ msgid "Slovenian"
+#~ msgstr "ஸ்லோவேனியன்"
+
+#~ msgid "Somali"
+#~ msgstr "சோமாலி"
+
+#~ msgid "Spanish"
+#~ msgstr "ஸ்பானிஷ்"
+
+#~ msgid "Sundanese"
+#~ msgstr "சுண்டானீஸ்"
+
+#~ msgid "Swahili"
+#~ msgstr "ஸ்வாஹிலி"
+
+#~ msgid "Swedish"
+#~ msgstr "ஸ்வீடிஷ்"
+
+#~ msgid "Tajik"
+#~ msgstr "தஜிக்"
+
+#~ msgid "Tamil"
+#~ msgstr "தமிழ்"
+
+#~ msgid "Tatar"
+#~ msgstr "டாடர்"
+
+#~ msgid "Telugu"
+#~ msgstr "தெலுங்கு"
+
+#~ msgid "Thai"
+#~ msgstr "தாய்"
+
+#~ msgid "Turkish"
+#~ msgstr "துருக்கிஷ்"
+
+#~ msgid "Turkmen"
+#~ msgstr "துருக்மென்"
+
+#~ msgid "Ukrainian"
+#~ msgstr "உக்ரைனியன்"
+
+#~ msgid "Urdu"
+#~ msgstr "உருது"
+
+#~ msgid "Uyghur"
+#~ msgstr "உய்குர்"
+
+#~ msgid "Uzbek"
+#~ msgstr "உஸ்பெக்"
+
+#~ msgid "Vietnamese"
+#~ msgstr "வியட்நாமீஸ்"
+
+#~ msgid "Welsh"
+#~ msgstr "வேல்ஷ்"
+
+#~ msgid "Xhosa"
+#~ msgstr "ஹோசா"
+
+#~ msgid "Yiddish"
+#~ msgstr "யெட்டிஷ்"
+
+#~ msgid "Yoruba"
+#~ msgstr "யோருபா"
+
+#~ msgid "Zulu"
+#~ msgstr "ஜுலு"
 
 #~ msgid "GitHub page"
 #~ msgstr "கிட்ஹப் பக்கம்"

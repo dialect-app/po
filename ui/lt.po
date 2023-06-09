@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-09 11:30-0500\n"
+"POT-Creation-Date: 2023-06-09 15:15-0500\n"
 "PO-Revision-Date: 2022-10-24 19:39+0000\n"
 "Last-Translator: Gediminas Murauskas <muziejusinfo@gmail.com>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/dialect/"
@@ -24,7 +24,7 @@ msgstr ""
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:7
-#: data/resources/window.blp:285 dialect/main.py:61
+#: data/resources/window.blp:285 dialect/main.py:60
 msgid "Dialect"
 msgstr "Dialektas"
 
@@ -287,7 +287,7 @@ msgstr "Tamsus stilius"
 msgid "Show Pronunciation"
 msgstr "Rodyti tarimą"
 
-#: data/resources/window.blp:24 dialect/window.py:1268 dialect/window.py:1276
+#: data/resources/window.blp:24 dialect/window.py:1267 dialect/window.py:1275
 msgid "Preferences"
 msgstr "Nustatymai"
 
@@ -304,7 +304,7 @@ msgid "Loading…"
 msgstr "Įkeliama…"
 
 #: data/resources/window.blp:103 data/resources/window.blp:135
-#: dialect/window.py:529 dialect/window.py:1260 dialect/window.py:1284
+#: dialect/window.py:528 dialect/window.py:1259 dialect/window.py:1283
 msgid "Retry"
 msgstr "Kartoti"
 
@@ -385,531 +385,421 @@ msgstr "Atšaukti"
 msgid "Save"
 msgstr "Išsaugoti"
 
-#: dialect/languages.py:11
-msgid "Afrikaans"
-msgstr "afrikanų"
-
-#: dialect/languages.py:12
-msgid "Albanian"
-msgstr "albanų"
-
-#: dialect/languages.py:13
-msgid "Amharic"
-msgstr "amharų"
-
-#: dialect/languages.py:14
-msgid "Arabic"
-msgstr "arabų"
-
-#: dialect/languages.py:15
-msgid "Armenian"
-msgstr "armėnų"
-
-#: dialect/languages.py:16
-msgid "Azerbaijani"
-msgstr "azerbaidžaniečių"
-
-#: dialect/languages.py:17
-msgid "Basque"
-msgstr "baskų"
-
-#: dialect/languages.py:18
-msgid "Belarusian"
-msgstr "baltarusių"
-
-#: dialect/languages.py:19
-msgid "Bengali"
-msgstr "bengalų"
-
-#: dialect/languages.py:20
-msgid "Bosnian"
-msgstr "bosnių"
-
-#: dialect/languages.py:21
-msgid "Bulgarian"
-msgstr "bulgarų"
-
-#: dialect/languages.py:22
-msgid "Catalan"
-msgstr "katalonų"
-
-#: dialect/languages.py:23
-msgid "Cebuano"
-msgstr "sebuanų"
-
-#: dialect/languages.py:24
-msgid "Chichewa"
-msgstr "nianjų"
-
-#: dialect/languages.py:25
-msgid "Chinese"
-msgstr "kinų"
-
-#: dialect/languages.py:26
-msgid "Chinese (Simplified)"
-msgstr "supaprastintoji kinų"
-
-#: dialect/languages.py:27
-msgid "Chinese (Traditional)"
-msgstr "tradicinė kinų"
-
-#: dialect/languages.py:28
-msgid "Corsican"
-msgstr "korsikiečių"
-
-#: dialect/languages.py:29
-msgid "Croatian"
-msgstr "kroatų"
-
-#: dialect/languages.py:30
-msgid "Czech"
-msgstr "čekų"
-
-#: dialect/languages.py:31
-msgid "Danish"
-msgstr "danų"
-
-#: dialect/languages.py:32
-msgid "Dutch"
-msgstr "olandų"
-
-#: dialect/languages.py:33
-msgid "English"
-msgstr "anglų"
-
-#: dialect/languages.py:34
-msgid "Esperanto"
-msgstr "esperanto"
-
-#: dialect/languages.py:35
-msgid "Estonian"
-msgstr "estų"
-
-#: dialect/languages.py:36
-msgid "Filipino"
-msgstr "tagalogų"
-
-#: dialect/languages.py:37
-msgid "Finnish"
-msgstr "suomių"
-
-#: dialect/languages.py:38
-msgid "French"
-msgstr "prancūzų"
-
-#: dialect/languages.py:39
-msgid "Frisian"
-msgstr "vakarų fryzų"
-
-#: dialect/languages.py:40
-msgid "Galician"
-msgstr "galisų"
-
-#: dialect/languages.py:41
-msgid "Georgian"
-msgstr "gruzinų"
-
-#: dialect/languages.py:42
-msgid "German"
-msgstr "vokiečių"
-
-#: dialect/languages.py:43
-msgid "Greek"
-msgstr "graikų"
-
-#: dialect/languages.py:44
-msgid "Gujarati"
-msgstr "gudžaratų"
-
-#: dialect/languages.py:45
-msgid "Haitian Creole"
-msgstr "Haičio"
-
-#: dialect/languages.py:46
-msgid "Hausa"
-msgstr "hausų"
-
-#: dialect/languages.py:47
-msgid "Hawaiian"
-msgstr "havajiečių"
-
-#: dialect/languages.py:48 dialect/languages.py:49
-msgid "Hebrew"
-msgstr "hebrajų"
-
-#: dialect/languages.py:50
-msgid "Hindi"
-msgstr "hindi"
-
-#: dialect/languages.py:51
-msgid "Hmong"
-msgstr "hmong"
-
-#: dialect/languages.py:52
-msgid "Hungarian"
-msgstr "vengrų"
-
-#: dialect/languages.py:53
-msgid "Icelandic"
-msgstr "islandų"
-
-#: dialect/languages.py:54
-msgid "Igbo"
-msgstr "igbų"
-
-#: dialect/languages.py:55
-msgid "Indonesian"
-msgstr "indoneziečių"
-
-#: dialect/languages.py:56
-msgid "Irish"
-msgstr "airių"
-
-#: dialect/languages.py:57
-msgid "Italian"
-msgstr "italų"
-
-#: dialect/languages.py:58
-msgid "Japanese"
-msgstr "japonų"
-
-#: dialect/languages.py:59
-msgid "Javanese"
-msgstr "javiečių"
-
-#: dialect/languages.py:60
-msgid "Kannada"
-msgstr "kanadų"
-
-#: dialect/languages.py:61
-msgid "Kazakh"
-msgstr "kazachų"
-
-#: dialect/languages.py:62
-msgid "Khmer"
-msgstr "khmerų"
-
-#: dialect/languages.py:63
-msgid "Kinyarwanda"
-msgstr "kinjaruandų"
-
-#: dialect/languages.py:64
-msgid "Korean"
-msgstr "korėjiečių"
-
-#: dialect/languages.py:65
-msgid "Kurdish (Kurmanji)"
-msgstr "kurdų"
-
-#: dialect/languages.py:66
-msgid "Kyrgyz"
-msgstr "kirgizų"
-
-#: dialect/languages.py:67
-msgid "Lao"
-msgstr "laosiečių"
-
-#: dialect/languages.py:68
-msgid "Latin"
-msgstr "lotynų"
-
-#: dialect/languages.py:69
-msgid "Latvian"
-msgstr "latvių"
-
-#: dialect/languages.py:70
-msgid "Lithuanian"
-msgstr "lietuvių"
-
-#: dialect/languages.py:71
-msgid "Luxembourgish"
-msgstr "liuksemburgiečių"
-
-#: dialect/languages.py:72
-msgid "Macedonian"
-msgstr "makedonų"
-
-#: dialect/languages.py:73
-msgid "Malagasy"
-msgstr "malagasų"
-
-#: dialect/languages.py:74
-msgid "Malay"
-msgstr "malajiečių"
-
-#: dialect/languages.py:75
-msgid "Malayalam"
-msgstr "malajalių"
-
-#: dialect/languages.py:76
-msgid "Maltese"
-msgstr "maltiečių"
-
-#: dialect/languages.py:77
-msgid "Maori"
-msgstr "maorių"
-
-#: dialect/languages.py:78
-msgid "Marathi"
-msgstr "maratų"
-
-#: dialect/languages.py:79
-msgid "Mongolian"
-msgstr "mongolų"
-
-#: dialect/languages.py:80
-msgid "Myanmar (Burmese)"
-msgstr "birmiečių"
-
-#: dialect/languages.py:81
-msgid "Nepali"
-msgstr "nepaliečių"
-
-#: dialect/languages.py:82
-msgid "Norwegian"
-msgstr "norvegų"
-
-#: dialect/languages.py:83
-msgid "Odia (Oriya)"
-msgstr "odijų"
-
-#: dialect/languages.py:84
-msgid "Pashto"
-msgstr "puštūnų"
-
-#: dialect/languages.py:85
-msgid "Persian"
-msgstr "persų"
-
-#: dialect/languages.py:86
-msgid "Polish"
-msgstr "lenkų"
-
-#: dialect/languages.py:87
-msgid "Portuguese"
-msgstr "portugalų"
-
 #: dialect/languages.py:88
-msgid "Punjabi"
-msgstr "pendžabų"
-
-#: dialect/languages.py:89
-msgid "Romanian"
-msgstr "rumunų"
-
-#: dialect/languages.py:90
-msgid "Russian"
-msgstr "rusų"
-
-#: dialect/languages.py:91
-msgid "Samoan"
-msgstr "Samoa"
-
-#: dialect/languages.py:92
-msgid "Scots Gaelic"
-msgstr "škotų (gėlų)"
-
-#: dialect/languages.py:93
-msgid "Serbian"
-msgstr "serbų"
-
-#: dialect/languages.py:94
-msgid "Sesotho"
-msgstr "pietų Soto"
-
-#: dialect/languages.py:95
-msgid "Shona"
-msgstr "šonų"
-
-#: dialect/languages.py:96
-msgid "Sindhi"
-msgstr "sindų"
-
-#: dialect/languages.py:97
-msgid "Sinhala"
-msgstr "sinhalų"
-
-#: dialect/languages.py:98
-msgid "Slovak"
-msgstr "slovakų"
-
-#: dialect/languages.py:99
-msgid "Slovenian"
-msgstr "slovėnų"
-
-#: dialect/languages.py:100
-msgid "Somali"
-msgstr "somaliečių"
-
-#: dialect/languages.py:101
-msgid "Spanish"
-msgstr "ispanų"
-
-#: dialect/languages.py:102
-msgid "Sundanese"
-msgstr "sundų"
-
-#: dialect/languages.py:103
-msgid "Swahili"
-msgstr "suahilių"
-
-#: dialect/languages.py:104
-msgid "Swedish"
-msgstr "švedų"
-
-#: dialect/languages.py:105
-msgid "Tajik"
-msgstr "tadžikų"
-
-#: dialect/languages.py:106
-msgid "Tamil"
-msgstr "tamilų"
-
-#: dialect/languages.py:107
-msgid "Tatar"
-msgstr "totorių"
-
-#: dialect/languages.py:108
-msgid "Telugu"
-msgstr "telugų"
-
-#: dialect/languages.py:109
-msgid "Thai"
-msgstr "tajų"
-
-#: dialect/languages.py:110
-msgid "Turkish"
-msgstr "turkų"
-
-#: dialect/languages.py:111
-msgid "Turkmen"
-msgstr "turkmėnų"
-
-#: dialect/languages.py:112
-msgid "Ukrainian"
-msgstr "ukrainiečių"
-
-#: dialect/languages.py:113
-msgid "Urdu"
-msgstr "urdų"
-
-#: dialect/languages.py:114
-msgid "Uyghur"
-msgstr "uigūrų"
-
-#: dialect/languages.py:115
-msgid "Uzbek"
-msgstr "uzbekų"
-
-#: dialect/languages.py:116
-msgid "Vietnamese"
-msgstr "vietnamiečių"
-
-#: dialect/languages.py:117
-msgid "Welsh"
-msgstr "valų"
-
-#: dialect/languages.py:118
-msgid "Xhosa"
-msgstr "kosų"
-
-#: dialect/languages.py:119
-msgid "Yiddish"
-msgstr "jidiš"
-
-#: dialect/languages.py:120
-msgid "Yoruba"
-msgstr "jorubų"
-
-#: dialect/languages.py:121
-msgid "Zulu"
-msgstr "zulų"
-
-#: dialect/languages.py:198
 msgid "Auto"
 msgstr "Automatinis kalbos aptikimas"
 
-#: dialect/preferences.py:122
+#: dialect/preferences.py:121
 msgid "Edit Provider Settings"
 msgstr ""
 
-#: dialect/preferences.py:124
+#: dialect/preferences.py:123
 msgid "No Settings for This Provider"
 msgstr ""
 
-#: dialect/window.py:381 dialect/window.py:1266
+#: dialect/window.py:380 dialect/window.py:1265
 msgid "The provided API key is invalid"
 msgstr "Pateiktas API raktas neteisingas"
 
-#: dialect/window.py:383
+#: dialect/window.py:382
 msgid "Please set a valid API key in the preferences."
 msgstr "Nustatymuose nustatykite galiojantį API raktą."
 
-#: dialect/window.py:386
+#: dialect/window.py:385
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
 "Nustatykite galiojantį API raktą arba panaikinkite API rakto nustatymą "
 "nustatymuose."
 
-#: dialect/window.py:403 dialect/window.py:1274
+#: dialect/window.py:402 dialect/window.py:1273
 msgid "API key is required to use the service"
 msgstr "Norint naudotis paslauga, reikalingas API raktas"
 
-#: dialect/window.py:404
+#: dialect/window.py:403
 msgid "Please set an API key in the preferences."
 msgstr "Nustatymuose nustatykite API raktą."
 
-#: dialect/window.py:417
+#: dialect/window.py:416
 msgid "Failed loading the translation service"
 msgstr "Nepavyko įkelti vertimo paslaugos"
 
-#: dialect/window.py:418
+#: dialect/window.py:417
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
 "Jei problema išlieka, praneškite apie tai Dialekto klaidų sekimo priemonėje."
 
-#: dialect/window.py:427
+#: dialect/window.py:426
 msgid "Couldn’t connect to the translation service"
 msgstr "Nepavyko prisijungti prie vertimo paslaugos"
 
-#: dialect/window.py:428
+#: dialect/window.py:427
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
 "Negalime prisijungti prie serverio. Patikrinkite, ar nėra tinklo problemų."
 
-#: dialect/window.py:522
+#: dialect/window.py:521
 #, fuzzy
 msgid "A network issue has occurred. Retry?"
 msgstr "Įvyko tinklo klaida. Pakartoti bandymą?"
 
-#: dialect/window.py:536
+#: dialect/window.py:535
 #, fuzzy
 msgid "A network issue has occurred. Please try again."
 msgstr "Įvyko tinklo klaida. Bandykite dar kartą."
 
-#: dialect/window.py:864
+#: dialect/window.py:863
 msgid "New translation has been suggested!"
 msgstr "Pasiūlytas naujas vertimas!"
 
-#: dialect/window.py:866
+#: dialect/window.py:865
 msgid "Suggestion failed."
 msgstr "Pasiūlymas nepavyko."
 
-#: dialect/window.py:1036
+#: dialect/window.py:1035
 msgid "{} characters limit reached!"
 msgstr "{} simbolių limitas pasiektas!"
 
-#: dialect/window.py:1209
+#: dialect/window.py:1208
 msgid "Did you mean: "
 msgstr "Ar turėjote omenyje: "
 
-#: dialect/window.py:1258
+#: dialect/window.py:1257
 msgid "Translation failed, check for network issues"
 msgstr "Vertimas nepavyko, patikrinkite, ar nėra tinklo problemų"
 
-#: dialect/window.py:1282
+#: dialect/window.py:1281
 msgid "Translation failed"
 msgstr "Vertimas nepavyko"
+
+#~ msgid "Afrikaans"
+#~ msgstr "afrikanų"
+
+#~ msgid "Albanian"
+#~ msgstr "albanų"
+
+#~ msgid "Amharic"
+#~ msgstr "amharų"
+
+#~ msgid "Arabic"
+#~ msgstr "arabų"
+
+#~ msgid "Armenian"
+#~ msgstr "armėnų"
+
+#~ msgid "Azerbaijani"
+#~ msgstr "azerbaidžaniečių"
+
+#~ msgid "Basque"
+#~ msgstr "baskų"
+
+#~ msgid "Belarusian"
+#~ msgstr "baltarusių"
+
+#~ msgid "Bengali"
+#~ msgstr "bengalų"
+
+#~ msgid "Bosnian"
+#~ msgstr "bosnių"
+
+#~ msgid "Bulgarian"
+#~ msgstr "bulgarų"
+
+#~ msgid "Catalan"
+#~ msgstr "katalonų"
+
+#~ msgid "Cebuano"
+#~ msgstr "sebuanų"
+
+#~ msgid "Chichewa"
+#~ msgstr "nianjų"
+
+#~ msgid "Chinese"
+#~ msgstr "kinų"
+
+#~ msgid "Chinese (Simplified)"
+#~ msgstr "supaprastintoji kinų"
+
+#~ msgid "Chinese (Traditional)"
+#~ msgstr "tradicinė kinų"
+
+#~ msgid "Corsican"
+#~ msgstr "korsikiečių"
+
+#~ msgid "Croatian"
+#~ msgstr "kroatų"
+
+#~ msgid "Czech"
+#~ msgstr "čekų"
+
+#~ msgid "Danish"
+#~ msgstr "danų"
+
+#~ msgid "Dutch"
+#~ msgstr "olandų"
+
+#~ msgid "English"
+#~ msgstr "anglų"
+
+#~ msgid "Esperanto"
+#~ msgstr "esperanto"
+
+#~ msgid "Estonian"
+#~ msgstr "estų"
+
+#~ msgid "Filipino"
+#~ msgstr "tagalogų"
+
+#~ msgid "Finnish"
+#~ msgstr "suomių"
+
+#~ msgid "French"
+#~ msgstr "prancūzų"
+
+#~ msgid "Frisian"
+#~ msgstr "vakarų fryzų"
+
+#~ msgid "Galician"
+#~ msgstr "galisų"
+
+#~ msgid "Georgian"
+#~ msgstr "gruzinų"
+
+#~ msgid "German"
+#~ msgstr "vokiečių"
+
+#~ msgid "Greek"
+#~ msgstr "graikų"
+
+#~ msgid "Gujarati"
+#~ msgstr "gudžaratų"
+
+#~ msgid "Haitian Creole"
+#~ msgstr "Haičio"
+
+#~ msgid "Hausa"
+#~ msgstr "hausų"
+
+#~ msgid "Hawaiian"
+#~ msgstr "havajiečių"
+
+#~ msgid "Hebrew"
+#~ msgstr "hebrajų"
+
+#~ msgid "Hindi"
+#~ msgstr "hindi"
+
+#~ msgid "Hmong"
+#~ msgstr "hmong"
+
+#~ msgid "Hungarian"
+#~ msgstr "vengrų"
+
+#~ msgid "Icelandic"
+#~ msgstr "islandų"
+
+#~ msgid "Igbo"
+#~ msgstr "igbų"
+
+#~ msgid "Indonesian"
+#~ msgstr "indoneziečių"
+
+#~ msgid "Irish"
+#~ msgstr "airių"
+
+#~ msgid "Italian"
+#~ msgstr "italų"
+
+#~ msgid "Japanese"
+#~ msgstr "japonų"
+
+#~ msgid "Javanese"
+#~ msgstr "javiečių"
+
+#~ msgid "Kannada"
+#~ msgstr "kanadų"
+
+#~ msgid "Kazakh"
+#~ msgstr "kazachų"
+
+#~ msgid "Khmer"
+#~ msgstr "khmerų"
+
+#~ msgid "Kinyarwanda"
+#~ msgstr "kinjaruandų"
+
+#~ msgid "Korean"
+#~ msgstr "korėjiečių"
+
+#~ msgid "Kurdish (Kurmanji)"
+#~ msgstr "kurdų"
+
+#~ msgid "Kyrgyz"
+#~ msgstr "kirgizų"
+
+#~ msgid "Lao"
+#~ msgstr "laosiečių"
+
+#~ msgid "Latin"
+#~ msgstr "lotynų"
+
+#~ msgid "Latvian"
+#~ msgstr "latvių"
+
+#~ msgid "Lithuanian"
+#~ msgstr "lietuvių"
+
+#~ msgid "Luxembourgish"
+#~ msgstr "liuksemburgiečių"
+
+#~ msgid "Macedonian"
+#~ msgstr "makedonų"
+
+#~ msgid "Malagasy"
+#~ msgstr "malagasų"
+
+#~ msgid "Malay"
+#~ msgstr "malajiečių"
+
+#~ msgid "Malayalam"
+#~ msgstr "malajalių"
+
+#~ msgid "Maltese"
+#~ msgstr "maltiečių"
+
+#~ msgid "Maori"
+#~ msgstr "maorių"
+
+#~ msgid "Marathi"
+#~ msgstr "maratų"
+
+#~ msgid "Mongolian"
+#~ msgstr "mongolų"
+
+#~ msgid "Myanmar (Burmese)"
+#~ msgstr "birmiečių"
+
+#~ msgid "Nepali"
+#~ msgstr "nepaliečių"
+
+#~ msgid "Norwegian"
+#~ msgstr "norvegų"
+
+#~ msgid "Odia (Oriya)"
+#~ msgstr "odijų"
+
+#~ msgid "Pashto"
+#~ msgstr "puštūnų"
+
+#~ msgid "Persian"
+#~ msgstr "persų"
+
+#~ msgid "Polish"
+#~ msgstr "lenkų"
+
+#~ msgid "Portuguese"
+#~ msgstr "portugalų"
+
+#~ msgid "Punjabi"
+#~ msgstr "pendžabų"
+
+#~ msgid "Romanian"
+#~ msgstr "rumunų"
+
+#~ msgid "Russian"
+#~ msgstr "rusų"
+
+#~ msgid "Samoan"
+#~ msgstr "Samoa"
+
+#~ msgid "Scots Gaelic"
+#~ msgstr "škotų (gėlų)"
+
+#~ msgid "Serbian"
+#~ msgstr "serbų"
+
+#~ msgid "Sesotho"
+#~ msgstr "pietų Soto"
+
+#~ msgid "Shona"
+#~ msgstr "šonų"
+
+#~ msgid "Sindhi"
+#~ msgstr "sindų"
+
+#~ msgid "Sinhala"
+#~ msgstr "sinhalų"
+
+#~ msgid "Slovak"
+#~ msgstr "slovakų"
+
+#~ msgid "Slovenian"
+#~ msgstr "slovėnų"
+
+#~ msgid "Somali"
+#~ msgstr "somaliečių"
+
+#~ msgid "Spanish"
+#~ msgstr "ispanų"
+
+#~ msgid "Sundanese"
+#~ msgstr "sundų"
+
+#~ msgid "Swahili"
+#~ msgstr "suahilių"
+
+#~ msgid "Swedish"
+#~ msgstr "švedų"
+
+#~ msgid "Tajik"
+#~ msgstr "tadžikų"
+
+#~ msgid "Tamil"
+#~ msgstr "tamilų"
+
+#~ msgid "Tatar"
+#~ msgstr "totorių"
+
+#~ msgid "Telugu"
+#~ msgstr "telugų"
+
+#~ msgid "Thai"
+#~ msgstr "tajų"
+
+#~ msgid "Turkish"
+#~ msgstr "turkų"
+
+#~ msgid "Turkmen"
+#~ msgstr "turkmėnų"
+
+#~ msgid "Ukrainian"
+#~ msgstr "ukrainiečių"
+
+#~ msgid "Urdu"
+#~ msgstr "urdų"
+
+#~ msgid "Uyghur"
+#~ msgstr "uigūrų"
+
+#~ msgid "Uzbek"
+#~ msgstr "uzbekų"
+
+#~ msgid "Vietnamese"
+#~ msgstr "vietnamiečių"
+
+#~ msgid "Welsh"
+#~ msgstr "valų"
+
+#~ msgid "Xhosa"
+#~ msgstr "kosų"
+
+#~ msgid "Yiddish"
+#~ msgstr "jidiš"
+
+#~ msgid "Yoruba"
+#~ msgstr "jorubų"
+
+#~ msgid "Zulu"
+#~ msgstr "zulų"
 
 #~ msgid "GitHub page"
 #~ msgstr "GitHub puslapis"

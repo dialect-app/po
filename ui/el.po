@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-09 11:30-0500\n"
+"POT-Creation-Date: 2023-06-09 15:15-0500\n"
 "PO-Revision-Date: 2021-10-31 17:36+0000\n"
 "Last-Translator: Iraklis Karagkiozoglou <iraklisk@outlook.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/dialect/dialect/el/"
@@ -22,7 +22,7 @@ msgstr ""
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:7
-#: data/resources/window.blp:285 dialect/main.py:61
+#: data/resources/window.blp:285 dialect/main.py:60
 msgid "Dialect"
 msgstr "Διάλεκτος"
 
@@ -286,7 +286,7 @@ msgstr ""
 msgid "Show Pronunciation"
 msgstr "Προβολή προφοράς"
 
-#: data/resources/window.blp:24 dialect/window.py:1268 dialect/window.py:1276
+#: data/resources/window.blp:24 dialect/window.py:1267 dialect/window.py:1275
 msgid "Preferences"
 msgstr "Προτιμήσεις"
 
@@ -303,7 +303,7 @@ msgid "Loading…"
 msgstr "Φόρτωση…"
 
 #: data/resources/window.blp:103 data/resources/window.blp:135
-#: dialect/window.py:529 dialect/window.py:1260 dialect/window.py:1284
+#: dialect/window.py:528 dialect/window.py:1259 dialect/window.py:1283
 msgid "Retry"
 msgstr "Προσπαθησε ξανα"
 
@@ -386,539 +386,429 @@ msgstr ""
 msgid "Save"
 msgstr "Αποθήκευση"
 
-#: dialect/languages.py:11
-msgid "Afrikaans"
-msgstr "Αφρικάανς"
-
-#: dialect/languages.py:12
-msgid "Albanian"
-msgstr "Αλβανικά"
-
-#: dialect/languages.py:13
-msgid "Amharic"
-msgstr "Αμχαρικά"
-
-#: dialect/languages.py:14
-msgid "Arabic"
-msgstr "Αραβικά"
-
-#: dialect/languages.py:15
-msgid "Armenian"
-msgstr "Αρμενικά"
-
-#: dialect/languages.py:16
-msgid "Azerbaijani"
-msgstr "Αζερμπαϊτζανικά"
-
-#: dialect/languages.py:17
-msgid "Basque"
-msgstr "Βασκικά"
-
-#: dialect/languages.py:18
-msgid "Belarusian"
-msgstr "Λευκορωσικά"
-
-#: dialect/languages.py:19
-msgid "Bengali"
-msgstr "Βεγγαλικά"
-
-#: dialect/languages.py:20
-msgid "Bosnian"
-msgstr "Βοσνιακά"
-
-#: dialect/languages.py:21
-msgid "Bulgarian"
-msgstr "Βουλγαρικά"
-
-#: dialect/languages.py:22
-msgid "Catalan"
-msgstr "Καταλανικά"
-
-#: dialect/languages.py:23
-msgid "Cebuano"
-msgstr "Σεμπουάνο"
-
-#: dialect/languages.py:24
-msgid "Chichewa"
-msgstr "Νιάντζα"
-
-#: dialect/languages.py:25
-msgid "Chinese"
-msgstr "Κινεζικά"
-
-#: dialect/languages.py:26
-msgid "Chinese (Simplified)"
-msgstr "Απλοποιημένα Κινεζικά"
-
-#: dialect/languages.py:27
-msgid "Chinese (Traditional)"
-msgstr "Παραδοσιακά Κινεζικά"
-
-#: dialect/languages.py:28
-msgid "Corsican"
-msgstr "Κορσικανικά"
-
-#: dialect/languages.py:29
-msgid "Croatian"
-msgstr "Κροατικά"
-
-#: dialect/languages.py:30
-msgid "Czech"
-msgstr "Τσεχικά"
-
-#: dialect/languages.py:31
-msgid "Danish"
-msgstr "Δανικά"
-
-#: dialect/languages.py:32
-msgid "Dutch"
-msgstr "Ολλανδικά"
-
-#: dialect/languages.py:33
-msgid "English"
-msgstr "Αγγλικά"
-
-#: dialect/languages.py:34
-msgid "Esperanto"
-msgstr "Εσπεράντο"
-
-#: dialect/languages.py:35
-msgid "Estonian"
-msgstr "Εσθονικά"
-
-#: dialect/languages.py:36
-msgid "Filipino"
-msgstr "Τάγκαλογκ"
-
-#: dialect/languages.py:37
-msgid "Finnish"
-msgstr "Φινλανδικά"
-
-#: dialect/languages.py:38
-msgid "French"
-msgstr "Γαλλικά"
-
-#: dialect/languages.py:39
-msgid "Frisian"
-msgstr "Δυτικά Φριζικά"
-
-#: dialect/languages.py:40
-msgid "Galician"
-msgstr "Γαλικιανά"
-
-#: dialect/languages.py:41
-msgid "Georgian"
-msgstr "Γεωργιανά"
-
-#: dialect/languages.py:42
-msgid "German"
-msgstr "Γερμανικά"
-
-#: dialect/languages.py:43
-msgid "Greek"
-msgstr "Ελληνικά"
-
-#: dialect/languages.py:44
-msgid "Gujarati"
-msgstr "Γκουτζαρατικά"
-
-#: dialect/languages.py:45
-msgid "Haitian Creole"
-msgstr "Αϊτιανά"
-
-#: dialect/languages.py:46
-msgid "Hausa"
-msgstr "Χάουσα"
-
-#: dialect/languages.py:47
-msgid "Hawaiian"
-msgstr "Χαβαϊκά"
-
-#: dialect/languages.py:48 dialect/languages.py:49
-msgid "Hebrew"
-msgstr "Εβραϊκά"
-
-#: dialect/languages.py:50
-msgid "Hindi"
-msgstr "Χίντι"
-
-#: dialect/languages.py:51
-msgid "Hmong"
-msgstr "Χμονγκ"
-
-#: dialect/languages.py:52
-msgid "Hungarian"
-msgstr "Ουγγρικά"
-
-#: dialect/languages.py:53
-msgid "Icelandic"
-msgstr "Ισλανδικά"
-
-#: dialect/languages.py:54
-msgid "Igbo"
-msgstr "Ίγκμπο"
-
-#: dialect/languages.py:55
-msgid "Indonesian"
-msgstr "Ινδονησιακά"
-
-#: dialect/languages.py:56
-msgid "Irish"
-msgstr "Ιρλανδικά"
-
-#: dialect/languages.py:57
-msgid "Italian"
-msgstr "Ιταλικά"
-
-#: dialect/languages.py:58
-msgid "Japanese"
-msgstr "Ιαπωνικά"
-
-#: dialect/languages.py:59
-msgid "Javanese"
-msgstr "Ιαβαϊκά"
-
-#: dialect/languages.py:60
-msgid "Kannada"
-msgstr "Κανάντα"
-
-#: dialect/languages.py:61
-msgid "Kazakh"
-msgstr "Καζακικά"
-
-#: dialect/languages.py:62
-msgid "Khmer"
-msgstr "Χμερ"
-
-#: dialect/languages.py:63
-msgid "Kinyarwanda"
-msgstr "Κινιαρουάντα"
-
-#: dialect/languages.py:64
-msgid "Korean"
-msgstr "Κορεατικά"
-
-#: dialect/languages.py:65
-msgid "Kurdish (Kurmanji)"
-msgstr "Κουρδικά"
-
-#: dialect/languages.py:66
-msgid "Kyrgyz"
-msgstr "Κιργιζικά"
-
-#: dialect/languages.py:67
-msgid "Lao"
-msgstr "Λαοτινά"
-
-#: dialect/languages.py:68
-msgid "Latin"
-msgstr "Λατινικά"
-
-#: dialect/languages.py:69
-msgid "Latvian"
-msgstr "Λετονικά"
-
-#: dialect/languages.py:70
-msgid "Lithuanian"
-msgstr "Λιθουανικά"
-
-#: dialect/languages.py:71
-msgid "Luxembourgish"
-msgstr "Λουξεμβουργιανά"
-
-#: dialect/languages.py:72
-msgid "Macedonian"
-msgstr "Σλαβομακεδονικά"
-
-#: dialect/languages.py:73
-msgid "Malagasy"
-msgstr "Μαλγασικά"
-
-#: dialect/languages.py:74
-msgid "Malay"
-msgstr "Μαλαισιανά"
-
-#: dialect/languages.py:75
-msgid "Malayalam"
-msgstr "Μαλαγιαλαμικά"
-
-#: dialect/languages.py:76
-msgid "Maltese"
-msgstr "Μαλτεζικά"
-
-#: dialect/languages.py:77
-msgid "Maori"
-msgstr "Μαορί"
-
-#: dialect/languages.py:78
-msgid "Marathi"
-msgstr "Μαραθικά"
-
-#: dialect/languages.py:79
-msgid "Mongolian"
-msgstr "Μογγολικά"
-
-#: dialect/languages.py:80
-msgid "Myanmar (Burmese)"
-msgstr "Βιρμανικά"
-
-#: dialect/languages.py:81
-msgid "Nepali"
-msgstr "Νεπαλικά"
-
-#: dialect/languages.py:82
-msgid "Norwegian"
-msgstr "Νορβηγικά"
-
-#: dialect/languages.py:83
-msgid "Odia (Oriya)"
-msgstr "Όντια"
-
-#: dialect/languages.py:84
-msgid "Pashto"
-msgstr "Πάστο"
-
-#: dialect/languages.py:85
-msgid "Persian"
-msgstr "Περσικά"
-
-#: dialect/languages.py:86
-msgid "Polish"
-msgstr "Πολωνικά"
-
-#: dialect/languages.py:87
-msgid "Portuguese"
-msgstr "Πορτογαλικά"
-
 #: dialect/languages.py:88
-msgid "Punjabi"
-msgstr "Παντζαπικά"
-
-#: dialect/languages.py:89
-msgid "Romanian"
-msgstr "Ρουμανικά"
-
-#: dialect/languages.py:90
-msgid "Russian"
-msgstr "Ρωσικά"
-
-#: dialect/languages.py:91
-msgid "Samoan"
-msgstr "Σαμοανά"
-
-#: dialect/languages.py:92
-msgid "Scots Gaelic"
-msgstr "Σκωτικά Κελτικά"
-
-#: dialect/languages.py:93
-msgid "Serbian"
-msgstr "Σερβικά"
-
-#: dialect/languages.py:94
-msgid "Sesotho"
-msgstr "Νότια Σόθο"
-
-#: dialect/languages.py:95
-msgid "Shona"
-msgstr "Σόνα"
-
-#: dialect/languages.py:96
-msgid "Sindhi"
-msgstr "Σίντι"
-
-#: dialect/languages.py:97
-msgid "Sinhala"
-msgstr "Σινχαλεζικά"
-
-#: dialect/languages.py:98
-msgid "Slovak"
-msgstr "Σλοβακικά"
-
-#: dialect/languages.py:99
-msgid "Slovenian"
-msgstr "Σλοβενικά"
-
-#: dialect/languages.py:100
-msgid "Somali"
-msgstr "Σομαλικά"
-
-#: dialect/languages.py:101
-msgid "Spanish"
-msgstr "Ισπανικά"
-
-#: dialect/languages.py:102
-msgid "Sundanese"
-msgstr "Σουνδανικά"
-
-#: dialect/languages.py:103
-msgid "Swahili"
-msgstr "Σουαχίλι"
-
-#: dialect/languages.py:104
-msgid "Swedish"
-msgstr "Σουηδικά"
-
-#: dialect/languages.py:105
-msgid "Tajik"
-msgstr "Τατζικικά"
-
-#: dialect/languages.py:106
-msgid "Tamil"
-msgstr "Ταμιλικά"
-
-#: dialect/languages.py:107
-msgid "Tatar"
-msgstr "Ταταρικά"
-
-#: dialect/languages.py:108
-msgid "Telugu"
-msgstr "Τελούγκου"
-
-#: dialect/languages.py:109
-msgid "Thai"
-msgstr "Ταϊλανδικά"
-
-#: dialect/languages.py:110
-msgid "Turkish"
-msgstr "Τουρκικά"
-
-#: dialect/languages.py:111
-msgid "Turkmen"
-msgstr "Τουρκμενικά"
-
-#: dialect/languages.py:112
-msgid "Ukrainian"
-msgstr "Ουκρανικά"
-
-#: dialect/languages.py:113
-msgid "Urdu"
-msgstr "Ούρντου"
-
-#: dialect/languages.py:114
-msgid "Uyghur"
-msgstr "Ουιγουρικά"
-
-#: dialect/languages.py:115
-msgid "Uzbek"
-msgstr "Ουζμπεκικά"
-
-#: dialect/languages.py:116
-msgid "Vietnamese"
-msgstr "Βιετναμικά"
-
-#: dialect/languages.py:117
-msgid "Welsh"
-msgstr "Ουαλικά"
-
-#: dialect/languages.py:118
-msgid "Xhosa"
-msgstr "Κόσα"
-
-#: dialect/languages.py:119
-msgid "Yiddish"
-msgstr "Γίντις"
-
-#: dialect/languages.py:120
-msgid "Yoruba"
-msgstr "Γιορούμπα"
-
-#: dialect/languages.py:121
-msgid "Zulu"
-msgstr "Ζουλού"
-
-#: dialect/languages.py:198
 msgid "Auto"
 msgstr "Αυτόματη"
 
-#: dialect/preferences.py:122
+#: dialect/preferences.py:121
 msgid "Edit Provider Settings"
 msgstr ""
 
-#: dialect/preferences.py:124
+#: dialect/preferences.py:123
 msgid "No Settings for This Provider"
 msgstr ""
 
-#: dialect/window.py:381 dialect/window.py:1266
+#: dialect/window.py:380 dialect/window.py:1265
 msgid "The provided API key is invalid"
 msgstr ""
 
-#: dialect/window.py:383
+#: dialect/window.py:382
 msgid "Please set a valid API key in the preferences."
 msgstr ""
 
-#: dialect/window.py:386
+#: dialect/window.py:385
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
 
-#: dialect/window.py:403 dialect/window.py:1274
+#: dialect/window.py:402 dialect/window.py:1273
 msgid "API key is required to use the service"
 msgstr ""
 
-#: dialect/window.py:404
+#: dialect/window.py:403
 msgid "Please set an API key in the preferences."
 msgstr ""
 
-#: dialect/window.py:417
+#: dialect/window.py:416
 #, fuzzy
 msgid "Failed loading the translation service"
 msgstr "Δεν ήταν δυνατή η φόρτωση της υπηρεσίας μεταφραστή"
 
-#: dialect/window.py:418
+#: dialect/window.py:417
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
 
-#: dialect/window.py:427
+#: dialect/window.py:426
 #, fuzzy
 msgid "Couldn’t connect to the translation service"
 msgstr "Δεν ήταν δυνατή η φόρτωση της υπηρεσίας μεταφραστή"
 
-#: dialect/window.py:428
+#: dialect/window.py:427
 #, fuzzy
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
 "Η μετάφραση απέτυχε.\n"
 "Ελέγξτε για προβλήματα δικτύου."
 
-#: dialect/window.py:522
+#: dialect/window.py:521
 #, fuzzy
 msgid "A network issue has occurred. Retry?"
 msgstr "Παρουσιάστηκε πρόβλημα δικτύου. Επανάληψη προσπάθειας?"
 
-#: dialect/window.py:536
+#: dialect/window.py:535
 #, fuzzy
 msgid "A network issue has occurred. Please try again."
 msgstr ""
 "Παρουσιάστηκε πρόβλημα δικτύου.\n"
 "Δοκιμάστε ξανά."
 
-#: dialect/window.py:864
+#: dialect/window.py:863
 msgid "New translation has been suggested!"
 msgstr ""
 
-#: dialect/window.py:866
+#: dialect/window.py:865
 msgid "Suggestion failed."
 msgstr ""
 
-#: dialect/window.py:1036
+#: dialect/window.py:1035
 #, fuzzy
 msgid "{} characters limit reached!"
 msgstr "Φτάσατε το όριο των 5000 χαρακτήρων!"
 
-#: dialect/window.py:1209
+#: dialect/window.py:1208
 msgid "Did you mean: "
 msgstr "Μήπως εννοούσες: "
 
-#: dialect/window.py:1258
+#: dialect/window.py:1257
 #, fuzzy
 msgid "Translation failed, check for network issues"
 msgstr ""
 "Η μετάφραση απέτυχε.\n"
 "Ελέγξτε για προβλήματα δικτύου."
 
-#: dialect/window.py:1282
+#: dialect/window.py:1281
 #, fuzzy
 msgid "Translation failed"
 msgstr "Ιστορικό μεταφράσεων"
+
+#~ msgid "Afrikaans"
+#~ msgstr "Αφρικάανς"
+
+#~ msgid "Albanian"
+#~ msgstr "Αλβανικά"
+
+#~ msgid "Amharic"
+#~ msgstr "Αμχαρικά"
+
+#~ msgid "Arabic"
+#~ msgstr "Αραβικά"
+
+#~ msgid "Armenian"
+#~ msgstr "Αρμενικά"
+
+#~ msgid "Azerbaijani"
+#~ msgstr "Αζερμπαϊτζανικά"
+
+#~ msgid "Basque"
+#~ msgstr "Βασκικά"
+
+#~ msgid "Belarusian"
+#~ msgstr "Λευκορωσικά"
+
+#~ msgid "Bengali"
+#~ msgstr "Βεγγαλικά"
+
+#~ msgid "Bosnian"
+#~ msgstr "Βοσνιακά"
+
+#~ msgid "Bulgarian"
+#~ msgstr "Βουλγαρικά"
+
+#~ msgid "Catalan"
+#~ msgstr "Καταλανικά"
+
+#~ msgid "Cebuano"
+#~ msgstr "Σεμπουάνο"
+
+#~ msgid "Chichewa"
+#~ msgstr "Νιάντζα"
+
+#~ msgid "Chinese"
+#~ msgstr "Κινεζικά"
+
+#~ msgid "Chinese (Simplified)"
+#~ msgstr "Απλοποιημένα Κινεζικά"
+
+#~ msgid "Chinese (Traditional)"
+#~ msgstr "Παραδοσιακά Κινεζικά"
+
+#~ msgid "Corsican"
+#~ msgstr "Κορσικανικά"
+
+#~ msgid "Croatian"
+#~ msgstr "Κροατικά"
+
+#~ msgid "Czech"
+#~ msgstr "Τσεχικά"
+
+#~ msgid "Danish"
+#~ msgstr "Δανικά"
+
+#~ msgid "Dutch"
+#~ msgstr "Ολλανδικά"
+
+#~ msgid "English"
+#~ msgstr "Αγγλικά"
+
+#~ msgid "Esperanto"
+#~ msgstr "Εσπεράντο"
+
+#~ msgid "Estonian"
+#~ msgstr "Εσθονικά"
+
+#~ msgid "Filipino"
+#~ msgstr "Τάγκαλογκ"
+
+#~ msgid "Finnish"
+#~ msgstr "Φινλανδικά"
+
+#~ msgid "French"
+#~ msgstr "Γαλλικά"
+
+#~ msgid "Frisian"
+#~ msgstr "Δυτικά Φριζικά"
+
+#~ msgid "Galician"
+#~ msgstr "Γαλικιανά"
+
+#~ msgid "Georgian"
+#~ msgstr "Γεωργιανά"
+
+#~ msgid "German"
+#~ msgstr "Γερμανικά"
+
+#~ msgid "Greek"
+#~ msgstr "Ελληνικά"
+
+#~ msgid "Gujarati"
+#~ msgstr "Γκουτζαρατικά"
+
+#~ msgid "Haitian Creole"
+#~ msgstr "Αϊτιανά"
+
+#~ msgid "Hausa"
+#~ msgstr "Χάουσα"
+
+#~ msgid "Hawaiian"
+#~ msgstr "Χαβαϊκά"
+
+#~ msgid "Hebrew"
+#~ msgstr "Εβραϊκά"
+
+#~ msgid "Hindi"
+#~ msgstr "Χίντι"
+
+#~ msgid "Hmong"
+#~ msgstr "Χμονγκ"
+
+#~ msgid "Hungarian"
+#~ msgstr "Ουγγρικά"
+
+#~ msgid "Icelandic"
+#~ msgstr "Ισλανδικά"
+
+#~ msgid "Igbo"
+#~ msgstr "Ίγκμπο"
+
+#~ msgid "Indonesian"
+#~ msgstr "Ινδονησιακά"
+
+#~ msgid "Irish"
+#~ msgstr "Ιρλανδικά"
+
+#~ msgid "Italian"
+#~ msgstr "Ιταλικά"
+
+#~ msgid "Japanese"
+#~ msgstr "Ιαπωνικά"
+
+#~ msgid "Javanese"
+#~ msgstr "Ιαβαϊκά"
+
+#~ msgid "Kannada"
+#~ msgstr "Κανάντα"
+
+#~ msgid "Kazakh"
+#~ msgstr "Καζακικά"
+
+#~ msgid "Khmer"
+#~ msgstr "Χμερ"
+
+#~ msgid "Kinyarwanda"
+#~ msgstr "Κινιαρουάντα"
+
+#~ msgid "Korean"
+#~ msgstr "Κορεατικά"
+
+#~ msgid "Kurdish (Kurmanji)"
+#~ msgstr "Κουρδικά"
+
+#~ msgid "Kyrgyz"
+#~ msgstr "Κιργιζικά"
+
+#~ msgid "Lao"
+#~ msgstr "Λαοτινά"
+
+#~ msgid "Latin"
+#~ msgstr "Λατινικά"
+
+#~ msgid "Latvian"
+#~ msgstr "Λετονικά"
+
+#~ msgid "Lithuanian"
+#~ msgstr "Λιθουανικά"
+
+#~ msgid "Luxembourgish"
+#~ msgstr "Λουξεμβουργιανά"
+
+#~ msgid "Macedonian"
+#~ msgstr "Σλαβομακεδονικά"
+
+#~ msgid "Malagasy"
+#~ msgstr "Μαλγασικά"
+
+#~ msgid "Malay"
+#~ msgstr "Μαλαισιανά"
+
+#~ msgid "Malayalam"
+#~ msgstr "Μαλαγιαλαμικά"
+
+#~ msgid "Maltese"
+#~ msgstr "Μαλτεζικά"
+
+#~ msgid "Maori"
+#~ msgstr "Μαορί"
+
+#~ msgid "Marathi"
+#~ msgstr "Μαραθικά"
+
+#~ msgid "Mongolian"
+#~ msgstr "Μογγολικά"
+
+#~ msgid "Myanmar (Burmese)"
+#~ msgstr "Βιρμανικά"
+
+#~ msgid "Nepali"
+#~ msgstr "Νεπαλικά"
+
+#~ msgid "Norwegian"
+#~ msgstr "Νορβηγικά"
+
+#~ msgid "Odia (Oriya)"
+#~ msgstr "Όντια"
+
+#~ msgid "Pashto"
+#~ msgstr "Πάστο"
+
+#~ msgid "Persian"
+#~ msgstr "Περσικά"
+
+#~ msgid "Polish"
+#~ msgstr "Πολωνικά"
+
+#~ msgid "Portuguese"
+#~ msgstr "Πορτογαλικά"
+
+#~ msgid "Punjabi"
+#~ msgstr "Παντζαπικά"
+
+#~ msgid "Romanian"
+#~ msgstr "Ρουμανικά"
+
+#~ msgid "Russian"
+#~ msgstr "Ρωσικά"
+
+#~ msgid "Samoan"
+#~ msgstr "Σαμοανά"
+
+#~ msgid "Scots Gaelic"
+#~ msgstr "Σκωτικά Κελτικά"
+
+#~ msgid "Serbian"
+#~ msgstr "Σερβικά"
+
+#~ msgid "Sesotho"
+#~ msgstr "Νότια Σόθο"
+
+#~ msgid "Shona"
+#~ msgstr "Σόνα"
+
+#~ msgid "Sindhi"
+#~ msgstr "Σίντι"
+
+#~ msgid "Sinhala"
+#~ msgstr "Σινχαλεζικά"
+
+#~ msgid "Slovak"
+#~ msgstr "Σλοβακικά"
+
+#~ msgid "Slovenian"
+#~ msgstr "Σλοβενικά"
+
+#~ msgid "Somali"
+#~ msgstr "Σομαλικά"
+
+#~ msgid "Spanish"
+#~ msgstr "Ισπανικά"
+
+#~ msgid "Sundanese"
+#~ msgstr "Σουνδανικά"
+
+#~ msgid "Swahili"
+#~ msgstr "Σουαχίλι"
+
+#~ msgid "Swedish"
+#~ msgstr "Σουηδικά"
+
+#~ msgid "Tajik"
+#~ msgstr "Τατζικικά"
+
+#~ msgid "Tamil"
+#~ msgstr "Ταμιλικά"
+
+#~ msgid "Tatar"
+#~ msgstr "Ταταρικά"
+
+#~ msgid "Telugu"
+#~ msgstr "Τελούγκου"
+
+#~ msgid "Thai"
+#~ msgstr "Ταϊλανδικά"
+
+#~ msgid "Turkish"
+#~ msgstr "Τουρκικά"
+
+#~ msgid "Turkmen"
+#~ msgstr "Τουρκμενικά"
+
+#~ msgid "Ukrainian"
+#~ msgstr "Ουκρανικά"
+
+#~ msgid "Urdu"
+#~ msgstr "Ούρντου"
+
+#~ msgid "Uyghur"
+#~ msgstr "Ουιγουρικά"
+
+#~ msgid "Uzbek"
+#~ msgstr "Ουζμπεκικά"
+
+#~ msgid "Vietnamese"
+#~ msgstr "Βιετναμικά"
+
+#~ msgid "Welsh"
+#~ msgstr "Ουαλικά"
+
+#~ msgid "Xhosa"
+#~ msgstr "Κόσα"
+
+#~ msgid "Yiddish"
+#~ msgstr "Γίντις"
+
+#~ msgid "Yoruba"
+#~ msgstr "Γιορούμπα"
+
+#~ msgid "Zulu"
+#~ msgstr "Ζουλού"
 
 #~ msgid "GitHub page"
 #~ msgstr "Σελίδα GitHub"
