@@ -1,0 +1,1780 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dialect-cldr-langs\n"
+"Language: id\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Afar"
+msgstr "Afar"
+
+msgid "Abkhazian"
+msgstr "Abkhaz"
+
+msgid "Achinese"
+msgstr "Aceh"
+
+msgid "Acoli"
+msgstr "Acoli"
+
+msgid "Adangme"
+msgstr "Adangme"
+
+msgid "Adyghe"
+msgstr "Adygei"
+
+msgid "Avestan"
+msgstr "Avesta"
+
+msgid "Tunisian Arabic"
+msgstr "Arab Tunisia"
+
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+msgid "Afrihili"
+msgstr "Afrihili"
+
+msgid "Aghem"
+msgstr "Aghem"
+
+msgid "Ainu"
+msgstr "Ainu"
+
+msgid "Akan"
+msgstr "Akan"
+
+msgid "Akkadian"
+msgstr "Akkadia"
+
+msgid "Alabama"
+msgstr "Alabama"
+
+msgid "Aleut"
+msgstr "Aleut"
+
+msgid "Southern Altai"
+msgstr "Altai Selatan"
+
+msgid "Amharic"
+msgstr "Amharik"
+
+msgid "Aragonese"
+msgstr "Aragon"
+
+msgid "Old English"
+msgstr "Inggris Kuno"
+
+msgid "Obolo"
+msgstr "Obolo"
+
+msgid "Angika"
+msgstr "Angika"
+
+msgid "Arabic"
+msgstr "Arab"
+
+msgid "Modern Standard Arabic"
+msgstr "Arab Standar Modern"
+
+msgid "Aramaic"
+msgstr "Aram"
+
+msgid "Mapuche"
+msgstr "Mapuche"
+
+msgid "Arapaho"
+msgstr "Arapaho"
+
+msgid "Algerian Arabic"
+msgstr "Arab Aljazair"
+
+msgid "Najdi Arabic"
+msgstr "Arab Najdi"
+
+msgid "Arawak"
+msgstr "Arawak"
+
+msgid "Moroccan Arabic"
+msgstr "Arab Maroko"
+
+msgid "Egyptian Arabic"
+msgstr "Arab Mesir"
+
+msgid "Assamese"
+msgstr "Assam"
+
+msgid "Asu"
+msgstr "Asu"
+
+msgid "American Sign Language"
+msgstr "Bahasa Isyarat Amerika"
+
+msgid "Asturian"
+msgstr "Asturia"
+
+msgid "Atikamekw"
+msgstr "Atikamekw"
+
+msgid "Avaric"
+msgstr "Avar"
+
+msgid "Awadhi"
+msgstr "Awadhi"
+
+msgid "Aymara"
+msgstr "Aymara"
+
+msgid "Azerbaijani"
+msgstr "Azerbaijani"
+
+msgid "Azeri"
+msgstr "Azeri"
+
+msgid "Bashkir"
+msgstr "Bashkir"
+
+msgid "Baluchi"
+msgstr "Baluchi"
+
+msgid "Balinese"
+msgstr "Bali"
+
+msgid "Bavarian"
+msgstr "Bavaria"
+
+msgid "Basaa"
+msgstr "Basa"
+
+msgid "Bamun"
+msgstr "Bamun"
+
+msgid "Batak Toba"
+msgstr "Batak Toba"
+
+msgid "Ghomala"
+msgstr "Ghomala"
+
+msgid "Belarusian"
+msgstr "Belarusia"
+
+msgid "Beja"
+msgstr "Beja"
+
+msgid "Bemba"
+msgstr "Bemba"
+
+msgid "Betawi"
+msgstr "Betawi"
+
+msgid "Bena"
+msgstr "Bena"
+
+msgid "Bafut"
+msgstr "Bafut"
+
+msgid "Bulgarian"
+msgstr "Bulgaria"
+
+msgid "Western Balochi"
+msgstr "Balochi Barat"
+
+msgid "Bhojpuri"
+msgstr "Bhojpuri"
+
+msgid "Bislama"
+msgstr "Bislama"
+
+msgid "Bikol"
+msgstr "Bikol"
+
+msgid "Bini"
+msgstr "Bini"
+
+msgid "Banjar"
+msgstr "Banjar"
+
+msgid "Kom"
+msgstr "Kom"
+
+msgid "Siksiká"
+msgstr "Siksika"
+
+msgid "Bambara"
+msgstr "Bambara"
+
+msgid "Bangla"
+msgstr "Bengali"
+
+msgid "Tibetan"
+msgstr "Tibet"
+
+msgid "Breton"
+msgstr "Breton"
+
+msgid "Braj"
+msgstr "Braj"
+
+msgid "Bodo"
+msgstr "Bodo"
+
+msgid "Bosnian"
+msgstr "Bosnia"
+
+msgid "Akoose"
+msgstr "Akoose"
+
+msgid "Buriat"
+msgstr "Buriat"
+
+msgid "Buginese"
+msgstr "Bugis"
+
+msgid "Bulu"
+msgstr "Bulu"
+
+msgid "Blin"
+msgstr "Blin"
+
+msgid "Medumba"
+msgstr "Medumba"
+
+msgid "Catalan"
+msgstr "Katalan"
+
+msgid "Caddo"
+msgstr "Kado"
+
+msgid "Carib"
+msgstr "Karibia"
+
+msgid "Cayuga"
+msgstr "Cayuga"
+
+msgid "Atsam"
+msgstr "Atsam"
+
+msgid "Chakma"
+msgstr "Chakma"
+
+msgid "Chechen"
+msgstr "Chechen"
+
+msgid "Cebuano"
+msgstr "Cebuano"
+
+msgid "Chiga"
+msgstr "Kiga"
+
+msgid "Chamorro"
+msgstr "Chamorro"
+
+msgid "Chibcha"
+msgstr "Chibcha"
+
+msgid "Chagatai"
+msgstr "Chagatai"
+
+msgid "Chuukese"
+msgstr "Chuuke"
+
+msgid "Mari"
+msgstr "Mari"
+
+msgid "Chinook Jargon"
+msgstr "Jargon Chinook"
+
+msgid "Choctaw"
+msgstr "Koktaw"
+
+msgid "Chipewyan"
+msgstr "Chipewyan"
+
+msgid "Cherokee"
+msgstr "Cherokee"
+
+msgid "Cheyenne"
+msgstr "Cheyenne"
+
+msgid "Central Kurdish"
+msgstr "Kurdi Sorani"
+
+msgid "Kurdish, Central"
+msgstr "Kurdi Sorani"
+
+msgid "Kurdish, Sorani"
+msgstr "Kurdi Sorani"
+
+msgid "Chilcotin"
+msgstr "Chilcotin"
+
+msgid "Corsican"
+msgstr "Korsika"
+
+msgid "Coptic"
+msgstr "Koptik"
+
+msgid "Cree"
+msgstr "Kree"
+
+msgid "Michif"
+msgstr "Michif"
+
+msgid "Crimean Tatar"
+msgstr "Tatar Krimea"
+
+msgid "Southern East Cree"
+msgstr "East Cree Selatan"
+
+msgid "Plains Cree"
+msgstr "Cree Dataran"
+
+msgid "Northern East Cree"
+msgstr "East Cree Utara"
+
+msgid "Moose Cree"
+msgstr "Moose Cree"
+
+msgid "Carolina Algonquian"
+msgstr "Carolina Algonquian"
+
+msgid "Seselwa Creole French"
+msgstr "Seselwa Kreol Prancis"
+
+msgid "Czech"
+msgstr "Cheska"
+
+msgid "Kashubian"
+msgstr "Kashubia"
+
+msgid "Swampy Cree"
+msgstr "Cree Rawa"
+
+msgid "Church Slavic"
+msgstr "Bahasa Gereja Slavonia"
+
+msgid "Chuvash"
+msgstr "Chuvash"
+
+msgid "Welsh"
+msgstr "Welsh"
+
+msgid "Danish"
+msgstr "Dansk"
+
+msgid "Dakota"
+msgstr "Dakota"
+
+msgid "Dargwa"
+msgstr "Dargwa"
+
+msgid "Taita"
+msgstr "Taita"
+
+msgid "German"
+msgstr "Jerman"
+
+msgid "Swiss High German"
+msgstr "Jerman Tinggi (Swiss)"
+
+msgid "Delaware"
+msgstr "Delaware"
+
+msgid "Slave"
+msgstr "Slave"
+
+msgid "Dogrib"
+msgstr "Dogrib"
+
+msgid "Dinka"
+msgstr "Dinka"
+
+msgid "Zarma"
+msgstr "Zarma"
+
+msgid "Dogri"
+msgstr "Dogri"
+
+msgid "Lower Sorbian"
+msgstr "Sorbia Hilir"
+
+msgid "Duala"
+msgstr "Duala"
+
+msgid "Middle Dutch"
+msgstr "Belanda Abad Pertengahan"
+
+msgid "Divehi"
+msgstr "Divehi"
+
+msgid "Jola-Fonyi"
+msgstr "Jola-Fonyi"
+
+msgid "Dyula"
+msgstr "Dyula"
+
+msgid "Dzongkha"
+msgstr "Dzongkha"
+
+msgid "Dazaga"
+msgstr "Dazaga"
+
+msgid "Embu"
+msgstr "Embu"
+
+msgid "Ewe"
+msgstr "Ewe"
+
+msgid "Efik"
+msgstr "Efik"
+
+msgid "Ancient Egyptian"
+msgstr "Mesir Kuno"
+
+msgid "Ekajuk"
+msgstr "Ekajuk"
+
+msgid "Greek"
+msgstr "Yunani"
+
+msgid "Elamite"
+msgstr "Elam"
+
+msgid "English"
+msgstr "Inggris"
+
+msgid "British English"
+msgstr "Inggris (Britania)"
+
+msgid "UK English"
+msgstr "Inggris (UK)"
+
+msgid "US English"
+msgstr "Inggris (AS)"
+
+msgid "Middle English"
+msgstr "Inggris Abad Pertengahan"
+
+msgid "Esperanto"
+msgstr "Esperanto"
+
+msgid "Spanish"
+msgstr "Spanyol"
+
+msgid "European Spanish"
+msgstr "Spanyol (Eropa)"
+
+msgid "Estonian"
+msgstr "Esti"
+
+msgid "Basque"
+msgstr "Basque"
+
+msgid "Ewondo"
+msgstr "Ewondo"
+
+msgid "Persian"
+msgstr "Persia"
+
+msgid "Dari"
+msgstr "Persia Dari"
+
+msgid "Fang"
+msgstr "Fang"
+
+msgid "Fanti"
+msgstr "Fanti"
+
+msgid "Fula"
+msgstr "Fula"
+
+msgid "Finnish"
+msgstr "Suomi"
+
+msgid "Filipino"
+msgstr "Filipino"
+
+msgid "Fijian"
+msgstr "Fiji"
+
+msgid "Faroese"
+msgstr "Faroe"
+
+msgid "Fon"
+msgstr "Fon"
+
+msgid "French"
+msgstr "Prancis"
+
+msgid "Cajun French"
+msgstr "Prancis Cajun"
+
+msgid "Middle French"
+msgstr "Prancis Abad Pertengahan"
+
+msgid "Old French"
+msgstr "Prancis Kuno"
+
+msgid "Arpitan"
+msgstr "Arpitan"
+
+msgid "Northern Frisian"
+msgstr "Frisia Utara"
+
+msgid "Eastern Frisian"
+msgstr "Frisia Timur"
+
+msgid "Friulian"
+msgstr "Friuli"
+
+msgid "Western Frisian"
+msgstr "Frisia Barat"
+
+msgid "Irish"
+msgstr "Irlandia"
+
+msgid "Ga"
+msgstr "Ga"
+
+msgid "Gagauz"
+msgstr "Gagauz"
+
+msgid "Gayo"
+msgstr "Gayo"
+
+msgid "Gbaya"
+msgstr "Gbaya"
+
+msgid "Scottish Gaelic"
+msgstr "Gaelik Skotlandia"
+
+msgid "Geez"
+msgstr "Geez"
+
+msgid "Gilbertese"
+msgstr "Gilbert"
+
+msgid "Galician"
+msgstr "Galisia"
+
+msgid "Gilaki"
+msgstr "Gilaki"
+
+msgid "Middle High German"
+msgstr "Jerman Abad Pertengahan"
+
+msgid "Guarani"
+msgstr "Guarani"
+
+msgid "Old High German"
+msgstr "Jerman Kuno"
+
+msgid "Gondi"
+msgstr "Gondi"
+
+msgid "Gorontalo"
+msgstr "Gorontalo"
+
+msgid "Gothic"
+msgstr "Gotik"
+
+msgid "Grebo"
+msgstr "Grebo"
+
+msgid "Ancient Greek"
+msgstr "Yunani Kuno"
+
+msgid "Swiss German"
+msgstr "Jerman (Swiss)"
+
+msgid "Gujarati"
+msgstr "Gujarat"
+
+msgid "Gusii"
+msgstr "Gusii"
+
+msgid "Manx"
+msgstr "Manx"
+
+msgid "Gwichʼin"
+msgstr "Gwich’in"
+
+msgid "Hausa"
+msgstr "Hausa"
+
+msgid "Haida"
+msgstr "Haida"
+
+msgid "Hawaiian"
+msgstr "Hawaii"
+
+msgid "Southern Haida"
+msgstr "Haida Selatan"
+
+msgid "Hebrew"
+msgstr "Ibrani"
+
+msgid "Hindi"
+msgstr "Hindi"
+
+msgid "Hinglish"
+msgstr "Hinglish"
+
+msgid "Fiji Hindi"
+msgstr "Hindi Fiji"
+
+msgid "Hiligaynon"
+msgstr "Hiligaynon"
+
+msgid "Hittite"
+msgstr "Hitit"
+
+msgid "Hmong"
+msgstr "Hmong"
+
+msgid "Hiri Motu"
+msgstr "Hiri Motu"
+
+msgid "Croatian"
+msgstr "Kroasia"
+
+msgid "Upper Sorbian"
+msgstr "Sorbia Hulu"
+
+msgid "Haitian Creole"
+msgstr "Kreol Haiti"
+
+msgid "Hungarian"
+msgstr "Hungaria"
+
+msgid "Hupa"
+msgstr "Hupa"
+
+msgid "Halkomelem"
+msgstr "Halkomelem"
+
+msgid "Armenian"
+msgstr "Armenia"
+
+msgid "Herero"
+msgstr "Herero"
+
+msgid "Interlingua"
+msgstr "Interlingua"
+
+msgid "Iban"
+msgstr "Iban"
+
+msgid "Ibibio"
+msgstr "Ibibio"
+
+msgid "Indonesian"
+msgstr "Indonesia"
+
+msgid "Interlingue"
+msgstr "Interlingue"
+
+msgid "Igbo"
+msgstr "Igbo"
+
+msgid "Sichuan Yi"
+msgstr "Sichuan Yi"
+
+msgid "Inupiaq"
+msgstr "Inupiak"
+
+msgid "Western Canadian Inuktitut"
+msgstr "Inuktitut Kanada Barat"
+
+msgid "Iloko"
+msgstr "Iloko"
+
+msgid "Ingush"
+msgstr "Ingushetia"
+
+msgid "Ido"
+msgstr "Ido"
+
+msgid "Icelandic"
+msgstr "Islandia"
+
+msgid "Italian"
+msgstr "Italia"
+
+msgid "Inuktitut"
+msgstr "Inuktitut"
+
+msgid "Japanese"
+msgstr "Jepang"
+
+msgid "Lojban"
+msgstr "Lojban"
+
+msgid "Ngomba"
+msgstr "Ngomba"
+
+msgid "Machame"
+msgstr "Machame"
+
+msgid "Judeo-Persian"
+msgstr "Ibrani-Persia"
+
+msgid "Judeo-Arabic"
+msgstr "Ibrani-Arab"
+
+msgid "Javanese"
+msgstr "Jawa"
+
+msgid "Georgian"
+msgstr "Georgia"
+
+msgid "Kara-Kalpak"
+msgstr "Kara-Kalpak"
+
+msgid "Kabyle"
+msgstr "Kabyle"
+
+msgid "Kachin"
+msgstr "Kachin"
+
+msgid "Jju"
+msgstr "Jju"
+
+msgid "Kamba"
+msgstr "Kamba"
+
+msgid "Kawi"
+msgstr "Kawi"
+
+msgid "Kabardian"
+msgstr "Kabardi"
+
+msgid "Kanembu"
+msgstr "Kanembu"
+
+msgid "Tyap"
+msgstr "Tyap"
+
+msgid "Makonde"
+msgstr "Makonde"
+
+msgid "Kabuverdianu"
+msgstr "Kabuverdianu"
+
+msgid "Kenyang"
+msgstr "Kenyang"
+
+msgid "Koro"
+msgstr "Koro"
+
+msgid "Kongo"
+msgstr "Kongo"
+
+msgid "Kaingang"
+msgstr "Kaingang"
+
+msgid "Khasi"
+msgstr "Khasi"
+
+msgid "Khotanese"
+msgstr "Khotan"
+
+msgid "Koyra Chiini"
+msgstr "Koyra Chiini"
+
+msgid "Kikuyu"
+msgstr "Kikuyu"
+
+msgid "Kuanyama"
+msgstr "Kuanyama"
+
+msgid "Kazakh"
+msgstr "Kazakh"
+
+msgid "Kako"
+msgstr "Kako"
+
+msgid "Kalaallisut"
+msgstr "Kalaallisut"
+
+msgid "Kalenjin"
+msgstr "Kalenjin"
+
+msgid "Khmer"
+msgstr "Khmer"
+
+msgid "Kimbundu"
+msgstr "Kimbundu"
+
+msgid "Kannada"
+msgstr "Kannada"
+
+msgid "Korean"
+msgstr "Korea"
+
+msgid "Komi-Permyak"
+msgstr "Komi-Permyak"
+
+msgid "Konkani"
+msgstr "Konkani"
+
+msgid "Kosraean"
+msgstr "Kosre"
+
+msgid "Kpelle"
+msgstr "Kpelle"
+
+msgid "Kanuri"
+msgstr "Kanuri"
+
+msgid "Karachay-Balkar"
+msgstr "Karachai Balkar"
+
+msgid "Krio"
+msgstr "Krio"
+
+msgid "Karelian"
+msgstr "Karelia"
+
+msgid "Kurukh"
+msgstr "Kuruk"
+
+msgid "Kashmiri"
+msgstr "Kashmir"
+
+msgid "Shambala"
+msgstr "Shambala"
+
+msgid "Bafia"
+msgstr "Bafia"
+
+msgid "Colognian"
+msgstr "Dialek Kolsch"
+
+msgid "Kurdish"
+msgstr "Kurdi"
+
+msgid "Kumyk"
+msgstr "Kumyk"
+
+msgid "Kutenai"
+msgstr "Kutenai"
+
+msgid "Komi"
+msgstr "Komi"
+
+msgid "Cornish"
+msgstr "Kornish"
+
+msgid "Kwakʼwala"
+msgstr "Kwakʼwala"
+
+msgid "Kyrgyz"
+msgstr "Kirgiz"
+
+msgid "Latin"
+msgstr "Latin"
+
+msgid "Ladino"
+msgstr "Ladino"
+
+msgid "Langi"
+msgstr "Langi"
+
+msgid "Western Panjabi"
+msgstr "Lahnda"
+
+msgid "Lamba"
+msgstr "Lamba"
+
+msgid "Luxembourgish"
+msgstr "Luksemburg"
+
+msgid "Lezghian"
+msgstr "Lezghia"
+
+msgid "Ganda"
+msgstr "Ganda"
+
+msgid "Limburgish"
+msgstr "Limburgia"
+
+msgid "Ligurian"
+msgstr "Liguria"
+
+msgid "Lillooet"
+msgstr "Lillooet"
+
+msgid "Lakota"
+msgstr "Lakota"
+
+msgid "Lombard"
+msgstr "Lombard"
+
+msgid "Lingala"
+msgstr "Lingala"
+
+msgid "Lao"
+msgstr "Lao"
+
+msgid "Mongo"
+msgstr "Mongo"
+
+msgid "Louisiana Creole"
+msgstr "Kreol Louisiana"
+
+msgid "Lozi"
+msgstr "Lozi"
+
+msgid "Northern Luri"
+msgstr "Luri Utara"
+
+msgid "Saamia"
+msgstr "Saamia"
+
+msgid "Lithuanian"
+msgstr "Lituavi"
+
+msgid "Luba-Katanga"
+msgstr "Luba-Katanga"
+
+msgid "Luba-Lulua"
+msgstr "Luba-Lulua"
+
+msgid "Luiseno"
+msgstr "Luiseno"
+
+msgid "Lunda"
+msgstr "Lunda"
+
+msgid "Luo"
+msgstr "Luo"
+
+msgid "Mizo"
+msgstr "Mizo"
+
+msgid "Luyia"
+msgstr "Luyia"
+
+msgid "Latvian"
+msgstr "Latvi"
+
+msgid "Laz"
+msgstr "Laz"
+
+msgid "Madurese"
+msgstr "Madura"
+
+msgid "Mafa"
+msgstr "Mafa"
+
+msgid "Magahi"
+msgstr "Magahi"
+
+msgid "Maithili"
+msgstr "Maithili"
+
+msgid "Makasar"
+msgstr "Makasar"
+
+msgid "Mandingo"
+msgstr "Mandingo"
+
+msgid "Masai"
+msgstr "Masai"
+
+msgid "Maba"
+msgstr "Maba"
+
+msgid "Moksha"
+msgstr "Moksha"
+
+msgid "Mandar"
+msgstr "Mandar"
+
+msgid "Mende"
+msgstr "Mende"
+
+msgid "Meru"
+msgstr "Meru"
+
+msgid "Morisyen"
+msgstr "Morisien"
+
+msgid "Malagasy"
+msgstr "Malagasi"
+
+msgid "Middle Irish"
+msgstr "Irlandia Abad Pertengahan"
+
+msgid "Makhuwa-Meetto"
+msgstr "Makhuwa-Meetto"
+
+msgid "Metaʼ"
+msgstr "Meta’"
+
+msgid "Marshallese"
+msgstr "Marshall"
+
+msgid "Māori"
+msgstr "Maori"
+
+msgid "Mi'kmaq"
+msgstr "Mikmak"
+
+msgid "Minangkabau"
+msgstr "Minangkabau"
+
+msgid "Macedonian"
+msgstr "Makedonia"
+
+msgid "Malayalam"
+msgstr "Malayalam"
+
+msgid "Mongolian"
+msgstr "Mongolia"
+
+msgid "Manchu"
+msgstr "Manchuria"
+
+msgid "Manipuri"
+msgstr "Manipuri"
+
+msgid "Innu-aimun"
+msgstr "Innu-aimun"
+
+msgid "Mohawk"
+msgstr "Mohawk"
+
+msgid "Mossi"
+msgstr "Mossi"
+
+msgid "Marathi"
+msgstr "Marathi"
+
+msgid "Malay"
+msgstr "Melayu"
+
+msgid "Maltese"
+msgstr "Malta"
+
+msgid "Mundang"
+msgstr "Mundang"
+
+msgid "Multiple languages"
+msgstr "Beberapa Bahasa"
+
+msgid "Muscogee"
+msgstr "Bahasa Muskogee"
+
+msgid "Mirandese"
+msgstr "Miranda"
+
+msgid "Marwari"
+msgstr "Marwari"
+
+msgid "Mentawai"
+msgstr "Mentawai"
+
+msgid "Burmese"
+msgstr "Burma"
+
+msgid "Myene"
+msgstr "Myene"
+
+msgid "Erzya"
+msgstr "Eryza"
+
+msgid "Mazanderani"
+msgstr "Mazanderani"
+
+msgid "Nauru"
+msgstr "Nauru"
+
+msgid "Neapolitan"
+msgstr "Neapolitan"
+
+msgid "Nama"
+msgstr "Nama"
+
+msgid "Norwegian Bokmål"
+msgstr "Bokmål Norwegia"
+
+msgid "North Ndebele"
+msgstr "Ndebele Utara"
+
+msgid "Low German"
+msgstr "Jerman Rendah"
+
+msgid "Nepali"
+msgstr "Nepali"
+
+msgid "Newari"
+msgstr "Newari"
+
+msgid "Ndonga"
+msgstr "Ndonga"
+
+msgid "Nias"
+msgstr "Nias"
+
+msgid "Niuean"
+msgstr "Niuea"
+
+msgid "Dutch"
+msgstr "Belanda"
+
+msgid "Kwasio"
+msgstr "Kwasio"
+
+msgid "Norwegian Nynorsk"
+msgstr "Nynorsk Norwegia"
+
+msgid "Ngiemboon"
+msgstr "Ngiemboon"
+
+msgid "Norwegian"
+msgstr "Norwegia"
+
+msgid "Nogai"
+msgstr "Nogai"
+
+msgid "Old Norse"
+msgstr "Norse Kuno"
+
+msgid "N’Ko"
+msgstr "N’Ko"
+
+msgid "South Ndebele"
+msgstr "Ndebele Selatan"
+
+msgid "Northern Sotho"
+msgstr "Sotho Utara"
+
+msgid "Nuer"
+msgstr "Nuer"
+
+msgid "Navajo"
+msgstr "Navajo"
+
+msgid "Classical Newari"
+msgstr "Newari Klasik"
+
+msgid "Nyanja"
+msgstr "Nyanja"
+
+msgid "Nyamwezi"
+msgstr "Nyamwezi"
+
+msgid "Nyankole"
+msgstr "Nyankole"
+
+msgid "Nyoro"
+msgstr "Nyoro"
+
+msgid "Nzima"
+msgstr "Nzima"
+
+msgid "Occitan"
+msgstr "Ositania"
+
+msgid "Ojibwa"
+msgstr "Ojibwa"
+
+msgid "Northwestern Ojibwa"
+msgstr "Ojibwe Barat Laut"
+
+msgid "Central Ojibwa"
+msgstr "Ojibwe Tengah"
+
+msgid "Oji-Cree"
+msgstr "Oji-Cree"
+
+msgid "Western Ojibwa"
+msgstr "Ojibwe Barat"
+
+msgid "Okanagan"
+msgstr "Okanagan"
+
+msgid "Oromo"
+msgstr "Oromo"
+
+msgid "Odia"
+msgstr "Oriya"
+
+msgid "Ossetic"
+msgstr "Ossetia"
+
+msgid "Osage"
+msgstr "Osage"
+
+msgid "Ottoman Turkish"
+msgstr "Turki Osmani"
+
+msgid "Punjabi"
+msgstr "Punjabi"
+
+msgid "Pangasinan"
+msgstr "Pangasina"
+
+msgid "Pahlavi"
+msgstr "Pahlevi"
+
+msgid "Pampanga"
+msgstr "Pampanga"
+
+msgid "Papiamento"
+msgstr "Papiamento"
+
+msgid "Palauan"
+msgstr "Palau"
+
+msgid "Nigerian Pidgin"
+msgstr "Pidgin Nigeria"
+
+msgid "Pennsylvania German"
+msgstr "Jerman Pennsylvania"
+
+msgid "Old Persian"
+msgstr "Persia Kuno"
+
+msgid "Phoenician"
+msgstr "Funisia"
+
+msgid "Pali"
+msgstr "Pali"
+
+msgid "Pijin"
+msgstr "Pijin"
+
+msgid "Polish"
+msgstr "Polski"
+
+msgid "Pohnpeian"
+msgstr "Pohnpeia"
+
+msgid "Maliseet-Passamaquoddy"
+msgstr "Maliseet-Passamaquoddy"
+
+msgid "Prussian"
+msgstr "Prusia"
+
+msgid "Old Provençal"
+msgstr "Provencal Lama"
+
+msgid "Pashto"
+msgstr "Pashto"
+
+msgid "Pushto"
+msgstr "Pushto"
+
+msgid "Portuguese"
+msgstr "Portugis"
+
+msgid "European Portuguese"
+msgstr "Portugis (Eropa)"
+
+msgid "Quechua"
+msgstr "Quechua"
+
+msgid "Kʼicheʼ"
+msgstr "Kʼicheʼ"
+
+msgid "Rajasthani"
+msgstr "Rajasthani"
+
+msgid "Rapanui"
+msgstr "Rapanui"
+
+msgid "Rarotongan"
+msgstr "Rarotonga"
+
+msgid "Rohingya"
+msgstr "Rohingya"
+
+msgid "Romansh"
+msgstr "Reto-Roman"
+
+msgid "Rundi"
+msgstr "Rundi"
+
+msgid "Romanian"
+msgstr "Rumania"
+
+msgid "Moldavian"
+msgstr "Moldavia"
+
+msgid "Rombo"
+msgstr "Rombo"
+
+msgid "Romany"
+msgstr "Romani"
+
+msgid "Rotuman"
+msgstr "Rotuma"
+
+msgid "Russian"
+msgstr "Rusia"
+
+msgid "Aromanian"
+msgstr "Aromania"
+
+msgid "Kinyarwanda"
+msgstr "Kinyarwanda"
+
+msgid "Rwa"
+msgstr "Rwa"
+
+msgid "Sanskrit"
+msgstr "Sanskerta"
+
+msgid "Sandawe"
+msgstr "Sandawe"
+
+msgid "Yakut"
+msgstr "Sakha"
+
+msgid "Samaritan Aramaic"
+msgstr "Aram Samaria"
+
+msgid "Samburu"
+msgstr "Samburu"
+
+msgid "Sasak"
+msgstr "Sasak"
+
+msgid "Santali"
+msgstr "Santali"
+
+msgid "Ngambay"
+msgstr "Ngambai"
+
+msgid "Sangu"
+msgstr "Sangu"
+
+msgid "Sardinian"
+msgstr "Sardinia"
+
+msgid "Sicilian"
+msgstr "Sisilia"
+
+msgid "Scots"
+msgstr "Skotlandia"
+
+msgid "Sindhi"
+msgstr "Sindhi"
+
+msgid "Southern Kurdish"
+msgstr "Kurdi Selatan"
+
+msgid "Northern Sami"
+msgstr "Sami Utara"
+
+msgid "Seneca"
+msgstr "Seneca"
+
+msgid "Sena"
+msgstr "Sena"
+
+msgid "Seri"
+msgstr "Seri"
+
+msgid "Selkup"
+msgstr "Selkup"
+
+msgid "Koyraboro Senni"
+msgstr "Koyraboro Senni"
+
+msgid "Sango"
+msgstr "Sango"
+
+msgid "Old Irish"
+msgstr "Irlandia Kuno"
+
+msgid "Serbo-Croatian"
+msgstr "Serbo-Kroasia"
+
+msgid "Tachelhit"
+msgstr "Tachelhit"
+
+msgid "Shan"
+msgstr "Shan"
+
+msgid "Chadian Arabic"
+msgstr "Arab Suwa"
+
+msgid "Sinhala"
+msgstr "Sinhala"
+
+msgid "Sidamo"
+msgstr "Sidamo"
+
+msgid "Slovak"
+msgstr "Slovak"
+
+msgid "Slovenian"
+msgstr "Sloven"
+
+msgid "Southern Lushootseed"
+msgstr "Lushootseed Selatan"
+
+msgid "Lower Silesian"
+msgstr "Silesia Rendah"
+
+msgid "Selayar"
+msgstr "Selayar"
+
+msgid "Samoan"
+msgstr "Samoa"
+
+msgid "Southern Sami"
+msgstr "Sami Selatan"
+
+msgid "Lule Sami"
+msgstr "Lule Sami"
+
+msgid "Inari Sami"
+msgstr "Inari Sami"
+
+msgid "Skolt Sami"
+msgstr "Skolt Sami"
+
+msgid "Shona"
+msgstr "Shona"
+
+msgid "Soninke"
+msgstr "Soninke"
+
+msgid "Somali"
+msgstr "Somalia"
+
+msgid "Sogdien"
+msgstr "Sogdien"
+
+msgid "Albanian"
+msgstr "Albania"
+
+msgid "Serbian"
+msgstr "Serbia"
+
+msgid "Sranan Tongo"
+msgstr "Sranan Tongo"
+
+msgid "Serer"
+msgstr "Serer"
+
+msgid "Swati"
+msgstr "Swati"
+
+msgid "Saho"
+msgstr "Saho"
+
+msgid "Southern Sotho"
+msgstr "Sotho Selatan"
+
+msgid "Straits Salish"
+msgstr "Salish Selat"
+
+msgid "Sundanese"
+msgstr "Sunda"
+
+msgid "Sukuma"
+msgstr "Sukuma"
+
+msgid "Susu"
+msgstr "Susu"
+
+msgid "Sumerian"
+msgstr "Sumeria"
+
+msgid "Swedish"
+msgstr "Swedia"
+
+msgid "Swahili"
+msgstr "Swahili"
+
+msgid "Congo Swahili"
+msgstr "Swahili (Kongo)"
+
+msgid "Comorian"
+msgstr "Komoria"
+
+msgid "Classical Syriac"
+msgstr "Suriah Klasik"
+
+msgid "Syriac"
+msgstr "Suriah"
+
+msgid "Silesian"
+msgstr "Silesia"
+
+msgid "Tamil"
+msgstr "Tamil"
+
+msgid "Southern Tutchone"
+msgstr "Tutchone Selatan"
+
+msgid "Tulu"
+msgstr "Tulu"
+
+msgid "Telugu"
+msgstr "Telugu"
+
+msgid "Timne"
+msgstr "Timne"
+
+msgid "Teso"
+msgstr "Teso"
+
+msgid "Tereno"
+msgstr "Tereno"
+
+msgid "Tetum"
+msgstr "Tetun"
+
+msgid "Tajik"
+msgstr "Tajik"
+
+msgid "Tagish"
+msgstr "Tagish"
+
+msgid "Thai"
+msgstr "Thai"
+
+msgid "Tahltan"
+msgstr "Tahltan"
+
+msgid "Tigrinya"
+msgstr "Tigrinya"
+
+msgid "Tigre"
+msgstr "Tigre"
+
+msgid "Tiv"
+msgstr "Tiv"
+
+msgid "Turkmen"
+msgstr "Turkmen"
+
+msgid "Tokelau"
+msgstr "Tokelau"
+
+msgid "Tagalog"
+msgstr "Tagalog"
+
+msgid "Klingon"
+msgstr "Klingon"
+
+msgid "Tlingit"
+msgstr "Tlingit"
+
+msgid "Tamashek"
+msgstr "Tamashek"
+
+msgid "Tswana"
+msgstr "Tswana"
+
+msgid "Tongan"
+msgstr "Tonga"
+
+msgid "Nyasa Tonga"
+msgstr "Nyasa Tonga"
+
+msgid "Toki Pona"
+msgstr "Toki Pona"
+
+msgid "Tok Pisin"
+msgstr "Tok Pisin"
+
+msgid "Turkish"
+msgstr "Turki"
+
+msgid "Turoyo"
+msgstr "Turoyo"
+
+msgid "Taroko"
+msgstr "Taroko"
+
+msgid "Tsonga"
+msgstr "Tsonga"
+
+msgid "Tsimshian"
+msgstr "Tsimshia"
+
+msgid "Tatar"
+msgstr "Tatar"
+
+msgid "Northern Tutchone"
+msgstr "Tutchone Utara"
+
+msgid "Muslim Tat"
+msgstr "Tat Muslim"
+
+msgid "Tumbuka"
+msgstr "Tumbuka"
+
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+msgid "Twi"
+msgstr "Twi"
+
+msgid "Tasawaq"
+msgstr "Tasawaq"
+
+msgid "Tahitian"
+msgstr "Tahiti"
+
+msgid "Tuvinian"
+msgstr "Tuvinia"
+
+msgid "Central Atlas Tamazight"
+msgstr "Tamazight Maroko Tengah"
+
+msgid "Udmurt"
+msgstr "Udmurt"
+
+msgid "Uyghur"
+msgstr "Uyghur"
+
+msgid "Uighur"
+msgstr "Uighur"
+
+msgid "Ugaritic"
+msgstr "Ugarit"
+
+msgid "Ukrainian"
+msgstr "Ukraina"
+
+msgid "Umbundu"
+msgstr "Umbundu"
+
+msgid "Unknown language"
+msgstr "Bahasa Tidak Dikenal"
+
+msgid "Urdu"
+msgstr "Urdu"
+
+msgid "Uzbek"
+msgstr "Uzbek"
+
+msgid "Vai"
+msgstr "Vai"
+
+msgid "Venda"
+msgstr "Venda"
+
+msgid "Venetian"
+msgstr "Venesia"
+
+msgid "Vietnamese"
+msgstr "Vietnam"
+
+msgid "Volapük"
+msgstr "Volapuk"
+
+msgid "Votic"
+msgstr "Votia"
+
+msgid "Vunjo"
+msgstr "Vunjo"
+
+msgid "Walloon"
+msgstr "Walloon"
+
+msgid "Walser"
+msgstr "Walser"
+
+msgid "Wolaytta"
+msgstr "Walamo"
+
+msgid "Waray"
+msgstr "Warai"
+
+msgid "Washo"
+msgstr "Washo"
+
+msgid "Warlpiri"
+msgstr "Warlpiri"
+
+msgid "Wolof"
+msgstr "Wolof"
+
+msgid "Wu Chinese"
+msgstr "Wu Tionghoa"
+
+msgid "Kalmyk"
+msgstr "Kalmuk"
+
+msgid "Xhosa"
+msgstr "Xhosa"
+
+msgid "Soga"
+msgstr "Soga"
+
+msgid "Yao"
+msgstr "Yao"
+
+msgid "Yapese"
+msgstr "Yapois"
+
+msgid "Yangben"
+msgstr "Yangben"
+
+msgid "Yemba"
+msgstr "Yemba"
+
+msgid "Yiddish"
+msgstr "Yiddish"
+
+msgid "Yoruba"
+msgstr "Yoruba"
+
+msgid "Nheengatu"
+msgstr "Nheengatu"
+
+msgid "Cantonese"
+msgstr "Kanton"
+
+msgid "Chinese, Cantonese"
+msgstr "Tionghoa, Kanton"
+
+msgid "Zhuang"
+msgstr "Zhuang"
+
+msgid "Zapotec"
+msgstr "Zapotek"
+
+msgid "Blissymbols"
+msgstr "Blissymbol"
+
+msgid "Zenaga"
+msgstr "Zenaga"
+
+msgid "Standard Moroccan Tamazight"
+msgstr "Tamazight Maroko Standar"
+
+msgid "Chinese"
+msgstr "Tionghoa"
+
+msgid "Chinese, Mandarin"
+msgstr "Tionghoa, Mandarin"
+
+msgid "Simplified Mandarin Chinese"
+msgstr "Tionghoa Mandarin (Sederhana)"
+
+msgid "Traditional Mandarin Chinese"
+msgstr "Tionghoa Mandarin (Tradisional)"
+
+msgid "Zulu"
+msgstr "Zulu"
+
+msgid "Zuni"
+msgstr "Zuni"
+
+msgid "No linguistic content"
+msgstr "Tidak ada konten linguistik"
+
+msgid "Zaza"
+msgstr "Zaza"

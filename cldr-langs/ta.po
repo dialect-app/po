@@ -1,0 +1,1723 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dialect-cldr-langs\n"
+"Language: ta\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Afar"
+msgstr "அஃபார்"
+
+msgid "Abkhazian"
+msgstr "அப்காஜியான்"
+
+msgid "Achinese"
+msgstr "ஆச்சினீஸ்"
+
+msgid "Acoli"
+msgstr "அகோலி"
+
+msgid "Adangme"
+msgstr "அதாங்மே"
+
+msgid "Adyghe"
+msgstr "அதகே"
+
+msgid "Avestan"
+msgstr "அவெஸ்தான்"
+
+msgid "Tunisian Arabic"
+msgstr "துனிசிய அரபு"
+
+msgid "Afrikaans"
+msgstr "ஆஃப்ரிகான்ஸ்"
+
+msgid "Afrihili"
+msgstr "அஃப்ரிஹிலி"
+
+msgid "Aghem"
+msgstr "அகெம்"
+
+msgid "Ainu"
+msgstr "ஐனு"
+
+msgid "Akan"
+msgstr "அகான்"
+
+msgid "Akkadian"
+msgstr "அக்கேதியன்"
+
+msgid "Aleut"
+msgstr "அலூட்"
+
+msgid "Southern Altai"
+msgstr "தெற்கு அல்தை"
+
+msgid "Amharic"
+msgstr "அம்ஹாரிக்"
+
+msgid "Aragonese"
+msgstr "ஆர்கோனீஸ்"
+
+msgid "Old English"
+msgstr "பழைய ஆங்கிலம்"
+
+msgid "Obolo"
+msgstr "ஒபோலோ"
+
+msgid "Angika"
+msgstr "அங்கிகா"
+
+msgid "Arabic"
+msgstr "அரபிக்"
+
+msgid "Modern Standard Arabic"
+msgstr "நவீன நிலையான அரபிக்"
+
+msgid "Aramaic"
+msgstr "அராமைக்"
+
+msgid "Mapuche"
+msgstr "மபுச்சே"
+
+msgid "Arapaho"
+msgstr "அரபஹோ"
+
+msgid "Najdi Arabic"
+msgstr "நஜ்தி அரபிக்"
+
+msgid "Arawak"
+msgstr "அராவாக்"
+
+msgid "Assamese"
+msgstr "அஸ்ஸாமீஸ்"
+
+msgid "Asu"
+msgstr "அசு"
+
+msgid "Asturian"
+msgstr "அஸ்துரியன்"
+
+msgid "Atikamekw"
+msgstr "அடிகாமேக்வ்"
+
+msgid "Avaric"
+msgstr "அவேரிக்"
+
+msgid "Awadhi"
+msgstr "அவதி"
+
+msgid "Aymara"
+msgstr "அய்மரா"
+
+msgid "Azerbaijani"
+msgstr "அசர்பைஜானி"
+
+msgid "Azeri"
+msgstr "அஸேரி"
+
+msgid "Bashkir"
+msgstr "பஷ்கிர்"
+
+msgid "Baluchi"
+msgstr "பலூச்சி"
+
+msgid "Balinese"
+msgstr "பலினீஸ்"
+
+msgid "Basaa"
+msgstr "பாஸா"
+
+msgid "Belarusian"
+msgstr "பெலாருஷியன்"
+
+msgid "Beja"
+msgstr "பேஜா"
+
+msgid "Bemba"
+msgstr "பெம்பா"
+
+msgid "Bena"
+msgstr "பெனா"
+
+msgid "Badaga"
+msgstr "படகா"
+
+msgid "Bulgarian"
+msgstr "பல்கேரியன்"
+
+msgid "Western Balochi"
+msgstr "மேற்கு பலோச்சி"
+
+msgid "Bhojpuri"
+msgstr "போஜ்பூரி"
+
+msgid "Bislama"
+msgstr "பிஸ்லாமா"
+
+msgid "Bikol"
+msgstr "பிகோல்"
+
+msgid "Bini"
+msgstr "பினி"
+
+msgid "Siksiká"
+msgstr "சிக்சிகா"
+
+msgid "Bambara"
+msgstr "பம்பாரா"
+
+msgid "Bangla"
+msgstr "வங்காளம்"
+
+msgid "Tibetan"
+msgstr "திபெத்தியன்"
+
+msgid "Bishnupriya"
+msgstr "பிஷ்ணுப்பிரியா"
+
+msgid "Breton"
+msgstr "பிரெட்டன்"
+
+msgid "Braj"
+msgstr "ப்ராஜ்"
+
+msgid "Bodo"
+msgstr "போடோ"
+
+msgid "Bosnian"
+msgstr "போஸ்னியன்"
+
+msgid "Buriat"
+msgstr "புரியாத்"
+
+msgid "Buginese"
+msgstr "புகினீஸ்"
+
+msgid "Blin"
+msgstr "ப்லின்"
+
+msgid "Catalan"
+msgstr "கேட்டலான்"
+
+msgid "Caddo"
+msgstr "கேடோ"
+
+msgid "Carib"
+msgstr "கரீப்"
+
+msgid "Cayuga"
+msgstr "கேயுகா"
+
+msgid "Atsam"
+msgstr "ஆட்சம்"
+
+msgid "Chakma"
+msgstr "சக்மா"
+
+msgid "Chechen"
+msgstr "செச்சென்"
+
+msgid "Cebuano"
+msgstr "செபுவானோ"
+
+msgid "Chiga"
+msgstr "சிகா"
+
+msgid "Chamorro"
+msgstr "சாமோரோ"
+
+msgid "Chibcha"
+msgstr "சிப்சா"
+
+msgid "Chagatai"
+msgstr "ஷகதை"
+
+msgid "Chuukese"
+msgstr "சூகிசே"
+
+msgid "Mari"
+msgstr "மாரி"
+
+msgid "Chinook Jargon"
+msgstr "சினூக் ஜார்கான்"
+
+msgid "Choctaw"
+msgstr "சோக்தௌ"
+
+msgid "Chipewyan"
+msgstr "சிபெவ்யான்"
+
+msgid "Cherokee"
+msgstr "செரோகீ"
+
+msgid "Cheyenne"
+msgstr "செயேனி"
+
+msgid "Central Kurdish"
+msgstr "மத்திய குர்திஷ்"
+
+msgid "Kurdish, Central"
+msgstr "மத்திய குர்திஷ்"
+
+msgid "Kurdish, Sorani"
+msgstr "மத்திய குர்திஷ்"
+
+msgid "Chilcotin"
+msgstr "சில்கோடின்"
+
+msgid "Corsican"
+msgstr "கார்சிகன்"
+
+msgid "Coptic"
+msgstr "காப்டிக்"
+
+msgid "Cree"
+msgstr "க்ரீ"
+
+msgid "Michif"
+msgstr "மிச்சிஃப்"
+
+msgid "Crimean Tatar"
+msgstr "கிரிமியன் துர்க்கி"
+
+msgid "Southern East Cree"
+msgstr "தென்கிழக்கு க்ரீ"
+
+msgid "Plains Cree"
+msgstr "சமவெளி க்ரீ"
+
+msgid "Northern East Cree"
+msgstr "வடகிழக்கு க்ரீ"
+
+msgid "Moose Cree"
+msgstr "மூஸ் க்ரீ"
+
+msgid "Carolina Algonquian"
+msgstr "கரோலினா அல்கோன்குயன்"
+
+msgid "Seselwa Creole French"
+msgstr "செசெல்வா க்ரெயோல் பிரெஞ்சு"
+
+msgid "Czech"
+msgstr "செக்"
+
+msgid "Kashubian"
+msgstr "கஷுபியன்"
+
+msgid "Swampy Cree"
+msgstr "சதுப்பு நில க்ரீ"
+
+msgid "Church Slavic"
+msgstr "சர்ச் ஸ்லாவிக்"
+
+msgid "Chuvash"
+msgstr "சுவாஷ்"
+
+msgid "Welsh"
+msgstr "வேல்ஷ்"
+
+msgid "Danish"
+msgstr "டேனிஷ்"
+
+msgid "Dakota"
+msgstr "டகோடா"
+
+msgid "Dargwa"
+msgstr "தார்குவா"
+
+msgid "Taita"
+msgstr "டைடா"
+
+msgid "German"
+msgstr "ஜெர்மன்"
+
+msgid "Austrian German"
+msgstr "ஆஸ்திரிய ஜெர்மன்"
+
+msgid "Swiss High German"
+msgstr "ஸ்விஸ் ஹை ஜெர்மன்"
+
+msgid "Delaware"
+msgstr "டெலாவர்"
+
+msgid "Slave"
+msgstr "ஸ்லாவ்"
+
+msgid "Dogrib"
+msgstr "டோக்ரிப்"
+
+msgid "Dinka"
+msgstr "டின்கா"
+
+msgid "Zarma"
+msgstr "ஸார்மா"
+
+msgid "Dogri"
+msgstr "டோக்ரி"
+
+msgid "Lower Sorbian"
+msgstr "லோயர் சோர்பியன்"
+
+msgid "Duala"
+msgstr "டுவாலா"
+
+msgid "Middle Dutch"
+msgstr "மிடில் டச்சு"
+
+msgid "Divehi"
+msgstr "திவேஹி"
+
+msgid "Jola-Fonyi"
+msgstr "ஜோலா-ஃபோன்யி"
+
+msgid "Dyula"
+msgstr "ட்யூலா"
+
+msgid "Dzongkha"
+msgstr "பூடானி"
+
+msgid "Dazaga"
+msgstr "டசாகா"
+
+msgid "Embu"
+msgstr "எம்பு"
+
+msgid "Ewe"
+msgstr "ஈவ்"
+
+msgid "Efik"
+msgstr "எஃபிக்"
+
+msgid "Ancient Egyptian"
+msgstr "பண்டைய எகிப்தியன்"
+
+msgid "Ekajuk"
+msgstr "ஈகாஜுக்"
+
+msgid "Greek"
+msgstr "கிரேக்கம்"
+
+msgid "Elamite"
+msgstr "எலமைட்"
+
+msgid "English"
+msgstr "ஆங்கிலம்"
+
+msgid "Australian English"
+msgstr "ஆஸ்திரேலிய ஆங்கிலம்"
+
+msgid "Canadian English"
+msgstr "கனடிய ஆங்கிலம்"
+
+msgid "British English"
+msgstr "பிரிட்டிஷ் ஆங்கிலம்"
+
+msgid "UK English"
+msgstr "ஆங்கிலம் (யூகே)"
+
+msgid "American English"
+msgstr "அமெரிக்க ஆங்கிலம்"
+
+msgid "US English"
+msgstr "ஆங்கிலம் (யூஎஸ்)"
+
+msgid "Middle English"
+msgstr "மிடில் ஆங்கிலம்"
+
+msgid "Esperanto"
+msgstr "எஸ்பரேன்டோ"
+
+msgid "Spanish"
+msgstr "ஸ்பானிஷ்"
+
+msgid "Latin American Spanish"
+msgstr "லத்தின் அமெரிக்க ஸ்பானிஷ்"
+
+msgid "European Spanish"
+msgstr "ஐரோப்பிய ஸ்பானிஷ்"
+
+msgid "Mexican Spanish"
+msgstr "மெக்ஸிகன் ஸ்பானிஷ்"
+
+msgid "Estonian"
+msgstr "எஸ்டோனியன்"
+
+msgid "Basque"
+msgstr "பாஸ்க்"
+
+msgid "Ewondo"
+msgstr "எவோன்டோ"
+
+msgid "Persian"
+msgstr "பெர்ஷியன்"
+
+msgid "Dari"
+msgstr "தாரி"
+
+msgid "Fang"
+msgstr "ஃபேங்க்"
+
+msgid "Fanti"
+msgstr "ஃபான்டி"
+
+msgid "Fula"
+msgstr "ஃபுலா"
+
+msgid "Finnish"
+msgstr "ஃபின்னிஷ்"
+
+msgid "Filipino"
+msgstr "ஃபிலிபினோ"
+
+msgid "Fijian"
+msgstr "ஃபிஜியன்"
+
+msgid "Faroese"
+msgstr "ஃபரோயிஸ்"
+
+msgid "Fon"
+msgstr "ஃபான்"
+
+msgid "French"
+msgstr "பிரெஞ்சு"
+
+msgid "Canadian French"
+msgstr "கனடிய பிரெஞ்சு"
+
+msgid "Swiss French"
+msgstr "ஸ்விஸ் பிரஞ்சு"
+
+msgid "Cajun French"
+msgstr "கஜுன் பிரெஞ்சு"
+
+msgid "Middle French"
+msgstr "மிடில் பிரெஞ்சு"
+
+msgid "Old French"
+msgstr "பழைய பிரெஞ்சு"
+
+msgid "Northern Frisian"
+msgstr "வடக்கு ஃப்ரிஸியான்"
+
+msgid "Eastern Frisian"
+msgstr "கிழக்கு ஃப்ரிஸியான்"
+
+msgid "Friulian"
+msgstr "ஃப்ரியூலியன்"
+
+msgid "Western Frisian"
+msgstr "மேற்கு ஃப்ரிஷியன்"
+
+msgid "Irish"
+msgstr "ஐரிஷ்"
+
+msgid "Ga"
+msgstr "கா"
+
+msgid "Gagauz"
+msgstr "காகௌஸ்"
+
+msgid "Gan Chinese"
+msgstr "கன் சீனம்"
+
+msgid "Gayo"
+msgstr "கயோ"
+
+msgid "Gbaya"
+msgstr "பயா"
+
+msgid "Scottish Gaelic"
+msgstr "ஸ்காட்ஸ் கேலிக்"
+
+msgid "Geez"
+msgstr "கீஜ்"
+
+msgid "Gilbertese"
+msgstr "கில்பெர்டீஸ்"
+
+msgid "Galician"
+msgstr "காலிஸியன்"
+
+msgid "Middle High German"
+msgstr "மிடில் ஹை ஜெர்மன்"
+
+msgid "Guarani"
+msgstr "க்வாரனி"
+
+msgid "Old High German"
+msgstr "பழைய ஹை ஜெர்மன்"
+
+msgid "Gondi"
+msgstr "கோன்டி"
+
+msgid "Gorontalo"
+msgstr "கோரோன்டலோ"
+
+msgid "Gothic"
+msgstr "கோதிக்"
+
+msgid "Grebo"
+msgstr "க்ரேபோ"
+
+msgid "Ancient Greek"
+msgstr "பண்டைய கிரேக்கம்"
+
+msgid "Swiss German"
+msgstr "ஸ்விஸ் ஜெர்மன்"
+
+msgid "Gujarati"
+msgstr "குஜராத்தி"
+
+msgid "Gusii"
+msgstr "குஸி"
+
+msgid "Manx"
+msgstr "மேங்க்ஸ்"
+
+msgid "Gwichʼin"
+msgstr "குவிசின்"
+
+msgid "Hausa"
+msgstr "ஹௌஸா"
+
+msgid "Haida"
+msgstr "ஹைடா"
+
+msgid "Hakka Chinese"
+msgstr "ஹக்கா சீனம்"
+
+msgid "Hawaiian"
+msgstr "ஹவாயியன்"
+
+msgid "Southern Haida"
+msgstr "தெற்கு ஹைடா"
+
+msgid "Hebrew"
+msgstr "ஹீப்ரூ"
+
+msgid "Hindi"
+msgstr "இந்தி"
+
+msgid "Hinglish"
+msgstr "ஹிங்கிலிஷ்"
+
+msgid "Fiji Hindi"
+msgstr "ஃபிஜி இந்தி"
+
+msgid "Hiligaynon"
+msgstr "ஹிலிகாய்னான்"
+
+msgid "Hittite"
+msgstr "ஹிட்டைட்"
+
+msgid "Hmong"
+msgstr "மாங்க்"
+
+msgid "Hiri Motu"
+msgstr "ஹிரி மோட்டு"
+
+msgid "Croatian"
+msgstr "குரோஷியன்"
+
+msgid "Upper Sorbian"
+msgstr "அப்பர் சோர்பியான்"
+
+msgid "Xiang Chinese"
+msgstr "சியாங்க் சீனம்"
+
+msgid "Haitian Creole"
+msgstr "ஹைத்தியன் க்ரியோலி"
+
+msgid "Hungarian"
+msgstr "ஹங்கேரியன்"
+
+msgid "Hupa"
+msgstr "ஹுபா"
+
+msgid "Halkomelem"
+msgstr "ஹல்கோமெலம்"
+
+msgid "Armenian"
+msgstr "ஆர்மேனியன்"
+
+msgid "Herero"
+msgstr "ஹெரேரோ"
+
+msgid "Interlingua"
+msgstr "இன்டர்லிங்வா"
+
+msgid "Iban"
+msgstr "இபான்"
+
+msgid "Ibibio"
+msgstr "இபிபியோ"
+
+msgid "Indonesian"
+msgstr "இந்தோனேஷியன்"
+
+msgid "Interlingue"
+msgstr "இன்டர்லிங்"
+
+msgid "Igbo"
+msgstr "இக்போ"
+
+msgid "Sichuan Yi"
+msgstr "சிசுவான் ஈ"
+
+msgid "Inupiaq"
+msgstr "இனுபியாக்"
+
+msgid "Western Canadian Inuktitut"
+msgstr "மேற்கு கனடிய இனுக்டிடுட்"
+
+msgid "Iloko"
+msgstr "இலோகோ"
+
+msgid "Ingush"
+msgstr "இங்குஷ்"
+
+msgid "Ido"
+msgstr "இடோ"
+
+msgid "Icelandic"
+msgstr "ஐஸ்லேண்டிக்"
+
+msgid "Italian"
+msgstr "இத்தாலியன்"
+
+msgid "Inuktitut"
+msgstr "இனுகிடூட்"
+
+msgid "Japanese"
+msgstr "ஜப்பானியம்"
+
+msgid "Lojban"
+msgstr "லோஜ்பன்"
+
+msgid "Ngomba"
+msgstr "நகொம்பா"
+
+msgid "Machame"
+msgstr "மாசெம்"
+
+msgid "Judeo-Persian"
+msgstr "ஜூதேயோ-பெர்ஷியன்"
+
+msgid "Judeo-Arabic"
+msgstr "ஜூதேயோ-அராபிக்"
+
+msgid "Javanese"
+msgstr "ஜாவனீஸ்"
+
+msgid "Georgian"
+msgstr "ஜார்ஜியன்"
+
+msgid "Kara-Kalpak"
+msgstr "காரா-கல்பாக்"
+
+msgid "Kabyle"
+msgstr "கபாய்ல்"
+
+msgid "Kachin"
+msgstr "காசின்"
+
+msgid "Jju"
+msgstr "ஜ்ஜூ"
+
+msgid "Kamba"
+msgstr "கம்பா"
+
+msgid "Kawi"
+msgstr "காவி"
+
+msgid "Kabardian"
+msgstr "கபார்டியன்"
+
+msgid "Tyap"
+msgstr "தையாப்"
+
+msgid "Makonde"
+msgstr "மகொண்டே"
+
+msgid "Kabuverdianu"
+msgstr "கபுவெர்தியானு"
+
+msgid "Koro"
+msgstr "கோரோ"
+
+msgid "Kongo"
+msgstr "காங்கோ"
+
+msgid "Kaingang"
+msgstr "கைன்கேங்"
+
+msgid "Khasi"
+msgstr "காஸி"
+
+msgid "Khotanese"
+msgstr "கோதானீஸ்"
+
+msgid "Koyra Chiini"
+msgstr "கொய்ரா சீனீ"
+
+msgid "Kikuyu"
+msgstr "கிகுயூ"
+
+msgid "Kuanyama"
+msgstr "குவான்யாமா"
+
+msgid "Kazakh"
+msgstr "கசாக்"
+
+msgid "Kako"
+msgstr "ககோ"
+
+msgid "Kalaallisut"
+msgstr "கலாலிசூட்"
+
+msgid "Kalenjin"
+msgstr "கலின்ஜின்"
+
+msgid "Khmer"
+msgstr "கெமெர்"
+
+msgid "Kimbundu"
+msgstr "கிம்புன்து"
+
+msgid "Kannada"
+msgstr "கன்னடம்"
+
+msgid "Korean"
+msgstr "கொரியன்"
+
+msgid "Komi-Permyak"
+msgstr "கொமி-பெர்ம்யாக்"
+
+msgid "Konkani"
+msgstr "கொங்கணி"
+
+msgid "Kosraean"
+msgstr "கோஸ்ரைன்"
+
+msgid "Kpelle"
+msgstr "க்பெல்லே"
+
+msgid "Kanuri"
+msgstr "கனுரி"
+
+msgid "Karachay-Balkar"
+msgstr "கராசே-பல்கார்"
+
+msgid "Karelian"
+msgstr "கரேலியன்"
+
+msgid "Kurukh"
+msgstr "குருக்"
+
+msgid "Kashmiri"
+msgstr "காஷ்மிரி"
+
+msgid "Shambala"
+msgstr "ஷம்பாலா"
+
+msgid "Bafia"
+msgstr "பாஃபியா"
+
+msgid "Colognian"
+msgstr "கொலோக்னியன்"
+
+msgid "Kurdish"
+msgstr "குர்திஷ்"
+
+msgid "Kumyk"
+msgstr "கும்யிக்"
+
+msgid "Kutenai"
+msgstr "குடேனை"
+
+msgid "Komi"
+msgstr "கொமி"
+
+msgid "Cornish"
+msgstr "கார்னிஷ்"
+
+msgid "Kwakʼwala"
+msgstr "குவாக்வாலா"
+
+msgid "Kyrgyz"
+msgstr "கிர்கிஸ்"
+
+msgid "Latin"
+msgstr "லத்தின்"
+
+msgid "Ladino"
+msgstr "லடினோ"
+
+msgid "Langi"
+msgstr "லங்கி"
+
+msgid "Western Panjabi"
+msgstr "லஹன்டா"
+
+msgid "Lamba"
+msgstr "லம்பா"
+
+msgid "Luxembourgish"
+msgstr "லக்ஸம்போர்கிஷ்"
+
+msgid "Lezghian"
+msgstr "லெஜ்ஜியன்"
+
+msgid "Ganda"
+msgstr "கான்டா"
+
+msgid "Limburgish"
+msgstr "லிம்பர்கிஷ்"
+
+msgid "Lillooet"
+msgstr "லில்லூயிட்"
+
+msgid "Lakota"
+msgstr "லகோடா"
+
+msgid "Lombard"
+msgstr "லொம்பார்டு"
+
+msgid "Lingala"
+msgstr "லிங்காலா"
+
+msgid "Lao"
+msgstr "லாவோ"
+
+msgid "Mongo"
+msgstr "மோங்கோ"
+
+msgid "Louisiana Creole"
+msgstr "லூசியானா க்ரயோல்"
+
+msgid "Lozi"
+msgstr "லோசி"
+
+msgid "Northern Luri"
+msgstr "வடக்கு லுரி"
+
+msgid "Saamia"
+msgstr "சாமியா"
+
+msgid "Lithuanian"
+msgstr "லிதுவேனியன்"
+
+msgid "Luba-Katanga"
+msgstr "லுபா-கடாங்கா"
+
+msgid "Luba-Lulua"
+msgstr "லுபா-லுலுலா"
+
+msgid "Luiseno"
+msgstr "லுய்சேனோ"
+
+msgid "Lunda"
+msgstr "லூன்டா"
+
+msgid "Luo"
+msgstr "லுயோ"
+
+msgid "Mizo"
+msgstr "மிஸோ"
+
+msgid "Luyia"
+msgstr "லுயியா"
+
+msgid "Latvian"
+msgstr "லாட்வியன்"
+
+msgid "Madurese"
+msgstr "மதுரீஸ்"
+
+msgid "Magahi"
+msgstr "மகாஹி"
+
+msgid "Maithili"
+msgstr "மைதிலி"
+
+msgid "Makasar"
+msgstr "மகாசார்"
+
+msgid "Mandingo"
+msgstr "மான்டிங்கோ"
+
+msgid "Masai"
+msgstr "மாசாய்"
+
+msgid "Moksha"
+msgstr "மோக்க்ஷா"
+
+msgid "Mandar"
+msgstr "மான்டார்"
+
+msgid "Mende"
+msgstr "மென்டீ"
+
+msgid "Meru"
+msgstr "மெரு"
+
+msgid "Morisyen"
+msgstr "மொரிசியன்"
+
+msgid "Malagasy"
+msgstr "மலகாஸி"
+
+msgid "Middle Irish"
+msgstr "மிடில் ஐரிஷ்"
+
+msgid "Makhuwa-Meetto"
+msgstr "மகுவா-மீட்டோ"
+
+msgid "Metaʼ"
+msgstr "மேடா"
+
+msgid "Marshallese"
+msgstr "மார்ஷெலீஸ்"
+
+msgid "Māori"
+msgstr "மௌரி"
+
+msgid "Mi'kmaq"
+msgstr "மிக்மாக்"
+
+msgid "Minangkabau"
+msgstr "மின்னாங்கபௌ"
+
+msgid "Macedonian"
+msgstr "மாஸிடோனியன்"
+
+msgid "Malayalam"
+msgstr "மலையாளம்"
+
+msgid "Mongolian"
+msgstr "மங்கோலியன்"
+
+msgid "Manchu"
+msgstr "மன்சூ"
+
+msgid "Manipuri"
+msgstr "மணிப்புரி"
+
+msgid "Innu-aimun"
+msgstr "இன்னு-ஐமுன்"
+
+msgid "Mohawk"
+msgstr "மொஹாக்"
+
+msgid "Mossi"
+msgstr "மோஸ்ஸி"
+
+msgid "Marathi"
+msgstr "மராத்தி"
+
+msgid "Malay"
+msgstr "மலாய்"
+
+msgid "Maltese"
+msgstr "மால்டிஸ்"
+
+msgid "Mundang"
+msgstr "முன்டாங்"
+
+msgid "Multiple languages"
+msgstr "பல மொழிகள்"
+
+msgid "Muscogee"
+msgstr "க்ரீக்"
+
+msgid "Mirandese"
+msgstr "மிரான்டீஸ்"
+
+msgid "Marwari"
+msgstr "மார்வாரி"
+
+msgid "Burmese"
+msgstr "பர்மீஸ்"
+
+msgid "Erzya"
+msgstr "ஏர்ஜியா"
+
+msgid "Mazanderani"
+msgstr "மசந்தேரனி"
+
+msgid "Nauru"
+msgstr "நவ்ரூ"
+
+msgid "Min Nan Chinese"
+msgstr "மின் நான் சீனம்"
+
+msgid "Neapolitan"
+msgstr "நியோபோலிடன்"
+
+msgid "Nama"
+msgstr "நாமா"
+
+msgid "Norwegian Bokmål"
+msgstr "நார்வேஜியன் பொக்மால்"
+
+msgid "North Ndebele"
+msgstr "வடக்கு தெபெலே"
+
+msgid "Low German"
+msgstr "லோ ஜெர்மன்"
+
+msgid "Low Saxon"
+msgstr "லோ சாக்ஸன்"
+
+msgid "Nepali"
+msgstr "நேபாளி"
+
+msgid "Newari"
+msgstr "நெவாரி"
+
+msgid "Ndonga"
+msgstr "தோங்கா"
+
+msgid "Nias"
+msgstr "நியாஸ்"
+
+msgid "Niuean"
+msgstr "நியூவான்"
+
+msgid "Dutch"
+msgstr "டச்சு"
+
+msgid "Flemish"
+msgstr "ஃப்லெமிஷ்"
+
+msgid "Kwasio"
+msgstr "க்வாசியோ"
+
+msgid "Norwegian Nynorsk"
+msgstr "நார்வேஜியன் நியூநார்ஸ்க்"
+
+msgid "Ngiemboon"
+msgstr "நெகெய்ம்பூன்"
+
+msgid "Norwegian"
+msgstr "நார்வேஜியன்"
+
+msgid "Nogai"
+msgstr "நோகை"
+
+msgid "Old Norse"
+msgstr "பழைய நோர்ஸ்"
+
+msgid "N’Ko"
+msgstr "என்‘கோ"
+
+msgid "South Ndebele"
+msgstr "தெற்கு தெபெலே"
+
+msgid "Northern Sotho"
+msgstr "வடக்கு சோதோ"
+
+msgid "Nuer"
+msgstr "நியூர்"
+
+msgid "Navajo"
+msgstr "நவாஜோ"
+
+msgid "Classical Newari"
+msgstr "பாரம்பரிய நேவாரி"
+
+msgid "Nyanja"
+msgstr "நயன்ஜா"
+
+msgid "Nyamwezi"
+msgstr "நியாம்வேஜி"
+
+msgid "Nyankole"
+msgstr "நியான்கோலே"
+
+msgid "Nyoro"
+msgstr "நியோரோ"
+
+msgid "Nzima"
+msgstr "நிஜ்மா"
+
+msgid "Occitan"
+msgstr "ஒக்கிடன்"
+
+msgid "Ojibwa"
+msgstr "ஒஜிப்வா"
+
+msgid "Northwestern Ojibwa"
+msgstr "வடமேற்கு ஓஜிப்வா"
+
+msgid "Central Ojibwa"
+msgstr "மத்திய ஓஜிப்வா"
+
+msgid "Oji-Cree"
+msgstr "ஓஜி-க்ரீ"
+
+msgid "Western Ojibwa"
+msgstr "மேற்கு ஓஜிப்வா"
+
+msgid "Okanagan"
+msgstr "ஒகானகன்"
+
+msgid "Oromo"
+msgstr "ஒரோமோ"
+
+msgid "Odia"
+msgstr "ஒடியா"
+
+msgid "Ossetic"
+msgstr "ஒசெட்டிக்"
+
+msgid "Osage"
+msgstr "ஓசேஜ்"
+
+msgid "Ottoman Turkish"
+msgstr "ஓட்டோமான் துருக்கிஷ்"
+
+msgid "Punjabi"
+msgstr "பஞ்சாபி"
+
+msgid "Pangasinan"
+msgstr "பன்காசினன்"
+
+msgid "Pahlavi"
+msgstr "பாஹ்லவி"
+
+msgid "Pampanga"
+msgstr "பம்பாங்கா"
+
+msgid "Papiamento"
+msgstr "பபியாமென்டோ"
+
+msgid "Palauan"
+msgstr "பலௌவன்"
+
+msgid "Nigerian Pidgin"
+msgstr "நைஜீரியன் பிட்கின்"
+
+msgid "Pennsylvania German"
+msgstr "பென்சில்வேனிய ஜெர்மன்"
+
+msgid "Old Persian"
+msgstr "பழைய பெர்ஷியன்"
+
+msgid "Phoenician"
+msgstr "ஃபொனிஷியன்"
+
+msgid "Pali"
+msgstr "பாலி"
+
+msgid "Pijin"
+msgstr "பிஜின்"
+
+msgid "Polish"
+msgstr "போலிஷ்"
+
+msgid "Pohnpeian"
+msgstr "ஃபோன்பெயென்"
+
+msgid "Maliseet-Passamaquoddy"
+msgstr "மலிசீட்-பஸ்ஸமகுவாடி"
+
+msgid "Prussian"
+msgstr "பிரஷ்யன்"
+
+msgid "Old Provençal"
+msgstr "பழைய ப்ரோவென்சால்"
+
+msgid "Pashto"
+msgstr "பஷ்தோ"
+
+msgid "Pushto"
+msgstr "புஷ்தோ"
+
+msgid "Portuguese"
+msgstr "போர்ச்சுகீஸ்"
+
+msgid "Brazilian Portuguese"
+msgstr "பிரேசிலிய போர்ச்சுகீஸ்"
+
+msgid "European Portuguese"
+msgstr "ஐரோப்பிய போர்ச்சுகீஸ்"
+
+msgid "Quechua"
+msgstr "க்வெச்சுவா"
+
+msgid "Kʼicheʼ"
+msgstr "கீசீ"
+
+msgid "Rajasthani"
+msgstr "ராஜஸ்தானி"
+
+msgid "Rapanui"
+msgstr "ரபனுய்"
+
+msgid "Rarotongan"
+msgstr "ரரோடோங்கன்"
+
+msgid "Rohingya"
+msgstr "ரோகிஞ்சா"
+
+msgid "Romansh"
+msgstr "ரோமான்ஷ்"
+
+msgid "Rundi"
+msgstr "ருண்டி"
+
+msgid "Romanian"
+msgstr "ரோமேனியன்"
+
+msgid "Moldavian"
+msgstr "மோல்டாவியன்"
+
+msgid "Rombo"
+msgstr "ரோம்போ"
+
+msgid "Romany"
+msgstr "ரோமானி"
+
+msgid "Russian"
+msgstr "ரஷியன்"
+
+msgid "Aromanian"
+msgstr "அரோமானியன்"
+
+msgid "Kinyarwanda"
+msgstr "கின்யாருவான்டா"
+
+msgid "Rwa"
+msgstr "ருவா"
+
+msgid "Sanskrit"
+msgstr "சமஸ்கிருதம்"
+
+msgid "Sandawe"
+msgstr "சான்டாவே"
+
+msgid "Yakut"
+msgstr "சக்கா"
+
+msgid "Samaritan Aramaic"
+msgstr "சமாரிடன் அராமைக்"
+
+msgid "Samburu"
+msgstr "சம்புரு"
+
+msgid "Sasak"
+msgstr "சாசாக்"
+
+msgid "Santali"
+msgstr "சான்டாலி"
+
+msgid "Saurashtra"
+msgstr "சௌராஷ்டிரம்"
+
+msgid "Ngambay"
+msgstr "நெகாம்பே"
+
+msgid "Sangu"
+msgstr "சங்கு"
+
+msgid "Sardinian"
+msgstr "சார்தீனியன்"
+
+msgid "Sicilian"
+msgstr "சிசிலியன்"
+
+msgid "Scots"
+msgstr "ஸ்காட்ஸ்"
+
+msgid "Sindhi"
+msgstr "சிந்தி"
+
+msgid "Southern Kurdish"
+msgstr "தெற்கு குர்திஷ்"
+
+msgid "Northern Sami"
+msgstr "வடக்கு சமி"
+
+msgid "Sena"
+msgstr "செனா"
+
+msgid "Selkup"
+msgstr "செல்குப்"
+
+msgid "Koyraboro Senni"
+msgstr "கொய்ராபோரோ சென்னி"
+
+msgid "Sango"
+msgstr "சாங்கோ"
+
+msgid "Old Irish"
+msgstr "பழைய ஐரிஷ்"
+
+msgid "Serbo-Croatian"
+msgstr "செர்போ-குரோஷியன்"
+
+msgid "Tachelhit"
+msgstr "தசேஹித்"
+
+msgid "Shan"
+msgstr "ஷான்"
+
+msgid "Sinhala"
+msgstr "சிங்களம்"
+
+msgid "Sidamo"
+msgstr "சிடாமோ"
+
+msgid "Slovak"
+msgstr "ஸ்லோவாக்"
+
+msgid "Slovenian"
+msgstr "ஸ்லோவேனியன்"
+
+msgid "Southern Lushootseed"
+msgstr "தெற்கு லுஷூட்சீட்"
+
+msgid "Samoan"
+msgstr "சமோவான்"
+
+msgid "Southern Sami"
+msgstr "தெற்கு சமி"
+
+msgid "Lule Sami"
+msgstr "லுலே சமி"
+
+msgid "Inari Sami"
+msgstr "இனாரி சமி"
+
+msgid "Skolt Sami"
+msgstr "ஸ்கோல்ட் சமி"
+
+msgid "Shona"
+msgstr "ஷோனா"
+
+msgid "Soninke"
+msgstr "சோனின்கே"
+
+msgid "Somali"
+msgstr "சோமாலி"
+
+msgid "Sogdien"
+msgstr "சோக்தியன்"
+
+msgid "Albanian"
+msgstr "அல்பேனியன்"
+
+msgid "Serbian"
+msgstr "செர்பியன்"
+
+msgid "Sranan Tongo"
+msgstr "ஸ்ரானன் டோங்கோ"
+
+msgid "Serer"
+msgstr "செரெர்"
+
+msgid "Swati"
+msgstr "ஸ்வாடீ"
+
+msgid "Saho"
+msgstr "சஹோ"
+
+msgid "Southern Sotho"
+msgstr "தெற்கு ஸோதோ"
+
+msgid "Straits Salish"
+msgstr "ஸ்ட்ரெய்ட்ஸ் சாலிஷ்"
+
+msgid "Sundanese"
+msgstr "சுண்டானீஸ்"
+
+msgid "Sukuma"
+msgstr "சுகுமா"
+
+msgid "Susu"
+msgstr "சுசு"
+
+msgid "Sumerian"
+msgstr "சுமேரியன்"
+
+msgid "Swedish"
+msgstr "ஸ்வீடிஷ்"
+
+msgid "Swahili"
+msgstr "ஸ்வாஹிலி"
+
+msgid "Congo Swahili"
+msgstr "காங்கோ ஸ்வாஹிலி"
+
+msgid "Comorian"
+msgstr "கொமோரியன்"
+
+msgid "Classical Syriac"
+msgstr "பாரம்பரிய சிரியாக்"
+
+msgid "Syriac"
+msgstr "சிரியாக்"
+
+msgid "Tamil"
+msgstr "தமிழ்"
+
+msgid "Southern Tutchone"
+msgstr "தெற்கு டட்சோன்"
+
+msgid "Telugu"
+msgstr "தெலுங்கு"
+
+msgid "Timne"
+msgstr "டிம்னே"
+
+msgid "Teso"
+msgstr "டெசோ"
+
+msgid "Tereno"
+msgstr "டெரெனோ"
+
+msgid "Tetum"
+msgstr "டெடும்"
+
+msgid "Tajik"
+msgstr "தஜிக்"
+
+msgid "Tagish"
+msgstr "தகிஷ்"
+
+msgid "Thai"
+msgstr "தாய்"
+
+msgid "Tahltan"
+msgstr "தால்டன்"
+
+msgid "Tigrinya"
+msgstr "டிக்ரின்யா"
+
+msgid "Tigre"
+msgstr "டைக்ரே"
+
+msgid "Tiv"
+msgstr "டிவ்"
+
+msgid "Turkmen"
+msgstr "துருக்மென்"
+
+msgid "Tokelau"
+msgstr "டோகேலௌ"
+
+msgid "Tagalog"
+msgstr "டாகாலோக்"
+
+msgid "Klingon"
+msgstr "க்ளிங்கோன்"
+
+msgid "Tlingit"
+msgstr "லிங்கிட்"
+
+msgid "Tamashek"
+msgstr "தமஷேக்"
+
+msgid "Tswana"
+msgstr "ஸ்வானா"
+
+msgid "Tongan"
+msgstr "டோங்கான்"
+
+msgid "Nyasa Tonga"
+msgstr "நயாசா டோங்கா"
+
+msgid "Toki Pona"
+msgstr "டோக்கி போனா"
+
+msgid "Tok Pisin"
+msgstr "டோக் பிஸின்"
+
+msgid "Turkish"
+msgstr "துருக்கிஷ்"
+
+msgid "Taroko"
+msgstr "தரோகோ"
+
+msgid "Tsonga"
+msgstr "ஸோங்கா"
+
+msgid "Tsimshian"
+msgstr "ட்ஸிம்ஷியன்"
+
+msgid "Tatar"
+msgstr "டாடர்"
+
+msgid "Northern Tutchone"
+msgstr "வடக்கு டட்சோன்"
+
+msgid "Tumbuka"
+msgstr "தும்புகா"
+
+msgid "Tuvalu"
+msgstr "டுவாலு"
+
+msgid "Twi"
+msgstr "ட்வி"
+
+msgid "Tasawaq"
+msgstr "டசவாக்"
+
+msgid "Tahitian"
+msgstr "தஹிதியன்"
+
+msgid "Tuvinian"
+msgstr "டுவினியன்"
+
+msgid "Central Atlas Tamazight"
+msgstr "மத்திய அட்லஸ் டமசைட்"
+
+msgid "Udmurt"
+msgstr "உட்முர்ட்"
+
+msgid "Uyghur"
+msgstr "உய்குர்"
+
+msgid "Ugaritic"
+msgstr "உகாரிடிக்"
+
+msgid "Ukrainian"
+msgstr "உக்ரைனியன்"
+
+msgid "Umbundu"
+msgstr "அம்பொண்டு"
+
+msgid "Unknown language"
+msgstr "அறியப்படாத மொழி"
+
+msgid "Urdu"
+msgstr "உருது"
+
+msgid "Uzbek"
+msgstr "உஸ்பெக்"
+
+msgid "Vai"
+msgstr "வை"
+
+msgid "Venda"
+msgstr "வென்டா"
+
+msgid "Vietnamese"
+msgstr "வியட்நாமீஸ்"
+
+msgid "Volapük"
+msgstr "ஒலாபூக்"
+
+msgid "Votic"
+msgstr "வோட்க்"
+
+msgid "Vunjo"
+msgstr "வுன்ஜோ"
+
+msgid "Walloon"
+msgstr "ஒவாலூன்"
+
+msgid "Walser"
+msgstr "வால்சேர்"
+
+msgid "Wolaytta"
+msgstr "வோலாய்ட்டா"
+
+msgid "Waray"
+msgstr "வாரே"
+
+msgid "Washo"
+msgstr "வாஷோ"
+
+msgid "Warlpiri"
+msgstr "வல்பிரி"
+
+msgid "Wolof"
+msgstr "ஓலோஃப்"
+
+msgid "Wu Chinese"
+msgstr "வூ சீனம்"
+
+msgid "Kalmyk"
+msgstr "கல்மிக்"
+
+msgid "Xhosa"
+msgstr "ஹோசா"
+
+msgid "Soga"
+msgstr "சோகா"
+
+msgid "Yao"
+msgstr "யாவ்"
+
+msgid "Yapese"
+msgstr "யாபேசே"
+
+msgid "Yangben"
+msgstr "யாங்பென்"
+
+msgid "Yemba"
+msgstr "யெம்பா"
+
+msgid "Yiddish"
+msgstr "யெட்டிஷ்"
+
+msgid "Yoruba"
+msgstr "யோருபா"
+
+msgid "Nheengatu"
+msgstr "நஹீன்கட்டு"
+
+msgid "Cantonese"
+msgstr "காண்டோனீஸ்"
+
+msgid "Chinese, Cantonese"
+msgstr "சீனம், காண்டோனீஸ்"
+
+msgid "Zhuang"
+msgstr "ஜுவாங்"
+
+msgid "Zapotec"
+msgstr "ஜாபோடெக்"
+
+msgid "Blissymbols"
+msgstr "ப்லிஸ்ஸிம்பால்ஸ்"
+
+msgid "Zenaga"
+msgstr "ஜெனகா"
+
+msgid "Standard Moroccan Tamazight"
+msgstr "ஸ்டாண்டர்ட் மொராக்கன் தமாசைட்"
+
+msgid "Chinese"
+msgstr "சீனம்"
+
+msgid "Chinese, Mandarin"
+msgstr "சீனம், மாண்டரின்"
+
+msgid "Simplified Chinese"
+msgstr "எளிதாக்கப்பட்ட சீனம்"
+
+msgid "Simplified Mandarin Chinese"
+msgstr "எளிதாக்கப்பட்ட சீன மாண்டரின்"
+
+msgid "Traditional Chinese"
+msgstr "பாரம்பரிய சீனம்"
+
+msgid "Traditional Mandarin Chinese"
+msgstr "பாரம்பரிய சீன மாண்டரின்"
+
+msgid "Zulu"
+msgstr "ஜுலு"
+
+msgid "Zuni"
+msgstr "ஜூனி"
+
+msgid "No linguistic content"
+msgstr "மொழி உள்ளடக்கம் ஏதுமில்லை"
+
+msgid "Zaza"
+msgstr "ஜாஜா"
