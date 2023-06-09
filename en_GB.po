@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-09 11:30-0500\n"
-"PO-Revision-Date: 2023-06-07 16:51+0000\n"
+"PO-Revision-Date: 2023-06-09 10:50+0000\n"
 "Last-Translator: Will Thompson <will@willthompson.co.uk>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "dialect/dialect/en_GB/>\n"
@@ -58,315 +58,315 @@ msgstr ""
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
-msgstr ""
+msgstr "Translation based on Lingva Translate API"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Translation based on Bing"
-msgstr ""
+msgstr "Translation based on Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
 msgid "Translation based on Yandex"
-msgstr ""
+msgstr "Translation based on Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
-msgstr ""
+msgstr "Text to speech"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Translation history"
-msgstr ""
+msgstr "Translation history"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Automatic language detection"
-msgstr ""
+msgstr "Automatic language detection"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Clipboard buttons"
-msgstr ""
+msgstr "Clipboard buttons"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:30 data/resources/about.blp:8
 msgid "The Dialect Authors"
-msgstr ""
+msgstr "The Dialect Authors"
 
 #: data/resources/about.blp:9
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
-msgstr ""
+msgstr "Copyright 2020–⁠2022 The Dialect Authors"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:17
 msgid "translator-credits"
-msgstr ""
+msgstr "Will Thompson"
 
 #: data/resources/lang-selector.blp:47
 msgid "Search Languages…"
-msgstr ""
+msgstr "Search Languages…"
 
 #: data/resources/preferences.ui:12
 msgid "Providers"
-msgstr ""
+msgstr "Providers"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
-msgstr ""
+msgstr "Translator"
 
 #: data/resources/preferences.ui:16
 msgid "Choose from the available translation services."
-msgstr ""
+msgstr "Choose from the available translation services."
 
 #: data/resources/preferences.ui:47
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Text-to-Speech"
 
 #: data/resources/preferences.ui:48
 msgid "Choose from the available TTS services."
-msgstr ""
+msgstr "Choose from the available TTS services."
 
 #: data/resources/preferences.ui:81
 msgid "Behavior"
-msgstr ""
+msgstr "Behaviour"
 
 #: data/resources/preferences.ui:84
 msgid "Live Translation"
-msgstr ""
+msgstr "Live Translation"
 
 #: data/resources/preferences.ui:85
 msgid "Warning: Your IP address may get banned for API abuse."
-msgstr ""
+msgstr "Warning: Your IP address may get banned for API abuse."
 
 #: data/resources/preferences.ui:91
 msgid "Show Translations in Desktop Search"
-msgstr ""
+msgstr "Show Translations in Desktop Search"
 
 #: data/resources/preferences.ui:92
 msgid "Warning: All desktop searches will be sent to the translation service"
-msgstr ""
+msgstr "Warning: All desktop searches will be sent to the translation service"
 
 #: data/resources/preferences.ui:105
 msgid "Translation Shortcut"
-msgstr ""
+msgstr "Translation Shortcut"
 
 #: data/resources/preferences.ui:106
 msgid "The unselected choice will be used for line break."
-msgstr ""
+msgstr "The unselected choice will be used for line break."
 
 #: data/resources/preferences.ui:124
 msgid "Default to Auto"
-msgstr ""
+msgstr "Default to Auto"
 
 #: data/resources/preferences.ui:125
 msgid "Use \"Auto\" as the default language"
-msgstr ""
+msgstr "Use “Auto” as the default language"
 
 #: data/resources/provider-preferences.blp:25
 msgid "Instance URL"
-msgstr ""
+msgstr "Instance URL"
 
 #: data/resources/provider-preferences.blp:26
 msgid "Enter an Instance URL for the Provider."
-msgstr ""
+msgstr "Enter an Instance URL for the Provider."
 
 #: data/resources/provider-preferences.blp:36
 #: data/resources/provider-preferences.blp:66
 msgid "Reset to Default"
-msgstr ""
+msgstr "Reset to Default"
 
 #: data/resources/provider-preferences.blp:56
 msgid "API Key"
-msgstr ""
+msgstr "API Key"
 
 #: data/resources/provider-preferences.blp:57
 msgid "Enter an API Key for the Provider."
-msgstr ""
+msgstr "Enter an API Key for the Provider."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
 msgid "Translator"
-msgstr ""
+msgstr "Translator"
 
 #: data/resources/shortcuts.blp:16
 msgctxt "shortcuts window"
 msgid "Translate"
-msgstr ""
+msgstr "Translate"
 
 #: data/resources/shortcuts.blp:21
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr ""
+msgstr "Switch Languages"
 
 #: data/resources/shortcuts.blp:26
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "Clear source text"
 
 #: data/resources/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr ""
+msgstr "Copy translation"
 
 #: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "Show Pronunciation"
 
 #: data/resources/shortcuts.blp:42
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Text-to-Speech"
 
 #: data/resources/shortcuts.blp:45
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "Listen to source text"
 
 #: data/resources/shortcuts.blp:50
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr ""
+msgstr "Listen to translation"
 
 #: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "Navigation"
 
 #: data/resources/shortcuts.blp:59
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "Go back in history"
 
 #: data/resources/shortcuts.blp:64
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr ""
+msgstr "Go forward in history"
 
 #: data/resources/shortcuts.blp:70
 msgctxt "shortcuts window"
 msgid "General"
-msgstr ""
+msgstr "General"
 
 #: data/resources/shortcuts.blp:73
 msgctxt "shortcuts window"
 msgid "Preferences"
-msgstr ""
+msgstr "Preferences"
 
 #: data/resources/shortcuts.blp:78
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr ""
+msgstr "Shortcuts"
 
 #: data/resources/shortcuts.blp:83
 msgctxt "shortcuts window"
 msgid "Quit"
-msgstr ""
+msgstr "Quit"
 
 #: data/resources/theme-switcher.blp:20
 msgid "Follow System Style"
-msgstr ""
+msgstr "Follow System Style"
 
 #: data/resources/theme-switcher.blp:35
 msgid "Light Style"
-msgstr ""
+msgstr "Light Style"
 
 #: data/resources/theme-switcher.blp:50
 msgid "Dark Style"
-msgstr ""
+msgstr "Dark Style"
 
 #: data/resources/window.blp:15
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "Show Pronunciation"
 
 #: data/resources/window.blp:24 dialect/window.py:1268 dialect/window.py:1276
 msgid "Preferences"
-msgstr ""
+msgstr "Preferences"
 
 #: data/resources/window.blp:29
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Keyboard Shortcuts"
 
 #: data/resources/window.blp:34
 msgid "About Dialect"
-msgstr ""
+msgstr "About Dialect"
 
 #: data/resources/window.blp:70
 msgid "Loading…"
-msgstr ""
+msgstr "Loading…"
 
 #: data/resources/window.blp:103 data/resources/window.blp:135
 #: dialect/window.py:529 dialect/window.py:1260 dialect/window.py:1284
 msgid "Retry"
-msgstr ""
+msgstr "Retry"
 
 #: data/resources/window.blp:113 data/resources/window.blp:148
 #: data/resources/window.blp:194 data/resources/window.blp:230
 msgid "Open Preferences"
-msgstr ""
+msgstr "Open Preferences"
 
 #: data/resources/window.blp:184 data/resources/window.blp:217
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "Remove Key and Retry"
 
 #: data/resources/window.blp:265 data/resources/window.blp:591
 msgid "Change Source Language"
-msgstr ""
+msgstr "Change Source Language"
 
 #: data/resources/window.blp:270 data/resources/window.blp:599
 msgid "Switch Languages"
-msgstr ""
+msgstr "Switch Languages"
 
 #: data/resources/window.blp:277 data/resources/window.blp:607
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Change Destination Language"
 
 #: data/resources/window.blp:292
 msgid "Previous Translation"
-msgstr ""
+msgstr "Previous Translation"
 
 #: data/resources/window.blp:298
 msgid "Next Translation"
-msgstr ""
+msgstr "Next Translation"
 
 #: data/resources/window.blp:305
 msgid "Main Menu"
-msgstr ""
+msgstr "Main Menu"
 
 #: data/resources/window.blp:409
 msgid "Clear"
-msgstr ""
+msgstr "Clear"
 
 #: data/resources/window.blp:415
 msgid "Paste"
-msgstr ""
+msgstr "Paste"
 
 #: data/resources/window.blp:421 data/resources/window.blp:540
 msgid "Listen"
-msgstr ""
+msgstr "Listen"
 
 #: data/resources/window.blp:442
 msgid "Translate"
-msgstr ""
+msgstr "Translate"
 
 #: data/resources/window.blp:514
 msgid "Translating…"
-msgstr ""
+msgstr "Translating…"
 
 #: data/resources/window.blp:519
 msgid "Could not Translate the Text"
-msgstr ""
+msgstr "Could not Translate the Text"
 
 #: data/resources/window.blp:526
 msgid "Copy"
-msgstr ""
+msgstr "Copy"
 
 #: data/resources/window.blp:534
 msgid "Suggest Translation"
-msgstr ""
+msgstr "Suggest Translation"
 
 #: data/resources/window.blp:558
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
 
 #: data/resources/window.blp:565
 msgid "Save"
-msgstr ""
+msgstr "Save"
 
 #: dialect/languages.py:11
 msgid "Afrikaans"
