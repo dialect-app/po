@@ -8,105 +8,110 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-09 11:30-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-06-09 10:50+0000\n"
+"Last-Translator: Mehrab Poladov <thepoladov@protonmail.com>\n"
+"Language-Team: Azerbaijani <https://hosted.weblate.org/projects/dialect/"
+"dialect/az/>\n"
 "Language: az\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:7
 #: data/resources/window.blp:285 dialect/main.py:61
 msgid "Dialect"
-msgstr ""
+msgstr "Dialect"
 
 #: data/app.drey.Dialect.desktop.in.in:10
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
-msgstr ""
+msgstr "Dillər arasında tərcümə edin"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:14
 msgid "translate;translation;"
-msgstr ""
+msgstr "translate;translation;tərcüməet;tərcümə;"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
-msgstr ""
+msgstr "GNOME üçün tərcümə tətbiqi."
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
-msgstr ""
+msgstr "Xüsusiyyətlər:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
 msgid "Translation based on Google Translate"
-msgstr ""
+msgstr "Google Translate əsasında tərcümə"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
+"İstənilən ictimai nümunədən istifadə etməyə imkan verən LibreTranslate API-"
+"yə əsaslanan tərcümə"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
-msgstr ""
+msgstr "Lingva Translate API əsasında tərcümə"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Translation based on Bing"
-msgstr ""
+msgstr "Bing əsasında tərcümə"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
 msgid "Translation based on Yandex"
-msgstr ""
+msgstr "Yandex əsasında tərcümə"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
-msgstr ""
+msgstr "Mətndən səsə"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Translation history"
-msgstr ""
+msgstr "Tərcümə tarixi"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Automatic language detection"
-msgstr ""
+msgstr "Avtomatik dil aşkarlama"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Clipboard buttons"
-msgstr ""
+msgstr "Bufer düymələri"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:30 data/resources/about.blp:8
 msgid "The Dialect Authors"
-msgstr ""
+msgstr "Dialekt Müəllifləri"
 
 #: data/resources/about.blp:9
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
-msgstr ""
+msgstr "Müəlliflik hüququ 2020–⁠2022 Dialekt Müəllifləri"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:17
 msgid "translator-credits"
-msgstr ""
+msgstr "Mehrab Poladov <thepoladov@protonmail.com>"
 
 #: data/resources/lang-selector.blp:47
 msgid "Search Languages…"
-msgstr ""
+msgstr "Dilləri axtarın…"
 
 #: data/resources/preferences.ui:12
 msgid "Providers"
-msgstr ""
+msgstr "Provayderlər"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
-msgstr ""
+msgstr "Tərcüməçi"
 
 #: data/resources/preferences.ui:16
 msgid "Choose from the available translation services."
-msgstr ""
+msgstr "Mövcud tərcümə xidmətlərindən seçin."
 
 #: data/resources/preferences.ui:47
 msgid "Text-to-Speech"
