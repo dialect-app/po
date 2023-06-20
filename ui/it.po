@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: 2022-06-30 01:14+0000\n"
+"PO-Revision-Date: 2023-06-20 14:50+0000\n"
 "Last-Translator: Michael Moroni <michaelmoroni@disroot.org>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/dialect/dialect/"
 "it/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13.1-dev\n"
+"X-Generator: Weblate 4.18.1\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -61,14 +61,12 @@ msgid "Translation based on Lingva Translate API"
 msgstr "Traduzione basata sulle API di Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr "Traduzione basata sulle API di Lingva Translate"
+msgstr "Traduzione basata su Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "Traduzione basata su Google Translate"
+msgstr "Traduzione basata su Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
@@ -104,9 +102,8 @@ msgid "Search Languages…"
 msgstr "Cerca una lingua…"
 
 #: data/resources/preferences.ui:12
-#, fuzzy
 msgid "Providers"
-msgstr "Cerca provider"
+msgstr "Fornitori"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
@@ -121,9 +118,8 @@ msgid "Text-to-Speech"
 msgstr "Sintesi vocale"
 
 #: data/resources/preferences.ui:48
-#, fuzzy
 msgid "Choose from the available TTS services."
-msgstr "Scegli tra i servizi di traduzione disponibili."
+msgstr "Scegli tra i servizi di TTS disponibili."
 
 #: data/resources/preferences.ui:81
 msgid "Behavior"
@@ -167,16 +163,14 @@ msgstr "Usa \"Automatico\" come lingua predefinita"
 
 #: data/resources/provider-preferences.blp:25
 msgid "Instance URL"
-msgstr ""
+msgstr "URL dell'istanza"
 
 #: data/resources/provider-preferences.blp:26
-#, fuzzy
 msgid "Enter an Instance URL for the Provider."
-msgstr "Inserisci una chiave API per il servizio di traduzione."
+msgstr "Inserisci un'URL di istanza per il fornitore."
 
 #: data/resources/provider-preferences.blp:36
 #: data/resources/provider-preferences.blp:66
-#, fuzzy
 msgid "Reset to Default"
 msgstr "Ripristina le impostazioni predefinite"
 
@@ -185,9 +179,8 @@ msgid "API Key"
 msgstr "Chiave API"
 
 #: data/resources/provider-preferences.blp:57
-#, fuzzy
 msgid "Enter an API Key for the Provider."
-msgstr "Inserisci una chiave API per il servizio di traduzione."
+msgstr "Inserisci una chiave API per il fornitore."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -270,17 +263,14 @@ msgid "Quit"
 msgstr "Esci"
 
 #: data/resources/theme-switcher.blp:20
-#, fuzzy
 msgid "Follow System Style"
 msgstr "Segui stile del sistema"
 
 #: data/resources/theme-switcher.blp:35
-#, fuzzy
 msgid "Light Style"
 msgstr "Stile chiaro"
 
 #: data/resources/theme-switcher.blp:50
-#, fuzzy
 msgid "Dark Style"
 msgstr "Stile scuro"
 
@@ -320,30 +310,27 @@ msgstr "Rimuovi chiave e riprova"
 
 #: data/resources/window.blp:265 data/resources/window.blp:591
 msgid "Change Source Language"
-msgstr ""
+msgstr "Cambia lingua della fonte"
 
 #: data/resources/window.blp:270 data/resources/window.blp:599
-#, fuzzy
 msgid "Switch Languages"
-msgstr "Cambia lingua"
+msgstr "Cambia lingue"
 
 #: data/resources/window.blp:277 data/resources/window.blp:607
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Cambia lingua di destinazione"
 
 #: data/resources/window.blp:292
-#, fuzzy
 msgid "Previous Translation"
 msgstr "Traduzione precedente"
 
 #: data/resources/window.blp:298
-#, fuzzy
 msgid "Next Translation"
 msgstr "Prossima traduzione"
 
 #: data/resources/window.blp:305
 msgid "Main Menu"
-msgstr ""
+msgstr "Menù principale"
 
 #: data/resources/window.blp:409
 msgid "Clear"
@@ -366,7 +353,6 @@ msgid "Translating…"
 msgstr "Traduzione in corso…"
 
 #: data/resources/window.blp:519
-#, fuzzy
 msgid "Could not Translate the Text"
 msgstr "Non è stato possibile tradurre il testo"
 
@@ -392,11 +378,11 @@ msgstr "Automatico"
 
 #: dialect/preferences.py:121
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Modifica impostazioni del fornitore"
 
 #: dialect/preferences.py:123
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Nessuna impostazione per questo fornitore"
 
 #: dialect/window.py:380 dialect/window.py:1265
 msgid "The provided API key is invalid"
@@ -440,12 +426,10 @@ msgstr ""
 "rete."
 
 #: dialect/window.py:521
-#, fuzzy
 msgid "A network issue has occurred. Retry?"
 msgstr "Si è verificato un problema di rete. Vuoi riprovare?"
 
 #: dialect/window.py:535
-#, fuzzy
 msgid "A network issue has occurred. Please try again."
 msgstr "Si è verificato un problema di rete. Per favore riprova."
 
