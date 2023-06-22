@@ -17,5 +17,5 @@ jobs:
           committer_name: GitHub Actions
           committer_email: actions@github.com
           message: "Update languages names translations"
-          add: ["cldr-langs/*.po", "cldr-langs/LINGUAS"]
+          add: "['cldr-langs/*.po', 'cldr-langs/LINGUAS']"
 
