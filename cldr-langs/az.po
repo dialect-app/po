@@ -1,0 +1,1693 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dialect-cldr-langs\n"
+"Language: az\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Afar"
+msgstr "afar"
+
+msgid "Abkhazian"
+msgstr "abxaz"
+
+msgid "Achinese"
+msgstr "akin"
+
+msgid "Acoli"
+msgstr "akoli"
+
+msgid "Adangme"
+msgstr "adanqme"
+
+msgid "Adyghe"
+msgstr "adıgey"
+
+msgid "Avestan"
+msgstr "avestan"
+
+msgid "Afrikaans"
+msgstr "afrikaans"
+
+msgid "Afrihili"
+msgstr "afrihili"
+
+msgid "Aghem"
+msgstr "aqhem"
+
+msgid "Ainu"
+msgstr "aynu"
+
+msgid "Akan"
+msgstr "akan"
+
+msgid "Akkadian"
+msgstr "akkad"
+
+msgid "Aleut"
+msgstr "aleut"
+
+msgid "Southern Altai"
+msgstr "cənubi altay"
+
+msgid "Amharic"
+msgstr "amhar"
+
+msgid "Aragonese"
+msgstr "araqon"
+
+msgid "Old English"
+msgstr "qədim ingilis"
+
+msgid "Obolo"
+msgstr "obolo"
+
+msgid "Angika"
+msgstr "angika"
+
+msgid "Arabic"
+msgstr "ərəb"
+
+msgid "Modern Standard Arabic"
+msgstr "müasir standart ərəb"
+
+msgid "Aramaic"
+msgstr "aramik"
+
+msgid "Mapuche"
+msgstr "mapuçe"
+
+msgid "Arapaho"
+msgstr "arapaho"
+
+msgid "Najdi Arabic"
+msgstr "Nəcd ərəbcəsi"
+
+msgid "Arawak"
+msgstr "aravak"
+
+msgid "Assamese"
+msgstr "assam"
+
+msgid "Asu"
+msgstr "asu"
+
+msgid "Asturian"
+msgstr "asturiya"
+
+msgid "Atikamekw"
+msgstr "Atikamek"
+
+msgid "Avaric"
+msgstr "avar"
+
+msgid "Awadhi"
+msgstr "avadhi"
+
+msgid "Aymara"
+msgstr "aymara"
+
+msgid "Azerbaijani"
+msgstr "azərbaycan"
+
+msgid "Azeri"
+msgstr "azəri"
+
+msgid "Bashkir"
+msgstr "başqırd"
+
+msgid "Baluchi"
+msgstr "baluc"
+
+msgid "Balinese"
+msgstr "bali"
+
+msgid "Basaa"
+msgstr "basa"
+
+msgid "Belarusian"
+msgstr "belarus"
+
+msgid "Beja"
+msgstr "beja"
+
+msgid "Bemba"
+msgstr "bemba"
+
+msgid "Bena"
+msgstr "bena"
+
+msgid "Bulgarian"
+msgstr "bolqar"
+
+msgid "Western Balochi"
+msgstr "qərbi bəluc"
+
+msgid "Bhojpuri"
+msgstr "bxoçpuri"
+
+msgid "Bislama"
+msgstr "bislama"
+
+msgid "Bikol"
+msgstr "bikol"
+
+msgid "Bini"
+msgstr "bini"
+
+msgid "Siksiká"
+msgstr "siksikə"
+
+msgid "Bambara"
+msgstr "bambara"
+
+msgid "Bangla"
+msgstr "benqal"
+
+msgid "Tibetan"
+msgstr "tibet"
+
+msgid "Breton"
+msgstr "breton"
+
+msgid "Braj"
+msgstr "braj"
+
+msgid "Bodo"
+msgstr "bodo"
+
+msgid "Bosnian"
+msgstr "bosniya"
+
+msgid "Buriat"
+msgstr "buryat"
+
+msgid "Buginese"
+msgstr "bugin"
+
+msgid "Blin"
+msgstr "blin"
+
+msgid "Catalan"
+msgstr "katalan"
+
+msgid "Caddo"
+msgstr "keddo"
+
+msgid "Carib"
+msgstr "karib"
+
+msgid "Cayuga"
+msgstr "Kayuqa"
+
+msgid "Atsam"
+msgstr "atsam"
+
+msgid "Chakma"
+msgstr "Çakma"
+
+msgid "Chechen"
+msgstr "çeçen"
+
+msgid "Cebuano"
+msgstr "sebuan"
+
+msgid "Chiga"
+msgstr "çiqa"
+
+msgid "Chamorro"
+msgstr "çamoro"
+
+msgid "Chibcha"
+msgstr "çibça"
+
+msgid "Chagatai"
+msgstr "çağatay"
+
+msgid "Chuukese"
+msgstr "çukiz"
+
+msgid "Mari"
+msgstr "mari"
+
+msgid "Chinook Jargon"
+msgstr "çinuk ləhçəsi"
+
+msgid "Choctaw"
+msgstr "çoktau"
+
+msgid "Chipewyan"
+msgstr "çipevyan"
+
+msgid "Cherokee"
+msgstr "çeroki"
+
+msgid "Cheyenne"
+msgstr "çeyen"
+
+msgid "Central Kurdish"
+msgstr "Mərkəzi kürdcə"
+
+msgid "Kurdish, Central"
+msgstr "Kürdcə, mərkəzi"
+
+msgid "Kurdish, Sorani"
+msgstr "Kürdcə, sorani"
+
+msgid "Chilcotin"
+msgstr "Çilotin"
+
+msgid "Corsican"
+msgstr "korsika"
+
+msgid "Coptic"
+msgstr "kopt"
+
+msgid "Cree"
+msgstr "kri"
+
+msgid "Michif"
+msgstr "miçif"
+
+msgid "Crimean Tatar"
+msgstr "krım türkcəsi"
+
+msgid "Southern East Cree"
+msgstr "cənub-şərqi kri"
+
+msgid "Plains Cree"
+msgstr "ova kricəsi"
+
+msgid "Northern East Cree"
+msgstr "şimal-şəqri kri"
+
+msgid "Moose Cree"
+msgstr "muz kri"
+
+msgid "Carolina Algonquian"
+msgstr "Karolina alonkincəsi"
+
+msgid "Seselwa Creole French"
+msgstr "Seyşel kreol fransızcası"
+
+msgid "Czech"
+msgstr "çex"
+
+msgid "Kashubian"
+msgstr "kaşubyan"
+
+msgid "Swampy Cree"
+msgstr "bataqlıq kricəsi"
+
+msgid "Church Slavic"
+msgstr "slavyan"
+
+msgid "Chuvash"
+msgstr "çuvaş"
+
+msgid "Welsh"
+msgstr "uels"
+
+msgid "Danish"
+msgstr "danimarka"
+
+msgid "Dakota"
+msgstr "dakota"
+
+msgid "Dargwa"
+msgstr "darqva"
+
+msgid "Taita"
+msgstr "taita"
+
+msgid "German"
+msgstr "alman"
+
+msgid "Austrian German"
+msgstr "Avstriya almancası"
+
+msgid "Swiss High German"
+msgstr "İsveçrə yüksək almancası"
+
+msgid "Delaware"
+msgstr "delaver"
+
+msgid "Slave"
+msgstr "slavey"
+
+msgid "Dogrib"
+msgstr "doqrib"
+
+msgid "Dinka"
+msgstr "dinka"
+
+msgid "Zarma"
+msgstr "zarma"
+
+msgid "Dogri"
+msgstr "doqri"
+
+msgid "Lower Sorbian"
+msgstr "aşağı sorb"
+
+msgid "Duala"
+msgstr "duala"
+
+msgid "Middle Dutch"
+msgstr "orta holland"
+
+msgid "Divehi"
+msgstr "maldiv"
+
+msgid "Jola-Fonyi"
+msgstr "diola"
+
+msgid "Dyula"
+msgstr "dyula"
+
+msgid "Dzongkha"
+msgstr "dzonqxa"
+
+msgid "Dazaga"
+msgstr "dazaqa"
+
+msgid "Embu"
+msgstr "embu"
+
+msgid "Ewe"
+msgstr "eve"
+
+msgid "Efik"
+msgstr "efik"
+
+msgid "Ancient Egyptian"
+msgstr "qədim misir"
+
+msgid "Ekajuk"
+msgstr "ekacuk"
+
+msgid "Greek"
+msgstr "yunan"
+
+msgid "Elamite"
+msgstr "elamit"
+
+msgid "English"
+msgstr "ingilis"
+
+msgid "Australian English"
+msgstr "Avstraliya ingiliscəsi"
+
+msgid "Canadian English"
+msgstr "Kanada ingiliscəsi"
+
+msgid "British English"
+msgstr "Britaniya ingiliscəsi"
+
+msgid "UK English"
+msgstr "ingilis (BK)"
+
+msgid "American English"
+msgstr "Amerika ingiliscəsi"
+
+msgid "US English"
+msgstr "ingilis (ABŞ)"
+
+msgid "Middle English"
+msgstr "orta ingilis"
+
+msgid "Esperanto"
+msgstr "esperanto"
+
+msgid "Spanish"
+msgstr "ispan"
+
+msgid "Latin American Spanish"
+msgstr "Latın Amerikası ispancası"
+
+msgid "European Spanish"
+msgstr "Kastiliya ispancası"
+
+msgid "Mexican Spanish"
+msgstr "Meksika ispancası"
+
+msgid "Estonian"
+msgstr "eston"
+
+msgid "Basque"
+msgstr "bask"
+
+msgid "Ewondo"
+msgstr "evondo"
+
+msgid "Persian"
+msgstr "fars"
+
+msgid "Dari"
+msgstr "dari"
+
+msgid "Fang"
+msgstr "fang"
+
+msgid "Fanti"
+msgstr "fanti"
+
+msgid "Fula"
+msgstr "fula"
+
+msgid "Finnish"
+msgstr "fin"
+
+msgid "Filipino"
+msgstr "filippin"
+
+msgid "Fijian"
+msgstr "fici"
+
+msgid "Faroese"
+msgstr "farer"
+
+msgid "Fon"
+msgstr "fon"
+
+msgid "French"
+msgstr "fransız"
+
+msgid "Canadian French"
+msgstr "Kanada fransızcası"
+
+msgid "Swiss French"
+msgstr "İsveçrə fransızcası"
+
+msgid "Cajun French"
+msgstr "Kacun fransızcası"
+
+msgid "Middle French"
+msgstr "orta fransız"
+
+msgid "Old French"
+msgstr "qədim fransız"
+
+msgid "Northern Frisian"
+msgstr "şimali fris"
+
+msgid "Friulian"
+msgstr "friul"
+
+msgid "Western Frisian"
+msgstr "qərbi friz"
+
+msgid "Irish"
+msgstr "irland"
+
+msgid "Ga"
+msgstr "qa"
+
+msgid "Gagauz"
+msgstr "qaqauz"
+
+msgid "Gan Chinese"
+msgstr "qan"
+
+msgid "Gayo"
+msgstr "qayo"
+
+msgid "Gbaya"
+msgstr "qabaya"
+
+msgid "Scottish Gaelic"
+msgstr "Şotlandiya keltcəsi"
+
+msgid "Geez"
+msgstr "qez"
+
+msgid "Gilbertese"
+msgstr "qilbert"
+
+msgid "Galician"
+msgstr "qalisiya"
+
+msgid "Middle High German"
+msgstr "orta yüksək alman"
+
+msgid "Guarani"
+msgstr "quarani"
+
+msgid "Old High German"
+msgstr "qədim alman"
+
+msgid "Gondi"
+msgstr "qondi"
+
+msgid "Gorontalo"
+msgstr "qorontalo"
+
+msgid "Gothic"
+msgstr "qotika"
+
+msgid "Grebo"
+msgstr "qrebo"
+
+msgid "Ancient Greek"
+msgstr "qədim yunan"
+
+msgid "Swiss German"
+msgstr "İsveçrə almancası"
+
+msgid "Gujarati"
+msgstr "qucarat"
+
+msgid "Gusii"
+msgstr "qusi"
+
+msgid "Manx"
+msgstr "manks"
+
+msgid "Gwichʼin"
+msgstr "qviçin"
+
+msgid "Hausa"
+msgstr "hausa"
+
+msgid "Haida"
+msgstr "hayda"
+
+msgid "Hakka Chinese"
+msgstr "hakka"
+
+msgid "Hawaiian"
+msgstr "havay"
+
+msgid "Southern Haida"
+msgstr "cənubi haida"
+
+msgid "Hebrew"
+msgstr "ivrit"
+
+msgid "Hindi"
+msgstr "hind"
+
+msgid "Hindi (Latin)"
+msgstr "Hindi (latın)"
+
+msgid "Hinglish"
+msgstr "Hindi (latın)"
+
+msgid "Hiligaynon"
+msgstr "hiliqaynon"
+
+msgid "Hittite"
+msgstr "hittit"
+
+msgid "Hmong"
+msgstr "monq"
+
+msgid "Hiri Motu"
+msgstr "hiri motu"
+
+msgid "Croatian"
+msgstr "xorvat"
+
+msgid "Upper Sorbian"
+msgstr "yuxarı sorb"
+
+msgid "Xiang Chinese"
+msgstr "syan"
+
+msgid "Haitian Creole"
+msgstr "haiti kreol"
+
+msgid "Hungarian"
+msgstr "macar"
+
+msgid "Hupa"
+msgstr "hupa"
+
+msgid "Halkomelem"
+msgstr "Halkomelem"
+
+msgid "Armenian"
+msgstr "erməni"
+
+msgid "Herero"
+msgstr "herero"
+
+msgid "Interlingua"
+msgstr "interlinqua"
+
+msgid "Iban"
+msgstr "iban"
+
+msgid "Ibibio"
+msgstr "ibibio"
+
+msgid "Indonesian"
+msgstr "indoneziya"
+
+msgid "Interlingue"
+msgstr "interlinqve"
+
+msgid "Igbo"
+msgstr "iqbo"
+
+msgid "Sichuan Yi"
+msgstr "siçuan yi"
+
+msgid "Inupiaq"
+msgstr "inupiaq"
+
+msgid "Western Canadian Inuktitut"
+msgstr "qərbi Kanada inuktitutu"
+
+msgid "Iloko"
+msgstr "iloko"
+
+msgid "Ingush"
+msgstr "inquş"
+
+msgid "Ido"
+msgstr "ido"
+
+msgid "Icelandic"
+msgstr "island"
+
+msgid "Italian"
+msgstr "italyan"
+
+msgid "Inuktitut"
+msgstr "inuktitut"
+
+msgid "Japanese"
+msgstr "yapon"
+
+msgid "Lojban"
+msgstr "loğban"
+
+msgid "Ngomba"
+msgstr "nqomba"
+
+msgid "Machame"
+msgstr "maçam"
+
+msgid "Judeo-Persian"
+msgstr "ivrit-fars"
+
+msgid "Judeo-Arabic"
+msgstr "ivrit-ərəb"
+
+msgid "Javanese"
+msgstr "yava"
+
+msgid "Georgian"
+msgstr "gürcü"
+
+msgid "Kara-Kalpak"
+msgstr "qaraqalpaq"
+
+msgid "Kabyle"
+msgstr "kabile"
+
+msgid "Kachin"
+msgstr "kaçin"
+
+msgid "Jju"
+msgstr "ju"
+
+msgid "Kamba"
+msgstr "kamba"
+
+msgid "Kawi"
+msgstr "kavi"
+
+msgid "Kabardian"
+msgstr "kabarda-çərkəz"
+
+msgid "Tyap"
+msgstr "tiyap"
+
+msgid "Makonde"
+msgstr "makond"
+
+msgid "Kabuverdianu"
+msgstr "kabuverdian"
+
+msgid "Koro"
+msgstr "koro"
+
+msgid "Kongo"
+msgstr "konqo"
+
+msgid "Kaingang"
+msgstr "kaiqanq"
+
+msgid "Khasi"
+msgstr "xazi"
+
+msgid "Khotanese"
+msgstr "xotan"
+
+msgid "Koyra Chiini"
+msgstr "koyra çiini"
+
+msgid "Kikuyu"
+msgstr "kikuyu"
+
+msgid "Kuanyama"
+msgstr "kuanyama"
+
+msgid "Kazakh"
+msgstr "qazax"
+
+msgid "Kako"
+msgstr "kako"
+
+msgid "Kalaallisut"
+msgstr "kalaallisut"
+
+msgid "Kalenjin"
+msgstr "kalencin"
+
+msgid "Khmer"
+msgstr "kxmer"
+
+msgid "Kimbundu"
+msgstr "kimbundu"
+
+msgid "Kannada"
+msgstr "kannada"
+
+msgid "Korean"
+msgstr "koreya"
+
+msgid "Komi-Permyak"
+msgstr "komi-permyak"
+
+msgid "Konkani"
+msgstr "konkani"
+
+msgid "Kosraean"
+msgstr "kosreyan"
+
+msgid "Kpelle"
+msgstr "kpelle"
+
+msgid "Kanuri"
+msgstr "kanuri"
+
+msgid "Karachay-Balkar"
+msgstr "qaraçay-balkar"
+
+msgid "Karelian"
+msgstr "karel"
+
+msgid "Kurukh"
+msgstr "kurux"
+
+msgid "Kashmiri"
+msgstr "kəşmir"
+
+msgid "Shambala"
+msgstr "şambala"
+
+msgid "Bafia"
+msgstr "bafia"
+
+msgid "Colognian"
+msgstr "köln"
+
+msgid "Kurdish"
+msgstr "kürd"
+
+msgid "Kumyk"
+msgstr "kumık"
+
+msgid "Kutenai"
+msgstr "kutenay"
+
+msgid "Komi"
+msgstr "komi"
+
+msgid "Cornish"
+msgstr "korn"
+
+msgid "Kwakʼwala"
+msgstr "Kvakvala"
+
+msgid "Kyrgyz"
+msgstr "qırğız"
+
+msgid "Latin"
+msgstr "latın"
+
+msgid "Ladino"
+msgstr "sefard"
+
+msgid "Langi"
+msgstr "langi"
+
+msgid "Western Panjabi"
+msgstr "qərbi pəncab"
+
+msgid "Lamba"
+msgstr "lamba"
+
+msgid "Luxembourgish"
+msgstr "lüksemburq"
+
+msgid "Lezghian"
+msgstr "ləzgi"
+
+msgid "Ganda"
+msgstr "qanda"
+
+msgid "Limburgish"
+msgstr "limburq"
+
+msgid "Lillooet"
+msgstr "Liluet"
+
+msgid "Lakota"
+msgstr "lakota"
+
+msgid "Lingala"
+msgstr "linqala"
+
+msgid "Lao"
+msgstr "laos"
+
+msgid "Mongo"
+msgstr "monqo"
+
+msgid "Louisiana Creole"
+msgstr "Luiziana kreolu"
+
+msgid "Lozi"
+msgstr "lozi"
+
+msgid "Northern Luri"
+msgstr "şimali luri"
+
+msgid "Saamia"
+msgstr "saamia"
+
+msgid "Lithuanian"
+msgstr "litva"
+
+msgid "Luba-Katanga"
+msgstr "luba-katanqa"
+
+msgid "Luba-Lulua"
+msgstr "luba-lulua"
+
+msgid "Luiseno"
+msgstr "luyseno"
+
+msgid "Lunda"
+msgstr "lunda"
+
+msgid "Luo"
+msgstr "luo"
+
+msgid "Mizo"
+msgstr "mizo"
+
+msgid "Luyia"
+msgstr "luyia"
+
+msgid "Latvian"
+msgstr "latış"
+
+msgid "Madurese"
+msgstr "maduriz"
+
+msgid "Magahi"
+msgstr "maqahi"
+
+msgid "Maithili"
+msgstr "maitili"
+
+msgid "Makasar"
+msgstr "makasar"
+
+msgid "Mandingo"
+msgstr "məndinqo"
+
+msgid "Masai"
+msgstr "masay"
+
+msgid "Moksha"
+msgstr "mokşa"
+
+msgid "Mandar"
+msgstr "mandar"
+
+msgid "Mende"
+msgstr "mende"
+
+msgid "Meru"
+msgstr "meru"
+
+msgid "Morisyen"
+msgstr "morisien"
+
+msgid "Malagasy"
+msgstr "malaqas"
+
+msgid "Middle Irish"
+msgstr "orta irland"
+
+msgid "Makhuwa-Meetto"
+msgstr "maxuva-meetto"
+
+msgid "Metaʼ"
+msgstr "meta’"
+
+msgid "Marshallese"
+msgstr "marşal"
+
+msgid "Māori"
+msgstr "māori"
+
+msgid "Mi'kmaq"
+msgstr "mikmak"
+
+msgid "Minangkabau"
+msgstr "minanqkaban"
+
+msgid "Macedonian"
+msgstr "makedon"
+
+msgid "Malayalam"
+msgstr "malayalam"
+
+msgid "Mongolian"
+msgstr "monqol"
+
+msgid "Manchu"
+msgstr "mançu"
+
+msgid "Manipuri"
+msgstr "manipüri"
+
+msgid "Innu-aimun"
+msgstr "İnnu-aimun"
+
+msgid "Mohawk"
+msgstr "mohavk"
+
+msgid "Mossi"
+msgstr "mosi"
+
+msgid "Marathi"
+msgstr "marathi"
+
+msgid "Malay"
+msgstr "malay"
+
+msgid "Maltese"
+msgstr "malta"
+
+msgid "Mundang"
+msgstr "mundanq"
+
+msgid "Multiple languages"
+msgstr "çoxsaylı dillər"
+
+msgid "Muscogee"
+msgstr "krik"
+
+msgid "Mirandese"
+msgstr "mirand"
+
+msgid "Marwari"
+msgstr "maruari"
+
+msgid "Burmese"
+msgstr "birman"
+
+msgid "Erzya"
+msgstr "erzya"
+
+msgid "Mazanderani"
+msgstr "mazandaran"
+
+msgid "Nauru"
+msgstr "nauru"
+
+msgid "Min Nan Chinese"
+msgstr "Min Nan"
+
+msgid "Neapolitan"
+msgstr "neapolitan"
+
+msgid "Nama"
+msgstr "nama"
+
+msgid "Norwegian Bokmål"
+msgstr "bokmal norveç"
+
+msgid "North Ndebele"
+msgstr "şimali ndebele"
+
+msgid "Low German"
+msgstr "aşağı alman"
+
+msgid "Low Saxon"
+msgstr "aşağı sakson"
+
+msgid "Nepali"
+msgstr "nepal"
+
+msgid "Newari"
+msgstr "nevari"
+
+msgid "Ndonga"
+msgstr "ndonqa"
+
+msgid "Nias"
+msgstr "nias"
+
+msgid "Niuean"
+msgstr "niyuan"
+
+msgid "Dutch"
+msgstr "holland"
+
+msgid "Flemish"
+msgstr "flamand"
+
+msgid "Kwasio"
+msgstr "kvasio"
+
+msgid "Norwegian Nynorsk"
+msgstr "nünorsk norveç"
+
+msgid "Ngiemboon"
+msgstr "ngiemboon"
+
+msgid "Norwegian"
+msgstr "norveç"
+
+msgid "Nogai"
+msgstr "noqay"
+
+msgid "Old Norse"
+msgstr "qədim nors"
+
+msgid "N’Ko"
+msgstr "nko"
+
+msgid "South Ndebele"
+msgstr "cənubi ndebele"
+
+msgid "Northern Sotho"
+msgstr "şimal soto"
+
+msgid "Nuer"
+msgstr "nuer"
+
+msgid "Navajo"
+msgstr "navayo"
+
+msgid "Nyanja"
+msgstr "nyanca"
+
+msgid "Nyamwezi"
+msgstr "nyamvezi"
+
+msgid "Nyankole"
+msgstr "nyankol"
+
+msgid "Nyoro"
+msgstr "nyoro"
+
+msgid "Nzima"
+msgstr "nzima"
+
+msgid "Occitan"
+msgstr "oksitan"
+
+msgid "Ojibwa"
+msgstr "ocibva"
+
+msgid "Northwestern Ojibwa"
+msgstr "şimal-qərbi ocibva"
+
+msgid "Central Ojibwa"
+msgstr "Mərkəzi ocibva"
+
+msgid "Oji-Cree"
+msgstr "ocikri"
+
+msgid "Western Ojibwa"
+msgstr "qərbi ocibva"
+
+msgid "Okanagan"
+msgstr "okanaqan"
+
+msgid "Oromo"
+msgstr "oromo"
+
+msgid "Odia"
+msgstr "odiya"
+
+msgid "Ossetic"
+msgstr "osetin"
+
+msgid "Osage"
+msgstr "osage"
+
+msgid "Ottoman Turkish"
+msgstr "osman"
+
+msgid "Punjabi"
+msgstr "pəncab"
+
+msgid "Pangasinan"
+msgstr "panqasinan"
+
+msgid "Pahlavi"
+msgstr "pəhləvi"
+
+msgid "Pampanga"
+msgstr "pampanqa"
+
+msgid "Papiamento"
+msgstr "papyamento"
+
+msgid "Palauan"
+msgstr "palayan"
+
+msgid "Nigerian Pidgin"
+msgstr "niger kreol"
+
+msgid "Old Persian"
+msgstr "qədim fars"
+
+msgid "Phoenician"
+msgstr "foyenik"
+
+msgid "Pali"
+msgstr "pali"
+
+msgid "Pijin"
+msgstr "picin"
+
+msgid "Polish"
+msgstr "polyak"
+
+msgid "Pohnpeian"
+msgstr "ponpey"
+
+msgid "Maliseet-Passamaquoddy"
+msgstr "malesit-passamakvodi"
+
+msgid "Prussian"
+msgstr "pruss"
+
+msgid "Old Provençal"
+msgstr "qədim provansal"
+
+msgid "Pashto"
+msgstr "puştu"
+
+msgid "Portuguese"
+msgstr "portuqal"
+
+msgid "Brazilian Portuguese"
+msgstr "Braziliya portuqalcası"
+
+msgid "European Portuguese"
+msgstr "Portuqaliya portuqalcası"
+
+msgid "Quechua"
+msgstr "keçua"
+
+msgid "Kʼicheʼ"
+msgstr "kiçe"
+
+msgid "Rajasthani"
+msgstr "racastani"
+
+msgid "Rapanui"
+msgstr "rapanui"
+
+msgid "Rarotongan"
+msgstr "rarotonqan"
+
+msgid "Rohingya"
+msgstr "Rohinca"
+
+msgid "Romansh"
+msgstr "romanş"
+
+msgid "Rundi"
+msgstr "rundi"
+
+msgid "Romanian"
+msgstr "rumın"
+
+msgid "Moldavian"
+msgstr "moldav"
+
+msgid "Rombo"
+msgstr "rombo"
+
+msgid "Romany"
+msgstr "roman"
+
+msgid "Russian"
+msgstr "rus"
+
+msgid "Aromanian"
+msgstr "aroman"
+
+msgid "Kinyarwanda"
+msgstr "kinyarvanda"
+
+msgid "Rwa"
+msgstr "rua"
+
+msgid "Sanskrit"
+msgstr "sanskrit"
+
+msgid "Sandawe"
+msgstr "sandave"
+
+msgid "Yakut"
+msgstr "saxa"
+
+msgid "Samaritan Aramaic"
+msgstr "samaritan"
+
+msgid "Samburu"
+msgstr "samburu"
+
+msgid "Sasak"
+msgstr "sasak"
+
+msgid "Santali"
+msgstr "santal"
+
+msgid "Ngambay"
+msgstr "nqambay"
+
+msgid "Sangu"
+msgstr "sanqu"
+
+msgid "Sardinian"
+msgstr "sardin"
+
+msgid "Sicilian"
+msgstr "siciliya"
+
+msgid "Scots"
+msgstr "skots"
+
+msgid "Sindhi"
+msgstr "sindhi"
+
+msgid "Southern Kurdish"
+msgstr "cənubi kürd"
+
+msgid "Northern Sami"
+msgstr "şimali sami"
+
+msgid "Sena"
+msgstr "sena"
+
+msgid "Selkup"
+msgstr "selkup"
+
+msgid "Koyraboro Senni"
+msgstr "koyraboro senni"
+
+msgid "Sango"
+msgstr "sanqo"
+
+msgid "Old Irish"
+msgstr "qədim irland"
+
+msgid "Serbo-Croatian"
+msgstr "serb-xorvat"
+
+msgid "Tachelhit"
+msgstr "taçelit"
+
+msgid "Shan"
+msgstr "şan"
+
+msgid "Sinhala"
+msgstr "sinhala"
+
+msgid "Sidamo"
+msgstr "sidamo"
+
+msgid "Slovak"
+msgstr "slovak"
+
+msgid "Slovenian"
+msgstr "sloven"
+
+msgid "Southern Lushootseed"
+msgstr "cənubi luşusid"
+
+msgid "Samoan"
+msgstr "samoa"
+
+msgid "Southern Sami"
+msgstr "cənubi sami"
+
+msgid "Lule Sami"
+msgstr "lule sami"
+
+msgid "Inari Sami"
+msgstr "inari sami"
+
+msgid "Skolt Sami"
+msgstr "skolt sami"
+
+msgid "Shona"
+msgstr "şona"
+
+msgid "Soninke"
+msgstr "soninke"
+
+msgid "Somali"
+msgstr "somali"
+
+msgid "Sogdien"
+msgstr "soqdiyen"
+
+msgid "Albanian"
+msgstr "alban"
+
+msgid "Serbian"
+msgstr "serb"
+
+msgid "Sranan Tongo"
+msgstr "sranan tonqo"
+
+msgid "Serer"
+msgstr "serer"
+
+msgid "Swati"
+msgstr "svati"
+
+msgid "Saho"
+msgstr "saho"
+
+msgid "Southern Sotho"
+msgstr "sesoto"
+
+msgid "Straits Salish"
+msgstr "streyts saliş"
+
+msgid "Sundanese"
+msgstr "sundan"
+
+msgid "Sukuma"
+msgstr "sukuma"
+
+msgid "Susu"
+msgstr "susu"
+
+msgid "Sumerian"
+msgstr "sumeryan"
+
+msgid "Swedish"
+msgstr "isveç"
+
+msgid "Swahili"
+msgstr "suahili"
+
+msgid "Congo Swahili"
+msgstr "Konqo suahilicəsi"
+
+msgid "Comorian"
+msgstr "komor"
+
+msgid "Syriac"
+msgstr "suriya"
+
+msgid "Tamil"
+msgstr "tamil"
+
+msgid "Southern Tutchone"
+msgstr "cənubi tuçon"
+
+msgid "Telugu"
+msgstr "teluqu"
+
+msgid "Timne"
+msgstr "timne"
+
+msgid "Teso"
+msgstr "teso"
+
+msgid "Tereno"
+msgstr "tereno"
+
+msgid "Tetum"
+msgstr "tetum"
+
+msgid "Tajik"
+msgstr "tacik"
+
+msgid "Tagish"
+msgstr "taq"
+
+msgid "Thai"
+msgstr "tay"
+
+msgid "Tahltan"
+msgstr "taltan"
+
+msgid "Tigrinya"
+msgstr "tiqrin"
+
+msgid "Tigre"
+msgstr "tiqre"
+
+msgid "Tiv"
+msgstr "tiv"
+
+msgid "Turkmen"
+msgstr "türkmən"
+
+msgid "Tokelau"
+msgstr "tokelay"
+
+msgid "Tagalog"
+msgstr "taqaloq"
+
+msgid "Klingon"
+msgstr "klinqon"
+
+msgid "Tlingit"
+msgstr "tlinqit"
+
+msgid "Tamashek"
+msgstr "tamaşek"
+
+msgid "Tswana"
+msgstr "svana"
+
+msgid "Tongan"
+msgstr "tonqa"
+
+msgid "Nyasa Tonga"
+msgstr "nyasa tonqa"
+
+msgid "Toki Pona"
+msgstr "tokipona"
+
+msgid "Tok Pisin"
+msgstr "tok pisin"
+
+msgid "Turkish"
+msgstr "türk"
+
+msgid "Taroko"
+msgstr "taroko"
+
+msgid "Tsonga"
+msgstr "sonqa"
+
+msgid "Tsimshian"
+msgstr "simşyan"
+
+msgid "Tatar"
+msgstr "tatar"
+
+msgid "Northern Tutchone"
+msgstr "şimali tuçon"
+
+msgid "Tumbuka"
+msgstr "tumbuka"
+
+msgid "Tuvalu"
+msgstr "tuvalu"
+
+msgid "Twi"
+msgstr "tvi"
+
+msgid "Tasawaq"
+msgstr "tasavaq"
+
+msgid "Tahitian"
+msgstr "taxiti"
+
+msgid "Tuvinian"
+msgstr "tuvinyan"
+
+msgid "Central Atlas Tamazight"
+msgstr "Mərkəzi Atlas tamazicəsi"
+
+msgid "Udmurt"
+msgstr "udmurt"
+
+msgid "Uyghur"
+msgstr "uyğur"
+
+msgid "Ugaritic"
+msgstr "uqarit"
+
+msgid "Ukrainian"
+msgstr "ukrayna"
+
+msgid "Umbundu"
+msgstr "umbundu"
+
+msgid "Unknown language"
+msgstr "naməlum dil"
+
+msgid "Urdu"
+msgstr "urdu"
+
+msgid "Uzbek"
+msgstr "özbək"
+
+msgid "Vai"
+msgstr "vai"
+
+msgid "Venda"
+msgstr "venda"
+
+msgid "Vietnamese"
+msgstr "vyetnam"
+
+msgid "Volapük"
+msgstr "volapük"
+
+msgid "Votic"
+msgstr "votik"
+
+msgid "Vunjo"
+msgstr "vunyo"
+
+msgid "Walloon"
+msgstr "valun"
+
+msgid "Walser"
+msgstr "valles"
+
+msgid "Wolaytta"
+msgstr "valamo"
+
+msgid "Waray"
+msgstr "varay"
+
+msgid "Washo"
+msgstr "vaşo"
+
+msgid "Warlpiri"
+msgstr "valpiri"
+
+msgid "Wolof"
+msgstr "volof"
+
+msgid "Wu Chinese"
+msgstr "vu"
+
+msgid "Kalmyk"
+msgstr "kalmık"
+
+msgid "Xhosa"
+msgstr "xosa"
+
+msgid "Soga"
+msgstr "soqa"
+
+msgid "Yao"
+msgstr "yao"
+
+msgid "Yapese"
+msgstr "yapiz"
+
+msgid "Yangben"
+msgstr "yanqben"
+
+msgid "Yemba"
+msgstr "yemba"
+
+msgid "Yiddish"
+msgstr "idiş"
+
+msgid "Yoruba"
+msgstr "yoruba"
+
+msgid "Nheengatu"
+msgstr "nyenqatu"
+
+msgid "Cantonese"
+msgstr "kanton"
+
+msgid "Chinese, Cantonese"
+msgstr "Çin, kanton"
+
+msgid "Zhuang"
+msgstr "çjuan"
+
+msgid "Zapotec"
+msgstr "zapotek"
+
+msgid "Blissymbols"
+msgstr "blisimbols"
+
+msgid "Zenaga"
+msgstr "zenaqa"
+
+msgid "Standard Moroccan Tamazight"
+msgstr "tamazi"
+
+msgid "Chinese"
+msgstr "çin"
+
+msgid "Chinese, Mandarin"
+msgstr "Çin, mandarin"
+
+msgid "Simplified Chinese"
+msgstr "sadələşmiş çin"
+
+msgid "Simplified Mandarin Chinese"
+msgstr "sadələşmiş mandarin çincəsi"
+
+msgid "Traditional Chinese"
+msgstr "ənənəvi çin"
+
+msgid "Traditional Mandarin Chinese"
+msgstr "ənənəvi mandarin çincəsi"
+
+msgid "Zulu"
+msgstr "zulu"
+
+msgid "Zuni"
+msgstr "zuni"
+
+msgid "No linguistic content"
+msgstr "dil məzmunu yoxdur"
+
+msgid "Zaza"
+msgstr "zaza"
