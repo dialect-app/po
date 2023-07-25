@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: 2022-06-30 01:14+0000\n"
+"PO-Revision-Date: 2023-07-25 20:04+0000\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/dialect/dialect/"
 "fi/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13.1-dev\n"
+"X-Generator: Weblate 5.0-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -61,14 +61,12 @@ msgid "Translation based on Lingva Translate API"
 msgstr "Käännökset pohjautuen Lingva Translate -rajapintaan"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr "Käännökset pohjautuen Lingva Translate -rajapintaan"
+msgstr "Käännös pohjautuen Bingiin"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "Käännökset pohjautuen Google Translate -palveluun"
+msgstr "Käännös pohjautuen Yandexiin"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
@@ -104,9 +102,8 @@ msgid "Search Languages…"
 msgstr "Etsi kieliä…"
 
 #: data/resources/preferences.ui:12
-#, fuzzy
 msgid "Providers"
-msgstr "Hakupalvelu"
+msgstr "Palveluntarjoajat"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
@@ -121,9 +118,8 @@ msgid "Text-to-Speech"
 msgstr "Tekstistä puheeksi"
 
 #: data/resources/preferences.ui:48
-#, fuzzy
 msgid "Choose from the available TTS services."
-msgstr "Valitse saatavilla olevista käännöspalveluista."
+msgstr "Valitse saatavilla olevista TTS-palveluista."
 
 #: data/resources/preferences.ui:81
 msgid "Behavior"
@@ -164,7 +160,7 @@ msgstr "Käytä oletuskielenä \"Automaattinen\"-valintaa"
 
 #: data/resources/provider-preferences.blp:25
 msgid "Instance URL"
-msgstr ""
+msgstr "Instanssin URL-osoite"
 
 #: data/resources/provider-preferences.blp:26
 #, fuzzy
@@ -173,7 +169,6 @@ msgstr "Anna käännöspalvelun API-avain."
 
 #: data/resources/provider-preferences.blp:36
 #: data/resources/provider-preferences.blp:66
-#, fuzzy
 msgid "Reset to Default"
 msgstr "Palauta oletusarvoon"
 
@@ -182,9 +177,8 @@ msgid "API Key"
 msgstr "API-avain"
 
 #: data/resources/provider-preferences.blp:57
-#, fuzzy
 msgid "Enter an API Key for the Provider."
-msgstr "Anna käännöspalvelun API-avain."
+msgstr "Anna palvelun API-avain."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -267,17 +261,14 @@ msgid "Quit"
 msgstr "Lopeta"
 
 #: data/resources/theme-switcher.blp:20
-#, fuzzy
 msgid "Follow System Style"
 msgstr "Seuraa järjestelmän tyyliä"
 
 #: data/resources/theme-switcher.blp:35
-#, fuzzy
 msgid "Light Style"
 msgstr "Vaalea tyyli"
 
 #: data/resources/theme-switcher.blp:50
-#, fuzzy
 msgid "Dark Style"
 msgstr "Tumma tyyli"
 
@@ -317,30 +308,27 @@ msgstr "Poista avain ja yritä uudelleen"
 
 #: data/resources/window.blp:265 data/resources/window.blp:591
 msgid "Change Source Language"
-msgstr ""
+msgstr "Vaihda lähdekieltä"
 
 #: data/resources/window.blp:270 data/resources/window.blp:599
-#, fuzzy
 msgid "Switch Languages"
 msgstr "Vaihda kieliä"
 
 #: data/resources/window.blp:277 data/resources/window.blp:607
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Vaihda kohdekieltä"
 
 #: data/resources/window.blp:292
-#, fuzzy
 msgid "Previous Translation"
 msgstr "Edellinen käännös"
 
 #: data/resources/window.blp:298
-#, fuzzy
 msgid "Next Translation"
 msgstr "Seuraava käännös"
 
 #: data/resources/window.blp:305
 msgid "Main Menu"
-msgstr ""
+msgstr "Päävalikko"
 
 #: data/resources/window.blp:409
 msgid "Clear"
@@ -363,7 +351,6 @@ msgid "Translating…"
 msgstr "Käännetään…"
 
 #: data/resources/window.blp:519
-#, fuzzy
 msgid "Could not Translate the Text"
 msgstr "Tekstiä ei voitu kääntää"
 
@@ -389,11 +376,11 @@ msgstr "Automaattinen"
 
 #: dialect/preferences.py:121
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Muokkaa palveluntarjoajan asetuksia"
 
 #: dialect/preferences.py:123
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Ei asetuksia tälle palveluntarjoajalle"
 
 #: dialect/window.py:380 dialect/window.py:1265
 msgid "The provided API key is invalid"
@@ -433,12 +420,10 @@ msgid "We can’t connect to the server. Please check for network issues."
 msgstr "Kääntäminen epäonnistui. Tarkista verkkoyhteyden toimivuus."
 
 #: dialect/window.py:521
-#, fuzzy
 msgid "A network issue has occurred. Retry?"
 msgstr "Tapahtui verkkovirhe. Yritetäänkö uudelleen?"
 
 #: dialect/window.py:535
-#, fuzzy
 msgid "A network issue has occurred. Please try again."
 msgstr "Tapahtui verkkovirhe. Yritä uudelleen."
 
