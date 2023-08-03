@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: 2023-05-11 19:51+0000\n"
+"PO-Revision-Date: 2023-08-03 17:03+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/dialect/dialect/"
 "hr/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.0-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -116,7 +116,7 @@ msgstr "Odaberi iz dostupnih usluga prevođenja."
 
 #: data/resources/preferences.ui:47
 msgid "Text-to-Speech"
-msgstr "Tekst u govor"
+msgstr "Tekst-u-govor"
 
 #: data/resources/preferences.ui:48
 msgid "Choose from the available TTS services."
@@ -213,7 +213,7 @@ msgstr "Pokaži izgovor"
 #: data/resources/shortcuts.blp:42
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr "Tekst u govor"
+msgstr "Tekst-u-govor"
 
 #: data/resources/shortcuts.blp:45
 msgctxt "shortcuts window"
