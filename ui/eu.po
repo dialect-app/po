@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: 2022-07-26 11:19+0000\n"
+"PO-Revision-Date: 2023-09-15 13:55+0000\n"
 "Last-Translator: Sergio Varela <sergitroll9@gmail.com>\n"
 "Language-Team: Basque <https://hosted.weblate.org/projects/dialect/dialect/"
 "eu/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14-dev\n"
+"X-Generator: Weblate 5.0.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -61,14 +61,12 @@ msgid "Translation based on Lingva Translate API"
 msgstr "Lingva Translateko API oinarritutako itzulpena"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr "Lingva Translateko API oinarritutako itzulpena"
+msgstr "Bing-etik oinarritutako itzulpena"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "Google Translateko APIren itzulpena"
+msgstr "Yandex-ek eskainitako itzulpena"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
@@ -104,9 +102,8 @@ msgid "Search Languages…"
 msgstr "Bilatu hizkuntzak…"
 
 #: data/resources/preferences.ui:12
-#, fuzzy
 msgid "Providers"
-msgstr "Bilaketa-hornitzailea"
+msgstr "Hornitzaileak"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
@@ -121,9 +118,8 @@ msgid "Text-to-Speech"
 msgstr "Ahozko-testua"
 
 #: data/resources/preferences.ui:48
-#, fuzzy
 msgid "Choose from the available TTS services."
-msgstr "Aukeran dituzun itzulpen-zerbitzuen artean aukeratu."
+msgstr "Aukeratu eskuragarri dauden TTS zerbitzuen artean."
 
 #: data/resources/preferences.ui:81
 msgid "Behavior"
@@ -166,27 +162,24 @@ msgstr "\"Auto\" hizkuntza lehenetsi gisa erabili"
 
 #: data/resources/provider-preferences.blp:25
 msgid "Instance URL"
-msgstr ""
+msgstr "Instantziaren URLa"
 
 #: data/resources/provider-preferences.blp:26
-#, fuzzy
 msgid "Enter an Instance URL for the Provider."
-msgstr "Sartu API giltza bat itzulpen-zerbitzurako."
+msgstr "Sartu instantziaren URL bat hornitzailearentzat."
 
 #: data/resources/provider-preferences.blp:36
 #: data/resources/provider-preferences.blp:66
-#, fuzzy
 msgid "Reset to Default"
-msgstr "Lehenetsitako balioak berrezartu"
+msgstr "Lehenetsitako balioak berrezarri"
 
 #: data/resources/provider-preferences.blp:56
 msgid "API Key"
 msgstr "API giltza"
 
 #: data/resources/provider-preferences.blp:57
-#, fuzzy
 msgid "Enter an API Key for the Provider."
-msgstr "Sartu API giltza bat itzulpen-zerbitzurako."
+msgstr "Sartu API gako bat hornitzailearentzat."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -269,17 +262,14 @@ msgid "Quit"
 msgstr "Irten"
 
 #: data/resources/theme-switcher.blp:20
-#, fuzzy
 msgid "Follow System Style"
-msgstr "Sistemaren estiloa jarraitu"
+msgstr "Sistemaren estiloari jarraitu"
 
 #: data/resources/theme-switcher.blp:35
-#, fuzzy
 msgid "Light Style"
 msgstr "Estilo argia"
 
 #: data/resources/theme-switcher.blp:50
-#, fuzzy
 msgid "Dark Style"
 msgstr "Estilo iluna"
 
@@ -319,30 +309,27 @@ msgstr "Ezabatu giltza eta saiatu berriro"
 
 #: data/resources/window.blp:265 data/resources/window.blp:591
 msgid "Change Source Language"
-msgstr ""
+msgstr "Jatorrizko hizkuntza aldatu"
 
 #: data/resources/window.blp:270 data/resources/window.blp:599
-#, fuzzy
 msgid "Switch Languages"
 msgstr "Hizkuntza aldatu"
 
 #: data/resources/window.blp:277 data/resources/window.blp:607
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Helmugako hizkuntza aldatu"
 
 #: data/resources/window.blp:292
-#, fuzzy
 msgid "Previous Translation"
 msgstr "Aurreko itzulpena"
 
 #: data/resources/window.blp:298
-#, fuzzy
 msgid "Next Translation"
 msgstr "Hurrengo itzulpena"
 
 #: data/resources/window.blp:305
 msgid "Main Menu"
-msgstr ""
+msgstr "Menu nagusia"
 
 #: data/resources/window.blp:409
 msgid "Clear"
@@ -365,9 +352,8 @@ msgid "Translating…"
 msgstr "Itzultzen…"
 
 #: data/resources/window.blp:519
-#, fuzzy
 msgid "Could not Translate the Text"
-msgstr "Ezin izan zen testua itzuli"
+msgstr "Ezin izan da testua itzuli"
 
 #: data/resources/window.blp:526
 msgid "Copy"
@@ -391,11 +377,11 @@ msgstr "Automatikoa"
 
 #: dialect/preferences.py:121
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Hornitzailearen ezarpenak editatu"
 
 #: dialect/preferences.py:123
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Ez dago ezarpenik hornitzaile honentzat"
 
 #: dialect/window.py:380 dialect/window.py:1265
 msgid "The provided API key is invalid"
@@ -438,14 +424,12 @@ msgid "We can’t connect to the server. Please check for network issues."
 msgstr "Ezin dugu zerbitzariarekin konektatu. Mesedez, aztertu sareko arazoak."
 
 #: dialect/window.py:521
-#, fuzzy
 msgid "A network issue has occurred. Retry?"
-msgstr "Sareko arazo bat gertatu da. Berriz saiatu?"
+msgstr "Sarean arazo bat sortu da. Berriz saiatu?"
 
 #: dialect/window.py:535
-#, fuzzy
 msgid "A network issue has occurred. Please try again."
-msgstr "Sare-arazo bat gertatu da. Mesedez saiatu berriro."
+msgstr "Sarean arazo bat sortu da. Mesedez, saiatu berriro."
 
 #: dialect/window.py:863
 msgid "New translation has been suggested!"

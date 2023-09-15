@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: 2023-05-11 19:51+0000\n"
-"Last-Translator: gallegonovato <fran-carro@hotmail.es>\n"
+"PO-Revision-Date: 2023-09-15 13:55+0000\n"
+"Last-Translator: Sergio Varela <sergitroll9@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/dialect/dialect/"
 "es/>\n"
 "Language: es\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.0.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -267,11 +267,11 @@ msgstr "Seguir el estilo del sistema"
 
 #: data/resources/theme-switcher.blp:35
 msgid "Light Style"
-msgstr "Estilo Claro"
+msgstr "Estilo claro"
 
 #: data/resources/theme-switcher.blp:50
 msgid "Dark Style"
-msgstr "Estilo Oscuro"
+msgstr "Estilo oscuro"
 
 #: data/resources/window.blp:15
 msgid "Show Pronunciation"
@@ -317,7 +317,7 @@ msgstr "Cambiar de idioma"
 
 #: data/resources/window.blp:277 data/resources/window.blp:607
 msgid "Change Destination Language"
-msgstr "Cambiar el idioma del destino"
+msgstr "Cambiar el idioma de destino"
 
 #: data/resources/window.blp:292
 msgid "Previous Translation"
