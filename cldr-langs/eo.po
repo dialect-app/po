@@ -55,7 +55,7 @@ msgid "Breton"
 msgstr "bretona"
 
 msgid "Bosnian"
-msgstr "bosnia"
+msgstr "bosna"
 
 msgid "Catalan"
 msgstr "kataluna"
@@ -76,7 +76,7 @@ msgid "German"
 msgstr "germana"
 
 msgid "Divehi"
-msgstr "mahla"
+msgstr "maldiva"
 
 msgid "Dzongkha"
 msgstr "dzonko"
@@ -91,7 +91,7 @@ msgid "English"
 msgstr "angla"
 
 msgid "Esperanto"
-msgstr "esperanto"
+msgstr "Esperanto"
 
 msgid "Spanish"
 msgstr "hispana"
@@ -121,13 +121,16 @@ msgid "French"
 msgstr "franca"
 
 msgid "Western Frisian"
-msgstr "frisa"
+msgstr "okcident-frisa"
 
 msgid "Irish"
 msgstr "irlanda"
 
+msgid "Ga"
+msgstr "gaa"
+
 msgid "Scottish Gaelic"
-msgstr "gaela"
+msgstr "skot-gaela"
 
 msgid "Galician"
 msgstr "galega"
@@ -163,13 +166,13 @@ msgid "Armenian"
 msgstr "armena"
 
 msgid "Interlingua"
-msgstr "interlingvao"
+msgstr "Interlingvao"
 
 msgid "Indonesian"
 msgstr "indonezia"
 
 msgid "Interlingue"
-msgstr "okcidentalo"
+msgstr "Interlingveo"
 
 msgid "Inupiaq"
 msgstr "eskima"
@@ -295,16 +298,16 @@ msgid "Polish"
 msgstr "pola"
 
 msgid "Pashto"
-msgstr "paŝtoa"
+msgstr "paŝtua"
 
 msgid "Portuguese"
 msgstr "portugala"
 
 msgid "Brazilian Portuguese"
-msgstr "brazilportugala"
+msgstr "portugala brazila"
 
 msgid "European Portuguese"
-msgstr "eŭropportugala"
+msgstr "portugala eŭropa"
 
 msgid "Quechua"
 msgstr "keĉua"
@@ -403,7 +406,7 @@ msgid "Tswana"
 msgstr "cvana"
 
 msgid "Tongan"
-msgstr "tongaa"
+msgstr "tongana"
 
 msgid "Turkish"
 msgstr "turka"
@@ -433,7 +436,7 @@ msgid "Vietnamese"
 msgstr "vjetnama"
 
 msgid "Volapük"
-msgstr "volapuko"
+msgstr "Volapuko"
 
 msgid "Wolof"
 msgstr "volofa"

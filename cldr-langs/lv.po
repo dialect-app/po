@@ -150,6 +150,9 @@ msgstr "bafutu"
 msgid "Bulgarian"
 msgstr "bulgāru"
 
+msgid "Haryanvi"
+msgstr "harjanvi"
+
 msgid "Western Balochi"
 msgstr "rietumbeludžu"
 
@@ -420,9 +423,6 @@ msgstr "angļu (Lielbritānija)"
 msgid "UK English"
 msgstr "angļu (Lielbritānija)"
 
-msgid "US English"
-msgstr "angļu (ASV)"
-
 msgid "Middle English"
 msgstr "vidusangļu"
 
@@ -578,9 +578,6 @@ msgstr "ivrits"
 
 msgid "Hindi"
 msgstr "hindi"
-
-msgid "Hindi (Latin)"
-msgstr "hindi (latīņu)"
 
 msgid "Hinglish"
 msgstr "hinglišs"
@@ -966,7 +963,7 @@ msgstr "māršaliešu"
 msgid "Māori"
 msgstr "maoru"
 
-msgid "Mi'kmaq"
+msgid "Mi'kmaw"
 msgstr "mikmaku"
 
 msgid "Minangkabau"

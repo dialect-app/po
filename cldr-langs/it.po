@@ -189,6 +189,9 @@ msgstr "badaga"
 msgid "Bulgarian"
 msgstr "bulgaro"
 
+msgid "Haryanvi"
+msgstr "haryanvi"
+
 msgid "Western Balochi"
 msgstr "beluci occidentale"
 
@@ -319,13 +322,13 @@ msgid "Cheyenne"
 msgstr "cheyenne"
 
 msgid "Central Kurdish"
-msgstr "curdo sorani"
-
-msgid "Kurdish, Central"
 msgstr "curdo centrale"
 
+msgid "Kurdish, Central"
+msgstr "curdo (centrale)"
+
 msgid "Kurdish, Sorani"
-msgstr "curdo sorani"
+msgstr "curdo (sorani)"
 
 msgid "Chilcotin"
 msgstr "chilcotin"
@@ -1122,7 +1125,7 @@ msgstr "marshallese"
 msgid "Māori"
 msgstr "maori"
 
-msgid "Mi'kmaq"
+msgid "Mi'kmaw"
 msgstr "micmac"
 
 msgid "Minangkabau"

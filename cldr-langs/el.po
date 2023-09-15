@@ -150,6 +150,9 @@ msgstr "Μπαφούτ"
 msgid "Bulgarian"
 msgstr "Βουλγαρικά"
 
+msgid "Haryanvi"
+msgstr "Χαργιάνβι"
+
 msgid "Western Balochi"
 msgstr "Δυτικά Μπαλοχικά"
 
@@ -606,9 +609,6 @@ msgstr "Εβραϊκά"
 msgid "Hindi"
 msgstr "Χίντι"
 
-msgid "Hindi (Latin)"
-msgstr "Χίντι (Λατινικό)"
-
 msgid "Hinglish"
 msgstr "Hinglish"
 
@@ -993,7 +993,7 @@ msgstr "Μαρσαλέζικα"
 msgid "Māori"
 msgstr "Μαορί"
 
-msgid "Mi'kmaq"
+msgid "Mi'kmaw"
 msgstr "Μικμάκ"
 
 msgid "Minangkabau"

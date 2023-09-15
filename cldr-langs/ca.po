@@ -171,6 +171,9 @@ msgstr "badaga"
 msgid "Bulgarian"
 msgstr "búlgar"
 
+msgid "Haryanvi"
+msgstr "haryanvi"
+
 msgid "Western Balochi"
 msgstr "balutxi occidental"
 
@@ -472,7 +475,7 @@ msgid "Spanish"
 msgstr "espanyol"
 
 msgid "Latin American Spanish"
-msgstr "espanyol hispanoamericà"
+msgstr "espanyol llatinoamericà"
 
 msgid "European Spanish"
 msgstr "espanyol europeu"
@@ -1062,7 +1065,7 @@ msgstr "marshallès"
 msgid "Māori"
 msgstr "maori"
 
-msgid "Mi'kmaq"
+msgid "Mi'kmaw"
 msgstr "micmac"
 
 msgid "Minangkabau"

@@ -150,6 +150,9 @@ msgstr "bafut"
 msgid "Bulgarian"
 msgstr "búlgaro"
 
+msgid "Haryanvi"
+msgstr "hariani"
+
 msgid "Western Balochi"
 msgstr "balúchi ocidental"
 
@@ -271,7 +274,7 @@ msgid "Central Kurdish"
 msgstr "curdo central"
 
 msgid "Kurdish, Central"
-msgstr "curdo central"
+msgstr "curdo, central"
 
 msgid "Kurdish, Sorani"
 msgstr "curdo sorâni"
@@ -413,9 +416,6 @@ msgstr "elamite"
 
 msgid "English"
 msgstr "inglês"
-
-msgid "US English"
-msgstr "inglês (EUA)"
 
 msgid "Middle English"
 msgstr "inglês médio"
@@ -966,7 +966,7 @@ msgstr "marshalês"
 msgid "Māori"
 msgstr "maori"
 
-msgid "Mi'kmaq"
+msgid "Mi'kmaw"
 msgstr "miquemaque"
 
 msgid "Minangkabau"

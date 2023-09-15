@@ -177,6 +177,9 @@ msgstr "бадага"
 msgid "Bulgarian"
 msgstr "болгарська"
 
+msgid "Haryanvi"
+msgstr "харʼянві"
+
 msgid "Western Balochi"
 msgstr "східнобелуджійська"
 
@@ -378,6 +381,9 @@ msgstr "таїта"
 msgid "German"
 msgstr "німецька"
 
+msgid "Swiss High German"
+msgstr "верхньонімецька (Швейцарія)"
+
 msgid "Delaware"
 msgstr "делаварська"
 
@@ -447,9 +453,6 @@ msgstr "англійська"
 msgid "UK English"
 msgstr "англійська (Брит.)"
 
-msgid "US English"
-msgstr "англійська (США)"
-
 msgid "Middle English"
 msgstr "середньоанглійська"
 
@@ -458,15 +461,6 @@ msgstr "есперанто"
 
 msgid "Spanish"
 msgstr "іспанська"
-
-msgid "Latin American Spanish"
-msgstr "латиноамериканська іспанська"
-
-msgid "European Spanish"
-msgstr "європейська іспанська"
-
-msgid "Mexican Spanish"
-msgstr "мексиканська іспанська"
 
 msgid "Estonian"
 msgstr "естонська"
@@ -589,7 +583,7 @@ msgid "Ancient Greek"
 msgstr "давньогрецька"
 
 msgid "Swiss German"
-msgstr "швейцарська німецька"
+msgstr "німецька (Швейцарія)"
 
 msgid "Gujarati"
 msgstr "гуджараті"
@@ -1017,7 +1011,7 @@ msgstr "маршалльська"
 msgid "Māori"
 msgstr "маорі"
 
-msgid "Mi'kmaq"
+msgid "Mi'kmaw"
 msgstr "мікмак"
 
 msgid "Minangkabau"
@@ -1271,12 +1265,6 @@ msgstr "пушту"
 
 msgid "Portuguese"
 msgstr "португальська"
-
-msgid "Brazilian Portuguese"
-msgstr "бразильська португальська"
-
-msgid "European Portuguese"
-msgstr "європейська португальська"
 
 msgid "Quechua"
 msgstr "кечуа"
@@ -1675,7 +1663,7 @@ msgid "Wolof"
 msgstr "волоф"
 
 msgid "Wu Chinese"
-msgstr "уська китайська"
+msgstr "китайська уська"
 
 msgid "Kalmyk"
 msgstr "калмицька"

@@ -139,7 +139,7 @@ msgid "Azerbaijani"
 msgstr "ázerbájdžánština"
 
 msgid "Azeri"
-msgstr "ázerbájdžánština"
+msgstr "azerština"
 
 msgid "Bashkir"
 msgstr "baškirština"
@@ -188,6 +188,9 @@ msgstr "badagština"
 
 msgid "Bulgarian"
 msgstr "bulharština"
+
+msgid "Haryanvi"
+msgstr "harijánština"
 
 msgid "Western Balochi"
 msgstr "balúčština (západní)"
@@ -322,7 +325,7 @@ msgid "Central Kurdish"
 msgstr "kurdština (sorání)"
 
 msgid "Kurdish, Central"
-msgstr "kurdština (sorání)"
+msgstr "kurdština (centrální)"
 
 msgid "Kurdish, Sorani"
 msgstr "kurdština (sorání)"
@@ -399,9 +402,6 @@ msgstr "taita"
 msgid "German"
 msgstr "němčina"
 
-msgid "Austrian German"
-msgstr "němčina (Rakousko)"
-
 msgid "Swiss High German"
 msgstr "němčina standardní (Švýcarsko)"
 
@@ -477,12 +477,6 @@ msgstr "elamitština"
 msgid "English"
 msgstr "angličtina"
 
-msgid "Australian English"
-msgstr "angličtina (Austrálie)"
-
-msgid "Canadian English"
-msgstr "angličtina (Kanada)"
-
 msgid "British English"
 msgstr "angličtina (Velká Británie)"
 
@@ -504,14 +498,8 @@ msgstr "esperanto"
 msgid "Spanish"
 msgstr "španělština"
 
-msgid "Latin American Spanish"
-msgstr "španělština (Latinská Amerika)"
-
 msgid "European Spanish"
 msgstr "španělština (Evropa)"
-
-msgid "Mexican Spanish"
-msgstr "španělština (Mexiko)"
 
 msgid "Central Yupik"
 msgstr "jupikština (středoaljašská)"
@@ -563,12 +551,6 @@ msgstr "fonština"
 
 msgid "French"
 msgstr "francouzština"
-
-msgid "Canadian French"
-msgstr "francouzština (Kanada)"
-
-msgid "Swiss French"
-msgstr "francouzština (Švýcarsko)"
 
 msgid "Cajun French"
 msgstr "francouzština (cajunská)"
@@ -698,9 +680,6 @@ msgstr "hebrejština"
 
 msgid "Hindi"
 msgstr "hindština"
-
-msgid "Hindi (Latin)"
-msgstr "hindština (latinka)"
 
 msgid "Hinglish"
 msgstr "hingliš"
@@ -1137,7 +1116,7 @@ msgstr "maršálština"
 msgid "Māori"
 msgstr "maorština"
 
-msgid "Mi'kmaq"
+msgid "Mi'kmaw"
 msgstr "micmac"
 
 msgid "Minangkabau"
@@ -1418,9 +1397,6 @@ msgstr "paštština"
 
 msgid "Portuguese"
 msgstr "portugalština"
-
-msgid "Brazilian Portuguese"
-msgstr "portugalština (Brazílie)"
 
 msgid "European Portuguese"
 msgstr "portugalština (Evropa)"
@@ -1967,9 +1943,6 @@ msgstr "čínština (zjednodušená)"
 
 msgid "Simplified Mandarin Chinese"
 msgstr "standardní čínština (zjednodušená)"
-
-msgid "Traditional Chinese"
-msgstr "čínština (tradiční)"
 
 msgid "Traditional Mandarin Chinese"
 msgstr "standardní čínština (tradiční)"

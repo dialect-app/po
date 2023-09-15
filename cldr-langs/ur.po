@@ -117,6 +117,9 @@ msgstr "بینا"
 msgid "Bulgarian"
 msgstr "بلغاری"
 
+msgid "Haryanvi"
+msgstr "ہریانوی"
+
 msgid "Western Balochi"
 msgstr "مغربی بلوچی"
 
@@ -202,7 +205,7 @@ msgid "Kurdish, Central"
 msgstr "سینٹرل کردش"
 
 msgid "Kurdish, Sorani"
-msgstr "سینٹرل کردش"
+msgstr "سورانی کردش"
 
 msgid "Chilcotin"
 msgstr "چلکوٹن"
@@ -304,7 +307,7 @@ msgid "Efik"
 msgstr "ایفِک"
 
 msgid "Ekajuk"
-msgstr "ایکاجوی"
+msgstr "ایکاجوک"
 
 msgid "Greek"
 msgstr "یونانی"
@@ -461,9 +464,6 @@ msgstr "عبرانی"
 
 msgid "Hindi"
 msgstr "ہندی"
-
-msgid "Hindi (Latin)"
-msgstr "ہندی (لاطینی)"
 
 msgid "Hinglish"
 msgstr "ہنگلش"
@@ -789,7 +789,7 @@ msgstr "مارشلیز"
 msgid "Māori"
 msgstr "ماؤری"
 
-msgid "Mi'kmaq"
+msgid "Mi'kmaw"
 msgstr "مکمیک"
 
 msgid "Minangkabau"
@@ -998,6 +998,9 @@ msgstr "کویچوآ"
 
 msgid "Kʼicheʼ"
 msgstr "کيشی"
+
+msgid "Rajasthani"
+msgstr "راجستھانی"
 
 msgid "Rapanui"
 msgstr "رپانوی"

@@ -117,6 +117,9 @@ msgstr "benera"
 msgid "Bulgarian"
 msgstr "bulgariera"
 
+msgid "Haryanvi"
+msgstr "haryanera"
+
 msgid "Bhojpuri"
 msgstr "bhojpurera"
 
@@ -190,7 +193,7 @@ msgid "Cherokee"
 msgstr "txerokiera"
 
 msgid "Cheyenne"
-msgstr "txeienera"
+msgstr "txeieneera"
 
 msgid "Central Kurdish"
 msgstr "erdialdeko kurduera"
@@ -331,16 +334,16 @@ msgid "Esperanto"
 msgstr "esperantoa"
 
 msgid "Spanish"
-msgstr "espainiera"
+msgstr "gaztelania"
 
 msgid "Latin American Spanish"
-msgstr "Latinoamerikako espainiera"
+msgstr "Latinoamerikako gaztelania"
 
 msgid "European Spanish"
-msgstr "espainiera (Europa)"
+msgstr "Europako gaztelania"
 
 msgid "Mexican Spanish"
-msgstr "Mexikoko espainiera"
+msgstr "Mexikoko gaztelania"
 
 msgid "Estonian"
 msgstr "estoniera"
@@ -394,7 +397,7 @@ msgid "Friulian"
 msgstr "friulera"
 
 msgid "Western Frisian"
-msgstr "frisiera"
+msgstr "mendebaldeko frisiera"
 
 msgid "Irish"
 msgstr "irlandera"
@@ -455,6 +458,12 @@ msgstr "hebreera"
 
 msgid "Hindi"
 msgstr "hindia"
+
+msgid "Hindi (Latin)"
+msgstr "hindia (latindarra)"
+
+msgid "Hinglish"
+msgstr "hinglisha"
 
 msgid "Hiligaynon"
 msgstr "hiligaynonera"
@@ -780,7 +789,7 @@ msgstr "marshallera"
 msgid "Māori"
 msgstr "maoriera"
 
-msgid "Mi'kmaq"
+msgid "Mi'kmaw"
 msgstr "mikmakera"
 
 msgid "Minangkabau"
@@ -898,7 +907,7 @@ msgid "N’Ko"
 msgstr "n’koera"
 
 msgid "South Ndebele"
-msgstr "hegoaldeko ndebelera"
+msgstr "hegoaldeko ndebeleera"
 
 msgid "Northern Sotho"
 msgstr "pediera"
@@ -989,6 +998,9 @@ msgstr "kitxua"
 
 msgid "Kʼicheʼ"
 msgstr "quicheera"
+
+msgid "Rajasthani"
+msgstr "rajastanera"
 
 msgid "Rapanui"
 msgstr "rapanuia"
@@ -1111,7 +1123,7 @@ msgid "Shona"
 msgstr "shonera"
 
 msgid "Soninke"
-msgstr "soninkera"
+msgstr "soninkeera"
 
 msgid "Somali"
 msgstr "somaliera"
@@ -1123,7 +1135,7 @@ msgid "Serbian"
 msgstr "serbiera"
 
 msgid "Sranan Tongo"
-msgstr "srananera"
+msgstr "sranan tongoa"
 
 msgid "Swati"
 msgstr "swatiera"
@@ -1168,7 +1180,7 @@ msgid "Telugu"
 msgstr "telugua"
 
 msgid "Timne"
-msgstr "temnea"
+msgstr "temneera"
 
 msgid "Teso"
 msgstr "tesoera"
@@ -1192,7 +1204,7 @@ msgid "Tigrinya"
 msgstr "tigrinyera"
 
 msgid "Tigre"
-msgstr "tigrea"
+msgstr "tigreera"
 
 msgid "Turkmen"
 msgstr "turkmenera"
@@ -1222,7 +1234,7 @@ msgid "Turkish"
 msgstr "turkiera"
 
 msgid "Taroko"
-msgstr "tarokoa"
+msgstr "tarokoera"
 
 msgid "Tsonga"
 msgstr "tsongera"
@@ -1294,16 +1306,16 @@ msgid "Vunjo"
 msgstr "vunjoa"
 
 msgid "Walloon"
-msgstr "waloiera"
+msgstr "valoniera"
 
 msgid "Walser"
 msgstr "walserera"
 
 msgid "Wolaytta"
-msgstr "welayta"
+msgstr "wolayttera"
 
 msgid "Waray"
-msgstr "samerera"
+msgstr "warayera"
 
 msgid "Wolof"
 msgstr "wolofera"
@@ -1354,19 +1366,19 @@ msgid "Simplified Chinese"
 msgstr "txinera sinplifikatua"
 
 msgid "Simplified Mandarin Chinese"
-msgstr "mandarinera sinplifikatua"
+msgstr "mandarin sinplifikatua"
 
 msgid "Traditional Chinese"
 msgstr "txinera tradizionala"
 
 msgid "Traditional Mandarin Chinese"
-msgstr "mandarinera tradizionala"
+msgstr "mandarin tradizionala"
 
 msgid "Zulu"
 msgstr "zuluera"
 
 msgid "Zuni"
-msgstr "zuñia"
+msgstr "zuñiera"
 
 msgid "No linguistic content"
 msgstr "ez dago eduki linguistikorik"

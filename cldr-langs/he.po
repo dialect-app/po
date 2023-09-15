@@ -153,6 +153,9 @@ msgstr "באפוט"
 msgid "Bulgarian"
 msgstr "בולגרית"
 
+msgid "Haryanvi"
+msgstr "הריאנבי"
+
 msgid "Western Balochi"
 msgstr "באלוצ׳י מערבית"
 
@@ -322,7 +325,7 @@ msgid "Kashubian"
 msgstr "קשובית"
 
 msgid "Swampy Cree"
-msgstr "סקרי של אזור הביצות"
+msgstr "קרי של אזור הביצות"
 
 msgid "Church Slavic"
 msgstr "סלאבית כנסייתית עתיקה"
@@ -416,9 +419,6 @@ msgstr "עילמית"
 
 msgid "English"
 msgstr "אנגלית"
-
-msgid "US English"
-msgstr "אנגלית (ארה״ב)"
 
 msgid "Middle English"
 msgstr "אנגלית תיכונה"
@@ -975,7 +975,7 @@ msgstr "מרשלית"
 msgid "Māori"
 msgstr "מאורית"
 
-msgid "Mi'kmaq"
+msgid "Mi'kmaw"
 msgstr "מיקמק"
 
 msgid "Minangkabau"

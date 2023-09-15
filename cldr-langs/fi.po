@@ -216,6 +216,9 @@ msgstr "kom"
 msgid "Siksiká"
 msgstr "siksika"
 
+msgid "Tai Dam"
+msgstr "tai dam"
+
 msgid "Bambara"
 msgstr "bambara"
 
@@ -320,6 +323,9 @@ msgstr "cherokee"
 
 msgid "Cheyenne"
 msgstr "cheyenne"
+
+msgid "Chickasaw"
+msgstr "chickasaw"
 
 msgid "Central Kurdish"
 msgstr "soranî"
@@ -716,6 +722,9 @@ msgstr "heetti"
 
 msgid "Hmong"
 msgstr "hmong"
+
+msgid "Hmong Njua"
+msgstr "hmong njua"
 
 msgid "Hiri Motu"
 msgstr "hiri-motu"
@@ -1137,7 +1146,7 @@ msgstr "marshall"
 msgid "Māori"
 msgstr "maori"
 
-msgid "Mi'kmaq"
+msgid "Mi'kmaw"
 msgstr "micmac"
 
 msgid "Minangkabau"
@@ -1779,6 +1788,9 @@ msgstr "turojo"
 msgid "Taroko"
 msgstr "taroko"
 
+msgid "Torwali"
+msgstr "torwali"
+
 msgid "Tsonga"
 msgstr "tsonga"
 
@@ -1862,6 +1874,9 @@ msgstr "länsiflaami"
 
 msgid "Main-Franconian"
 msgstr "maininfrankki"
+
+msgid "Makhuwa"
+msgstr "makhuwa"
 
 msgid "Volapük"
 msgstr "volapük"

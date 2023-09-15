@@ -153,6 +153,9 @@ msgstr "bafut"
 msgid "Bulgarian"
 msgstr "bolgár"
 
+msgid "Haryanvi"
+msgstr "haryanvi"
+
 msgid "Western Balochi"
 msgstr "nyugati beludzs"
 
@@ -615,6 +618,9 @@ msgstr "héber"
 msgid "Hindi"
 msgstr "hindi"
 
+msgid "Hindi (Latin)"
+msgstr "hindi (latin)"
+
 msgid "Hinglish"
 msgstr "hinglish"
 
@@ -900,6 +906,9 @@ msgstr "lillooet"
 msgid "Lakota"
 msgstr "lakota"
 
+msgid "Lombard"
+msgstr "lombard"
+
 msgid "Lingala"
 msgstr "lingala"
 
@@ -1005,7 +1014,7 @@ msgstr "marshalli"
 msgid "Māori"
 msgstr "maori"
 
-msgid "Mi'kmaq"
+msgid "Mi'kmaw"
 msgstr "mikmak"
 
 msgid "Minangkabau"
@@ -1201,7 +1210,7 @@ msgid "Osage"
 msgstr "osage"
 
 msgid "Ottoman Turkish"
-msgstr "ottomán török"
+msgstr "oszmán-török"
 
 msgid "Punjabi"
 msgstr "pandzsábi"
@@ -1482,6 +1491,9 @@ msgstr "klasszikus szír"
 msgid "Syriac"
 msgstr "szír"
 
+msgid "Silesian"
+msgstr "sziléziai"
+
 msgid "Tamil"
 msgstr "tamil"
 
@@ -1625,6 +1637,9 @@ msgstr "vai"
 
 msgid "Venda"
 msgstr "venda"
+
+msgid "Venetian"
+msgstr "velencei"
 
 msgid "Vietnamese"
 msgstr "vietnámi"

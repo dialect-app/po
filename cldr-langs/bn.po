@@ -67,10 +67,10 @@ msgid "Angika"
 msgstr "আঙ্গিকা"
 
 msgid "Arabic"
-msgstr "আরবী"
+msgstr "আরবি"
 
 msgid "Modern Standard Arabic"
-msgstr "আধুনিক আদর্শ আরবী"
+msgstr "আধুনিক আদর্শ আরবি"
 
 msgid "Aramaic"
 msgstr "আরামাইক"
@@ -140,6 +140,9 @@ msgstr "বেনা"
 
 msgid "Bulgarian"
 msgstr "বুলগেরিয়"
+
+msgid "Haryanvi"
+msgstr "হরিয়ানভি"
 
 msgid "Western Balochi"
 msgstr "পশ্চিম বালোচি"
@@ -942,7 +945,7 @@ msgstr "মার্শালিজ"
 msgid "Māori"
 msgstr "মাওরি"
 
-msgid "Mi'kmaq"
+msgid "Mi'kmaw"
 msgstr "মিকম্যাক"
 
 msgid "Minangkabau"

@@ -169,7 +169,7 @@ msgid "Ghomala"
 msgstr "ghomala"
 
 msgid "Belarusian"
-msgstr "vitryska"
+msgstr "belarusiska"
 
 msgid "Beja"
 msgstr "beja"
@@ -191,6 +191,9 @@ msgstr "bagada"
 
 msgid "Bulgarian"
 msgstr "bulgariska"
+
+msgid "Haryanvi"
+msgstr "hariyanvi"
 
 msgid "Western Balochi"
 msgstr "västbaluchiska"
@@ -322,7 +325,7 @@ msgid "Cheyenne"
 msgstr "cheyenne"
 
 msgid "Central Kurdish"
-msgstr "soranisk kurdiska"
+msgstr "centralkurdiska"
 
 msgid "Kurdish, Central"
 msgstr "kurdiska (sorani)"
@@ -1140,7 +1143,7 @@ msgstr "marshalliska"
 msgid "Māori"
 msgstr "maori"
 
-msgid "Mi'kmaq"
+msgid "Mi'kmaw"
 msgstr "mi’kmaq"
 
 msgid "Minangkabau"

@@ -189,6 +189,9 @@ msgstr "Badaga"
 msgid "Bulgarian"
 msgstr "Bulgarisch"
 
+msgid "Haryanvi"
+msgstr "Haryanvi"
+
 msgid "Western Balochi"
 msgstr "Westliches Belutschi"
 
@@ -479,9 +482,6 @@ msgstr "Englisch"
 
 msgid "UK English"
 msgstr "Englisch (GB)"
-
-msgid "US English"
-msgstr "Englisch (USA)"
 
 msgid "Middle English"
 msgstr "Mittelenglisch"
@@ -1107,7 +1107,7 @@ msgstr "Marschallesisch"
 msgid "Māori"
 msgstr "Māori"
 
-msgid "Mi'kmaq"
+msgid "Mi'kmaw"
 msgstr "Micmac"
 
 msgid "Minangkabau"

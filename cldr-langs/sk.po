@@ -150,6 +150,9 @@ msgstr "bafut"
 msgid "Bulgarian"
 msgstr "bulharčina"
 
+msgid "Haryanvi"
+msgstr "haryanvi"
+
 msgid "Western Balochi"
 msgstr "západná balúčtina"
 
@@ -271,7 +274,7 @@ msgid "Central Kurdish"
 msgstr "kurdčina (sorání)"
 
 msgid "Kurdish, Central"
-msgstr "kurdčina (sorání)"
+msgstr "kurdčina (centrálna)"
 
 msgid "Kurdish, Sorani"
 msgstr "kurdčina (sorání)"
@@ -502,7 +505,7 @@ msgid "Swiss French"
 msgstr "francúzština (švajčiarska)"
 
 msgid "Cajun French"
-msgstr "francúzština (Cajun)"
+msgstr "francúzština (cajunská)"
 
 msgid "Middle French"
 msgstr "stredná francúzština"
@@ -605,6 +608,9 @@ msgstr "hebrejčina"
 
 msgid "Hindi"
 msgstr "hindčina"
+
+msgid "Hinglish"
+msgstr "hingliš"
 
 msgid "Hiligaynon"
 msgstr "hiligajnončina"
@@ -987,7 +993,7 @@ msgstr "marshallčina"
 msgid "Māori"
 msgstr "maorijčina"
 
-msgid "Mi'kmaq"
+msgid "Mi'kmaw"
 msgstr "mikmakčina"
 
 msgid "Minangkabau"

@@ -55,7 +55,7 @@ msgid "Amharic"
 msgstr "अम्हेरी"
 
 msgid "Aragonese"
-msgstr "अर्गोनी"
+msgstr "अरागोनी"
 
 msgid "Old English"
 msgstr "पुरानी अंग्रेज़ी"
@@ -143,6 +143,9 @@ msgstr "बेना"
 
 msgid "Bulgarian"
 msgstr "बुल्गारियाई"
+
+msgid "Haryanvi"
+msgstr "हरियाणवी"
 
 msgid "Western Balochi"
 msgstr "पश्चिमी बलोची"
@@ -588,9 +591,6 @@ msgstr "हिब्रू"
 msgid "Hindi"
 msgstr "हिन्दी"
 
-msgid "Hindi (Latin)"
-msgstr "हिन्दी (लैटिन)"
-
 msgid "Hinglish"
 msgstr "हिंग्लिश"
 
@@ -969,7 +969,7 @@ msgstr "मार्शलीज़"
 msgid "Māori"
 msgstr "माओरी"
 
-msgid "Mi'kmaq"
+msgid "Mi'kmaw"
 msgstr "मिकमैक"
 
 msgid "Minangkabau"
@@ -1108,7 +1108,7 @@ msgid "Nuer"
 msgstr "नुएर"
 
 msgid "Navajo"
-msgstr "नावाजो"
+msgstr "नवाहो"
 
 msgid "Classical Newari"
 msgstr "पारम्परिक नेवारी"
