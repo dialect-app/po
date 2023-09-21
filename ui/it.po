@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: 2023-06-20 14:50+0000\n"
-"Last-Translator: Michael Moroni <michaelmoroni@disroot.org>\n"
+"PO-Revision-Date: 2023-09-21 17:00+0000\n"
+"Last-Translator: Andrea Andre <andrea.tsg19@slmail.me>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/dialect/dialect/"
 "it/>\n"
 "Language: it\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.1\n"
+"X-Generator: Weblate 5.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -29,16 +29,16 @@ msgstr "Dialect"
 #: data/app.drey.Dialect.desktop.in.in:10
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
-msgstr "Traduci tra le lingue"
+msgstr "Traduzioni in diverse lingue"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:14
 msgid "translate;translation;"
-msgstr "tradurre;traduzione;"
+msgstr "translate;translation;tradurre;traduci;traduzione;"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
-msgstr "Un'app di traduzione per GNOME."
+msgstr "Un'app di traduzione, per GNOME."
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
@@ -245,7 +245,7 @@ msgstr "Vai alla versione successiva"
 #: data/resources/shortcuts.blp:70
 msgctxt "shortcuts window"
 msgid "General"
-msgstr "Generale"
+msgstr "Generali"
 
 #: data/resources/shortcuts.blp:73
 msgctxt "shortcuts window"
@@ -255,7 +255,7 @@ msgstr "Preferenze"
 #: data/resources/shortcuts.blp:78
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr "Scorciatoie da tastiera"
+msgstr "Scorciatoie"
 
 #: data/resources/shortcuts.blp:83
 msgctxt "shortcuts window"
@@ -302,7 +302,7 @@ msgstr "Riprova"
 #: data/resources/window.blp:113 data/resources/window.blp:148
 #: data/resources/window.blp:194 data/resources/window.blp:230
 msgid "Open Preferences"
-msgstr "Apri le impostazioni"
+msgstr "Apri Preferenze"
 
 #: data/resources/window.blp:184 data/resources/window.blp:217
 msgid "Remove Key and Retry"
@@ -390,13 +390,13 @@ msgstr "La chiave API inserita non è valida"
 
 #: dialect/window.py:382
 msgid "Please set a valid API key in the preferences."
-msgstr "Per favore inserisci una chiave API valida nelle impostazioni."
+msgstr "Per favore inserisci una chiave API valida nelle preferenze."
 
 #: dialect/window.py:385
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
 "Per favore inserisci una chiave API valida o rimuovi la chiave API nelle "
-"impostazioni."
+"preferenze."
 
 #: dialect/window.py:402 dialect/window.py:1273
 msgid "API key is required to use the service"
@@ -404,7 +404,7 @@ msgstr "Una chiave API è necessaria per usare il servizio"
 
 #: dialect/window.py:403
 msgid "Please set an API key in the preferences."
-msgstr "Per favore inserisci una chiave API nelle impostazioni."
+msgstr "Per favore inserisci una chiave API nelle preferenze."
 
 #: dialect/window.py:416
 msgid "Failed loading the translation service"

@@ -8,437 +8,447 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-09-21 17:00+0000\n"
+"Last-Translator: Andrea Andre <andrea.tsg19@slmail.me>\n"
+"Language-Team: Romanian <https://hosted.weblate.org/projects/dialect/dialect/"
+"ro/>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2;\n"
+"X-Generator: Weblate 5.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:7
 #: data/resources/window.blp:285 dialect/main.py:60
 msgid "Dialect"
-msgstr ""
+msgstr "Dialect"
 
 #: data/app.drey.Dialect.desktop.in.in:10
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
-msgstr ""
+msgstr "Traduceri în diferite limbi"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:14
 msgid "translate;translation;"
-msgstr ""
+msgstr "translate;translation;tradu;traducere;"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
-msgstr ""
+msgstr "O aplicație de traduceri, pentru GNOME."
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
-msgstr ""
+msgstr "Caracteristici:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
 msgid "Translation based on Google Translate"
-msgstr ""
+msgstr "Traducere efectuată cu Google Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
+"Traducere cu ajutorul API-ului LibreTranslate, care permite utilizarea "
+"oricărui instrument public"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
-msgstr ""
+msgstr "Traducere cu ajutorul API-ului Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Translation based on Bing"
-msgstr ""
+msgstr "Traducere efectuată cu Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
 msgid "Translation based on Yandex"
-msgstr ""
+msgstr "Traducere efectuată cu Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
-msgstr ""
+msgstr "Pronunțare text"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Translation history"
-msgstr ""
+msgstr "Cronologia traducerilor"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Automatic language detection"
-msgstr ""
+msgstr "Detectare automată a limbii"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Clipboard buttons"
-msgstr ""
+msgstr "Butoane pentru copiat și lipit textul"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:30 data/resources/about.blp:8
 msgid "The Dialect Authors"
-msgstr ""
+msgstr "Autorii programului Dialect"
 
 #: data/resources/about.blp:9
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
-msgstr ""
+msgstr "Drepturi de autor 2020-2022 Autorii programului Dialect"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:17
 msgid "translator-credits"
-msgstr ""
+msgstr "Andrea Andre"
 
 #: data/resources/lang-selector.blp:47
 msgid "Search Languages…"
-msgstr ""
+msgstr "Caută o limbă…"
 
 #: data/resources/preferences.ui:12
 msgid "Providers"
-msgstr ""
+msgstr "Furnizori"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
-msgstr ""
+msgstr "Traducător"
 
 #: data/resources/preferences.ui:16
 msgid "Choose from the available translation services."
-msgstr ""
+msgstr "Alege dintre serviciile de traducere disponibile."
 
 #: data/resources/preferences.ui:47
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Pronunțare Text"
 
 #: data/resources/preferences.ui:48
 msgid "Choose from the available TTS services."
-msgstr ""
+msgstr "Alege dintre serviciile TTS disponibile."
 
 #: data/resources/preferences.ui:81
 msgid "Behavior"
-msgstr ""
+msgstr "Comportament"
 
 #: data/resources/preferences.ui:84
 msgid "Live Translation"
-msgstr ""
+msgstr "Traducere în direct"
 
 #: data/resources/preferences.ui:85
 msgid "Warning: Your IP address may get banned for API abuse."
-msgstr ""
+msgstr "Avertisment: Adresa ta IP poate fi interzisă pentru abuz de API."
 
 #: data/resources/preferences.ui:91
 msgid "Show Translations in Desktop Search"
-msgstr ""
+msgstr "Arată traducerile la căutarea în computer"
 
 #: data/resources/preferences.ui:92
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr ""
+"Avertisment: Toate căutările în computer vor fi trimise la serviciul de "
+"traducere"
 
 #: data/resources/preferences.ui:105
 msgid "Translation Shortcut"
-msgstr ""
+msgstr "Scurtătură pentru traducere"
 
 #: data/resources/preferences.ui:106
 msgid "The unselected choice will be used for line break."
-msgstr ""
+msgstr "Alegerea nespecificată va fi utilizată pentru întreruperea de linie."
 
 #: data/resources/preferences.ui:124
 msgid "Default to Auto"
-msgstr ""
+msgstr "Prestabilit: Automată"
 
 #: data/resources/preferences.ui:125
 msgid "Use \"Auto\" as the default language"
-msgstr ""
+msgstr "Folosește „Automată” ca limbă prestabilită"
 
 #: data/resources/provider-preferences.blp:25
 msgid "Instance URL"
-msgstr ""
+msgstr "URL instrument"
 
 #: data/resources/provider-preferences.blp:26
 msgid "Enter an Instance URL for the Provider."
-msgstr ""
+msgstr "Introdu URL-ul instrumentului pentru furnizor."
 
 #: data/resources/provider-preferences.blp:36
 #: data/resources/provider-preferences.blp:66
 msgid "Reset to Default"
-msgstr ""
+msgstr "Restabilește reglările inițiale"
 
 #: data/resources/provider-preferences.blp:56
 msgid "API Key"
-msgstr ""
+msgstr "Cod API"
 
 #: data/resources/provider-preferences.blp:57
 msgid "Enter an API Key for the Provider."
-msgstr ""
+msgstr "Introdu un cod API pentru furnizor."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
 msgid "Translator"
-msgstr ""
+msgstr "Traducător"
 
 #: data/resources/shortcuts.blp:16
 msgctxt "shortcuts window"
 msgid "Translate"
-msgstr ""
+msgstr "Tradu"
 
 #: data/resources/shortcuts.blp:21
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr ""
+msgstr "Schimbă limba"
 
 #: data/resources/shortcuts.blp:26
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "Șterge textul sursă"
 
 #: data/resources/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr ""
+msgstr "Copiază traducerea"
 
 #: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "Pronunție"
 
 #: data/resources/shortcuts.blp:42
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Pronunțare Text"
 
 #: data/resources/shortcuts.blp:45
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "Ascultă textul sursă"
 
 #: data/resources/shortcuts.blp:50
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr ""
+msgstr "Ascultă traducerea"
 
 #: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "Navigare"
 
 #: data/resources/shortcuts.blp:59
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "Înapoi la versiunea anterioară"
 
 #: data/resources/shortcuts.blp:64
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr ""
+msgstr "Treci la versiunea următoare"
 
 #: data/resources/shortcuts.blp:70
 msgctxt "shortcuts window"
 msgid "General"
-msgstr ""
+msgstr "Generale"
 
 #: data/resources/shortcuts.blp:73
 msgctxt "shortcuts window"
 msgid "Preferences"
-msgstr ""
+msgstr "Preferințe"
 
 #: data/resources/shortcuts.blp:78
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr ""
+msgstr "Scurtături"
 
 #: data/resources/shortcuts.blp:83
 msgctxt "shortcuts window"
 msgid "Quit"
-msgstr ""
+msgstr "Închide"
 
 #: data/resources/theme-switcher.blp:20
 msgid "Follow System Style"
-msgstr ""
+msgstr "Aspectul sistemului"
 
 #: data/resources/theme-switcher.blp:35
 msgid "Light Style"
-msgstr ""
+msgstr "Aspect luminos"
 
 #: data/resources/theme-switcher.blp:50
 msgid "Dark Style"
-msgstr ""
+msgstr "Aspect întunecos"
 
 #: data/resources/window.blp:15
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "Pronunție"
 
 #: data/resources/window.blp:24 dialect/window.py:1267 dialect/window.py:1275
 msgid "Preferences"
-msgstr ""
+msgstr "Preferințe"
 
 #: data/resources/window.blp:29
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Taste rapide"
 
 #: data/resources/window.blp:34
 msgid "About Dialect"
-msgstr ""
+msgstr "Despre Dialect"
 
 #: data/resources/window.blp:70
 msgid "Loading…"
-msgstr ""
+msgstr "Se încarcă…"
 
 #: data/resources/window.blp:103 data/resources/window.blp:135
 #: dialect/window.py:528 dialect/window.py:1259 dialect/window.py:1283
 msgid "Retry"
-msgstr ""
+msgstr "Încearcă din nou"
 
 #: data/resources/window.blp:113 data/resources/window.blp:148
 #: data/resources/window.blp:194 data/resources/window.blp:230
 msgid "Open Preferences"
-msgstr ""
+msgstr "Deschide „Preferințe”"
 
 #: data/resources/window.blp:184 data/resources/window.blp:217
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "Elimină codul și încearcă din nou"
 
 #: data/resources/window.blp:265 data/resources/window.blp:591
 msgid "Change Source Language"
-msgstr ""
+msgstr "Schimbă limba sursă"
 
 #: data/resources/window.blp:270 data/resources/window.blp:599
 msgid "Switch Languages"
-msgstr ""
+msgstr "Schimbă limbile"
 
 #: data/resources/window.blp:277 data/resources/window.blp:607
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Schimbă limba de destinație"
 
 #: data/resources/window.blp:292
 msgid "Previous Translation"
-msgstr ""
+msgstr "Traducerea anterioară"
 
 #: data/resources/window.blp:298
 msgid "Next Translation"
-msgstr ""
+msgstr "Următoarea traducere"
 
 #: data/resources/window.blp:305
 msgid "Main Menu"
-msgstr ""
+msgstr "Opțiuni"
 
 #: data/resources/window.blp:409
 msgid "Clear"
-msgstr ""
+msgstr "Șterge"
 
 #: data/resources/window.blp:415
 msgid "Paste"
-msgstr ""
+msgstr "Lipește"
 
 #: data/resources/window.blp:421 data/resources/window.blp:540
 msgid "Listen"
-msgstr ""
+msgstr "Ascultă"
 
 #: data/resources/window.blp:442
 msgid "Translate"
-msgstr ""
+msgstr "Tradu"
 
 #: data/resources/window.blp:514
 msgid "Translating…"
-msgstr ""
+msgstr "Se traduce…"
 
 #: data/resources/window.blp:519
 msgid "Could not Translate the Text"
-msgstr ""
+msgstr "Nu s-a putut traduce textul"
 
 #: data/resources/window.blp:526
 msgid "Copy"
-msgstr ""
+msgstr "Copiază"
 
 #: data/resources/window.blp:534
 msgid "Suggest Translation"
-msgstr ""
+msgstr "Sugerează o traducere"
 
 #: data/resources/window.blp:558
 msgid "Cancel"
-msgstr ""
+msgstr "Renunță"
 
 #: data/resources/window.blp:565
 msgid "Save"
-msgstr ""
+msgstr "Salvează"
 
 #: dialect/languages.py:88
 msgid "Auto"
-msgstr ""
+msgstr "Automată"
 
 #: dialect/preferences.py:121
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Modifică reglările pentru furnizor"
 
 #: dialect/preferences.py:123
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Nu există reglări pentru acest furnizor"
 
 #: dialect/window.py:380 dialect/window.py:1265
 msgid "The provided API key is invalid"
-msgstr ""
+msgstr "Codul API introdus nu e valabil"
 
 #: dialect/window.py:382
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "Introdu un cod API valabil în „Preferințe”."
 
 #: dialect/window.py:385
 msgid "Please set a valid API key or unset the API key in the preferences."
-msgstr ""
+msgstr "Indrodu un cod API valabil sau elimină codul API în „Preferințe”."
 
 #: dialect/window.py:402 dialect/window.py:1273
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "Este necesar un cod API pentru a folosi serviciul"
 
 #: dialect/window.py:403
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "Introdu un cod API în „Preferințe”."
 
 #: dialect/window.py:416
 msgid "Failed loading the translation service"
-msgstr ""
+msgstr "Nu s-a reușit încărcarea serviciului de traducere"
 
 #: dialect/window.py:417
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
+"Dacă problema persistă, raportează acest lucru în registrul de erori pentru "
+"Dialect."
 
 #: dialect/window.py:426
 msgid "Couldn’t connect to the translation service"
-msgstr ""
+msgstr "Nu s-a putut conecta la serviciul de traducere"
 
 #: dialect/window.py:427
 msgid "We can’t connect to the server. Please check for network issues."
-msgstr ""
+msgstr "Nu se poate conecta la server. Verifică dacă există probleme de rețea."
 
 #: dialect/window.py:521
 msgid "A network issue has occurred. Retry?"
-msgstr ""
+msgstr "A apărut o problemă de rețea. Încerci din nou?"
 
 #: dialect/window.py:535
 msgid "A network issue has occurred. Please try again."
-msgstr ""
+msgstr "A apărut o problemă de rețea. Încearcă din nou."
 
 #: dialect/window.py:863
 msgid "New translation has been suggested!"
-msgstr ""
+msgstr "A fost sugerată o nouă traducere!"
 
 #: dialect/window.py:865
 msgid "Suggestion failed."
-msgstr ""
+msgstr "Sugestia a eșuat."
 
 #: dialect/window.py:1035
 msgid "{} characters limit reached!"
-msgstr ""
+msgstr "Limita de {} caractere a fost atinsă!"
 
 #: dialect/window.py:1208
 msgid "Did you mean: "
-msgstr ""
+msgstr "Poate: "
 
 #: dialect/window.py:1257
 msgid "Translation failed, check for network issues"
-msgstr ""
+msgstr "Traducere nereușită, verifică dacă există probleme de rețea"
 
 #: dialect/window.py:1281
 msgid "Translation failed"
-msgstr ""
+msgstr "Traducere nereușită"
