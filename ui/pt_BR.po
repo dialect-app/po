@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: 2022-06-30 01:14+0000\n"
-"Last-Translator: Gustavo Costa <xfgusta@gmail.com>\n"
+"PO-Revision-Date: 2023-09-26 22:25+0000\n"
+"Last-Translator: Ideve Core <ideve.core@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "dialect/dialect/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.13.1-dev\n"
+"X-Generator: Weblate 5.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -61,14 +61,12 @@ msgid "Translation based on Lingva Translate API"
 msgstr "Tradução baseada na API do Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr "Tradução baseada na API do Lingva Translate"
+msgstr "Tradução baseada no Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "Tradução baseada no Google Tradutor"
+msgstr "Tradução baseada no Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
@@ -106,9 +104,8 @@ msgid "Search Languages…"
 msgstr "Pesquisar idiomas…"
 
 #: data/resources/preferences.ui:12
-#, fuzzy
 msgid "Providers"
-msgstr "Provedor de pesquisa"
+msgstr "Provedores"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
