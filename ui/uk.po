@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: 2023-06-14 15:51+0000\n"
-"Last-Translator: Вова Смірнов <vovasmirnon5895@gmail.com>\n"
+"PO-Revision-Date: 2023-10-05 09:10+0000\n"
+"Last-Translator: volkov <d2oo1dle2x@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/dialect/"
 "dialect/uk/>\n"
 "Language: uk\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -66,13 +66,12 @@ msgid "Translation based on Bing"
 msgstr "Переклад на основі Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "Переклад на основі Google Translate"
+msgstr "Переклад на основі Яндексу"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
-msgstr "Прослуховування тексту"
+msgstr "Текст у мову"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Translation history"
@@ -91,9 +90,8 @@ msgid "The Dialect Authors"
 msgstr "Автори Dialect"
 
 #: data/resources/about.blp:9
-#, fuzzy
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
-msgstr "Copyright 2020–⁠2021 Автори Dialect"
+msgstr "Copyright 2020–⁠2022 Автори Dialect"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:17
@@ -101,9 +99,8 @@ msgid "translator-credits"
 msgstr "Богдан Матвіїв"
 
 #: data/resources/lang-selector.blp:47
-#, fuzzy
 msgid "Search Languages…"
-msgstr "Переключення мов"
+msgstr "Пошук мов…"
 
 #: data/resources/preferences.ui:12
 #, fuzzy
