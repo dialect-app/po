@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: 2022-06-30 01:14+0000\n"
-"Last-Translator: J. Lavoie <j.lavoie@net-c.ca>\n"
+"PO-Revision-Date: 2023-10-25 22:02+0000\n"
+"Last-Translator: Sven Knoblach <s.knoblach@web.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/dialect/dialect/"
 "de/>\n"
 "Language: de\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13.1-dev\n"
+"X-Generator: Weblate 5.1.1\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -61,14 +61,12 @@ msgid "Translation based on Lingva Translate API"
 msgstr "Übersetzung basierend auf Lingva Translate API"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr "Übersetzung basierend auf Lingva Translate API"
+msgstr "Übersetzung basierend auf Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "Übersetzung basierend auf Google Translate"
+msgstr "Übersetzung basierend auf Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
@@ -106,9 +104,8 @@ msgid "Search Languages…"
 msgstr "Sprachen suchen …"
 
 #: data/resources/preferences.ui:12
-#, fuzzy
 msgid "Providers"
-msgstr "Suchanbieter"
+msgstr "Anbieter"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
@@ -123,9 +120,8 @@ msgid "Text-to-Speech"
 msgstr "Text-zu-Sprache"
 
 #: data/resources/preferences.ui:48
-#, fuzzy
 msgid "Choose from the available TTS services."
-msgstr "Wählen Sie aus den verfügbaren Übersetzungsdiensten aus."
+msgstr "Wählen Sie aus den verfügbaren Text-zu-Sprache Diensten aus."
 
 #: data/resources/preferences.ui:81
 msgid "Behavior"
@@ -166,12 +162,11 @@ msgstr "„Automatisch“ als Standardsprache verwenden"
 
 #: data/resources/provider-preferences.blp:25
 msgid "Instance URL"
-msgstr ""
+msgstr "Beispiel-URL"
 
 #: data/resources/provider-preferences.blp:26
-#, fuzzy
 msgid "Enter an Instance URL for the Provider."
-msgstr "Geben Sie einen API-Schlüssel für den Übersetzungsdienst ein."
+msgstr "Geben Sie die Standard-URL für den Anbieter ein."
 
 #: data/resources/provider-preferences.blp:36
 #: data/resources/provider-preferences.blp:66
@@ -319,7 +314,7 @@ msgstr "Schlüssel entfernen und erneut versuchen"
 
 #: data/resources/window.blp:265 data/resources/window.blp:591
 msgid "Change Source Language"
-msgstr ""
+msgstr "Ausgangssprache ändern"
 
 #: data/resources/window.blp:270 data/resources/window.blp:599
 #, fuzzy
@@ -328,7 +323,7 @@ msgstr "Sprachen tauschen"
 
 #: data/resources/window.blp:277 data/resources/window.blp:607
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Ausgabesprache ändern"
 
 #: data/resources/window.blp:292
 #, fuzzy
@@ -342,7 +337,7 @@ msgstr "Nächste Übersetzung"
 
 #: data/resources/window.blp:305
 msgid "Main Menu"
-msgstr ""
+msgstr "Hauptmenü"
 
 #: data/resources/window.blp:409
 msgid "Clear"
@@ -391,11 +386,11 @@ msgstr "Automatisch"
 
 #: dialect/preferences.py:121
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Anbieter-Einstellungen bearbeiten"
 
 #: dialect/preferences.py:123
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Keine Einstellungen für diesen Anbieter"
 
 #: dialect/window.py:380 dialect/window.py:1265
 msgid "The provided API key is invalid"
