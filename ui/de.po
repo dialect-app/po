@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: 2023-10-25 22:02+0000\n"
+"PO-Revision-Date: 2023-10-28 04:06+0000\n"
 "Last-Translator: Sven Knoblach <s.knoblach@web.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/dialect/dialect/"
 "de/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.1.1\n"
+"X-Generator: Weblate 5.2-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -34,7 +34,7 @@ msgstr "Zwischen Sprachen übersetzen"
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:14
 msgid "translate;translation;"
-msgstr "translate;translation;übersetzen;übersetzer;translator;übersetzung;"
+msgstr "übersetzen;Übersetzung;"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
@@ -42,7 +42,7 @@ msgstr "Eine Übersetzungsanwendung für GNOME."
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
-msgstr "Funktion:"
+msgstr "Funktionen:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
 msgid "Translation based on Google Translate"
@@ -70,7 +70,7 @@ msgstr "Übersetzung basierend auf Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
-msgstr "Text-zu-Sprache"
+msgstr "Text zu Sprache"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Translation history"
@@ -90,7 +90,7 @@ msgstr "Die Autoren von Dialect"
 
 #: data/resources/about.blp:9
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
-msgstr "Copyright 2020 – 2021, die Autoren von Dialect"
+msgstr "Copyright 2020 – 2022, die Autoren von Dialect"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:17
@@ -162,7 +162,7 @@ msgstr "„Automatisch“ als Standardsprache verwenden"
 
 #: data/resources/provider-preferences.blp:25
 msgid "Instance URL"
-msgstr "Beispiel-URL"
+msgstr "Instanz URL"
 
 #: data/resources/provider-preferences.blp:26
 msgid "Enter an Instance URL for the Provider."
@@ -170,7 +170,6 @@ msgstr "Geben Sie die Standard-URL für den Anbieter ein."
 
 #: data/resources/provider-preferences.blp:36
 #: data/resources/provider-preferences.blp:66
-#, fuzzy
 msgid "Reset to Default"
 msgstr "Auf Standard zurücksetzen"
 
@@ -179,7 +178,6 @@ msgid "API Key"
 msgstr "API-Schlüssel"
 
 #: data/resources/provider-preferences.blp:57
-#, fuzzy
 msgid "Enter an API Key for the Provider."
 msgstr "Geben Sie einen API-Schlüssel für den Übersetzungsdienst ein."
 
@@ -264,17 +262,14 @@ msgid "Quit"
 msgstr "Beenden"
 
 #: data/resources/theme-switcher.blp:20
-#, fuzzy
 msgid "Follow System Style"
 msgstr "Dem Systemstil folgen"
 
 #: data/resources/theme-switcher.blp:35
-#, fuzzy
 msgid "Light Style"
 msgstr "Heller Stil"
 
 #: data/resources/theme-switcher.blp:50
-#, fuzzy
 msgid "Dark Style"
 msgstr "Dunkler Stil"
 
@@ -288,7 +283,7 @@ msgstr "Einstellungen"
 
 #: data/resources/window.blp:29
 msgid "Keyboard Shortcuts"
-msgstr "Tastenkürzel"
+msgstr "Tastenkürzel der Tastatur"
 
 #: data/resources/window.blp:34
 msgid "About Dialect"
@@ -317,7 +312,6 @@ msgid "Change Source Language"
 msgstr "Ausgangssprache ändern"
 
 #: data/resources/window.blp:270 data/resources/window.blp:599
-#, fuzzy
 msgid "Switch Languages"
 msgstr "Sprachen tauschen"
 
@@ -326,12 +320,10 @@ msgid "Change Destination Language"
 msgstr "Ausgabesprache ändern"
 
 #: data/resources/window.blp:292
-#, fuzzy
 msgid "Previous Translation"
 msgstr "Vorherige Übersetzung"
 
 #: data/resources/window.blp:298
-#, fuzzy
 msgid "Next Translation"
 msgstr "Nächste Übersetzung"
 
@@ -360,7 +352,6 @@ msgid "Translating…"
 msgstr "Wird übersetzt …"
 
 #: data/resources/window.blp:519
-#, fuzzy
 msgid "Could not Translate the Text"
 msgstr "Der Text konnte nicht übersetzt werden"
 
@@ -431,16 +422,14 @@ msgstr "Die Verbindung zum Übersetzungsdienst konnte nicht hergestellt werden"
 #: dialect/window.py:427
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
-"Übersetzung fehlgeschlagen.\n"
-"Bitte prüfen Sie, ob es Netzwerkprobleme gibt."
+"Wir können uns nicht mit dem Server verbinden. Bitte prüfen Sie, ob es "
+"Netzwerkprobleme gibt."
 
 #: dialect/window.py:521
-#, fuzzy
 msgid "A network issue has occurred. Retry?"
-msgstr "Ein Netzwerkfehler ist aufgetreten. Noch mal probieren?"
+msgstr "Ein Netzwerkfehler ist aufgetreten. Erneut probieren?"
 
 #: dialect/window.py:535
-#, fuzzy
 msgid "A network issue has occurred. Please try again."
 msgstr "Es ist ein Netzwerkproblem aufgetreten. Bitte versuchen Sie es erneut."
 
