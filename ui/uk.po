@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: 2023-10-05 09:10+0000\n"
+"PO-Revision-Date: 2023-10-30 13:04+0000\n"
 "Last-Translator: volkov <d2oo1dle2x@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/dialect/"
 "dialect/uk/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.1-dev\n"
+"X-Generator: Weblate 5.2-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -35,7 +35,7 @@ msgstr "Переклад між мовами"
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:14
 msgid "translate;translation;"
-msgstr "перекласти;переклад;translate;translation;"
+msgstr "translate;translation;перекласти;переклад;транслейт;"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
@@ -96,16 +96,17 @@ msgstr "Copyright 2020–⁠2022 Автори Dialect"
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:17
 msgid "translator-credits"
-msgstr "Богдан Матвіїв"
+msgstr ""
+"Богдан Матвіїв\n"
+"volkov <volkovissocool@gmail.com>"
 
 #: data/resources/lang-selector.blp:47
 msgid "Search Languages…"
 msgstr "Пошук мов…"
 
 #: data/resources/preferences.ui:12
-#, fuzzy
 msgid "Providers"
-msgstr "Пошуковий провайдер"
+msgstr "Постачальник пошуку"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
@@ -120,9 +121,8 @@ msgid "Text-to-Speech"
 msgstr "Прослуховування тексту"
 
 #: data/resources/preferences.ui:48
-#, fuzzy
 msgid "Choose from the available TTS services."
-msgstr "Виберіть один з доступних послуг перекладу."
+msgstr "Виберіть один з доступних TTS сервісів."
 
 #: data/resources/preferences.ui:81
 msgid "Behavior"
@@ -130,7 +130,7 @@ msgstr "Поведінка"
 
 #: data/resources/preferences.ui:84
 msgid "Live Translation"
-msgstr "Переклад в реальному часі"
+msgstr "Переклад у реальному часі"
 
 #: data/resources/preferences.ui:85
 msgid "Warning: Your IP address may get banned for API abuse."
@@ -139,20 +139,21 @@ msgstr ""
 
 #: data/resources/preferences.ui:91
 msgid "Show Translations in Desktop Search"
-msgstr "Показати переклади в Настільному пошуку"
+msgstr "Показувати переклади при пошуку в стільниці"
 
 #: data/resources/preferences.ui:92
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr ""
-"Попередження: Всі Настільні пошуки будуть відправлені в сервіс перекладу"
+"Попередження: всі пошуки в стільниці будуть відправлятися постачальнику "
+"перекладу"
 
 #: data/resources/preferences.ui:105
 msgid "Translation Shortcut"
-msgstr "Комбінації клавіш для перекладу"
+msgstr "Клавіатурне скорочення для виконання перекладу"
 
 #: data/resources/preferences.ui:106
 msgid "The unselected choice will be used for line break."
-msgstr "Невиділений варіант буде використовуватися для розриву рядка."
+msgstr "Невиділений варіант буде використовуватися для розриву строчки."
 
 #: data/resources/preferences.ui:124
 msgid "Default to Auto"
@@ -160,31 +161,28 @@ msgstr "Автовизначення за замовчуванням"
 
 #: data/resources/preferences.ui:125
 msgid "Use \"Auto\" as the default language"
-msgstr "Використовуйте \"Авто\" як мову за замовчуванням"
+msgstr "Використовувати \"Автовизначення мови\" як мову за замовчуванням"
 
 #: data/resources/provider-preferences.blp:25
 msgid "Instance URL"
 msgstr ""
 
 #: data/resources/provider-preferences.blp:26
-#, fuzzy
 msgid "Enter an Instance URL for the Provider."
-msgstr "Введіть URL-адресу служби перекладу."
+msgstr "Введіть URL-адресу постачальника."
 
 #: data/resources/provider-preferences.blp:36
 #: data/resources/provider-preferences.blp:66
-#, fuzzy
 msgid "Reset to Default"
-msgstr "Скинути до початкового значення"
+msgstr "Скинути до замовчування"
 
 #: data/resources/provider-preferences.blp:56
 msgid "API Key"
 msgstr "Ключ API"
 
 #: data/resources/provider-preferences.blp:57
-#, fuzzy
 msgid "Enter an API Key for the Provider."
-msgstr "Введіть URL-адресу служби перекладу."
+msgstr "Введіть ключ API постачальника."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -199,17 +197,17 @@ msgstr "Перекласти"
 #: data/resources/shortcuts.blp:21
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr "Переключення мов"
+msgstr "Переключити мови"
 
 #: data/resources/shortcuts.blp:26
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr "Очистити вихідний текст"
+msgstr "Очистити вхідний текст"
 
 #: data/resources/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr "Копіювати переклад"
+msgstr "Скопіювати переклад"
 
 #: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
@@ -224,12 +222,12 @@ msgstr "Прослуховування тексту"
 #: data/resources/shortcuts.blp:45
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr "Прослуховування вихідного тексту"
+msgstr "Прослухати вхідний текст"
 
 #: data/resources/shortcuts.blp:50
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr "Слухати переклад"
+msgstr "Прослухати переклад"
 
 #: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
@@ -249,7 +247,7 @@ msgstr "Вперед по історії"
 #: data/resources/shortcuts.blp:70
 msgctxt "shortcuts window"
 msgid "General"
-msgstr "Загальне"
+msgstr "Загальні"
 
 #: data/resources/shortcuts.blp:73
 msgctxt "shortcuts window"
@@ -259,7 +257,7 @@ msgstr "Налаштування"
 #: data/resources/shortcuts.blp:78
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr "Комбінації клавіш"
+msgstr "Клавіатурні скорочення"
 
 #: data/resources/shortcuts.blp:83
 msgctxt "shortcuts window"
@@ -268,16 +266,15 @@ msgstr "Вийти"
 
 #: data/resources/theme-switcher.blp:20
 msgid "Follow System Style"
-msgstr ""
+msgstr "Використовувати стиль системи"
 
 #: data/resources/theme-switcher.blp:35
 msgid "Light Style"
-msgstr ""
+msgstr "Світлий стиль"
 
 #: data/resources/theme-switcher.blp:50
-#, fuzzy
 msgid "Dark Style"
-msgstr "Темний режим"
+msgstr "Темний стиль"
 
 #: data/resources/window.blp:15
 msgid "Show Pronunciation"
@@ -289,7 +286,7 @@ msgstr "Налаштування"
 
 #: data/resources/window.blp:29
 msgid "Keyboard Shortcuts"
-msgstr "Комбінації клавіш"
+msgstr "Клавіатурні скорочення"
 
 #: data/resources/window.blp:34
 msgid "About Dialect"
@@ -306,7 +303,6 @@ msgstr "Повторити"
 
 #: data/resources/window.blp:113 data/resources/window.blp:148
 #: data/resources/window.blp:194 data/resources/window.blp:230
-#, fuzzy
 msgid "Open Preferences"
 msgstr "Відкрити налаштування"
 
@@ -328,12 +324,10 @@ msgid "Change Destination Language"
 msgstr ""
 
 #: data/resources/window.blp:292
-#, fuzzy
 msgid "Previous Translation"
 msgstr "Попередній переклад"
 
 #: data/resources/window.blp:298
-#, fuzzy
 msgid "Next Translation"
 msgstr "Наступний переклад"
 
@@ -351,7 +345,7 @@ msgstr "Вставити"
 
 #: data/resources/window.blp:421 data/resources/window.blp:540
 msgid "Listen"
-msgstr "Слухати"
+msgstr "Прослухати"
 
 #: data/resources/window.blp:442
 msgid "Translate"
@@ -362,22 +356,20 @@ msgid "Translating…"
 msgstr "Переклад…"
 
 #: data/resources/window.blp:519
-#, fuzzy
 msgid "Could not Translate the Text"
 msgstr "Не вдалося перекласти текст"
 
 #: data/resources/window.blp:526
 msgid "Copy"
-msgstr "Копіювати"
+msgstr "Скопіювати"
 
 #: data/resources/window.blp:534
-#, fuzzy
 msgid "Suggest Translation"
-msgstr "Переклад в реальному часі"
+msgstr "Запропонувати переклад"
 
 #: data/resources/window.blp:558
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 #: data/resources/window.blp:565
 msgid "Save"
@@ -385,68 +377,63 @@ msgstr "Зберегти"
 
 #: dialect/languages.py:88
 msgid "Auto"
-msgstr "Визначити мову"
+msgstr "Автовизначення мови"
 
 #: dialect/preferences.py:121
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Редагувати налаштування постачальника"
 
 #: dialect/preferences.py:123
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Немає налаштувань для цього постачальника"
 
 #: dialect/window.py:380 dialect/window.py:1265
 msgid "The provided API key is invalid"
-msgstr ""
+msgstr "Наданий ключ API є недійсним"
 
 #: dialect/window.py:382
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "Будь ласка, введіть дійсний ключ API у налаштуваннях."
 
 #: dialect/window.py:385
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
+"Будь ласка, введіть дійсний ключ API або приберіть його у налаштуваннях."
 
 #: dialect/window.py:402 dialect/window.py:1273
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "Ключ API є обов'язковм, щоб користуватися сервісом"
 
 #: dialect/window.py:403
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "Будь ласка, встановіть ключ для API у налаштуваннях."
 
 #: dialect/window.py:416
-#, fuzzy
 msgid "Failed loading the translation service"
-msgstr "Не вдалося завантажити службу перекладача"
+msgstr "Не вдалося завантажити сервіс перекладача"
 
 #: dialect/window.py:417
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
+"Будь ласка, повідомте про ваду до розробників Dialect, якщо проблема буде "
+"повторюватися."
 
 #: dialect/window.py:426
-#, fuzzy
 msgid "Couldn’t connect to the translation service"
-msgstr "Не вдалося завантажити службу перекладача"
+msgstr "Не вдалося з'єднатися з сервісом перекладача"
 
 #: dialect/window.py:427
-#, fuzzy
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
-"Не вдалося виконати переклад.\n"
-"Будь ласка, перевірте з'єднання з мережею."
+"Не вдалося з'єднатися з сервером. Будь ласка, перевірте з'єднання з мережею."
 
 #: dialect/window.py:521
-#, fuzzy
 msgid "A network issue has occurred. Retry?"
-msgstr "Виникла проблема з мережею. Повторити?"
+msgstr "Виникла проблема з мережею. Спробувати ще раз?"
 
 #: dialect/window.py:535
-#, fuzzy
 msgid "A network issue has occurred. Please try again."
-msgstr ""
-"Виникла проблема з мережею.\n"
-"Будь ласка спробуйте ще раз."
+msgstr "Виникла проблема з мережею. Будь ласка, спробуйте ще раз."
 
 #: dialect/window.py:863
 msgid "New translation has been suggested!"
@@ -457,25 +444,20 @@ msgid "Suggestion failed."
 msgstr ""
 
 #: dialect/window.py:1035
-#, fuzzy
 msgid "{} characters limit reached!"
-msgstr "Досягнуто обмеження в 5000 символів!"
+msgstr "Досягнуто обмеження в {} символ(ів)!"
 
 #: dialect/window.py:1208
 msgid "Did you mean: "
 msgstr "Ви мали на увазі: "
 
 #: dialect/window.py:1257
-#, fuzzy
 msgid "Translation failed, check for network issues"
-msgstr ""
-"Не вдалося виконати переклад.\n"
-"Будь ласка, перевірте з'єднання з мережею."
+msgstr "Не вдалося виконати переклад, будь ласка, перевірте з'єднання з мережею"
 
 #: dialect/window.py:1281
-#, fuzzy
 msgid "Translation failed"
-msgstr "Історія перекладу"
+msgstr "Помилка перекладу"
 
 #~ msgid "Afrikaans"
 #~ msgstr "африкаанс"
