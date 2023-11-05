@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: 2023-10-15 23:36+0000\n"
+"PO-Revision-Date: 2023-11-05 01:23+0000\n"
 "Last-Translator: Sabri Ünal <libreajans@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/dialect/dialect/"
 "tr/>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.1-dev\n"
+"X-Generator: Weblate 5.2-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -85,7 +85,7 @@ msgstr "Pano düğmeleri"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:30 data/resources/about.blp:8
 msgid "The Dialect Authors"
-msgstr "Dialect Yaratıcıları"
+msgstr "Dialect Yazarları"
 
 #: data/resources/about.blp:9
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
