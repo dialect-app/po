@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
 "PO-Revision-Date: 2023-11-26 00:02+0000\n"
-"Last-Translator: Tiago Lucas Flach <tiagolucas9830@gmail.com>\n"
+"Last-Translator: Daimar Stein <570cxat11@relay.firefox.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "dialect/dialect/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -174,9 +174,8 @@ msgstr "Insira uma chave de API para o serviço de tradução."
 
 #: data/resources/provider-preferences.blp:36
 #: data/resources/provider-preferences.blp:66
-#, fuzzy
 msgid "Reset to Default"
-msgstr "Restaurar ao padrão"
+msgstr "Restaurar ao Padrão"
 
 #: data/resources/provider-preferences.blp:56
 msgid "API Key"
