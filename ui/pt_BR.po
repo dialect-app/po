@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: 2023-09-26 22:25+0000\n"
-"Last-Translator: Ideve Core <ideve.core@gmail.com>\n"
+"PO-Revision-Date: 2023-11-26 00:02+0000\n"
+"Last-Translator: Tiago Lucas Flach <tiagolucas9830@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "dialect/dialect/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.1-dev\n"
+"X-Generator: Weblate 5.2.1-rc\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -97,7 +97,8 @@ msgstr "Copyright 2020–⁠2022 Autores do Dialect"
 msgid "translator-credits"
 msgstr ""
 "Gustavo Costa <xfgusta@gmail.com>\n"
-"Gabriel Gian <gabrielgian@protonmail.com>"
+"Gabriel Gian <gabrielgian@protonmail.com>\n"
+"Tiago Lucas Flach <tiagolucas9830@gmail.com>"
 
 #: data/resources/lang-selector.blp:47
 msgid "Search Languages…"
@@ -117,7 +118,7 @@ msgstr "Escolher um dos serviços de tradução disponíveis."
 
 #: data/resources/preferences.ui:47
 msgid "Text-to-Speech"
-msgstr "Texto para fala"
+msgstr "Texto-para-Fala"
 
 #: data/resources/preferences.ui:48
 #, fuzzy
@@ -164,7 +165,7 @@ msgstr "Usar \"Automático\" como o idioma padrão"
 
 #: data/resources/provider-preferences.blp:25
 msgid "Instance URL"
-msgstr ""
+msgstr "URL da instância"
 
 #: data/resources/provider-preferences.blp:26
 #, fuzzy
@@ -219,7 +220,7 @@ msgstr "Mostrar pronúncia"
 #: data/resources/shortcuts.blp:42
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr "Texto para fala"
+msgstr "Texto-para-Fala"
 
 #: data/resources/shortcuts.blp:45
 msgctxt "shortcuts window"
@@ -267,23 +268,20 @@ msgid "Quit"
 msgstr "Sair"
 
 #: data/resources/theme-switcher.blp:20
-#, fuzzy
 msgid "Follow System Style"
-msgstr "Seguir estilo do sistema"
+msgstr "Seguir Estilo do Sistema"
 
 #: data/resources/theme-switcher.blp:35
-#, fuzzy
 msgid "Light Style"
-msgstr "Estilo claro"
+msgstr "Estilo Claro"
 
 #: data/resources/theme-switcher.blp:50
-#, fuzzy
 msgid "Dark Style"
-msgstr "Estilo escuro"
+msgstr "Estilo Escuro"
 
 #: data/resources/window.blp:15
 msgid "Show Pronunciation"
-msgstr "Mostrar pronúncia"
+msgstr "Mostrar Pronúncia"
 
 #: data/resources/window.blp:24 dialect/window.py:1267 dialect/window.py:1275
 msgid "Preferences"
@@ -309,7 +307,7 @@ msgstr "Tentar novamente"
 #: data/resources/window.blp:113 data/resources/window.blp:148
 #: data/resources/window.blp:194 data/resources/window.blp:230
 msgid "Open Preferences"
-msgstr "Abrir preferências"
+msgstr "Abrir Preferências"
 
 #: data/resources/window.blp:184 data/resources/window.blp:217
 msgid "Remove Key and Retry"
@@ -317,30 +315,27 @@ msgstr "Remover a chave e tentar novamente"
 
 #: data/resources/window.blp:265 data/resources/window.blp:591
 msgid "Change Source Language"
-msgstr ""
+msgstr "Alterar Idioma de Origem"
 
 #: data/resources/window.blp:270 data/resources/window.blp:599
-#, fuzzy
 msgid "Switch Languages"
-msgstr "Alternar idiomas"
+msgstr "Alternar Idiomas"
 
 #: data/resources/window.blp:277 data/resources/window.blp:607
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Alterar Idioma de Destino"
 
 #: data/resources/window.blp:292
-#, fuzzy
 msgid "Previous Translation"
-msgstr "Tradução anterior"
+msgstr "Tradução Anterior"
 
 #: data/resources/window.blp:298
-#, fuzzy
 msgid "Next Translation"
-msgstr "Próxima tradução"
+msgstr "Próxima Tradução"
 
 #: data/resources/window.blp:305
 msgid "Main Menu"
-msgstr ""
+msgstr "Menu Principal"
 
 #: data/resources/window.blp:409
 msgid "Clear"
@@ -373,7 +368,7 @@ msgstr "Copiar"
 
 #: data/resources/window.blp:534
 msgid "Suggest Translation"
-msgstr "Sugerir tradução"
+msgstr "Sugerir Tradução"
 
 #: data/resources/window.blp:558
 msgid "Cancel"
@@ -389,11 +384,11 @@ msgstr "Automático"
 
 #: dialect/preferences.py:121
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Editar Configurações do Provedor"
 
 #: dialect/preferences.py:123
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Nenhuma Configuração Para Este Provedor"
 
 #: dialect/window.py:380 dialect/window.py:1265
 msgid "The provided API key is invalid"
