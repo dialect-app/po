@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: 2023-05-24 19:50+0000\n"
-"Last-Translator: Сергей Ворон <voron.s.a@gmail.com>\n"
+"PO-Revision-Date: 2023-11-29 09:05+0000\n"
+"Last-Translator: Aleksandr Melman <alexmelman88@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/dialect/dialect/"
 "ru/>\n"
 "Language: ru\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.3-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -100,11 +100,11 @@ msgstr "Никита Кравец, Станислав Ляхоцкий, Дави
 
 #: data/resources/lang-selector.blp:47
 msgid "Search Languages…"
-msgstr "Искать языки…"
+msgstr "Поиск языков…"
 
 #: data/resources/preferences.ui:12
 msgid "Providers"
-msgstr "Провайдеры"
+msgstr "Поставщики"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
@@ -116,7 +116,7 @@ msgstr "Выберите из доступных служб перевода."
 
 #: data/resources/preferences.ui:47
 msgid "Text-to-Speech"
-msgstr "Текст в Речь"
+msgstr "Текст в речь"
 
 #: data/resources/preferences.ui:48
 msgid "Choose from the available TTS services."
@@ -167,7 +167,7 @@ msgstr "URL-адрес сервера"
 
 #: data/resources/provider-preferences.blp:26
 msgid "Enter an Instance URL for the Provider."
-msgstr "Введите API ключ для службы перевода."
+msgstr "Введите URL-адрес сервера для поставщика."
 
 #: data/resources/provider-preferences.blp:36
 #: data/resources/provider-preferences.blp:66
@@ -180,7 +180,7 @@ msgstr "Ключ API"
 
 #: data/resources/provider-preferences.blp:57
 msgid "Enter an API Key for the Provider."
-msgstr "Введите API ключ для службы перевода."
+msgstr "Введите ключ API для поставщика."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -215,7 +215,7 @@ msgstr "Показать произношение"
 #: data/resources/shortcuts.blp:42
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr "Текст-в-речь"
+msgstr "Текст в речь"
 
 #: data/resources/shortcuts.blp:45
 msgctxt "shortcuts window"
@@ -245,7 +245,7 @@ msgstr "Перейти вперёд в истории"
 #: data/resources/shortcuts.blp:70
 msgctxt "shortcuts window"
 msgid "General"
-msgstr "Общее"
+msgstr "Общие"
 
 #: data/resources/shortcuts.blp:73
 msgctxt "shortcuts window"
@@ -288,7 +288,7 @@ msgstr "Комбинации клавиш"
 
 #: data/resources/window.blp:34
 msgid "About Dialect"
-msgstr "О Dialect"
+msgstr "О приложении"
 
 #: data/resources/window.blp:70
 msgid "Loading…"
@@ -374,15 +374,15 @@ msgstr "Сохранить"
 
 #: dialect/languages.py:88
 msgid "Auto"
-msgstr "Определить язык"
+msgstr "Авто"
 
 #: dialect/preferences.py:121
 msgid "Edit Provider Settings"
-msgstr "Изменить настройки провайдера"
+msgstr "Изменить настройки поставщика"
 
 #: dialect/preferences.py:123
 msgid "No Settings for This Provider"
-msgstr "Нет настроек для этого провайдера"
+msgstr "Нет настроек для этого поставщика"
 
 #: dialect/window.py:380 dialect/window.py:1265
 msgid "The provided API key is invalid"
