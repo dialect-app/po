@@ -8,437 +8,447 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2023-12-02 20:04+0000\n"
+"Last-Translator: Yahor <k1llo2810@protonmail.com>\n"
+"Language-Team: Belarusian <https://hosted.weblate.org/projects/dialect/"
+"dialect/be/>\n"
 "Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 5.3-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:7
 #: data/resources/window.blp:285 dialect/main.py:60
 msgid "Dialect"
-msgstr ""
+msgstr "Dialect"
 
 #: data/app.drey.Dialect.desktop.in.in:10
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
-msgstr ""
+msgstr "Пераклад паміж мовамі"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:14
 msgid "translate;translation;"
-msgstr ""
+msgstr "translate;translation;перакласці;пераклад;"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
-msgstr ""
+msgstr "Праграма перакладу для GNOME."
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
-msgstr ""
+msgstr "Функцыі:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
 msgid "Translation based on Google Translate"
-msgstr ""
+msgstr "Пераклад на аснове Google Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
+"Пераклад на аснове API LibreTranslate, які дазваляе выкарыстоўваць любы "
+"публічны экзэмпляр"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
-msgstr ""
+msgstr "Пераклад на аснове API Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Translation based on Bing"
-msgstr ""
+msgstr "Пераклад на аснове Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
 msgid "Translation based on Yandex"
-msgstr ""
+msgstr "Пераклад на аснове Яндэкс"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
-msgstr ""
+msgstr "Тэкст у гаворку"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Translation history"
-msgstr ""
+msgstr "Гісторыя перакладаў"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Automatic language detection"
-msgstr ""
+msgstr "Аўтаматычнае выяўленне мовы"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Clipboard buttons"
-msgstr ""
+msgstr "Кнопкі буфера абмену"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:30 data/resources/about.blp:8
 msgid "The Dialect Authors"
-msgstr ""
+msgstr "Аўтары Dialect"
 
 #: data/resources/about.blp:9
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
-msgstr ""
+msgstr "Аўтарскае права 2020–⁠2022 Аўтары Dialect"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:17
 msgid "translator-credits"
-msgstr ""
+msgstr "Yahor Haurylenka <k1llo2810@gmail.com>"
 
 #: data/resources/lang-selector.blp:47
 msgid "Search Languages…"
-msgstr ""
+msgstr "Пошук моў…"
 
 #: data/resources/preferences.ui:12
 msgid "Providers"
-msgstr ""
+msgstr "Пастаўшчыкі"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
-msgstr ""
+msgstr "Перакладчык"
 
 #: data/resources/preferences.ui:16
 msgid "Choose from the available translation services."
-msgstr ""
+msgstr "Выберыце адзін з даступных сэрвісаў перакладу."
 
 #: data/resources/preferences.ui:47
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Тэкст у гаворку"
 
 #: data/resources/preferences.ui:48
 msgid "Choose from the available TTS services."
-msgstr ""
+msgstr "Выберыце з даступных сэрвісаў TTS."
 
 #: data/resources/preferences.ui:81
 msgid "Behavior"
-msgstr ""
+msgstr "Паводзіны"
 
 #: data/resources/preferences.ui:84
 msgid "Live Translation"
-msgstr ""
+msgstr "Пераклад у рэальным часе"
 
 #: data/resources/preferences.ui:85
 msgid "Warning: Your IP address may get banned for API abuse."
-msgstr ""
+msgstr "Папярэджанне: Ваш IP-адрас можа быць забанены за злоўжыванне API."
 
 #: data/resources/preferences.ui:91
 msgid "Show Translations in Desktop Search"
-msgstr ""
+msgstr "Паказаць пераклады ў пошуку працоўнага стала"
 
 #: data/resources/preferences.ui:92
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr ""
+"Папярэджанне: усе пошукавыя запыты на працоўным стале будуць адпраўляцца ў "
+"службу перакладу"
 
 #: data/resources/preferences.ui:105
 msgid "Translation Shortcut"
-msgstr ""
+msgstr "Спалучэнне клавіш перакладу"
 
 #: data/resources/preferences.ui:106
 msgid "The unselected choice will be used for line break."
-msgstr ""
+msgstr "Нявыбраны варыянт будзе выкарыстоўвацца для разрыву радка."
 
 #: data/resources/preferences.ui:124
 msgid "Default to Auto"
-msgstr ""
+msgstr "\"Аўта\" па змаўчанні"
 
 #: data/resources/preferences.ui:125
 msgid "Use \"Auto\" as the default language"
-msgstr ""
+msgstr "Выкарыстоўваць «Аўта» ў якасці мовы па змаўчанні"
 
 #: data/resources/provider-preferences.blp:25
 msgid "Instance URL"
-msgstr ""
+msgstr "URL-адрас сервера"
 
 #: data/resources/provider-preferences.blp:26
 msgid "Enter an Instance URL for the Provider."
-msgstr ""
+msgstr "Увядзіце URL-адрас сервера для пастаўшчыка."
 
 #: data/resources/provider-preferences.blp:36
 #: data/resources/provider-preferences.blp:66
 msgid "Reset to Default"
-msgstr ""
+msgstr "Скінуць да стандартных"
 
 #: data/resources/provider-preferences.blp:56
 msgid "API Key"
-msgstr ""
+msgstr "Ключ API"
 
 #: data/resources/provider-preferences.blp:57
 msgid "Enter an API Key for the Provider."
-msgstr ""
+msgstr "Увядзіце ключ API для пастаўшчыка."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
 msgid "Translator"
-msgstr ""
+msgstr "Перакладчык"
 
 #: data/resources/shortcuts.blp:16
 msgctxt "shortcuts window"
 msgid "Translate"
-msgstr ""
+msgstr "Перакласці"
 
 #: data/resources/shortcuts.blp:21
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr ""
+msgstr "Пераключыць мовы"
 
 #: data/resources/shortcuts.blp:26
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "Ачысціць зыходны тэкст"
 
 #: data/resources/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr ""
+msgstr "Капіяваць пераклад"
 
 #: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "Паказаць вымаўленне"
 
 #: data/resources/shortcuts.blp:42
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Тэкст у гаворку"
 
 #: data/resources/shortcuts.blp:45
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "Праслухаць зыходны тэкст"
 
 #: data/resources/shortcuts.blp:50
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr ""
+msgstr "Праслухаць пераклад"
 
 #: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "Навігацыя"
 
 #: data/resources/shortcuts.blp:59
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "Вярнуцца назад у гісторыі"
 
 #: data/resources/shortcuts.blp:64
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr ""
+msgstr "Перайсці наперад у гісторыі"
 
 #: data/resources/shortcuts.blp:70
 msgctxt "shortcuts window"
 msgid "General"
-msgstr ""
+msgstr "Агульныя"
 
 #: data/resources/shortcuts.blp:73
 msgctxt "shortcuts window"
 msgid "Preferences"
-msgstr ""
+msgstr "Параметры"
 
 #: data/resources/shortcuts.blp:78
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr ""
+msgstr "Спалучэнні клавіш"
 
 #: data/resources/shortcuts.blp:83
 msgctxt "shortcuts window"
 msgid "Quit"
-msgstr ""
+msgstr "Выйсці"
 
 #: data/resources/theme-switcher.blp:20
 msgid "Follow System Style"
-msgstr ""
+msgstr "Як у сістэме"
 
 #: data/resources/theme-switcher.blp:35
 msgid "Light Style"
-msgstr ""
+msgstr "Светлы стыль"
 
 #: data/resources/theme-switcher.blp:50
 msgid "Dark Style"
-msgstr ""
+msgstr "Цёмны стыль"
 
 #: data/resources/window.blp:15
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "Паказаць вымаўленне"
 
 #: data/resources/window.blp:24 dialect/window.py:1267 dialect/window.py:1275
 msgid "Preferences"
-msgstr ""
+msgstr "Параметры"
 
 #: data/resources/window.blp:29
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Спалучэнні клавіш"
 
 #: data/resources/window.blp:34
 msgid "About Dialect"
-msgstr ""
+msgstr "Аб праграме"
 
 #: data/resources/window.blp:70
 msgid "Loading…"
-msgstr ""
+msgstr "Загрузка…"
 
 #: data/resources/window.blp:103 data/resources/window.blp:135
 #: dialect/window.py:528 dialect/window.py:1259 dialect/window.py:1283
 msgid "Retry"
-msgstr ""
+msgstr "Паўтарыць"
 
 #: data/resources/window.blp:113 data/resources/window.blp:148
 #: data/resources/window.blp:194 data/resources/window.blp:230
 msgid "Open Preferences"
-msgstr ""
+msgstr "Адкрыць параметры"
 
 #: data/resources/window.blp:184 data/resources/window.blp:217
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "Выдаліць ключ і паўтарыць спробу"
 
 #: data/resources/window.blp:265 data/resources/window.blp:591
 msgid "Change Source Language"
-msgstr ""
+msgstr "Змяніць зыходную мову"
 
 #: data/resources/window.blp:270 data/resources/window.blp:599
 msgid "Switch Languages"
-msgstr ""
+msgstr "Пераключыць мовы"
 
 #: data/resources/window.blp:277 data/resources/window.blp:607
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Змяніць мову прызначэння"
 
 #: data/resources/window.blp:292
 msgid "Previous Translation"
-msgstr ""
+msgstr "Папярэдні пераклад"
 
 #: data/resources/window.blp:298
 msgid "Next Translation"
-msgstr ""
+msgstr "Наступны пераклад"
 
 #: data/resources/window.blp:305
 msgid "Main Menu"
-msgstr ""
+msgstr "Галоўнае меню"
 
 #: data/resources/window.blp:409
 msgid "Clear"
-msgstr ""
+msgstr "Ачысціць"
 
 #: data/resources/window.blp:415
 msgid "Paste"
-msgstr ""
+msgstr "Уставіць"
 
 #: data/resources/window.blp:421 data/resources/window.blp:540
 msgid "Listen"
-msgstr ""
+msgstr "Праслухаць"
 
 #: data/resources/window.blp:442
 msgid "Translate"
-msgstr ""
+msgstr "Перакласці"
 
 #: data/resources/window.blp:514
 msgid "Translating…"
-msgstr ""
+msgstr "Пераклад…"
 
 #: data/resources/window.blp:519
 msgid "Could not Translate the Text"
-msgstr ""
+msgstr "Не ўдалося перакласці тэкст"
 
 #: data/resources/window.blp:526
 msgid "Copy"
-msgstr ""
+msgstr "Капіяваць"
 
 #: data/resources/window.blp:534
 msgid "Suggest Translation"
-msgstr ""
+msgstr "Прапанаваць пераклад"
 
 #: data/resources/window.blp:558
 msgid "Cancel"
-msgstr ""
+msgstr "Скасаваць"
 
 #: data/resources/window.blp:565
 msgid "Save"
-msgstr ""
+msgstr "Захаваць"
 
 #: dialect/languages.py:88
 msgid "Auto"
-msgstr ""
+msgstr "Аўта"
 
 #: dialect/preferences.py:121
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Змяніць налады пастаўшчыка"
 
 #: dialect/preferences.py:123
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Няма налад для гэтага пастаўшчыка"
 
 #: dialect/window.py:380 dialect/window.py:1265
 msgid "The provided API key is invalid"
-msgstr ""
+msgstr "Прадстаўлены ключ API несапраўдны"
 
 #: dialect/window.py:382
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "Калі ласка, задайце сапраўдны ключ API у параметрах."
 
 #: dialect/window.py:385
 msgid "Please set a valid API key or unset the API key in the preferences."
-msgstr ""
+msgstr "Калі ласка, задайце сапраўдны ключ API або адключыце яго ў параметрах."
 
 #: dialect/window.py:402 dialect/window.py:1273
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "Ключ API неабходны для выкарыстання сэрвісу"
 
 #: dialect/window.py:403
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "Калі ласка, задайце ключ API у параметрах."
 
 #: dialect/window.py:416
 msgid "Failed loading the translation service"
-msgstr ""
+msgstr "Не ўдалося загрузіць службу перакладу"
 
 #: dialect/window.py:417
 msgid "Please report this in the Dialect bug tracker if the issue persists."
-msgstr ""
+msgstr "Калі праблема не знікне, паведаміце аб гэтым у трэкеры памылак Dialect."
 
 #: dialect/window.py:426
 msgid "Couldn’t connect to the translation service"
-msgstr ""
+msgstr "Не ўдалося злучыцца з службай перакладу"
 
 #: dialect/window.py:427
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
+"Мы не можам злучыцца з серверам. Калі ласка, праверце, ці няма праблем з "
+"сеткай."
 
 #: dialect/window.py:521
 msgid "A network issue has occurred. Retry?"
-msgstr ""
+msgstr "Адбылася праблема сеткі. Паўтарыць?"
 
 #: dialect/window.py:535
 msgid "A network issue has occurred. Please try again."
-msgstr ""
+msgstr "Адбылася праблема сеткі. Калі ласка, паспрабуйце яшчэ раз."
 
 #: dialect/window.py:863
 msgid "New translation has been suggested!"
-msgstr ""
+msgstr "Новы пераклад быў прапанаваны!"
 
 #: dialect/window.py:865
 msgid "Suggestion failed."
-msgstr ""
+msgstr "Прапанова не ўдалася."
 
 #: dialect/window.py:1035
 msgid "{} characters limit reached!"
-msgstr ""
+msgstr "Дасягнуты ліміт сімвалаў: {}!"
 
 #: dialect/window.py:1208
 msgid "Did you mean: "
-msgstr ""
+msgstr "Вы мелі на ўвазе: "
 
 #: dialect/window.py:1257
 msgid "Translation failed, check for network issues"
-msgstr ""
+msgstr "Не ўдалося перакласці, праверце праблемы з сеткай"
 
 #: dialect/window.py:1281
 msgid "Translation failed"
-msgstr ""
+msgstr "Не ўдалося перакласці"
