@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: 2022-10-03 19:17+0000\n"
+"PO-Revision-Date: 2023-12-02 20:04+0000\n"
 "Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Occitan <https://hosted.weblate.org/projects/dialect/dialect/"
 "oc/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 5.3-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -49,27 +49,24 @@ msgid "Translation based on Google Translate"
 msgstr "Traduccion basada sus Google Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
-#, fuzzy
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
 "Traduccion basada sus l’API LibreTranslate, vos permet d’utilizar quina "
-"instància que siá disponibla en linha"
+"instància publica que siá"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
 msgstr "Traduccion basada sus una API Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr "Traduccion basada sus una API Lingva Translate"
+msgstr "Traduccion basada sus Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "Traduccion basada sus Google Translate"
+msgstr "Traduccion basada sus Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
@@ -105,9 +102,8 @@ msgid "Search Languages…"
 msgstr "Cercar de lengas…"
 
 #: data/resources/preferences.ui:12
-#, fuzzy
 msgid "Providers"
-msgstr "Provesidors de recèrcas"
+msgstr "Provesidors"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
