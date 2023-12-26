@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: 2023-05-11 19:51+0000\n"
+"PO-Revision-Date: 2023-12-26 10:06+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/dialect/dialect/"
 "he/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -116,7 +116,7 @@ msgstr "בחירה משירותי התרגום הזמינים."
 
 #: data/resources/preferences.ui:47
 msgid "Text-to-Speech"
-msgstr "טקסט לדיבור"
+msgstr "הקראה"
 
 #: data/resources/preferences.ui:48
 msgid "Choose from the available TTS services."
@@ -285,7 +285,7 @@ msgstr "קיצורי מקלדת"
 
 #: data/resources/window.blp:34
 msgid "About Dialect"
-msgstr "על אודות Dialect"
+msgstr "על Dialect"
 
 #: data/resources/window.blp:70
 msgid "Loading…"
