@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: 2024-01-04 23:59+0000\n"
+"PO-Revision-Date: 2024-01-05 00:14+0000\n"
 "Last-Translator: Filipe Motta <luiz_filipe_motta@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "dialect/dialect/pt_BR/>\n"
@@ -123,7 +123,7 @@ msgstr "Texto-para-Fala"
 
 #: data/resources/preferences.ui:48
 msgid "Choose from the available TTS services."
-msgstr "Escolher um dos serviços de texto para fala disponíveis."
+msgstr "Escolher um dos serviços de texto-para-fala disponíveis."
 
 #: data/resources/preferences.ui:81
 msgid "Behavior"
@@ -135,7 +135,7 @@ msgstr "Tradução em tempo real"
 
 #: data/resources/preferences.ui:85
 msgid "Warning: Your IP address may get banned for API abuse."
-msgstr "Atenção: seu endereço IP pode ser banido por abuso de API."
+msgstr "Atenção: seu endereço IP pode ser banido por abuso da API."
 
 #: data/resources/preferences.ui:91
 msgid "Show Translations in Desktop Search"
