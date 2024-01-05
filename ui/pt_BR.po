@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
 "PO-Revision-Date: 2024-01-05 00:15+0000\n"
-"Last-Translator: Filipe Motta <luiz_filipe_motta@hotmail.com>\n"
+"Last-Translator: Daimar Stein <570cxat11@relay.firefox.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "dialect/dialect/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -181,9 +181,8 @@ msgid "API Key"
 msgstr "Chave de API"
 
 #: data/resources/provider-preferences.blp:57
-#, fuzzy
 msgid "Enter an API Key for the Provider."
-msgstr "Insira uma chave de API para o serviço de tradução."
+msgstr "Insira uma chave de API para o Provedor."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
