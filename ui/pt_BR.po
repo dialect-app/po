@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: 2024-01-05 00:15+0000\n"
-"Last-Translator: Daimar Stein <570cxat11@relay.firefox.com>\n"
+"PO-Revision-Date: 2024-01-06 01:09+0000\n"
+"Last-Translator: Filipe Motta <luiz_filipe_motta@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "dialect/dialect/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -182,7 +182,7 @@ msgstr "Chave de API"
 
 #: data/resources/provider-preferences.blp:57
 msgid "Enter an API Key for the Provider."
-msgstr "Insira uma chave de API para o Provedor."
+msgstr "Insira uma chave de API para o provedor."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -217,7 +217,7 @@ msgstr "Mostrar pronúncia"
 #: data/resources/shortcuts.blp:42
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr "Texto-para-Fala"
+msgstr "Texto-para-fala"
 
 #: data/resources/shortcuts.blp:45
 msgctxt "shortcuts window"
@@ -266,19 +266,19 @@ msgstr "Sair"
 
 #: data/resources/theme-switcher.blp:20
 msgid "Follow System Style"
-msgstr "Seguir Estilo do Sistema"
+msgstr "Seguir estilo do sistema"
 
 #: data/resources/theme-switcher.blp:35
 msgid "Light Style"
-msgstr "Estilo Claro"
+msgstr "Estilo claro"
 
 #: data/resources/theme-switcher.blp:50
 msgid "Dark Style"
-msgstr "Estilo Escuro"
+msgstr "Estilo escuro"
 
 #: data/resources/window.blp:15
 msgid "Show Pronunciation"
-msgstr "Mostrar Pronúncia"
+msgstr "Mostrar pronúncia"
 
 #: data/resources/window.blp:24 dialect/window.py:1267 dialect/window.py:1275
 msgid "Preferences"
@@ -304,7 +304,7 @@ msgstr "Tentar novamente"
 #: data/resources/window.blp:113 data/resources/window.blp:148
 #: data/resources/window.blp:194 data/resources/window.blp:230
 msgid "Open Preferences"
-msgstr "Abrir Preferências"
+msgstr "Abrir preferências"
 
 #: data/resources/window.blp:184 data/resources/window.blp:217
 msgid "Remove Key and Retry"
@@ -312,27 +312,27 @@ msgstr "Remover a chave e tentar novamente"
 
 #: data/resources/window.blp:265 data/resources/window.blp:591
 msgid "Change Source Language"
-msgstr "Alterar Idioma de Origem"
+msgstr "Alterar idioma de origem"
 
 #: data/resources/window.blp:270 data/resources/window.blp:599
 msgid "Switch Languages"
-msgstr "Alternar Idiomas"
+msgstr "Alternar idiomas"
 
 #: data/resources/window.blp:277 data/resources/window.blp:607
 msgid "Change Destination Language"
-msgstr "Alterar Idioma de Destino"
+msgstr "Alterar idioma de destino"
 
 #: data/resources/window.blp:292
 msgid "Previous Translation"
-msgstr "Tradução Anterior"
+msgstr "Tradução anterior"
 
 #: data/resources/window.blp:298
 msgid "Next Translation"
-msgstr "Próxima Tradução"
+msgstr "Próxima tradução"
 
 #: data/resources/window.blp:305
 msgid "Main Menu"
-msgstr "Menu Principal"
+msgstr "Menu principal"
 
 #: data/resources/window.blp:409
 msgid "Clear"
@@ -355,7 +355,6 @@ msgid "Translating…"
 msgstr "Traduzindo…"
 
 #: data/resources/window.blp:519
-#, fuzzy
 msgid "Could not Translate the Text"
 msgstr "Não foi possível traduzir o texto"
 
@@ -365,7 +364,7 @@ msgstr "Copiar"
 
 #: data/resources/window.blp:534
 msgid "Suggest Translation"
-msgstr "Sugerir Tradução"
+msgstr "Sugerir tradução"
 
 #: data/resources/window.blp:558
 msgid "Cancel"
@@ -381,11 +380,11 @@ msgstr "Automático"
 
 #: dialect/preferences.py:121
 msgid "Edit Provider Settings"
-msgstr "Editar Configurações do Provedor"
+msgstr "Editar configurações do provedor"
 
 #: dialect/preferences.py:123
 msgid "No Settings for This Provider"
-msgstr "Nenhuma Configuração Para Este Provedor"
+msgstr "Nenhuma configuração para este provedor"
 
 #: dialect/window.py:380 dialect/window.py:1265
 msgid "The provided API key is invalid"
@@ -414,7 +413,7 @@ msgstr "Falha ao carregar o serviço de tradução"
 
 #: dialect/window.py:417
 msgid "Please report this in the Dialect bug tracker if the issue persists."
-msgstr "Relate isso no rastreador de bugs do Dialect se o problema persistir."
+msgstr "Relate o erro no rastreador de bugs do Dialect se o problema persistir."
 
 #: dialect/window.py:426
 msgid "Couldn’t connect to the translation service"
@@ -426,18 +425,16 @@ msgstr ""
 "Não foi possível conectar ao servidor. Verifique se há problemas de rede."
 
 #: dialect/window.py:521
-#, fuzzy
 msgid "A network issue has occurred. Retry?"
 msgstr "Ocorreu um problema de rede. Tentar novamente?"
 
 #: dialect/window.py:535
-#, fuzzy
 msgid "A network issue has occurred. Please try again."
-msgstr "Ocorreu um problema de rede. Por favor, tente novamente."
+msgstr "Ocorreu um problema de rede. Tente novamente, por favor."
 
 #: dialect/window.py:863
 msgid "New translation has been suggested!"
-msgstr "Nova tradução foi sugerida!"
+msgstr "Uma nova tradução foi sugerida!"
 
 #: dialect/window.py:865
 msgid "Suggestion failed."
@@ -453,11 +450,11 @@ msgstr "Você quis dizer: "
 
 #: dialect/window.py:1257
 msgid "Translation failed, check for network issues"
-msgstr "Falha na tradução, verifique se há problemas de rede"
+msgstr "A tradução falhou, verifique se há problemas de rede"
 
 #: dialect/window.py:1281
 msgid "Translation failed"
-msgstr "Falha na tradução"
+msgstr "A tradução falhou"
 
 #~ msgid "Afrikaans"
 #~ msgstr "africâner"
