@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: 2023-12-02 20:04+0000\n"
+"PO-Revision-Date: 2024-01-14 17:06+0000\n"
 "Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Occitan <https://hosted.weblate.org/projects/dialect/dialect/"
 "oc/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.3-dev\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -161,7 +161,7 @@ msgstr ""
 
 #: data/resources/provider-preferences.blp:25
 msgid "Instance URL"
-msgstr ""
+msgstr "URL de l'instància :"
 
 #: data/resources/provider-preferences.blp:26
 #, fuzzy
@@ -236,7 +236,7 @@ msgstr "Navigacion"
 #: data/resources/shortcuts.blp:59
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "Tornar a l'istoric"
 
 #: data/resources/shortcuts.blp:64
 msgctxt "shortcuts window"
@@ -265,7 +265,7 @@ msgstr "Quitar"
 
 #: data/resources/theme-switcher.blp:20
 msgid "Follow System Style"
-msgstr ""
+msgstr "Seguir l'estil del sistèma"
 
 #: data/resources/theme-switcher.blp:35
 #, fuzzy
@@ -309,11 +309,11 @@ msgstr "Dobrir las preferéncias"
 
 #: data/resources/window.blp:184 data/resources/window.blp:217
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "Levar la clau e tornar ensajar"
 
 #: data/resources/window.blp:265 data/resources/window.blp:591
 msgid "Change Source Language"
-msgstr ""
+msgstr "Cambiar la lenga d'origina"
 
 #: data/resources/window.blp:270 data/resources/window.blp:599
 #, fuzzy
@@ -322,7 +322,7 @@ msgstr "Intervertir las lengas"
 
 #: data/resources/window.blp:277 data/resources/window.blp:607
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Cambiar la lenga de destinacion"
 
 #: data/resources/window.blp:292
 #, fuzzy
@@ -336,7 +336,7 @@ msgstr "Traduccion seguenta"
 
 #: data/resources/window.blp:305
 msgid "Main Menu"
-msgstr ""
+msgstr "Menú principal"
 
 #: data/resources/window.blp:409
 msgid "Clear"
@@ -386,11 +386,11 @@ msgstr "Auto"
 
 #: dialect/preferences.py:121
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Modificar los paramètres de provesidor"
 
 #: dialect/preferences.py:123
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Cap de paramètres per aqueste provesidor"
 
 #: dialect/window.py:380 dialect/window.py:1265
 msgid "The provided API key is invalid"
