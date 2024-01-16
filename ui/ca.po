@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: 2022-10-10 18:15+0000\n"
-"Last-Translator: Albert Simon <simon.albert75@gmail.com>\n"
+"PO-Revision-Date: 2024-01-16 23:06+0000\n"
+"Last-Translator: victor dargallo <victordargallo@disroot.org>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/dialect/dialect/"
 "ca/>\n"
 "Language: ca\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -45,33 +45,28 @@ msgid "Features:"
 msgstr "Funcionalitats:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
-#, fuzzy
 msgid "Translation based on Google Translate"
-msgstr "Traducció basada en una API no oficial del Google Translate"
+msgstr "Traducció basada en el Traductor de Google"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
-#, fuzzy
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
 "Traducció basada en l’API del LibreTranslate, que us permet utilitzar "
-"qualsevol instal·lació disponible a la xarxa"
+"qualsevol instància pública"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
-#, fuzzy
 msgid "Translation based on Lingva Translate API"
-msgstr "Traducció basada en una API no oficial del Google Translate"
+msgstr "Traducció basada en l'API de Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr "Traducció basada en una API no oficial del Google Translate"
+msgstr "Traducció basada en el Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "Traducció basada en una API no oficial del Google Translate"
+msgstr "Traducció basada en el Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
@@ -94,24 +89,23 @@ msgid "The Dialect Authors"
 msgstr "Els autors del Dialect"
 
 #: data/resources/about.blp:9
-#, fuzzy
 msgid "Copyright 2020–⁠2022 The Dialect Authors"
-msgstr "Drets d’autor © 2020-2021 dels autors del Dialect"
+msgstr "Drets d’autor © 2020-2022 dels autors del Dialect"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:17
 msgid "translator-credits"
-msgstr "Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2021"
+msgstr ""
+"Adolfo Jayme Barrientos <fitojb@ubuntu.com>, 2021\n"
+"Victor Dargallo, 2024"
 
 #: data/resources/lang-selector.blp:47
-#, fuzzy
 msgid "Search Languages…"
-msgstr "Canvia de llengua"
+msgstr "Cerca llengües…"
 
 #: data/resources/preferences.ui:12
-#, fuzzy
 msgid "Providers"
-msgstr "Proveïdor de cerques"
+msgstr "Proveïdors"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
@@ -126,9 +120,8 @@ msgid "Text-to-Speech"
 msgstr "Text a veu"
 
 #: data/resources/preferences.ui:48
-#, fuzzy
 msgid "Choose from the available TTS services."
-msgstr "Trieu un dels serveis de traducció disponibles."
+msgstr "Trieu un dels serveis TTS disponibles."
 
 #: data/resources/preferences.ui:81
 msgid "Behavior"
