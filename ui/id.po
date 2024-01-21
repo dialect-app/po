@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-06-09 15:15-0500\n"
-"PO-Revision-Date: 2023-09-04 01:00+0000\n"
-"Last-Translator: Reza Almanda <rezaalmanda27@gmail.com>\n"
+"PO-Revision-Date: 2024-01-21 05:01+0000\n"
+"Last-Translator: leap123 <76893443+leap0x7b@users.noreply.github.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/dialect/"
 "dialect/id/>\n"
 "Language: id\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.0.1-dev\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -65,9 +65,8 @@ msgid "Translation based on Bing"
 msgstr "Terjemahan berdasarkan Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "Terjemahan berdasarkan Google Terjemahan"
+msgstr "Terjemahan berdasarkan Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
@@ -103,9 +102,8 @@ msgid "Search Languages…"
 msgstr "Cari Bahasa…"
 
 #: data/resources/preferences.ui:12
-#, fuzzy
 msgid "Providers"
-msgstr "Penyedia Pencarian"
+msgstr "Penyedia"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
@@ -120,9 +118,8 @@ msgid "Text-to-Speech"
 msgstr "Teks ke Ucapan"
 
 #: data/resources/preferences.ui:48
-#, fuzzy
 msgid "Choose from the available TTS services."
-msgstr "Pilih dari layanan terjemahan yang tersedia."
+msgstr "Pilih dari layanan teks-ke-suara yang tersedia."
 
 #: data/resources/preferences.ui:81
 msgid "Behavior"
@@ -162,16 +159,14 @@ msgstr "Gunakan \"Otomatis\" sebagai bahasa bawaan"
 
 #: data/resources/provider-preferences.blp:25
 msgid "Instance URL"
-msgstr ""
+msgstr "URL instansi"
 
 #: data/resources/provider-preferences.blp:26
-#, fuzzy
 msgid "Enter an Instance URL for the Provider."
-msgstr "Masukkan kunci API untuk layanan terjemahan."
+msgstr "Masukkan URL instansi untuk penyedia terjemahan."
 
 #: data/resources/provider-preferences.blp:36
 #: data/resources/provider-preferences.blp:66
-#, fuzzy
 msgid "Reset to Default"
 msgstr "Kembalikan ke bawaan"
 
@@ -180,9 +175,8 @@ msgid "API Key"
 msgstr "Kunci API"
 
 #: data/resources/provider-preferences.blp:57
-#, fuzzy
 msgid "Enter an API Key for the Provider."
-msgstr "Masukkan kunci API untuk layanan terjemahan."
+msgstr "Masukkan kunci API untuk penyedia."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -265,17 +259,14 @@ msgid "Quit"
 msgstr "Keluar"
 
 #: data/resources/theme-switcher.blp:20
-#, fuzzy
 msgid "Follow System Style"
 msgstr "Ikuti gaya sistem"
 
 #: data/resources/theme-switcher.blp:35
-#, fuzzy
 msgid "Light Style"
 msgstr "Gaya terang"
 
 #: data/resources/theme-switcher.blp:50
-#, fuzzy
 msgid "Dark Style"
 msgstr "Gaya gelap"
 
@@ -315,30 +306,27 @@ msgstr "Hapus Kunci dan Coba Lagi"
 
 #: data/resources/window.blp:265 data/resources/window.blp:591
 msgid "Change Source Language"
-msgstr ""
+msgstr "Ganti bahasa sumber"
 
 #: data/resources/window.blp:270 data/resources/window.blp:599
-#, fuzzy
 msgid "Switch Languages"
-msgstr "Beralih Bahasa"
+msgstr "Alihkan bahasa"
 
 #: data/resources/window.blp:277 data/resources/window.blp:607
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Ganti bahasa tujuan"
 
 #: data/resources/window.blp:292
-#, fuzzy
 msgid "Previous Translation"
 msgstr "Terjemahan sebelumnya"
 
 #: data/resources/window.blp:298
-#, fuzzy
 msgid "Next Translation"
 msgstr "Terjemahan berikutnya"
 
 #: data/resources/window.blp:305
 msgid "Main Menu"
-msgstr ""
+msgstr "Menu utama"
 
 #: data/resources/window.blp:409
 msgid "Clear"
@@ -361,7 +349,6 @@ msgid "Translating…"
 msgstr "Menerjemahkan…"
 
 #: data/resources/window.blp:519
-#, fuzzy
 msgid "Could not Translate the Text"
 msgstr "Tidak dapat menerjemahkan teks"
 
@@ -387,11 +374,11 @@ msgstr "Otomatis"
 
 #: dialect/preferences.py:121
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Edit setelan penyedia"
 
 #: dialect/preferences.py:123
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Tidak ada setelan untuk penyedia ini"
 
 #: dialect/window.py:380 dialect/window.py:1265
 msgid "The provided API key is invalid"
@@ -432,12 +419,10 @@ msgstr ""
 "Kami tidak dapat terhubung ke peladen. Silakan periksa masalah jaringan."
 
 #: dialect/window.py:521
-#, fuzzy
 msgid "A network issue has occurred. Retry?"
 msgstr "Terjadi masalah jaringan. Ulangi?"
 
 #: dialect/window.py:535
-#, fuzzy
 msgid "A network issue has occurred. Please try again."
 msgstr "Terjadi masalah jaringan. Silakan coba lagi."
 
