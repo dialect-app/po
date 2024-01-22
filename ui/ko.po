@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-09 15:15-0500\n"
+"POT-Creation-Date: 2024-01-22 08:20-0500\n"
 "PO-Revision-Date: 2023-11-29 09:05+0000\n"
 "Last-Translator: DaeHyun Sung <sungdh86+git@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -23,7 +23,7 @@ msgstr ""
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:7
-#: data/resources/window.blp:285 dialect/main.py:60
+#: data/resources/window.blp:280 dialect/main.py:71
 msgid "Dialect"
 msgstr "다이얼렉트"
 
@@ -34,8 +34,10 @@ msgstr "다른 언어를 번역합니다"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:14
-msgid "translate;translation;"
-msgstr "translate;번역하기;translation;번역;"
+msgid ""
+"translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
+"Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
+msgstr ""
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
@@ -83,12 +85,15 @@ msgstr "자동 언어 감지"
 msgid "Clipboard buttons"
 msgstr "클립보드 단추"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:30 data/resources/about.blp:8
+#. developer_name tag deprecated with Appstream 1.0
+#: data/app.drey.Dialect.metainfo.xml.in.in:33 data/resources/about.blp:8
 msgid "The Dialect Authors"
 msgstr "다이얼렉트 저작자"
 
 #: data/resources/about.blp:9
-msgid "Copyright 2020–⁠2022 The Dialect Authors"
+#, fuzzy
+#| msgid "Copyright 2020–⁠2022 The Dialect Authors"
+msgid "Copyright 2020–⁠2023 The Dialect Authors"
 msgstr "저작권 2020–⁠2022 The Dialect Authors"
 
 #. Translators: Replace me with your names.
@@ -140,40 +145,62 @@ msgstr "데스크톱 검색에서 번역 보이기"
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr "경고: 모든 데스크톱 검색은 번역 서비스로 보냅니다"
 
-#: data/resources/preferences.ui:105
+#: data/resources/preferences.ui:99
 msgid "Translation Shortcut"
 msgstr "번역 바로 가기 키"
 
-#: data/resources/preferences.ui:106
+#: data/resources/preferences.ui:100
 msgid "The unselected choice will be used for line break."
 msgstr "선택하지 않은 항목을 줄바꿈 용도로 활용합니다."
 
-#: data/resources/preferences.ui:124
+#: data/resources/preferences.ui:118
 msgid "Default to Auto"
 msgstr "'자동'으로 기본 설정"
 
-#: data/resources/preferences.ui:125
+#: data/resources/preferences.ui:119
 msgid "Use \"Auto\" as the default language"
 msgstr "기본 언어를 \"자동\"으로 사용합니다"
 
-#: data/resources/provider-preferences.blp:25
+#: data/resources/preferences.ui:126
+msgid "Appearance"
+msgstr "모양새"
+
+#: data/resources/preferences.ui:129
+msgid "Use Custom Font Size"
+msgstr ""
+
+#: data/resources/preferences.ui:130
+msgid "System font size is used otherwise."
+msgstr ""
+
+#: data/resources/preferences.ui:136
+#, fuzzy
+#| msgid "Default to Auto"
+msgid "Default Font Size"
+msgstr "'자동'으로 기본 설정"
+
+#: data/resources/preferences.ui:137
+msgid "Changing the size via shortcuts does not overwrite this."
+msgstr ""
+
+#: data/resources/provider-preferences.blp:27
 msgid "Instance URL"
 msgstr "인스턴스 URL"
 
-#: data/resources/provider-preferences.blp:26
+#: data/resources/provider-preferences.blp:28
 msgid "Enter an Instance URL for the Provider."
 msgstr "번역 서비스용 인스턴스 URL을 입력하십시오."
 
-#: data/resources/provider-preferences.blp:36
-#: data/resources/provider-preferences.blp:66
+#: data/resources/provider-preferences.blp:38
+#: data/resources/provider-preferences.blp:68
 msgid "Reset to Default"
 msgstr "기본값으로 재설정"
 
-#: data/resources/provider-preferences.blp:56
+#: data/resources/provider-preferences.blp:58
 msgid "API Key"
 msgstr "API키"
 
-#: data/resources/provider-preferences.blp:57
+#: data/resources/provider-preferences.blp:59
 msgid "Enter an API Key for the Provider."
 msgstr "번역 서비스 API키를 입력하십시오."
 
@@ -193,66 +220,90 @@ msgid "Switch Languages"
 msgstr "언어 전환"
 
 #: data/resources/shortcuts.blp:26
+#, fuzzy
+#| msgid "Change Source Language"
+msgctxt "shortcuts window"
+msgid "Select source language"
+msgstr "원본 언어 바꾸기"
+
+#: data/resources/shortcuts.blp:31
+#, fuzzy
+#| msgid "Change Destination Language"
+msgctxt "shortcuts window"
+msgid "Select destination language"
+msgstr "대상 언어 바꾸기"
+
+#: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
 msgid "Clear source text"
 msgstr "원문 제거"
 
-#: data/resources/shortcuts.blp:31
+#: data/resources/shortcuts.blp:41
 msgctxt "shortcuts window"
 msgid "Copy translation"
 msgstr "번역 복사"
 
-#: data/resources/shortcuts.blp:36
+#: data/resources/shortcuts.blp:46
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
 msgstr "발음 표시"
 
-#: data/resources/shortcuts.blp:42
+#: data/resources/shortcuts.blp:51
+msgctxt "shortcuts window"
+msgid "Increase font size"
+msgstr ""
+
+#: data/resources/shortcuts.blp:56
+msgctxt "shortcuts window"
+msgid "Decrease font size"
+msgstr ""
+
+#: data/resources/shortcuts.blp:62
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
 msgstr "텍스트 언어 전환"
 
-#: data/resources/shortcuts.blp:45
+#: data/resources/shortcuts.blp:65
 msgctxt "shortcuts window"
 msgid "Listen to source text"
 msgstr "원문 듣기"
 
-#: data/resources/shortcuts.blp:50
+#: data/resources/shortcuts.blp:70
 msgctxt "shortcuts window"
 msgid "Listen to translation"
 msgstr "번역 듣기"
 
-#: data/resources/shortcuts.blp:56
+#: data/resources/shortcuts.blp:76
 msgctxt "shortcuts window"
 msgid "Navigation"
 msgstr "탐색"
 
-#: data/resources/shortcuts.blp:59
+#: data/resources/shortcuts.blp:79
 msgctxt "shortcuts window"
 msgid "Go back in history"
 msgstr "이전 기록 보기"
 
-#: data/resources/shortcuts.blp:64
+#: data/resources/shortcuts.blp:84
 msgctxt "shortcuts window"
 msgid "Go forward in history"
 msgstr "다음 기록 보기"
 
-#: data/resources/shortcuts.blp:70
+#: data/resources/shortcuts.blp:90
 msgctxt "shortcuts window"
 msgid "General"
 msgstr "일반"
 
-#: data/resources/shortcuts.blp:73
+#: data/resources/shortcuts.blp:93
 msgctxt "shortcuts window"
 msgid "Preferences"
 msgstr "기본 설정"
 
-#: data/resources/shortcuts.blp:78
+#: data/resources/shortcuts.blp:98
 msgctxt "shortcut window"
 msgid "Shortcuts"
 msgstr "바로 가기 키"
 
-#: data/resources/shortcuts.blp:83
+#: data/resources/shortcuts.blp:103
 msgctxt "shortcuts window"
 msgid "Quit"
 msgstr "끝내기"
@@ -273,7 +324,7 @@ msgstr "다크 모양"
 msgid "Show Pronunciation"
 msgstr "발음 표시"
 
-#: data/resources/window.blp:24 dialect/window.py:1267 dialect/window.py:1275
+#: data/resources/window.blp:24 dialect/window.py:1136
 msgid "Preferences"
 msgstr "기본 설정"
 
@@ -285,167 +336,175 @@ msgstr "키보드 바로 가기 키"
 msgid "About Dialect"
 msgstr "다이얼렉트 정보"
 
-#: data/resources/window.blp:70
+#: data/resources/window.blp:80
 msgid "Loading…"
 msgstr "불러오는 중…"
 
-#: data/resources/window.blp:103 data/resources/window.blp:135
-#: dialect/window.py:528 dialect/window.py:1259 dialect/window.py:1283
+#: data/resources/window.blp:108 data/resources/window.blp:140
+#: dialect/window.py:470 dialect/window.py:1120 dialect/window.py:1128
+#: dialect/window.py:1144
 msgid "Retry"
 msgstr "다시 시도"
 
-#: data/resources/window.blp:113 data/resources/window.blp:148
-#: data/resources/window.blp:194 data/resources/window.blp:230
+#: data/resources/window.blp:118 data/resources/window.blp:153
+#: data/resources/window.blp:193 data/resources/window.blp:229
 msgid "Open Preferences"
 msgstr "기본 설정 열기"
 
-#: data/resources/window.blp:184 data/resources/window.blp:217
+#: data/resources/window.blp:183 data/resources/window.blp:216
 msgid "Remove Key and Retry"
 msgstr "키 제거 및 다시 시도"
 
-#: data/resources/window.blp:265 data/resources/window.blp:591
+#: data/resources/window.blp:260 data/resources/window.blp:582
 msgid "Change Source Language"
 msgstr "원본 언어 바꾸기"
 
-#: data/resources/window.blp:270 data/resources/window.blp:599
+#: data/resources/window.blp:265 data/resources/window.blp:590
 msgid "Switch Languages"
 msgstr "언어 전환"
 
-#: data/resources/window.blp:277 data/resources/window.blp:607
+#: data/resources/window.blp:272 data/resources/window.blp:598
 msgid "Change Destination Language"
 msgstr "대상 언어 바꾸기"
 
-#: data/resources/window.blp:292
+#: data/resources/window.blp:287
 msgid "Previous Translation"
 msgstr "이전 번역"
 
-#: data/resources/window.blp:298
+#: data/resources/window.blp:293
 msgid "Next Translation"
 msgstr "다음 번역"
 
-#: data/resources/window.blp:305
+#: data/resources/window.blp:300
 msgid "Main Menu"
 msgstr "주 메뉴"
 
-#: data/resources/window.blp:409
+#: data/resources/window.blp:401
 msgid "Clear"
 msgstr "지우기"
 
-#: data/resources/window.blp:415
+#: data/resources/window.blp:407
 msgid "Paste"
 msgstr "붙여넣기"
 
-#: data/resources/window.blp:421 data/resources/window.blp:540
+#: data/resources/window.blp:413 data/resources/window.blp:531
 msgid "Listen"
 msgstr "듣기"
 
-#: data/resources/window.blp:442
+#: data/resources/window.blp:434
 msgid "Translate"
 msgstr "번역"
 
-#: data/resources/window.blp:514
+#: data/resources/window.blp:505
 msgid "Translating…"
 msgstr "번역중…"
 
-#: data/resources/window.blp:519
+#: data/resources/window.blp:510
 msgid "Could not Translate the Text"
 msgstr "문자열을 번역할 수 없습니다"
 
-#: data/resources/window.blp:526
+#: data/resources/window.blp:517
 msgid "Copy"
 msgstr "복사"
 
-#: data/resources/window.blp:534
+#: data/resources/window.blp:525
 msgid "Suggest Translation"
 msgstr "추천 번역"
 
-#: data/resources/window.blp:558
+#: data/resources/window.blp:549
 msgid "Cancel"
 msgstr "취소"
 
-#: data/resources/window.blp:565
+#: data/resources/window.blp:556
 msgid "Save"
 msgstr "저장"
 
-#: dialect/languages.py:88
+#: dialect/languages.py:61
 msgid "Auto"
 msgstr "자동"
 
-#: dialect/preferences.py:121
+#: dialect/main.py:196
+msgid "Donate"
+msgstr ""
+
+#: dialect/preferences.py:128
 msgid "Edit Provider Settings"
 msgstr "검색 제공자 설정 수정"
 
-#: dialect/preferences.py:123
+#: dialect/preferences.py:130
 msgid "No Settings for This Provider"
 msgstr "해당 검색 제공자에 대한 설정이 없습니다"
 
-#: dialect/window.py:380 dialect/window.py:1265
+#: dialect/window.py:356
 msgid "The provided API key is invalid"
 msgstr "주어진 API키가 유효하지 않습니다"
 
-#: dialect/window.py:382
+#: dialect/window.py:358
 msgid "Please set a valid API key in the preferences."
 msgstr "기본 설정에서 유효한 API키를 설정하세요."
 
-#: dialect/window.py:385
+#: dialect/window.py:361
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr "기본 설정에서 유효한 API키를 설정 또는 API키를 설정 해제하세요."
 
-#: dialect/window.py:402 dialect/window.py:1273
+#: dialect/window.py:377 dialect/window.py:1134
 msgid "API key is required to use the service"
 msgstr "서비스를 이용하려면 API키가 필요합니다"
 
-#: dialect/window.py:403
+#: dialect/window.py:378
 msgid "Please set an API key in the preferences."
 msgstr "기본 설정에서 API키를 설정하세요."
 
-#: dialect/window.py:416
+#: dialect/window.py:391
 msgid "Failed loading the translation service"
 msgstr "번역 서비스를 불러오기가 실패하였습니다"
 
-#: dialect/window.py:417
+#: dialect/window.py:392
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr "문제가 지속되면 디이얼렉트 버그 트래커에서 이 문제를 신고해주세요."
 
-#: dialect/window.py:426
+#: dialect/window.py:401
 msgid "Couldn’t connect to the translation service"
 msgstr "번역 서비스에 연결할 수 없습니다"
 
-#: dialect/window.py:427
+#: dialect/window.py:402
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr "서버에 연결할 수 없습니다. 네트워크 문제를 확인하십시오."
 
-#: dialect/window.py:521
+#: dialect/window.py:463
 msgid "A network issue has occurred. Retry?"
 msgstr "네트워크 문제가 발생했습니다. 다시 시도할까요?"
 
-#: dialect/window.py:535
+#: dialect/window.py:477
 msgid "A network issue has occurred. Please try again."
 msgstr "네트워크 문제를 발행했습니다. 다시 시도하십시오."
 
-#: dialect/window.py:863
+#: dialect/window.py:791
 msgid "New translation has been suggested!"
 msgstr "새로운 번역이 추천되었습니다!"
 
-#: dialect/window.py:865
+#: dialect/window.py:793 dialect/window.py:799
 msgid "Suggestion failed."
 msgstr "제안이 실패했습니다."
 
-#: dialect/window.py:1035
+#: dialect/window.py:942
 msgid "{} characters limit reached!"
 msgstr "{} 문자 한계에 도달했습니다!"
 
-#: dialect/window.py:1208
+#: dialect/window.py:1080
 msgid "Did you mean: "
 msgstr "다음을 의미합니까?: "
 
-#: dialect/window.py:1257
+#: dialect/window.py:1118 dialect/window.py:1126
 msgid "Translation failed, check for network issues"
 msgstr "번역에 실패했습니다, 네트워크 문제를 확인하십시오"
 
-#: dialect/window.py:1281
+#: dialect/window.py:1142
 msgid "Translation failed"
 msgstr "번역에 실패했습니다"
+
+#~ msgid "translate;translation;"
+#~ msgstr "translate;번역하기;translation;번역;"
 
 #~ msgid "Afrikaans"
 #~ msgstr "아프리칸스어"
@@ -802,9 +861,6 @@ msgstr "번역에 실패했습니다"
 #, fuzzy, python-brace-format
 #~ msgid "Not a valid {backend} API key"
 #~ msgstr "부적절한 {backend} 인스턴스"
-
-#~ msgid "Appearance"
-#~ msgstr "모양새"
 
 #~ msgid ""
 #~ "To reduce API abuse, the GNOME search provider in Dialect is turned off "

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-09 15:15-0500\n"
+"POT-Creation-Date: 2024-01-22 08:20-0500\n"
 "PO-Revision-Date: 2022-10-24 19:39+0000\n"
 "Last-Translator: Gediminas Murauskas <muziejusinfo@gmail.com>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/dialect/"
@@ -24,7 +24,7 @@ msgstr ""
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:7
-#: data/resources/window.blp:285 dialect/main.py:60
+#: data/resources/window.blp:280 dialect/main.py:71
 msgid "Dialect"
 msgstr "Dialektas"
 
@@ -35,8 +35,10 @@ msgstr "Vertimas tarp skirtingų kalbų"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:14
-msgid "translate;translation;"
-msgstr "versti;vertimas;vertėjas;"
+msgid ""
+"translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
+"Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
+msgstr ""
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
@@ -88,12 +90,15 @@ msgstr "Automatinis kalbos aptikimas"
 msgid "Clipboard buttons"
 msgstr "Iškarpinės mygtukai"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:30 data/resources/about.blp:8
+#. developer_name tag deprecated with Appstream 1.0
+#: data/app.drey.Dialect.metainfo.xml.in.in:33 data/resources/about.blp:8
 msgid "The Dialect Authors"
 msgstr "Dialektas programėlės autoriai"
 
 #: data/resources/about.blp:9
-msgid "Copyright 2020–⁠2022 The Dialect Authors"
+#, fuzzy
+#| msgid "Copyright 2020–⁠2022 The Dialect Authors"
+msgid "Copyright 2020–⁠2023 The Dialect Authors"
 msgstr "Copyright 2020–202č Dialekto autoriai"
 
 #. Translators: Replace me with your names.
@@ -148,42 +153,64 @@ msgstr "Rodyti vertimus darbalaukio paieškoje"
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr "Įspėjimas: Visos darbalaukio paieškos bus siunčiamos į vertimo tarnybą"
 
-#: data/resources/preferences.ui:105
+#: data/resources/preferences.ui:99
 msgid "Translation Shortcut"
 msgstr "Vertėjo spartusis klavišas"
 
-#: data/resources/preferences.ui:106
+#: data/resources/preferences.ui:100
 msgid "The unselected choice will be used for line break."
 msgstr "Nepažymėtas pasirinkimas bus naudojamas eilutės lūžiui."
 
-#: data/resources/preferences.ui:124
+#: data/resources/preferences.ui:118
 msgid "Default to Auto"
 msgstr "Numatytasis pasirinkimas: „Automatinis kalbos aptikimas”"
 
-#: data/resources/preferences.ui:125
+#: data/resources/preferences.ui:119
 msgid "Use \"Auto\" as the default language"
 msgstr "Naudokite „Automatinis kalbos aptikimas“ kaip numatytąją kalbą"
 
-#: data/resources/provider-preferences.blp:25
+#: data/resources/preferences.ui:126
+msgid "Appearance"
+msgstr "Išvaizda"
+
+#: data/resources/preferences.ui:129
+msgid "Use Custom Font Size"
+msgstr ""
+
+#: data/resources/preferences.ui:130
+msgid "System font size is used otherwise."
+msgstr ""
+
+#: data/resources/preferences.ui:136
+#, fuzzy
+#| msgid "Default to Auto"
+msgid "Default Font Size"
+msgstr "Numatytasis pasirinkimas: „Automatinis kalbos aptikimas”"
+
+#: data/resources/preferences.ui:137
+msgid "Changing the size via shortcuts does not overwrite this."
+msgstr ""
+
+#: data/resources/provider-preferences.blp:27
 msgid "Instance URL"
 msgstr ""
 
-#: data/resources/provider-preferences.blp:26
+#: data/resources/provider-preferences.blp:28
 #, fuzzy
 msgid "Enter an Instance URL for the Provider."
 msgstr "Įveskite vertimo tarnybos API raktą."
 
-#: data/resources/provider-preferences.blp:36
-#: data/resources/provider-preferences.blp:66
+#: data/resources/provider-preferences.blp:38
+#: data/resources/provider-preferences.blp:68
 #, fuzzy
 msgid "Reset to Default"
 msgstr "Atstatyti į numatytuosius nustatymus"
 
-#: data/resources/provider-preferences.blp:56
+#: data/resources/provider-preferences.blp:58
 msgid "API Key"
 msgstr "API raktas"
 
-#: data/resources/provider-preferences.blp:57
+#: data/resources/provider-preferences.blp:59
 #, fuzzy
 msgid "Enter an API Key for the Provider."
 msgstr "Įveskite vertimo tarnybos API raktą."
@@ -204,66 +231,88 @@ msgid "Switch Languages"
 msgstr "Perjungti kalbas"
 
 #: data/resources/shortcuts.blp:26
+#, fuzzy
+#| msgid "Switch languages"
+msgctxt "shortcuts window"
+msgid "Select source language"
+msgstr "Perjungti kalbas"
+
+#: data/resources/shortcuts.blp:31
+msgctxt "shortcuts window"
+msgid "Select destination language"
+msgstr ""
+
+#: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
 msgid "Clear source text"
 msgstr "Išvalyti pradinį tekstą"
 
-#: data/resources/shortcuts.blp:31
+#: data/resources/shortcuts.blp:41
 msgctxt "shortcuts window"
 msgid "Copy translation"
 msgstr "Kopijuoti vertimą"
 
-#: data/resources/shortcuts.blp:36
+#: data/resources/shortcuts.blp:46
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
 msgstr "Rodyti tarimą"
 
-#: data/resources/shortcuts.blp:42
+#: data/resources/shortcuts.blp:51
+msgctxt "shortcuts window"
+msgid "Increase font size"
+msgstr ""
+
+#: data/resources/shortcuts.blp:56
+msgctxt "shortcuts window"
+msgid "Decrease font size"
+msgstr ""
+
+#: data/resources/shortcuts.blp:62
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
 msgstr "Garsinis teksto atkūrimas"
 
-#: data/resources/shortcuts.blp:45
+#: data/resources/shortcuts.blp:65
 msgctxt "shortcuts window"
 msgid "Listen to source text"
 msgstr "Klausytis pradinio teksto"
 
-#: data/resources/shortcuts.blp:50
+#: data/resources/shortcuts.blp:70
 msgctxt "shortcuts window"
 msgid "Listen to translation"
 msgstr "Klausytis vertimo"
 
-#: data/resources/shortcuts.blp:56
+#: data/resources/shortcuts.blp:76
 msgctxt "shortcuts window"
 msgid "Navigation"
 msgstr "Naršymas"
 
-#: data/resources/shortcuts.blp:59
+#: data/resources/shortcuts.blp:79
 msgctxt "shortcuts window"
 msgid "Go back in history"
 msgstr "Grįžti atgal istorijoje"
 
-#: data/resources/shortcuts.blp:64
+#: data/resources/shortcuts.blp:84
 msgctxt "shortcuts window"
 msgid "Go forward in history"
 msgstr "Eiti į priekį istorijoje"
 
-#: data/resources/shortcuts.blp:70
+#: data/resources/shortcuts.blp:90
 msgctxt "shortcuts window"
 msgid "General"
 msgstr "Bendrieji"
 
-#: data/resources/shortcuts.blp:73
+#: data/resources/shortcuts.blp:93
 msgctxt "shortcuts window"
 msgid "Preferences"
 msgstr "Nustatymai"
 
-#: data/resources/shortcuts.blp:78
+#: data/resources/shortcuts.blp:98
 msgctxt "shortcut window"
 msgid "Shortcuts"
 msgstr "Nuorodos"
 
-#: data/resources/shortcuts.blp:83
+#: data/resources/shortcuts.blp:103
 msgctxt "shortcuts window"
 msgid "Quit"
 msgstr "Išeiti"
@@ -287,7 +336,7 @@ msgstr "Tamsus stilius"
 msgid "Show Pronunciation"
 msgstr "Rodyti tarimą"
 
-#: data/resources/window.blp:24 dialect/window.py:1267 dialect/window.py:1275
+#: data/resources/window.blp:24 dialect/window.py:1136
 msgid "Preferences"
 msgstr "Nustatymai"
 
@@ -299,177 +348,185 @@ msgstr "Spartieji klavišai"
 msgid "About Dialect"
 msgstr "Apie Dialektą"
 
-#: data/resources/window.blp:70
+#: data/resources/window.blp:80
 msgid "Loading…"
 msgstr "Įkeliama…"
 
-#: data/resources/window.blp:103 data/resources/window.blp:135
-#: dialect/window.py:528 dialect/window.py:1259 dialect/window.py:1283
+#: data/resources/window.blp:108 data/resources/window.blp:140
+#: dialect/window.py:470 dialect/window.py:1120 dialect/window.py:1128
+#: dialect/window.py:1144
 msgid "Retry"
 msgstr "Kartoti"
 
-#: data/resources/window.blp:113 data/resources/window.blp:148
-#: data/resources/window.blp:194 data/resources/window.blp:230
+#: data/resources/window.blp:118 data/resources/window.blp:153
+#: data/resources/window.blp:193 data/resources/window.blp:229
 msgid "Open Preferences"
 msgstr "Atidaryti nustatymus"
 
-#: data/resources/window.blp:184 data/resources/window.blp:217
+#: data/resources/window.blp:183 data/resources/window.blp:216
 msgid "Remove Key and Retry"
 msgstr "Pašalinkite raktą ir bandykite dar kartą"
 
-#: data/resources/window.blp:265 data/resources/window.blp:591
+#: data/resources/window.blp:260 data/resources/window.blp:582
 msgid "Change Source Language"
 msgstr ""
 
-#: data/resources/window.blp:270 data/resources/window.blp:599
+#: data/resources/window.blp:265 data/resources/window.blp:590
 #, fuzzy
 msgid "Switch Languages"
 msgstr "Perjungti kalbas"
 
-#: data/resources/window.blp:277 data/resources/window.blp:607
+#: data/resources/window.blp:272 data/resources/window.blp:598
 msgid "Change Destination Language"
 msgstr ""
 
-#: data/resources/window.blp:292
+#: data/resources/window.blp:287
 #, fuzzy
 msgid "Previous Translation"
 msgstr "Ankstesnis vertimas"
 
-#: data/resources/window.blp:298
+#: data/resources/window.blp:293
 #, fuzzy
 msgid "Next Translation"
 msgstr "Sekantis vertimas"
 
-#: data/resources/window.blp:305
+#: data/resources/window.blp:300
 msgid "Main Menu"
 msgstr ""
 
-#: data/resources/window.blp:409
+#: data/resources/window.blp:401
 msgid "Clear"
 msgstr "Išvalyti"
 
-#: data/resources/window.blp:415
+#: data/resources/window.blp:407
 msgid "Paste"
 msgstr "Įklijuoti"
 
-#: data/resources/window.blp:421 data/resources/window.blp:540
+#: data/resources/window.blp:413 data/resources/window.blp:531
 msgid "Listen"
 msgstr "Klausyti"
 
-#: data/resources/window.blp:442
+#: data/resources/window.blp:434
 msgid "Translate"
 msgstr "Versti"
 
-#: data/resources/window.blp:514
+#: data/resources/window.blp:505
 msgid "Translating…"
 msgstr "Verčiama…"
 
-#: data/resources/window.blp:519
+#: data/resources/window.blp:510
 #, fuzzy
 msgid "Could not Translate the Text"
 msgstr "Nepavyko išversti teksto"
 
-#: data/resources/window.blp:526
+#: data/resources/window.blp:517
 msgid "Copy"
 msgstr "Kopijuoti"
 
-#: data/resources/window.blp:534
+#: data/resources/window.blp:525
 msgid "Suggest Translation"
 msgstr "Siūlyti vertimą"
 
-#: data/resources/window.blp:558
+#: data/resources/window.blp:549
 msgid "Cancel"
 msgstr "Atšaukti"
 
-#: data/resources/window.blp:565
+#: data/resources/window.blp:556
 msgid "Save"
 msgstr "Išsaugoti"
 
-#: dialect/languages.py:88
+#: dialect/languages.py:61
 msgid "Auto"
 msgstr "Automatinis kalbos aptikimas"
 
-#: dialect/preferences.py:121
+#: dialect/main.py:196
+msgid "Donate"
+msgstr ""
+
+#: dialect/preferences.py:128
 msgid "Edit Provider Settings"
 msgstr ""
 
-#: dialect/preferences.py:123
+#: dialect/preferences.py:130
 msgid "No Settings for This Provider"
 msgstr ""
 
-#: dialect/window.py:380 dialect/window.py:1265
+#: dialect/window.py:356
 msgid "The provided API key is invalid"
 msgstr "Pateiktas API raktas neteisingas"
 
-#: dialect/window.py:382
+#: dialect/window.py:358
 msgid "Please set a valid API key in the preferences."
 msgstr "Nustatymuose nustatykite galiojantį API raktą."
 
-#: dialect/window.py:385
+#: dialect/window.py:361
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
 "Nustatykite galiojantį API raktą arba panaikinkite API rakto nustatymą "
 "nustatymuose."
 
-#: dialect/window.py:402 dialect/window.py:1273
+#: dialect/window.py:377 dialect/window.py:1134
 msgid "API key is required to use the service"
 msgstr "Norint naudotis paslauga, reikalingas API raktas"
 
-#: dialect/window.py:403
+#: dialect/window.py:378
 msgid "Please set an API key in the preferences."
 msgstr "Nustatymuose nustatykite API raktą."
 
-#: dialect/window.py:416
+#: dialect/window.py:391
 msgid "Failed loading the translation service"
 msgstr "Nepavyko įkelti vertimo paslaugos"
 
-#: dialect/window.py:417
+#: dialect/window.py:392
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
 "Jei problema išlieka, praneškite apie tai Dialekto klaidų sekimo priemonėje."
 
-#: dialect/window.py:426
+#: dialect/window.py:401
 msgid "Couldn’t connect to the translation service"
 msgstr "Nepavyko prisijungti prie vertimo paslaugos"
 
-#: dialect/window.py:427
+#: dialect/window.py:402
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
 "Negalime prisijungti prie serverio. Patikrinkite, ar nėra tinklo problemų."
 
-#: dialect/window.py:521
+#: dialect/window.py:463
 #, fuzzy
 msgid "A network issue has occurred. Retry?"
 msgstr "Įvyko tinklo klaida. Pakartoti bandymą?"
 
-#: dialect/window.py:535
+#: dialect/window.py:477
 #, fuzzy
 msgid "A network issue has occurred. Please try again."
 msgstr "Įvyko tinklo klaida. Bandykite dar kartą."
 
-#: dialect/window.py:863
+#: dialect/window.py:791
 msgid "New translation has been suggested!"
 msgstr "Pasiūlytas naujas vertimas!"
 
-#: dialect/window.py:865
+#: dialect/window.py:793 dialect/window.py:799
 msgid "Suggestion failed."
 msgstr "Pasiūlymas nepavyko."
 
-#: dialect/window.py:1035
+#: dialect/window.py:942
 msgid "{} characters limit reached!"
 msgstr "{} simbolių limitas pasiektas!"
 
-#: dialect/window.py:1208
+#: dialect/window.py:1080
 msgid "Did you mean: "
 msgstr "Ar turėjote omenyje: "
 
-#: dialect/window.py:1257
+#: dialect/window.py:1118 dialect/window.py:1126
 msgid "Translation failed, check for network issues"
 msgstr "Vertimas nepavyko, patikrinkite, ar nėra tinklo problemų"
 
-#: dialect/window.py:1281
+#: dialect/window.py:1142
 msgid "Translation failed"
 msgstr "Vertimas nepavyko"
+
+#~ msgid "translate;translation;"
+#~ msgstr "versti;vertimas;vertėjas;"
 
 #~ msgid "Afrikaans"
 #~ msgstr "afrikanų"
@@ -816,9 +873,6 @@ msgstr "Vertimas nepavyko"
 #~ msgid "Use Google for TTS."
 #~ msgstr "Naudoti „Google“ TTS (Garsinį teksto atkūrimą)."
 
-#~ msgid "Switch languages"
-#~ msgstr "Perjungti kalbas"
-
 #, python-brace-format
 #~ msgid "Not a valid {backend} instance"
 #~ msgstr "Netinkamas {backend} išteklius"
@@ -843,9 +897,6 @@ msgstr "Vertimas nepavyko"
 #~ msgstr ""
 #~ "Negalime prisijungti prie {service} perdavimo šaltinio „{url}“.\n"
 #~ " Patikrinkite, ar nėra tinklo problemų arba ar teisingas adresas."
-
-#~ msgid "Appearance"
-#~ msgstr "Išvaizda"
 
 #~ msgid ""
 #~ "To reduce API abuse, the GNOME search provider in Dialect is turned off "

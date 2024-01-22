@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-09 15:15-0500\n"
+"POT-Creation-Date: 2024-01-22 08:20-0500\n"
 "PO-Revision-Date: 2024-01-06 01:09+0000\n"
 "Last-Translator: Filipe Motta <luiz_filipe_motta@hotmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
@@ -22,7 +22,7 @@ msgstr ""
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:7
-#: data/resources/window.blp:285 dialect/main.py:60
+#: data/resources/window.blp:280 dialect/main.py:71
 msgid "Dialect"
 msgstr "Dialect"
 
@@ -33,8 +33,10 @@ msgstr "Traduza entre idiomas"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:14
-msgid "translate;translation;"
-msgstr "traduzir;tradução;tradutor;"
+msgid ""
+"translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
+"Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
+msgstr ""
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
@@ -84,12 +86,15 @@ msgstr "Detecção automática de idioma"
 msgid "Clipboard buttons"
 msgstr "Botões da área de transferência"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:30 data/resources/about.blp:8
+#. developer_name tag deprecated with Appstream 1.0
+#: data/app.drey.Dialect.metainfo.xml.in.in:33 data/resources/about.blp:8
 msgid "The Dialect Authors"
 msgstr "Autores do Dialect"
 
 #: data/resources/about.blp:9
-msgid "Copyright 2020–⁠2022 The Dialect Authors"
+#, fuzzy
+#| msgid "Copyright 2020–⁠2022 The Dialect Authors"
+msgid "Copyright 2020–⁠2023 The Dialect Authors"
 msgstr "Copyright 2020–⁠2022 Autores do Dialect"
 
 #. Translators: Replace me with your names.
@@ -147,40 +152,62 @@ msgstr ""
 "Atenção: todas as pesquisas na área de trabalho serão enviadas para o "
 "serviço de tradução"
 
-#: data/resources/preferences.ui:105
+#: data/resources/preferences.ui:99
 msgid "Translation Shortcut"
 msgstr "Atalho de tradução"
 
-#: data/resources/preferences.ui:106
+#: data/resources/preferences.ui:100
 msgid "The unselected choice will be used for line break."
 msgstr "A escolha não selecionada será usada para quebra de linha."
 
-#: data/resources/preferences.ui:124
+#: data/resources/preferences.ui:118
 msgid "Default to Auto"
 msgstr "Automático por padrão"
 
-#: data/resources/preferences.ui:125
+#: data/resources/preferences.ui:119
 msgid "Use \"Auto\" as the default language"
 msgstr "Usar \"Automático\" como o idioma padrão"
 
-#: data/resources/provider-preferences.blp:25
+#: data/resources/preferences.ui:126
+msgid "Appearance"
+msgstr "Aparência"
+
+#: data/resources/preferences.ui:129
+msgid "Use Custom Font Size"
+msgstr ""
+
+#: data/resources/preferences.ui:130
+msgid "System font size is used otherwise."
+msgstr ""
+
+#: data/resources/preferences.ui:136
+#, fuzzy
+#| msgid "Default to Auto"
+msgid "Default Font Size"
+msgstr "Automático por padrão"
+
+#: data/resources/preferences.ui:137
+msgid "Changing the size via shortcuts does not overwrite this."
+msgstr ""
+
+#: data/resources/provider-preferences.blp:27
 msgid "Instance URL"
 msgstr "URL da instância"
 
-#: data/resources/provider-preferences.blp:26
+#: data/resources/provider-preferences.blp:28
 msgid "Enter an Instance URL for the Provider."
 msgstr "Insira uma URL de instância para o provedor."
 
-#: data/resources/provider-preferences.blp:36
-#: data/resources/provider-preferences.blp:66
+#: data/resources/provider-preferences.blp:38
+#: data/resources/provider-preferences.blp:68
 msgid "Reset to Default"
 msgstr "Redefinir para padrão"
 
-#: data/resources/provider-preferences.blp:56
+#: data/resources/provider-preferences.blp:58
 msgid "API Key"
 msgstr "Chave de API"
 
-#: data/resources/provider-preferences.blp:57
+#: data/resources/provider-preferences.blp:59
 msgid "Enter an API Key for the Provider."
 msgstr "Insira uma chave de API para o provedor."
 
@@ -200,66 +227,90 @@ msgid "Switch Languages"
 msgstr "Alternar idiomas"
 
 #: data/resources/shortcuts.blp:26
+#, fuzzy
+#| msgid "Change Source Language"
+msgctxt "shortcuts window"
+msgid "Select source language"
+msgstr "Alterar idioma de origem"
+
+#: data/resources/shortcuts.blp:31
+#, fuzzy
+#| msgid "Change Destination Language"
+msgctxt "shortcuts window"
+msgid "Select destination language"
+msgstr "Alterar idioma de destino"
+
+#: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
 msgid "Clear source text"
 msgstr "Limpar texto original"
 
-#: data/resources/shortcuts.blp:31
+#: data/resources/shortcuts.blp:41
 msgctxt "shortcuts window"
 msgid "Copy translation"
 msgstr "Copiar tradução"
 
-#: data/resources/shortcuts.blp:36
+#: data/resources/shortcuts.blp:46
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
 msgstr "Mostrar pronúncia"
 
-#: data/resources/shortcuts.blp:42
+#: data/resources/shortcuts.blp:51
+msgctxt "shortcuts window"
+msgid "Increase font size"
+msgstr ""
+
+#: data/resources/shortcuts.blp:56
+msgctxt "shortcuts window"
+msgid "Decrease font size"
+msgstr ""
+
+#: data/resources/shortcuts.blp:62
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
 msgstr "Texto-para-fala"
 
-#: data/resources/shortcuts.blp:45
+#: data/resources/shortcuts.blp:65
 msgctxt "shortcuts window"
 msgid "Listen to source text"
 msgstr "Ouvir texto original"
 
-#: data/resources/shortcuts.blp:50
+#: data/resources/shortcuts.blp:70
 msgctxt "shortcuts window"
 msgid "Listen to translation"
 msgstr "Ouvir tradução"
 
-#: data/resources/shortcuts.blp:56
+#: data/resources/shortcuts.blp:76
 msgctxt "shortcuts window"
 msgid "Navigation"
 msgstr "Navegação"
 
-#: data/resources/shortcuts.blp:59
+#: data/resources/shortcuts.blp:79
 msgctxt "shortcuts window"
 msgid "Go back in history"
 msgstr "Voltar no histórico"
 
-#: data/resources/shortcuts.blp:64
+#: data/resources/shortcuts.blp:84
 msgctxt "shortcuts window"
 msgid "Go forward in history"
 msgstr "Avançar no histórico"
 
-#: data/resources/shortcuts.blp:70
+#: data/resources/shortcuts.blp:90
 msgctxt "shortcuts window"
 msgid "General"
 msgstr "Geral"
 
-#: data/resources/shortcuts.blp:73
+#: data/resources/shortcuts.blp:93
 msgctxt "shortcuts window"
 msgid "Preferences"
 msgstr "Preferências"
 
-#: data/resources/shortcuts.blp:78
+#: data/resources/shortcuts.blp:98
 msgctxt "shortcut window"
 msgid "Shortcuts"
 msgstr "Atalhos"
 
-#: data/resources/shortcuts.blp:83
+#: data/resources/shortcuts.blp:103
 msgctxt "shortcuts window"
 msgid "Quit"
 msgstr "Sair"
@@ -280,7 +331,7 @@ msgstr "Estilo escuro"
 msgid "Show Pronunciation"
 msgstr "Mostrar pronúncia"
 
-#: data/resources/window.blp:24 dialect/window.py:1267 dialect/window.py:1275
+#: data/resources/window.blp:24 dialect/window.py:1136
 msgid "Preferences"
 msgstr "Preferências"
 
@@ -292,169 +343,178 @@ msgstr "Atalhos de teclado"
 msgid "About Dialect"
 msgstr "Sobre o Dialect"
 
-#: data/resources/window.blp:70
+#: data/resources/window.blp:80
 msgid "Loading…"
 msgstr "Carregando…"
 
-#: data/resources/window.blp:103 data/resources/window.blp:135
-#: dialect/window.py:528 dialect/window.py:1259 dialect/window.py:1283
+#: data/resources/window.blp:108 data/resources/window.blp:140
+#: dialect/window.py:470 dialect/window.py:1120 dialect/window.py:1128
+#: dialect/window.py:1144
 msgid "Retry"
 msgstr "Tentar novamente"
 
-#: data/resources/window.blp:113 data/resources/window.blp:148
-#: data/resources/window.blp:194 data/resources/window.blp:230
+#: data/resources/window.blp:118 data/resources/window.blp:153
+#: data/resources/window.blp:193 data/resources/window.blp:229
 msgid "Open Preferences"
 msgstr "Abrir preferências"
 
-#: data/resources/window.blp:184 data/resources/window.blp:217
+#: data/resources/window.blp:183 data/resources/window.blp:216
 msgid "Remove Key and Retry"
 msgstr "Remover a chave e tentar novamente"
 
-#: data/resources/window.blp:265 data/resources/window.blp:591
+#: data/resources/window.blp:260 data/resources/window.blp:582
 msgid "Change Source Language"
 msgstr "Alterar idioma de origem"
 
-#: data/resources/window.blp:270 data/resources/window.blp:599
+#: data/resources/window.blp:265 data/resources/window.blp:590
 msgid "Switch Languages"
 msgstr "Alternar idiomas"
 
-#: data/resources/window.blp:277 data/resources/window.blp:607
+#: data/resources/window.blp:272 data/resources/window.blp:598
 msgid "Change Destination Language"
 msgstr "Alterar idioma de destino"
 
-#: data/resources/window.blp:292
+#: data/resources/window.blp:287
 msgid "Previous Translation"
 msgstr "Tradução anterior"
 
-#: data/resources/window.blp:298
+#: data/resources/window.blp:293
 msgid "Next Translation"
 msgstr "Próxima tradução"
 
-#: data/resources/window.blp:305
+#: data/resources/window.blp:300
 msgid "Main Menu"
 msgstr "Menu principal"
 
-#: data/resources/window.blp:409
+#: data/resources/window.blp:401
 msgid "Clear"
 msgstr "Limpar"
 
-#: data/resources/window.blp:415
+#: data/resources/window.blp:407
 msgid "Paste"
 msgstr "Colar"
 
-#: data/resources/window.blp:421 data/resources/window.blp:540
+#: data/resources/window.blp:413 data/resources/window.blp:531
 msgid "Listen"
 msgstr "Ouvir"
 
-#: data/resources/window.blp:442
+#: data/resources/window.blp:434
 msgid "Translate"
 msgstr "Traduzir"
 
-#: data/resources/window.blp:514
+#: data/resources/window.blp:505
 msgid "Translating…"
 msgstr "Traduzindo…"
 
-#: data/resources/window.blp:519
+#: data/resources/window.blp:510
 msgid "Could not Translate the Text"
 msgstr "Não foi possível traduzir o texto"
 
-#: data/resources/window.blp:526
+#: data/resources/window.blp:517
 msgid "Copy"
 msgstr "Copiar"
 
-#: data/resources/window.blp:534
+#: data/resources/window.blp:525
 msgid "Suggest Translation"
 msgstr "Sugerir tradução"
 
-#: data/resources/window.blp:558
+#: data/resources/window.blp:549
 msgid "Cancel"
 msgstr "Cancelar"
 
-#: data/resources/window.blp:565
+#: data/resources/window.blp:556
 msgid "Save"
 msgstr "Salvar"
 
-#: dialect/languages.py:88
+#: dialect/languages.py:61
 msgid "Auto"
 msgstr "Automático"
 
-#: dialect/preferences.py:121
+#: dialect/main.py:196
+msgid "Donate"
+msgstr ""
+
+#: dialect/preferences.py:128
 msgid "Edit Provider Settings"
 msgstr "Editar configurações do provedor"
 
-#: dialect/preferences.py:123
+#: dialect/preferences.py:130
 msgid "No Settings for This Provider"
 msgstr "Nenhuma configuração para este provedor"
 
-#: dialect/window.py:380 dialect/window.py:1265
+#: dialect/window.py:356
 msgid "The provided API key is invalid"
 msgstr "A chave de API fornecida é inválida"
 
-#: dialect/window.py:382
+#: dialect/window.py:358
 msgid "Please set a valid API key in the preferences."
 msgstr "Defina uma chave de API válida nas preferências."
 
-#: dialect/window.py:385
+#: dialect/window.py:361
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
 "Defina uma chave de API válida ou desative a chave de API nas preferências."
 
-#: dialect/window.py:402 dialect/window.py:1273
+#: dialect/window.py:377 dialect/window.py:1134
 msgid "API key is required to use the service"
 msgstr "Uma chave de API é necessária para usar o serviço"
 
-#: dialect/window.py:403
+#: dialect/window.py:378
 msgid "Please set an API key in the preferences."
 msgstr "Defina uma chave de API nas preferências."
 
-#: dialect/window.py:416
+#: dialect/window.py:391
 msgid "Failed loading the translation service"
 msgstr "Falha ao carregar o serviço de tradução"
 
-#: dialect/window.py:417
+#: dialect/window.py:392
 msgid "Please report this in the Dialect bug tracker if the issue persists."
-msgstr "Relate o erro no rastreador de bugs do Dialect se o problema persistir."
+msgstr ""
+"Relate o erro no rastreador de bugs do Dialect se o problema persistir."
 
-#: dialect/window.py:426
+#: dialect/window.py:401
 msgid "Couldn’t connect to the translation service"
 msgstr "Não foi possível conectar ao serviço de tradução"
 
-#: dialect/window.py:427
+#: dialect/window.py:402
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
 "Não foi possível conectar ao servidor. Verifique se há problemas de rede."
 
-#: dialect/window.py:521
+#: dialect/window.py:463
 msgid "A network issue has occurred. Retry?"
 msgstr "Ocorreu um problema de rede. Tentar novamente?"
 
-#: dialect/window.py:535
+#: dialect/window.py:477
 msgid "A network issue has occurred. Please try again."
 msgstr "Ocorreu um problema de rede. Tente novamente, por favor."
 
-#: dialect/window.py:863
+#: dialect/window.py:791
 msgid "New translation has been suggested!"
 msgstr "Uma nova tradução foi sugerida!"
 
-#: dialect/window.py:865
+#: dialect/window.py:793 dialect/window.py:799
 msgid "Suggestion failed."
 msgstr "A sugestão falhou."
 
-#: dialect/window.py:1035
+#: dialect/window.py:942
 msgid "{} characters limit reached!"
 msgstr "Limite de {} caracteres atingido!"
 
-#: dialect/window.py:1208
+#: dialect/window.py:1080
 msgid "Did you mean: "
 msgstr "Você quis dizer: "
 
-#: dialect/window.py:1257
+#: dialect/window.py:1118 dialect/window.py:1126
 msgid "Translation failed, check for network issues"
 msgstr "A tradução falhou, verifique se há problemas de rede"
 
-#: dialect/window.py:1281
+#: dialect/window.py:1142
 msgid "Translation failed"
 msgstr "A tradução falhou"
+
+#~ msgid "translate;translation;"
+#~ msgstr "traduzir;tradução;tradutor;"
 
 #~ msgid "Afrikaans"
 #~ msgstr "africâner"
@@ -828,9 +888,6 @@ msgstr "A tradução falhou"
 #~ msgstr ""
 #~ "Não foi possível conectar à instância do {service} \"{url}\".\n"
 #~ " Verifique se há problemas de rede ou se o endereço está correto."
-
-#~ msgid "Appearance"
-#~ msgstr "Aparência"
 
 #~ msgid ""
 #~ "To reduce API abuse, the GNOME search provider in Dialect is turned off "
