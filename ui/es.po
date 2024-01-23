@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-01-22 08:20-0500\n"
-"PO-Revision-Date: 2023-09-15 13:55+0000\n"
-"Last-Translator: Sergio Varela <sergitroll9@gmail.com>\n"
+"PO-Revision-Date: 2024-01-23 07:15+0000\n"
+"Last-Translator: Rafael Mardojai CM <mardojai.cardenas@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/dialect/dialect/"
 "es/>\n"
 "Language: es\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.0.1-dev\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -38,6 +38,8 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"traducir;traduccion;Google Translate;LibreTranslate;Lingva Translate;Bing "
+"Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
@@ -93,10 +95,8 @@ msgid "The Dialect Authors"
 msgstr "Los autores de Dialect"
 
 #: data/resources/about.blp:9
-#, fuzzy
-#| msgid "Copyright 2020–⁠2022 The Dialect Authors"
 msgid "Copyright 2020–⁠2023 The Dialect Authors"
-msgstr "Derechos de autor © 2020–2022 Los Autores de Dialect"
+msgstr "Derechos de autor © 2020–2023 Los Autores de Dialect"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:17
@@ -171,21 +171,19 @@ msgstr "Apariencia"
 
 #: data/resources/preferences.ui:129
 msgid "Use Custom Font Size"
-msgstr ""
+msgstr "Usar tamaño de fuente personalizado"
 
 #: data/resources/preferences.ui:130
 msgid "System font size is used otherwise."
-msgstr ""
+msgstr "De lo contrario, se utiliza el tamaño de fuente del sistema."
 
 #: data/resources/preferences.ui:136
-#, fuzzy
-#| msgid "Default to Auto"
 msgid "Default Font Size"
-msgstr "Automático predeterminado"
+msgstr "Tamaño de fuente predeterminado"
 
 #: data/resources/preferences.ui:137
 msgid "Changing the size via shortcuts does not overwrite this."
-msgstr ""
+msgstr "El cambio de tamaño mediante accesos directos no lo sobrescribe."
 
 #: data/resources/provider-preferences.blp:27
 msgid "Instance URL"
@@ -224,18 +222,14 @@ msgid "Switch Languages"
 msgstr "Intercambiar idiomas"
 
 #: data/resources/shortcuts.blp:26
-#, fuzzy
-#| msgid "Change Source Language"
 msgctxt "shortcuts window"
 msgid "Select source language"
-msgstr "Cambiar el idioma de origen"
+msgstr "Seleccionar idioma de origen"
 
 #: data/resources/shortcuts.blp:31
-#, fuzzy
-#| msgid "Change Destination Language"
 msgctxt "shortcuts window"
 msgid "Select destination language"
-msgstr "Cambiar el idioma de destino"
+msgstr "Seleccione el idioma de destino"
 
 #: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
@@ -255,12 +249,12 @@ msgstr "Mostrar pronunciación"
 #: data/resources/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr ""
+msgstr "Aumentar el tamaño de letra"
 
 #: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr ""
+msgstr "Reducir el tamaño de letra"
 
 #: data/resources/shortcuts.blp:62
 msgctxt "shortcuts window"
@@ -429,7 +423,7 @@ msgstr "Automático"
 
 #: dialect/main.py:196
 msgid "Donate"
-msgstr ""
+msgstr "Donar"
 
 #: dialect/preferences.py:128
 msgid "Edit Provider Settings"
