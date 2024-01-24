@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-01-22 08:20-0500\n"
-"PO-Revision-Date: 2024-01-14 17:06+0000\n"
+"PO-Revision-Date: 2024-01-24 08:01+0000\n"
 "Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Occitan <https://hosted.weblate.org/projects/dialect/dialect/"
 "oc/>\n"
@@ -37,6 +37,9 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"traduire;tradusir;revirar;virar;traduccion;Google Translate;Libre Translate;"
+"Lingva Translate;Bing Microsoft Translator;Bing Translator;Microsoft "
+"Translator;Yandex Translate; "
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
@@ -92,10 +95,8 @@ msgid "The Dialect Authors"
 msgstr "Los autors de Dialècte"
 
 #: data/resources/about.blp:9
-#, fuzzy
-#| msgid "Copyright 2020–⁠2022 The Dialect Authors"
 msgid "Copyright 2020–⁠2023 The Dialect Authors"
-msgstr "Dreches d’autor© 2020-2022 dels autors de Dialècte"
+msgstr "Dreches d’autor© 2020-2023 dels autors de Dialècte"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:17
@@ -123,7 +124,6 @@ msgid "Text-to-Speech"
 msgstr "Sintèsi vocala"
 
 #: data/resources/preferences.ui:48
-#, fuzzy
 msgid "Choose from the available TTS services."
 msgstr "Causissètz un dels servicis de traduccion disponibles."
 
@@ -137,16 +137,17 @@ msgstr "Traduccion en simultanèa"
 
 #: data/resources/preferences.ui:85
 msgid "Warning: Your IP address may get banned for API abuse."
-msgstr ""
+msgstr "Avís : vos pòdon blocar l'adreça IP per abús de L'API."
 
 #: data/resources/preferences.ui:91
-#, fuzzy
 msgid "Show Translations in Desktop Search"
-msgstr "Istoric de traduccions"
+msgstr "Mostrar las traduccions dins la recèrca pel burèu"
 
 #: data/resources/preferences.ui:92
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr ""
+"Atencion : totas las recèrcas fachas pel burèu seràn enviadas al servici de "
+"traduccion"
 
 #: data/resources/preferences.ui:99
 msgid "Translation Shortcut"
@@ -154,7 +155,7 @@ msgstr "Acorchi d’ajuda"
 
 #: data/resources/preferences.ui:100
 msgid "The unselected choice will be used for line break."
-msgstr ""
+msgstr "L'opcion non seleccionada serà utilizada pel saut de linha."
 
 #: data/resources/preferences.ui:118
 msgid "Default to Auto"
@@ -162,7 +163,7 @@ msgstr "Per defaut sus Auto"
 
 #: data/resources/preferences.ui:119
 msgid "Use \"Auto\" as the default language"
-msgstr ""
+msgstr "Utilizar « Auto » coma lenga per defaut"
 
 #: data/resources/preferences.ui:126
 msgid "Appearance"
@@ -170,45 +171,40 @@ msgstr "Aparéncia"
 
 #: data/resources/preferences.ui:129
 msgid "Use Custom Font Size"
-msgstr ""
+msgstr "Utilizar una talha de polissa personalizada"
 
 #: data/resources/preferences.ui:130
 msgid "System font size is used otherwise."
-msgstr ""
+msgstr "Autrament s'utilizar la talha de polissa del sistèma."
 
 #: data/resources/preferences.ui:136
-#, fuzzy
-#| msgid "Default to Auto"
 msgid "Default Font Size"
-msgstr "Per defaut sus Auto"
+msgstr "Talha de polissa per defaut"
 
 #: data/resources/preferences.ui:137
 msgid "Changing the size via shortcuts does not overwrite this."
-msgstr ""
+msgstr "Cambiar la talha via un acorchi clavièr subrecarga pas aquò."
 
 #: data/resources/provider-preferences.blp:27
 msgid "Instance URL"
 msgstr "URL de l'instància :"
 
 #: data/resources/provider-preferences.blp:28
-#, fuzzy
 msgid "Enter an Instance URL for the Provider."
-msgstr "Dintratz l’URL d’un servici de traduccion."
+msgstr "Dintratz l’URL de l'instance d’un provesidor."
 
 #: data/resources/provider-preferences.blp:38
 #: data/resources/provider-preferences.blp:68
-#, fuzzy
 msgid "Reset to Default"
-msgstr "Reïnicializar los paramètres"
+msgstr "Tornar als paramètres predeterminats"
 
 #: data/resources/provider-preferences.blp:58
 msgid "API Key"
 msgstr "Clau API"
 
 #: data/resources/provider-preferences.blp:59
-#, fuzzy
 msgid "Enter an API Key for the Provider."
-msgstr "Dintratz l’URL d’un servici de traduccion."
+msgstr "Dintratz la clau d'API d’un provesidor."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -226,18 +222,14 @@ msgid "Switch Languages"
 msgstr "Intervertir las lengas"
 
 #: data/resources/shortcuts.blp:26
-#, fuzzy
-#| msgid "Change Source Language"
 msgctxt "shortcuts window"
 msgid "Select source language"
-msgstr "Cambiar la lenga d'origina"
+msgstr "Causir la lenga d'origina"
 
 #: data/resources/shortcuts.blp:31
-#, fuzzy
-#| msgid "Change Destination Language"
 msgctxt "shortcuts window"
 msgid "Select destination language"
-msgstr "Cambiar la lenga de destinacion"
+msgstr "Causir la lenga de destinacion"
 
 #: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
@@ -257,12 +249,12 @@ msgstr "Mostrar la prononciacion"
 #: data/resources/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr ""
+msgstr "Aumentar la talha de la polissa"
 
 #: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr ""
+msgstr "Demesir la talha de la polissa"
 
 #: data/resources/shortcuts.blp:62
 msgctxt "shortcuts window"
@@ -319,12 +311,10 @@ msgid "Follow System Style"
 msgstr "Seguir l'estil del sistèma"
 
 #: data/resources/theme-switcher.blp:35
-#, fuzzy
 msgid "Light Style"
-msgstr "Estil escur"
+msgstr "Estil clar"
 
 #: data/resources/theme-switcher.blp:50
-#, fuzzy
 msgid "Dark Style"
 msgstr "Estil escur"
 
@@ -368,21 +358,18 @@ msgid "Change Source Language"
 msgstr "Cambiar la lenga d'origina"
 
 #: data/resources/window.blp:265 data/resources/window.blp:590
-#, fuzzy
 msgid "Switch Languages"
-msgstr "Intervertir las lengas"
+msgstr "Cambiarr las lengas"
 
 #: data/resources/window.blp:272 data/resources/window.blp:598
 msgid "Change Destination Language"
 msgstr "Cambiar la lenga de destinacion"
 
 #: data/resources/window.blp:287
-#, fuzzy
 msgid "Previous Translation"
 msgstr "Traduccion precedenta"
 
 #: data/resources/window.blp:293
-#, fuzzy
 msgid "Next Translation"
 msgstr "Traduccion seguenta"
 
@@ -411,7 +398,6 @@ msgid "Translating…"
 msgstr "Traduccion…"
 
 #: data/resources/window.blp:510
-#, fuzzy
 msgid "Could not Translate the Text"
 msgstr "Traduccion impossibla del tèxt"
 
@@ -420,9 +406,8 @@ msgid "Copy"
 msgstr "Copiar"
 
 #: data/resources/window.blp:525
-#, fuzzy
 msgid "Suggest Translation"
-msgstr "Traduccion en simultanèa"
+msgstr "Traduccion en suggerida"
 
 #: data/resources/window.blp:549
 msgid "Cancel"
@@ -438,7 +423,7 @@ msgstr "Auto"
 
 #: dialect/main.py:196
 msgid "Donate"
-msgstr ""
+msgstr "Don"
 
 #: dialect/preferences.py:128
 msgid "Edit Provider Settings"
@@ -450,41 +435,44 @@ msgstr "Cap de paramètres per aqueste provesidor"
 
 #: dialect/window.py:356
 msgid "The provided API key is invalid"
-msgstr ""
+msgstr "La clau d'API provesida es invalida"
 
 #: dialect/window.py:358
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "Mercés de definir una clau d'API valida dins las preferéncias."
 
 #: dialect/window.py:361
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
+"Mercés de definir una clau d'API valida o levatz-la de las preferéncias."
 
 #: dialect/window.py:377 dialect/window.py:1134
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "Una clau d'API es requerida per utilizar aqueste servici"
 
 #: dialect/window.py:378
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "Mercés de definir una clau d'API dins las preferéncias."
 
 #: dialect/window.py:391
-#, fuzzy
 msgid "Failed loading the translation service"
 msgstr "Cargament impossible del servici de traduccion"
 
 #: dialect/window.py:392
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
+"Mercés de senhalar aqueste problèma al seguiment d'anomalias de Dialect se "
+"lo problèma persistís."
 
 #: dialect/window.py:401
-#, fuzzy
 msgid "Couldn’t connect to the translation service"
-msgstr "Cargament impossible del servici de traduccion"
+msgstr "Connexion impossibla al servici de traduccion"
 
 #: dialect/window.py:402
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
+"Podèm pas nos connectar al servidor. Mercés de verificar se i a de problèmas "
+"de ret."
 
 #: dialect/window.py:463
 msgid "A network issue has occurred. Retry?"
