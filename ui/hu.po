@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-01-22 08:20-0500\n"
-"PO-Revision-Date: 2023-05-15 19:53+0000\n"
+"PO-Revision-Date: 2024-01-24 08:01+0000\n"
 "Last-Translator: ovari <ovari123@zoho.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/dialect/"
 "dialect/hu/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -37,6 +37,8 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"fordít;fordítás;Google fordító;LibreTranslate;Lingva fordító;Bing Microsoft "
+"fordító;Bing fordító;Microsoft fordító;Yandex fordító; "
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
@@ -92,10 +94,8 @@ msgid "The Dialect Authors"
 msgstr "A Dialect szerzői"
 
 #: data/resources/about.blp:9
-#, fuzzy
-#| msgid "Copyright 2020–⁠2022 The Dialect Authors"
 msgid "Copyright 2020–⁠2023 The Dialect Authors"
-msgstr "Szerzői jog © 2020–2021 A Dialect szerzői"
+msgstr "Szerzői jog © 2020–2023 A Dialect szerzői"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:17
@@ -173,21 +173,19 @@ msgstr "Megjelenés"
 
 #: data/resources/preferences.ui:129
 msgid "Use Custom Font Size"
-msgstr ""
+msgstr "Egyéni betűméret használata"
 
 #: data/resources/preferences.ui:130
 msgid "System font size is used otherwise."
-msgstr ""
+msgstr "Ellenkező esetben a rendszer betűméretét használja."
 
 #: data/resources/preferences.ui:136
-#, fuzzy
-#| msgid "Default to Auto"
 msgid "Default Font Size"
-msgstr "Alapértelmezés szerint „Automatikus”"
+msgstr "Alapértelmezett betűméret"
 
 #: data/resources/preferences.ui:137
 msgid "Changing the size via shortcuts does not overwrite this."
-msgstr ""
+msgstr "A méret parancsikonokkal történő módosítása nem írja felül ezt."
 
 #: data/resources/provider-preferences.blp:27
 msgid "Instance URL"
@@ -226,18 +224,14 @@ msgid "Switch Languages"
 msgstr "Nyelvek felcserélése"
 
 #: data/resources/shortcuts.blp:26
-#, fuzzy
-#| msgid "Change Source Language"
 msgctxt "shortcuts window"
 msgid "Select source language"
-msgstr "Forrásnyelv módosítása"
+msgstr "Forrásnyelv kijelölése"
 
 #: data/resources/shortcuts.blp:31
-#, fuzzy
-#| msgid "Change Destination Language"
 msgctxt "shortcuts window"
 msgid "Select destination language"
-msgstr "Célnyelv módosítása"
+msgstr "Célnyelv kijelölése"
 
 #: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
@@ -257,12 +251,12 @@ msgstr "Kiejtés megjelenítése"
 #: data/resources/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr ""
+msgstr "Betűméret növelése"
 
 #: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr ""
+msgstr "Betűméret csökkentése"
 
 #: data/resources/shortcuts.blp:62
 msgctxt "shortcuts window"
@@ -431,7 +425,7 @@ msgstr "Automatikus"
 
 #: dialect/main.py:196
 msgid "Donate"
-msgstr ""
+msgstr "Adományozás"
 
 #: dialect/preferences.py:128
 msgid "Edit Provider Settings"
