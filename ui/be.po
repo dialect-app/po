@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-01-22 08:20-0500\n"
-"PO-Revision-Date: 2023-12-02 20:04+0000\n"
+"PO-Revision-Date: 2024-01-26 22:01+0000\n"
 "Last-Translator: Yahor <k1llo2810@protonmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/dialect/"
 "dialect/be/>\n"
@@ -16,9 +16,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 5.3-dev\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -38,6 +38,9 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
+"Microsoft Translator;Bing Translator;Microsoft Translator;Yandex "
+"Translate;пераклад;пераклад; "
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
@@ -93,10 +96,8 @@ msgid "The Dialect Authors"
 msgstr "Аўтары Dialect"
 
 #: data/resources/about.blp:9
-#, fuzzy
-#| msgid "Copyright 2020–⁠2022 The Dialect Authors"
 msgid "Copyright 2020–⁠2023 The Dialect Authors"
-msgstr "Аўтарскае права 2020–⁠2022 Аўтары Dialect"
+msgstr "Аўтарскае права 2020–⁠2023 Аўтары Dialect"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:17
@@ -167,25 +168,23 @@ msgstr "Выкарыстоўваць «Аўта» ў якасці мовы па 
 
 #: data/resources/preferences.ui:126
 msgid "Appearance"
-msgstr ""
+msgstr "Знешні выгляд"
 
 #: data/resources/preferences.ui:129
 msgid "Use Custom Font Size"
-msgstr ""
+msgstr "Выкарыстоўвайць карыстальніцкі памер шрыфта"
 
 #: data/resources/preferences.ui:130
 msgid "System font size is used otherwise."
-msgstr ""
+msgstr "Інакш будзе выкарыстаны сістэмны памер."
 
 #: data/resources/preferences.ui:136
-#, fuzzy
-#| msgid "Default to Auto"
 msgid "Default Font Size"
-msgstr "\"Аўта\" па змаўчанні"
+msgstr "Памер шрыфта па змаўчанні"
 
 #: data/resources/preferences.ui:137
 msgid "Changing the size via shortcuts does not overwrite this."
-msgstr ""
+msgstr "Змена памеру праз значкі не перазапісвае гэта."
 
 #: data/resources/provider-preferences.blp:27
 msgid "Instance URL"
@@ -224,15 +223,11 @@ msgid "Switch Languages"
 msgstr "Пераключыць мовы"
 
 #: data/resources/shortcuts.blp:26
-#, fuzzy
-#| msgid "Change Source Language"
 msgctxt "shortcuts window"
 msgid "Select source language"
-msgstr "Змяніць зыходную мову"
+msgstr "Выберыце зыходную мову"
 
 #: data/resources/shortcuts.blp:31
-#, fuzzy
-#| msgid "Change Destination Language"
 msgctxt "shortcuts window"
 msgid "Select destination language"
 msgstr "Змяніць мову прызначэння"
@@ -255,12 +250,12 @@ msgstr "Паказаць вымаўленне"
 #: data/resources/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr ""
+msgstr "Павялічыць памер шрыфта"
 
 #: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr ""
+msgstr "Паменшыць памер шрыфта"
 
 #: data/resources/shortcuts.blp:62
 msgctxt "shortcuts window"
@@ -429,7 +424,7 @@ msgstr "Аўта"
 
 #: dialect/main.py:196
 msgid "Donate"
-msgstr ""
+msgstr "Ахвяраваць"
 
 #: dialect/preferences.py:128
 msgid "Edit Provider Settings"
