@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-01-22 08:20-0500\n"
-"PO-Revision-Date: 2022-01-25 05:53+0000\n"
-"Last-Translator: Saptarshi Mondal <saptarshistudying@gmail.com>\n"
+"PO-Revision-Date: 2024-02-18 06:02+0000\n"
+"Last-Translator: Ritam Saha <ritamsaha00@gmail.com>\n"
 "Language-Team: Bengali <https://hosted.weblate.org/projects/dialect/dialect/"
 "bn/>\n"
 "Language: bn\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.11-dev\n"
+"X-Generator: Weblate 5.4\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -430,7 +430,7 @@ msgstr "লাইভ অনুবাদ"
 
 #: data/resources/window.blp:549
 msgid "Cancel"
-msgstr ""
+msgstr "বাতিল করুন"
 
 #: data/resources/window.blp:556
 msgid "Save"
