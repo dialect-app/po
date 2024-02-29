@@ -8,13 +8,16 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-01-22 08:20-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-02-29 23:01+0000\n"
+"Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Kabyle <https://hosted.weblate.org/projects/dialect/dialect/"
+"kab/>\n"
 "Language: kab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -26,7 +29,7 @@ msgstr ""
 #: data/app.drey.Dialect.desktop.in.in:10
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
-msgstr ""
+msgstr "Asuqel ger tutlayin"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:14
@@ -37,7 +40,7 @@ msgstr ""
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
-msgstr ""
+msgstr "Asnas n tsuqilt i GNOME."
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
@@ -75,7 +78,7 @@ msgstr ""
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Automatic language detection"
-msgstr ""
+msgstr "Tifin tawurmant n tutlayt"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Clipboard buttons"
@@ -97,7 +100,7 @@ msgstr ""
 
 #: data/resources/lang-selector.blp:47
 msgid "Search Languages…"
-msgstr ""
+msgstr "Anadi n tutlayin …"
 
 #: data/resources/preferences.ui:12
 msgid "Providers"
@@ -121,11 +124,11 @@ msgstr ""
 
 #: data/resources/preferences.ui:81
 msgid "Behavior"
-msgstr ""
+msgstr "Tiddin"
 
 #: data/resources/preferences.ui:84
 msgid "Live Translation"
-msgstr ""
+msgstr "Tasuqilt srid"
 
 #: data/resources/preferences.ui:85
 msgid "Warning: Your IP address may get banned for API abuse."
@@ -141,7 +144,7 @@ msgstr ""
 
 #: data/resources/preferences.ui:99
 msgid "Translation Shortcut"
-msgstr ""
+msgstr "Anegzum n tsuqilt"
 
 #: data/resources/preferences.ui:100
 msgid "The unselected choice will be used for line break."
@@ -204,7 +207,7 @@ msgstr ""
 #: data/resources/shortcuts.blp:16
 msgctxt "shortcuts window"
 msgid "Translate"
-msgstr ""
+msgstr "Suqel"
 
 #: data/resources/shortcuts.blp:21
 msgctxt "shortcuts window"
@@ -229,7 +232,7 @@ msgstr ""
 #: data/resources/shortcuts.blp:41
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr ""
+msgstr "Nɣel tasuqilt"
 
 #: data/resources/shortcuts.blp:46
 msgctxt "shortcuts window"
@@ -357,11 +360,11 @@ msgstr ""
 
 #: data/resources/window.blp:287
 msgid "Previous Translation"
-msgstr ""
+msgstr "Tasuqilt yezrin"
 
 #: data/resources/window.blp:293
 msgid "Next Translation"
-msgstr ""
+msgstr "Tasuqilt tuḍfirt"
 
 #: data/resources/window.blp:300
 msgid "Main Menu"
@@ -381,11 +384,11 @@ msgstr ""
 
 #: data/resources/window.blp:434
 msgid "Translate"
-msgstr ""
+msgstr "Suqel"
 
 #: data/resources/window.blp:505
 msgid "Translating…"
-msgstr ""
+msgstr "Yessuqul …"
 
 #: data/resources/window.blp:510
 msgid "Could not Translate the Text"
@@ -489,4 +492,4 @@ msgstr ""
 
 #: dialect/window.py:1142
 msgid "Translation failed"
-msgstr ""
+msgstr "Tuccḍa deg tsuqilt"
