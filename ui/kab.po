@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-01-22 08:20-0500\n"
-"PO-Revision-Date: 2024-02-29 23:01+0000\n"
+"PO-Revision-Date: 2024-03-07 20:01+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/dialect/dialect/"
 "kab/>\n"
@@ -24,7 +24,7 @@ msgstr ""
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:7
 #: data/resources/window.blp:280 dialect/main.py:71
 msgid "Dialect"
-msgstr ""
+msgstr "Dialect"
 
 #: data/app.drey.Dialect.desktop.in.in:10
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
@@ -37,6 +37,8 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"suqel;tasuqilt;Google Translate;LibreTranslate;Lingva Translate;Bing "
+"Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
@@ -44,17 +46,19 @@ msgstr "Asnas n tsuqilt i GNOME."
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
-msgstr ""
+msgstr "Timahilin:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
 msgid "Translation based on Google Translate"
-msgstr ""
+msgstr "Tasuqqilt yebnan ɣef Google Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
+"Tasuqqilt yebnan ɣef API FreeTranslate, ad k·m-yeǧǧen ad tesqedceḍ aqeddac "
+"azayez"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
@@ -70,11 +74,11 @@ msgstr ""
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
-msgstr ""
+msgstr "Aḍris ɣer taɣect"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Translation history"
-msgstr ""
+msgstr "Amezruy n tsuqilt"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Automatic language detection"
@@ -108,7 +112,7 @@ msgstr ""
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
-msgstr ""
+msgstr "Imsuqqel"
 
 #: data/resources/preferences.ui:16
 msgid "Choose from the available translation services."
@@ -140,7 +144,7 @@ msgstr ""
 
 #: data/resources/preferences.ui:92
 msgid "Warning: All desktop searches will be sent to the translation service"
-msgstr ""
+msgstr "Ɣur-k·m: Akk inadiyen n tnarit ad ttwaceyyεen ɣer umeẓlu n tsuqilt"
 
 #: data/resources/preferences.ui:99
 msgid "Translation Shortcut"
@@ -160,7 +164,7 @@ msgstr ""
 
 #: data/resources/preferences.ui:126
 msgid "Appearance"
-msgstr ""
+msgstr "Udem"
 
 #: data/resources/preferences.ui:129
 msgid "Use Custom Font Size"
@@ -180,7 +184,7 @@ msgstr ""
 
 #: data/resources/provider-preferences.blp:27
 msgid "Instance URL"
-msgstr ""
+msgstr "URL n uqeddac"
 
 #: data/resources/provider-preferences.blp:28
 msgid "Enter an Instance URL for the Provider."
@@ -193,7 +197,7 @@ msgstr ""
 
 #: data/resources/provider-preferences.blp:58
 msgid "API Key"
-msgstr ""
+msgstr "Tasarutt API"
 
 #: data/resources/provider-preferences.blp:59
 msgid "Enter an API Key for the Provider."
@@ -202,7 +206,7 @@ msgstr ""
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
 msgid "Translator"
-msgstr ""
+msgstr "Imsuqqel"
 
 #: data/resources/shortcuts.blp:16
 msgctxt "shortcuts window"
@@ -217,7 +221,7 @@ msgstr ""
 #: data/resources/shortcuts.blp:26
 msgctxt "shortcuts window"
 msgid "Select source language"
-msgstr ""
+msgstr "Fren tutlayt taɣbalutt"
 
 #: data/resources/shortcuts.blp:31
 msgctxt "shortcuts window"
@@ -227,7 +231,7 @@ msgstr ""
 #: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "Sfeḍ aḍris aɣbalu"
 
 #: data/resources/shortcuts.blp:41
 msgctxt "shortcuts window"
@@ -257,17 +261,17 @@ msgstr ""
 #: data/resources/shortcuts.blp:65
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "Sel i uḍris aɣbalu"
 
 #: data/resources/shortcuts.blp:70
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr ""
+msgstr "Sel i tsuqilt"
 
 #: data/resources/shortcuts.blp:76
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "Assilel"
 
 #: data/resources/shortcuts.blp:79
 msgctxt "shortcuts window"
@@ -282,22 +286,22 @@ msgstr ""
 #: data/resources/shortcuts.blp:90
 msgctxt "shortcuts window"
 msgid "General"
-msgstr ""
+msgstr "Amatu"
 
 #: data/resources/shortcuts.blp:93
 msgctxt "shortcuts window"
 msgid "Preferences"
-msgstr ""
+msgstr "Imenyafen"
 
 #: data/resources/shortcuts.blp:98
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr ""
+msgstr "Inegzumen"
 
 #: data/resources/shortcuts.blp:103
 msgctxt "shortcuts window"
 msgid "Quit"
-msgstr ""
+msgstr "Tuffɣa"
 
 #: data/resources/theme-switcher.blp:20
 msgid "Follow System Style"
@@ -313,42 +317,42 @@ msgstr ""
 
 #: data/resources/window.blp:15
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "Sken-d anṭaq"
 
 #: data/resources/window.blp:24 dialect/window.py:1136
 msgid "Preferences"
-msgstr ""
+msgstr "Imenyafen"
 
 #: data/resources/window.blp:29
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Inegzumen n unasiw"
 
 #: data/resources/window.blp:34
 msgid "About Dialect"
-msgstr ""
+msgstr "Ɣef Dialect"
 
 #: data/resources/window.blp:80
 msgid "Loading…"
-msgstr ""
+msgstr "Yessalay-d…"
 
 #: data/resources/window.blp:108 data/resources/window.blp:140
 #: dialect/window.py:470 dialect/window.py:1120 dialect/window.py:1128
 #: dialect/window.py:1144
 msgid "Retry"
-msgstr ""
+msgstr "Ɛreḍ tikkelt niḍen"
 
 #: data/resources/window.blp:118 data/resources/window.blp:153
 #: data/resources/window.blp:193 data/resources/window.blp:229
 msgid "Open Preferences"
-msgstr ""
+msgstr "Ldi imenyafen"
 
 #: data/resources/window.blp:183 data/resources/window.blp:216
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "Kkes tasarut sakin ɛreḍ"
 
 #: data/resources/window.blp:260 data/resources/window.blp:582
 msgid "Change Source Language"
-msgstr ""
+msgstr "Beddel tutlayt taɣbalutt"
 
 #: data/resources/window.blp:265 data/resources/window.blp:590
 msgid "Switch Languages"
@@ -368,7 +372,7 @@ msgstr "Tasuqilt tuḍfirt"
 
 #: data/resources/window.blp:300
 msgid "Main Menu"
-msgstr ""
+msgstr "Umuɣ agejdan"
 
 #: data/resources/window.blp:401
 msgid "Clear"
@@ -376,11 +380,11 @@ msgstr ""
 
 #: data/resources/window.blp:407
 msgid "Paste"
-msgstr ""
+msgstr "Senṭeḍ"
 
 #: data/resources/window.blp:413 data/resources/window.blp:531
 msgid "Listen"
-msgstr ""
+msgstr "Sel"
 
 #: data/resources/window.blp:434
 msgid "Translate"
@@ -392,31 +396,31 @@ msgstr "Yessuqul …"
 
 #: data/resources/window.blp:510
 msgid "Could not Translate the Text"
-msgstr ""
+msgstr "Ur yezmir ara ad d-yessuqel aḍris-a"
 
 #: data/resources/window.blp:517
 msgid "Copy"
-msgstr ""
+msgstr "Nɣel"
 
 #: data/resources/window.blp:525
 msgid "Suggest Translation"
-msgstr ""
+msgstr "Suneɣ tasuqilt"
 
 #: data/resources/window.blp:549
 msgid "Cancel"
-msgstr ""
+msgstr "Sesfex"
 
 #: data/resources/window.blp:556
 msgid "Save"
-msgstr ""
+msgstr "Sekles"
 
 #: dialect/languages.py:61
 msgid "Auto"
-msgstr ""
+msgstr "Awurman"
 
 #: dialect/main.py:196
 msgid "Donate"
-msgstr ""
+msgstr "Mudd tawsa"
 
 #: dialect/preferences.py:128
 msgid "Edit Provider Settings"
@@ -472,7 +476,7 @@ msgstr ""
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
-msgstr ""
+msgstr "Tettwasumer-d tsuqilt tamaynut!"
 
 #: dialect/window.py:793 dialect/window.py:799
 msgid "Suggestion failed."
@@ -484,7 +488,7 @@ msgstr ""
 
 #: dialect/window.py:1080
 msgid "Did you mean: "
-msgstr ""
+msgstr "Tqesdeḍ-d: "
 
 #: dialect/window.py:1118 dialect/window.py:1126
 msgid "Translation failed, check for network issues"
