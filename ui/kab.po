@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-01-22 08:20-0500\n"
-"PO-Revision-Date: 2024-03-07 20:01+0000\n"
+"PO-Revision-Date: 2024-03-12 14:01+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/dialect/dialect/"
 "kab/>\n"
@@ -62,15 +62,15 @@ msgstr ""
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
-msgstr ""
+msgstr "Tasuqqilt yebnan ɣef API n Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Translation based on Bing"
-msgstr ""
+msgstr "Tasuqqilt yebnan ɣef Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
 msgid "Translation based on Yandex"
-msgstr ""
+msgstr "Tasuqqilt yebnan ɣef Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
@@ -86,21 +86,21 @@ msgstr "Tifin tawurmant n tutlayt"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Clipboard buttons"
-msgstr ""
+msgstr "Tiqeffalin n tfelwit"
 
 #. developer_name tag deprecated with Appstream 1.0
 #: data/app.drey.Dialect.metainfo.xml.in.in:33 data/resources/about.blp:8
 msgid "The Dialect Authors"
-msgstr ""
+msgstr "Imeskaren n Dialect"
 
 #: data/resources/about.blp:9
 msgid "Copyright 2020–⁠2023 The Dialect Authors"
-msgstr ""
+msgstr "Copyright 2020–⁠2023 Imeskaren n Dialect"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:17
 msgid "translator-credits"
-msgstr ""
+msgstr "Swann Fournial"
 
 #: data/resources/lang-selector.blp:47
 msgid "Search Languages…"
@@ -108,7 +108,7 @@ msgstr "Anadi n tutlayin …"
 
 #: data/resources/preferences.ui:12
 msgid "Providers"
-msgstr ""
+msgstr "Isaǧǧawen"
 
 #: data/resources/preferences.ui:15
 msgid "Translator"
@@ -116,15 +116,15 @@ msgstr "Imsuqqel"
 
 #: data/resources/preferences.ui:16
 msgid "Choose from the available translation services."
-msgstr ""
+msgstr "Fren seg yimeẓla n tsuqilt yellan."
 
 #: data/resources/preferences.ui:47
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Aḍris ɣer taɣect"
 
 #: data/resources/preferences.ui:48
 msgid "Choose from the available TTS services."
-msgstr ""
+msgstr "Fren seg yimeẓla n Weḍris-ɣer-taɣuct yellan."
 
 #: data/resources/preferences.ui:81
 msgid "Behavior"
@@ -140,7 +140,7 @@ msgstr ""
 
 #: data/resources/preferences.ui:91
 msgid "Show Translations in Desktop Search"
-msgstr ""
+msgstr "Sken-d tisuqilin deg unadi n tnarit"
 
 #: data/resources/preferences.ui:92
 msgid "Warning: All desktop searches will be sent to the translation service"
@@ -156,11 +156,11 @@ msgstr ""
 
 #: data/resources/preferences.ui:118
 msgid "Default to Auto"
-msgstr ""
+msgstr "Amezwer ɣef Auto"
 
 #: data/resources/preferences.ui:119
 msgid "Use \"Auto\" as the default language"
-msgstr ""
+msgstr "Sseqdec \"Auto\" d tutlayt tamezwarut"
 
 #: data/resources/preferences.ui:126
 msgid "Appearance"
@@ -168,19 +168,19 @@ msgstr "Udem"
 
 #: data/resources/preferences.ui:129
 msgid "Use Custom Font Size"
-msgstr ""
+msgstr "Seqdec teɣzi n tsefsit tudmawant"
 
 #: data/resources/preferences.ui:130
 msgid "System font size is used otherwise."
-msgstr ""
+msgstr "Ma ulac, Teɣzi n tsefsit n unagraw ad yettwaseqdec."
 
 #: data/resources/preferences.ui:136
 msgid "Default Font Size"
-msgstr ""
+msgstr "Teɣzi n tsefsit s wudem amezwaru"
 
 #: data/resources/preferences.ui:137
 msgid "Changing the size via shortcuts does not overwrite this."
-msgstr ""
+msgstr "Abeddel n teɣzi s yinegzumen ur yesmelsay ara aya."
 
 #: data/resources/provider-preferences.blp:27
 msgid "Instance URL"
@@ -188,12 +188,12 @@ msgstr "URL n uqeddac"
 
 #: data/resources/provider-preferences.blp:28
 msgid "Enter an Instance URL for the Provider."
-msgstr ""
+msgstr "Sekcem tansa URL i usaǧǧaw."
 
 #: data/resources/provider-preferences.blp:38
 #: data/resources/provider-preferences.blp:68
 msgid "Reset to Default"
-msgstr ""
+msgstr "Wennez tikelt nniḍen azalen imezwar"
 
 #: data/resources/provider-preferences.blp:58
 msgid "API Key"
@@ -201,7 +201,7 @@ msgstr "Tasarutt API"
 
 #: data/resources/provider-preferences.blp:59
 msgid "Enter an API Key for the Provider."
-msgstr ""
+msgstr "Sekcem tasarutt API i usaǧǧaw."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -216,7 +216,7 @@ msgstr "Suqel"
 #: data/resources/shortcuts.blp:21
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr ""
+msgstr "Sembadal tutlayin"
 
 #: data/resources/shortcuts.blp:26
 msgctxt "shortcuts window"
@@ -241,22 +241,22 @@ msgstr "Nɣel tasuqilt"
 #: data/resources/shortcuts.blp:46
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "Ssken-d anṭaq"
 
 #: data/resources/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr ""
+msgstr "Simɣeṛ teɣzi n tsefsit"
 
 #: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr ""
+msgstr "Simzi teɣzi n tsefsit"
 
 #: data/resources/shortcuts.blp:62
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Aḍris-ɣer-taɣect"
 
 #: data/resources/shortcuts.blp:65
 msgctxt "shortcuts window"
@@ -305,15 +305,15 @@ msgstr "Tuffɣa"
 
 #: data/resources/theme-switcher.blp:20
 msgid "Follow System Style"
-msgstr ""
+msgstr "Ḍfer aɣanib n unagraw"
 
 #: data/resources/theme-switcher.blp:35
 msgid "Light Style"
-msgstr ""
+msgstr "Aɣanib aceɛlal"
 
 #: data/resources/theme-switcher.blp:50
 msgid "Dark Style"
-msgstr ""
+msgstr "Aɣanib ubrik"
 
 #: data/resources/window.blp:15
 msgid "Show Pronunciation"
@@ -356,7 +356,7 @@ msgstr "Beddel tutlayt taɣbalutt"
 
 #: data/resources/window.blp:265 data/resources/window.blp:590
 msgid "Switch Languages"
-msgstr ""
+msgstr "Sembadal tutlayin"
 
 #: data/resources/window.blp:272 data/resources/window.blp:598
 msgid "Change Destination Language"
@@ -376,7 +376,7 @@ msgstr "Umuɣ agejdan"
 
 #: data/resources/window.blp:401
 msgid "Clear"
-msgstr ""
+msgstr "Sfeḍ"
 
 #: data/resources/window.blp:407
 msgid "Paste"
@@ -424,19 +424,19 @@ msgstr "Mudd tawsa"
 
 #: dialect/preferences.py:128
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Ẓreg iɣewwaṛen n usaǧǧaw"
 
 #: dialect/preferences.py:130
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Ulac iɣewwaṛen i usaǧǧaw-a"
 
 #: dialect/window.py:356
 msgid "The provided API key is invalid"
-msgstr ""
+msgstr "Tasarut-nni API i d-ittunefken ur teṣliḥ ara"
 
 #: dialect/window.py:358
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "Ma ulac aɣilif, sbadu tasarut API tameɣtut deg ismenyifen."
 
 #: dialect/window.py:361
 msgid "Please set a valid API key or unset the API key in the preferences."
@@ -444,15 +444,15 @@ msgstr ""
 
 #: dialect/window.py:377 dialect/window.py:1134
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "Tesra tsarutt API i useqdec n umeẓlu-a"
 
 #: dialect/window.py:378
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "Ma ulac aɣilif, sbadu tasarut APU deg ismenyifen."
 
 #: dialect/window.py:391
 msgid "Failed loading the translation service"
-msgstr ""
+msgstr "Ur yessaweḍ ara ad d-yessali ameẓlu n tsuqilt"
 
 #: dialect/window.py:392
 msgid "Please report this in the Dialect bug tracker if the issue persists."
@@ -460,19 +460,20 @@ msgstr ""
 
 #: dialect/window.py:401
 msgid "Couldn’t connect to the translation service"
-msgstr ""
+msgstr "Ur izmir ara ad yeqqen ɣer umeẓlu n tsuqilt"
 
 #: dialect/window.py:402
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
+"Ur nezmir ara ad neqqen ɣer uqeddac. Ma ulac aɣilif, wali uguren n uẓeṭṭa."
 
 #: dialect/window.py:463
 msgid "A network issue has occurred. Retry?"
-msgstr ""
+msgstr "Yekker-d wugur deg uẓeṭṭa. Tebɣiḍ ad tɛerḍeḍ tikkelt nniḍen?"
 
 #: dialect/window.py:477
 msgid "A network issue has occurred. Please try again."
-msgstr ""
+msgstr "Yeḍra-d wugur deg uẓeṭṭa. Ttxil-k·m, ɛreḍ tikkelt niḍen."
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -480,7 +481,7 @@ msgstr "Tettwasumer-d tsuqilt tamaynut!"
 
 #: dialect/window.py:793 dialect/window.py:799
 msgid "Suggestion failed."
-msgstr ""
+msgstr "Yexṣer ussumer-nni."
 
 #: dialect/window.py:942
 msgid "{} characters limit reached!"
@@ -492,7 +493,7 @@ msgstr "Tqesdeḍ-d: "
 
 #: dialect/window.py:1118 dialect/window.py:1126
 msgid "Translation failed, check for network issues"
-msgstr ""
+msgstr "Texser tsuqilt, ẓer uguren n uẓeṭṭa"
 
 #: dialect/window.py:1142
 msgid "Translation failed"
