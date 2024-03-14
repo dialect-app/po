@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-01-22 08:20-0500\n"
-"PO-Revision-Date: 2024-03-12 14:01+0000\n"
+"PO-Revision-Date: 2024-03-14 10:49+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/dialect/dialect/"
 "kab/>\n"
@@ -226,7 +226,7 @@ msgstr "Fren tutlayt taɣbalutt"
 #: data/resources/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Select destination language"
-msgstr ""
+msgstr "Fren tutlayt taɣerwaḍt"
 
 #: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
@@ -360,7 +360,7 @@ msgstr "Sembadal tutlayin"
 
 #: data/resources/window.blp:272 data/resources/window.blp:598
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Beddel tutlayt taɣerwaḍt"
 
 #: data/resources/window.blp:287
 msgid "Previous Translation"
@@ -485,7 +485,7 @@ msgstr "Yexṣer ussumer-nni."
 
 #: dialect/window.py:942
 msgid "{} characters limit reached!"
-msgstr ""
+msgstr "Talast n {} isekkilen tewweḍ !"
 
 #: dialect/window.py:1080
 msgid "Did you mean: "
