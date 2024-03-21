@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-01-22 08:20-0500\n"
-"PO-Revision-Date: 2024-03-18 17:01+0000\n"
-"Last-Translator: twlv <kraft_werk@tutanota.com>\n"
+"PO-Revision-Date: 2024-03-21 19:01+0000\n"
+"Last-Translator: twlvnn <kraft_werk@tutanota.com>\n"
 "Language-Team: Bulgarian <https://hosted.weblate.org/projects/dialect/"
 "dialect/bg/>\n"
 "Language: bg\n"
@@ -278,27 +278,27 @@ msgstr "Навигация"
 #: data/resources/shortcuts.blp:79
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr "Отидете назад в историята"
+msgstr "Назад в историята"
 
 #: data/resources/shortcuts.blp:84
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr "Отидете напред в историята"
+msgstr "Напред в историята"
 
 #: data/resources/shortcuts.blp:90
 msgctxt "shortcuts window"
 msgid "General"
-msgstr "Общо"
+msgstr "Общи"
 
 #: data/resources/shortcuts.blp:93
 msgctxt "shortcuts window"
 msgid "Preferences"
-msgstr "Предпочитания"
+msgstr "Настройки"
 
 #: data/resources/shortcuts.blp:98
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr "Клавишни Комбинации"
+msgstr "Клавишни комбинации"
 
 #: data/resources/shortcuts.blp:103
 msgctxt "shortcuts window"
