@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-01-22 08:20-0500\n"
-"PO-Revision-Date: 2024-03-21 19:01+0000\n"
+"PO-Revision-Date: 2024-03-24 21:01+0000\n"
 "Last-Translator: twlvnn <kraft_werk@tutanota.com>\n"
 "Language-Team: Bulgarian <https://hosted.weblate.org/projects/dialect/"
 "dialect/bg/>\n"
@@ -42,7 +42,7 @@ msgstr ""
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
 msgid "A translation app for GNOME."
-msgstr "Приложение за превеждане за GNOME."
+msgstr "Приложение за превеждане за „GNOME“."
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
@@ -50,27 +50,27 @@ msgstr "Функции:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
 msgid "Translation based on Google Translate"
-msgstr "Превод чрез Google Translate"
+msgstr "Превод чрез „Google Translate“"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
-"Превод чрез програмния интерфейс (API) на LibreTranslate, който ви позволява "
-"да използвате всяка публична инстанция"
+"Превод чрез програмния интерфейс (API) на „LibreTranslate“, който ви "
+"позволява да използвате всяка публична инстанция"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
-msgstr "Превод чрез Lingva Translate API"
+msgstr "Превод чрез „Lingva Translate API“"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Translation based on Bing"
-msgstr "Превод чрез Bing"
+msgstr "Превод чрез „Bing“"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
 msgid "Translation based on Yandex"
-msgstr "Превод чрез Yandex"
+msgstr "Превод чрез „Yandex“"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
@@ -86,21 +86,21 @@ msgstr "Автоматично разпознаване на език"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Clipboard buttons"
-msgstr "Клипборд бутони"
+msgstr "Бутони за буфера за обмен"
 
 #. developer_name tag deprecated with Appstream 1.0
 #: data/app.drey.Dialect.metainfo.xml.in.in:33 data/resources/about.blp:8
 msgid "The Dialect Authors"
-msgstr "Автори на Dialect"
+msgstr "Автори на „Dialect“"
 
 #: data/resources/about.blp:9
 msgid "Copyright 2020–⁠2023 The Dialect Authors"
-msgstr "Авторски права 2022-2023 Автори на Dialect"
+msgstr "Авторски права 2022-2023 Автори на „Dialect“"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:17
 msgid "translator-credits"
-msgstr "Twlv"
+msgstr "twlvnn <kraft_werk@tutanota.com>"
 
 #: data/resources/lang-selector.blp:47
 msgid "Search Languages…"
@@ -141,7 +141,7 @@ msgstr ""
 
 #: data/resources/preferences.ui:91
 msgid "Show Translations in Desktop Search"
-msgstr "Показване на Преводите в Търсачката на Работния Плот"
+msgstr "Показване на преводите в търсачката на работния плот"
 
 #: data/resources/preferences.ui:92
 msgid "Warning: All desktop searches will be sent to the translation service"
@@ -150,7 +150,7 @@ msgstr ""
 
 #: data/resources/preferences.ui:99
 msgid "Translation Shortcut"
-msgstr "Клaвишна комбинация за бърз превод"
+msgstr "Клавишна комбинация за бърз превод"
 
 #: data/resources/preferences.ui:100
 msgid "The unselected choice will be used for line break."
@@ -158,11 +158,11 @@ msgstr "Неизбраният избор ще се използва за нов
 
 #: data/resources/preferences.ui:118
 msgid "Default to Auto"
-msgstr "\"Автоматично\" по Подразбиране"
+msgstr "Автоматично по подразбиране"
 
 #: data/resources/preferences.ui:119
 msgid "Use \"Auto\" as the default language"
-msgstr "Използване на \"Автоматично\" като език по подразбиране"
+msgstr "Използване на \"автоматично\" като език по подразбиране"
 
 #: data/resources/preferences.ui:126
 msgid "Appearance"
@@ -170,15 +170,15 @@ msgstr "Изглед"
 
 #: data/resources/preferences.ui:129
 msgid "Use Custom Font Size"
-msgstr "Използвайте Персонализиран Размер на Шрифта"
+msgstr "Използвайте персонализиран размер на шрифта"
 
 #: data/resources/preferences.ui:130
 msgid "System font size is used otherwise."
-msgstr "В противен случай, системния размер на шрифта се използва."
+msgstr "В противен случай се използва системния размер на шрифта."
 
 #: data/resources/preferences.ui:136
 msgid "Default Font Size"
-msgstr "Размер на Шрифта по Подразбиране"
+msgstr "Размер на шрифта по подразбиране"
 
 #: data/resources/preferences.ui:137
 msgid "Changing the size via shortcuts does not overwrite this."
@@ -190,12 +190,12 @@ msgstr "URL адрес на инстанцията"
 
 #: data/resources/provider-preferences.blp:28
 msgid "Enter an Instance URL for the Provider."
-msgstr "Въведете URL адреса на инстанцията за Преводача."
+msgstr "Въведете URL адреса на инстанцията за преводача."
 
 #: data/resources/provider-preferences.blp:38
 #: data/resources/provider-preferences.blp:68
 msgid "Reset to Default"
-msgstr "Върнете към подразбиране"
+msgstr "Върнете към по подразбиране"
 
 #: data/resources/provider-preferences.blp:58
 msgid "API Key"
@@ -203,7 +203,7 @@ msgstr "API Ключ"
 
 #: data/resources/provider-preferences.blp:59
 msgid "Enter an API Key for the Provider."
-msgstr "Въведете API Ключа на Преводача."
+msgstr "Въведете API ключа на преводача."
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -213,12 +213,12 @@ msgstr "Преводач"
 #: data/resources/shortcuts.blp:16
 msgctxt "shortcuts window"
 msgid "Translate"
-msgstr "Преведи"
+msgstr "Превеждане"
 
 #: data/resources/shortcuts.blp:21
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr "Разменете Езиците"
+msgstr "Разменете езиците"
 
 #: data/resources/shortcuts.blp:26
 msgctxt "shortcuts window"
@@ -233,7 +233,7 @@ msgstr "Изберете езика към който ще превеждате"
 #: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr "Изчистете въведения текст"
+msgstr "Изчистване на въведения текст"
 
 #: data/resources/shortcuts.blp:41
 msgctxt "shortcuts window"
@@ -243,7 +243,7 @@ msgstr "Копиране на превода"
 #: data/resources/shortcuts.blp:46
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
-msgstr "Показване на Произношението"
+msgstr "Показване на произношението"
 
 #: data/resources/shortcuts.blp:51
 msgctxt "shortcuts window"
@@ -303,35 +303,35 @@ msgstr "Клавишни комбинации"
 #: data/resources/shortcuts.blp:103
 msgctxt "shortcuts window"
 msgid "Quit"
-msgstr "Затвори"
+msgstr "Спиране на програмата"
 
 #: data/resources/theme-switcher.blp:20
 msgid "Follow System Style"
-msgstr "Следвайте Системния Стил"
+msgstr "Следване на системния стил"
 
 #: data/resources/theme-switcher.blp:35
 msgid "Light Style"
-msgstr "Светъл Стил"
+msgstr "Светъл стил"
 
 #: data/resources/theme-switcher.blp:50
 msgid "Dark Style"
-msgstr "Tъмен Стил"
+msgstr "Tъмен стил"
 
 #: data/resources/window.blp:15
 msgid "Show Pronunciation"
-msgstr "Показване на Произношението"
+msgstr "Показване на произношението"
 
 #: data/resources/window.blp:24 dialect/window.py:1136
 msgid "Preferences"
-msgstr "Предпочитания"
+msgstr "Настройки"
 
 #: data/resources/window.blp:29
 msgid "Keyboard Shortcuts"
-msgstr "Клавишни Комбинации"
+msgstr "Клавишни комбинации"
 
 #: data/resources/window.blp:34
 msgid "About Dialect"
-msgstr "За Dialect"
+msgstr "Относно „Dialect“"
 
 #: data/resources/window.blp:80
 msgid "Loading…"
@@ -341,40 +341,40 @@ msgstr "Зареждане…"
 #: dialect/window.py:470 dialect/window.py:1120 dialect/window.py:1128
 #: dialect/window.py:1144
 msgid "Retry"
-msgstr "Повтори"
+msgstr "Повторете"
 
 #: data/resources/window.blp:118 data/resources/window.blp:153
 #: data/resources/window.blp:193 data/resources/window.blp:229
 msgid "Open Preferences"
-msgstr "Отворете Предпочитанията"
+msgstr "Отворете настройките"
 
 #: data/resources/window.blp:183 data/resources/window.blp:216
 msgid "Remove Key and Retry"
-msgstr "Премахнете Ключа и Опитайте Отново"
+msgstr "Премахнете ключа и опитайте отново"
 
 #: data/resources/window.blp:260 data/resources/window.blp:582
 msgid "Change Source Language"
-msgstr "Променете Езика от който ще Превеждате"
+msgstr "Променете езика от който ще превеждате"
 
 #: data/resources/window.blp:265 data/resources/window.blp:590
 msgid "Switch Languages"
-msgstr "Разменете Езиците"
+msgstr "Разменете езиците"
 
 #: data/resources/window.blp:272 data/resources/window.blp:598
 msgid "Change Destination Language"
-msgstr "Променете Езика към който ще Превеждате"
+msgstr "Променете езика към който ще превеждате"
 
 #: data/resources/window.blp:287
 msgid "Previous Translation"
-msgstr "Предишен Превод"
+msgstr "Предишен превод"
 
 #: data/resources/window.blp:293
 msgid "Next Translation"
-msgstr "Следващ Превод"
+msgstr "Следващ превод"
 
 #: data/resources/window.blp:300
 msgid "Main Menu"
-msgstr "Главно Меню"
+msgstr "Основно меню"
 
 #: data/resources/window.blp:401
 msgid "Clear"
@@ -390,15 +390,15 @@ msgstr "Чуйте"
 
 #: data/resources/window.blp:434
 msgid "Translate"
-msgstr "Преведи"
+msgstr "Превеждане"
 
 #: data/resources/window.blp:505
 msgid "Translating…"
-msgstr "Превежда се…"
+msgstr "Превеждане…"
 
 #: data/resources/window.blp:510
 msgid "Could not Translate the Text"
-msgstr "Неуспешно Превеждане на Текста"
+msgstr "Неуспешно превеждане на текста"
 
 #: data/resources/window.blp:517
 msgid "Copy"
@@ -406,11 +406,11 @@ msgstr "Копиране"
 
 #: data/resources/window.blp:525
 msgid "Suggest Translation"
-msgstr "Предложи Превод"
+msgstr "Предложи превод"
 
 #: data/resources/window.blp:549
 msgid "Cancel"
-msgstr "Отменете"
+msgstr "Отказване"
 
 #: data/resources/window.blp:556
 msgid "Save"
@@ -426,11 +426,11 @@ msgstr "Даряване"
 
 #: dialect/preferences.py:128
 msgid "Edit Provider Settings"
-msgstr "Редактиране на Настройките на Преводача"
+msgstr "Редактиране на настройките на преводача"
 
 #: dialect/preferences.py:130
 msgid "No Settings for This Provider"
-msgstr "Няма Настройки за Този Преводач"
+msgstr "Няма настройки за този преводач"
 
 #: dialect/window.py:356
 msgid "The provided API key is invalid"
@@ -460,12 +460,12 @@ msgstr "Неуспешно зареждане на преводача"
 #: dialect/window.py:392
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
-"Моля, докладвайте това в системата за проследяване на бъгове на Dialect , "
-"ако проблемът продължи."
+"Докладвайте това в системата за проследяване на бъгове на „Dialect“, ако "
+"проблемът продължи."
 
 #: dialect/window.py:401
 msgid "Couldn’t connect to the translation service"
-msgstr "Връзката с преводача е неуспешна"
+msgstr "Неуспешна установяване на връзката с преводача"
 
 #: dialect/window.py:402
 msgid "We can’t connect to the server. Please check for network issues."
@@ -474,11 +474,11 @@ msgstr ""
 
 #: dialect/window.py:463
 msgid "A network issue has occurred. Retry?"
-msgstr "Възникна проблем с мрежата. Повторете?"
+msgstr "Възникна проблем с мрежата. Опитайте пак?"
 
 #: dialect/window.py:477
 msgid "A network issue has occurred. Please try again."
-msgstr "Възникна проблем с мрежата. Моля, опитайте отново."
+msgstr "Възникна проблем с мрежата. Опитайте пак."
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -498,8 +498,8 @@ msgstr "Да нямате в предвид: "
 
 #: dialect/window.py:1118 dialect/window.py:1126
 msgid "Translation failed, check for network issues"
-msgstr "Преводът е неуспешен, проверете за мрежови проблеми"
+msgstr "Неуспешен превод, проверете за мрежови проблеми"
 
 #: dialect/window.py:1142
 msgid "Translation failed"
-msgstr "Преводът е неуспешен"
+msgstr "Неуспешен превод"
