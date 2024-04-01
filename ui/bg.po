@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-01-22 08:20-0500\n"
-"PO-Revision-Date: 2024-03-24 21:01+0000\n"
+"PO-Revision-Date: 2024-04-01 12:01+0000\n"
 "Last-Translator: twlvnn <kraft_werk@tutanota.com>\n"
 "Language-Team: Bulgarian <https://hosted.weblate.org/projects/dialect/"
 "dialect/bg/>\n"
@@ -186,11 +186,11 @@ msgstr "Променяйки размера чрез клавишни комби
 
 #: data/resources/provider-preferences.blp:27
 msgid "Instance URL"
-msgstr "URL адрес на инстанцията"
+msgstr "Адрес на инстанцията"
 
 #: data/resources/provider-preferences.blp:28
 msgid "Enter an Instance URL for the Provider."
-msgstr "Въведете URL адреса на инстанцията за преводача."
+msgstr "Въведете адреса на инстанцията за преводача."
 
 #: data/resources/provider-preferences.blp:38
 #: data/resources/provider-preferences.blp:68
