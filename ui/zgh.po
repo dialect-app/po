@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-22 08:20-0500\n"
+"POT-Creation-Date: 2024-04-03 13:41-0500\n"
 "PO-Revision-Date: 2023-01-26 23:54+0000\n"
 "Last-Translator: ⵣⵓⵀⵉⵔ ⴰⵎⴰⵣⵉⵖ ZOUHIR DEHBI <zouhirdehbi56@gmail.com>\n"
 "Language-Team: Tamazight (Standard Moroccan) <https://hosted.weblate.org/"
@@ -21,7 +21,7 @@ msgstr ""
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
-#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:7
+#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:5
 #: data/resources/window.blp:280 dialect/main.py:71
 msgid "Dialect"
 msgstr "Dialect"
@@ -38,7 +38,7 @@ msgid ""
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
 msgstr "ⵜⵉⵙⵏⵙⵉ ⵏ ⵓⵙⵓⵖⵍ GNOME."
 
@@ -88,18 +88,19 @@ msgid "Clipboard buttons"
 msgstr "ⵜⵉⴳⵎⵎⵓⵜⵉⵏ ⵏ ⵜⵣⵣⵏⴱⵉⵍⵜ"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/app.drey.Dialect.metainfo.xml.in.in:33 data/resources/about.blp:8
+#: data/app.drey.Dialect.metainfo.xml.in.in:33
+#: data/app.drey.Dialect.metainfo.xml.in.in:35 data/resources/about.blp:6
 msgid "The Dialect Authors"
 msgstr "ⵉⵎⴳⴰⵢⵏ ⵏ Dialect"
 
-#: data/resources/about.blp:9
+#: data/resources/about.blp:7
 #, fuzzy
 #| msgid "Copyright 2020–⁠2022 The Dialect Authors"
 msgid "Copyright 2020–⁠2023 The Dialect Authors"
 msgstr "ⵉⵣⵔⴼⴰⵏ ⵏ ⵜⵥⵕⵉⴳⵜ 2020-2022 ⵉⵎⴳⴰⵢⵏ ⵏ Dialect"
 
 #. Translators: Replace me with your names.
-#: data/resources/about.blp:17
+#: data/resources/about.blp:15
 msgid "translator-credits"
 msgstr "Zouhir Dehbi <zouhirdehbi56@gmail.com>"
 
@@ -107,105 +108,105 @@ msgstr "Zouhir Dehbi <zouhirdehbi56@gmail.com>"
 msgid "Search Languages…"
 msgstr "ⴰⵔⵣⵣⵓ ⵏ ⵜⵓⵜⵍⴰⵢⵉⵏ…"
 
-#: data/resources/preferences.ui:12
+#: data/resources/preferences.ui:8
 msgid "Providers"
 msgstr ""
 
-#: data/resources/preferences.ui:15
+#: data/resources/preferences.ui:11
 msgid "Translator"
 msgstr "ⴰⵎⵙⵙⵓⵖⵍ"
 
-#: data/resources/preferences.ui:16
+#: data/resources/preferences.ui:12
 msgid "Choose from the available translation services."
 msgstr "ⵙⵜⵉ ⵙⴳ ⵜⵏⵓⴼⴰ ⵏ ⵓⵙⵓⵖⵍ ⵉⵍⵍⴰⵏ."
 
-#: data/resources/preferences.ui:47
+#: data/resources/preferences.ui:43
 msgid "Text-to-Speech"
 msgstr "ⴰⴹⵕⵉⵚ ⵉⵙⵙⴰⵡⴰⵍⵏ"
 
-#: data/resources/preferences.ui:48
+#: data/resources/preferences.ui:44
 #, fuzzy
 msgid "Choose from the available TTS services."
 msgstr "ⵙⵜⵉ ⵙⴳ ⵜⵏⵓⴼⴰ ⵏ ⵓⵙⵓⵖⵍ ⵉⵍⵍⴰⵏ."
 
-#: data/resources/preferences.ui:81
+#: data/resources/preferences.ui:77
 msgid "Behavior"
 msgstr "ⵜⵉⵎⵙⴽⵔⵜ"
 
-#: data/resources/preferences.ui:84
+#: data/resources/preferences.ui:80
 msgid "Live Translation"
 msgstr "ⴰⵙⵓⵖⵍ ⵓⵙⵔⵉⴷ"
 
-#: data/resources/preferences.ui:85
+#: data/resources/preferences.ui:81
 msgid "Warning: Your IP address may get banned for API abuse."
 msgstr "ⴰⵙⵎⵉⴳⵍ: ⵉⵥⴹⴰⵕ ⴰⴷ ⵉⵜⵜⵡⴰⴽⴽⵙ ⴰⵏⵙⴰ ⵏ IP ⵏⵏⴽ ⵙ ⵜⵎⵏⵜⵉⵍⵜ ⵏ ⴳⴰⵔ ⴰⵙⵎⵔⵙ ⵏ API."
 
-#: data/resources/preferences.ui:91
+#: data/resources/preferences.ui:87
 msgid "Show Translations in Desktop Search"
 msgstr "ⵎⵍ ⵜⴰⵙⵓⵖⵍⵜ ⴳ ⵓⵔⵣⵓ ⴳ ⵓⵙⵉⵔⴰ"
 
-#: data/resources/preferences.ui:92
+#: data/resources/preferences.ui:88
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr "ⴰⵙⵎⵉⴳⵍ: ⵔⴰⴷ ⵜⵜⵓⵙⵙⵉⴼⴹⵏ ⵎⴰⵕⵕⴰ ⵉⵔⵣⵣⵓⵜⵏ ⴳ ⵓⵙⵉⵔⴰ ⵖⵔ ⵜⵏⴰⴼⵓⵜ ⵏ ⵓⵙⵓⵖⵍ"
 
-#: data/resources/preferences.ui:99
+#: data/resources/preferences.ui:95
 msgid "Translation Shortcut"
 msgstr "ⴰⵙⴰⵏⴼ ⵏ ⵓⵙⵓⵖⵍ"
 
-#: data/resources/preferences.ui:100
+#: data/resources/preferences.ui:96
 msgid "The unselected choice will be used for line break."
 msgstr "ⵔⴰⴷ ⵉⵜⵜⵓⵙⵎⵔⵙ ⵓⵙⵜⴰⵢ ⵏⵏⴰ ⵓⵔ ⵉⵜⵜⴰⵡⵙⵜⴰⵢⵏ ⵉ ⵜⵕⵥⵉ ⵏ ⵢⵉⴼⵉⵍⵉ."
 
-#: data/resources/preferences.ui:118
+#: data/resources/preferences.ui:114
 msgid "Default to Auto"
 msgstr "ⴰⵎⵔⴷⵓ ⴷ ⵓⵡⵓⵔⵎⴰⵏ"
 
-#: data/resources/preferences.ui:119
+#: data/resources/preferences.ui:115
 msgid "Use \"Auto\" as the default language"
 msgstr "ⵙⵎⵔⵙ \"ⴰⵡⵓⵔⵎⴰⵏ\" ⴰⵎ ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⵎⵔⴷⵓⵜ"
 
-#: data/resources/preferences.ui:126
+#: data/resources/preferences.ui:122
 msgid "Appearance"
 msgstr ""
 
-#: data/resources/preferences.ui:129
+#: data/resources/preferences.ui:125
 msgid "Use Custom Font Size"
 msgstr ""
 
-#: data/resources/preferences.ui:130
+#: data/resources/preferences.ui:126
 msgid "System font size is used otherwise."
 msgstr ""
 
-#: data/resources/preferences.ui:136
+#: data/resources/preferences.ui:132
 #, fuzzy
 #| msgid "Default to Auto"
 msgid "Default Font Size"
 msgstr "ⴰⵎⵔⴷⵓ ⴷ ⵓⵡⵓⵔⵎⴰⵏ"
 
-#: data/resources/preferences.ui:137
+#: data/resources/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
 msgstr ""
 
-#: data/resources/provider-preferences.blp:27
+#: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
 msgstr ""
 
-#: data/resources/provider-preferences.blp:28
+#: data/resources/provider-preferences.blp:22
 #, fuzzy
 msgid "Enter an Instance URL for the Provider."
 msgstr "ⵙⵙⵉⴷⴼ ⵜⴰⵙⴰⵔⵓⵜ ⵏ API ⵉ ⵜⵏⴰⴼⵓⵜ ⵏ ⵓⵙⵓⵖⵍ."
 
-#: data/resources/provider-preferences.blp:38
-#: data/resources/provider-preferences.blp:68
+#: data/resources/provider-preferences.blp:32
+#: data/resources/provider-preferences.blp:62
 #, fuzzy
 msgid "Reset to Default"
 msgstr "ⴰⵍⴰⵙ ⵖⵔ ⵓⵎⵔⴷⵓ"
 
-#: data/resources/provider-preferences.blp:58
+#: data/resources/provider-preferences.blp:52
 msgid "API Key"
 msgstr "ⵜⴰⵙⴰⵔⵓⵜ ⵏ API"
 
-#: data/resources/provider-preferences.blp:59
+#: data/resources/provider-preferences.blp:53
 #, fuzzy
 msgid "Enter an API Key for the Provider."
 msgstr "ⵙⵙⵉⴷⴼ ⵜⴰⵙⴰⵔⵓⵜ ⵏ API ⵉ ⵜⵏⴰⴼⵓⵜ ⵏ ⵓⵙⵓⵖⵍ."
@@ -434,7 +435,7 @@ msgstr "ⵃⴹⵓ"
 msgid "Auto"
 msgstr "ⴰⵡⵓⵔⵎⴰⵏ"
 
-#: dialect/main.py:196
+#: dialect/main.py:195
 msgid "Donate"
 msgstr ""
 

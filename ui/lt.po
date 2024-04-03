@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-22 08:20-0500\n"
+"POT-Creation-Date: 2024-04-03 13:41-0500\n"
 "PO-Revision-Date: 2022-10-24 19:39+0000\n"
 "Last-Translator: Gediminas Murauskas <muziejusinfo@gmail.com>\n"
 "Language-Team: Lithuanian <https://hosted.weblate.org/projects/dialect/"
@@ -23,7 +23,7 @@ msgstr ""
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
-#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:7
+#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:5
 #: data/resources/window.blp:280 dialect/main.py:71
 msgid "Dialect"
 msgstr "Dialektas"
@@ -40,7 +40,7 @@ msgid ""
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
 msgstr "Vertėjas skirtas GNOME."
 
@@ -91,18 +91,19 @@ msgid "Clipboard buttons"
 msgstr "Iškarpinės mygtukai"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/app.drey.Dialect.metainfo.xml.in.in:33 data/resources/about.blp:8
+#: data/app.drey.Dialect.metainfo.xml.in.in:33
+#: data/app.drey.Dialect.metainfo.xml.in.in:35 data/resources/about.blp:6
 msgid "The Dialect Authors"
 msgstr "Dialektas programėlės autoriai"
 
-#: data/resources/about.blp:9
+#: data/resources/about.blp:7
 #, fuzzy
 #| msgid "Copyright 2020–⁠2022 The Dialect Authors"
 msgid "Copyright 2020–⁠2023 The Dialect Authors"
 msgstr "Copyright 2020–202č Dialekto autoriai"
 
 #. Translators: Replace me with your names.
-#: data/resources/about.blp:17
+#: data/resources/about.blp:15
 msgid "translator-credits"
 msgstr "Gediminas Murauskas"
 
@@ -110,107 +111,107 @@ msgstr "Gediminas Murauskas"
 msgid "Search Languages…"
 msgstr "Ieškoti kalbų…"
 
-#: data/resources/preferences.ui:12
+#: data/resources/preferences.ui:8
 #, fuzzy
 msgid "Providers"
 msgstr "Paieškos teikėjas"
 
-#: data/resources/preferences.ui:15
+#: data/resources/preferences.ui:11
 msgid "Translator"
 msgstr "Vertėjas"
 
-#: data/resources/preferences.ui:16
+#: data/resources/preferences.ui:12
 msgid "Choose from the available translation services."
 msgstr "Pasirinkite vieną iš galimų vertimo paslaugų."
 
-#: data/resources/preferences.ui:47
+#: data/resources/preferences.ui:43
 msgid "Text-to-Speech"
 msgstr "Garsinis teksto atkūrimas"
 
-#: data/resources/preferences.ui:48
+#: data/resources/preferences.ui:44
 #, fuzzy
 msgid "Choose from the available TTS services."
 msgstr "Pasirinkite vieną iš galimų vertimo paslaugų."
 
-#: data/resources/preferences.ui:81
+#: data/resources/preferences.ui:77
 msgid "Behavior"
 msgstr "Elgsena"
 
-#: data/resources/preferences.ui:84
+#: data/resources/preferences.ui:80
 msgid "Live Translation"
 msgstr "Vertimas berašant"
 
-#: data/resources/preferences.ui:85
+#: data/resources/preferences.ui:81
 msgid "Warning: Your IP address may get banned for API abuse."
 msgstr ""
 "Įspėjimas: Jūsų IP adresas gali būti blokuojamas už piktnaudžiavimą API."
 
-#: data/resources/preferences.ui:91
+#: data/resources/preferences.ui:87
 msgid "Show Translations in Desktop Search"
 msgstr "Rodyti vertimus darbalaukio paieškoje"
 
-#: data/resources/preferences.ui:92
+#: data/resources/preferences.ui:88
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr "Įspėjimas: Visos darbalaukio paieškos bus siunčiamos į vertimo tarnybą"
 
-#: data/resources/preferences.ui:99
+#: data/resources/preferences.ui:95
 msgid "Translation Shortcut"
 msgstr "Vertėjo spartusis klavišas"
 
-#: data/resources/preferences.ui:100
+#: data/resources/preferences.ui:96
 msgid "The unselected choice will be used for line break."
 msgstr "Nepažymėtas pasirinkimas bus naudojamas eilutės lūžiui."
 
-#: data/resources/preferences.ui:118
+#: data/resources/preferences.ui:114
 msgid "Default to Auto"
 msgstr "Numatytasis pasirinkimas: „Automatinis kalbos aptikimas”"
 
-#: data/resources/preferences.ui:119
+#: data/resources/preferences.ui:115
 msgid "Use \"Auto\" as the default language"
 msgstr "Naudokite „Automatinis kalbos aptikimas“ kaip numatytąją kalbą"
 
-#: data/resources/preferences.ui:126
+#: data/resources/preferences.ui:122
 msgid "Appearance"
 msgstr "Išvaizda"
 
-#: data/resources/preferences.ui:129
+#: data/resources/preferences.ui:125
 msgid "Use Custom Font Size"
 msgstr ""
 
-#: data/resources/preferences.ui:130
+#: data/resources/preferences.ui:126
 msgid "System font size is used otherwise."
 msgstr ""
 
-#: data/resources/preferences.ui:136
+#: data/resources/preferences.ui:132
 #, fuzzy
 #| msgid "Default to Auto"
 msgid "Default Font Size"
 msgstr "Numatytasis pasirinkimas: „Automatinis kalbos aptikimas”"
 
-#: data/resources/preferences.ui:137
+#: data/resources/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
 msgstr ""
 
-#: data/resources/provider-preferences.blp:27
+#: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
 msgstr ""
 
-#: data/resources/provider-preferences.blp:28
+#: data/resources/provider-preferences.blp:22
 #, fuzzy
 msgid "Enter an Instance URL for the Provider."
 msgstr "Įveskite vertimo tarnybos API raktą."
 
-#: data/resources/provider-preferences.blp:38
-#: data/resources/provider-preferences.blp:68
+#: data/resources/provider-preferences.blp:32
+#: data/resources/provider-preferences.blp:62
 #, fuzzy
 msgid "Reset to Default"
 msgstr "Atstatyti į numatytuosius nustatymus"
 
-#: data/resources/provider-preferences.blp:58
+#: data/resources/provider-preferences.blp:52
 msgid "API Key"
 msgstr "API raktas"
 
-#: data/resources/provider-preferences.blp:59
+#: data/resources/provider-preferences.blp:53
 #, fuzzy
 msgid "Enter an API Key for the Provider."
 msgstr "Įveskite vertimo tarnybos API raktą."
@@ -439,7 +440,7 @@ msgstr "Išsaugoti"
 msgid "Auto"
 msgstr "Automatinis kalbos aptikimas"
 
-#: dialect/main.py:196
+#: dialect/main.py:195
 msgid "Donate"
 msgstr ""
 

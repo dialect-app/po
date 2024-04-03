@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-22 08:20-0500\n"
+"POT-Creation-Date: 2024-04-03 13:41-0500\n"
 "PO-Revision-Date: 2023-06-06 09:50+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/dialect/"
@@ -22,7 +22,7 @@ msgstr ""
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
-#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:7
+#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:5
 #: data/resources/window.blp:280 dialect/main.py:71
 msgid "Dialect"
 msgstr "Dialect"
@@ -39,7 +39,7 @@ msgid ""
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
 msgstr "Uma aplicação de tradução para GNOME."
 
@@ -88,18 +88,19 @@ msgid "Clipboard buttons"
 msgstr "Botões da área de transferência"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/app.drey.Dialect.metainfo.xml.in.in:33 data/resources/about.blp:8
+#: data/app.drey.Dialect.metainfo.xml.in.in:33
+#: data/app.drey.Dialect.metainfo.xml.in.in:35 data/resources/about.blp:6
 msgid "The Dialect Authors"
 msgstr "Autores do Dialect"
 
-#: data/resources/about.blp:9
+#: data/resources/about.blp:7
 #, fuzzy
 #| msgid "Copyright 2020–⁠2022 The Dialect Authors"
 msgid "Copyright 2020–⁠2023 The Dialect Authors"
 msgstr "Copyright 2020–⁠2022 Autores do Dialect"
 
 #. Translators: Replace me with your names.
-#: data/resources/about.blp:17
+#: data/resources/about.blp:15
 msgid "translator-credits"
 msgstr ""
 "Juliano de Souza Camargo <julianosc@pm.me>\n"
@@ -109,104 +110,104 @@ msgstr ""
 msgid "Search Languages…"
 msgstr "Pesquisar idiomas…"
 
-#: data/resources/preferences.ui:12
+#: data/resources/preferences.ui:8
 msgid "Providers"
 msgstr "Serviços de tradução"
 
-#: data/resources/preferences.ui:15
+#: data/resources/preferences.ui:11
 msgid "Translator"
 msgstr "Tradutor"
 
-#: data/resources/preferences.ui:16
+#: data/resources/preferences.ui:12
 msgid "Choose from the available translation services."
 msgstr "Escolha entre os serviços de tradução disponíveis."
 
-#: data/resources/preferences.ui:47
+#: data/resources/preferences.ui:43
 msgid "Text-to-Speech"
 msgstr "Texto para voz"
 
-#: data/resources/preferences.ui:48
+#: data/resources/preferences.ui:44
 msgid "Choose from the available TTS services."
 msgstr "Escolha entre os serviços TTS disponíveis."
 
-#: data/resources/preferences.ui:81
+#: data/resources/preferences.ui:77
 msgid "Behavior"
 msgstr "Comportamento"
 
-#: data/resources/preferences.ui:84
+#: data/resources/preferences.ui:80
 msgid "Live Translation"
 msgstr "Tradução em direto"
 
-#: data/resources/preferences.ui:85
+#: data/resources/preferences.ui:81
 msgid "Warning: Your IP address may get banned for API abuse."
 msgstr "Aviso: o seu endereço IP pode ser banido devido ao abuso da API."
 
-#: data/resources/preferences.ui:91
+#: data/resources/preferences.ui:87
 msgid "Show Translations in Desktop Search"
 msgstr "Mostrar traduções na pesquisa do ambiente de trabalho"
 
-#: data/resources/preferences.ui:92
+#: data/resources/preferences.ui:88
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr ""
 "Atenção: todas as pesquisas na área de trabalho serão enviadas ao serviço de "
 "tradução"
 
-#: data/resources/preferences.ui:99
+#: data/resources/preferences.ui:95
 msgid "Translation Shortcut"
 msgstr "Atalho para traduzir"
 
-#: data/resources/preferences.ui:100
+#: data/resources/preferences.ui:96
 msgid "The unselected choice will be used for line break."
 msgstr "A escolha não selecionada será utilizada para quebra de linha."
 
-#: data/resources/preferences.ui:118
+#: data/resources/preferences.ui:114
 msgid "Default to Auto"
 msgstr "Predefinido para automático"
 
-#: data/resources/preferences.ui:119
+#: data/resources/preferences.ui:115
 msgid "Use \"Auto\" as the default language"
 msgstr "Usar “automático” como idioma predefinido"
 
-#: data/resources/preferences.ui:126
+#: data/resources/preferences.ui:122
 msgid "Appearance"
 msgstr "Aparência"
 
-#: data/resources/preferences.ui:129
+#: data/resources/preferences.ui:125
 msgid "Use Custom Font Size"
 msgstr ""
 
-#: data/resources/preferences.ui:130
+#: data/resources/preferences.ui:126
 msgid "System font size is used otherwise."
 msgstr ""
 
-#: data/resources/preferences.ui:136
+#: data/resources/preferences.ui:132
 #, fuzzy
 #| msgid "Default to Auto"
 msgid "Default Font Size"
 msgstr "Predefinido para automático"
 
-#: data/resources/preferences.ui:137
+#: data/resources/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
 msgstr ""
 
-#: data/resources/provider-preferences.blp:27
+#: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
 msgstr "Exemplo de URL"
 
-#: data/resources/provider-preferences.blp:28
+#: data/resources/provider-preferences.blp:22
 msgid "Enter an Instance URL for the Provider."
 msgstr "Introduza um exemplo de URL para o serviço de tradução."
 
-#: data/resources/provider-preferences.blp:38
-#: data/resources/provider-preferences.blp:68
+#: data/resources/provider-preferences.blp:32
+#: data/resources/provider-preferences.blp:62
 msgid "Reset to Default"
 msgstr "Repor as predefinições"
 
-#: data/resources/provider-preferences.blp:58
+#: data/resources/provider-preferences.blp:52
 msgid "API Key"
 msgstr "Chave de API"
 
-#: data/resources/provider-preferences.blp:59
+#: data/resources/provider-preferences.blp:53
 msgid "Enter an API Key for the Provider."
 msgstr "Introduza uma chave de API para o serviço de tradução."
 
@@ -429,7 +430,7 @@ msgstr "Gravar"
 msgid "Auto"
 msgstr "Automático"
 
-#: dialect/main.py:196
+#: dialect/main.py:195
 msgid "Donate"
 msgstr ""
 

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-22 08:20-0500\n"
+"POT-Creation-Date: 2024-04-03 13:41-0500\n"
 "PO-Revision-Date: 2023-11-29 09:05+0000\n"
 "Last-Translator: DaeHyun Sung <sungdh86+git@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -22,7 +22,7 @@ msgstr ""
 # 번역하면 '방언' '사투리'가 되는데 프로그램 이름이 어색해지므로 그냥 음역한다.
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
-#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:7
+#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:5
 #: data/resources/window.blp:280 dialect/main.py:71
 msgid "Dialect"
 msgstr "다이얼렉트"
@@ -39,7 +39,7 @@ msgid ""
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
 msgstr "그놈용 번역앱."
 
@@ -86,18 +86,19 @@ msgid "Clipboard buttons"
 msgstr "클립보드 단추"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/app.drey.Dialect.metainfo.xml.in.in:33 data/resources/about.blp:8
+#: data/app.drey.Dialect.metainfo.xml.in.in:33
+#: data/app.drey.Dialect.metainfo.xml.in.in:35 data/resources/about.blp:6
 msgid "The Dialect Authors"
 msgstr "다이얼렉트 저작자"
 
-#: data/resources/about.blp:9
+#: data/resources/about.blp:7
 #, fuzzy
 #| msgid "Copyright 2020–⁠2022 The Dialect Authors"
 msgid "Copyright 2020–⁠2023 The Dialect Authors"
 msgstr "저작권 2020–⁠2022 The Dialect Authors"
 
 #. Translators: Replace me with your names.
-#: data/resources/about.blp:17
+#: data/resources/about.blp:15
 msgid "translator-credits"
 msgstr "조성호 <shcho@gnome.org>, 성대현 <sungdh86+git@gmail.com>"
 
@@ -105,102 +106,102 @@ msgstr "조성호 <shcho@gnome.org>, 성대현 <sungdh86+git@gmail.com>"
 msgid "Search Languages…"
 msgstr "언어 검색…"
 
-#: data/resources/preferences.ui:12
+#: data/resources/preferences.ui:8
 msgid "Providers"
 msgstr "검색 제공자"
 
-#: data/resources/preferences.ui:15
+#: data/resources/preferences.ui:11
 msgid "Translator"
 msgstr "번역자"
 
-#: data/resources/preferences.ui:16
+#: data/resources/preferences.ui:12
 msgid "Choose from the available translation services."
 msgstr "번역 서비스에서 사용할 수 있는 번역자 항목을 선택하십시오."
 
-#: data/resources/preferences.ui:47
+#: data/resources/preferences.ui:43
 msgid "Text-to-Speech"
 msgstr "텍스트 음성 변환"
 
-#: data/resources/preferences.ui:48
+#: data/resources/preferences.ui:44
 msgid "Choose from the available TTS services."
 msgstr "사용 가능한 TTS서비스 중에서 선택하세요."
 
-#: data/resources/preferences.ui:81
+#: data/resources/preferences.ui:77
 msgid "Behavior"
 msgstr "동작"
 
-#: data/resources/preferences.ui:84
+#: data/resources/preferences.ui:80
 msgid "Live Translation"
 msgstr "실시간 번역"
 
-#: data/resources/preferences.ui:85
+#: data/resources/preferences.ui:81
 msgid "Warning: Your IP address may get banned for API abuse."
 msgstr "경고: API 어뷰징으로 IP 주소가 차단될 수 있습니다."
 
-#: data/resources/preferences.ui:91
+#: data/resources/preferences.ui:87
 msgid "Show Translations in Desktop Search"
 msgstr "데스크톱 검색에서 번역 보이기"
 
-#: data/resources/preferences.ui:92
+#: data/resources/preferences.ui:88
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr "경고: 모든 데스크톱 검색은 번역 서비스로 보냅니다"
 
-#: data/resources/preferences.ui:99
+#: data/resources/preferences.ui:95
 msgid "Translation Shortcut"
 msgstr "번역 바로 가기 키"
 
-#: data/resources/preferences.ui:100
+#: data/resources/preferences.ui:96
 msgid "The unselected choice will be used for line break."
 msgstr "선택하지 않은 항목을 줄바꿈 용도로 활용합니다."
 
-#: data/resources/preferences.ui:118
+#: data/resources/preferences.ui:114
 msgid "Default to Auto"
 msgstr "'자동'으로 기본 설정"
 
-#: data/resources/preferences.ui:119
+#: data/resources/preferences.ui:115
 msgid "Use \"Auto\" as the default language"
 msgstr "기본 언어를 \"자동\"으로 사용합니다"
 
-#: data/resources/preferences.ui:126
+#: data/resources/preferences.ui:122
 msgid "Appearance"
 msgstr "모양새"
 
-#: data/resources/preferences.ui:129
+#: data/resources/preferences.ui:125
 msgid "Use Custom Font Size"
 msgstr ""
 
-#: data/resources/preferences.ui:130
+#: data/resources/preferences.ui:126
 msgid "System font size is used otherwise."
 msgstr ""
 
-#: data/resources/preferences.ui:136
+#: data/resources/preferences.ui:132
 #, fuzzy
 #| msgid "Default to Auto"
 msgid "Default Font Size"
 msgstr "'자동'으로 기본 설정"
 
-#: data/resources/preferences.ui:137
+#: data/resources/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
 msgstr ""
 
-#: data/resources/provider-preferences.blp:27
+#: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
 msgstr "인스턴스 URL"
 
-#: data/resources/provider-preferences.blp:28
+#: data/resources/provider-preferences.blp:22
 msgid "Enter an Instance URL for the Provider."
 msgstr "번역 서비스용 인스턴스 URL을 입력하십시오."
 
-#: data/resources/provider-preferences.blp:38
-#: data/resources/provider-preferences.blp:68
+#: data/resources/provider-preferences.blp:32
+#: data/resources/provider-preferences.blp:62
 msgid "Reset to Default"
 msgstr "기본값으로 재설정"
 
-#: data/resources/provider-preferences.blp:58
+#: data/resources/provider-preferences.blp:52
 msgid "API Key"
 msgstr "API키"
 
-#: data/resources/provider-preferences.blp:59
+#: data/resources/provider-preferences.blp:53
 msgid "Enter an API Key for the Provider."
 msgstr "번역 서비스 API키를 입력하십시오."
 
@@ -423,7 +424,7 @@ msgstr "저장"
 msgid "Auto"
 msgstr "자동"
 
-#: dialect/main.py:196
+#: dialect/main.py:195
 msgid "Donate"
 msgstr ""
 

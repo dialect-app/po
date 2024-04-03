@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-22 08:20-0500\n"
+"POT-Creation-Date: 2024-04-03 13:41-0500\n"
 "PO-Revision-Date: 2024-04-01 12:01+0000\n"
 "Last-Translator: twlvnn <kraft_werk@tutanota.com>\n"
 "Language-Team: Bulgarian <https://hosted.weblate.org/projects/dialect/"
@@ -21,7 +21,7 @@ msgstr ""
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
-#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:7
+#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:5
 #: data/resources/window.blp:280 dialect/main.py:71
 msgid "Dialect"
 msgstr "Dialect"
@@ -40,7 +40,7 @@ msgstr ""
 "преведи;превод;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:10
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
 msgstr "Приложение за превеждане за „GNOME“."
 
@@ -89,16 +89,17 @@ msgid "Clipboard buttons"
 msgstr "Бутони за буфера за обмен"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/app.drey.Dialect.metainfo.xml.in.in:33 data/resources/about.blp:8
+#: data/app.drey.Dialect.metainfo.xml.in.in:33
+#: data/app.drey.Dialect.metainfo.xml.in.in:35 data/resources/about.blp:6
 msgid "The Dialect Authors"
 msgstr "Автори на „Dialect“"
 
-#: data/resources/about.blp:9
+#: data/resources/about.blp:7
 msgid "Copyright 2020–⁠2023 The Dialect Authors"
 msgstr "Авторски права 2022-2023 Автори на „Dialect“"
 
 #. Translators: Replace me with your names.
-#: data/resources/about.blp:17
+#: data/resources/about.blp:15
 msgid "translator-credits"
 msgstr "twlvnn <kraft_werk@tutanota.com>"
 
@@ -106,102 +107,102 @@ msgstr "twlvnn <kraft_werk@tutanota.com>"
 msgid "Search Languages…"
 msgstr "Търсене на езици…"
 
-#: data/resources/preferences.ui:12
+#: data/resources/preferences.ui:8
 msgid "Providers"
 msgstr "Преводачи"
 
-#: data/resources/preferences.ui:15
+#: data/resources/preferences.ui:11
 msgid "Translator"
 msgstr "Преводач"
 
-#: data/resources/preferences.ui:16
+#: data/resources/preferences.ui:12
 msgid "Choose from the available translation services."
 msgstr "Изберете от наличните преводачески услуги."
 
-#: data/resources/preferences.ui:47
+#: data/resources/preferences.ui:43
 msgid "Text-to-Speech"
 msgstr "Текст-към-Реч"
 
-#: data/resources/preferences.ui:48
+#: data/resources/preferences.ui:44
 msgid "Choose from the available TTS services."
 msgstr "Изберете от наличните TTS услуги."
 
-#: data/resources/preferences.ui:81
+#: data/resources/preferences.ui:77
 msgid "Behavior"
 msgstr "Поведение"
 
-#: data/resources/preferences.ui:84
+#: data/resources/preferences.ui:80
 msgid "Live Translation"
 msgstr "Превод в реално време"
 
-#: data/resources/preferences.ui:85
+#: data/resources/preferences.ui:81
 msgid "Warning: Your IP address may get banned for API abuse."
 msgstr ""
 "Внимание: Вашият IP адрес може да бъде забранен за злоупотреба с преводача."
 
-#: data/resources/preferences.ui:91
+#: data/resources/preferences.ui:87
 msgid "Show Translations in Desktop Search"
 msgstr "Показване на преводите в търсачката на работния плот"
 
-#: data/resources/preferences.ui:92
+#: data/resources/preferences.ui:88
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr ""
 "Внимание: Всички търсения от работния плот ще бъдат изпратени до преводача"
 
-#: data/resources/preferences.ui:99
+#: data/resources/preferences.ui:95
 msgid "Translation Shortcut"
 msgstr "Клавишна комбинация за бърз превод"
 
-#: data/resources/preferences.ui:100
+#: data/resources/preferences.ui:96
 msgid "The unselected choice will be used for line break."
 msgstr "Неизбраният избор ще се използва за нов ред."
 
-#: data/resources/preferences.ui:118
+#: data/resources/preferences.ui:114
 msgid "Default to Auto"
 msgstr "Автоматично по подразбиране"
 
-#: data/resources/preferences.ui:119
+#: data/resources/preferences.ui:115
 msgid "Use \"Auto\" as the default language"
 msgstr "Използване на \"автоматично\" като език по подразбиране"
 
-#: data/resources/preferences.ui:126
+#: data/resources/preferences.ui:122
 msgid "Appearance"
 msgstr "Изглед"
 
-#: data/resources/preferences.ui:129
+#: data/resources/preferences.ui:125
 msgid "Use Custom Font Size"
 msgstr "Използвайте персонализиран размер на шрифта"
 
-#: data/resources/preferences.ui:130
+#: data/resources/preferences.ui:126
 msgid "System font size is used otherwise."
 msgstr "В противен случай се използва системния размер на шрифта."
 
-#: data/resources/preferences.ui:136
+#: data/resources/preferences.ui:132
 msgid "Default Font Size"
 msgstr "Размер на шрифта по подразбиране"
 
-#: data/resources/preferences.ui:137
+#: data/resources/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
 msgstr "Променяйки размера чрез клавишни комбинации не презаписване това."
 
-#: data/resources/provider-preferences.blp:27
+#: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
 msgstr "Адрес на инстанцията"
 
-#: data/resources/provider-preferences.blp:28
+#: data/resources/provider-preferences.blp:22
 msgid "Enter an Instance URL for the Provider."
 msgstr "Въведете адреса на инстанцията за преводача."
 
-#: data/resources/provider-preferences.blp:38
-#: data/resources/provider-preferences.blp:68
+#: data/resources/provider-preferences.blp:32
+#: data/resources/provider-preferences.blp:62
 msgid "Reset to Default"
 msgstr "Върнете към по подразбиране"
 
-#: data/resources/provider-preferences.blp:58
+#: data/resources/provider-preferences.blp:52
 msgid "API Key"
 msgstr "API Ключ"
 
-#: data/resources/provider-preferences.blp:59
+#: data/resources/provider-preferences.blp:53
 msgid "Enter an API Key for the Provider."
 msgstr "Въведете API ключа на преводача."
 
@@ -420,7 +421,7 @@ msgstr "Запазване"
 msgid "Auto"
 msgstr "Автоматично"
 
-#: dialect/main.py:196
+#: dialect/main.py:195
 msgid "Donate"
 msgstr "Даряване"
 
