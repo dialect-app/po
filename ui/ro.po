@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-03 13:41-0500\n"
-"PO-Revision-Date: 2024-01-26 22:01+0000\n"
+"PO-Revision-Date: 2024-04-07 16:09+0000\n"
 "Last-Translator: Andrea Andre <andrea.tsg19@slmail.me>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/dialect/dialect/"
 "ro/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -157,7 +157,7 @@ msgstr "Scurtătură pentru traducere"
 
 #: data/resources/preferences.ui:96
 msgid "The unselected choice will be used for line break."
-msgstr "Alegerea nespecificată va fi utilizată pentru întreruperea de linie."
+msgstr "Opțiunea nebifată va fi utilizată pentru a da pe un rând nou."
 
 #: data/resources/preferences.ui:114
 msgid "Default to Auto"
@@ -186,7 +186,8 @@ msgstr "Mărimea prestabilită a literelor"
 #: data/resources/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
 msgstr ""
-"Modificarea mărimii prin intermediul scurtăturilor nu înlocuiește aceasta."
+"Modificarea mărimii prin intermediul scurtăturilor nu schimbă această "
+"valoare."
 
 #: data/resources/provider-preferences.blp:21
 msgid "Instance URL"

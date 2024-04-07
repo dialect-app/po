@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-03 13:41-0500\n"
-"PO-Revision-Date: 2024-01-26 22:01+0000\n"
+"PO-Revision-Date: 2024-04-07 16:09+0000\n"
 "Last-Translator: Andrea Andre <andrea.tsg19@slmail.me>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/dialect/dialect/"
 "it/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -43,7 +43,7 @@ msgstr ""
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
-msgstr "Un'app di traduzione, per GNOME."
+msgstr "Un'applicazione di traduzione, per GNOME."
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
@@ -157,8 +157,7 @@ msgstr "Scorciatoia di traduzione"
 
 #: data/resources/preferences.ui:96
 msgid "The unselected choice will be used for line break."
-msgstr ""
-"La scelta non selezionata verrà utilizzata per l'interruzione di linea."
+msgstr "L'opzione non selezionata verrà utilizzata per l'interruzione di riga."
 
 #: data/resources/preferences.ui:114
 msgid "Default to Auto"
@@ -187,8 +186,7 @@ msgstr "Grandezza predefinita dei caratteri"
 #: data/resources/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
 msgstr ""
-"La modifica della grandezza tramite le scorciatoie non sostituisce questo "
-"dato."
+"La modifica della grandezza tramite le scorciatoie non cambia questo dato."
 
 #: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
@@ -259,7 +257,7 @@ msgstr "Aumenta i caratteri"
 #: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr "Diminuisci i caratteri"
+msgstr "Diminuisce i caratteri"
 
 #: data/resources/shortcuts.blp:62
 msgctxt "shortcuts window"
@@ -360,7 +358,7 @@ msgstr "Rimuovi chiave e riprova"
 
 #: data/resources/window.blp:260 data/resources/window.blp:582
 msgid "Change Source Language"
-msgstr "Cambia lingua della fonte"
+msgstr "Cambia la lingua sorgente"
 
 #: data/resources/window.blp:265 data/resources/window.blp:590
 msgid "Switch Languages"
@@ -444,13 +442,12 @@ msgstr "La chiave API inserita non è valida"
 
 #: dialect/window.py:358
 msgid "Please set a valid API key in the preferences."
-msgstr "Per favore inserisci una chiave API valida nelle preferenze."
+msgstr "Inserire una chiave API valida nelle preferenze."
 
 #: dialect/window.py:361
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
-"Per favore inserisci una chiave API valida o rimuovi la chiave API nelle "
-"preferenze."
+"Inserire una chiave API valida o rimuovere la chiave API nelle preferenze."
 
 #: dialect/window.py:377 dialect/window.py:1134
 msgid "API key is required to use the service"
@@ -458,7 +455,7 @@ msgstr "Una chiave API è necessaria per usare il servizio"
 
 #: dialect/window.py:378
 msgid "Please set an API key in the preferences."
-msgstr "Per favore inserisci una chiave API nelle preferenze."
+msgstr "Inserire una chiave API nelle preferenze."
 
 #: dialect/window.py:391
 msgid "Failed loading the translation service"
@@ -466,8 +463,7 @@ msgstr "Caricamento del servizio di traduzione fallito"
 
 #: dialect/window.py:392
 msgid "Please report this in the Dialect bug tracker if the issue persists."
-msgstr ""
-"Per favore segnala questo nel bug tracker di Dialect se il problema persiste."
+msgstr "Se il problema persiste, segnalarlo nel bug tracker di Dialect."
 
 #: dialect/window.py:401
 msgid "Couldn’t connect to the translation service"
@@ -485,7 +481,7 @@ msgstr "Si è verificato un problema di rete. Vuoi riprovare?"
 
 #: dialect/window.py:477
 msgid "A network issue has occurred. Please try again."
-msgstr "Si è verificato un problema di rete. Per favore riprova."
+msgstr "Si è verificato un problema di rete. Riprovare."
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
