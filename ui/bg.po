@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-03 13:41-0500\n"
-"PO-Revision-Date: 2024-04-01 12:01+0000\n"
+"PO-Revision-Date: 2024-04-07 16:09+0000\n"
 "Last-Translator: twlvnn <kraft_werk@tutanota.com>\n"
 "Language-Team: Bulgarian <https://hosted.weblate.org/projects/dialect/"
 "dialect/bg/>\n"
@@ -42,7 +42,7 @@ msgstr ""
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
-msgstr "Приложение за превеждане за „GNOME“."
+msgstr "Приложение за превеждане за GNOME."
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
@@ -50,27 +50,27 @@ msgstr "Функции:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
 msgid "Translation based on Google Translate"
-msgstr "Превод чрез „Google Translate“"
+msgstr "Превод чрез Google Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
-"Превод чрез програмния интерфейс (API) на „LibreTranslate“, който ви "
-"позволява да използвате всяка публична инстанция"
+"Превод чрез програмния интерфейс (API) на LibreTranslate, който ви позволява "
+"да използвате всяка публична инстанция"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
-msgstr "Превод чрез „Lingva Translate API“"
+msgstr "Превод чрез Lingva Translate API"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Translation based on Bing"
-msgstr "Превод чрез „Bing“"
+msgstr "Превод чрез Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
 msgid "Translation based on Yandex"
-msgstr "Превод чрез „Yandex“"
+msgstr "Превод чрез Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
