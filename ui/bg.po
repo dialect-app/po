@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-03 13:41-0500\n"
-"PO-Revision-Date: 2024-04-07 16:09+0000\n"
+"PO-Revision-Date: 2024-04-08 20:35+0000\n"
 "Last-Translator: twlvnn <kraft_werk@tutanota.com>\n"
 "Language-Team: Bulgarian <https://hosted.weblate.org/projects/dialect/"
 "dialect/bg/>\n"
@@ -219,7 +219,7 @@ msgstr "Превеждане"
 #: data/resources/shortcuts.blp:21
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr "Разменете езиците"
+msgstr "Разменяне на езиците"
 
 #: data/resources/shortcuts.blp:26
 msgctxt "shortcuts window"
@@ -359,7 +359,7 @@ msgstr "Променете езика от който ще превеждате"
 
 #: data/resources/window.blp:265 data/resources/window.blp:590
 msgid "Switch Languages"
-msgstr "Разменете езиците"
+msgstr "Разменяне на езиците"
 
 #: data/resources/window.blp:272 data/resources/window.blp:598
 msgid "Change Destination Language"
