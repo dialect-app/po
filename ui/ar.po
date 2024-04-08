@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-03 13:41-0500\n"
-"PO-Revision-Date: 2024-02-29 23:01+0000\n"
+"PO-Revision-Date: 2024-04-08 20:35+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/dialect/dialect/"
 "ar/>\n"
@@ -175,10 +175,8 @@ msgid "System font size is used otherwise."
 msgstr ""
 
 #: data/resources/preferences.ui:132
-#, fuzzy
-#| msgid "Default to Auto"
 msgid "Default Font Size"
-msgstr "تلقائي افتراضيًا"
+msgstr "الحجم الافتراضي للخط"
 
 #: data/resources/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
@@ -221,18 +219,14 @@ msgid "Switch Languages"
 msgstr "تبديل اللغات"
 
 #: data/resources/shortcuts.blp:26
-#, fuzzy
-#| msgid "Change Source Language"
 msgctxt "shortcuts window"
 msgid "Select source language"
-msgstr "تغيير لغة المصدر"
+msgstr "اختر اللغة المصدرية"
 
 #: data/resources/shortcuts.blp:31
-#, fuzzy
-#| msgid "Change Destination Language"
 msgctxt "shortcuts window"
 msgid "Select destination language"
-msgstr "تغيير اللغة المستهدفة"
+msgstr "اختر اللغة المستهدفة"
 
 #: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"

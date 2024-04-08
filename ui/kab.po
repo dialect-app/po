@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-03 13:41-0500\n"
-"PO-Revision-Date: 2024-03-14 10:49+0000\n"
+"PO-Revision-Date: 2024-04-08 20:35+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/dialect/dialect/"
 "kab/>\n"
@@ -277,12 +277,12 @@ msgstr "Assilel"
 #: data/resources/shortcuts.blp:79
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "Tuɣalin ɣer deffir deg umazray"
 
 #: data/resources/shortcuts.blp:84
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr ""
+msgstr "Ddu ɣer sdat deg umazray"
 
 #: data/resources/shortcuts.blp:90
 msgctxt "shortcuts window"
