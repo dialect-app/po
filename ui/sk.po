@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-03 13:41-0500\n"
-"PO-Revision-Date: 2022-09-04 08:18+0000\n"
+"PO-Revision-Date: 2024-05-01 18:07+0000\n"
 "Last-Translator: Marek Ľach <graweeld@googlemail.com>\n"
 "Language-Team: Slovak <https://hosted.weblate.org/projects/dialect/dialect/"
 "sk/>\n"
@@ -16,8 +16,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.14.1-dev\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"X-Generator: Weblate 5.5.3-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -40,7 +40,7 @@ msgstr ""
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
-msgstr ""
+msgstr "Prekladacia aplikácia pre GNOME."
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
@@ -61,14 +61,12 @@ msgid "Translation based on Lingva Translate API"
 msgstr ""
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr "Preklad postavený na Google Translate"
+msgstr "Preklad postavený na Bingu"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "Preklad postavený na Google Translate"
+msgstr "Preklad postavený na Yandexe"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
@@ -102,14 +100,12 @@ msgid "translator-credits"
 msgstr "Dušan Kazik <prescott66@gmail.com>"
 
 #: data/resources/lang-selector.blp:47
-#, fuzzy
 msgid "Search Languages…"
-msgstr "Prehodí jazyky"
+msgstr "Prehľadávať jazyky…"
 
 #: data/resources/preferences.ui:8
-#, fuzzy
 msgid "Providers"
-msgstr "Poskytovateľ hľadania"
+msgstr "Poskytovatelia"
 
 #: data/resources/preferences.ui:11
 msgid "Translator"
@@ -171,7 +167,7 @@ msgstr "Vzhľad"
 
 #: data/resources/preferences.ui:125
 msgid "Use Custom Font Size"
-msgstr ""
+msgstr "Použiť vlastnú veľkosť písma"
 
 #: data/resources/preferences.ui:126
 msgid "System font size is used otherwise."
@@ -179,7 +175,7 @@ msgstr ""
 
 #: data/resources/preferences.ui:132
 msgid "Default Font Size"
-msgstr ""
+msgstr "Východzia veľkosť písma"
 
 #: data/resources/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
@@ -204,9 +200,8 @@ msgid "API Key"
 msgstr ""
 
 #: data/resources/provider-preferences.blp:53
-#, fuzzy
 msgid "Enter an API Key for the Provider."
-msgstr "Nepodarilo sa načítať službu prekladača"
+msgstr "Zadajte API kľúč poskytovateľa"
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -216,7 +211,7 @@ msgstr "Prekladač"
 #: data/resources/shortcuts.blp:16
 msgctxt "shortcuts window"
 msgid "Translate"
-msgstr ""
+msgstr "Preložiť"
 
 #: data/resources/shortcuts.blp:21
 msgctxt "shortcuts window"
