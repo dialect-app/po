@@ -1,0 +1,1177 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dialect-cldr-langs\n"
+"Language: ckb\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Afar"
+msgstr "ئەفار"
+
+msgid "Abkhazian"
+msgstr "ئەبخازی"
+
+msgid "Acehnese"
+msgstr "ئاچەیی"
+
+msgid "Adangme"
+msgstr "دانگمێ"
+
+msgid "Adyghe"
+msgstr "ئادیگی"
+
+msgid "Afrikaans"
+msgstr "ئەفریکانس"
+
+msgid "Aghem"
+msgstr "ئاگێم"
+
+msgid "Ainu"
+msgstr "ئاینوو"
+
+msgid "Akan"
+msgstr "ئاکان"
+
+msgid "Aleut"
+msgstr "ئالیوت"
+
+msgid "Southern Altai"
+msgstr "ئاڵتایی باشوور"
+
+msgid "Amharic"
+msgstr "ئەمھەری"
+
+msgid "Aragonese"
+msgstr "ئاراگۆنی"
+
+msgid "Angika"
+msgstr "ئەنگیکا"
+
+msgid "Arabic"
+msgstr "عەرەبی"
+
+msgid "Modern Standard Arabic"
+msgstr "عەرەبیی ستاندارد"
+
+msgid "Mapuche"
+msgstr "ماپووچە"
+
+msgid "Arapaho"
+msgstr "ئاراپاهۆ"
+
+msgid "Assamese"
+msgstr "ئاسامی"
+
+msgid "Asu"
+msgstr "ئاسوو"
+
+msgid "Asturian"
+msgstr "ئاستۆری"
+
+msgid "Avaric"
+msgstr "ئەڤاری"
+
+msgid "Awadhi"
+msgstr "ئاوادهی"
+
+msgid "Aymara"
+msgstr "ئایمارا"
+
+msgid "Azerbaijani"
+msgstr "ئازەربایجانی"
+
+msgid "Azeri"
+msgstr "ئازەربایجانی"
+
+msgid "Bashkir"
+msgstr "باشکیەر"
+
+msgid "Balinese"
+msgstr "بالی"
+
+msgid "Basaa"
+msgstr "باسا"
+
+msgid "Belarusian"
+msgstr "بیلاڕووسی"
+
+msgid "Bemba"
+msgstr "بێمبا"
+
+msgid "Bena"
+msgstr "بێنا"
+
+msgid "Bulgarian"
+msgstr "بۆلگاری"
+
+msgid "Bhojpuri"
+msgstr "بوجپووری"
+
+msgid "Bislama"
+msgstr "بیسلاما"
+
+msgid "Bini"
+msgstr "بینی"
+
+msgid "Siksiká"
+msgstr "سیکسیکا"
+
+msgid "Bambara"
+msgstr "بامبارا"
+
+msgid "Bangla"
+msgstr "بەنگلادێشی"
+
+msgid "Tibetan"
+msgstr "تەبەتی"
+
+msgid "Breton"
+msgstr "برێتونی"
+
+msgid "Bodo"
+msgstr "بۆدۆ"
+
+msgid "Bosnian"
+msgstr "بۆسنی"
+
+msgid "Buginese"
+msgstr "بووگی"
+
+msgid "Blin"
+msgstr "بلین"
+
+msgid "Catalan"
+msgstr "كاتالۆنی"
+
+msgid "Chechen"
+msgstr "چیچانی"
+
+msgid "Cebuano"
+msgstr "سێبوانۆ"
+
+msgid "Chiga"
+msgstr "کیگا"
+
+msgid "Chamorro"
+msgstr "چامۆرۆ"
+
+msgid "Chuukese"
+msgstr "چووکی"
+
+msgid "Mari"
+msgstr "ماری"
+
+msgid "Choctaw"
+msgstr "چۆکتاو"
+
+msgid "Cherokee"
+msgstr "چێرۆکی"
+
+msgid "Cheyenne"
+msgstr "شایان"
+
+msgid "Central Kurdish"
+msgstr "کوردیی ناوەندی"
+
+msgid "Kurdish, Central"
+msgstr "کوردیی ناوەندی"
+
+msgid "Kurdish, Sorani"
+msgstr "کوردیی ناوەندی"
+
+msgid "Corsican"
+msgstr "کۆرسیکی"
+
+msgid "Seselwa Creole French"
+msgstr "فەرەنسیی سیشێلی"
+
+msgid "Czech"
+msgstr "چێکی"
+
+msgid "Church Slavic"
+msgstr "سلاویی کلیسەیی"
+
+msgid "Chuvash"
+msgstr "چووڤاشی"
+
+msgid "Welsh"
+msgstr "وێلزی"
+
+msgid "Danish"
+msgstr "دانماركی"
+
+msgid "Dakota"
+msgstr "داکۆتایی"
+
+msgid "Dargwa"
+msgstr "دارگینی"
+
+msgid "Taita"
+msgstr "تایتا"
+
+msgid "German"
+msgstr "ئەڵمانی"
+
+msgid "Dogrib"
+msgstr "دۆگریب"
+
+msgid "Zarma"
+msgstr "زارما"
+
+msgid "Lower Sorbian"
+msgstr "سربیی خوارین"
+
+msgid "Duala"
+msgstr "دووالا"
+
+msgid "Divehi"
+msgstr "دیڤێهی"
+
+msgid "Jola-Fonyi"
+msgstr "جۆلافۆنی"
+
+msgid "Dzongkha"
+msgstr "دزوونگخا"
+
+msgid "Dazaga"
+msgstr "دازا"
+
+msgid "Embu"
+msgstr "ئێمبوو"
+
+msgid "Ewe"
+msgstr "ئێوێیی"
+
+msgid "Efik"
+msgstr "ئێفیک"
+
+msgid "Ekajuk"
+msgstr "ئێکاجووک"
+
+msgid "Greek"
+msgstr "یۆنانی"
+
+msgid "English"
+msgstr "ئینگلیزی"
+
+msgid "Australian English"
+msgstr "ئینگلیزیی ئۆسترالیایی"
+
+msgid "Canadian English"
+msgstr "ئینگلیزیی کەنەدایی"
+
+msgid "British English"
+msgstr "ئینگلیزیی بریتانیایی"
+
+msgid "UK English"
+msgstr "ئینگلیزی (GB)"
+
+msgid "American English"
+msgstr "ئینگلیزیی ئەمەریکایی"
+
+msgid "US English"
+msgstr "ئینگلیزیی ئەمەریکایی"
+
+msgid "Esperanto"
+msgstr "ئێسپیرانتۆ"
+
+msgid "Spanish"
+msgstr "ئیسپانی"
+
+msgid "Estonian"
+msgstr "ئیستۆنی"
+
+msgid "Basque"
+msgstr "باسکی"
+
+msgid "Ewondo"
+msgstr "ئێوۆندۆ"
+
+msgid "Persian"
+msgstr "فارسی"
+
+msgid "Fula"
+msgstr "فوولایی"
+
+msgid "Finnish"
+msgstr "فینلەندی"
+
+msgid "Filipino"
+msgstr "فیلیپینی"
+
+msgid "Fijian"
+msgstr "فیجی"
+
+msgid "Faroese"
+msgstr "فەرۆیی"
+
+msgid "Fon"
+msgstr "فۆنی"
+
+msgid "French"
+msgstr "فەرەنسی"
+
+msgid "Friulian"
+msgstr "فریئوولی"
+
+msgid "Western Frisian"
+msgstr "فریسیی ڕۆژاوا"
+
+msgid "Irish"
+msgstr "ئیرلەندی"
+
+msgid "Ga"
+msgstr "گایی"
+
+msgid "Scottish Gaelic"
+msgstr "گه‌لیكی سكۆتله‌ندی"
+
+msgid "Geez"
+msgstr "گیزی"
+
+msgid "Gilbertese"
+msgstr "گیلبێرتی"
+
+msgid "Galician"
+msgstr "گالیسی"
+
+msgid "Guarani"
+msgstr "گووارانی"
+
+msgid "Gorontalo"
+msgstr "گۆرۆنتالی"
+
+msgid "Swiss German"
+msgstr "ئەڵمانیی سویسڕا"
+
+msgid "Gujarati"
+msgstr "گوجاراتی"
+
+msgid "Gusii"
+msgstr "گووسی"
+
+msgid "Manx"
+msgstr "مانکی"
+
+msgid "Gwichʼin"
+msgstr "گویچین"
+
+msgid "Hausa"
+msgstr "هائووسا"
+
+msgid "Hawaiian"
+msgstr "هاوایی"
+
+msgid "Hebrew"
+msgstr "عیبری"
+
+msgid "Hindi"
+msgstr "هیندی"
+
+msgid "Hiligaynon"
+msgstr "هیلیگاینۆن"
+
+msgid "Hmong"
+msgstr "همۆنگ"
+
+msgid "Croatian"
+msgstr "كرواتی"
+
+msgid "Upper Sorbian"
+msgstr "سربیی سەروو"
+
+msgid "Haitian Creole"
+msgstr "کریولی هائیتی"
+
+msgid "Hungarian"
+msgstr "هەنگاری"
+
+msgid "Hupa"
+msgstr "هووپا"
+
+msgid "Armenian"
+msgstr "ئەرمەنی"
+
+msgid "Herero"
+msgstr "هێرێرۆ"
+
+msgid "Interlingua"
+msgstr "ئینترلینگووا"
+
+msgid "Iban"
+msgstr "ئیبان"
+
+msgid "Ibibio"
+msgstr "ئیبیبۆ"
+
+msgid "Indonesian"
+msgstr "ئیندۆنیزی"
+
+msgid "Igbo"
+msgstr "ئیگبۆ"
+
+msgid "Sichuan Yi"
+msgstr "سیچوان یی"
+
+msgid "Iloko"
+msgstr "ئیلۆکۆ"
+
+msgid "Ingush"
+msgstr "ئینگووش"
+
+msgid "Ido"
+msgstr "ئیدۆ"
+
+msgid "Icelandic"
+msgstr "ئیسلەندی"
+
+msgid "Italian"
+msgstr "ئیتالی"
+
+msgid "Inuktitut"
+msgstr "ئینوکتیتوت"
+
+msgid "Japanese"
+msgstr "ژاپۆنی"
+
+msgid "Lojban"
+msgstr "لۆژبان"
+
+msgid "Ngomba"
+msgstr "نگۆمبا"
+
+msgid "Machame"
+msgstr "ماچامێ"
+
+msgid "Javanese"
+msgstr "جاڤایی"
+
+msgid "Georgian"
+msgstr "گۆرجستانی"
+
+msgid "Kabyle"
+msgstr "کبائیلی"
+
+msgid "Kachin"
+msgstr "کاچین"
+
+msgid "Jju"
+msgstr "کیجوو"
+
+msgid "Kamba"
+msgstr "کامبا"
+
+msgid "Kabardian"
+msgstr "کاباردی"
+
+msgid "Tyap"
+msgstr "تیاپ"
+
+msgid "Makonde"
+msgstr "ماکۆندە"
+
+msgid "Kabuverdianu"
+msgstr "کابووڤێردیانۆ"
+
+msgid "Koro"
+msgstr "کۆرۆ"
+
+msgid "Khasi"
+msgstr "کهاسی"
+
+msgid "Koyra Chiini"
+msgstr "کۆیرا چینی"
+
+msgid "Kikuyu"
+msgstr "کیکوویوو"
+
+msgid "Kuanyama"
+msgstr "کوانیاما"
+
+msgid "Kazakh"
+msgstr "کازاخی"
+
+msgid "Kako"
+msgstr "کاکۆ"
+
+msgid "Kalaallisut"
+msgstr "کالالیسووت"
+
+msgid "Kalenjin"
+msgstr "کالێنجین"
+
+msgid "Khmer"
+msgstr "خمێر"
+
+msgid "Kimbundu"
+msgstr "کیمبووندوو"
+
+msgid "Kannada"
+msgstr "کاننادا"
+
+msgid "Korean"
+msgstr "كۆری"
+
+msgid "Konkani"
+msgstr "کۆنکانی"
+
+msgid "Kpelle"
+msgstr "کپێلێ"
+
+msgid "Kanuri"
+msgstr "کانووری"
+
+msgid "Karachay-Balkar"
+msgstr "کاراچای بالکار"
+
+msgid "Karelian"
+msgstr "کارێلی"
+
+msgid "Kurukh"
+msgstr "کوورووخ"
+
+msgid "Kashmiri"
+msgstr "کەشمیری"
+
+msgid "Shambala"
+msgstr "شامابالا"
+
+msgid "Bafia"
+msgstr "بافیا"
+
+msgid "Colognian"
+msgstr "کۆلۆنی"
+
+msgid "Kurdish"
+msgstr "کوردی"
+
+msgid "Kumyk"
+msgstr "کوومیک"
+
+msgid "Komi"
+msgstr "کۆمی"
+
+msgid "Cornish"
+msgstr "کۆڕنی"
+
+msgid "Kyrgyz"
+msgstr "كرگیزی"
+
+msgid "Latin"
+msgstr "لاتینی"
+
+msgid "Ladino"
+msgstr "لادینۆ"
+
+msgid "Langi"
+msgstr "لانگی"
+
+msgid "Luxembourgish"
+msgstr "لوکسەمبورگی"
+
+msgid "Lezghian"
+msgstr "لەزگی"
+
+msgid "Ganda"
+msgstr "گاندا"
+
+msgid "Limburgish"
+msgstr "لیمبورگی"
+
+msgid "Lakota"
+msgstr "لاکۆتا"
+
+msgid "Lingala"
+msgstr "لينگالا"
+
+msgid "Lao"
+msgstr "لائۆیی"
+
+msgid "Lozi"
+msgstr "لۆزی"
+
+msgid "Northern Luri"
+msgstr "لوڕیی باکوور"
+
+msgid "Lithuanian"
+msgstr "لیتوانی"
+
+msgid "Luba-Katanga"
+msgstr "لووبا کاتانگا"
+
+msgid "Luba-Lulua"
+msgstr "لووبا لوولووا"
+
+msgid "Lunda"
+msgstr "لووندا"
+
+msgid "Luo"
+msgstr "لووئۆ"
+
+msgid "Mizo"
+msgstr "میزۆ"
+
+msgid "Luyia"
+msgstr "لوویا"
+
+msgid "Latvian"
+msgstr "لێتۆنی"
+
+msgid "Madurese"
+msgstr "مادووری"
+
+msgid "Magahi"
+msgstr "ماگاهی"
+
+msgid "Maithili"
+msgstr "مائیتیلی"
+
+msgid "Makasar"
+msgstr "ماکاسار"
+
+msgid "Masai"
+msgstr "ماسایی"
+
+msgid "Moksha"
+msgstr "مۆکشا"
+
+msgid "Mende"
+msgstr "مێندێ"
+
+msgid "Meru"
+msgstr "مێروو"
+
+msgid "Morisyen"
+msgstr "مۆریسی"
+
+msgid "Malagasy"
+msgstr "مالاگاسی"
+
+msgid "Makhuwa-Meetto"
+msgstr "ماخوامیتۆ"
+
+msgid "Metaʼ"
+msgstr "مێتە"
+
+msgid "Marshallese"
+msgstr "مارشاڵی"
+
+msgid "Māori"
+msgstr "مائۆری"
+
+msgid "Mi'kmaw"
+msgstr "میکماک"
+
+msgid "Minangkabau"
+msgstr "مینانکاباو"
+
+msgid "Macedonian"
+msgstr "ماكێدۆنی"
+
+msgid "Malayalam"
+msgstr "مالایالام"
+
+msgid "Mongolian"
+msgstr "مەنگۆلی"
+
+msgid "Manipuri"
+msgstr "مانیپووری"
+
+msgid "Mohawk"
+msgstr "مۆهاوک"
+
+msgid "Mossi"
+msgstr "مۆسی"
+
+msgid "Marathi"
+msgstr "ماراتی"
+
+msgid "Malay"
+msgstr "مالیزی"
+
+msgid "Maltese"
+msgstr "ماڵتی"
+
+msgid "Mundang"
+msgstr "موندانگ"
+
+msgid "Multiple languages"
+msgstr "چەند زمان"
+
+msgid "Muscogee"
+msgstr "کریک"
+
+msgid "Mirandese"
+msgstr "میراندی"
+
+msgid "Burmese"
+msgstr "میانماری"
+
+msgid "Erzya"
+msgstr "ئێرزیا"
+
+msgid "Mazanderani"
+msgstr "مازەندەرانی"
+
+msgid "Nauru"
+msgstr "نائوروو"
+
+msgid "Neapolitan"
+msgstr "ناپۆلی"
+
+msgid "Nama"
+msgstr "ناما"
+
+msgid "Norwegian Bokmål"
+msgstr "نەرویژیی بۆکمال"
+
+msgid "North Ndebele"
+msgstr "ئندێبێلێی باکوور"
+
+msgid "Nepali"
+msgstr "نیپالی"
+
+msgid "Newari"
+msgstr "نێواری"
+
+msgid "Ndonga"
+msgstr "ندۆنگا"
+
+msgid "Nias"
+msgstr "نیاس"
+
+msgid "Niuean"
+msgstr "نیئوویی"
+
+msgid "Dutch"
+msgstr "هۆڵەندی"
+
+msgid "Flemish"
+msgstr "فلێمی"
+
+msgid "Kwasio"
+msgstr "کواسیۆ"
+
+msgid "Norwegian Nynorsk"
+msgstr "نەرویژیی نینۆرسک"
+
+msgid "Ngiemboon"
+msgstr "نگیمبوون"
+
+msgid "Norwegian"
+msgstr "نۆروێژی"
+
+msgid "Nogai"
+msgstr "نۆگای"
+
+msgid "N’Ko"
+msgstr "نکۆ"
+
+msgid "South Ndebele"
+msgstr "ئندێبێلێی باشوور"
+
+msgid "Northern Sotho"
+msgstr "سۆتۆی باکوور"
+
+msgid "Nuer"
+msgstr "نوێر"
+
+msgid "Navajo"
+msgstr "ناڤاجۆ"
+
+msgid "Nyanja"
+msgstr "نیانجا"
+
+msgid "Nyankole"
+msgstr "نیانکۆلێ"
+
+msgid "Occitan"
+msgstr "ئۆکسیتانی"
+
+msgid "Oromo"
+msgstr "ئۆرۆمۆ"
+
+msgid "Odia"
+msgstr "ئۆدیا"
+
+msgid "Ossetic"
+msgstr "ئۆسێتی"
+
+msgid "Punjabi"
+msgstr "پەنجابی"
+
+msgid "Pangasinan"
+msgstr "پانگاسینان"
+
+msgid "Pampanga"
+msgstr "پامپانگا"
+
+msgid "Papiamento"
+msgstr "پاپیامێنتۆ"
+
+msgid "Palauan"
+msgstr "پالائوویی"
+
+msgid "Nigerian Pidgin"
+msgstr "پیجینی نیجریا"
+
+msgid "Polish"
+msgstr "پۆڵەندی"
+
+msgid "Prussian"
+msgstr "پڕووسی"
+
+msgid "Pashto"
+msgstr "پەشتوو"
+
+msgid "Portuguese"
+msgstr "پورتوگالی"
+
+msgid "Quechua"
+msgstr "کێچوا"
+
+msgid "Kʼicheʼ"
+msgstr "کیچەیی"
+
+msgid "Rapanui"
+msgstr "ڕاپانوویی"
+
+msgid "Rarotongan"
+msgstr "ڕاڕۆتۆنگان"
+
+msgid "Romansh"
+msgstr "ڕۆمانش"
+
+msgid "Rundi"
+msgstr "ڕووندی"
+
+msgid "Romanian"
+msgstr "ڕۆمانی"
+
+msgid "Moldavian"
+msgstr "مۆڵداڤی"
+
+msgid "Rombo"
+msgstr "ڕۆمبۆ"
+
+msgid "Russian"
+msgstr "ڕووسی"
+
+msgid "Aromanian"
+msgstr "ئارمۆمانی"
+
+msgid "Kinyarwanda"
+msgstr "کینیارواندا"
+
+msgid "Rwa"
+msgstr "ڕوا"
+
+msgid "Sanskrit"
+msgstr "سانسکريت"
+
+msgid "Sandawe"
+msgstr "سانداوێ"
+
+msgid "Yakut"
+msgstr "ساخا"
+
+msgid "Samburu"
+msgstr "سامبووروو"
+
+msgid "Santali"
+msgstr "سانتالی"
+
+msgid "Ngambay"
+msgstr "نگامبای"
+
+msgid "Sangu"
+msgstr "سانگوو"
+
+msgid "Sardinian"
+msgstr "ساردینی"
+
+msgid "Sicilian"
+msgstr "سیسیلی"
+
+msgid "Scots"
+msgstr "سکۆتس"
+
+msgid "Sindhi"
+msgstr "سيندی"
+
+msgid "Southern Kurdish"
+msgstr "کوردیی باشووری"
+
+msgid "Northern Sami"
+msgstr "سامیی باکوور"
+
+msgid "Sena"
+msgstr "سێنا"
+
+msgid "Koyraboro Senni"
+msgstr "کۆیرابۆرۆ سێنی"
+
+msgid "Sango"
+msgstr "سانگۆ"
+
+msgid "Tachelhit"
+msgstr "شیلها"
+
+msgid "Shan"
+msgstr "شان"
+
+msgid "Sinhala"
+msgstr "سینهالی"
+
+msgid "Slovak"
+msgstr "سلۆڤاكی"
+
+msgid "Slovenian"
+msgstr "سلۆڤێنی"
+
+msgid "Samoan"
+msgstr "سامۆیی"
+
+msgid "Southern Sami"
+msgstr "سامیی باشوور"
+
+msgid "Lule Sami"
+msgstr "لوولێ سامی"
+
+msgid "Inari Sami"
+msgstr "ئیناری سامی"
+
+msgid "Skolt Sami"
+msgstr "سامیی سکۆڵت"
+
+msgid "Shona"
+msgstr "شۆنا"
+
+msgid "Soninke"
+msgstr "سۆنینکێ"
+
+msgid "Somali"
+msgstr "سۆمالی"
+
+msgid "Albanian"
+msgstr "ئەڵبانی"
+
+msgid "Serbian"
+msgstr "سربی"
+
+msgid "Sranan Tongo"
+msgstr "سرانان تۆنگۆ"
+
+msgid "Swati"
+msgstr "سواتی"
+
+msgid "Saho"
+msgstr "ساهۆ"
+
+msgid "Southern Sotho"
+msgstr "سۆتۆی باشوور"
+
+msgid "Sundanese"
+msgstr "سوندانی"
+
+msgid "Sukuma"
+msgstr "سووکووما"
+
+msgid "Swedish"
+msgstr "سویدی"
+
+msgid "Swahili"
+msgstr "سواهیلی"
+
+msgid "Congo Swahili"
+msgstr "سواهیلیی کۆنگۆ"
+
+msgid "Comorian"
+msgstr "کۆمۆری"
+
+msgid "Syriac"
+msgstr "سریانی"
+
+msgid "Tamil"
+msgstr "تامیلی"
+
+msgid "Telugu"
+msgstr "تێلووگوو"
+
+msgid "Timne"
+msgstr "تیمنێ"
+
+msgid "Teso"
+msgstr "تێسوو"
+
+msgid "Tetum"
+msgstr "تێتووم"
+
+msgid "Tajik"
+msgstr "تاجیکی"
+
+msgid "Thai"
+msgstr "تایلەندی"
+
+msgid "Tigrinya"
+msgstr "تیگرینیا"
+
+msgid "Tigre"
+msgstr "تیگرێ"
+
+msgid "Turkmen"
+msgstr "تورکمانی"
+
+msgid "Klingon"
+msgstr "كلینگۆن"
+
+msgid "Tswana"
+msgstr "تسوانا"
+
+msgid "Tongan"
+msgstr "تۆنگان"
+
+msgid "Tok Pisin"
+msgstr "تۆکپیسین"
+
+msgid "Turkish"
+msgstr "تورکی"
+
+msgid "Taroko"
+msgstr "تارۆکۆ"
+
+msgid "Tsonga"
+msgstr "تسۆنگا"
+
+msgid "Tatar"
+msgstr "تاتاری"
+
+msgid "Tumbuka"
+msgstr "تومبووکا"
+
+msgid "Tuvalu"
+msgstr "تووڤالوو"
+
+msgid "Tasawaq"
+msgstr "تاساواک"
+
+msgid "Tahitian"
+msgstr "تاهیتی"
+
+msgid "Tuvinian"
+msgstr "تووڤینی"
+
+msgid "Central Atlas Tamazight"
+msgstr "ئەمازیغی ناوەڕاست"
+
+msgid "Udmurt"
+msgstr "ئوودموورت"
+
+msgid "Uyghur"
+msgstr "ئۆیخۆری"
+
+msgid "Ukrainian"
+msgstr "ئۆكراینی"
+
+msgid "Umbundu"
+msgstr "ئومبووندوو"
+
+msgid "Unknown language"
+msgstr "زمانی نەناسراو"
+
+msgid "Urdu"
+msgstr "ئۆردوو"
+
+msgid "Uzbek"
+msgstr "ئوزبەکی"
+
+msgid "Vai"
+msgstr "ڤایی"
+
+msgid "Venda"
+msgstr "ڤێندا"
+
+msgid "Vietnamese"
+msgstr "ڤیەتنامی"
+
+msgid "Volapük"
+msgstr "ڤۆلاپووک"
+
+msgid "Vunjo"
+msgstr "ڤوونجوو"
+
+msgid "Walloon"
+msgstr "والوون"
+
+msgid "Walser"
+msgstr "والسێر"
+
+msgid "Wolaytta"
+msgstr "وۆلایتا"
+
+msgid "Waray"
+msgstr "وارای"
+
+msgid "Wolof"
+msgstr "وۆلۆف"
+
+msgid "Kalmyk"
+msgstr "کالمیک"
+
+msgid "Xhosa"
+msgstr "سسوسا"
+
+msgid "Soga"
+msgstr "سۆگا"
+
+msgid "Yangben"
+msgstr "یانگبێن"
+
+msgid "Yemba"
+msgstr "یێمبا"
+
+msgid "Yiddish"
+msgstr "ییدیش"
+
+msgid "Yoruba"
+msgstr "یۆرووبا"
+
+msgid "Cantonese"
+msgstr "کانتۆنی"
+
+msgid "Chinese, Cantonese"
+msgstr "کانتۆنی"
+
+msgid "Standard Moroccan Tamazight"
+msgstr "ئەمازیغیی مەغریب"
+
+msgid "Chinese"
+msgstr "چینی"
+
+msgid "Chinese, Mandarin"
+msgstr "چینی"
+
+msgid "Simplified Chinese"
+msgstr "چینی (چینیی ئاسانکراو)"
+
+msgid "Simplified Mandarin Chinese"
+msgstr "چینی (چینیی ئاسانکراو)"
+
+msgid "Traditional Chinese"
+msgstr "چینی (چینیی دێرین)"
+
+msgid "Traditional Mandarin Chinese"
+msgstr "چینی (چینیی دێرین)"
+
+msgid "Zulu"
+msgstr "زوولوو"
+
+msgid "Zuni"
+msgstr "زوونی"
+
+msgid "No linguistic content"
+msgstr "هیچ ناوەرۆکی زمانی نیە"
+
+msgid "Zaza"
+msgstr "زازا"
