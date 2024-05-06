@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-03 13:41-0500\n"
-"PO-Revision-Date: 2023-06-09 10:50+0000\n"
+"PO-Revision-Date: 2024-05-06 07:07+0000\n"
 "Last-Translator: Mehrab Poladov <thepoladov@protonmail.com>\n"
 "Language-Team: Azerbaijani <https://hosted.weblate.org/projects/dialect/"
 "dialect/az/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.5.3\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -37,6 +37,8 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"tərcümə;tərcümə;Google Translate;LibreTranslate;Lingva Tərcümə;Bing "
+"Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
@@ -93,10 +95,8 @@ msgid "The Dialect Authors"
 msgstr "Dialekt Müəllifləri"
 
 #: data/resources/about.blp:7
-#, fuzzy
-#| msgid "Copyright 2020–⁠2022 The Dialect Authors"
 msgid "Copyright 2020–⁠2023 The Dialect Authors"
-msgstr "Müəlliflik hüququ 2020–⁠2022 Dialekt Müəllifləri"
+msgstr "Müəlliflik hüququ 2020–⁠2023 Dialekt Müəllifləri"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:15
@@ -121,39 +121,40 @@ msgstr "Mövcud tərcümə xidmətlərindən seçin."
 
 #: data/resources/preferences.ui:43
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Mətndən nitqə"
 
 #: data/resources/preferences.ui:44
 msgid "Choose from the available TTS services."
-msgstr ""
+msgstr "Mövcud TTS xidmətlərindən seçin."
 
 #: data/resources/preferences.ui:77
 msgid "Behavior"
-msgstr ""
+msgstr "Davranış"
 
 #: data/resources/preferences.ui:80
 msgid "Live Translation"
-msgstr ""
+msgstr "Canlı Tərcümə"
 
 #: data/resources/preferences.ui:81
 msgid "Warning: Your IP address may get banned for API abuse."
 msgstr ""
+"Xəbərdarlıq: IP ünvanınız API sui-istifadəsinə görə qadağan edilə bilər."
 
 #: data/resources/preferences.ui:87
 msgid "Show Translations in Desktop Search"
-msgstr ""
+msgstr "Tərcümələri Masaüstü Axtarışda göstərin"
 
 #: data/resources/preferences.ui:88
 msgid "Warning: All desktop searches will be sent to the translation service"
-msgstr ""
+msgstr "Xəbərdarlıq: Bütün masaüstü axtarışları tərcümə xidmətinə göndəriləcək"
 
 #: data/resources/preferences.ui:95
 msgid "Translation Shortcut"
-msgstr ""
+msgstr "Tərcümə Qısayolu"
 
 #: data/resources/preferences.ui:96
 msgid "The unselected choice will be used for line break."
-msgstr ""
+msgstr "Seçilməmiş seçim sətir sonu üçün istifadə olunacaq."
 
 #: data/resources/preferences.ui:114
 msgid "Default to Auto"
