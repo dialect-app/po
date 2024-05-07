@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-03 13:41-0500\n"
-"PO-Revision-Date: 2024-04-05 17:01+0000\n"
+"PO-Revision-Date: 2024-05-07 18:07+0000\n"
 "Last-Translator: Scrambled777 <weblate.scrambled777@simplelogin.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/dialect/dialect/hi/"
 ">\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.5.4-rc\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -37,8 +37,8 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
-"अनुवाद;अनुवाद;Google Translate;LibreTranslate;Lingva Translate;Bing "
-"Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
+"अनुवाद;Google Translate;LibreTranslate;Lingva Translate;Bing Microsoft "
+"Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
@@ -46,7 +46,7 @@ msgstr "GNOME के लिए एक अनुवाद ऐप।"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
-msgstr "विशेषताएँ:"
+msgstr "विशेषताएं:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
 msgid "Translation based on Google Translate"
@@ -92,11 +92,11 @@ msgstr "क्लिपबॉर्ड के बटन"
 #: data/app.drey.Dialect.metainfo.xml.in.in:33
 #: data/app.drey.Dialect.metainfo.xml.in.in:35 data/resources/about.blp:6
 msgid "The Dialect Authors"
-msgstr "Dialect के लेखक"
+msgstr "Dialect के रचयिता"
 
 #: data/resources/about.blp:7
 msgid "Copyright 2020–⁠2023 The Dialect Authors"
-msgstr "कॉपीराइट 2020–⁠2023 Dialect के लेखक"
+msgstr "कॉपीराइट 2020–⁠2023 Dialect के रचयिता"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:15
@@ -107,7 +107,7 @@ msgstr ""
 
 #: data/resources/lang-selector.blp:47
 msgid "Search Languages…"
-msgstr "भाषाएँ खोजें…"
+msgstr "भाषाएं खोजें…"
 
 #: data/resources/preferences.ui:8
 msgid "Providers"
@@ -143,7 +143,7 @@ msgstr "चेतावनी: API दुरुपयोग के कारण 
 
 #: data/resources/preferences.ui:87
 msgid "Show Translations in Desktop Search"
-msgstr "डेस्कटॉप खोज में अनुवाद दिखाएँ"
+msgstr "डेस्कटॉप खोज में अनुवाद दिखाएं"
 
 #: data/resources/preferences.ui:88
 msgid "Warning: All desktop searches will be sent to the translation service"
@@ -159,11 +159,11 @@ msgstr "अचयनित विकल्प का उपयोग लाइ�
 
 #: data/resources/preferences.ui:114
 msgid "Default to Auto"
-msgstr "स्वतः पर डिफॉल्ट"
+msgstr "स्वतः पर तयशुदा"
 
 #: data/resources/preferences.ui:115
 msgid "Use \"Auto\" as the default language"
-msgstr "डिफॉल्ट भाषा के रूप में \"स्वतः\" का उपयोग करें"
+msgstr "तयशुदा भाषा के रूप में \"स्वतः\" का उपयोग करें"
 
 #: data/resources/preferences.ui:122
 msgid "Appearance"
@@ -171,7 +171,7 @@ msgstr "दिखावट"
 
 #: data/resources/preferences.ui:125
 msgid "Use Custom Font Size"
-msgstr "कस्टम फॉन्ट आकार का प्रयोग करें"
+msgstr "तदनुकूल फॉन्ट आकार का प्रयोग करें"
 
 #: data/resources/preferences.ui:126
 msgid "System font size is used otherwise."
@@ -179,7 +179,7 @@ msgstr "सिस्टम फॉन्ट आकार का अन्यथ�
 
 #: data/resources/preferences.ui:132
 msgid "Default Font Size"
-msgstr "डिफॉल्ट फॉन्ट आकार"
+msgstr "तयशुदा फॉन्ट आकार"
 
 #: data/resources/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
@@ -191,12 +191,12 @@ msgstr "इंस्टेंस URL"
 
 #: data/resources/provider-preferences.blp:22
 msgid "Enter an Instance URL for the Provider."
-msgstr "प्रदाता के लिए एक इंस्टेंस URL दर्ज करें।"
+msgstr "प्रदाता के लिए इंस्टेंस URL दर्ज करें।"
 
 #: data/resources/provider-preferences.blp:32
 #: data/resources/provider-preferences.blp:62
 msgid "Reset to Default"
-msgstr "डिफॉल्ट पर रीसेट"
+msgstr "तयशुदा पर रीसेट"
 
 #: data/resources/provider-preferences.blp:52
 msgid "API Key"
@@ -219,7 +219,7 @@ msgstr "अनुवाद"
 #: data/resources/shortcuts.blp:21
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr "भाषाएँ बदलें"
+msgstr "भाषाएं बदलें"
 
 #: data/resources/shortcuts.blp:26
 msgctxt "shortcuts window"
@@ -244,17 +244,17 @@ msgstr "अनुवाद कॉपी करें"
 #: data/resources/shortcuts.blp:46
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
-msgstr "उच्चारण दिखाएँ"
+msgstr "उच्चारण दिखाएं"
 
 #: data/resources/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr "फॉन्ट आकार बढ़ाएँ"
+msgstr "फॉन्ट आकार बढ़ाएं"
 
 #: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr "फॉन्ट आकार घटाएँ"
+msgstr "फॉन्ट आकार घटाएं"
 
 #: data/resources/shortcuts.blp:62
 msgctxt "shortcuts window"
@@ -294,7 +294,7 @@ msgstr "सामान्य"
 #: data/resources/shortcuts.blp:93
 msgctxt "shortcuts window"
 msgid "Preferences"
-msgstr "प्राथमिकताएँ"
+msgstr "प्राथमिकताएं"
 
 #: data/resources/shortcuts.blp:98
 msgctxt "shortcut window"
@@ -320,11 +320,11 @@ msgstr "गहरी शैली"
 
 #: data/resources/window.blp:15
 msgid "Show Pronunciation"
-msgstr "उच्चारण दिखाएँ"
+msgstr "उच्चारण दिखाएं"
 
 #: data/resources/window.blp:24 dialect/window.py:1136
 msgid "Preferences"
-msgstr "प्राथमिकताएँ"
+msgstr "प्राथमिकताएं"
 
 #: data/resources/window.blp:29
 msgid "Keyboard Shortcuts"
@@ -347,11 +347,11 @@ msgstr "पुन: प्रयास"
 #: data/resources/window.blp:118 data/resources/window.blp:153
 #: data/resources/window.blp:193 data/resources/window.blp:229
 msgid "Open Preferences"
-msgstr "प्राथमिकताएँ खोलें"
+msgstr "प्राथमिकताएं खोलें"
 
 #: data/resources/window.blp:183 data/resources/window.blp:216
 msgid "Remove Key and Retry"
-msgstr "कुंजी हटाएँ और पुनः प्रयास करें"
+msgstr "कुंजी हटाएं और पुनः प्रयास करें"
 
 #: data/resources/window.blp:260 data/resources/window.blp:582
 msgid "Change Source Language"
@@ -359,7 +359,7 @@ msgstr "स्रोत भाषा बदलें"
 
 #: data/resources/window.blp:265 data/resources/window.blp:590
 msgid "Switch Languages"
-msgstr "भाषाएँ बदलें"
+msgstr "भाषाएं बदलें"
 
 #: data/resources/window.blp:272 data/resources/window.blp:598
 msgid "Change Destination Language"
@@ -379,11 +379,11 @@ msgstr "मुख्य मेनू"
 
 #: data/resources/window.blp:401
 msgid "Clear"
-msgstr "साफ़"
+msgstr "साफ करें"
 
 #: data/resources/window.blp:407
 msgid "Paste"
-msgstr "पेस्ट"
+msgstr "चिपकाएं"
 
 #: data/resources/window.blp:413 data/resources/window.blp:531
 msgid "Listen"
@@ -407,11 +407,11 @@ msgstr "कॉपी"
 
 #: data/resources/window.blp:525
 msgid "Suggest Translation"
-msgstr "अनुवाद सुझाएँ"
+msgstr "अनुवाद सुझाएं"
 
 #: data/resources/window.blp:549
 msgid "Cancel"
-msgstr "रद्द"
+msgstr "रद्द करें"
 
 #: data/resources/window.blp:556
 msgid "Save"
