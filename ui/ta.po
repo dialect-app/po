@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-03 13:41-0500\n"
-"PO-Revision-Date: 2023-05-21 06:49+0000\n"
+"PO-Revision-Date: 2024-05-23 16:02+0000\n"
 "Last-Translator: \"K.B.Dharun Krishna\" <kbdharunkrishna@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/dialect/dialect/ta/"
 ">\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.6-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -37,6 +37,9 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"மொழியாக்கம்;மொழிபெயர்ப்பு;Google Translate;LibreTranslate;Lingva Translate;"
+"Bing Microsoft Translator;Bing Translator;Microsoft Translator;Yandex "
+"Translate; "
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
@@ -93,10 +96,8 @@ msgid "The Dialect Authors"
 msgstr "Dialect ஆசிரியர்கள்"
 
 #: data/resources/about.blp:7
-#, fuzzy
-#| msgid "Copyright 2020–⁠2022 The Dialect Authors"
 msgid "Copyright 2020–⁠2023 The Dialect Authors"
-msgstr "பதிப்புரிமை 2020–⁠2022 Dialect ஆசிரியர்கள்"
+msgstr "பதிப்புரிமை 2020–⁠2023 Dialect ஆசிரியர்கள்"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:15
@@ -165,11 +166,11 @@ msgstr "\"ஆட்டோ\" என்பதை இயல்பு மொழி�
 
 #: data/resources/preferences.ui:122
 msgid "Appearance"
-msgstr ""
+msgstr "தோற்றம்"
 
 #: data/resources/preferences.ui:125
 msgid "Use Custom Font Size"
-msgstr ""
+msgstr "தனிப்பயன் எழுத்துரு அளவைப் பயன்படுத்தவும்"
 
 #: data/resources/preferences.ui:126
 msgid "System font size is used otherwise."
