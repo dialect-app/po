@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-03 13:41-0500\n"
-"PO-Revision-Date: 2024-05-23 16:02+0000\n"
+"PO-Revision-Date: 2024-05-24 04:30+0000\n"
 "Last-Translator: \"K.B.Dharun Krishna\" <kbdharunkrishna@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/dialect/dialect/ta/"
 ">\n"
@@ -174,17 +174,15 @@ msgstr "தனிப்பயன் எழுத்துரு அளவைப�
 
 #: data/resources/preferences.ui:126
 msgid "System font size is used otherwise."
-msgstr ""
+msgstr "கணினி எழுத்துரு அளவு இல்லையெனில் பயன்படுத்தப்படுகிறது."
 
 #: data/resources/preferences.ui:132
-#, fuzzy
-#| msgid "Default to Auto"
 msgid "Default Font Size"
-msgstr "ஆட்டோவிற்கு இயல்புநிலை"
+msgstr "இயல்பு எழுத்துரு அளவு"
 
 #: data/resources/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
-msgstr ""
+msgstr "குறுக்குவழிகள் மூலம் அளவை மாற்றுவது இதை மேலெழுத முடியாது."
 
 #: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
@@ -223,18 +221,14 @@ msgid "Switch Languages"
 msgstr "மொழிகளை மாற்றவும்"
 
 #: data/resources/shortcuts.blp:26
-#, fuzzy
-#| msgid "Change Source Language"
 msgctxt "shortcuts window"
 msgid "Select source language"
-msgstr "மூல மொழியை மாற்றவும்"
+msgstr "மூல மொழியைத் தேர்ந்தெடுக்கவும்"
 
 #: data/resources/shortcuts.blp:31
-#, fuzzy
-#| msgid "Change Destination Language"
 msgctxt "shortcuts window"
 msgid "Select destination language"
-msgstr "இலக்கு மொழியை மாற்றவும்"
+msgstr "இலக்கு மொழியைத் தேர்ந்தெடுக்கவும்"
 
 #: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
@@ -254,12 +248,12 @@ msgstr "உச்சரிப்பைக் காட்டு"
 #: data/resources/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr ""
+msgstr "எழுத்துரு அளவை அதிகரிக்கவும்"
 
 #: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr ""
+msgstr "எழுத்துரு அளவைக் குறைக்கவும்"
 
 #: data/resources/shortcuts.blp:62
 msgctxt "shortcuts window"
@@ -428,7 +422,7 @@ msgstr "ஆட்டோ"
 
 #: dialect/main.py:195
 msgid "Donate"
-msgstr ""
+msgstr "தானம் செய்"
 
 #: dialect/preferences.py:128
 msgid "Edit Provider Settings"
