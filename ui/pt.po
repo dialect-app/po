@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-04-03 13:41-0500\n"
-"PO-Revision-Date: 2024-05-14 22:01+0000\n"
+"PO-Revision-Date: 2024-05-30 22:09+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/dialect/"
 "dialect/pt/>\n"
@@ -38,6 +38,8 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"traduzir;tradução;Google Translate;LibreTranslate;Lingva Translate;Bing "
+"Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
@@ -172,21 +174,19 @@ msgstr "Aparência"
 
 #: data/resources/preferences.ui:125
 msgid "Use Custom Font Size"
-msgstr ""
+msgstr "Usar tamanho de letra personalizado"
 
 #: data/resources/preferences.ui:126
 msgid "System font size is used otherwise."
-msgstr ""
+msgstr "Caso contrário, é utilizado o tamanho de letra do sistema."
 
 #: data/resources/preferences.ui:132
-#, fuzzy
-#| msgid "Default to Auto"
 msgid "Default Font Size"
-msgstr "Predefinido para automático"
+msgstr "Tamanho de letra predefinido"
 
 #: data/resources/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
-msgstr ""
+msgstr "A alteração do tamanho através de atalhos não se sobrepõe a isto."
 
 #: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
@@ -225,18 +225,14 @@ msgid "Switch Languages"
 msgstr "Trocar Idiomas"
 
 #: data/resources/shortcuts.blp:26
-#, fuzzy
-#| msgid "Change Source Language"
 msgctxt "shortcuts window"
 msgid "Select source language"
-msgstr "Alterar o idioma de origem"
+msgstr "Selecionar o idioma de origem"
 
 #: data/resources/shortcuts.blp:31
-#, fuzzy
-#| msgid "Change Destination Language"
 msgctxt "shortcuts window"
 msgid "Select destination language"
-msgstr "Alterar o idioma de destino"
+msgstr "Selecionar o idioma de destino"
 
 #: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
@@ -256,12 +252,12 @@ msgstr "Mostrar pronúncia"
 #: data/resources/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr ""
+msgstr "Aumentar o tamanho da letra"
 
 #: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr ""
+msgstr "Diminuir o tamanho da letra"
 
 #: data/resources/shortcuts.blp:62
 msgctxt "shortcuts window"
@@ -430,7 +426,7 @@ msgstr "Automático"
 
 #: dialect/main.py:195
 msgid "Donate"
-msgstr ""
+msgstr "Doar"
 
 #: dialect/preferences.py:128
 msgid "Edit Provider Settings"
