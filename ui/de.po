@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-03 13:41-0500\n"
+"POT-Creation-Date: 2024-06-01 22:46-0500\n"
 "PO-Revision-Date: 2024-05-31 19:58+0000\n"
 "Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -22,7 +22,7 @@ msgstr ""
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:5
-#: data/resources/window.blp:280 dialect/main.py:71
+#: data/resources/window.blp:280 dialect/main.py:72
 msgid "Dialect"
 msgstr "Dialect"
 
@@ -187,6 +187,12 @@ msgstr "Standard-Schriftgröße"
 msgid "Changing the size via shortcuts does not overwrite this."
 msgstr "Das Ändern der Größe über Tastenkombinationen überschreibt dies nicht."
 
+#: data/resources/provider-preferences.blp:5
+#: data/resources/provider-preferences.blp:12
+#, fuzzy
+msgid "Provider Preferences"
+msgstr "Präferenzen öffnen"
+
 #: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
 msgstr "Instanz URL"
@@ -207,6 +213,10 @@ msgstr "API-Schlüssel"
 #: data/resources/provider-preferences.blp:53
 msgid "Enter an API Key for the Provider."
 msgstr "Geben Sie einen API-Schlüssel für den Übersetzungsdienst ein."
+
+#: data/resources/provider-preferences.blp:83
+msgid "Character Usage"
+msgstr ""
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -324,7 +334,7 @@ msgstr "Dunkler Stil"
 msgid "Show Pronunciation"
 msgstr "Aussprache anzeigen"
 
-#: data/resources/window.blp:24 dialect/window.py:1136
+#: data/resources/window.blp:24 dialect/window.py:1079
 msgid "Preferences"
 msgstr "Einstellungen"
 
@@ -341,8 +351,8 @@ msgid "Loading…"
 msgstr "Wird geladen …"
 
 #: data/resources/window.blp:108 data/resources/window.blp:140
-#: dialect/window.py:470 dialect/window.py:1120 dialect/window.py:1128
-#: dialect/window.py:1144
+#: dialect/window.py:490 dialect/window.py:1063 dialect/window.py:1071
+#: dialect/window.py:1087
 msgid "Retry"
 msgstr "Wiederholen"
 
@@ -423,45 +433,23 @@ msgstr "Speichern"
 msgid "Auto"
 msgstr "Automatisch"
 
-#: dialect/main.py:195
+#: dialect/main.py:187
 msgid "Donate"
 msgstr "Spenden"
 
-#: dialect/preferences.py:128
+#: dialect/preferences.py:126
 msgid "Edit Provider Settings"
 msgstr "Anbieter-Einstellungen bearbeiten"
 
-#: dialect/preferences.py:130
+#: dialect/preferences.py:128
 msgid "No Settings for This Provider"
 msgstr "Keine Einstellungen für diesen Anbieter"
 
-#: dialect/window.py:356
-msgid "The provided API key is invalid"
-msgstr "Der angegebene API-Schlüssel ist ungültig"
-
-#: dialect/window.py:358
-msgid "Please set a valid API key in the preferences."
-msgstr "Bitte geben Sie in den Einstellungen einen gültigen API-Schlüssel an."
-
-#: dialect/window.py:361
-msgid "Please set a valid API key or unset the API key in the preferences."
-msgstr ""
-"Bitte geben Sie einen gültigen API-Schlüssel ein oder deaktivieren Sie den "
-"API-Schlüssel in den Einstellungen."
-
-#: dialect/window.py:377 dialect/window.py:1134
-msgid "API key is required to use the service"
-msgstr "Für die Nutzung des Dienstes ist ein API-Schlüssel erforderlich"
-
-#: dialect/window.py:378
-msgid "Please set an API key in the preferences."
-msgstr "Bitte legen Sie einen API-Schlüssel in den Einstellungen fest."
-
-#: dialect/window.py:391
+#: dialect/window.py:389
 msgid "Failed loading the translation service"
 msgstr "Laden des Übersetzungsdienstes fehlgeschlagen"
 
-#: dialect/window.py:392
+#: dialect/window.py:390
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
 "Bitte melden Sie dies im Dialect Fehlertracker, wenn das Problem weiterhin "
@@ -477,35 +465,57 @@ msgstr ""
 "Wir können uns nicht mit dem Server verbinden. Bitte prüfen Sie, ob es "
 "Netzwerkprobleme gibt."
 
-#: dialect/window.py:463
+#: dialect/window.py:420 dialect/window.py:1077
+msgid "API key is required to use the service"
+msgstr "Für die Nutzung des Dienstes ist ein API-Schlüssel erforderlich"
+
+#: dialect/window.py:421
+msgid "Please set an API key in the preferences."
+msgstr "Bitte legen Sie einen API-Schlüssel in den Einstellungen fest."
+
+#: dialect/window.py:424 dialect/window.py:1069
+msgid "The provided API key is invalid"
+msgstr "Der angegebene API-Schlüssel ist ungültig"
+
+#: dialect/window.py:426
+msgid "Please set a valid API key in the preferences."
+msgstr "Bitte geben Sie in den Einstellungen einen gültigen API-Schlüssel an."
+
+#: dialect/window.py:429
+msgid "Please set a valid API key or unset the API key in the preferences."
+msgstr ""
+"Bitte geben Sie einen gültigen API-Schlüssel ein oder deaktivieren Sie den "
+"API-Schlüssel in den Einstellungen."
+
+#: dialect/window.py:483
 msgid "A network issue has occurred. Retry?"
 msgstr "Ein Netzwerkfehler ist aufgetreten. Erneut probieren?"
 
-#: dialect/window.py:477
+#: dialect/window.py:496
 msgid "A network issue has occurred. Please try again."
 msgstr "Es ist ein Netzwerkproblem aufgetreten. Bitte versuchen Sie es erneut."
 
-#: dialect/window.py:791
+#: dialect/window.py:775
 msgid "New translation has been suggested!"
 msgstr "Es wurde eine neue Übersetzung vorgeschlagen!"
 
-#: dialect/window.py:793 dialect/window.py:799
+#: dialect/window.py:777 dialect/window.py:783
 msgid "Suggestion failed."
 msgstr "Der Vorschlag ist gescheitert."
 
-#: dialect/window.py:942
+#: dialect/window.py:907
 msgid "{} characters limit reached!"
 msgstr "{} Zeichengrenze erreicht!"
 
-#: dialect/window.py:1080
+#: dialect/window.py:1023
 msgid "Did you mean: "
 msgstr "Meinten Sie vielleicht: "
 
-#: dialect/window.py:1118 dialect/window.py:1126
+#: dialect/window.py:1061
 msgid "Translation failed, check for network issues"
 msgstr "Übersetzung fehlgeschlagen, prüfen Sie auf Netzwerkprobleme"
 
-#: dialect/window.py:1142
+#: dialect/window.py:1085
 msgid "Translation failed"
 msgstr "Übersetzung fehlgeschlagen"
 
