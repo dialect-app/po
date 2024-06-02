@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-01 22:46-0500\n"
-"PO-Revision-Date: 2024-05-07 18:07+0000\n"
+"PO-Revision-Date: 2024-06-02 16:18+0000\n"
 "Last-Translator: Scrambled777 <weblate.scrambled777@simplelogin.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/dialect/dialect/hi/"
 ">\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.5.4-rc\n"
+"X-Generator: Weblate 5.6-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -187,9 +187,8 @@ msgstr "शॉर्टकट के माध्यम से आकार ब�
 
 #: data/resources/provider-preferences.blp:5
 #: data/resources/provider-preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "प्राथमिकताएं खोलें"
+msgstr "प्रदाता प्राथमिकताएं"
 
 #: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
@@ -214,7 +213,7 @@ msgstr "प्रदाता के लिए एक API कुंजी दर
 
 #: data/resources/provider-preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "वर्ण उपयोग"
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -244,7 +243,7 @@ msgstr "गंतव्य भाषा चुनें"
 #: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr "स्रोत पाठ साफ़ करें"
+msgstr "स्रोत पाठ साफ करें"
 
 #: data/resources/shortcuts.blp:41
 msgctxt "shortcuts window"
