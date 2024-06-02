@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-01 22:46-0500\n"
-"PO-Revision-Date: 2024-02-16 22:02+0000\n"
+"PO-Revision-Date: 2024-06-02 11:55+0000\n"
 "Last-Translator: Philip Goto <philip.goto@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/dialect/dialect/nl/"
 ">\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4\n"
+"X-Generator: Weblate 5.6-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -191,9 +191,8 @@ msgstr "Wijzigen via snel­toetsen overschrijft dit niet."
 
 #: data/resources/provider-preferences.blp:5
 #: data/resources/provider-preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "Voorkeuren openen"
+msgstr "Provider-voorkeuren"
 
 #: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
@@ -218,7 +217,7 @@ msgstr "Voer een API-sleutel in voor de aanbieder."
 
 #: data/resources/provider-preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "Teken­gebruik"
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
