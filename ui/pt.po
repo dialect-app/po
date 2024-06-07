@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-01 22:46-0500\n"
-"PO-Revision-Date: 2024-05-30 22:09+0000\n"
+"PO-Revision-Date: 2024-06-07 19:09+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/dialect/"
 "dialect/pt/>\n"
@@ -190,9 +190,8 @@ msgstr "A alteração do tamanho através de atalhos não se sobrepõe a isto."
 
 #: data/resources/provider-preferences.blp:5
 #: data/resources/provider-preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "Abrir preferências"
+msgstr "Preferências do serviço de tradução"
 
 #: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
@@ -217,7 +216,7 @@ msgstr "Introduza uma chave de API para o serviço de tradução."
 
 #: data/resources/provider-preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "Utilização de caracteres"
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
