@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-01 22:46-0500\n"
-"PO-Revision-Date: 2024-06-13 16:40+0000\n"
-"Last-Translator: Yosef Or Boczko <yoseforb@gnome.org>\n"
+"PO-Revision-Date: 2024-06-14 17:09+0000\n"
+"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/dialect/dialect/"
 "he/>\n"
 "Language: he\n"
@@ -171,15 +171,15 @@ msgstr "תצוגה"
 
 #: data/resources/preferences.ui:125
 msgid "Use Custom Font Size"
-msgstr "שימוש בגודל גופן מותאם אישית"
+msgstr "שימוש בגודל כתב מותאם אישית"
 
 #: data/resources/preferences.ui:126
 msgid "System font size is used otherwise."
-msgstr "אחרת יעשה שימוש בגודל הגופן של המערכת."
+msgstr "אחרת יעשה שימוש בגודל הכתב של המערכת."
 
 #: data/resources/preferences.ui:132
 msgid "Default Font Size"
-msgstr "גודל גופן בררת המחדל"
+msgstr "גודל כתב בררת המחדל"
 
 #: data/resources/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
@@ -258,17 +258,17 @@ msgstr "הצגת הגייה"
 #: data/resources/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr "הגדלת גודל גופן"
+msgstr "הגדלת גודל כתב"
 
 #: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr "הקטנת גודל גופן"
+msgstr "הקטנת גודל כתב"
 
 #: data/resources/shortcuts.blp:62
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr "טקסט לדיבור"
+msgstr "הקראה"
 
 #: data/resources/shortcuts.blp:65
 msgctxt "shortcuts window"
