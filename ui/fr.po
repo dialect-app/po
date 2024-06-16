@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-01 22:46-0500\n"
-"PO-Revision-Date: 2024-02-29 23:01+0000\n"
+"PO-Revision-Date: 2024-06-16 06:35+0000\n"
 "Last-Translator: \"J. Lavoie\" <j.lavoie@net-c.ca>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/dialect/dialect/"
 "fr/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.6-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -187,9 +187,8 @@ msgstr "Changer la taille via les raccourcis ne l'écrase pas."
 
 #: data/resources/provider-preferences.blp:5
 #: data/resources/provider-preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "Ouvrir les préférences"
+msgstr "Préférences du fournisseur"
 
 #: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
@@ -214,7 +213,7 @@ msgstr "Saisissez une clé API pour le fournisseur."
 
 #: data/resources/provider-preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "Utilisation des caractères"
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
