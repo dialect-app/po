@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-01 22:46-0500\n"
-"PO-Revision-Date: 2024-01-26 22:01+0000\n"
+"PO-Revision-Date: 2024-06-17 03:40+0000\n"
 "Last-Translator: Yahor <k1llo2810@protonmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/dialect/"
 "dialect/be/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.6-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -189,9 +189,8 @@ msgstr "Змена памеру праз значкі не перазапісв�
 
 #: data/resources/provider-preferences.blp:5
 #: data/resources/provider-preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "Адкрыць параметры"
+msgstr "Параметры правайдэра"
 
 #: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
@@ -216,7 +215,7 @@ msgstr "Увядзіце ключ API для пастаўшчыка."
 
 #: data/resources/provider-preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "Выкарыстанне сімвалаў"
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
