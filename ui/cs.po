@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-01 22:46-0500\n"
-"PO-Revision-Date: 2023-01-30 16:42+0000\n"
-"Last-Translator: Vojtěch Perník <translations@pervoj.cz>\n"
+"PO-Revision-Date: 2024-06-20 10:09+0000\n"
+"Last-Translator: FrameXX <jirkakral978@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/dialect/dialect/cs/"
 ">\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.16-dev\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"X-Generator: Weblate 5.6-rc\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -37,6 +37,8 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"přeložit;překlad;Google Překladač;LibreTranslate;Lingva Překladač;Bing "
+"Microsoft Překladač;Bing Překladač;Microsoft Překladač;Yandex Překladač; "
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
@@ -63,14 +65,12 @@ msgid "Translation based on Lingva Translate API"
 msgstr "Překlad postavený na API Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr "Překlad postavený na API Lingva Translate"
+msgstr "Překlad postavený na Bingu"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "Překlad postavený na Google Překladači"
+msgstr "Překlad postavený na Yandexu"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
@@ -95,9 +95,8 @@ msgid "The Dialect Authors"
 msgstr "Autoři Dialektu"
 
 #: data/resources/about.blp:7
-#, fuzzy
 msgid "Copyright 2020–⁠2023 The Dialect Authors"
-msgstr "Copyright 2020–⁠2022 autoři Dialektu"
+msgstr "Copyright 2020–⁠2024 autoři Dialektu"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:15
@@ -109,9 +108,8 @@ msgid "Search Languages…"
 msgstr "Jazyky vyhledávání…"
 
 #: data/resources/preferences.ui:8
-#, fuzzy
 msgid "Providers"
-msgstr "Poskytovatel vyhledávání"
+msgstr "Poskytovatelé"
 
 #: data/resources/preferences.ui:11
 msgid "Translator"
@@ -126,9 +124,8 @@ msgid "Text-to-Speech"
 msgstr "Převod textu na řeč"
 
 #: data/resources/preferences.ui:44
-#, fuzzy
 msgid "Choose from the available TTS services."
-msgstr "Vyberte z dostupných překladačů."
+msgstr "Vyberte z dostupných služeb převodu textu na řeč."
 
 #: data/resources/preferences.ui:77
 msgid "Behavior"
@@ -172,54 +169,49 @@ msgstr "Vzhled"
 
 #: data/resources/preferences.ui:125
 msgid "Use Custom Font Size"
-msgstr ""
+msgstr "Používat vlastní velikost písma"
 
 #: data/resources/preferences.ui:126
 msgid "System font size is used otherwise."
-msgstr ""
+msgstr "Jinak se používá systémová velikost písma."
 
 #: data/resources/preferences.ui:132
-#, fuzzy
 msgid "Default Font Size"
-msgstr "Výchozí na Automatický"
+msgstr "Výchozí velikost písma"
 
 #: data/resources/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
-msgstr ""
+msgstr "Změna velikosti pomocí zástupců tuto hodnotu nepřepisuje."
 
 #: data/resources/provider-preferences.blp:5
 #: data/resources/provider-preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "Otevřít předvolby"
+msgstr "Předvolby poskytovatele"
 
 #: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
-msgstr ""
+msgstr "URL instance"
 
 #: data/resources/provider-preferences.blp:22
-#, fuzzy
 msgid "Enter an Instance URL for the Provider."
-msgstr "Zadejte klíč API překladače."
+msgstr "Zadejte adresu URL instance poskytovatele."
 
 #: data/resources/provider-preferences.blp:32
 #: data/resources/provider-preferences.blp:62
-#, fuzzy
 msgid "Reset to Default"
-msgstr "Obnovit do základního nastavení"
+msgstr "Obnovit do výchozího nastavení"
 
 #: data/resources/provider-preferences.blp:52
 msgid "API Key"
 msgstr "Klíč API"
 
 #: data/resources/provider-preferences.blp:53
-#, fuzzy
 msgid "Enter an API Key for the Provider."
-msgstr "Zadejte klíč API překladače."
+msgstr "Zadejte API klíč poskytovatele."
 
 #: data/resources/provider-preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "Používání znaků"
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -237,15 +229,14 @@ msgid "Switch Languages"
 msgstr "Změnit jazyky"
 
 #: data/resources/shortcuts.blp:26
-#, fuzzy
 msgctxt "shortcuts window"
 msgid "Select source language"
-msgstr "Změnit jazyky"
+msgstr "Vyberte zdrojový jazyk"
 
 #: data/resources/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Select destination language"
-msgstr ""
+msgstr "Vyberte cílový jazyk"
 
 #: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
@@ -265,12 +256,12 @@ msgstr "Zobrazit výslovnost"
 #: data/resources/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr ""
+msgstr "Zvětšit velikost písma"
 
 #: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr ""
+msgstr "Zmenšit velikost písma"
 
 #: data/resources/shortcuts.blp:62
 msgctxt "shortcuts window"
@@ -323,19 +314,16 @@ msgid "Quit"
 msgstr "Ukončit"
 
 #: data/resources/theme-switcher.blp:20
-#, fuzzy
 msgid "Follow System Style"
-msgstr "Použít systémové téma"
+msgstr "Používat motiv systému"
 
 #: data/resources/theme-switcher.blp:35
-#, fuzzy
 msgid "Light Style"
-msgstr "Světlý režim"
+msgstr "Světlý motiv"
 
 #: data/resources/theme-switcher.blp:50
-#, fuzzy
 msgid "Dark Style"
-msgstr "Tmavý režim"
+msgstr "Tmavý motiv"
 
 #: data/resources/window.blp:15
 msgid "Show Pronunciation"
@@ -374,30 +362,27 @@ msgstr "Odebrat klíč a zkusit znovu"
 
 #: data/resources/window.blp:260 data/resources/window.blp:582
 msgid "Change Source Language"
-msgstr ""
+msgstr "Změnit zdrojový jazyk"
 
 #: data/resources/window.blp:265 data/resources/window.blp:590
-#, fuzzy
 msgid "Switch Languages"
-msgstr "Změnit jazyky"
+msgstr "Vyměnit jazyky"
 
 #: data/resources/window.blp:272 data/resources/window.blp:598
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Změnit cílový jazyk"
 
 #: data/resources/window.blp:287
-#, fuzzy
 msgid "Previous Translation"
 msgstr "Předchozí překlad"
 
 #: data/resources/window.blp:293
-#, fuzzy
 msgid "Next Translation"
 msgstr "Následující překlad"
 
 #: data/resources/window.blp:300
 msgid "Main Menu"
-msgstr ""
+msgstr "Hlavní menu"
 
 #: data/resources/window.blp:401
 msgid "Clear"
@@ -420,7 +405,6 @@ msgid "Translating…"
 msgstr "Překládání…"
 
 #: data/resources/window.blp:510
-#, fuzzy
 msgid "Could not Translate the Text"
 msgstr "Text se nepodařilo přeložit"
 
@@ -446,15 +430,15 @@ msgstr "Automatický"
 
 #: dialect/main.py:187
 msgid "Donate"
-msgstr ""
+msgstr "Darovat"
 
 #: dialect/preferences.py:126
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Upravit nastavení poskytovatele"
 
 #: dialect/preferences.py:128
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Žádná nastavení pro tohoto poskytovatele"
 
 #: dialect/window.py:389
 msgid "Failed loading the translation service"
@@ -496,12 +480,10 @@ msgstr ""
 "předvolbách."
 
 #: dialect/window.py:483
-#, fuzzy
 msgid "A network issue has occurred. Retry?"
 msgstr "Došlo k problému se sítí. Zkusit znovu?"
 
 #: dialect/window.py:496
-#, fuzzy
 msgid "A network issue has occurred. Please try again."
 msgstr "Došlo k problému se sítí. Prosím, zkuste to znovu."
 
