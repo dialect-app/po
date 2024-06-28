@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-01 22:46-0500\n"
-"PO-Revision-Date: 2024-01-25 17:01+0000\n"
+"PO-Revision-Date: 2024-06-28 13:09+0000\n"
 "Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Occitan <https://hosted.weblate.org/projects/dialect/dialect/"
 "oc/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -188,9 +188,8 @@ msgstr "Cambiar la talha via un acorchi clavièr subrecarga pas aquò."
 
 #: data/resources/provider-preferences.blp:5
 #: data/resources/provider-preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "Dobrir las preferéncias"
+msgstr "Preferéncias provesidor"
 
 #: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
@@ -215,7 +214,7 @@ msgstr "Dintratz la clau d'API d’un provesidor."
 
 #: data/resources/provider-preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "Utilizacion dels caractèrs"
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
