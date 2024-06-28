@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-01 22:46-0500\n"
-"PO-Revision-Date: 2024-04-08 20:35+0000\n"
-"Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
+"PO-Revision-Date: 2024-06-28 13:09+0000\n"
+"Last-Translator: zefr0x <zer0-x.7ty50@aleeas.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/dialect/dialect/"
 "ar/>\n"
 "Language: ar\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -30,7 +30,7 @@ msgstr "دايلكت"
 #: data/app.drey.Dialect.desktop.in.in:10
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
-msgstr "ترجمة بين اللغات"
+msgstr "ترجِم بين اللُّغات"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:14
@@ -38,6 +38,8 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"ترجم;ترجمة;ترجمة قوقل;ترجمة ليبري;ترجمة لينغفا;مترجم مايكروسوفت بينغ;مترجم "
+"بينغ;مترجم مايكروسوفت;ترجمة ياندكس; "
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
@@ -49,25 +51,26 @@ msgstr "الميزات:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
 msgid "Translation based on Google Translate"
-msgstr "ترجمة تعتمد على ترجمة جوجل"
+msgstr "ترجِم بالاعتماد على ترجمة قوقل"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
-msgstr "ترجمة تعتمد على واجهة LibreTranslate، مما يتيح لك استخدام أي مثيل عام"
+msgstr ""
+"ترجِم بالاعتماد على واجهة LibreTranslate، مما يتيح لك استخدام أي مثيل عام"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
-msgstr "ترجمة تعتمد على واجهة Lingva Translate"
+msgstr "ترجِم بالاعتماد على واجهة Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Translation based on Bing"
-msgstr "ترجمة تعتمد على Bing"
+msgstr "ترجِم بالاعتماد على بينغ"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
 msgid "Translation based on Yandex"
-msgstr "ترجمة تعتمد على Yandex"
+msgstr "ترجِم بالاعتماد على ياندكس"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Text to speech"
@@ -79,7 +82,7 @@ msgstr "تاريخ الترجمة"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Automatic language detection"
-msgstr "تحديد اللغة تلقائيًا"
+msgstr "تحديد تلقائي للُّغة"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Clipboard buttons"
@@ -92,22 +95,23 @@ msgid "The Dialect Authors"
 msgstr "مؤلفو دايلكت"
 
 #: data/resources/about.blp:7
-#, fuzzy
 msgid "Copyright 2020–⁠2023 The Dialect Authors"
-msgstr "حقوق النشر 2020– 2022 مؤلفو دايلكت"
+msgstr "حقوق النسخ 2020– 2023 مؤلفو دايلكت"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:15
 msgid "translator-credits"
-msgstr "Ibrahim Muhammad"
+msgstr ""
+"إبراهيم محمد\n"
+"zefr0x https://github.com/zefr0x"
 
 #: data/resources/lang-selector.blp:47
 msgid "Search Languages…"
-msgstr "البحث عن اللغات…"
+msgstr "ابحث عن لغة…"
 
 #: data/resources/preferences.ui:8
 msgid "Providers"
-msgstr "مقدمو خدمة الترجمة"
+msgstr "مقدما خدمة الترجمة"
 
 #: data/resources/preferences.ui:11
 msgid "Translator"
@@ -115,7 +119,7 @@ msgstr "مترجِم"
 
 #: data/resources/preferences.ui:12
 msgid "Choose from the available translation services."
-msgstr "يرجى الاختيار من خدمات الترجمة المتاحة."
+msgstr "اختر إحدى الخدمات المتاحة للترجمة."
 
 #: data/resources/preferences.ui:43
 msgid "Text-to-Speech"
@@ -123,7 +127,7 @@ msgstr "نص إلى كلام"
 
 #: data/resources/preferences.ui:44
 msgid "Choose from the available TTS services."
-msgstr "يرجى اختيار إحدى خدمات تحويل النص إلى كلام المتاحة."
+msgstr "اختر إحدى الخدمات المتاحة لتحويل النص إلى كلام."
 
 #: data/resources/preferences.ui:77
 msgid "Behavior"
@@ -135,15 +139,19 @@ msgstr "ترجمة مباشرة"
 
 #: data/resources/preferences.ui:81
 msgid "Warning: Your IP address may get banned for API abuse."
-msgstr "تحذير: قد يتم حظر عنوان IP الخاص بك بسبب إساءة استخدام API."
+msgstr ""
+"تحذير: قد يُحظر عنوانك لبروتوكول الإنترنت بسبب إساءة استخدام الواجهة "
+"البرمجية."
 
 #: data/resources/preferences.ui:87
 msgid "Show Translations in Desktop Search"
-msgstr "إظهار الترجمة في البحث على سطح المكتب"
+msgstr "إظهار الترجمات في بحث سطح المكتب"
 
 #: data/resources/preferences.ui:88
 msgid "Warning: All desktop searches will be sent to the translation service"
-msgstr "تحذير: سيتم إرسال كل عمليات البحث إلى خدمة الترجمة"
+msgstr ""
+"تحذير: سَتُرسل كافَّة عمليات البحث على سطح المكتب إلى خدمة الترجمة "
+"ومُقدِّمُها"
 
 #: data/resources/preferences.ui:95
 msgid "Translation Shortcut"
@@ -151,15 +159,15 @@ msgstr "اختصار الترجمة"
 
 #: data/resources/preferences.ui:96
 msgid "The unselected choice will be used for line break."
-msgstr "سيتم استخدام الخيار غير المحدد لكسر الخط."
+msgstr "سَيُستخدم الخيار غير المحدد لإنشاء سطر جديد."
 
 #: data/resources/preferences.ui:114
 msgid "Default to Auto"
-msgstr "تلقائي افتراضيًا"
+msgstr "تحديد تلقائي افتراضي"
 
 #: data/resources/preferences.ui:115
 msgid "Use \"Auto\" as the default language"
-msgstr "استخدم \"تلقائي\" كلغة افتراضية"
+msgstr "استخدام \"تلقائي\" كلغة افتراضية"
 
 #: data/resources/preferences.ui:122
 msgid "Appearance"
@@ -167,46 +175,45 @@ msgstr "المظهر"
 
 #: data/resources/preferences.ui:125
 msgid "Use Custom Font Size"
-msgstr "استخدام حجم خط مخصص"
+msgstr "تخصيص حجم الخط"
 
 #: data/resources/preferences.ui:126
 msgid "System font size is used otherwise."
-msgstr ""
+msgstr "حجم خط النظام سَيُستخدم ما لم يُذكر خلاف ذلك."
 
 #: data/resources/preferences.ui:132
 msgid "Default Font Size"
-msgstr "الحجم الافتراضي للخط"
+msgstr "حجم الخط الافتراضي"
 
 #: data/resources/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
-msgstr ""
+msgstr "تغيير الحجم عن طريق الاختصارات مؤقت ولا يغير هذه القيمة."
 
 #: data/resources/provider-preferences.blp:5
 #: data/resources/provider-preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "فتح التفضيلات"
+msgstr "إعدادات مُقَدِّم الخدمة"
 
 #: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
-msgstr "الرابط"
+msgstr "محدد موقع الموارد المُوحّد (URL) للمثيل"
 
 #: data/resources/provider-preferences.blp:22
 msgid "Enter an Instance URL for the Provider."
-msgstr "يرجى إدخال رابط لخدمة الترجمة."
+msgstr "أدخل محدد موقع الموارد المُوحّد لمثيل مُقَدِّم الترجمة."
 
 #: data/resources/provider-preferences.blp:32
 #: data/resources/provider-preferences.blp:62
 msgid "Reset to Default"
-msgstr "العودة إلى الإعدادات الافتراضية"
+msgstr "إعادة الضبط للافتراضي"
 
 #: data/resources/provider-preferences.blp:52
 msgid "API Key"
-msgstr "مفتاح API"
+msgstr "مفتاح واجهة برمجة التطبيقات (API)"
 
 #: data/resources/provider-preferences.blp:53
 msgid "Enter an API Key for the Provider."
-msgstr "يرجى إدخال مفتاح API الخاص بمقدم خدمة الترجمة."
+msgstr "أدخل مفتاح واجهة برمجة التطبيقات لِمُقَدِّم الترجمة."
 
 #: data/resources/provider-preferences.blp:83
 msgid "Character Usage"
