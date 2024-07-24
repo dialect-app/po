@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-01 22:46-0500\n"
+"POT-Creation-Date: 2024-07-24 13:08-0500\n"
 "PO-Revision-Date: 2024-06-04 00:26+0000\n"
 "Last-Translator: bittin1ddc447d824349b2 <bittin@reimu.nl>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -74,24 +74,29 @@ msgid "Translation based on Yandex"
 msgstr "Översättning baserad på Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
+#, fuzzy
+msgid "Translation based on DeepL"
+msgstr "Översättning baserad på Yandex"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
 msgstr "Text till tal"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:22
+#: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Translation history"
 msgstr "Översättningshistorik"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:23
+#: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Automatic language detection"
 msgstr "Automatisk språkidentifiering"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:24
+#: data/app.drey.Dialect.metainfo.xml.in.in:25
 msgid "Clipboard buttons"
 msgstr "Urklippsknappar"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/app.drey.Dialect.metainfo.xml.in.in:33
-#: data/app.drey.Dialect.metainfo.xml.in.in:35 data/resources/about.blp:6
+#: data/app.drey.Dialect.metainfo.xml.in.in:34
+#: data/app.drey.Dialect.metainfo.xml.in.in:36 data/resources/about.blp:6
 msgid "The Dialect Authors"
 msgstr "Dialects utvecklare"
 
@@ -411,7 +416,7 @@ msgstr "Översätter…"
 msgid "Could not Translate the Text"
 msgstr "Kunde inte översätta texten"
 
-#: data/resources/window.blp:517
+#: data/resources/window.blp:517 dialect/search_provider/search_provider.in:174
 msgid "Copy"
 msgstr "Kopiera"
 
@@ -443,7 +448,7 @@ msgstr "Redigera leverantörsinställningar"
 msgid "No Settings for This Provider"
 msgstr "Inga inställningar för denna leverantör"
 
-#: dialect/window.py:389
+#: dialect/window.py:389 dialect/search_provider/search_provider.in:114
 msgid "Failed loading the translation service"
 msgstr "Kunde inte läsa in översättningstjänsten"
 
@@ -461,6 +466,7 @@ msgstr ""
 "Vi kan inte ansluta till servern. Kontrollera om det finns nätverksproblem."
 
 #: dialect/window.py:420 dialect/window.py:1077
+#: dialect/search_provider/search_provider.in:103
 msgid "API key is required to use the service"
 msgstr "API-nyckel krävs för att använda tjänsten"
 
@@ -469,6 +475,7 @@ msgid "Please set an API key in the preferences."
 msgstr "Ange en API-nyckel i inställningarna."
 
 #: dialect/window.py:424 dialect/window.py:1069
+#: dialect/search_provider/search_provider.in:101
 msgid "The provided API key is invalid"
 msgstr "Den angivna API-nyckeln är ogiltig"
 
@@ -504,13 +511,22 @@ msgstr "{}-teckengränsen är nådd!"
 msgid "Did you mean: "
 msgstr "Menade du: "
 
-#: dialect/window.py:1061
+#: dialect/window.py:1061 dialect/search_provider/search_provider.in:99
 msgid "Translation failed, check for network issues"
 msgstr "Översättningen misslyckades, kontrollera om det finns nätverksproblem"
 
-#: dialect/window.py:1085
+#: dialect/window.py:1085 dialect/search_provider/search_provider.in:105
 msgid "Translation failed"
 msgstr "Översättningen misslyckades"
+
+#: dialect/search_provider/search_provider.in:129
+msgid "Translate “{text}” with {provider_name}"
+msgstr ""
+
+#: dialect/search_provider/search_provider.in:175
+#, fuzzy
+msgid "Copy translation to clipboard"
+msgstr "Kopiera översättning"
 
 #~ msgid "translate;translation;"
 #~ msgstr "översätt;översättning;"

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-01 22:46-0500\n"
+"POT-Creation-Date: 2024-07-24 13:08-0500\n"
 "PO-Revision-Date: 2023-09-15 13:55+0000\n"
 "Last-Translator: Sergio Varela <sergitroll9@gmail.com>\n"
 "Language-Team: Basque <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -71,24 +71,29 @@ msgid "Translation based on Yandex"
 msgstr "Yandex-ek eskainitako itzulpena"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
+#, fuzzy
+msgid "Translation based on DeepL"
+msgstr "Yandex-ek eskainitako itzulpena"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
 msgstr "Ahozko testua"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:22
+#: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Translation history"
 msgstr "Itzulpenaren historia"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:23
+#: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Automatic language detection"
 msgstr "Hizkuntzen detekzio automatikoa"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:24
+#: data/app.drey.Dialect.metainfo.xml.in.in:25
 msgid "Clipboard buttons"
 msgstr "Paper-zorroaren botoiak"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/app.drey.Dialect.metainfo.xml.in.in:33
-#: data/app.drey.Dialect.metainfo.xml.in.in:35 data/resources/about.blp:6
+#: data/app.drey.Dialect.metainfo.xml.in.in:34
+#: data/app.drey.Dialect.metainfo.xml.in.in:36 data/resources/about.blp:6
 msgid "The Dialect Authors"
 msgstr "Dialect-en egileak"
 
@@ -414,7 +419,7 @@ msgstr "Itzultzen…"
 msgid "Could not Translate the Text"
 msgstr "Ezin izan da testua itzuli"
 
-#: data/resources/window.blp:517
+#: data/resources/window.blp:517 dialect/search_provider/search_provider.in:174
 msgid "Copy"
 msgstr "Kopiatu"
 
@@ -446,7 +451,7 @@ msgstr "Hornitzailearen ezarpenak editatu"
 msgid "No Settings for This Provider"
 msgstr "Ez dago ezarpenik hornitzaile honentzat"
 
-#: dialect/window.py:389
+#: dialect/window.py:389 dialect/search_provider/search_provider.in:114
 msgid "Failed loading the translation service"
 msgstr "Errorea itzulpen-zerbitzua kargatzean"
 
@@ -465,6 +470,7 @@ msgid "We can’t connect to the server. Please check for network issues."
 msgstr "Ezin dugu zerbitzariarekin konektatu. Mesedez, aztertu sareko arazoak."
 
 #: dialect/window.py:420 dialect/window.py:1077
+#: dialect/search_provider/search_provider.in:103
 msgid "API key is required to use the service"
 msgstr "APIko giltza bat behar da zerbitzu hau erabiltzeko"
 
@@ -473,6 +479,7 @@ msgid "Please set an API key in the preferences."
 msgstr "Mesedez, konfiguratu API giltza bat hobespesunetan."
 
 #: dialect/window.py:424 dialect/window.py:1069
+#: dialect/search_provider/search_provider.in:101
 msgid "The provided API key is invalid"
 msgstr "Emandako API giltza baliogabea da"
 
@@ -510,13 +517,22 @@ msgstr "{} karaktereko mugara iritsi zara!"
 msgid "Did you mean: "
 msgstr "Zera esan nahi duzu: "
 
-#: dialect/window.py:1061
+#: dialect/window.py:1061 dialect/search_provider/search_provider.in:99
 msgid "Translation failed, check for network issues"
 msgstr "Itzulpenak huts egin du, egiaztatu sareko arazorik dagoen"
 
-#: dialect/window.py:1085
+#: dialect/window.py:1085 dialect/search_provider/search_provider.in:105
 msgid "Translation failed"
 msgstr "Itzulpenak huts egin dute"
+
+#: dialect/search_provider/search_provider.in:129
+msgid "Translate “{text}” with {provider_name}"
+msgstr ""
+
+#: dialect/search_provider/search_provider.in:175
+#, fuzzy
+msgid "Copy translation to clipboard"
+msgstr "Kopiatu itzulpena"
 
 #~ msgid "translate;translation;"
 #~ msgstr "Itzuli;itzulpena;"

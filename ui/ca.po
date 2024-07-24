@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-01 22:46-0500\n"
+"POT-Creation-Date: 2024-07-24 13:08-0500\n"
 "PO-Revision-Date: 2024-01-16 23:06+0000\n"
 "Last-Translator: victor dargallo <victordargallo@disroot.org>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -71,24 +71,29 @@ msgid "Translation based on Yandex"
 msgstr "Traducció basada en el Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
+#, fuzzy
+msgid "Translation based on DeepL"
+msgstr "Traducció basada en el Yandex"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
 msgstr "Text a veu"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:22
+#: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Translation history"
 msgstr "Historial de traduccions"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:23
+#: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Automatic language detection"
 msgstr "Detecció automàtica de la llengua"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:24
+#: data/app.drey.Dialect.metainfo.xml.in.in:25
 msgid "Clipboard buttons"
 msgstr "Botons del porta-retalls"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/app.drey.Dialect.metainfo.xml.in.in:33
-#: data/app.drey.Dialect.metainfo.xml.in.in:35 data/resources/about.blp:6
+#: data/app.drey.Dialect.metainfo.xml.in.in:34
+#: data/app.drey.Dialect.metainfo.xml.in.in:36 data/resources/about.blp:6
 msgid "The Dialect Authors"
 msgstr "Els autors del Dialect"
 
@@ -422,7 +427,7 @@ msgstr "S’està traduint…"
 msgid "Could not Translate the Text"
 msgstr "No s’ha pogut traduir el text"
 
-#: data/resources/window.blp:517
+#: data/resources/window.blp:517 dialect/search_provider/search_provider.in:174
 msgid "Copy"
 msgstr "Copia"
 
@@ -455,7 +460,7 @@ msgstr ""
 msgid "No Settings for This Provider"
 msgstr ""
 
-#: dialect/window.py:389
+#: dialect/window.py:389 dialect/search_provider/search_provider.in:114
 #, fuzzy
 msgid "Failed loading the translation service"
 msgstr "No s’ha pogut carregar el servei de traducció"
@@ -477,6 +482,7 @@ msgstr ""
 "Comproveu si hi ha problemes amb la xarxa."
 
 #: dialect/window.py:420 dialect/window.py:1077
+#: dialect/search_provider/search_provider.in:103
 msgid "API key is required to use the service"
 msgstr ""
 
@@ -485,6 +491,7 @@ msgid "Please set an API key in the preferences."
 msgstr ""
 
 #: dialect/window.py:424 dialect/window.py:1069
+#: dialect/search_provider/search_provider.in:101
 msgid "The provided API key is invalid"
 msgstr ""
 
@@ -525,17 +532,26 @@ msgstr "S’ha assolit el límit de 5000 caràcters!"
 msgid "Did you mean: "
 msgstr "Volíeu dir: "
 
-#: dialect/window.py:1061
+#: dialect/window.py:1061 dialect/search_provider/search_provider.in:99
 #, fuzzy
 msgid "Translation failed, check for network issues"
 msgstr ""
 "Ha fallat la traducció.\n"
 "Comproveu si hi ha problemes amb la xarxa."
 
-#: dialect/window.py:1085
+#: dialect/window.py:1085 dialect/search_provider/search_provider.in:105
 #, fuzzy
 msgid "Translation failed"
 msgstr "Sembla que ha fallat la traducció"
+
+#: dialect/search_provider/search_provider.in:129
+msgid "Translate “{text}” with {provider_name}"
+msgstr ""
+
+#: dialect/search_provider/search_provider.in:175
+#, fuzzy
+msgid "Copy translation to clipboard"
+msgstr "Traducció següent"
 
 #~ msgid "translate;translation;"
 #~ msgstr "tradueix;traducció;"

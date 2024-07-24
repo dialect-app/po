@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-01 22:46-0500\n"
+"POT-Creation-Date: 2024-07-24 13:08-0500\n"
 "PO-Revision-Date: 2024-06-07 19:09+0000\n"
 "Last-Translator: Andrea Andre <andrea.tsg19@slmail.me>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -74,24 +74,29 @@ msgid "Translation based on Yandex"
 msgstr "Traduzione basata su Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
+#, fuzzy
+msgid "Translation based on DeepL"
+msgstr "Traduzione basata su Yandex"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
 msgstr "Sintesi vocale"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:22
+#: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Translation history"
 msgstr "Cronologia delle traduzioni"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:23
+#: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Automatic language detection"
 msgstr "Rilevamento automatico della lingua"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:24
+#: data/app.drey.Dialect.metainfo.xml.in.in:25
 msgid "Clipboard buttons"
 msgstr "Pulsanti degli appunti"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/app.drey.Dialect.metainfo.xml.in.in:33
-#: data/app.drey.Dialect.metainfo.xml.in.in:35 data/resources/about.blp:6
+#: data/app.drey.Dialect.metainfo.xml.in.in:34
+#: data/app.drey.Dialect.metainfo.xml.in.in:36 data/resources/about.blp:6
 msgid "The Dialect Authors"
 msgstr "Gli autori di Dialect"
 
@@ -413,7 +418,7 @@ msgstr "Traduzione in corso…"
 msgid "Could not Translate the Text"
 msgstr "Non è stato possibile tradurre il testo"
 
-#: data/resources/window.blp:517
+#: data/resources/window.blp:517 dialect/search_provider/search_provider.in:174
 msgid "Copy"
 msgstr "Copia"
 
@@ -445,7 +450,7 @@ msgstr "Modifica impostazioni del fornitore"
 msgid "No Settings for This Provider"
 msgstr "Nessuna impostazione per questo fornitore"
 
-#: dialect/window.py:389
+#: dialect/window.py:389 dialect/search_provider/search_provider.in:114
 msgid "Failed loading the translation service"
 msgstr "Caricamento del servizio di traduzione fallito"
 
@@ -464,6 +469,7 @@ msgstr ""
 "rete."
 
 #: dialect/window.py:420 dialect/window.py:1077
+#: dialect/search_provider/search_provider.in:103
 msgid "API key is required to use the service"
 msgstr "Una chiave API è necessaria per usare il servizio"
 
@@ -472,6 +478,7 @@ msgid "Please set an API key in the preferences."
 msgstr "Inserire una chiave API nelle preferenze."
 
 #: dialect/window.py:424 dialect/window.py:1069
+#: dialect/search_provider/search_provider.in:101
 msgid "The provided API key is invalid"
 msgstr "La chiave API inserita non è valida"
 
@@ -508,13 +515,22 @@ msgstr "Limite di {} caratteri raggiunto!"
 msgid "Did you mean: "
 msgstr "Forse cercavi: "
 
-#: dialect/window.py:1061
+#: dialect/window.py:1061 dialect/search_provider/search_provider.in:99
 msgid "Translation failed, check for network issues"
 msgstr "Traduzione non riuscita. Verifica se ci sono problemi di rete"
 
-#: dialect/window.py:1085
+#: dialect/window.py:1085 dialect/search_provider/search_provider.in:105
 msgid "Translation failed"
 msgstr "La traduzione è fallita"
+
+#: dialect/search_provider/search_provider.in:129
+msgid "Translate “{text}” with {provider_name}"
+msgstr ""
+
+#: dialect/search_provider/search_provider.in:175
+#, fuzzy
+msgid "Copy translation to clipboard"
+msgstr "Copia traduzione"
 
 #~ msgid "translate;translation;"
 #~ msgstr "translate;translation;tradurre;traduci;traduzione;"

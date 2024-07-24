@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-01 22:46-0500\n"
+"POT-Creation-Date: 2024-07-24 13:08-0500\n"
 "PO-Revision-Date: 2024-01-27 17:28+0000\n"
 "Last-Translator: Сергій <sergiy.goncharuk.1@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/dialect/"
@@ -74,24 +74,29 @@ msgid "Translation based on Yandex"
 msgstr "Переклад на основі Яндексу"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
+#, fuzzy
+msgid "Translation based on DeepL"
+msgstr "Переклад на основі Яндексу"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
 msgstr "Текст у мову"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:22
+#: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Translation history"
 msgstr "Історія перекладу"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:23
+#: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Automatic language detection"
 msgstr "Автоматичне визначення мови"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:24
+#: data/app.drey.Dialect.metainfo.xml.in.in:25
 msgid "Clipboard buttons"
 msgstr "Кнопки буфера обміну"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/app.drey.Dialect.metainfo.xml.in.in:33
-#: data/app.drey.Dialect.metainfo.xml.in.in:35 data/resources/about.blp:6
+#: data/app.drey.Dialect.metainfo.xml.in.in:34
+#: data/app.drey.Dialect.metainfo.xml.in.in:36 data/resources/about.blp:6
 msgid "The Dialect Authors"
 msgstr "Автори Dialect"
 
@@ -415,7 +420,7 @@ msgstr "Переклад…"
 msgid "Could not Translate the Text"
 msgstr "Не вдалося перекласти текст"
 
-#: data/resources/window.blp:517
+#: data/resources/window.blp:517 dialect/search_provider/search_provider.in:174
 msgid "Copy"
 msgstr "Скопіювати"
 
@@ -447,7 +452,7 @@ msgstr "Редагувати налаштування постачальника
 msgid "No Settings for This Provider"
 msgstr "Немає налаштувань для цього постачальника"
 
-#: dialect/window.py:389
+#: dialect/window.py:389 dialect/search_provider/search_provider.in:114
 msgid "Failed loading the translation service"
 msgstr "Не вдалося завантажити сервіс перекладача"
 
@@ -467,6 +472,7 @@ msgstr ""
 "Не вдалося з'єднатися з сервером. Будь ласка, перевірте з'єднання з мережею."
 
 #: dialect/window.py:420 dialect/window.py:1077
+#: dialect/search_provider/search_provider.in:103
 msgid "API key is required to use the service"
 msgstr "Ключ API є обов'язковм, щоб користуватися сервісом"
 
@@ -475,6 +481,7 @@ msgid "Please set an API key in the preferences."
 msgstr "Будь ласка, встановіть ключ для API у налаштуваннях."
 
 #: dialect/window.py:424 dialect/window.py:1069
+#: dialect/search_provider/search_provider.in:101
 msgid "The provided API key is invalid"
 msgstr "Наданий ключ API є недійсним"
 
@@ -511,14 +518,23 @@ msgstr "Досягнуто обмеження в {} символ(ів)!"
 msgid "Did you mean: "
 msgstr "Ви мали на увазі: "
 
-#: dialect/window.py:1061
+#: dialect/window.py:1061 dialect/search_provider/search_provider.in:99
 msgid "Translation failed, check for network issues"
 msgstr ""
 "Не вдалося виконати переклад, будь ласка, перевірте з'єднання з мережею"
 
-#: dialect/window.py:1085
+#: dialect/window.py:1085 dialect/search_provider/search_provider.in:105
 msgid "Translation failed"
 msgstr "Помилка перекладу"
+
+#: dialect/search_provider/search_provider.in:129
+msgid "Translate “{text}” with {provider_name}"
+msgstr ""
+
+#: dialect/search_provider/search_provider.in:175
+#, fuzzy
+msgid "Copy translation to clipboard"
+msgstr "Скопіювати переклад"
 
 #~ msgid "translate;translation;"
 #~ msgstr "translate;translation;перекласти;переклад;транслейт;"

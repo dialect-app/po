@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-01 22:46-0500\n"
+"POT-Creation-Date: 2024-07-24 13:08-0500\n"
 "PO-Revision-Date: 2024-04-08 20:35+0000\n"
 "Last-Translator: twlvnn <kraft_werk@tutanota.com>\n"
 "Language-Team: Bulgarian <https://hosted.weblate.org/projects/dialect/"
@@ -73,24 +73,29 @@ msgid "Translation based on Yandex"
 msgstr "Превод чрез Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
+#, fuzzy
+msgid "Translation based on DeepL"
+msgstr "Превод чрез Yandex"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
 msgstr "Текст към реч"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:22
+#: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Translation history"
 msgstr "История с преводи"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:23
+#: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Automatic language detection"
 msgstr "Автоматично разпознаване на език"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:24
+#: data/app.drey.Dialect.metainfo.xml.in.in:25
 msgid "Clipboard buttons"
 msgstr "Бутони за буфера за обмен"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/app.drey.Dialect.metainfo.xml.in.in:33
-#: data/app.drey.Dialect.metainfo.xml.in.in:35 data/resources/about.blp:6
+#: data/app.drey.Dialect.metainfo.xml.in.in:34
+#: data/app.drey.Dialect.metainfo.xml.in.in:36 data/resources/about.blp:6
 msgid "The Dialect Authors"
 msgstr "Автори на „Dialect“"
 
@@ -411,7 +416,7 @@ msgstr "Превеждане…"
 msgid "Could not Translate the Text"
 msgstr "Неуспешно превеждане на текста"
 
-#: data/resources/window.blp:517
+#: data/resources/window.blp:517 dialect/search_provider/search_provider.in:174
 msgid "Copy"
 msgstr "Копиране"
 
@@ -443,7 +448,7 @@ msgstr "Редактиране на настройките на преводач
 msgid "No Settings for This Provider"
 msgstr "Няма настройки за този преводач"
 
-#: dialect/window.py:389
+#: dialect/window.py:389 dialect/search_provider/search_provider.in:114
 msgid "Failed loading the translation service"
 msgstr "Неуспешно зареждане на преводача"
 
@@ -463,6 +468,7 @@ msgstr ""
 "Връзката към сървъра е неуспешна. Моля, проверете за проблеми в мрежата."
 
 #: dialect/window.py:420 dialect/window.py:1077
+#: dialect/search_provider/search_provider.in:103
 msgid "API key is required to use the service"
 msgstr "За използване на услугата е необходим API ключ"
 
@@ -471,6 +477,7 @@ msgid "Please set an API key in the preferences."
 msgstr "Моля, задайте API ключ в предпочитанията."
 
 #: dialect/window.py:424 dialect/window.py:1069
+#: dialect/search_provider/search_provider.in:101
 msgid "The provided API key is invalid"
 msgstr "Зададения API ключ е невалиден"
 
@@ -507,10 +514,19 @@ msgstr "Ограничение от {} брой знаци е достигнат
 msgid "Did you mean: "
 msgstr "Да нямате в предвид: "
 
-#: dialect/window.py:1061
+#: dialect/window.py:1061 dialect/search_provider/search_provider.in:99
 msgid "Translation failed, check for network issues"
 msgstr "Неуспешен превод, проверете за мрежови проблеми"
 
-#: dialect/window.py:1085
+#: dialect/window.py:1085 dialect/search_provider/search_provider.in:105
 msgid "Translation failed"
 msgstr "Неуспешен превод"
+
+#: dialect/search_provider/search_provider.in:129
+msgid "Translate “{text}” with {provider_name}"
+msgstr ""
+
+#: dialect/search_provider/search_provider.in:175
+#, fuzzy
+msgid "Copy translation to clipboard"
+msgstr "Копиране на превода"

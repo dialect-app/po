@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-01 22:46-0500\n"
+"POT-Creation-Date: 2024-07-24 13:08-0500\n"
 "PO-Revision-Date: 2024-04-14 02:01+0000\n"
 "Last-Translator: ID J <tabby4442@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -72,24 +72,29 @@ msgid "Translation based on Yandex"
 msgstr "Yandex 기반 번역"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
+#, fuzzy
+msgid "Translation based on DeepL"
+msgstr "Yandex 기반 번역"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
 msgstr "텍스트 음성 변환"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:22
+#: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Translation history"
 msgstr "번역 이력"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:23
+#: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Automatic language detection"
 msgstr "자동 언어 감지"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:24
+#: data/app.drey.Dialect.metainfo.xml.in.in:25
 msgid "Clipboard buttons"
 msgstr "클립보드 단추"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/app.drey.Dialect.metainfo.xml.in.in:33
-#: data/app.drey.Dialect.metainfo.xml.in.in:35 data/resources/about.blp:6
+#: data/app.drey.Dialect.metainfo.xml.in.in:34
+#: data/app.drey.Dialect.metainfo.xml.in.in:36 data/resources/about.blp:6
 msgid "The Dialect Authors"
 msgstr "다이얼렉트 저작자"
 
@@ -408,7 +413,7 @@ msgstr "번역중…"
 msgid "Could not Translate the Text"
 msgstr "문자열을 번역할 수 없습니다"
 
-#: data/resources/window.blp:517
+#: data/resources/window.blp:517 dialect/search_provider/search_provider.in:174
 msgid "Copy"
 msgstr "복사"
 
@@ -440,7 +445,7 @@ msgstr "검색 제공자 설정 수정"
 msgid "No Settings for This Provider"
 msgstr "해당 검색 제공자에 대한 설정이 없습니다"
 
-#: dialect/window.py:389
+#: dialect/window.py:389 dialect/search_provider/search_provider.in:114
 msgid "Failed loading the translation service"
 msgstr "번역 서비스를 불러오기가 실패하였습니다"
 
@@ -457,6 +462,7 @@ msgid "We can’t connect to the server. Please check for network issues."
 msgstr "서버에 연결할 수 없습니다. 네트워크 문제를 확인하십시오."
 
 #: dialect/window.py:420 dialect/window.py:1077
+#: dialect/search_provider/search_provider.in:103
 msgid "API key is required to use the service"
 msgstr "서비스를 이용하려면 API키가 필요합니다"
 
@@ -465,6 +471,7 @@ msgid "Please set an API key in the preferences."
 msgstr "기본 설정에서 API키를 설정하세요."
 
 #: dialect/window.py:424 dialect/window.py:1069
+#: dialect/search_provider/search_provider.in:101
 msgid "The provided API key is invalid"
 msgstr "주어진 API키가 유효하지 않습니다"
 
@@ -500,13 +507,22 @@ msgstr "{} 문자 한계에 도달했습니다!"
 msgid "Did you mean: "
 msgstr "다음을 의미합니까?: "
 
-#: dialect/window.py:1061
+#: dialect/window.py:1061 dialect/search_provider/search_provider.in:99
 msgid "Translation failed, check for network issues"
 msgstr "번역에 실패했습니다, 네트워크 문제를 확인하십시오"
 
-#: dialect/window.py:1085
+#: dialect/window.py:1085 dialect/search_provider/search_provider.in:105
 msgid "Translation failed"
 msgstr "번역에 실패했습니다"
+
+#: dialect/search_provider/search_provider.in:129
+msgid "Translate “{text}” with {provider_name}"
+msgstr ""
+
+#: dialect/search_provider/search_provider.in:175
+#, fuzzy
+msgid "Copy translation to clipboard"
+msgstr "번역 복사"
 
 #~ msgid "translate;translation;"
 #~ msgstr "translate;번역하기;translation;번역;"

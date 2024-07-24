@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-01 22:46-0500\n"
+"POT-Creation-Date: 2024-07-24 13:08-0500\n"
 "PO-Revision-Date: 2024-06-12 05:09+0000\n"
 "Last-Translator: hugoalh <hugoalh@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
@@ -38,8 +38,8 @@ msgid ""
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
-"Microsoft Translator;Bing Translator;Microsoft Translator;Yandex "
-"Translate;翻譯; "
+"Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate;翻"
+"譯; "
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
@@ -72,24 +72,29 @@ msgid "Translation based on Yandex"
 msgstr "基於 Yandex 的翻譯"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
+#, fuzzy
+msgid "Translation based on DeepL"
+msgstr "基於 Yandex 的翻譯"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
 msgstr "文字轉語音"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:22
+#: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Translation history"
 msgstr "翻譯紀錄"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:23
+#: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Automatic language detection"
 msgstr "自動偵測語言"
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:24
+#: data/app.drey.Dialect.metainfo.xml.in.in:25
 msgid "Clipboard buttons"
 msgstr "剪貼簿按鈕"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/app.drey.Dialect.metainfo.xml.in.in:33
-#: data/app.drey.Dialect.metainfo.xml.in.in:35 data/resources/about.blp:6
+#: data/app.drey.Dialect.metainfo.xml.in.in:34
+#: data/app.drey.Dialect.metainfo.xml.in.in:36 data/resources/about.blp:6
 msgid "The Dialect Authors"
 msgstr "Dialect 作者"
 
@@ -407,7 +412,7 @@ msgstr "正在翻譯…"
 msgid "Could not Translate the Text"
 msgstr "無法翻譯文字"
 
-#: data/resources/window.blp:517
+#: data/resources/window.blp:517 dialect/search_provider/search_provider.in:174
 msgid "Copy"
 msgstr "複製"
 
@@ -439,7 +444,7 @@ msgstr "編輯提供者設定"
 msgid "No Settings for This Provider"
 msgstr "此提供者沒有設定"
 
-#: dialect/window.py:389
+#: dialect/window.py:389 dialect/search_provider/search_provider.in:114
 msgid "Failed loading the translation service"
 msgstr "載入翻譯服務失敗"
 
@@ -456,6 +461,7 @@ msgid "We can’t connect to the server. Please check for network issues."
 msgstr "我們無法連接至伺服器。請檢查是否為網路問題。"
 
 #: dialect/window.py:420 dialect/window.py:1077
+#: dialect/search_provider/search_provider.in:103
 msgid "API key is required to use the service"
 msgstr "使用該服務需要 API 金鑰"
 
@@ -464,6 +470,7 @@ msgid "Please set an API key in the preferences."
 msgstr "請在偏好設定中設定 API 金鑰。"
 
 #: dialect/window.py:424 dialect/window.py:1069
+#: dialect/search_provider/search_provider.in:101
 msgid "The provided API key is invalid"
 msgstr "提供的 API 金鑰無效"
 
@@ -499,13 +506,22 @@ msgstr "已達到 {} 個字元限制！"
 msgid "Did you mean: "
 msgstr "你的意思是： "
 
-#: dialect/window.py:1061
+#: dialect/window.py:1061 dialect/search_provider/search_provider.in:99
 msgid "Translation failed, check for network issues"
 msgstr "翻譯失敗，請檢查是否為網路問題"
 
-#: dialect/window.py:1085
+#: dialect/window.py:1085 dialect/search_provider/search_provider.in:105
 msgid "Translation failed"
 msgstr "翻譯失敗"
+
+#: dialect/search_provider/search_provider.in:129
+msgid "Translate “{text}” with {provider_name}"
+msgstr ""
+
+#: dialect/search_provider/search_provider.in:175
+#, fuzzy
+msgid "Copy translation to clipboard"
+msgstr "複製翻譯"
 
 #~ msgid "translate;translation;"
 #~ msgstr "翻譯;"
