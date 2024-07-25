@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-24 13:08-0500\n"
-"PO-Revision-Date: 2024-06-02 16:18+0000\n"
+"PO-Revision-Date: 2024-07-25 19:09+0000\n"
 "Last-Translator: Rafael Mardojai CM <mardojai.cardenas@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/dialect/dialect/"
 "es/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -74,9 +74,8 @@ msgid "Translation based on Yandex"
 msgstr "Traducción a partir de Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "Traducción a partir de Yandex"
+msgstr "Traducción a partir de DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -211,11 +210,11 @@ msgstr "Restablecer los valores por defecto"
 
 #: data/resources/provider-preferences.blp:52
 msgid "API Key"
-msgstr "Llave del API"
+msgstr "Clave de API"
 
 #: data/resources/provider-preferences.blp:53
 msgid "Enter an API Key for the Provider."
-msgstr "Introduce una clave API para el proveedor."
+msgstr "Introduce una clave de API para el proveedor."
 
 #: data/resources/provider-preferences.blp:83
 msgid "Character Usage"
@@ -366,7 +365,7 @@ msgstr "Abrir Preferencias"
 
 #: data/resources/window.blp:183 data/resources/window.blp:216
 msgid "Remove Key and Retry"
-msgstr "Borrar Llave y Reintentar"
+msgstr "Borrar clave y reintentar"
 
 #: data/resources/window.blp:260 data/resources/window.blp:582
 msgid "Change Source Language"
@@ -470,25 +469,25 @@ msgstr ""
 #: dialect/window.py:420 dialect/window.py:1077
 #: dialect/search_provider/search_provider.in:103
 msgid "API key is required to use the service"
-msgstr "Una llave de API es requerida para usar este servicio"
+msgstr "Una clave de API es requerida para usar este servicio"
 
 #: dialect/window.py:421
 msgid "Please set an API key in the preferences."
-msgstr "Por favor configura una llave de API en las preferencias."
+msgstr "Por favor configura una clave de API en las preferencias."
 
 #: dialect/window.py:424 dialect/window.py:1069
 #: dialect/search_provider/search_provider.in:101
 msgid "The provided API key is invalid"
-msgstr "La llave de API entregada es invalida"
+msgstr "La clave de API entregada es invalida"
 
 #: dialect/window.py:426
 msgid "Please set a valid API key in the preferences."
-msgstr "Por favor configura una llave de API valida en las preferencias."
+msgstr "Por favor configura una clave de API valida en las preferencias."
 
 #: dialect/window.py:429
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
-"Por favor configura una llave de API valida o quita la llave de API en las "
+"Por favor configura una clave de API valida o quita la clave de API en las "
 "preferencias."
 
 #: dialect/window.py:483
@@ -525,12 +524,11 @@ msgstr "La traducción falló"
 
 #: dialect/search_provider/search_provider.in:129
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "Traducir «{text}» con {provider_name}"
 
 #: dialect/search_provider/search_provider.in:175
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "Copiar traducción"
+msgstr "Copiar traducción al portapapeles"
 
 #~ msgid "translate;translation;"
 #~ msgstr "translate;translation;traducir;traductor;"
