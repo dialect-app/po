@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-24 13:08-0500\n"
-"PO-Revision-Date: 2024-07-01 00:09+0000\n"
+"PO-Revision-Date: 2024-07-25 19:09+0000\n"
 "Last-Translator: Сергей <asvmail.as@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/dialect/dialect/"
 "ru/>\n"
@@ -75,9 +75,8 @@ msgid "Translation based on Yandex"
 msgstr "Перевод на основе Яндекс"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "Перевод на основе Яндекс"
+msgstr "Перевод на основе DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -528,12 +527,11 @@ msgstr "Ошибка перевода"
 
 #: dialect/search_provider/search_provider.in:129
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "Перевести «{text}» с помощью {provider_name}"
 
 #: dialect/search_provider/search_provider.in:175
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "Копировать перевод"
+msgstr "Копировать перевод в буфер обмена"
 
 #~ msgid "translate;translation;"
 #~ msgstr "перевести;перевод;"
