@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-24 13:08-0500\n"
-"PO-Revision-Date: 2024-06-28 13:09+0000\n"
+"PO-Revision-Date: 2024-07-27 23:09+0000\n"
 "Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Occitan <https://hosted.weblate.org/projects/dialect/dialect/"
 "oc/>\n"
@@ -74,9 +74,8 @@ msgid "Translation based on Yandex"
 msgstr "Traduccion basada sus Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "Traduccion basada sus Yandex"
+msgstr "Traduccion basada sus DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -525,12 +524,11 @@ msgstr "La traduccion a fracassat"
 
 #: dialect/search_provider/search_provider.in:129
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "Traduire « {text} » amb {provider_name}"
 
 #: dialect/search_provider/search_provider.in:175
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "Copiar la traduccion"
+msgstr "Copiar la traduccion al quichapapièrs"
 
 #~ msgid "translate;translation;"
 #~ msgstr "traduire;tradusir;traduccions;traductor;"
