@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-24 13:08-0500\n"
-"PO-Revision-Date: 2024-06-07 19:09+0000\n"
+"PO-Revision-Date: 2024-07-31 13:09+0000\n"
 "Last-Translator: Andrea Andre <andrea.tsg19@slmail.me>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/dialect/dialect/"
 "ro/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.6-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -75,9 +75,8 @@ msgid "Translation based on Yandex"
 msgstr "Traducere efectuată cu Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "Traducere efectuată cu Yandex"
+msgstr "Traducere efectuată cu DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -525,12 +524,11 @@ msgstr "Traducere nereușită"
 
 #: dialect/search_provider/search_provider.in:129
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "Tradu „{text}” cu {provider_name}"
 
 #: dialect/search_provider/search_provider.in:175
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "Copiază traducerea"
+msgstr "Copiază traducerea în memorie"
 
 #~ msgid "translate;translation;"
 #~ msgstr "translate;translation;tradu;traducere;"

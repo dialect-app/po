@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-24 13:08-0500\n"
-"PO-Revision-Date: 2024-06-07 19:09+0000\n"
+"PO-Revision-Date: 2024-07-31 13:09+0000\n"
 "Last-Translator: Andrea Andre <andrea.tsg19@slmail.me>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/dialect/dialect/"
 "it/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -74,9 +74,8 @@ msgid "Translation based on Yandex"
 msgstr "Traduzione basata su Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "Traduzione basata su Yandex"
+msgstr "Traduzione basata su DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -525,12 +524,11 @@ msgstr "La traduzione è fallita"
 
 #: dialect/search_provider/search_provider.in:129
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "Traduci \"{text}\" con {provider_name}"
 
 #: dialect/search_provider/search_provider.in:175
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "Copia traduzione"
+msgstr "Copia la traduzione negli appunti"
 
 #~ msgid "translate;translation;"
 #~ msgstr "translate;translation;tradurre;traduci;traduzione;"
