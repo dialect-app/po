@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-24 13:08-0500\n"
-"PO-Revision-Date: 2024-06-02 16:18+0000\n"
+"PO-Revision-Date: 2024-08-01 15:09+0000\n"
 "Last-Translator: Scrambled777 <weblate.scrambled777@simplelogin.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/dialect/dialect/hi/"
 ">\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.6-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -73,9 +73,8 @@ msgid "Translation based on Yandex"
 msgstr "Yandex पर आधारित अनुवाद"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "Yandex पर आधारित अनुवाद"
+msgstr "DeepL पर आधारित अनुवाद"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -520,12 +519,11 @@ msgstr "अनुवाद विफल"
 
 #: dialect/search_provider/search_provider.in:129
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "“{text}” का अनुवाद {provider_name} से करें"
 
 #: dialect/search_provider/search_provider.in:175
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "अनुवाद कॉपी करें"
+msgstr "अनुवाद को क्लिपबोर्ड पर कॉपी करें"
 
 #~ msgid "translate;translation;"
 #~ msgstr "अनुवाद;अनुवादन;अनुवादक;translate;translation;"
