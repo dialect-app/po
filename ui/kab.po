@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-24 13:08-0500\n"
-"PO-Revision-Date: 2024-04-08 20:35+0000\n"
+"PO-Revision-Date: 2024-08-02 13:32+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/dialect/dialect/"
 "kab/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -73,9 +73,8 @@ msgid "Translation based on Yandex"
 msgstr "Tasuqqilt yebnan ɣef Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "Tasuqqilt yebnan ɣef Yandex"
+msgstr "Tasuqqilt yebnan ɣef DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -142,7 +141,7 @@ msgstr "Tasuqilt srid"
 
 #: data/resources/preferences.ui:81
 msgid "Warning: Your IP address may get banned for API abuse."
-msgstr ""
+msgstr "Ɣur-k: tansa-inek·inem IP tezmer ad tettwagdel i uεeddi n API."
 
 #: data/resources/preferences.ui:87
 msgid "Show Translations in Desktop Search"
@@ -158,7 +157,7 @@ msgstr "Anegzum n tsuqilt"
 
 #: data/resources/preferences.ui:96
 msgid "The unselected choice will be used for line break."
-msgstr ""
+msgstr "Afran ur yettwafernen ad yettwaseqdec i uneggez n yizirig."
 
 #: data/resources/preferences.ui:114
 msgid "Default to Auto"
@@ -190,9 +189,8 @@ msgstr "Abeddel n teɣzi s yinegzumen ur yesmelsay ara aya."
 
 #: data/resources/provider-preferences.blp:5
 #: data/resources/provider-preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "Ldi imenyafen"
+msgstr "Ismenyifen n usaǧǧaw n tsuqilt"
 
 #: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
@@ -217,7 +215,7 @@ msgstr "Sekcem tasarutt API i usaǧǧaw."
 
 #: data/resources/provider-preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "Aseqdec n yisekkilen"
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -453,6 +451,8 @@ msgstr "Ur yessaweḍ ara ad d-yessali ameẓlu n tsuqilt"
 #: dialect/window.py:390
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
+"Ttxil-k·m xebber-d ugur-a deg uḍfar n tuccḍiwin n Dialect, ma yella "
+"tettuɣaled."
 
 #: dialect/window.py:401
 msgid "Couldn’t connect to the translation service"
@@ -483,7 +483,7 @@ msgstr "Ma ulac aɣilif, sbadu tasarut API tameɣtut deg ismenyifen."
 
 #: dialect/window.py:429
 msgid "Please set a valid API key or unset the API key in the preferences."
-msgstr ""
+msgstr "Ttxil-k·m, sbadu tasarut API tameɣtut neɣ kkes-itt deg yismenyifen."
 
 #: dialect/window.py:483
 msgid "A network issue has occurred. Retry?"
@@ -519,9 +519,8 @@ msgstr "Tuccḍa deg tsuqilt"
 
 #: dialect/search_provider/search_provider.in:129
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "Suqel “{text}” s {provider_name}"
 
 #: dialect/search_provider/search_provider.in:175
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "Nɣel tasuqilt"
+msgstr "Nɣel tasuqilt-nni ɣer tfelwit n ufus"
