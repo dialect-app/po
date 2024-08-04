@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-24 13:08-0500\n"
-"PO-Revision-Date: 2024-06-17 03:40+0000\n"
+"PO-Revision-Date: 2024-08-04 19:09+0000\n"
 "Last-Translator: Yahor <k1llo2810@protonmail.com>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/dialect/"
 "dialect/be/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.6-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -75,9 +75,8 @@ msgid "Translation based on Yandex"
 msgstr "Пераклад на аснове Яндэкс"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "Пераклад на аснове Яндэкс"
+msgstr "Пераклад на аснове DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -524,10 +523,9 @@ msgstr "Не ўдалося перакласці"
 
 #: dialect/search_provider/search_provider.in:129
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "Перакласці \"{text}\" з дапамогай {provider_name}"
 
 #: dialect/search_provider/search_provider.in:175
-#, fuzzy
 msgid "Copy translation to clipboard"
 msgstr "Капіяваць пераклад"
 
