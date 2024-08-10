@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-24 13:08-0500\n"
-"PO-Revision-Date: 2024-07-18 23:09+0000\n"
+"PO-Revision-Date: 2024-08-10 14:09+0000\n"
 "Last-Translator: Andi Chandler <andi@gowling.com>\n"
 "Language-Team: English (United Kingdom) <https://hosted.weblate.org/projects/"
 "dialect/dialect/en_GB/>\n"
@@ -73,9 +73,8 @@ msgid "Translation based on Yandex"
 msgstr "Translation based on Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "Translation based on Yandex"
+msgstr "Translation based on DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -517,12 +516,11 @@ msgstr "Translation failed"
 
 #: dialect/search_provider/search_provider.in:129
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "Translate “{text}” with {provider_name}"
 
 #: dialect/search_provider/search_provider.in:175
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "Copy translation"
+msgstr "Copy translation to clipboard"
 
 #~ msgid "translate;translation;"
 #~ msgstr "translate;translation;"
