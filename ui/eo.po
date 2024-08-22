@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-24 13:08-0500\n"
-"PO-Revision-Date: 2022-07-03 14:20+0000\n"
+"PO-Revision-Date: 2024-08-22 17:09+0000\n"
 "Last-Translator: phlostically <phlostically@mailinator.com>\n"
 "Language-Team: Esperanto <https://hosted.weblate.org/projects/dialect/"
 "dialect/eo/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13.1-dev\n"
+"X-Generator: Weblate 5.7\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -37,6 +37,8 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"traduki;tradukilo;traduko;tradukado;Google-tradukilo;LibreTranslate;Lingva-"
+"tradukilo;Bing-tradukilo;Microsoft-tradukilo;Yandex-tradukilo; "
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
@@ -63,19 +65,16 @@ msgid "Translation based on Lingva Translate API"
 msgstr "Tradukado per la API de Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr "Tradukado per la API de Lingva Translate"
+msgstr "Tradukado per Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "Tradukado per Google-Tradukilo"
+msgstr "Tradukado per Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "Tradukado per Google-Tradukilo"
+msgstr "Tradukado per DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -100,9 +99,8 @@ msgid "The Dialect Authors"
 msgstr "La aŭtoroj de Dialect"
 
 #: data/resources/about.blp:7
-#, fuzzy
 msgid "Copyright 2020–⁠2023 The Dialect Authors"
-msgstr "Kopirajto 2020–2022 La aŭtoroj de Dialect"
+msgstr "Kopirajto 2020–2023 La aŭtoroj de Dialect"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:15
@@ -114,9 +112,8 @@ msgid "Search Languages…"
 msgstr "Serĉi lingvojn…"
 
 #: data/resources/preferences.ui:8
-#, fuzzy
 msgid "Providers"
-msgstr "Serĉilo"
+msgstr "Provizantoj"
 
 #: data/resources/preferences.ui:11
 msgid "Translator"
@@ -131,9 +128,8 @@ msgid "Text-to-Speech"
 msgstr "Prononcilo"
 
 #: data/resources/preferences.ui:44
-#, fuzzy
 msgid "Choose from the available TTS services."
-msgstr "Elektu el la disponeblaj tradukaj servoj."
+msgstr "Elektu el la disponeblaj prononcaj servoj."
 
 #: data/resources/preferences.ui:77
 msgid "Behavior"
@@ -177,54 +173,49 @@ msgstr "Aspekto"
 
 #: data/resources/preferences.ui:125
 msgid "Use Custom Font Size"
-msgstr ""
+msgstr "Uzi propran tiparan grandon"
 
 #: data/resources/preferences.ui:126
 msgid "System font size is used otherwise."
-msgstr ""
+msgstr "Alie, la sistema tipara grando estos uzata."
 
 #: data/resources/preferences.ui:132
-#, fuzzy
 msgid "Default Font Size"
-msgstr "Implicite uzi «Aŭtomata»"
+msgstr "Implicita tipara grando"
 
 #: data/resources/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
-msgstr ""
+msgstr "Ŝanĝado de la tipara grando per fulmoklavoj ne modifas tiun agordon."
 
 #: data/resources/provider-preferences.blp:5
 #: data/resources/provider-preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "Agordi preferojn"
+msgstr "Preferoj pri provizantoj"
 
 #: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
-msgstr ""
+msgstr "Servila retadreso"
 
 #: data/resources/provider-preferences.blp:22
-#, fuzzy
 msgid "Enter an Instance URL for the Provider."
-msgstr "Tajpu API-ŝlosilon por la tradukservo."
+msgstr "Tajpu la servilan retadreson por la provizanto."
 
 #: data/resources/provider-preferences.blp:32
 #: data/resources/provider-preferences.blp:62
-#, fuzzy
 msgid "Reset to Default"
-msgstr "Uzi impliciton"
+msgstr "Restaŭri la impliciton"
 
 #: data/resources/provider-preferences.blp:52
 msgid "API Key"
 msgstr "API-ŝlosilo"
 
 #: data/resources/provider-preferences.blp:53
-#, fuzzy
 msgid "Enter an API Key for the Provider."
-msgstr "Tajpu API-ŝlosilon por la tradukservo."
+msgstr "Tajpu API-ŝlosilon por la provizanto."
 
 #: data/resources/provider-preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "Uzado de skribsigno"
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -242,15 +233,14 @@ msgid "Switch Languages"
 msgstr "Ŝanĝi lingvojn"
 
 #: data/resources/shortcuts.blp:26
-#, fuzzy
 msgctxt "shortcuts window"
 msgid "Select source language"
-msgstr "Ŝanĝi lingvojn"
+msgstr "Elekti fontan lingvon"
 
 #: data/resources/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Select destination language"
-msgstr ""
+msgstr "Elekti celan lingvon"
 
 #: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
@@ -270,12 +260,12 @@ msgstr "Montri prononcon"
 #: data/resources/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr ""
+msgstr "Pligrandigi tiparon"
 
 #: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr ""
+msgstr "Malpligrandigi tiparon"
 
 #: data/resources/shortcuts.blp:62
 msgctxt "shortcuts window"
@@ -328,17 +318,14 @@ msgid "Quit"
 msgstr "Forlasi"
 
 #: data/resources/theme-switcher.blp:20
-#, fuzzy
 msgid "Follow System Style"
 msgstr "Laŭ sistema etoso"
 
 #: data/resources/theme-switcher.blp:35
-#, fuzzy
 msgid "Light Style"
 msgstr "Hela etoso"
 
 #: data/resources/theme-switcher.blp:50
-#, fuzzy
 msgid "Dark Style"
 msgstr "Malhela etoso"
 
@@ -379,30 +366,27 @@ msgstr "Forigi ŝlosilon kaj reprovi"
 
 #: data/resources/window.blp:260 data/resources/window.blp:582
 msgid "Change Source Language"
-msgstr ""
+msgstr "Ŝanĝi fontan lingvon"
 
 #: data/resources/window.blp:265 data/resources/window.blp:590
-#, fuzzy
 msgid "Switch Languages"
 msgstr "Ŝanĝi lingvojn"
 
 #: data/resources/window.blp:272 data/resources/window.blp:598
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Ŝanĝi celan lingvon"
 
 #: data/resources/window.blp:287
-#, fuzzy
 msgid "Previous Translation"
 msgstr "Antaŭa traduko"
 
 #: data/resources/window.blp:293
-#, fuzzy
 msgid "Next Translation"
 msgstr "Sekva traduko"
 
 #: data/resources/window.blp:300
 msgid "Main Menu"
-msgstr ""
+msgstr "Ĉefmenuo"
 
 #: data/resources/window.blp:401
 msgid "Clear"
@@ -425,7 +409,6 @@ msgid "Translating…"
 msgstr "Tradukante…"
 
 #: data/resources/window.blp:510
-#, fuzzy
 msgid "Could not Translate the Text"
 msgstr "Ne eblis traduki la tekston"
 
@@ -451,15 +434,15 @@ msgstr "Aŭtomata"
 
 #: dialect/main.py:187
 msgid "Donate"
-msgstr ""
+msgstr "Donaci"
 
 #: dialect/preferences.py:126
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Modifi agordojn pri provizanto"
 
 #: dialect/preferences.py:128
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Neniu agordo pri ĉi tiu provizanto"
 
 #: dialect/window.py:389 dialect/search_provider/search_provider.in:114
 msgid "Failed loading the translation service"
@@ -503,12 +486,10 @@ msgstr ""
 "preferoj."
 
 #: dialect/window.py:483
-#, fuzzy
 msgid "A network issue has occurred. Retry?"
 msgstr "Reta problemo okazis. Ĉu reprovi?"
 
 #: dialect/window.py:496
-#, fuzzy
 msgid "A network issue has occurred. Please try again."
 msgstr "Reta problemo okazis. Bonvolu reprovi."
 
@@ -538,12 +519,11 @@ msgstr "Tradukado malsukcesis"
 
 #: dialect/search_provider/search_provider.in:129
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "Traduki «{text}» per {provider_name}"
 
 #: dialect/search_provider/search_provider.in:175
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "Kopii tradukon"
+msgstr "Kopii tradukon en tondujon"
 
 #~ msgid "translate;translation;"
 #~ msgstr "traduko;traduki;"
