@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-24 13:08-0500\n"
-"PO-Revision-Date: 2024-01-16 23:06+0000\n"
+"PO-Revision-Date: 2024-08-29 12:09+0000\n"
 "Last-Translator: victor dargallo <victordargallo@disroot.org>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/dialect/dialect/"
 "ca/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.7.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -37,6 +37,9 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"tradueix;traducció;Google Translate;LibreTranslate;Lingva Translate;"
+"Traductor de Bing Microsoft;Traductor de Bing;Traductor de Microsoft;"
+"Traductor de Yandex; "
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
@@ -71,9 +74,8 @@ msgid "Translation based on Yandex"
 msgstr "Traducció basada en el Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "Traducció basada en el Yandex"
+msgstr "Traducció basada en DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -98,9 +100,8 @@ msgid "The Dialect Authors"
 msgstr "Els autors del Dialect"
 
 #: data/resources/about.blp:7
-#, fuzzy
 msgid "Copyright 2020–⁠2023 The Dialect Authors"
-msgstr "Drets d’autor © 2020-2022 dels autors del Dialect"
+msgstr "Drets d’autor 2020-2022 dels autors del Dialect"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:15
@@ -146,9 +147,8 @@ msgid "Warning: Your IP address may get banned for API abuse."
 msgstr "Avís: potser que us bloquin l’adreça IP per abusar de l’API."
 
 #: data/resources/preferences.ui:87
-#, fuzzy
 msgid "Show Translations in Desktop Search"
-msgstr "Historial de traduccions"
+msgstr "Mostra traduccions a la cerca d'escriptori"
 
 #: data/resources/preferences.ui:88
 msgid "Warning: All desktop searches will be sent to the translation service"
@@ -176,54 +176,49 @@ msgstr "Aspecte"
 
 #: data/resources/preferences.ui:125
 msgid "Use Custom Font Size"
-msgstr ""
+msgstr "Utilitza una mida de lletra personalitzada"
 
 #: data/resources/preferences.ui:126
 msgid "System font size is used otherwise."
-msgstr ""
+msgstr "En cas contrari, s'utilitza la mida de lletra del sistema."
 
 #: data/resources/preferences.ui:132
-#, fuzzy
 msgid "Default Font Size"
-msgstr "Automàtic per defecte"
+msgstr "Mida de lletra predeterminada"
 
 #: data/resources/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
-msgstr ""
+msgstr "Canviar la mida mitjançant dreceres de teclat no ho sobreescriu."
 
 #: data/resources/provider-preferences.blp:5
 #: data/resources/provider-preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "Obre les preferències"
+msgstr "Preferències del proveïdor"
 
 #: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
-msgstr ""
+msgstr "URL de la instància"
 
 #: data/resources/provider-preferences.blp:22
-#, fuzzy
 msgid "Enter an Instance URL for the Provider."
-msgstr "Introduïu l’URL d’un servei de traducció."
+msgstr "Introduïu una URL de la instància per al proveïdor."
 
 #: data/resources/provider-preferences.blp:32
 #: data/resources/provider-preferences.blp:62
-#, fuzzy
 msgid "Reset to Default"
-msgstr "Reinicialitza als valors per defecte"
+msgstr "Restableix als valors predeterminats"
 
 #: data/resources/provider-preferences.blp:52
 msgid "API Key"
-msgstr ""
+msgstr "Clau de l'API"
 
 #: data/resources/provider-preferences.blp:53
-#, fuzzy
 msgid "Enter an API Key for the Provider."
-msgstr "Introduïu l’URL d’un servei de traducció."
+msgstr "Introduïu una clau de l'API per al proveïdor."
 
 #: data/resources/provider-preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "Ús de caràcters"
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -241,15 +236,14 @@ msgid "Switch Languages"
 msgstr "Canvia de llengua"
 
 #: data/resources/shortcuts.blp:26
-#, fuzzy
 msgctxt "shortcuts window"
 msgid "Select source language"
-msgstr "Canvia de llengua"
+msgstr "Seleccioneu la llengua d'origen"
 
 #: data/resources/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Select destination language"
-msgstr ""
+msgstr "Seleccioneu la llengua de destinació"
 
 #: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
@@ -269,12 +263,12 @@ msgstr "Mostra la pronunciació"
 #: data/resources/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr ""
+msgstr "Augmenta la mida de la lletra"
 
 #: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr ""
+msgstr "Disminueix la mida de la lletra"
 
 #: data/resources/shortcuts.blp:62
 msgctxt "shortcuts window"
@@ -328,16 +322,15 @@ msgstr "Surt"
 
 #: data/resources/theme-switcher.blp:20
 msgid "Follow System Style"
-msgstr ""
+msgstr "Segueix l'estil del sistema"
 
 #: data/resources/theme-switcher.blp:35
 msgid "Light Style"
-msgstr ""
+msgstr "Estil clar"
 
 #: data/resources/theme-switcher.blp:50
-#, fuzzy
 msgid "Dark Style"
-msgstr "Mode fosc"
+msgstr "Estil fosc"
 
 #: data/resources/window.blp:15
 msgid "Show Pronunciation"
@@ -367,40 +360,36 @@ msgstr "Torna a provar"
 
 #: data/resources/window.blp:118 data/resources/window.blp:153
 #: data/resources/window.blp:193 data/resources/window.blp:229
-#, fuzzy
 msgid "Open Preferences"
 msgstr "Obre les preferències"
 
 #: data/resources/window.blp:183 data/resources/window.blp:216
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "Elimina la clau i torna-ho a provar"
 
 #: data/resources/window.blp:260 data/resources/window.blp:582
 msgid "Change Source Language"
-msgstr ""
+msgstr "Canvia l'idioma d'origen"
 
 #: data/resources/window.blp:265 data/resources/window.blp:590
-#, fuzzy
 msgid "Switch Languages"
-msgstr "Canvia de llengua"
+msgstr "Canvia les llengües"
 
 #: data/resources/window.blp:272 data/resources/window.blp:598
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Canvia la llengua de destinació"
 
 #: data/resources/window.blp:287
-#, fuzzy
 msgid "Previous Translation"
 msgstr "Traducció anterior"
 
 #: data/resources/window.blp:293
-#, fuzzy
 msgid "Next Translation"
 msgstr "Traducció següent"
 
 #: data/resources/window.blp:300
 msgid "Main Menu"
-msgstr ""
+msgstr "Menú principal"
 
 #: data/resources/window.blp:401
 msgid "Clear"
@@ -423,7 +412,6 @@ msgid "Translating…"
 msgstr "S’està traduint…"
 
 #: data/resources/window.blp:510
-#, fuzzy
 msgid "Could not Translate the Text"
 msgstr "No s’ha pogut traduir el text"
 
@@ -432,13 +420,12 @@ msgid "Copy"
 msgstr "Copia"
 
 #: data/resources/window.blp:525
-#, fuzzy
 msgid "Suggest Translation"
-msgstr "Traducció en temps real"
+msgstr "Suggereix traducció"
 
 #: data/resources/window.blp:549
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel·la"
 
 #: data/resources/window.blp:556
 msgid "Save"
