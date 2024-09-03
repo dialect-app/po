@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-24 13:08-0500\n"
-"PO-Revision-Date: 2024-09-02 08:29+0000\n"
-"Last-Translator: yoval keshet <keshetyoval@gmail.com>\n"
+"PO-Revision-Date: 2024-09-03 09:09+0000\n"
+"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/dialect/dialect/"
 "he/>\n"
 "Language: he\n"
@@ -75,9 +75,8 @@ msgid "Translation based on Yandex"
 msgstr "תרגום המבוסס על Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "תרגום המבוסס על Yandex"
+msgstr "תרגום המבוסס על DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -218,7 +217,7 @@ msgstr "נא למלא מפתח API לספק."
 
 #: data/resources/provider-preferences.blp:83
 msgid "Character Usage"
-msgstr "שימוש בדמויות"
+msgstr "שימוש בתווים"
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -519,12 +518,11 @@ msgstr "התרגום נכשל"
 
 #: dialect/search_provider/search_provider.in:129
 msgid "Translate “{text}” with {provider_name}"
-msgstr "תרגם \"{text}\" עם {provider_name}"
+msgstr "לתרגם את „{text}” עם {provider_name}"
 
 #: dialect/search_provider/search_provider.in:175
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "העתקת התרגום"
+msgstr "העתקת התרגום ללוח הגזירים"
 
 #~ msgid "translate;translation;"
 #~ msgstr "לתרגם;תרגום;"
