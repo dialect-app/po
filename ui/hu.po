@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-24 13:08-0500\n"
-"PO-Revision-Date: 2024-01-24 08:01+0000\n"
+"PO-Revision-Date: 2024-09-07 17:09+0000\n"
 "Last-Translator: ovari <ovari123@zoho.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/dialect/"
 "dialect/hu/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -73,9 +73,8 @@ msgid "Translation based on Yandex"
 msgstr "Yandex alapján készült fordítás"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "Yandex alapján készült fordítás"
+msgstr "DeepL alapján készült fordítás"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -195,9 +194,8 @@ msgstr "A méret parancsikonokkal történő módosítása nem írja felül ezt.
 
 #: data/resources/provider-preferences.blp:5
 #: data/resources/provider-preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "Beállítások megnyitása"
+msgstr "Szolgáltatói beállítások"
 
 #: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
@@ -222,7 +220,7 @@ msgstr "Adja meg a szolgáltató API-kulcsát."
 
 #: data/resources/provider-preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "Karakterhasználat"
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -527,12 +525,11 @@ msgstr "Fordítás sikertelen"
 
 #: dialect/search_provider/search_provider.in:129
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "„{text}” fordítása a(z) {provider_name} szolgáltatóval"
 
 #: dialect/search_provider/search_provider.in:175
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "Fordítás másolása"
+msgstr "Fordítás másolása a vágólapra"
 
 #~ msgid "translate;translation;"
 #~ msgstr "fordítás;"
