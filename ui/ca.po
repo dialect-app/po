@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-24 13:08-0500\n"
-"PO-Revision-Date: 2024-08-29 12:09+0000\n"
+"PO-Revision-Date: 2024-09-12 17:09+0000\n"
 "Last-Translator: victor dargallo <victordargallo@disroot.org>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/dialect/dialect/"
 "ca/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7.1-dev\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -437,11 +437,11 @@ msgstr "Automàtic"
 
 #: dialect/main.py:187
 msgid "Donate"
-msgstr ""
+msgstr "Feu una donació"
 
 #: dialect/preferences.py:126
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Edita la configuració del proveïdor"
 
 #: dialect/preferences.py:128
 msgid "No Settings for This Provider"
