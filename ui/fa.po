@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-07-24 13:08-0500\n"
-"PO-Revision-Date: 2022-06-30 01:14+0000\n"
+"PO-Revision-Date: 2024-09-17 19:40+0000\n"
 "Last-Translator: Danial Behzadi <dani.behzi@ubuntu.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/dialect/dialect/"
 "fa/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.13.1-dev\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -37,6 +37,9 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
+"Microsoft Translator;Bing Translator;Microsoft Translator;Yandex "
+"Translate;ترجمه;بازگردانی;گوگل;بینگ;مایکروسافت;یندکس; "
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
 msgid "A translation app for GNOME."
@@ -63,19 +66,16 @@ msgid "Translation based on Lingva Translate API"
 msgstr "ترجمه برپایهٔ واسط برنامه‌نویسی ترجمهٔ لینگوا"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr "ترجمه برپایهٔ واسط برنامه‌نویسی ترجمهٔ لینگوا"
+msgstr "ترجمه برپایهٔ بینگ"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "ترجمه برپایهٔ ترجمهٔ گوگل"
+msgstr "ترجمه برپایهٔ یندکس"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "ترجمه برپایهٔ ترجمهٔ گوگل"
+msgstr "ترجمه برپایهٔ دیپ‌ال"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -100,9 +100,8 @@ msgid "The Dialect Authors"
 msgstr "نگارندگان دایالکت"
 
 #: data/resources/about.blp:7
-#, fuzzy
 msgid "Copyright 2020–⁠2023 The Dialect Authors"
-msgstr "حق رونوشت ۲۰۲۰-۲۰۲۲ نگارندگان دایالکت"
+msgstr "حق رونوشت ۲۰۲۰-۲۰۲۳ نگارندگان دایالکت"
 
 #. Translators: Replace me with your names.
 #: data/resources/about.blp:15
@@ -116,9 +115,8 @@ msgid "Search Languages…"
 msgstr "جست‌وجوی زبان‌ها…"
 
 #: data/resources/preferences.ui:8
-#, fuzzy
 msgid "Providers"
-msgstr "فراهم‌کنندهٔ جست‌وجو"
+msgstr "فراهم‌کنندگان"
 
 #: data/resources/preferences.ui:11
 msgid "Translator"
@@ -133,9 +131,8 @@ msgid "Text-to-Speech"
 msgstr "متن به گفتار"
 
 #: data/resources/preferences.ui:44
-#, fuzzy
 msgid "Choose from the available TTS services."
-msgstr "گزینش از میان خدمات ترجمهٔ موجود."
+msgstr "گزینش از میان خدمات متن به گفتار موجود."
 
 #: data/resources/preferences.ui:77
 msgid "Behavior"
@@ -180,39 +177,35 @@ msgstr "ظاهر"
 
 #: data/resources/preferences.ui:125
 msgid "Use Custom Font Size"
-msgstr ""
+msgstr "استفاده از اندازهٔ قلم سفارشی"
 
 #: data/resources/preferences.ui:126
 msgid "System font size is used otherwise."
-msgstr ""
+msgstr "در غیر این صورت از اندازهٔ قلم سامانه استفاده می‌شود."
 
 #: data/resources/preferences.ui:132
-#, fuzzy
 msgid "Default Font Size"
-msgstr "پیش‌گزیده به خودکار"
+msgstr "اندازهٔ قلم پیش‌گزیده"
 
 #: data/resources/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
-msgstr ""
+msgstr "تغییر اندازه با میان‌برها این را رونویسی نمی‌کند."
 
 #: data/resources/provider-preferences.blp:5
 #: data/resources/provider-preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "گشودن ترجیحات"
+msgstr "ترجیحات فراهم‌کننده"
 
 #: data/resources/provider-preferences.blp:21
 msgid "Instance URL"
-msgstr ""
+msgstr "نشانی نمونه"
 
 #: data/resources/provider-preferences.blp:22
-#, fuzzy
 msgid "Enter an Instance URL for the Provider."
-msgstr "کلید APIای برای خدمت ترجمه وارد کنید."
+msgstr "ورود نشانی نمونه‌ای برای فراهم کننده."
 
 #: data/resources/provider-preferences.blp:32
 #: data/resources/provider-preferences.blp:62
-#, fuzzy
 msgid "Reset to Default"
 msgstr "بازنشانی به پیش‌گزیده"
 
@@ -221,13 +214,12 @@ msgid "API Key"
 msgstr "کلید API"
 
 #: data/resources/provider-preferences.blp:53
-#, fuzzy
 msgid "Enter an API Key for the Provider."
-msgstr "کلید APIای برای خدمت ترجمه وارد کنید."
+msgstr "وود کلید APIای برای فراهم کننده."
 
 #: data/resources/provider-preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "استفادهٔ نویسه"
 
 #: data/resources/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -245,15 +237,14 @@ msgid "Switch Languages"
 msgstr "جابه‌جایی زبان‌ها"
 
 #: data/resources/shortcuts.blp:26
-#, fuzzy
 msgctxt "shortcuts window"
 msgid "Select source language"
-msgstr "جابه‌جایی زبان‌ها"
+msgstr "گزینش زبان منبع"
 
 #: data/resources/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Select destination language"
-msgstr ""
+msgstr "گزینش زبان مقصد"
 
 #: data/resources/shortcuts.blp:36
 msgctxt "shortcuts window"
@@ -273,12 +264,12 @@ msgstr "نمایش بیان"
 #: data/resources/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr ""
+msgstr "افزایش اندازهٔ قلم"
 
 #: data/resources/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr ""
+msgstr "کاهش اندازهٔ قلم"
 
 #: data/resources/shortcuts.blp:62
 msgctxt "shortcuts window"
@@ -331,17 +322,14 @@ msgid "Quit"
 msgstr "خروج"
 
 #: data/resources/theme-switcher.blp:20
-#, fuzzy
 msgid "Follow System Style"
 msgstr "پیروی از سبک سامانه"
 
 #: data/resources/theme-switcher.blp:35
-#, fuzzy
 msgid "Light Style"
 msgstr "سبک روشن"
 
 #: data/resources/theme-switcher.blp:50
-#, fuzzy
 msgid "Dark Style"
 msgstr "سبک تیره"
 
@@ -382,30 +370,27 @@ msgstr "برداشتن کلید و تلاش دوباره"
 
 #: data/resources/window.blp:260 data/resources/window.blp:582
 msgid "Change Source Language"
-msgstr ""
+msgstr "تغییر زبان منبع"
 
 #: data/resources/window.blp:265 data/resources/window.blp:590
-#, fuzzy
 msgid "Switch Languages"
 msgstr "جابه‌جایی زبان‌ها"
 
 #: data/resources/window.blp:272 data/resources/window.blp:598
 msgid "Change Destination Language"
-msgstr ""
+msgstr "تغییر زبان مقصد"
 
 #: data/resources/window.blp:287
-#, fuzzy
 msgid "Previous Translation"
 msgstr "ترجمهٔ پیشین"
 
 #: data/resources/window.blp:293
-#, fuzzy
 msgid "Next Translation"
 msgstr "ترجمهٔ بعدی"
 
 #: data/resources/window.blp:300
 msgid "Main Menu"
-msgstr ""
+msgstr "فهرست اصلی"
 
 #: data/resources/window.blp:401
 msgid "Clear"
@@ -428,7 +413,6 @@ msgid "Translating…"
 msgstr "ترجمه کردن…"
 
 #: data/resources/window.blp:510
-#, fuzzy
 msgid "Could not Translate the Text"
 msgstr "نتوانست متن را ترجمه کند"
 
@@ -454,15 +438,15 @@ msgstr "خودکار"
 
 #: dialect/main.py:187
 msgid "Donate"
-msgstr ""
+msgstr "اعانه"
 
 #: dialect/preferences.py:126
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "ویرایش تنظیمات فراهم کننده"
 
 #: dialect/preferences.py:128
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "این فراهم کننده تنظیماتی ندارد"
 
 #: dialect/window.py:389 dialect/search_provider/search_provider.in:114
 msgid "Failed loading the translation service"
@@ -504,12 +488,10 @@ msgstr ""
 "لطفاً کلید APIای معتبر تنظیم یا کلید API موجود در ترجیحات را ناتنظیم کنید."
 
 #: dialect/window.py:483
-#, fuzzy
 msgid "A network issue has occurred. Retry?"
 msgstr "مشکلی در شبکه رخ داد. تلاش دوباره؟"
 
 #: dialect/window.py:496
-#, fuzzy
 msgid "A network issue has occurred. Please try again."
 msgstr "مشکلی در شبکه رخ داد. لطفاً دوباره تلاش کنید."
 
@@ -539,12 +521,11 @@ msgstr "ترجمه شکست خورد"
 
 #: dialect/search_provider/search_provider.in:129
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "ترجمهٔ «{text}» با {provider_name}"
 
 #: dialect/search_provider/search_provider.in:175
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "رونوشت از ترجمه"
+msgstr "رونوشت از ترجمه در تخته‌گیره"
 
 #~ msgid "translate;translation;"
 #~ msgstr "translate;translation;dialect;ترجمه;بازگردانی;"
