@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-24 13:08-0500\n"
+"POT-Creation-Date: 2024-09-23 08:40-0500\n"
 "PO-Revision-Date: 2023-05-15 19:53+0000\n"
 "Last-Translator: Abdul Karim Kikar <abdul@oklomsy.com>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -21,8 +21,8 @@ msgstr ""
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
-#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:5
-#: data/resources/window.blp:280 dialect/main.py:72
+#: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:74
+#: dialect/window.blp:264
 msgid "Dialect"
 msgstr "Dialect"
 
@@ -38,7 +38,8 @@ msgid ""
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
+#. For development version
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:186
 msgid "A translation app for GNOME."
 msgstr "En oversættelsesprogram for GNOME."
 
@@ -92,447 +93,486 @@ msgid "Clipboard buttons"
 msgstr "Klippebord knapper"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/app.drey.Dialect.metainfo.xml.in.in:34
-#: data/app.drey.Dialect.metainfo.xml.in.in:36 data/resources/about.blp:6
+#: data/app.drey.Dialect.metainfo.xml.in.in:35
+#: data/app.drey.Dialect.metainfo.xml.in.in:37
 msgid "The Dialect Authors"
 msgstr "Dialect forfatterne"
 
-#: data/resources/about.blp:7
+#: dialect/languages.py:63 dialect/widgets/lang_selector.py:84
+msgid "Auto"
+msgstr "Auto"
+
+#: dialect/main.py:187
 #, fuzzy
-msgid "Copyright 2020–⁠2023 The Dialect Authors"
+msgid "Copyright 2020–⁠2024 The Dialect Authors"
 msgstr "Ophavsret 2020-2022 Dialect Forfatterne"
 
-#. Translators: Replace me with your names.
-#: data/resources/about.blp:15
+#: dialect/main.py:189
 msgid "translator-credits"
 msgstr "Abdul Karim Kikar"
 
-#: data/resources/lang-selector.blp:47
-msgid "Search Languages…"
-msgstr "Skift Sproge…"
+#: dialect/main.py:190
+msgid "Donate"
+msgstr ""
 
-#: data/resources/preferences.ui:8
+#: dialect/preferences.py:132
+msgid "Edit Provider Settings"
+msgstr "Ændre udbydernes indstillinger"
+
+#: dialect/preferences.py:134
+msgid "No Settings for This Provider"
+msgstr "Ingen indstillinger for denne udbyder"
+
+#: dialect/preferences.ui:8
 msgid "Providers"
 msgstr "Udbyder"
 
-#: data/resources/preferences.ui:11
+#: dialect/preferences.ui:11
 msgid "Translator"
 msgstr "Oversættere"
 
-#: data/resources/preferences.ui:12
+#: dialect/preferences.ui:12
 msgid "Choose from the available translation services."
 msgstr "Vælge fra de tilgængelige oversættelsestjenester."
 
-#: data/resources/preferences.ui:43
+#: dialect/preferences.ui:43
 msgid "Text-to-Speech"
 msgstr "Tekst-til-tale"
 
-#: data/resources/preferences.ui:44
+#: dialect/preferences.ui:44
 msgid "Choose from the available TTS services."
 msgstr "Vælge fra de tilgængelige TTS-tjenester."
 
-#: data/resources/preferences.ui:77
+#: dialect/preferences.ui:77
 msgid "Behavior"
 msgstr "Opførsel"
 
-#: data/resources/preferences.ui:80
+#: dialect/preferences.ui:80
 msgid "Live Translation"
 msgstr "Live Oversættelse"
 
-#: data/resources/preferences.ui:81
+#: dialect/preferences.ui:81
 msgid "Warning: Your IP address may get banned for API abuse."
 msgstr "Advarsel: Dit IP-adresse kan blive forbudt for API misbrug."
 
-#: data/resources/preferences.ui:87
+#: dialect/preferences.ui:87
 msgid "Show Translations in Desktop Search"
 msgstr "Vis oversættelser i skrivebordsøgning"
 
-#: data/resources/preferences.ui:88
+#: dialect/preferences.ui:88
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr ""
 "Advarsel: Alle skrivebordssøgninger vil blive sendt til oversættelse-tjensten"
 
-#: data/resources/preferences.ui:95
+#: dialect/preferences.ui:95
 msgid "Translation Shortcut"
 msgstr "Oversættelse Genveje"
 
-#: data/resources/preferences.ui:96
+#: dialect/preferences.ui:96
 msgid "The unselected choice will be used for line break."
 msgstr "Den fravalgt mulighed vil blive brugt for linje-afbrydelse."
 
-#: data/resources/preferences.ui:114
+#: dialect/preferences.ui:114
 msgid "Default to Auto"
 msgstr "Sæt standard til Auto"
 
-#: data/resources/preferences.ui:115
+#: dialect/preferences.ui:115
 msgid "Use \"Auto\" as the default language"
 msgstr "Brug \"Auto\" som standardsprog"
 
-#: data/resources/preferences.ui:122
+#: dialect/preferences.ui:122
 msgid "Appearance"
 msgstr "Udseende"
 
-#: data/resources/preferences.ui:125
+#: dialect/preferences.ui:125
 msgid "Use Custom Font Size"
 msgstr ""
 
-#: data/resources/preferences.ui:126
+#: dialect/preferences.ui:126
 msgid "System font size is used otherwise."
 msgstr ""
 
-#: data/resources/preferences.ui:132
+#: dialect/preferences.ui:132
 #, fuzzy
 msgid "Default Font Size"
 msgstr "Sæt standard til Auto"
 
-#: data/resources/preferences.ui:133
+#: dialect/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
 msgstr ""
 
-#: data/resources/provider-preferences.blp:5
-#: data/resources/provider-preferences.blp:12
-#, fuzzy
-msgid "Provider Preferences"
-msgstr "Åbne Præferencer"
-
-#: data/resources/provider-preferences.blp:21
-msgid "Instance URL"
-msgstr "Instans URL"
-
-#: data/resources/provider-preferences.blp:22
-msgid "Enter an Instance URL for the Provider."
-msgstr "Indtast et Instans URL for denne udbyder."
-
-#: data/resources/provider-preferences.blp:32
-#: data/resources/provider-preferences.blp:62
-msgid "Reset to Default"
-msgstr "Nulstil til standard"
-
-#: data/resources/provider-preferences.blp:52
-msgid "API Key"
-msgstr "API Nøgle"
-
-#: data/resources/provider-preferences.blp:53
-msgid "Enter an API Key for the Provider."
-msgstr "Indtast et API nøgle for denne udbyder."
-
-#: data/resources/provider-preferences.blp:83
-msgid "Character Usage"
-msgstr ""
-
-#: data/resources/shortcuts.blp:13
+#: dialect/shortcuts.blp:13
 msgctxt "shortcuts window"
 msgid "Translator"
 msgstr "Oversættere"
 
-#: data/resources/shortcuts.blp:16
+#: dialect/shortcuts.blp:16
 msgctxt "shortcuts window"
 msgid "Translate"
 msgstr "Oversæt"
 
-#: data/resources/shortcuts.blp:21
+#: dialect/shortcuts.blp:21
 msgctxt "shortcuts window"
 msgid "Switch Languages"
 msgstr "Skift Sprog"
 
-#: data/resources/shortcuts.blp:26
+#: dialect/shortcuts.blp:26
 #, fuzzy
 msgctxt "shortcuts window"
 msgid "Select source language"
 msgstr "Skift kildesprog"
 
-#: data/resources/shortcuts.blp:31
+#: dialect/shortcuts.blp:31
 #, fuzzy
 msgctxt "shortcuts window"
 msgid "Select destination language"
 msgstr "Skrift destinationsprog"
 
-#: data/resources/shortcuts.blp:36
+#: dialect/shortcuts.blp:36
 msgctxt "shortcuts window"
 msgid "Clear source text"
 msgstr "Ryd kildetekst"
 
-#: data/resources/shortcuts.blp:41
+#: dialect/shortcuts.blp:41
 msgctxt "shortcuts window"
 msgid "Copy translation"
 msgstr "Kopi oversættelse"
 
-#: data/resources/shortcuts.blp:46
+#: dialect/shortcuts.blp:46
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
 msgstr "Vis Udtale"
 
-#: data/resources/shortcuts.blp:51
+#: dialect/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
 msgstr ""
 
-#: data/resources/shortcuts.blp:56
+#: dialect/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
 msgstr ""
 
-#: data/resources/shortcuts.blp:62
+#: dialect/shortcuts.blp:62
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
 msgstr "Tekst-til-Tale"
 
-#: data/resources/shortcuts.blp:65
+#: dialect/shortcuts.blp:65
 msgctxt "shortcuts window"
 msgid "Listen to source text"
 msgstr "Lyt til kildetekst"
 
-#: data/resources/shortcuts.blp:70
+#: dialect/shortcuts.blp:70
 msgctxt "shortcuts window"
 msgid "Listen to translation"
 msgstr "Lyt til oversættelse"
 
-#: data/resources/shortcuts.blp:76
+#: dialect/shortcuts.blp:76
 msgctxt "shortcuts window"
 msgid "Navigation"
 msgstr "Navigering"
 
-#: data/resources/shortcuts.blp:79
+#: dialect/shortcuts.blp:79
 msgctxt "shortcuts window"
 msgid "Go back in history"
 msgstr "Gå tilbage I historik"
 
-#: data/resources/shortcuts.blp:84
+#: dialect/shortcuts.blp:84
 msgctxt "shortcuts window"
 msgid "Go forward in history"
 msgstr "Gå frem I historik"
 
-#: data/resources/shortcuts.blp:90
+#: dialect/shortcuts.blp:90
 msgctxt "shortcuts window"
 msgid "General"
 msgstr "Generelt"
 
-#: data/resources/shortcuts.blp:93
+#: dialect/shortcuts.blp:93
 msgctxt "shortcuts window"
 msgid "Preferences"
 msgstr "Præferencer"
 
-#: data/resources/shortcuts.blp:98
+#: dialect/shortcuts.blp:98
 msgctxt "shortcut window"
 msgid "Shortcuts"
 msgstr "Genveje"
 
-#: data/resources/shortcuts.blp:103
+#: dialect/shortcuts.blp:103
 msgctxt "shortcuts window"
 msgid "Quit"
 msgstr "Afslut"
 
-#: data/resources/theme-switcher.blp:20
-msgid "Follow System Style"
-msgstr "Følg Systemstil"
-
-#: data/resources/theme-switcher.blp:35
-msgid "Light Style"
-msgstr "Lysstil"
-
-#: data/resources/theme-switcher.blp:50
-msgid "Dark Style"
-msgstr "Mørkstil"
-
-#: data/resources/window.blp:15
+#: dialect/window.blp:15
 msgid "Show Pronunciation"
 msgstr "Vis udtale"
 
-#: data/resources/window.blp:24 dialect/window.py:1079
+#: dialect/window.blp:24 dialect/window.py:1176
 msgid "Preferences"
 msgstr "Præferencer"
 
-#: data/resources/window.blp:29
+#: dialect/window.blp:29
 msgid "Keyboard Shortcuts"
 msgstr "Tastatur Genveje"
 
-#: data/resources/window.blp:34
+#: dialect/window.blp:34
 msgid "About Dialect"
 msgstr "Om Dialect"
 
-#: data/resources/window.blp:80
+#: dialect/window.blp:68 dialect/widgets/speech_button.py:40
 msgid "Loading…"
 msgstr "Indlæser…"
 
-#: data/resources/window.blp:108 data/resources/window.blp:140
-#: dialect/window.py:490 dialect/window.py:1063 dialect/window.py:1071
-#: dialect/window.py:1087
+#: dialect/window.blp:92 dialect/window.blp:124 dialect/window.py:903
+#: dialect/window.py:1160 dialect/window.py:1168 dialect/window.py:1184
 msgid "Retry"
 msgstr "Prøve igen"
 
-#: data/resources/window.blp:118 data/resources/window.blp:153
-#: data/resources/window.blp:193 data/resources/window.blp:229
+#: dialect/window.blp:102 dialect/window.blp:137 dialect/window.blp:177
+#: dialect/window.blp:213
 msgid "Open Preferences"
 msgstr "Åbne Præferencer"
 
-#: data/resources/window.blp:183 data/resources/window.blp:216
+#: dialect/window.blp:167 dialect/window.blp:200
 msgid "Remove Key and Retry"
 msgstr "Slet nøgle og prøve igen"
 
-#: data/resources/window.blp:260 data/resources/window.blp:582
+#: dialect/window.blp:244 dialect/window.blp:566
 msgid "Change Source Language"
 msgstr "Skift kildesprog"
 
-#: data/resources/window.blp:265 data/resources/window.blp:590
+#: dialect/window.blp:249 dialect/window.blp:574
 msgid "Switch Languages"
 msgstr "Skift Sproge"
 
-#: data/resources/window.blp:272 data/resources/window.blp:598
+#: dialect/window.blp:256 dialect/window.blp:582
 msgid "Change Destination Language"
 msgstr "Skrift destinationsprog"
 
-#: data/resources/window.blp:287
+#: dialect/window.blp:271
 msgid "Previous Translation"
 msgstr "Tidligere oversættelse"
 
-#: data/resources/window.blp:293
+#: dialect/window.blp:277
 msgid "Next Translation"
 msgstr "Næste oversættelse"
 
-#: data/resources/window.blp:300
+#: dialect/window.blp:284
 msgid "Main Menu"
 msgstr "Hovedmenu"
 
-#: data/resources/window.blp:401
+#: dialect/window.blp:385
 msgid "Clear"
 msgstr "Ryd"
 
-#: data/resources/window.blp:407
+#: dialect/window.blp:391
 msgid "Paste"
 msgstr "Sæt ind"
 
-#: data/resources/window.blp:413 data/resources/window.blp:531
+#: dialect/window.blp:397 dialect/window.blp:515
+#: dialect/widgets/speech_button.blp:5 dialect/widgets/speech_button.py:22
 msgid "Listen"
 msgstr "Lyt"
 
-#: data/resources/window.blp:434
+#: dialect/window.blp:418
 msgid "Translate"
 msgstr "Oversæt"
 
-#: data/resources/window.blp:505
+#: dialect/window.blp:489
 msgid "Translating…"
 msgstr "Oversættere…"
 
-#: data/resources/window.blp:510
+#: dialect/window.blp:494
 msgid "Could not Translate the Text"
 msgstr "Kunne ikke oversæt teksten"
 
-#: data/resources/window.blp:517 dialect/search_provider/search_provider.in:174
+#: dialect/window.blp:501 dialect/search_provider/search_provider.in:239
 msgid "Copy"
 msgstr "Kopi"
 
-#: data/resources/window.blp:525
+#: dialect/window.blp:509
 msgid "Suggest Translation"
 msgstr "Foreslå Oversættelse"
 
-#: data/resources/window.blp:549
+#: dialect/window.blp:533
 msgid "Cancel"
 msgstr "Annullere"
 
-#: data/resources/window.blp:556
+#: dialect/window.blp:540
 msgid "Save"
 msgstr "Gemme"
 
-#: dialect/languages.py:61
-msgid "Auto"
-msgstr "Auto"
-
-#: dialect/main.py:187
-msgid "Donate"
-msgstr ""
-
-#: dialect/preferences.py:126
-msgid "Edit Provider Settings"
-msgstr "Ændre udbydernes indstillinger"
-
-#: dialect/preferences.py:128
-msgid "No Settings for This Provider"
-msgstr "Ingen indstillinger for denne udbyder"
-
-#: dialect/window.py:389 dialect/search_provider/search_provider.in:114
+#: dialect/window.py:403 dialect/search_provider/search_provider.in:173
 msgid "Failed loading the translation service"
 msgstr "Kan ikke indlæse oversættelse-tjeneste"
 
-#: dialect/window.py:390
+#: dialect/window.py:404
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
 "Vær sød at anmelde det inden I Dialect softwarefejl-sporeren hvis problemet "
 "fortsættes."
 
-#: dialect/window.py:401
+#: dialect/window.py:415
 msgid "Couldn’t connect to the translation service"
 msgstr "Kan ikke forbinde til oversættelse-tjenesten"
 
-#: dialect/window.py:402
+#: dialect/window.py:416
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
 "Vi kan ikke forbinde til serveren. Være sød at tjekke for problemer med "
 "netværket."
 
-#: dialect/window.py:420 dialect/window.py:1077
-#: dialect/search_provider/search_provider.in:103
+#: dialect/window.py:437 dialect/window.py:1174
+#: dialect/search_provider/search_provider.in:161
 msgid "API key is required to use the service"
 msgstr "API nøgle er krævet til at bruge denne tjenste"
 
-#: dialect/window.py:421
+#: dialect/window.py:438
 msgid "Please set an API key in the preferences."
 msgstr "Vær sød at indsætte en API nøgle inden i præferencerne."
 
-#: dialect/window.py:424 dialect/window.py:1069
-#: dialect/search_provider/search_provider.in:101
+#: dialect/window.py:441 dialect/window.py:1166
+#: dialect/search_provider/search_provider.in:159
 msgid "The provided API key is invalid"
 msgstr "Den forudsat API nøgle er ugyldig"
 
-#: dialect/window.py:426
+#: dialect/window.py:443
 msgid "Please set a valid API key in the preferences."
 msgstr "Vær sød at indsætte et gyldig API nøgle inden i præferencerne."
 
-#: dialect/window.py:429
+#: dialect/window.py:446
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
 "Vær sød at indsætte et gyldig API nøgle eller slette API-nøglen inden I "
 "præferencerne."
 
-#: dialect/window.py:483
-msgid "A network issue has occurred. Retry?"
-msgstr "Et netværksproblem har opstået. Prøv igen?"
+#: dialect/window.py:471
+#, fuzzy
+msgid "Failed loading the text-to-speech service. Retry?"
+msgstr "Kan ikke indlæse oversættelse-tjeneste"
 
-#: dialect/window.py:496
-msgid "A network issue has occurred. Please try again."
-msgstr "Et netværksproblem har opstået. Vær sød at prøve igen."
+#: dialect/window.py:472
+#, fuzzy
+msgid "Failed loading the text-to-speech service"
+msgstr "Kan ikke indlæse oversættelse-tjeneste"
 
-#: dialect/window.py:775
+#: dialect/window.py:474
+#, fuzzy
+msgid "Failed loading the text-to-speech service, check for network issues"
+msgstr ""
+"Vi kan ikke forbinde til serveren. Være sød at tjekke for problemer med "
+"netværket."
+
+#: dialect/window.py:766
+#, fuzzy
+msgid "Copied to clipboard"
+msgstr "Kopi oversættelse"
+
+#: dialect/window.py:791
 msgid "New translation has been suggested!"
 msgstr "Nyt oversættelse har blevet forslået!"
 
-#: dialect/window.py:777 dialect/window.py:783
+#: dialect/window.py:793 dialect/window.py:799
 msgid "Suggestion failed."
 msgstr "Forslag mislykkeds."
 
+#: dialect/window.py:894
+#, fuzzy
+msgid "Text-to-Speech failed"
+msgstr "Tekst-til-tale"
+
+#: dialect/window.py:898
+#, fuzzy
+msgid "Text-to-Speech failed, check for network issues"
+msgstr "Oversættelse mislykkedes, tjek for problemer med netværket"
+
 #: dialect/window.py:907
+#, fuzzy
+msgid "Text-to-Speech failed. Retry?"
+msgstr "Tekst-til-tale"
+
+#: dialect/window.py:1002
 msgid "{} characters limit reached!"
 msgstr "{} bogstaver grænse nået!"
 
-#: dialect/window.py:1023
+#: dialect/window.py:1123
 msgid "Did you mean: "
 msgstr "Mente du: "
 
-#: dialect/window.py:1061 dialect/search_provider/search_provider.in:99
+#: dialect/window.py:1158 dialect/search_provider/search_provider.in:157
 msgid "Translation failed, check for network issues"
 msgstr "Oversættelse mislykkedes, tjek for problemer med netværket"
 
-#: dialect/window.py:1085 dialect/search_provider/search_provider.in:105
+#: dialect/window.py:1182 dialect/search_provider/search_provider.in:163
 msgid "Translation failed"
 msgstr "Oversættelse mislykkedes"
 
-#: dialect/search_provider/search_provider.in:129
+#: dialect/widgets/lang_selector.blp:47
+msgid "Search Languages…"
+msgstr "Skift Sproge…"
+
+#: dialect/widgets/provider_preferences.blp:5
+#: dialect/widgets/provider_preferences.blp:12
+#, fuzzy
+msgid "Provider Preferences"
+msgstr "Åbne Præferencer"
+
+#: dialect/widgets/provider_preferences.blp:21
+msgid "Instance URL"
+msgstr "Instans URL"
+
+#: dialect/widgets/provider_preferences.blp:22
+msgid "Enter an Instance URL for the Provider."
+msgstr "Indtast et Instans URL for denne udbyder."
+
+#: dialect/widgets/provider_preferences.blp:32
+#: dialect/widgets/provider_preferences.blp:62
+msgid "Reset to Default"
+msgstr "Nulstil til standard"
+
+#: dialect/widgets/provider_preferences.blp:52
+msgid "API Key"
+msgstr "API Nøgle"
+
+#: dialect/widgets/provider_preferences.blp:53
+msgid "Enter an API Key for the Provider."
+msgstr "Indtast et API nøgle for denne udbyder."
+
+#: dialect/widgets/provider_preferences.blp:83
+msgid "Character Usage"
+msgstr ""
+
+#: dialect/widgets/speech_button.py:28
+#, fuzzy
+msgid "Cancel Audio"
+msgstr "Annullere"
+
+#: dialect/widgets/theme_switcher.blp:20
+msgid "Follow System Style"
+msgstr "Følg Systemstil"
+
+#: dialect/widgets/theme_switcher.blp:35
+msgid "Light Style"
+msgstr "Lysstil"
+
+#: dialect/widgets/theme_switcher.blp:50
+msgid "Dark Style"
+msgstr "Mørkstil"
+
+#: dialect/search_provider/search_provider.in:189
 msgid "Translate “{text}” with {provider_name}"
 msgstr ""
 
-#: dialect/search_provider/search_provider.in:175
+#: dialect/search_provider/search_provider.in:240
 #, fuzzy
 msgid "Copy translation to clipboard"
 msgstr "Kopi oversættelse"
+
+#~ msgid "A network issue has occurred. Retry?"
+#~ msgstr "Et netværksproblem har opstået. Prøv igen?"
+
+#~ msgid "A network issue has occurred. Please try again."
+#~ msgstr "Et netværksproblem har opstået. Vær sød at prøve igen."
 
 #~ msgid "translate;translation;"
 #~ msgstr "oversæt;oversættelse;"

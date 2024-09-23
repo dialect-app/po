@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-24 13:08-0500\n"
+"POT-Creation-Date: 2024-09-23 08:40-0500\n"
 "PO-Revision-Date: 2024-06-12 05:09+0000\n"
 "Last-Translator: hugoalh <hugoalh@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
@@ -21,8 +21,8 @@ msgstr ""
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
-#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:5
-#: data/resources/window.blp:280 dialect/main.py:72
+#: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:74
+#: dialect/window.blp:264
 msgid "Dialect"
 msgstr "Dialect"
 
@@ -41,7 +41,8 @@ msgstr ""
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate;翻"
 "譯; "
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
+#. For development version
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:186
 msgid "A translation app for GNOME."
 msgstr "GNOME 的翻譯應用程式。"
 
@@ -93,435 +94,473 @@ msgid "Clipboard buttons"
 msgstr "剪貼簿按鈕"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/app.drey.Dialect.metainfo.xml.in.in:34
-#: data/app.drey.Dialect.metainfo.xml.in.in:36 data/resources/about.blp:6
+#: data/app.drey.Dialect.metainfo.xml.in.in:35
+#: data/app.drey.Dialect.metainfo.xml.in.in:37
 msgid "The Dialect Authors"
 msgstr "Dialect 作者"
 
-#: data/resources/about.blp:7
-msgid "Copyright 2020–⁠2023 The Dialect Authors"
-msgstr "版權所有 2020–⁠2023 Dialect 作者"
-
-#. Translators: Replace me with your names.
-#: data/resources/about.blp:15
-msgid "translator-credits"
-msgstr "hugoalh"
-
-#: data/resources/lang-selector.blp:47
-msgid "Search Languages…"
-msgstr "搜尋語言…"
-
-#: data/resources/preferences.ui:8
-msgid "Providers"
-msgstr "提供者"
-
-#: data/resources/preferences.ui:11
-msgid "Translator"
-msgstr "翻譯者"
-
-#: data/resources/preferences.ui:12
-msgid "Choose from the available translation services."
-msgstr "從可用的翻譯服務中進行選擇。"
-
-#: data/resources/preferences.ui:43
-msgid "Text-to-Speech"
-msgstr "文字轉語音"
-
-#: data/resources/preferences.ui:44
-msgid "Choose from the available TTS services."
-msgstr "從可用的文字轉語音服務中進行選擇。"
-
-#: data/resources/preferences.ui:77
-msgid "Behavior"
-msgstr "行為"
-
-#: data/resources/preferences.ui:80
-msgid "Live Translation"
-msgstr "即時翻譯"
-
-#: data/resources/preferences.ui:81
-msgid "Warning: Your IP address may get banned for API abuse."
-msgstr "警告：你的 IP 位址可能會因為 API 濫用而被禁止。"
-
-#: data/resources/preferences.ui:87
-msgid "Show Translations in Desktop Search"
-msgstr "在桌面搜尋中顯示翻譯"
-
-#: data/resources/preferences.ui:88
-msgid "Warning: All desktop searches will be sent to the translation service"
-msgstr "警告：所有桌面搜尋都將會傳送至翻譯服務"
-
-#: data/resources/preferences.ui:95
-msgid "Translation Shortcut"
-msgstr "翻譯捷徑"
-
-#: data/resources/preferences.ui:96
-msgid "The unselected choice will be used for line break."
-msgstr "未選取的選項將會用於換行。"
-
-#: data/resources/preferences.ui:114
-msgid "Default to Auto"
-msgstr "預設為自動"
-
-#: data/resources/preferences.ui:115
-msgid "Use \"Auto\" as the default language"
-msgstr "使用「自動」作為預設語言"
-
-#: data/resources/preferences.ui:122
-msgid "Appearance"
-msgstr "外觀"
-
-#: data/resources/preferences.ui:125
-msgid "Use Custom Font Size"
-msgstr "使用自訂字體大小"
-
-#: data/resources/preferences.ui:126
-msgid "System font size is used otherwise."
-msgstr "否則使用系統字體大小。"
-
-#: data/resources/preferences.ui:132
-msgid "Default Font Size"
-msgstr "預設字體大小"
-
-#: data/resources/preferences.ui:133
-msgid "Changing the size via shortcuts does not overwrite this."
-msgstr "透過捷徑變更大小不會覆寫它。"
-
-#: data/resources/provider-preferences.blp:5
-#: data/resources/provider-preferences.blp:12
-msgid "Provider Preferences"
-msgstr "提供者偏好設定"
-
-#: data/resources/provider-preferences.blp:21
-msgid "Instance URL"
-msgstr "實例網址"
-
-#: data/resources/provider-preferences.blp:22
-msgid "Enter an Instance URL for the Provider."
-msgstr "輸入提供者的實例網址。"
-
-#: data/resources/provider-preferences.blp:32
-#: data/resources/provider-preferences.blp:62
-msgid "Reset to Default"
-msgstr "重置為預設"
-
-#: data/resources/provider-preferences.blp:52
-msgid "API Key"
-msgstr "API 金鑰"
-
-#: data/resources/provider-preferences.blp:53
-msgid "Enter an API Key for the Provider."
-msgstr "輸入提供者的 API 金鑰。"
-
-#: data/resources/provider-preferences.blp:83
-msgid "Character Usage"
-msgstr "字元使用情況"
-
-#: data/resources/shortcuts.blp:13
-msgctxt "shortcuts window"
-msgid "Translator"
-msgstr "翻譯者"
-
-#: data/resources/shortcuts.blp:16
-msgctxt "shortcuts window"
-msgid "Translate"
-msgstr "翻譯"
-
-#: data/resources/shortcuts.blp:21
-msgctxt "shortcuts window"
-msgid "Switch Languages"
-msgstr "切換語言"
-
-#: data/resources/shortcuts.blp:26
-msgctxt "shortcuts window"
-msgid "Select source language"
-msgstr "選擇來源語言"
-
-#: data/resources/shortcuts.blp:31
-msgctxt "shortcuts window"
-msgid "Select destination language"
-msgstr "選擇目標語言"
-
-#: data/resources/shortcuts.blp:36
-msgctxt "shortcuts window"
-msgid "Clear source text"
-msgstr "清除來源文字"
-
-#: data/resources/shortcuts.blp:41
-msgctxt "shortcuts window"
-msgid "Copy translation"
-msgstr "複製翻譯"
-
-#: data/resources/shortcuts.blp:46
-msgctxt "shortcuts window"
-msgid "Show Pronunciation"
-msgstr "顯示發音"
-
-#: data/resources/shortcuts.blp:51
-msgctxt "shortcuts window"
-msgid "Increase font size"
-msgstr "增加字體大小"
-
-#: data/resources/shortcuts.blp:56
-msgctxt "shortcuts window"
-msgid "Decrease font size"
-msgstr "減少字體大小"
-
-#: data/resources/shortcuts.blp:62
-msgctxt "shortcuts window"
-msgid "Text-to-Speech"
-msgstr "文字轉語音"
-
-#: data/resources/shortcuts.blp:65
-msgctxt "shortcuts window"
-msgid "Listen to source text"
-msgstr "聆聽來源文字"
-
-#: data/resources/shortcuts.blp:70
-msgctxt "shortcuts window"
-msgid "Listen to translation"
-msgstr "聆聽翻譯"
-
-#: data/resources/shortcuts.blp:76
-msgctxt "shortcuts window"
-msgid "Navigation"
-msgstr "導航"
-
-#: data/resources/shortcuts.blp:79
-msgctxt "shortcuts window"
-msgid "Go back in history"
-msgstr ""
-
-#: data/resources/shortcuts.blp:84
-msgctxt "shortcuts window"
-msgid "Go forward in history"
-msgstr ""
-
-#: data/resources/shortcuts.blp:90
-msgctxt "shortcuts window"
-msgid "General"
-msgstr "一般"
-
-#: data/resources/shortcuts.blp:93
-msgctxt "shortcuts window"
-msgid "Preferences"
-msgstr "偏好設定"
-
-#: data/resources/shortcuts.blp:98
-msgctxt "shortcut window"
-msgid "Shortcuts"
-msgstr "捷徑"
-
-#: data/resources/shortcuts.blp:103
-msgctxt "shortcuts window"
-msgid "Quit"
-msgstr "退出"
-
-#: data/resources/theme-switcher.blp:20
-msgid "Follow System Style"
-msgstr "跟隨系統樣式"
-
-#: data/resources/theme-switcher.blp:35
-msgid "Light Style"
-msgstr "淺色樣式"
-
-#: data/resources/theme-switcher.blp:50
-msgid "Dark Style"
-msgstr "深色樣式"
-
-#: data/resources/window.blp:15
-msgid "Show Pronunciation"
-msgstr "顯示發音"
-
-#: data/resources/window.blp:24 dialect/window.py:1079
-msgid "Preferences"
-msgstr "偏好設定"
-
-#: data/resources/window.blp:29
-msgid "Keyboard Shortcuts"
-msgstr "鍵盤快捷鍵"
-
-#: data/resources/window.blp:34
-msgid "About Dialect"
-msgstr "關於 Dialect"
-
-#: data/resources/window.blp:80
-msgid "Loading…"
-msgstr "載入中…"
-
-#: data/resources/window.blp:108 data/resources/window.blp:140
-#: dialect/window.py:490 dialect/window.py:1063 dialect/window.py:1071
-#: dialect/window.py:1087
-msgid "Retry"
-msgstr "重試"
-
-#: data/resources/window.blp:118 data/resources/window.blp:153
-#: data/resources/window.blp:193 data/resources/window.blp:229
-msgid "Open Preferences"
-msgstr "開啟偏好設定"
-
-#: data/resources/window.blp:183 data/resources/window.blp:216
-msgid "Remove Key and Retry"
-msgstr "刪除金鑰並重試"
-
-#: data/resources/window.blp:260 data/resources/window.blp:582
-msgid "Change Source Language"
-msgstr "變更來源語言"
-
-#: data/resources/window.blp:265 data/resources/window.blp:590
-msgid "Switch Languages"
-msgstr "切換語言"
-
-#: data/resources/window.blp:272 data/resources/window.blp:598
-msgid "Change Destination Language"
-msgstr "變更目標語言"
-
-#: data/resources/window.blp:287
-msgid "Previous Translation"
-msgstr "上一個翻譯"
-
-#: data/resources/window.blp:293
-msgid "Next Translation"
-msgstr "下一個翻譯"
-
-#: data/resources/window.blp:300
-msgid "Main Menu"
-msgstr "主選單"
-
-#: data/resources/window.blp:401
-msgid "Clear"
-msgstr "清除"
-
-#: data/resources/window.blp:407
-msgid "Paste"
-msgstr "貼上"
-
-#: data/resources/window.blp:413 data/resources/window.blp:531
-msgid "Listen"
-msgstr "聆聽"
-
-#: data/resources/window.blp:434
-msgid "Translate"
-msgstr "翻譯"
-
-#: data/resources/window.blp:505
-msgid "Translating…"
-msgstr "正在翻譯…"
-
-#: data/resources/window.blp:510
-msgid "Could not Translate the Text"
-msgstr "無法翻譯文字"
-
-#: data/resources/window.blp:517 dialect/search_provider/search_provider.in:174
-msgid "Copy"
-msgstr "複製"
-
-#: data/resources/window.blp:525
-msgid "Suggest Translation"
-msgstr "建議翻譯"
-
-#: data/resources/window.blp:549
-msgid "Cancel"
-msgstr "取消"
-
-#: data/resources/window.blp:556
-msgid "Save"
-msgstr "儲存"
-
-#: dialect/languages.py:61
+#: dialect/languages.py:63 dialect/widgets/lang_selector.py:84
 msgid "Auto"
 msgstr "自動"
 
 #: dialect/main.py:187
+#, fuzzy
+msgid "Copyright 2020–⁠2024 The Dialect Authors"
+msgstr "版權所有 2020–⁠2023 Dialect 作者"
+
+#: dialect/main.py:189
+msgid "translator-credits"
+msgstr "hugoalh"
+
+#: dialect/main.py:190
 msgid "Donate"
 msgstr "捐贈"
 
-#: dialect/preferences.py:126
+#: dialect/preferences.py:132
 msgid "Edit Provider Settings"
 msgstr "編輯提供者設定"
 
-#: dialect/preferences.py:128
+#: dialect/preferences.py:134
 msgid "No Settings for This Provider"
 msgstr "此提供者沒有設定"
 
-#: dialect/window.py:389 dialect/search_provider/search_provider.in:114
+#: dialect/preferences.ui:8
+msgid "Providers"
+msgstr "提供者"
+
+#: dialect/preferences.ui:11
+msgid "Translator"
+msgstr "翻譯者"
+
+#: dialect/preferences.ui:12
+msgid "Choose from the available translation services."
+msgstr "從可用的翻譯服務中進行選擇。"
+
+#: dialect/preferences.ui:43
+msgid "Text-to-Speech"
+msgstr "文字轉語音"
+
+#: dialect/preferences.ui:44
+msgid "Choose from the available TTS services."
+msgstr "從可用的文字轉語音服務中進行選擇。"
+
+#: dialect/preferences.ui:77
+msgid "Behavior"
+msgstr "行為"
+
+#: dialect/preferences.ui:80
+msgid "Live Translation"
+msgstr "即時翻譯"
+
+#: dialect/preferences.ui:81
+msgid "Warning: Your IP address may get banned for API abuse."
+msgstr "警告：你的 IP 位址可能會因為 API 濫用而被禁止。"
+
+#: dialect/preferences.ui:87
+msgid "Show Translations in Desktop Search"
+msgstr "在桌面搜尋中顯示翻譯"
+
+#: dialect/preferences.ui:88
+msgid "Warning: All desktop searches will be sent to the translation service"
+msgstr "警告：所有桌面搜尋都將會傳送至翻譯服務"
+
+#: dialect/preferences.ui:95
+msgid "Translation Shortcut"
+msgstr "翻譯捷徑"
+
+#: dialect/preferences.ui:96
+msgid "The unselected choice will be used for line break."
+msgstr "未選取的選項將會用於換行。"
+
+#: dialect/preferences.ui:114
+msgid "Default to Auto"
+msgstr "預設為自動"
+
+#: dialect/preferences.ui:115
+msgid "Use \"Auto\" as the default language"
+msgstr "使用「自動」作為預設語言"
+
+#: dialect/preferences.ui:122
+msgid "Appearance"
+msgstr "外觀"
+
+#: dialect/preferences.ui:125
+msgid "Use Custom Font Size"
+msgstr "使用自訂字體大小"
+
+#: dialect/preferences.ui:126
+msgid "System font size is used otherwise."
+msgstr "否則使用系統字體大小。"
+
+#: dialect/preferences.ui:132
+msgid "Default Font Size"
+msgstr "預設字體大小"
+
+#: dialect/preferences.ui:133
+msgid "Changing the size via shortcuts does not overwrite this."
+msgstr "透過捷徑變更大小不會覆寫它。"
+
+#: dialect/shortcuts.blp:13
+msgctxt "shortcuts window"
+msgid "Translator"
+msgstr "翻譯者"
+
+#: dialect/shortcuts.blp:16
+msgctxt "shortcuts window"
+msgid "Translate"
+msgstr "翻譯"
+
+#: dialect/shortcuts.blp:21
+msgctxt "shortcuts window"
+msgid "Switch Languages"
+msgstr "切換語言"
+
+#: dialect/shortcuts.blp:26
+msgctxt "shortcuts window"
+msgid "Select source language"
+msgstr "選擇來源語言"
+
+#: dialect/shortcuts.blp:31
+msgctxt "shortcuts window"
+msgid "Select destination language"
+msgstr "選擇目標語言"
+
+#: dialect/shortcuts.blp:36
+msgctxt "shortcuts window"
+msgid "Clear source text"
+msgstr "清除來源文字"
+
+#: dialect/shortcuts.blp:41
+msgctxt "shortcuts window"
+msgid "Copy translation"
+msgstr "複製翻譯"
+
+#: dialect/shortcuts.blp:46
+msgctxt "shortcuts window"
+msgid "Show Pronunciation"
+msgstr "顯示發音"
+
+#: dialect/shortcuts.blp:51
+msgctxt "shortcuts window"
+msgid "Increase font size"
+msgstr "增加字體大小"
+
+#: dialect/shortcuts.blp:56
+msgctxt "shortcuts window"
+msgid "Decrease font size"
+msgstr "減少字體大小"
+
+#: dialect/shortcuts.blp:62
+msgctxt "shortcuts window"
+msgid "Text-to-Speech"
+msgstr "文字轉語音"
+
+#: dialect/shortcuts.blp:65
+msgctxt "shortcuts window"
+msgid "Listen to source text"
+msgstr "聆聽來源文字"
+
+#: dialect/shortcuts.blp:70
+msgctxt "shortcuts window"
+msgid "Listen to translation"
+msgstr "聆聽翻譯"
+
+#: dialect/shortcuts.blp:76
+msgctxt "shortcuts window"
+msgid "Navigation"
+msgstr "導航"
+
+#: dialect/shortcuts.blp:79
+msgctxt "shortcuts window"
+msgid "Go back in history"
+msgstr ""
+
+#: dialect/shortcuts.blp:84
+msgctxt "shortcuts window"
+msgid "Go forward in history"
+msgstr ""
+
+#: dialect/shortcuts.blp:90
+msgctxt "shortcuts window"
+msgid "General"
+msgstr "一般"
+
+#: dialect/shortcuts.blp:93
+msgctxt "shortcuts window"
+msgid "Preferences"
+msgstr "偏好設定"
+
+#: dialect/shortcuts.blp:98
+msgctxt "shortcut window"
+msgid "Shortcuts"
+msgstr "捷徑"
+
+#: dialect/shortcuts.blp:103
+msgctxt "shortcuts window"
+msgid "Quit"
+msgstr "退出"
+
+#: dialect/window.blp:15
+msgid "Show Pronunciation"
+msgstr "顯示發音"
+
+#: dialect/window.blp:24 dialect/window.py:1176
+msgid "Preferences"
+msgstr "偏好設定"
+
+#: dialect/window.blp:29
+msgid "Keyboard Shortcuts"
+msgstr "鍵盤快捷鍵"
+
+#: dialect/window.blp:34
+msgid "About Dialect"
+msgstr "關於 Dialect"
+
+#: dialect/window.blp:68 dialect/widgets/speech_button.py:40
+msgid "Loading…"
+msgstr "載入中…"
+
+#: dialect/window.blp:92 dialect/window.blp:124 dialect/window.py:903
+#: dialect/window.py:1160 dialect/window.py:1168 dialect/window.py:1184
+msgid "Retry"
+msgstr "重試"
+
+#: dialect/window.blp:102 dialect/window.blp:137 dialect/window.blp:177
+#: dialect/window.blp:213
+msgid "Open Preferences"
+msgstr "開啟偏好設定"
+
+#: dialect/window.blp:167 dialect/window.blp:200
+msgid "Remove Key and Retry"
+msgstr "刪除金鑰並重試"
+
+#: dialect/window.blp:244 dialect/window.blp:566
+msgid "Change Source Language"
+msgstr "變更來源語言"
+
+#: dialect/window.blp:249 dialect/window.blp:574
+msgid "Switch Languages"
+msgstr "切換語言"
+
+#: dialect/window.blp:256 dialect/window.blp:582
+msgid "Change Destination Language"
+msgstr "變更目標語言"
+
+#: dialect/window.blp:271
+msgid "Previous Translation"
+msgstr "上一個翻譯"
+
+#: dialect/window.blp:277
+msgid "Next Translation"
+msgstr "下一個翻譯"
+
+#: dialect/window.blp:284
+msgid "Main Menu"
+msgstr "主選單"
+
+#: dialect/window.blp:385
+msgid "Clear"
+msgstr "清除"
+
+#: dialect/window.blp:391
+msgid "Paste"
+msgstr "貼上"
+
+#: dialect/window.blp:397 dialect/window.blp:515
+#: dialect/widgets/speech_button.blp:5 dialect/widgets/speech_button.py:22
+msgid "Listen"
+msgstr "聆聽"
+
+#: dialect/window.blp:418
+msgid "Translate"
+msgstr "翻譯"
+
+#: dialect/window.blp:489
+msgid "Translating…"
+msgstr "正在翻譯…"
+
+#: dialect/window.blp:494
+msgid "Could not Translate the Text"
+msgstr "無法翻譯文字"
+
+#: dialect/window.blp:501 dialect/search_provider/search_provider.in:239
+msgid "Copy"
+msgstr "複製"
+
+#: dialect/window.blp:509
+msgid "Suggest Translation"
+msgstr "建議翻譯"
+
+#: dialect/window.blp:533
+msgid "Cancel"
+msgstr "取消"
+
+#: dialect/window.blp:540
+msgid "Save"
+msgstr "儲存"
+
+#: dialect/window.py:403 dialect/search_provider/search_provider.in:173
 msgid "Failed loading the translation service"
 msgstr "載入翻譯服務失敗"
 
-#: dialect/window.py:390
+#: dialect/window.py:404
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr "如果問題仍然存在，請在 Dialect 錯誤追蹤器中報告此問題。"
 
-#: dialect/window.py:401
+#: dialect/window.py:415
 msgid "Couldn’t connect to the translation service"
 msgstr "無法連接至翻譯服務"
 
-#: dialect/window.py:402
+#: dialect/window.py:416
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr "我們無法連接至伺服器。請檢查是否為網路問題。"
 
-#: dialect/window.py:420 dialect/window.py:1077
-#: dialect/search_provider/search_provider.in:103
+#: dialect/window.py:437 dialect/window.py:1174
+#: dialect/search_provider/search_provider.in:161
 msgid "API key is required to use the service"
 msgstr "使用該服務需要 API 金鑰"
 
-#: dialect/window.py:421
+#: dialect/window.py:438
 msgid "Please set an API key in the preferences."
 msgstr "請在偏好設定中設定 API 金鑰。"
 
-#: dialect/window.py:424 dialect/window.py:1069
-#: dialect/search_provider/search_provider.in:101
+#: dialect/window.py:441 dialect/window.py:1166
+#: dialect/search_provider/search_provider.in:159
 msgid "The provided API key is invalid"
 msgstr "提供的 API 金鑰無效"
 
-#: dialect/window.py:426
+#: dialect/window.py:443
 msgid "Please set a valid API key in the preferences."
 msgstr "請在偏好設定中設定有效的 API 金鑰。"
 
-#: dialect/window.py:429
+#: dialect/window.py:446
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr "請在偏好設定中設定有效的 API 金鑰或取消設定 API 金鑰。"
 
-#: dialect/window.py:483
-msgid "A network issue has occurred. Retry?"
-msgstr "出現網路問題。重試？"
+#: dialect/window.py:471
+#, fuzzy
+msgid "Failed loading the text-to-speech service. Retry?"
+msgstr "載入翻譯服務失敗"
 
-#: dialect/window.py:496
-msgid "A network issue has occurred. Please try again."
-msgstr "出現網路問題。請再試一次。"
+#: dialect/window.py:472
+#, fuzzy
+msgid "Failed loading the text-to-speech service"
+msgstr "載入翻譯服務失敗"
 
-#: dialect/window.py:775
+#: dialect/window.py:474
+#, fuzzy
+msgid "Failed loading the text-to-speech service, check for network issues"
+msgstr "我們無法連接至伺服器。請檢查是否為網路問題。"
+
+#: dialect/window.py:766
+#, fuzzy
+msgid "Copied to clipboard"
+msgstr "複製翻譯"
+
+#: dialect/window.py:791
 msgid "New translation has been suggested!"
 msgstr "已建議新的翻譯！"
 
-#: dialect/window.py:777 dialect/window.py:783
+#: dialect/window.py:793 dialect/window.py:799
 msgid "Suggestion failed."
 msgstr "建議失敗。"
 
+#: dialect/window.py:894
+#, fuzzy
+msgid "Text-to-Speech failed"
+msgstr "文字轉語音"
+
+#: dialect/window.py:898
+#, fuzzy
+msgid "Text-to-Speech failed, check for network issues"
+msgstr "翻譯失敗，請檢查是否為網路問題"
+
 #: dialect/window.py:907
+#, fuzzy
+msgid "Text-to-Speech failed. Retry?"
+msgstr "文字轉語音"
+
+#: dialect/window.py:1002
 msgid "{} characters limit reached!"
 msgstr "已達到 {} 個字元限制！"
 
-#: dialect/window.py:1023
+#: dialect/window.py:1123
 msgid "Did you mean: "
 msgstr "你的意思是： "
 
-#: dialect/window.py:1061 dialect/search_provider/search_provider.in:99
+#: dialect/window.py:1158 dialect/search_provider/search_provider.in:157
 msgid "Translation failed, check for network issues"
 msgstr "翻譯失敗，請檢查是否為網路問題"
 
-#: dialect/window.py:1085 dialect/search_provider/search_provider.in:105
+#: dialect/window.py:1182 dialect/search_provider/search_provider.in:163
 msgid "Translation failed"
 msgstr "翻譯失敗"
 
-#: dialect/search_provider/search_provider.in:129
+#: dialect/widgets/lang_selector.blp:47
+msgid "Search Languages…"
+msgstr "搜尋語言…"
+
+#: dialect/widgets/provider_preferences.blp:5
+#: dialect/widgets/provider_preferences.blp:12
+msgid "Provider Preferences"
+msgstr "提供者偏好設定"
+
+#: dialect/widgets/provider_preferences.blp:21
+msgid "Instance URL"
+msgstr "實例網址"
+
+#: dialect/widgets/provider_preferences.blp:22
+msgid "Enter an Instance URL for the Provider."
+msgstr "輸入提供者的實例網址。"
+
+#: dialect/widgets/provider_preferences.blp:32
+#: dialect/widgets/provider_preferences.blp:62
+msgid "Reset to Default"
+msgstr "重置為預設"
+
+#: dialect/widgets/provider_preferences.blp:52
+msgid "API Key"
+msgstr "API 金鑰"
+
+#: dialect/widgets/provider_preferences.blp:53
+msgid "Enter an API Key for the Provider."
+msgstr "輸入提供者的 API 金鑰。"
+
+#: dialect/widgets/provider_preferences.blp:83
+msgid "Character Usage"
+msgstr "字元使用情況"
+
+#: dialect/widgets/speech_button.py:28
+#, fuzzy
+msgid "Cancel Audio"
+msgstr "取消"
+
+#: dialect/widgets/theme_switcher.blp:20
+msgid "Follow System Style"
+msgstr "跟隨系統樣式"
+
+#: dialect/widgets/theme_switcher.blp:35
+msgid "Light Style"
+msgstr "淺色樣式"
+
+#: dialect/widgets/theme_switcher.blp:50
+msgid "Dark Style"
+msgstr "深色樣式"
+
+#: dialect/search_provider/search_provider.in:189
 msgid "Translate “{text}” with {provider_name}"
 msgstr ""
 
-#: dialect/search_provider/search_provider.in:175
+#: dialect/search_provider/search_provider.in:240
 #, fuzzy
 msgid "Copy translation to clipboard"
 msgstr "複製翻譯"
+
+#~ msgid "A network issue has occurred. Retry?"
+#~ msgstr "出現網路問題。重試？"
+
+#~ msgid "A network issue has occurred. Please try again."
+#~ msgstr "出現網路問題。請再試一次。"
 
 #~ msgid "translate;translation;"
 #~ msgstr "翻譯;"

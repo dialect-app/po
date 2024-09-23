@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-24 13:08-0500\n"
+"POT-Creation-Date: 2024-09-23 08:40-0500\n"
 "PO-Revision-Date: 2024-02-18 06:02+0000\n"
 "Last-Translator: Ritam Saha <ritamsaha00@gmail.com>\n"
 "Language-Team: Bengali <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -21,8 +21,8 @@ msgstr ""
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
-#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:5
-#: data/resources/window.blp:280 dialect/main.py:72
+#: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:74
+#: dialect/window.blp:264
 msgid "Dialect"
 msgstr "ডায়ালেক্ট"
 
@@ -38,7 +38,8 @@ msgid ""
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
+#. For development version
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:186
 msgid "A translation app for GNOME."
 msgstr "জিনোমের জন্য একটি অনুবাদক অ্যাপ।"
 
@@ -97,467 +98,508 @@ msgid "Clipboard buttons"
 msgstr "ক্লিপবোর্ড বাটন"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/app.drey.Dialect.metainfo.xml.in.in:34
-#: data/app.drey.Dialect.metainfo.xml.in.in:36 data/resources/about.blp:6
+#: data/app.drey.Dialect.metainfo.xml.in.in:35
+#: data/app.drey.Dialect.metainfo.xml.in.in:37
 msgid "The Dialect Authors"
 msgstr "দি ডায়ালেক্ট অথর্স"
 
-#: data/resources/about.blp:7
+#: dialect/languages.py:63 dialect/widgets/lang_selector.py:84
+msgid "Auto"
+msgstr "অটো"
+
+#: dialect/main.py:187
 #, fuzzy
-msgid "Copyright 2020–⁠2023 The Dialect Authors"
+msgid "Copyright 2020–⁠2024 The Dialect Authors"
 msgstr "কপিরাইট ২০২০-২০২১ ডায়ালেক্ট অথর্স"
 
-#. Translators: Replace me with your names.
-#: data/resources/about.blp:15
+#: dialect/main.py:189
 msgid "translator-credits"
 msgstr "অনুবাদক-ক্রেডিট"
 
-#: data/resources/lang-selector.blp:47
-#, fuzzy
-msgid "Search Languages…"
-msgstr "ভাষা পাল্টান"
+#: dialect/main.py:190
+msgid "Donate"
+msgstr ""
 
-#: data/resources/preferences.ui:8
+#: dialect/preferences.py:132
+msgid "Edit Provider Settings"
+msgstr ""
+
+#: dialect/preferences.py:134
+msgid "No Settings for This Provider"
+msgstr ""
+
+#: dialect/preferences.ui:8
 #, fuzzy
 msgid "Providers"
 msgstr "সার্চ প্রোভাইডার"
 
-#: data/resources/preferences.ui:11
+#: dialect/preferences.ui:11
 msgid "Translator"
 msgstr "অনুবাদক"
 
-#: data/resources/preferences.ui:12
+#: dialect/preferences.ui:12
 msgid "Choose from the available translation services."
 msgstr "এখানে উপলব্ধ অনুবাদ পরিষেবাগুলি থেকে বেছে নিন৷"
 
-#: data/resources/preferences.ui:43
+#: dialect/preferences.ui:43
 msgid "Text-to-Speech"
 msgstr "টেক্সট-টু-স্পীচ"
 
-#: data/resources/preferences.ui:44
+#: dialect/preferences.ui:44
 #, fuzzy
 msgid "Choose from the available TTS services."
 msgstr "এখানে উপলব্ধ অনুবাদ পরিষেবাগুলি থেকে বেছে নিন৷"
 
-#: data/resources/preferences.ui:77
+#: dialect/preferences.ui:77
 msgid "Behavior"
 msgstr "আচরণ"
 
-#: data/resources/preferences.ui:80
+#: dialect/preferences.ui:80
 msgid "Live Translation"
 msgstr "লাইভ অনুবাদ"
 
-#: data/resources/preferences.ui:81
+#: dialect/preferences.ui:81
 msgid "Warning: Your IP address may get banned for API abuse."
 msgstr "সতর্কতা: API অপব্যবহারের জন্য আপনার IP অ্যাড্রেস নিষিদ্ধ হতে পারে।"
 
-#: data/resources/preferences.ui:87
+#: dialect/preferences.ui:87
 #, fuzzy
 msgid "Show Translations in Desktop Search"
 msgstr "অনুবাদের ইতিহাস"
 
-#: data/resources/preferences.ui:88
+#: dialect/preferences.ui:88
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr ""
 
-#: data/resources/preferences.ui:95
+#: dialect/preferences.ui:95
 msgid "Translation Shortcut"
 msgstr "অনুবাদ শর্টকাট"
 
-#: data/resources/preferences.ui:96
+#: dialect/preferences.ui:96
 msgid "The unselected choice will be used for line break."
 msgstr "অনির্বাচিত পছন্দগুলি লাইন বিরতির জন্য ব্যবহার করা হবে।"
 
-#: data/resources/preferences.ui:114
+#: dialect/preferences.ui:114
 msgid "Default to Auto"
 msgstr "অটোতে ডিফল্ট সেট করুন"
 
-#: data/resources/preferences.ui:115
+#: dialect/preferences.ui:115
 msgid "Use \"Auto\" as the default language"
 msgstr "“অটো” কে ডিফল্ট ভাষা হিসাবে ব্যবহার করুন"
 
-#: data/resources/preferences.ui:122
+#: dialect/preferences.ui:122
 msgid "Appearance"
 msgstr "রূপ"
 
-#: data/resources/preferences.ui:125
+#: dialect/preferences.ui:125
 msgid "Use Custom Font Size"
 msgstr ""
 
-#: data/resources/preferences.ui:126
+#: dialect/preferences.ui:126
 msgid "System font size is used otherwise."
 msgstr ""
 
-#: data/resources/preferences.ui:132
+#: dialect/preferences.ui:132
 #, fuzzy
 msgid "Default Font Size"
 msgstr "অটোতে ডিফল্ট সেট করুন"
 
-#: data/resources/preferences.ui:133
+#: dialect/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
 msgstr ""
 
-#: data/resources/provider-preferences.blp:5
-#: data/resources/provider-preferences.blp:12
-#, fuzzy
-msgid "Provider Preferences"
-msgstr "পছন্দসমূহ খুলুন"
-
-#: data/resources/provider-preferences.blp:21
-msgid "Instance URL"
-msgstr ""
-
-#: data/resources/provider-preferences.blp:22
-#, fuzzy
-msgid "Enter an Instance URL for the Provider."
-msgstr "একটি অনুবাদ পরিষেবা URL লিখুন।"
-
-#: data/resources/provider-preferences.blp:32
-#: data/resources/provider-preferences.blp:62
-#, fuzzy
-msgid "Reset to Default"
-msgstr "ডিফল্টে রিসেট করুন"
-
-#: data/resources/provider-preferences.blp:52
-msgid "API Key"
-msgstr ""
-
-#: data/resources/provider-preferences.blp:53
-#, fuzzy
-msgid "Enter an API Key for the Provider."
-msgstr "একটি অনুবাদ পরিষেবা URL লিখুন।"
-
-#: data/resources/provider-preferences.blp:83
-msgid "Character Usage"
-msgstr ""
-
-#: data/resources/shortcuts.blp:13
+#: dialect/shortcuts.blp:13
 msgctxt "shortcuts window"
 msgid "Translator"
 msgstr "অনুবাদক"
 
-#: data/resources/shortcuts.blp:16
+#: dialect/shortcuts.blp:16
 msgctxt "shortcuts window"
 msgid "Translate"
 msgstr "অনুবাদ"
 
-#: data/resources/shortcuts.blp:21
+#: dialect/shortcuts.blp:21
 msgctxt "shortcuts window"
 msgid "Switch Languages"
 msgstr "ভাষা পাল্টান"
 
-#: data/resources/shortcuts.blp:26
+#: dialect/shortcuts.blp:26
 #, fuzzy
 msgctxt "shortcuts window"
 msgid "Select source language"
 msgstr "ভাষা পাল্টান"
 
-#: data/resources/shortcuts.blp:31
+#: dialect/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Select destination language"
 msgstr ""
 
-#: data/resources/shortcuts.blp:36
+#: dialect/shortcuts.blp:36
 msgctxt "shortcuts window"
 msgid "Clear source text"
 msgstr "সোর্স টেক্সট ক্লিয়ার করুন"
 
-#: data/resources/shortcuts.blp:41
+#: dialect/shortcuts.blp:41
 msgctxt "shortcuts window"
 msgid "Copy translation"
 msgstr "অনুবাদ কপি করুন"
 
-#: data/resources/shortcuts.blp:46
+#: dialect/shortcuts.blp:46
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
 msgstr "উচ্চারণ দেখান"
 
-#: data/resources/shortcuts.blp:51
+#: dialect/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
 msgstr ""
 
-#: data/resources/shortcuts.blp:56
+#: dialect/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
 msgstr ""
 
-#: data/resources/shortcuts.blp:62
+#: dialect/shortcuts.blp:62
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
 msgstr "টেক্সট-টু-স্পীচ"
 
-#: data/resources/shortcuts.blp:65
+#: dialect/shortcuts.blp:65
 msgctxt "shortcuts window"
 msgid "Listen to source text"
 msgstr "সোর্স টেক্সটটি শুনুন"
 
-#: data/resources/shortcuts.blp:70
+#: dialect/shortcuts.blp:70
 msgctxt "shortcuts window"
 msgid "Listen to translation"
 msgstr "অনুবাদটি শুনুন"
 
-#: data/resources/shortcuts.blp:76
+#: dialect/shortcuts.blp:76
 msgctxt "shortcuts window"
 msgid "Navigation"
 msgstr "নেভিগেশন"
 
-#: data/resources/shortcuts.blp:79
+#: dialect/shortcuts.blp:79
 msgctxt "shortcuts window"
 msgid "Go back in history"
 msgstr "ইতিহাসে ফিরে যান"
 
-#: data/resources/shortcuts.blp:84
+#: dialect/shortcuts.blp:84
 msgctxt "shortcuts window"
 msgid "Go forward in history"
 msgstr "ইতিহাসে এগিয়ে যান"
 
-#: data/resources/shortcuts.blp:90
+#: dialect/shortcuts.blp:90
 msgctxt "shortcuts window"
 msgid "General"
 msgstr "জেনারেল"
 
-#: data/resources/shortcuts.blp:93
+#: dialect/shortcuts.blp:93
 msgctxt "shortcuts window"
 msgid "Preferences"
 msgstr "পছন্দসমূহ"
 
-#: data/resources/shortcuts.blp:98
+#: dialect/shortcuts.blp:98
 msgctxt "shortcut window"
 msgid "Shortcuts"
 msgstr "শর্টকাট"
 
-#: data/resources/shortcuts.blp:103
+#: dialect/shortcuts.blp:103
 msgctxt "shortcuts window"
 msgid "Quit"
 msgstr "প্রস্থান করুন"
 
-#: data/resources/theme-switcher.blp:20
-msgid "Follow System Style"
-msgstr ""
-
-#: data/resources/theme-switcher.blp:35
-msgid "Light Style"
-msgstr ""
-
-#: data/resources/theme-switcher.blp:50
-#, fuzzy
-msgid "Dark Style"
-msgstr "ডার্ক মোড"
-
-#: data/resources/window.blp:15
+#: dialect/window.blp:15
 msgid "Show Pronunciation"
 msgstr "উচ্চারণ দেখান"
 
-#: data/resources/window.blp:24 dialect/window.py:1079
+#: dialect/window.blp:24 dialect/window.py:1176
 msgid "Preferences"
 msgstr "পছন্দসমূহ"
 
-#: data/resources/window.blp:29
+#: dialect/window.blp:29
 msgid "Keyboard Shortcuts"
 msgstr "কীবোর্ড শর্টকাট"
 
-#: data/resources/window.blp:34
+#: dialect/window.blp:34
 msgid "About Dialect"
 msgstr "ডায়ালেক্ট সম্পর্কে"
 
-#: data/resources/window.blp:80
+#: dialect/window.blp:68 dialect/widgets/speech_button.py:40
 msgid "Loading…"
 msgstr "লোডিং…"
 
-#: data/resources/window.blp:108 data/resources/window.blp:140
-#: dialect/window.py:490 dialect/window.py:1063 dialect/window.py:1071
-#: dialect/window.py:1087
+#: dialect/window.blp:92 dialect/window.blp:124 dialect/window.py:903
+#: dialect/window.py:1160 dialect/window.py:1168 dialect/window.py:1184
 msgid "Retry"
 msgstr "পুনঃপ্রচেষ্টা করুন"
 
-#: data/resources/window.blp:118 data/resources/window.blp:153
-#: data/resources/window.blp:193 data/resources/window.blp:229
+#: dialect/window.blp:102 dialect/window.blp:137 dialect/window.blp:177
+#: dialect/window.blp:213
 #, fuzzy
 msgid "Open Preferences"
 msgstr "পছন্দসমূহ খুলুন"
 
-#: data/resources/window.blp:183 data/resources/window.blp:216
+#: dialect/window.blp:167 dialect/window.blp:200
 msgid "Remove Key and Retry"
 msgstr ""
 
-#: data/resources/window.blp:260 data/resources/window.blp:582
+#: dialect/window.blp:244 dialect/window.blp:566
 msgid "Change Source Language"
 msgstr ""
 
-#: data/resources/window.blp:265 data/resources/window.blp:590
+#: dialect/window.blp:249 dialect/window.blp:574
 #, fuzzy
 msgid "Switch Languages"
 msgstr "ভাষা পাল্টান"
 
-#: data/resources/window.blp:272 data/resources/window.blp:598
+#: dialect/window.blp:256 dialect/window.blp:582
 msgid "Change Destination Language"
 msgstr ""
 
-#: data/resources/window.blp:287
+#: dialect/window.blp:271
 #, fuzzy
 msgid "Previous Translation"
 msgstr "পূর্ববর্তী অনুবাদ"
 
-#: data/resources/window.blp:293
+#: dialect/window.blp:277
 #, fuzzy
 msgid "Next Translation"
 msgstr "পরবর্তী অনুবাদ"
 
-#: data/resources/window.blp:300
+#: dialect/window.blp:284
 msgid "Main Menu"
 msgstr ""
 
-#: data/resources/window.blp:401
+#: dialect/window.blp:385
 msgid "Clear"
 msgstr "পরিষ্কার করুন"
 
-#: data/resources/window.blp:407
+#: dialect/window.blp:391
 msgid "Paste"
 msgstr "পেস্ট"
 
-#: data/resources/window.blp:413 data/resources/window.blp:531
+#: dialect/window.blp:397 dialect/window.blp:515
+#: dialect/widgets/speech_button.blp:5 dialect/widgets/speech_button.py:22
 msgid "Listen"
 msgstr "শুনুন"
 
-#: data/resources/window.blp:434
+#: dialect/window.blp:418
 msgid "Translate"
 msgstr "অনুবাদ করুন"
 
-#: data/resources/window.blp:505
+#: dialect/window.blp:489
 msgid "Translating…"
 msgstr "অনুবাদিত হচ্ছে…"
 
-#: data/resources/window.blp:510
+#: dialect/window.blp:494
 #, fuzzy
 msgid "Could not Translate the Text"
 msgstr "টেক্সটটি অনুবাদ করা যায়নি"
 
-#: data/resources/window.blp:517 dialect/search_provider/search_provider.in:174
+#: dialect/window.blp:501 dialect/search_provider/search_provider.in:239
 msgid "Copy"
 msgstr "কপি"
 
-#: data/resources/window.blp:525
+#: dialect/window.blp:509
 #, fuzzy
 msgid "Suggest Translation"
 msgstr "লাইভ অনুবাদ"
 
-#: data/resources/window.blp:549
+#: dialect/window.blp:533
 msgid "Cancel"
 msgstr "বাতিল করুন"
 
-#: data/resources/window.blp:556
+#: dialect/window.blp:540
 msgid "Save"
 msgstr "সেভ"
 
-#: dialect/languages.py:61
-msgid "Auto"
-msgstr "অটো"
-
-#: dialect/main.py:187
-msgid "Donate"
-msgstr ""
-
-#: dialect/preferences.py:126
-msgid "Edit Provider Settings"
-msgstr ""
-
-#: dialect/preferences.py:128
-msgid "No Settings for This Provider"
-msgstr ""
-
-#: dialect/window.py:389 dialect/search_provider/search_provider.in:114
+#: dialect/window.py:403 dialect/search_provider/search_provider.in:173
 #, fuzzy
 msgid "Failed loading the translation service"
 msgstr "অনুবাদ সার্ভিস লোড করা যায়নি"
 
-#: dialect/window.py:390
+#: dialect/window.py:404
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
 
-#: dialect/window.py:401
+#: dialect/window.py:415
 #, fuzzy
 msgid "Couldn’t connect to the translation service"
 msgstr "অনুবাদ সার্ভিস লোড করা যায়নি"
 
-#: dialect/window.py:402
+#: dialect/window.py:416
 #, fuzzy
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
 "অনুবাদ ব্যর্থ হয়েছে।\n"
 "দয়া করে নেটওয়ার্ক ইস্যু চেক করুন।"
 
-#: dialect/window.py:420 dialect/window.py:1077
-#: dialect/search_provider/search_provider.in:103
+#: dialect/window.py:437 dialect/window.py:1174
+#: dialect/search_provider/search_provider.in:161
 msgid "API key is required to use the service"
 msgstr ""
 
-#: dialect/window.py:421
+#: dialect/window.py:438
 msgid "Please set an API key in the preferences."
 msgstr ""
 
-#: dialect/window.py:424 dialect/window.py:1069
-#: dialect/search_provider/search_provider.in:101
+#: dialect/window.py:441 dialect/window.py:1166
+#: dialect/search_provider/search_provider.in:159
 msgid "The provided API key is invalid"
 msgstr ""
 
-#: dialect/window.py:426
+#: dialect/window.py:443
 msgid "Please set a valid API key in the preferences."
 msgstr ""
 
-#: dialect/window.py:429
+#: dialect/window.py:446
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
 
-#: dialect/window.py:483
+#: dialect/window.py:471
 #, fuzzy
-msgid "A network issue has occurred. Retry?"
-msgstr "একটি নেটওয়ার্ক ইস্যু দেখা দিয়েছে। পুন:প্রচেষ্টা করবেন?"
+msgid "Failed loading the text-to-speech service. Retry?"
+msgstr "অনুবাদ সার্ভিস লোড করা যায়নি"
 
-#: dialect/window.py:496
+#: dialect/window.py:472
 #, fuzzy
-msgid "A network issue has occurred. Please try again."
+msgid "Failed loading the text-to-speech service"
+msgstr "অনুবাদ সার্ভিস লোড করা যায়নি"
+
+#: dialect/window.py:474
+#, fuzzy
+msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr ""
-"একটি নেটওয়ার্ক ইস্যু দেখা দিয়েছে।\n"
-"দয়া করে পুনঃ প্রচেষ্টা করুন।"
+"অনুবাদ ব্যর্থ হয়েছে।\n"
+"দয়া করে নেটওয়ার্ক ইস্যু চেক করুন।"
 
-#: dialect/window.py:775
+#: dialect/window.py:766
+#, fuzzy
+msgid "Copied to clipboard"
+msgstr "অনুবাদ কপি করুন"
+
+#: dialect/window.py:791
 msgid "New translation has been suggested!"
 msgstr ""
 
-#: dialect/window.py:777 dialect/window.py:783
+#: dialect/window.py:793 dialect/window.py:799
 msgid "Suggestion failed."
 msgstr ""
 
+#: dialect/window.py:894
+#, fuzzy
+msgid "Text-to-Speech failed"
+msgstr "টেক্সট-টু-স্পীচ"
+
+#: dialect/window.py:898
+#, fuzzy
+msgid "Text-to-Speech failed, check for network issues"
+msgstr ""
+"অনুবাদ ব্যর্থ হয়েছে।\n"
+"দয়া করে নেটওয়ার্ক ইস্যু চেক করুন।"
+
 #: dialect/window.py:907
+#, fuzzy
+msgid "Text-to-Speech failed. Retry?"
+msgstr "টেক্সট-টু-স্পীচ"
+
+#: dialect/window.py:1002
 #, fuzzy
 msgid "{} characters limit reached!"
 msgstr "৫০০০ অক্ষর সীমা পৌঁছে গেছে!"
 
-#: dialect/window.py:1023
+#: dialect/window.py:1123
 msgid "Did you mean: "
 msgstr "আপনি কি এটি বোঝাতে চেয়েছেন: "
 
-#: dialect/window.py:1061 dialect/search_provider/search_provider.in:99
+#: dialect/window.py:1158 dialect/search_provider/search_provider.in:157
 #, fuzzy
 msgid "Translation failed, check for network issues"
 msgstr ""
 "অনুবাদ ব্যর্থ হয়েছে।\n"
 "দয়া করে নেটওয়ার্ক ইস্যু চেক করুন।"
 
-#: dialect/window.py:1085 dialect/search_provider/search_provider.in:105
+#: dialect/window.py:1182 dialect/search_provider/search_provider.in:163
 #, fuzzy
 msgid "Translation failed"
 msgstr "অনুবাদের ইতিহাস"
 
-#: dialect/search_provider/search_provider.in:129
+#: dialect/widgets/lang_selector.blp:47
+#, fuzzy
+msgid "Search Languages…"
+msgstr "ভাষা পাল্টান"
+
+#: dialect/widgets/provider_preferences.blp:5
+#: dialect/widgets/provider_preferences.blp:12
+#, fuzzy
+msgid "Provider Preferences"
+msgstr "পছন্দসমূহ খুলুন"
+
+#: dialect/widgets/provider_preferences.blp:21
+msgid "Instance URL"
+msgstr ""
+
+#: dialect/widgets/provider_preferences.blp:22
+#, fuzzy
+msgid "Enter an Instance URL for the Provider."
+msgstr "একটি অনুবাদ পরিষেবা URL লিখুন।"
+
+#: dialect/widgets/provider_preferences.blp:32
+#: dialect/widgets/provider_preferences.blp:62
+#, fuzzy
+msgid "Reset to Default"
+msgstr "ডিফল্টে রিসেট করুন"
+
+#: dialect/widgets/provider_preferences.blp:52
+msgid "API Key"
+msgstr ""
+
+#: dialect/widgets/provider_preferences.blp:53
+#, fuzzy
+msgid "Enter an API Key for the Provider."
+msgstr "একটি অনুবাদ পরিষেবা URL লিখুন।"
+
+#: dialect/widgets/provider_preferences.blp:83
+msgid "Character Usage"
+msgstr ""
+
+#: dialect/widgets/speech_button.py:28
+#, fuzzy
+msgid "Cancel Audio"
+msgstr "বাতিল করুন"
+
+#: dialect/widgets/theme_switcher.blp:20
+msgid "Follow System Style"
+msgstr ""
+
+#: dialect/widgets/theme_switcher.blp:35
+msgid "Light Style"
+msgstr ""
+
+#: dialect/widgets/theme_switcher.blp:50
+#, fuzzy
+msgid "Dark Style"
+msgstr "ডার্ক মোড"
+
+#: dialect/search_provider/search_provider.in:189
 msgid "Translate “{text}” with {provider_name}"
 msgstr ""
 
-#: dialect/search_provider/search_provider.in:175
+#: dialect/search_provider/search_provider.in:240
 #, fuzzy
 msgid "Copy translation to clipboard"
 msgstr "অনুবাদ কপি করুন"
+
+#, fuzzy
+#~ msgid "A network issue has occurred. Retry?"
+#~ msgstr "একটি নেটওয়ার্ক ইস্যু দেখা দিয়েছে। পুন:প্রচেষ্টা করবেন?"
+
+#, fuzzy
+#~ msgid "A network issue has occurred. Please try again."
+#~ msgstr ""
+#~ "একটি নেটওয়ার্ক ইস্যু দেখা দিয়েছে।\n"
+#~ "দয়া করে পুনঃ প্রচেষ্টা করুন।"
 
 #~ msgid "translate;translation;"
 #~ msgstr "অনুবাদ করুন;অনুবাদ;"

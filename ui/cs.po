@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-24 13:08-0500\n"
+"POT-Creation-Date: 2024-09-23 08:40-0500\n"
 "PO-Revision-Date: 2024-06-20 10:09+0000\n"
 "Last-Translator: FrameXX <jirkakral978@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/dialect/dialect/cs/"
@@ -21,8 +21,8 @@ msgstr ""
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
-#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:5
-#: data/resources/window.blp:280 dialect/main.py:72
+#: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:74
+#: dialect/window.blp:264
 msgid "Dialect"
 msgstr "Dialekt"
 
@@ -40,7 +40,8 @@ msgstr ""
 "přeložit;překlad;Google Překladač;LibreTranslate;Lingva Překladač;Bing "
 "Microsoft Překladač;Bing Překladač;Microsoft Překladač;Yandex Překladač; "
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
+#. For development version
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:186
 msgid "A translation app for GNOME."
 msgstr "Překladač pro GNOME."
 
@@ -94,438 +95,476 @@ msgid "Clipboard buttons"
 msgstr "Tlačítka schránky"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/app.drey.Dialect.metainfo.xml.in.in:34
-#: data/app.drey.Dialect.metainfo.xml.in.in:36 data/resources/about.blp:6
+#: data/app.drey.Dialect.metainfo.xml.in.in:35
+#: data/app.drey.Dialect.metainfo.xml.in.in:37
 msgid "The Dialect Authors"
 msgstr "Autoři Dialektu"
 
-#: data/resources/about.blp:7
-msgid "Copyright 2020–⁠2023 The Dialect Authors"
-msgstr "Copyright 2020–⁠2024 autoři Dialektu"
-
-#. Translators: Replace me with your names.
-#: data/resources/about.blp:15
-msgid "translator-credits"
-msgstr "Vojtěch Perník <translations@pervoj.cz>"
-
-#: data/resources/lang-selector.blp:47
-msgid "Search Languages…"
-msgstr "Jazyky vyhledávání…"
-
-#: data/resources/preferences.ui:8
-msgid "Providers"
-msgstr "Poskytovatelé"
-
-#: data/resources/preferences.ui:11
-msgid "Translator"
-msgstr "Překladač"
-
-#: data/resources/preferences.ui:12
-msgid "Choose from the available translation services."
-msgstr "Vyberte z dostupných překladačů."
-
-#: data/resources/preferences.ui:43
-msgid "Text-to-Speech"
-msgstr "Převod textu na řeč"
-
-#: data/resources/preferences.ui:44
-msgid "Choose from the available TTS services."
-msgstr "Vyberte z dostupných služeb převodu textu na řeč."
-
-#: data/resources/preferences.ui:77
-msgid "Behavior"
-msgstr "Chování"
-
-#: data/resources/preferences.ui:80
-msgid "Live Translation"
-msgstr "Živý překlad"
-
-#: data/resources/preferences.ui:81
-msgid "Warning: Your IP address may get banned for API abuse."
-msgstr "Varování: Vaše IP adresa může být zablokována za zneužívání API."
-
-#: data/resources/preferences.ui:87
-msgid "Show Translations in Desktop Search"
-msgstr "Zobrazit překlady ve vyhledávání v Přehledu činností"
-
-#: data/resources/preferences.ui:88
-msgid "Warning: All desktop searches will be sent to the translation service"
-msgstr "Varování: Všechna vyhledávání budou poslána na servery překladače"
-
-#: data/resources/preferences.ui:95
-msgid "Translation Shortcut"
-msgstr "Zkratka překladu"
-
-#: data/resources/preferences.ui:96
-msgid "The unselected choice will be used for line break."
-msgstr "Nevybraná volba bude použita pro zalomení řádku."
-
-#: data/resources/preferences.ui:114
-msgid "Default to Auto"
-msgstr "Výchozí na Automatický"
-
-#: data/resources/preferences.ui:115
-msgid "Use \"Auto\" as the default language"
-msgstr "Použít \"Automatický\" jako výchozí jazyk"
-
-#: data/resources/preferences.ui:122
-msgid "Appearance"
-msgstr "Vzhled"
-
-#: data/resources/preferences.ui:125
-msgid "Use Custom Font Size"
-msgstr "Používat vlastní velikost písma"
-
-#: data/resources/preferences.ui:126
-msgid "System font size is used otherwise."
-msgstr "Jinak se používá systémová velikost písma."
-
-#: data/resources/preferences.ui:132
-msgid "Default Font Size"
-msgstr "Výchozí velikost písma"
-
-#: data/resources/preferences.ui:133
-msgid "Changing the size via shortcuts does not overwrite this."
-msgstr "Změna velikosti pomocí zástupců tuto hodnotu nepřepisuje."
-
-#: data/resources/provider-preferences.blp:5
-#: data/resources/provider-preferences.blp:12
-msgid "Provider Preferences"
-msgstr "Předvolby poskytovatele"
-
-#: data/resources/provider-preferences.blp:21
-msgid "Instance URL"
-msgstr "URL instance"
-
-#: data/resources/provider-preferences.blp:22
-msgid "Enter an Instance URL for the Provider."
-msgstr "Zadejte adresu URL instance poskytovatele."
-
-#: data/resources/provider-preferences.blp:32
-#: data/resources/provider-preferences.blp:62
-msgid "Reset to Default"
-msgstr "Obnovit do výchozího nastavení"
-
-#: data/resources/provider-preferences.blp:52
-msgid "API Key"
-msgstr "Klíč API"
-
-#: data/resources/provider-preferences.blp:53
-msgid "Enter an API Key for the Provider."
-msgstr "Zadejte API klíč poskytovatele."
-
-#: data/resources/provider-preferences.blp:83
-msgid "Character Usage"
-msgstr "Používání znaků"
-
-#: data/resources/shortcuts.blp:13
-msgctxt "shortcuts window"
-msgid "Translator"
-msgstr "Překladač"
-
-#: data/resources/shortcuts.blp:16
-msgctxt "shortcuts window"
-msgid "Translate"
-msgstr "Překlad"
-
-#: data/resources/shortcuts.blp:21
-msgctxt "shortcuts window"
-msgid "Switch Languages"
-msgstr "Změnit jazyky"
-
-#: data/resources/shortcuts.blp:26
-msgctxt "shortcuts window"
-msgid "Select source language"
-msgstr "Vyberte zdrojový jazyk"
-
-#: data/resources/shortcuts.blp:31
-msgctxt "shortcuts window"
-msgid "Select destination language"
-msgstr "Vyberte cílový jazyk"
-
-#: data/resources/shortcuts.blp:36
-msgctxt "shortcuts window"
-msgid "Clear source text"
-msgstr "Smazat zdrojový text"
-
-#: data/resources/shortcuts.blp:41
-msgctxt "shortcuts window"
-msgid "Copy translation"
-msgstr "Kopírovat překlad"
-
-#: data/resources/shortcuts.blp:46
-msgctxt "shortcuts window"
-msgid "Show Pronunciation"
-msgstr "Zobrazit výslovnost"
-
-#: data/resources/shortcuts.blp:51
-msgctxt "shortcuts window"
-msgid "Increase font size"
-msgstr "Zvětšit velikost písma"
-
-#: data/resources/shortcuts.blp:56
-msgctxt "shortcuts window"
-msgid "Decrease font size"
-msgstr "Zmenšit velikost písma"
-
-#: data/resources/shortcuts.blp:62
-msgctxt "shortcuts window"
-msgid "Text-to-Speech"
-msgstr "Převod textu na řeč"
-
-#: data/resources/shortcuts.blp:65
-msgctxt "shortcuts window"
-msgid "Listen to source text"
-msgstr "Poslechnout zdrojový text"
-
-#: data/resources/shortcuts.blp:70
-msgctxt "shortcuts window"
-msgid "Listen to translation"
-msgstr "Poslechnout překlad"
-
-#: data/resources/shortcuts.blp:76
-msgctxt "shortcuts window"
-msgid "Navigation"
-msgstr "Navigace"
-
-#: data/resources/shortcuts.blp:79
-msgctxt "shortcuts window"
-msgid "Go back in history"
-msgstr "Zpět v historii"
-
-#: data/resources/shortcuts.blp:84
-msgctxt "shortcuts window"
-msgid "Go forward in history"
-msgstr "Dopředu v historii"
-
-#: data/resources/shortcuts.blp:90
-msgctxt "shortcuts window"
-msgid "General"
-msgstr "Obecné"
-
-#: data/resources/shortcuts.blp:93
-msgctxt "shortcuts window"
-msgid "Preferences"
-msgstr "Předvolby"
-
-#: data/resources/shortcuts.blp:98
-msgctxt "shortcut window"
-msgid "Shortcuts"
-msgstr "Klávesové zkratky"
-
-#: data/resources/shortcuts.blp:103
-msgctxt "shortcuts window"
-msgid "Quit"
-msgstr "Ukončit"
-
-#: data/resources/theme-switcher.blp:20
-msgid "Follow System Style"
-msgstr "Používat motiv systému"
-
-#: data/resources/theme-switcher.blp:35
-msgid "Light Style"
-msgstr "Světlý motiv"
-
-#: data/resources/theme-switcher.blp:50
-msgid "Dark Style"
-msgstr "Tmavý motiv"
-
-#: data/resources/window.blp:15
-msgid "Show Pronunciation"
-msgstr "Zobrazit výslovnost"
-
-#: data/resources/window.blp:24 dialect/window.py:1079
-msgid "Preferences"
-msgstr "Předvolby"
-
-#: data/resources/window.blp:29
-msgid "Keyboard Shortcuts"
-msgstr "Klávesové zkratky"
-
-#: data/resources/window.blp:34
-msgid "About Dialect"
-msgstr "O Dialektu"
-
-#: data/resources/window.blp:80
-msgid "Loading…"
-msgstr "Načítání…"
-
-#: data/resources/window.blp:108 data/resources/window.blp:140
-#: dialect/window.py:490 dialect/window.py:1063 dialect/window.py:1071
-#: dialect/window.py:1087
-msgid "Retry"
-msgstr "Zkusit znovu"
-
-#: data/resources/window.blp:118 data/resources/window.blp:153
-#: data/resources/window.blp:193 data/resources/window.blp:229
-msgid "Open Preferences"
-msgstr "Otevřít předvolby"
-
-#: data/resources/window.blp:183 data/resources/window.blp:216
-msgid "Remove Key and Retry"
-msgstr "Odebrat klíč a zkusit znovu"
-
-#: data/resources/window.blp:260 data/resources/window.blp:582
-msgid "Change Source Language"
-msgstr "Změnit zdrojový jazyk"
-
-#: data/resources/window.blp:265 data/resources/window.blp:590
-msgid "Switch Languages"
-msgstr "Vyměnit jazyky"
-
-#: data/resources/window.blp:272 data/resources/window.blp:598
-msgid "Change Destination Language"
-msgstr "Změnit cílový jazyk"
-
-#: data/resources/window.blp:287
-msgid "Previous Translation"
-msgstr "Předchozí překlad"
-
-#: data/resources/window.blp:293
-msgid "Next Translation"
-msgstr "Následující překlad"
-
-#: data/resources/window.blp:300
-msgid "Main Menu"
-msgstr "Hlavní menu"
-
-#: data/resources/window.blp:401
-msgid "Clear"
-msgstr "Vyčistit"
-
-#: data/resources/window.blp:407
-msgid "Paste"
-msgstr "Vložit"
-
-#: data/resources/window.blp:413 data/resources/window.blp:531
-msgid "Listen"
-msgstr "Poslech"
-
-#: data/resources/window.blp:434
-msgid "Translate"
-msgstr "Přeložit"
-
-#: data/resources/window.blp:505
-msgid "Translating…"
-msgstr "Překládání…"
-
-#: data/resources/window.blp:510
-msgid "Could not Translate the Text"
-msgstr "Text se nepodařilo přeložit"
-
-#: data/resources/window.blp:517 dialect/search_provider/search_provider.in:174
-msgid "Copy"
-msgstr "Kopírovat"
-
-#: data/resources/window.blp:525
-msgid "Suggest Translation"
-msgstr "Navrhovat překlad"
-
-#: data/resources/window.blp:549
-msgid "Cancel"
-msgstr "Zrušit"
-
-#: data/resources/window.blp:556
-msgid "Save"
-msgstr "Uložit"
-
-#: dialect/languages.py:61
+#: dialect/languages.py:63 dialect/widgets/lang_selector.py:84
 msgid "Auto"
 msgstr "Automatický"
 
 #: dialect/main.py:187
+#, fuzzy
+msgid "Copyright 2020–⁠2024 The Dialect Authors"
+msgstr "Copyright 2020–⁠2024 autoři Dialektu"
+
+#: dialect/main.py:189
+msgid "translator-credits"
+msgstr "Vojtěch Perník <translations@pervoj.cz>"
+
+#: dialect/main.py:190
 msgid "Donate"
 msgstr "Darovat"
 
-#: dialect/preferences.py:126
+#: dialect/preferences.py:132
 msgid "Edit Provider Settings"
 msgstr "Upravit nastavení poskytovatele"
 
-#: dialect/preferences.py:128
+#: dialect/preferences.py:134
 msgid "No Settings for This Provider"
 msgstr "Žádná nastavení pro tohoto poskytovatele"
 
-#: dialect/window.py:389 dialect/search_provider/search_provider.in:114
+#: dialect/preferences.ui:8
+msgid "Providers"
+msgstr "Poskytovatelé"
+
+#: dialect/preferences.ui:11
+msgid "Translator"
+msgstr "Překladač"
+
+#: dialect/preferences.ui:12
+msgid "Choose from the available translation services."
+msgstr "Vyberte z dostupných překladačů."
+
+#: dialect/preferences.ui:43
+msgid "Text-to-Speech"
+msgstr "Převod textu na řeč"
+
+#: dialect/preferences.ui:44
+msgid "Choose from the available TTS services."
+msgstr "Vyberte z dostupných služeb převodu textu na řeč."
+
+#: dialect/preferences.ui:77
+msgid "Behavior"
+msgstr "Chování"
+
+#: dialect/preferences.ui:80
+msgid "Live Translation"
+msgstr "Živý překlad"
+
+#: dialect/preferences.ui:81
+msgid "Warning: Your IP address may get banned for API abuse."
+msgstr "Varování: Vaše IP adresa může být zablokována za zneužívání API."
+
+#: dialect/preferences.ui:87
+msgid "Show Translations in Desktop Search"
+msgstr "Zobrazit překlady ve vyhledávání v Přehledu činností"
+
+#: dialect/preferences.ui:88
+msgid "Warning: All desktop searches will be sent to the translation service"
+msgstr "Varování: Všechna vyhledávání budou poslána na servery překladače"
+
+#: dialect/preferences.ui:95
+msgid "Translation Shortcut"
+msgstr "Zkratka překladu"
+
+#: dialect/preferences.ui:96
+msgid "The unselected choice will be used for line break."
+msgstr "Nevybraná volba bude použita pro zalomení řádku."
+
+#: dialect/preferences.ui:114
+msgid "Default to Auto"
+msgstr "Výchozí na Automatický"
+
+#: dialect/preferences.ui:115
+msgid "Use \"Auto\" as the default language"
+msgstr "Použít \"Automatický\" jako výchozí jazyk"
+
+#: dialect/preferences.ui:122
+msgid "Appearance"
+msgstr "Vzhled"
+
+#: dialect/preferences.ui:125
+msgid "Use Custom Font Size"
+msgstr "Používat vlastní velikost písma"
+
+#: dialect/preferences.ui:126
+msgid "System font size is used otherwise."
+msgstr "Jinak se používá systémová velikost písma."
+
+#: dialect/preferences.ui:132
+msgid "Default Font Size"
+msgstr "Výchozí velikost písma"
+
+#: dialect/preferences.ui:133
+msgid "Changing the size via shortcuts does not overwrite this."
+msgstr "Změna velikosti pomocí zástupců tuto hodnotu nepřepisuje."
+
+#: dialect/shortcuts.blp:13
+msgctxt "shortcuts window"
+msgid "Translator"
+msgstr "Překladač"
+
+#: dialect/shortcuts.blp:16
+msgctxt "shortcuts window"
+msgid "Translate"
+msgstr "Překlad"
+
+#: dialect/shortcuts.blp:21
+msgctxt "shortcuts window"
+msgid "Switch Languages"
+msgstr "Změnit jazyky"
+
+#: dialect/shortcuts.blp:26
+msgctxt "shortcuts window"
+msgid "Select source language"
+msgstr "Vyberte zdrojový jazyk"
+
+#: dialect/shortcuts.blp:31
+msgctxt "shortcuts window"
+msgid "Select destination language"
+msgstr "Vyberte cílový jazyk"
+
+#: dialect/shortcuts.blp:36
+msgctxt "shortcuts window"
+msgid "Clear source text"
+msgstr "Smazat zdrojový text"
+
+#: dialect/shortcuts.blp:41
+msgctxt "shortcuts window"
+msgid "Copy translation"
+msgstr "Kopírovat překlad"
+
+#: dialect/shortcuts.blp:46
+msgctxt "shortcuts window"
+msgid "Show Pronunciation"
+msgstr "Zobrazit výslovnost"
+
+#: dialect/shortcuts.blp:51
+msgctxt "shortcuts window"
+msgid "Increase font size"
+msgstr "Zvětšit velikost písma"
+
+#: dialect/shortcuts.blp:56
+msgctxt "shortcuts window"
+msgid "Decrease font size"
+msgstr "Zmenšit velikost písma"
+
+#: dialect/shortcuts.blp:62
+msgctxt "shortcuts window"
+msgid "Text-to-Speech"
+msgstr "Převod textu na řeč"
+
+#: dialect/shortcuts.blp:65
+msgctxt "shortcuts window"
+msgid "Listen to source text"
+msgstr "Poslechnout zdrojový text"
+
+#: dialect/shortcuts.blp:70
+msgctxt "shortcuts window"
+msgid "Listen to translation"
+msgstr "Poslechnout překlad"
+
+#: dialect/shortcuts.blp:76
+msgctxt "shortcuts window"
+msgid "Navigation"
+msgstr "Navigace"
+
+#: dialect/shortcuts.blp:79
+msgctxt "shortcuts window"
+msgid "Go back in history"
+msgstr "Zpět v historii"
+
+#: dialect/shortcuts.blp:84
+msgctxt "shortcuts window"
+msgid "Go forward in history"
+msgstr "Dopředu v historii"
+
+#: dialect/shortcuts.blp:90
+msgctxt "shortcuts window"
+msgid "General"
+msgstr "Obecné"
+
+#: dialect/shortcuts.blp:93
+msgctxt "shortcuts window"
+msgid "Preferences"
+msgstr "Předvolby"
+
+#: dialect/shortcuts.blp:98
+msgctxt "shortcut window"
+msgid "Shortcuts"
+msgstr "Klávesové zkratky"
+
+#: dialect/shortcuts.blp:103
+msgctxt "shortcuts window"
+msgid "Quit"
+msgstr "Ukončit"
+
+#: dialect/window.blp:15
+msgid "Show Pronunciation"
+msgstr "Zobrazit výslovnost"
+
+#: dialect/window.blp:24 dialect/window.py:1176
+msgid "Preferences"
+msgstr "Předvolby"
+
+#: dialect/window.blp:29
+msgid "Keyboard Shortcuts"
+msgstr "Klávesové zkratky"
+
+#: dialect/window.blp:34
+msgid "About Dialect"
+msgstr "O Dialektu"
+
+#: dialect/window.blp:68 dialect/widgets/speech_button.py:40
+msgid "Loading…"
+msgstr "Načítání…"
+
+#: dialect/window.blp:92 dialect/window.blp:124 dialect/window.py:903
+#: dialect/window.py:1160 dialect/window.py:1168 dialect/window.py:1184
+msgid "Retry"
+msgstr "Zkusit znovu"
+
+#: dialect/window.blp:102 dialect/window.blp:137 dialect/window.blp:177
+#: dialect/window.blp:213
+msgid "Open Preferences"
+msgstr "Otevřít předvolby"
+
+#: dialect/window.blp:167 dialect/window.blp:200
+msgid "Remove Key and Retry"
+msgstr "Odebrat klíč a zkusit znovu"
+
+#: dialect/window.blp:244 dialect/window.blp:566
+msgid "Change Source Language"
+msgstr "Změnit zdrojový jazyk"
+
+#: dialect/window.blp:249 dialect/window.blp:574
+msgid "Switch Languages"
+msgstr "Vyměnit jazyky"
+
+#: dialect/window.blp:256 dialect/window.blp:582
+msgid "Change Destination Language"
+msgstr "Změnit cílový jazyk"
+
+#: dialect/window.blp:271
+msgid "Previous Translation"
+msgstr "Předchozí překlad"
+
+#: dialect/window.blp:277
+msgid "Next Translation"
+msgstr "Následující překlad"
+
+#: dialect/window.blp:284
+msgid "Main Menu"
+msgstr "Hlavní menu"
+
+#: dialect/window.blp:385
+msgid "Clear"
+msgstr "Vyčistit"
+
+#: dialect/window.blp:391
+msgid "Paste"
+msgstr "Vložit"
+
+#: dialect/window.blp:397 dialect/window.blp:515
+#: dialect/widgets/speech_button.blp:5 dialect/widgets/speech_button.py:22
+msgid "Listen"
+msgstr "Poslech"
+
+#: dialect/window.blp:418
+msgid "Translate"
+msgstr "Přeložit"
+
+#: dialect/window.blp:489
+msgid "Translating…"
+msgstr "Překládání…"
+
+#: dialect/window.blp:494
+msgid "Could not Translate the Text"
+msgstr "Text se nepodařilo přeložit"
+
+#: dialect/window.blp:501 dialect/search_provider/search_provider.in:239
+msgid "Copy"
+msgstr "Kopírovat"
+
+#: dialect/window.blp:509
+msgid "Suggest Translation"
+msgstr "Navrhovat překlad"
+
+#: dialect/window.blp:533
+msgid "Cancel"
+msgstr "Zrušit"
+
+#: dialect/window.blp:540
+msgid "Save"
+msgstr "Uložit"
+
+#: dialect/window.py:403 dialect/search_provider/search_provider.in:173
 msgid "Failed loading the translation service"
 msgstr "Nepodařilo se načíst překladač"
 
-#: dialect/window.py:390
+#: dialect/window.py:404
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
 "Pokud problém přetrvává, prosím, nahlaste to v sledovači chyb Dialektu."
 
-#: dialect/window.py:401
+#: dialect/window.py:415
 msgid "Couldn’t connect to the translation service"
 msgstr "Nepodařilo se připojit k překladači"
 
-#: dialect/window.py:402
+#: dialect/window.py:416
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr "Nepodařilo se připojit k serveru. Zkontrolujte prosím síť."
 
-#: dialect/window.py:420 dialect/window.py:1077
-#: dialect/search_provider/search_provider.in:103
+#: dialect/window.py:437 dialect/window.py:1174
+#: dialect/search_provider/search_provider.in:161
 msgid "API key is required to use the service"
 msgstr "Pro používání této služby je vyžadován klíč API"
 
-#: dialect/window.py:421
+#: dialect/window.py:438
 msgid "Please set an API key in the preferences."
 msgstr "Prosím, zadejte klíč API v předvolbách."
 
-#: dialect/window.py:424 dialect/window.py:1069
-#: dialect/search_provider/search_provider.in:101
+#: dialect/window.py:441 dialect/window.py:1166
+#: dialect/search_provider/search_provider.in:159
 msgid "The provided API key is invalid"
 msgstr "Zadaný klíč API je neplatný"
 
-#: dialect/window.py:426
+#: dialect/window.py:443
 msgid "Please set a valid API key in the preferences."
 msgstr "Prosím, zadejte platný klíč API v předvolbách."
 
-#: dialect/window.py:429
+#: dialect/window.py:446
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
 "Prosím, zadejte platný klíč API nebo odeberte současný klíč API v "
 "předvolbách."
 
-#: dialect/window.py:483
-msgid "A network issue has occurred. Retry?"
-msgstr "Došlo k problému se sítí. Zkusit znovu?"
+#: dialect/window.py:471
+#, fuzzy
+msgid "Failed loading the text-to-speech service. Retry?"
+msgstr "Nepodařilo se načíst překladač"
 
-#: dialect/window.py:496
-msgid "A network issue has occurred. Please try again."
-msgstr "Došlo k problému se sítí. Prosím, zkuste to znovu."
+#: dialect/window.py:472
+#, fuzzy
+msgid "Failed loading the text-to-speech service"
+msgstr "Nepodařilo se načíst překladač"
 
-#: dialect/window.py:775
+#: dialect/window.py:474
+#, fuzzy
+msgid "Failed loading the text-to-speech service, check for network issues"
+msgstr "Nepodařilo se připojit k serveru. Zkontrolujte prosím síť."
+
+#: dialect/window.py:766
+#, fuzzy
+msgid "Copied to clipboard"
+msgstr "Kopírovat překlad"
+
+#: dialect/window.py:791
 msgid "New translation has been suggested!"
 msgstr "Byl navržen nový překlad!"
 
-#: dialect/window.py:777 dialect/window.py:783
+#: dialect/window.py:793 dialect/window.py:799
 msgid "Suggestion failed."
 msgstr "Návrh selhal."
 
+#: dialect/window.py:894
+#, fuzzy
+msgid "Text-to-Speech failed"
+msgstr "Převod textu na řeč"
+
+#: dialect/window.py:898
+#, fuzzy
+msgid "Text-to-Speech failed, check for network issues"
+msgstr "Překládání selhalo, zkontrolujte prosím síť"
+
 #: dialect/window.py:907
+#, fuzzy
+msgid "Text-to-Speech failed. Retry?"
+msgstr "Převod textu na řeč"
+
+#: dialect/window.py:1002
 msgid "{} characters limit reached!"
 msgstr "Limit {} znaků byl dosažen!"
 
-#: dialect/window.py:1023
+#: dialect/window.py:1123
 msgid "Did you mean: "
 msgstr "Měli jste na mysli: "
 
-#: dialect/window.py:1061 dialect/search_provider/search_provider.in:99
+#: dialect/window.py:1158 dialect/search_provider/search_provider.in:157
 msgid "Translation failed, check for network issues"
 msgstr "Překládání selhalo, zkontrolujte prosím síť"
 
-#: dialect/window.py:1085 dialect/search_provider/search_provider.in:105
+#: dialect/window.py:1182 dialect/search_provider/search_provider.in:163
 msgid "Translation failed"
 msgstr "Překládání selhalo"
 
-#: dialect/search_provider/search_provider.in:129
+#: dialect/widgets/lang_selector.blp:47
+msgid "Search Languages…"
+msgstr "Jazyky vyhledávání…"
+
+#: dialect/widgets/provider_preferences.blp:5
+#: dialect/widgets/provider_preferences.blp:12
+msgid "Provider Preferences"
+msgstr "Předvolby poskytovatele"
+
+#: dialect/widgets/provider_preferences.blp:21
+msgid "Instance URL"
+msgstr "URL instance"
+
+#: dialect/widgets/provider_preferences.blp:22
+msgid "Enter an Instance URL for the Provider."
+msgstr "Zadejte adresu URL instance poskytovatele."
+
+#: dialect/widgets/provider_preferences.blp:32
+#: dialect/widgets/provider_preferences.blp:62
+msgid "Reset to Default"
+msgstr "Obnovit do výchozího nastavení"
+
+#: dialect/widgets/provider_preferences.blp:52
+msgid "API Key"
+msgstr "Klíč API"
+
+#: dialect/widgets/provider_preferences.blp:53
+msgid "Enter an API Key for the Provider."
+msgstr "Zadejte API klíč poskytovatele."
+
+#: dialect/widgets/provider_preferences.blp:83
+msgid "Character Usage"
+msgstr "Používání znaků"
+
+#: dialect/widgets/speech_button.py:28
+#, fuzzy
+msgid "Cancel Audio"
+msgstr "Zrušit"
+
+#: dialect/widgets/theme_switcher.blp:20
+msgid "Follow System Style"
+msgstr "Používat motiv systému"
+
+#: dialect/widgets/theme_switcher.blp:35
+msgid "Light Style"
+msgstr "Světlý motiv"
+
+#: dialect/widgets/theme_switcher.blp:50
+msgid "Dark Style"
+msgstr "Tmavý motiv"
+
+#: dialect/search_provider/search_provider.in:189
 msgid "Translate “{text}” with {provider_name}"
 msgstr ""
 
-#: dialect/search_provider/search_provider.in:175
+#: dialect/search_provider/search_provider.in:240
 #, fuzzy
 msgid "Copy translation to clipboard"
 msgstr "Kopírovat překlad"
+
+#~ msgid "A network issue has occurred. Retry?"
+#~ msgstr "Došlo k problému se sítí. Zkusit znovu?"
+
+#~ msgid "A network issue has occurred. Please try again."
+#~ msgstr "Došlo k problému se sítí. Prosím, zkuste to znovu."
 
 #~ msgid "translate;translation;"
 #~ msgstr "přeložit;překlad;"

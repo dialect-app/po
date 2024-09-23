@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-24 13:08-0500\n"
+"POT-Creation-Date: 2024-09-23 08:40-0500\n"
 "PO-Revision-Date: 2024-08-01 15:09+0000\n"
 "Last-Translator: Scrambled777 <weblate.scrambled777@simplelogin.com>\n"
 "Language-Team: Hindi <https://hosted.weblate.org/projects/dialect/dialect/hi/"
@@ -21,8 +21,8 @@ msgstr ""
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
-#: data/app.drey.Dialect.metainfo.xml.in.in:6 data/resources/about.blp:5
-#: data/resources/window.blp:280 dialect/main.py:72
+#: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:74
+#: dialect/window.blp:264
 msgid "Dialect"
 msgstr "Dialect"
 
@@ -40,7 +40,8 @@ msgstr ""
 "अनुवाद;Google Translate;LibreTranslate;Lingva Translate;Bing Microsoft "
 "Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 
-#: data/app.drey.Dialect.metainfo.xml.in.in:9 data/resources/about.blp:8
+#. For development version
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:186
 msgid "A translation app for GNOME."
 msgstr "GNOME के लिए एक अनुवाद ऐप।"
 
@@ -93,437 +94,475 @@ msgid "Clipboard buttons"
 msgstr "क्लिपबॉर्ड के बटन"
 
 #. developer_name tag deprecated with Appstream 1.0
-#: data/app.drey.Dialect.metainfo.xml.in.in:34
-#: data/app.drey.Dialect.metainfo.xml.in.in:36 data/resources/about.blp:6
+#: data/app.drey.Dialect.metainfo.xml.in.in:35
+#: data/app.drey.Dialect.metainfo.xml.in.in:37
 msgid "The Dialect Authors"
 msgstr "Dialect के रचयिता"
 
-#: data/resources/about.blp:7
-msgid "Copyright 2020–⁠2023 The Dialect Authors"
+#: dialect/languages.py:63 dialect/widgets/lang_selector.py:84
+msgid "Auto"
+msgstr "स्वतः"
+
+#: dialect/main.py:187
+#, fuzzy
+msgid "Copyright 2020–⁠2024 The Dialect Authors"
 msgstr "कॉपीराइट 2020–⁠2023 Dialect के रचयिता"
 
-#. Translators: Replace me with your names.
-#: data/resources/about.blp:15
+#: dialect/main.py:189
 msgid "translator-credits"
 msgstr ""
 "Hemish <hemish04082005@gmail.com>\n"
 "Scrambled777 <weblate.scrambled777@simplelogin.com>"
 
-#: data/resources/lang-selector.blp:47
-msgid "Search Languages…"
-msgstr "भाषाएं खोजें…"
+#: dialect/main.py:190
+msgid "Donate"
+msgstr "दान करें"
 
-#: data/resources/preferences.ui:8
+#: dialect/preferences.py:132
+msgid "Edit Provider Settings"
+msgstr "प्रदाता सेटिंग्स संपादित करें"
+
+#: dialect/preferences.py:134
+msgid "No Settings for This Provider"
+msgstr "इस प्रदाता के लिए कोई सेटिंग्स नहीं"
+
+#: dialect/preferences.ui:8
 msgid "Providers"
 msgstr "प्रदाता"
 
-#: data/resources/preferences.ui:11
+#: dialect/preferences.ui:11
 msgid "Translator"
 msgstr "अनुवादक"
 
-#: data/resources/preferences.ui:12
+#: dialect/preferences.ui:12
 msgid "Choose from the available translation services."
 msgstr "उपलब्ध अनुवाद सेवाओं में से चुनें।।"
 
-#: data/resources/preferences.ui:43
+#: dialect/preferences.ui:43
 msgid "Text-to-Speech"
 msgstr "पाठ-से-वाक्"
 
-#: data/resources/preferences.ui:44
+#: dialect/preferences.ui:44
 msgid "Choose from the available TTS services."
 msgstr "उपलब्ध TTS सेवाओं में से चुनें।"
 
-#: data/resources/preferences.ui:77
+#: dialect/preferences.ui:77
 msgid "Behavior"
 msgstr "व्यवहार"
 
-#: data/resources/preferences.ui:80
+#: dialect/preferences.ui:80
 msgid "Live Translation"
 msgstr "सीधा अनुवाद"
 
-#: data/resources/preferences.ui:81
+#: dialect/preferences.ui:81
 msgid "Warning: Your IP address may get banned for API abuse."
 msgstr "चेतावनी: API दुरुपयोग के कारण आपका IP पता प्रतिबंधित हो सकता है।"
 
-#: data/resources/preferences.ui:87
+#: dialect/preferences.ui:87
 msgid "Show Translations in Desktop Search"
 msgstr "डेस्कटॉप खोज में अनुवाद दिखाएं"
 
-#: data/resources/preferences.ui:88
+#: dialect/preferences.ui:88
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr "चेतावनी: सभी डेस्कटॉप खोजें अनुवाद सेवा को भेजी जाएंगी"
 
-#: data/resources/preferences.ui:95
+#: dialect/preferences.ui:95
 msgid "Translation Shortcut"
 msgstr "अनुवाद शॉर्टकट"
 
-#: data/resources/preferences.ui:96
+#: dialect/preferences.ui:96
 msgid "The unselected choice will be used for line break."
 msgstr "अचयनित विकल्प का उपयोग लाइन ब्रेक के लिए किया जाएगा।"
 
-#: data/resources/preferences.ui:114
+#: dialect/preferences.ui:114
 msgid "Default to Auto"
 msgstr "स्वतः पर तयशुदा"
 
-#: data/resources/preferences.ui:115
+#: dialect/preferences.ui:115
 msgid "Use \"Auto\" as the default language"
 msgstr "तयशुदा भाषा के रूप में \"स्वतः\" का उपयोग करें"
 
-#: data/resources/preferences.ui:122
+#: dialect/preferences.ui:122
 msgid "Appearance"
 msgstr "दिखावट"
 
-#: data/resources/preferences.ui:125
+#: dialect/preferences.ui:125
 msgid "Use Custom Font Size"
 msgstr "तदनुकूल फॉन्ट आकार का प्रयोग करें"
 
-#: data/resources/preferences.ui:126
+#: dialect/preferences.ui:126
 msgid "System font size is used otherwise."
 msgstr "सिस्टम फॉन्ट आकार का अन्यथा उपयोग किया जाता है।"
 
-#: data/resources/preferences.ui:132
+#: dialect/preferences.ui:132
 msgid "Default Font Size"
 msgstr "तयशुदा फॉन्ट आकार"
 
-#: data/resources/preferences.ui:133
+#: dialect/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
 msgstr "शॉर्टकट के माध्यम से आकार बदलने से यह अधिलेखित नहीं होता है।"
 
-#: data/resources/provider-preferences.blp:5
-#: data/resources/provider-preferences.blp:12
-msgid "Provider Preferences"
-msgstr "प्रदाता प्राथमिकताएं"
-
-#: data/resources/provider-preferences.blp:21
-msgid "Instance URL"
-msgstr "इंस्टेंस URL"
-
-#: data/resources/provider-preferences.blp:22
-msgid "Enter an Instance URL for the Provider."
-msgstr "प्रदाता के लिए इंस्टेंस URL दर्ज करें।"
-
-#: data/resources/provider-preferences.blp:32
-#: data/resources/provider-preferences.blp:62
-msgid "Reset to Default"
-msgstr "तयशुदा पर रीसेट"
-
-#: data/resources/provider-preferences.blp:52
-msgid "API Key"
-msgstr "API कुंजी"
-
-#: data/resources/provider-preferences.blp:53
-msgid "Enter an API Key for the Provider."
-msgstr "प्रदाता के लिए एक API कुंजी दर्ज करें।"
-
-#: data/resources/provider-preferences.blp:83
-msgid "Character Usage"
-msgstr "वर्ण उपयोग"
-
-#: data/resources/shortcuts.blp:13
+#: dialect/shortcuts.blp:13
 msgctxt "shortcuts window"
 msgid "Translator"
 msgstr "अनुवादक"
 
-#: data/resources/shortcuts.blp:16
+#: dialect/shortcuts.blp:16
 msgctxt "shortcuts window"
 msgid "Translate"
 msgstr "अनुवाद"
 
-#: data/resources/shortcuts.blp:21
+#: dialect/shortcuts.blp:21
 msgctxt "shortcuts window"
 msgid "Switch Languages"
 msgstr "भाषाएं बदलें"
 
-#: data/resources/shortcuts.blp:26
+#: dialect/shortcuts.blp:26
 msgctxt "shortcuts window"
 msgid "Select source language"
 msgstr "स्रोत भाषा चुनें"
 
-#: data/resources/shortcuts.blp:31
+#: dialect/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Select destination language"
 msgstr "गंतव्य भाषा चुनें"
 
-#: data/resources/shortcuts.blp:36
+#: dialect/shortcuts.blp:36
 msgctxt "shortcuts window"
 msgid "Clear source text"
 msgstr "स्रोत पाठ साफ करें"
 
-#: data/resources/shortcuts.blp:41
+#: dialect/shortcuts.blp:41
 msgctxt "shortcuts window"
 msgid "Copy translation"
 msgstr "अनुवाद कॉपी करें"
 
-#: data/resources/shortcuts.blp:46
+#: dialect/shortcuts.blp:46
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
 msgstr "उच्चारण दिखाएं"
 
-#: data/resources/shortcuts.blp:51
+#: dialect/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
 msgstr "फॉन्ट आकार बढ़ाएं"
 
-#: data/resources/shortcuts.blp:56
+#: dialect/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
 msgstr "फॉन्ट आकार घटाएं"
 
-#: data/resources/shortcuts.blp:62
+#: dialect/shortcuts.blp:62
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
 msgstr "पाठ-से-वाक्"
 
-#: data/resources/shortcuts.blp:65
+#: dialect/shortcuts.blp:65
 msgctxt "shortcuts window"
 msgid "Listen to source text"
 msgstr "स्रोत पाठ सुनें"
 
-#: data/resources/shortcuts.blp:70
+#: dialect/shortcuts.blp:70
 msgctxt "shortcuts window"
 msgid "Listen to translation"
 msgstr "अनुवाद सुनें"
 
-#: data/resources/shortcuts.blp:76
+#: dialect/shortcuts.blp:76
 msgctxt "shortcuts window"
 msgid "Navigation"
 msgstr "नेविगेशन"
 
-#: data/resources/shortcuts.blp:79
+#: dialect/shortcuts.blp:79
 msgctxt "shortcuts window"
 msgid "Go back in history"
 msgstr "इतिहास में पीछे जायें"
 
-#: data/resources/shortcuts.blp:84
+#: dialect/shortcuts.blp:84
 msgctxt "shortcuts window"
 msgid "Go forward in history"
 msgstr "इतिहास में आगे जायें"
 
-#: data/resources/shortcuts.blp:90
+#: dialect/shortcuts.blp:90
 msgctxt "shortcuts window"
 msgid "General"
 msgstr "सामान्य"
 
-#: data/resources/shortcuts.blp:93
+#: dialect/shortcuts.blp:93
 msgctxt "shortcuts window"
 msgid "Preferences"
 msgstr "प्राथमिकताएं"
 
-#: data/resources/shortcuts.blp:98
+#: dialect/shortcuts.blp:98
 msgctxt "shortcut window"
 msgid "Shortcuts"
 msgstr "शॉर्टकट"
 
-#: data/resources/shortcuts.blp:103
+#: dialect/shortcuts.blp:103
 msgctxt "shortcuts window"
 msgid "Quit"
 msgstr "छोड़ें"
 
-#: data/resources/theme-switcher.blp:20
-msgid "Follow System Style"
-msgstr "सिस्टम शैली का पालन"
-
-#: data/resources/theme-switcher.blp:35
-msgid "Light Style"
-msgstr "हल्की शैली"
-
-#: data/resources/theme-switcher.blp:50
-msgid "Dark Style"
-msgstr "गहरी शैली"
-
-#: data/resources/window.blp:15
+#: dialect/window.blp:15
 msgid "Show Pronunciation"
 msgstr "उच्चारण दिखाएं"
 
-#: data/resources/window.blp:24 dialect/window.py:1079
+#: dialect/window.blp:24 dialect/window.py:1176
 msgid "Preferences"
 msgstr "प्राथमिकताएं"
 
-#: data/resources/window.blp:29
+#: dialect/window.blp:29
 msgid "Keyboard Shortcuts"
 msgstr "कीबोर्ड शॉर्टकट"
 
-#: data/resources/window.blp:34
+#: dialect/window.blp:34
 msgid "About Dialect"
 msgstr "Dialect के बारे में"
 
-#: data/resources/window.blp:80
+#: dialect/window.blp:68 dialect/widgets/speech_button.py:40
 msgid "Loading…"
 msgstr "लोड हो रहा है…"
 
-#: data/resources/window.blp:108 data/resources/window.blp:140
-#: dialect/window.py:490 dialect/window.py:1063 dialect/window.py:1071
-#: dialect/window.py:1087
+#: dialect/window.blp:92 dialect/window.blp:124 dialect/window.py:903
+#: dialect/window.py:1160 dialect/window.py:1168 dialect/window.py:1184
 msgid "Retry"
 msgstr "पुन: प्रयास"
 
-#: data/resources/window.blp:118 data/resources/window.blp:153
-#: data/resources/window.blp:193 data/resources/window.blp:229
+#: dialect/window.blp:102 dialect/window.blp:137 dialect/window.blp:177
+#: dialect/window.blp:213
 msgid "Open Preferences"
 msgstr "प्राथमिकताएं खोलें"
 
-#: data/resources/window.blp:183 data/resources/window.blp:216
+#: dialect/window.blp:167 dialect/window.blp:200
 msgid "Remove Key and Retry"
 msgstr "कुंजी हटाएं और पुनः प्रयास करें"
 
-#: data/resources/window.blp:260 data/resources/window.blp:582
+#: dialect/window.blp:244 dialect/window.blp:566
 msgid "Change Source Language"
 msgstr "स्रोत भाषा बदलें"
 
-#: data/resources/window.blp:265 data/resources/window.blp:590
+#: dialect/window.blp:249 dialect/window.blp:574
 msgid "Switch Languages"
 msgstr "भाषाएं बदलें"
 
-#: data/resources/window.blp:272 data/resources/window.blp:598
+#: dialect/window.blp:256 dialect/window.blp:582
 msgid "Change Destination Language"
 msgstr "गंतव्य भाषा बदलें"
 
-#: data/resources/window.blp:287
+#: dialect/window.blp:271
 msgid "Previous Translation"
 msgstr "पिछला अनुवाद"
 
-#: data/resources/window.blp:293
+#: dialect/window.blp:277
 msgid "Next Translation"
 msgstr "अगला अनुवाद"
 
-#: data/resources/window.blp:300
+#: dialect/window.blp:284
 msgid "Main Menu"
 msgstr "मुख्य मेनू"
 
-#: data/resources/window.blp:401
+#: dialect/window.blp:385
 msgid "Clear"
 msgstr "साफ करें"
 
-#: data/resources/window.blp:407
+#: dialect/window.blp:391
 msgid "Paste"
 msgstr "चिपकाएं"
 
-#: data/resources/window.blp:413 data/resources/window.blp:531
+#: dialect/window.blp:397 dialect/window.blp:515
+#: dialect/widgets/speech_button.blp:5 dialect/widgets/speech_button.py:22
 msgid "Listen"
 msgstr "सुनें"
 
-#: data/resources/window.blp:434
+#: dialect/window.blp:418
 msgid "Translate"
 msgstr "अनुवाद"
 
-#: data/resources/window.blp:505
+#: dialect/window.blp:489
 msgid "Translating…"
 msgstr "अनुवाद हो रहा है…"
 
-#: data/resources/window.blp:510
+#: dialect/window.blp:494
 msgid "Could not Translate the Text"
 msgstr "पाठ का अनुवाद नहीं किया जा सका"
 
-#: data/resources/window.blp:517 dialect/search_provider/search_provider.in:174
+#: dialect/window.blp:501 dialect/search_provider/search_provider.in:239
 msgid "Copy"
 msgstr "कॉपी"
 
-#: data/resources/window.blp:525
+#: dialect/window.blp:509
 msgid "Suggest Translation"
 msgstr "अनुवाद सुझाएं"
 
-#: data/resources/window.blp:549
+#: dialect/window.blp:533
 msgid "Cancel"
 msgstr "रद्द करें"
 
-#: data/resources/window.blp:556
+#: dialect/window.blp:540
 msgid "Save"
 msgstr "सहेजें"
 
-#: dialect/languages.py:61
-msgid "Auto"
-msgstr "स्वतः"
-
-#: dialect/main.py:187
-msgid "Donate"
-msgstr "दान करें"
-
-#: dialect/preferences.py:126
-msgid "Edit Provider Settings"
-msgstr "प्रदाता सेटिंग्स संपादित करें"
-
-#: dialect/preferences.py:128
-msgid "No Settings for This Provider"
-msgstr "इस प्रदाता के लिए कोई सेटिंग्स नहीं"
-
-#: dialect/window.py:389 dialect/search_provider/search_provider.in:114
+#: dialect/window.py:403 dialect/search_provider/search_provider.in:173
 msgid "Failed loading the translation service"
 msgstr "अनुवाद सेवा लोड करने में विफल"
 
-#: dialect/window.py:390
+#: dialect/window.py:404
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr "यदि समस्या बनी रहती है तो कृपया इसे Dialect बग ट्रैकर में रिपोर्ट करें।"
 
-#: dialect/window.py:401
+#: dialect/window.py:415
 msgid "Couldn’t connect to the translation service"
 msgstr "अनुवाद सेवा से जुड़ नहीं सके"
 
-#: dialect/window.py:402
+#: dialect/window.py:416
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr "हम सर्वर से जुड़ नहीं हो पा रहे हैं। कृपया नेटवर्क समस्याओं की जाँच करें।"
 
-#: dialect/window.py:420 dialect/window.py:1077
-#: dialect/search_provider/search_provider.in:103
+#: dialect/window.py:437 dialect/window.py:1174
+#: dialect/search_provider/search_provider.in:161
 msgid "API key is required to use the service"
 msgstr "सेवा का उपयोग करने के लिए API कुंजी आवश्यक है"
 
-#: dialect/window.py:421
+#: dialect/window.py:438
 msgid "Please set an API key in the preferences."
 msgstr "कृपया प्राथमिकताओं में एक API कुंजी निर्धारित करें।"
 
-#: dialect/window.py:424 dialect/window.py:1069
-#: dialect/search_provider/search_provider.in:101
+#: dialect/window.py:441 dialect/window.py:1166
+#: dialect/search_provider/search_provider.in:159
 msgid "The provided API key is invalid"
 msgstr "प्रदत्त API कुंजी अमान्य है"
 
-#: dialect/window.py:426
+#: dialect/window.py:443
 msgid "Please set a valid API key in the preferences."
 msgstr "कृपया प्राथमिकताओं में एक वैध API कुंजी निर्धारित करें।"
 
-#: dialect/window.py:429
+#: dialect/window.py:446
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
 "कृपया एक वैध API कुंजी निर्धारित करें या प्राथमिकताओं में API कुंजी को अनिर्धारित करें।"
 
-#: dialect/window.py:483
-msgid "A network issue has occurred. Retry?"
-msgstr "एक नेटवर्क समस्या उत्पन्न हो गई है। पुनः प्रयास करें?"
+#: dialect/window.py:471
+#, fuzzy
+msgid "Failed loading the text-to-speech service. Retry?"
+msgstr "अनुवाद सेवा लोड करने में विफल"
 
-#: dialect/window.py:496
-msgid "A network issue has occurred. Please try again."
-msgstr "एक नेटवर्क समस्या उत्पन्न हो गई है। कृपया पुन: प्रयास करें।"
+#: dialect/window.py:472
+#, fuzzy
+msgid "Failed loading the text-to-speech service"
+msgstr "अनुवाद सेवा लोड करने में विफल"
 
-#: dialect/window.py:775
+#: dialect/window.py:474
+#, fuzzy
+msgid "Failed loading the text-to-speech service, check for network issues"
+msgstr "हम सर्वर से जुड़ नहीं हो पा रहे हैं। कृपया नेटवर्क समस्याओं की जाँच करें।"
+
+#: dialect/window.py:766
+#, fuzzy
+msgid "Copied to clipboard"
+msgstr "अनुवाद को क्लिपबोर्ड पर कॉपी करें"
+
+#: dialect/window.py:791
 msgid "New translation has been suggested!"
 msgstr "नये अनुवाद का सुझाव दिया गया है!"
 
-#: dialect/window.py:777 dialect/window.py:783
+#: dialect/window.py:793 dialect/window.py:799
 msgid "Suggestion failed."
 msgstr "सुझाव विफल।"
 
+#: dialect/window.py:894
+#, fuzzy
+msgid "Text-to-Speech failed"
+msgstr "पाठ-से-वाक्"
+
+#: dialect/window.py:898
+#, fuzzy
+msgid "Text-to-Speech failed, check for network issues"
+msgstr "अनुवाद विफल, नेटवर्क समस्याओं की जाँच करें"
+
 #: dialect/window.py:907
+#, fuzzy
+msgid "Text-to-Speech failed. Retry?"
+msgstr "पाठ-से-वाक्"
+
+#: dialect/window.py:1002
 msgid "{} characters limit reached!"
 msgstr "{} वर्णों की सीमा पूरी हो गई!"
 
-#: dialect/window.py:1023
+#: dialect/window.py:1123
 msgid "Did you mean: "
 msgstr "क्या आपका मतलब है: "
 
-#: dialect/window.py:1061 dialect/search_provider/search_provider.in:99
+#: dialect/window.py:1158 dialect/search_provider/search_provider.in:157
 msgid "Translation failed, check for network issues"
 msgstr "अनुवाद विफल, नेटवर्क समस्याओं की जाँच करें"
 
-#: dialect/window.py:1085 dialect/search_provider/search_provider.in:105
+#: dialect/window.py:1182 dialect/search_provider/search_provider.in:163
 msgid "Translation failed"
 msgstr "अनुवाद विफल"
 
-#: dialect/search_provider/search_provider.in:129
+#: dialect/widgets/lang_selector.blp:47
+msgid "Search Languages…"
+msgstr "भाषाएं खोजें…"
+
+#: dialect/widgets/provider_preferences.blp:5
+#: dialect/widgets/provider_preferences.blp:12
+msgid "Provider Preferences"
+msgstr "प्रदाता प्राथमिकताएं"
+
+#: dialect/widgets/provider_preferences.blp:21
+msgid "Instance URL"
+msgstr "इंस्टेंस URL"
+
+#: dialect/widgets/provider_preferences.blp:22
+msgid "Enter an Instance URL for the Provider."
+msgstr "प्रदाता के लिए इंस्टेंस URL दर्ज करें।"
+
+#: dialect/widgets/provider_preferences.blp:32
+#: dialect/widgets/provider_preferences.blp:62
+msgid "Reset to Default"
+msgstr "तयशुदा पर रीसेट"
+
+#: dialect/widgets/provider_preferences.blp:52
+msgid "API Key"
+msgstr "API कुंजी"
+
+#: dialect/widgets/provider_preferences.blp:53
+msgid "Enter an API Key for the Provider."
+msgstr "प्रदाता के लिए एक API कुंजी दर्ज करें।"
+
+#: dialect/widgets/provider_preferences.blp:83
+msgid "Character Usage"
+msgstr "वर्ण उपयोग"
+
+#: dialect/widgets/speech_button.py:28
+#, fuzzy
+msgid "Cancel Audio"
+msgstr "रद्द करें"
+
+#: dialect/widgets/theme_switcher.blp:20
+msgid "Follow System Style"
+msgstr "सिस्टम शैली का पालन"
+
+#: dialect/widgets/theme_switcher.blp:35
+msgid "Light Style"
+msgstr "हल्की शैली"
+
+#: dialect/widgets/theme_switcher.blp:50
+msgid "Dark Style"
+msgstr "गहरी शैली"
+
+#: dialect/search_provider/search_provider.in:189
 msgid "Translate “{text}” with {provider_name}"
 msgstr "“{text}” का अनुवाद {provider_name} से करें"
 
-#: dialect/search_provider/search_provider.in:175
+#: dialect/search_provider/search_provider.in:240
 msgid "Copy translation to clipboard"
 msgstr "अनुवाद को क्लिपबोर्ड पर कॉपी करें"
+
+#~ msgid "A network issue has occurred. Retry?"
+#~ msgstr "एक नेटवर्क समस्या उत्पन्न हो गई है। पुनः प्रयास करें?"
+
+#~ msgid "A network issue has occurred. Please try again."
+#~ msgstr "एक नेटवर्क समस्या उत्पन्न हो गई है। कृपया पुन: प्रयास करें।"
 
 #~ msgid "translate;translation;"
 #~ msgstr "अनुवाद;अनुवादन;अनुवादक;translate;translation;"
