@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2024-07-25 19:09+0000\n"
+"PO-Revision-Date: 2024-09-24 06:43+0000\n"
 "Last-Translator: Сергей <asvmail.as@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/dialect/dialect/"
 "ru/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -106,9 +106,8 @@ msgid "Auto"
 msgstr "Авто"
 
 #: dialect/main.py:187
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Авторские права 2020-2023 Авторы Dialect"
+msgstr "Авторские права 2020-2024 Авторы Dialect"
 
 #: dialect/main.py:189
 msgid "translator-credits"
@@ -449,24 +448,23 @@ msgstr ""
 "параметрах."
 
 #: dialect/window.py:471
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "Не удалось загрузить службу перевода"
+msgstr ""
+"Не удалось загрузить службу преобразования текста в речь. Повторить попытку?"
 
 #: dialect/window.py:472
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "Не удалось загрузить службу перевода"
+msgstr "Не удалось загрузить службу преобразования текста в речь"
 
 #: dialect/window.py:474
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
-msgstr "Не можем подключиться к серверу. Проверьте наличие проблем с сетью."
+msgstr ""
+"Не удалось загрузить службу преобразования текста в речь. Проверьте наличие "
+"проблем с сетью"
 
 #: dialect/window.py:766
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "Копировать перевод в буфер обмена"
+msgstr "Скопировано в буфер обмена"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -477,19 +475,17 @@ msgid "Suggestion failed."
 msgstr "Предложение не удалось."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "Текст в речь"
+msgstr "Преобразование текста в речь не удалось"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "Перевод не выполнен, проверьте наличие проблем с соединением"
+msgstr ""
+"Преобразование текста в речь не удалось. Проверьте наличие проблем с сетью"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Текст в речь"
+msgstr "Преобразование текста в речь не удалось. Повторить попытку?"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
@@ -542,9 +538,8 @@ msgid "Character Usage"
 msgstr "Использование символов"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "Отменить"
+msgstr "Отменить аудио"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
