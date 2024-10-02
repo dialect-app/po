@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2024-07-31 13:09+0000\n"
+"PO-Revision-Date: 2024-10-02 00:15+0000\n"
 "Last-Translator: Andrea Andre <andrea.tsg19@slmail.me>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/dialect/dialect/"
 "it/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -105,9 +105,8 @@ msgid "Auto"
 msgstr "Automatico"
 
 #: dialect/main.py:187
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Copyright 2020–⁠2023 Gli autori di Dialect"
+msgstr "Copyright 2020–⁠2024 Gli autori di Dialect"
 
 #: dialect/main.py:189
 msgid "translator-credits"
@@ -446,26 +445,22 @@ msgstr ""
 "Inserire una chiave API valida o rimuovere la chiave API nelle preferenze."
 
 #: dialect/window.py:471
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "Caricamento del servizio di traduzione fallito"
+msgstr "Il caricamento del servizio di sintesi vocale è fallito. Riprovare?"
 
 #: dialect/window.py:472
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "Caricamento del servizio di traduzione fallito"
+msgstr "Impossibile caricare il servizio di sintesi vocale"
 
 #: dialect/window.py:474
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr ""
-"Non è stato possibile connettersi al server. Verifica se ci sono problemi di "
-"rete."
+"Impossibile caricare il servizio di sintesi vocale, verificare la presenza "
+"di problemi di rete"
 
 #: dialect/window.py:766
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "Copia la traduzione negli appunti"
+msgstr "Copiato negli appunti"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -476,19 +471,17 @@ msgid "Suggestion failed."
 msgstr "Il suggerimento è fallito."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "Sintesi vocale"
+msgstr "Sintesi vocale non riuscita"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "Traduzione non riuscita. Verifica se ci sono problemi di rete"
+msgstr ""
+"La sintesi vocale non è riuscita, verificare la presenza di problemi di rete"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Sintesi vocale"
+msgstr "La sintesi vocale non è riuscita. Riprovare?"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
@@ -541,9 +534,8 @@ msgid "Character Usage"
 msgstr "Utilizzo dei caratteri"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "Annulla"
+msgstr "Senza audio"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"

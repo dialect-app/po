@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2024-07-31 13:09+0000\n"
+"PO-Revision-Date: 2024-10-02 00:15+0000\n"
 "Last-Translator: Andrea Andre <andrea.tsg19@slmail.me>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/dialect/dialect/"
 "ro/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -106,9 +106,8 @@ msgid "Auto"
 msgstr "Automată"
 
 #: dialect/main.py:187
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Drepturi de autor 2020-2023 Autorii programului Dialect"
+msgstr "Drepturi de autor 2020-2024 Autorii programului Dialect"
 
 #: dialect/main.py:189
 msgid "translator-credits"
@@ -446,24 +445,22 @@ msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr "Indrodu un cod API valabil sau elimină codul API în „Preferințe”."
 
 #: dialect/window.py:471
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "Nu s-a reușit încărcarea serviciului de traducere"
+msgstr "Nu s-a reușit încărcarea serviciului de pronunțare. Încerci din nou?"
 
 #: dialect/window.py:472
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "Nu s-a reușit încărcarea serviciului de traducere"
+msgstr "Nu s-a reușit încărcarea serviciului de pronunțare"
 
 #: dialect/window.py:474
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
-msgstr "Nu se poate conecta la server. Verifică dacă există probleme de rețea."
+msgstr ""
+"Nu se poate încărca serviciul de pronunțare; verifică dacă există probleme "
+"de rețea"
 
 #: dialect/window.py:766
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "Copiază traducerea în memorie"
+msgstr "Copiat în memorie"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -474,19 +471,16 @@ msgid "Suggestion failed."
 msgstr "Sugestia a eșuat."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "Pronunțare Text"
+msgstr "Pronunțare nereușită"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "Traducere nereușită, verifică dacă există probleme de rețea"
+msgstr "Pronunțare nereușită; verifică dacă există probleme de rețea"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Pronunțare Text"
+msgstr "Pronunțare nereușită. Încerci din nou?"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
@@ -539,9 +533,8 @@ msgid "Character Usage"
 msgstr "Utilizarea caracterelor"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "Renunță"
+msgstr "Fără sonor"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
