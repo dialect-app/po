@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2024-09-07 17:09+0000\n"
+"PO-Revision-Date: 2024-10-02 00:15+0000\n"
 "Last-Translator: ovari <ovari123@zoho.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/dialect/"
 "dialect/hu/>\n"
@@ -104,9 +104,8 @@ msgid "Auto"
 msgstr "Automatikus"
 
 #: dialect/main.py:187
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Szerzői jog © 2020–2023 A Dialect szerzői"
+msgstr "Szerzői jog © 2020–2024 A Dialect szerzői"
 
 #: dialect/main.py:189
 msgid "translator-credits"
@@ -406,7 +405,7 @@ msgstr "Mentés"
 
 #: dialect/window.py:403 dialect/search_provider/search_provider.in:173
 msgid "Failed loading the translation service"
-msgstr "A fordítási szolgáltatás nem tölthető be"
+msgstr "Nem sikerült betölteni a fordítási szolgáltatást"
 
 #: dialect/window.py:404
 msgid "Please report this in the Dialect bug tracker if the issue persists."
@@ -447,26 +446,23 @@ msgstr ""
 "beállításokban."
 
 #: dialect/window.py:471
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "A fordítási szolgáltatás nem tölthető be"
+msgstr ""
+"Nem sikerült betölteni a szövegfelolvasó szolgáltatást. Megpróbálja újra?"
 
 #: dialect/window.py:472
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "A fordítási szolgáltatás nem tölthető be"
+msgstr "Nem sikerült betölteni a szövegfelolvasó szolgáltatást"
 
 #: dialect/window.py:474
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr ""
-"Nem sikerült kapcsolódni a kiszolgálóhoz. Ellenőrizze, hogy nincs-e hálózati "
-"probléma."
+"Nem sikerült betölteni a szövegfelolvasó szolgáltatást, ellenőrizze a "
+"hálózati hibákat"
 
 #: dialect/window.py:766
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "Fordítás másolása a vágólapra"
+msgstr "Vágólapra másolva"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -474,22 +470,19 @@ msgstr "Új fordítás lett javasolva!"
 
 #: dialect/window.py:793 dialect/window.py:799
 msgid "Suggestion failed."
-msgstr "A javaslat sikertelen."
+msgstr "Nem sikerült a javaslat."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "Szöveg beszéddé alakítása"
+msgstr "Nem sikerült a szövegfelolvasó"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "Fordítás sikertelen, ellenőrizze, hogy nincs-e hálózati probléma"
+msgstr "Nem sikerült a szövegfelolvasó, ellenőrizze a hálózati hibákat"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Szöveg beszéddé alakítása"
+msgstr "Nem sikerült a szövegfelolvasó. Megpróbálja újra?"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
@@ -501,11 +494,11 @@ msgstr "Erre gondolhatott: "
 
 #: dialect/window.py:1158 dialect/search_provider/search_provider.in:157
 msgid "Translation failed, check for network issues"
-msgstr "Fordítás sikertelen, ellenőrizze, hogy nincs-e hálózati probléma"
+msgstr "Nem sikerült a fordítás, ellenőrizze a hálózati hibákat"
 
 #: dialect/window.py:1182 dialect/search_provider/search_provider.in:163
 msgid "Translation failed"
-msgstr "Fordítás sikertelen"
+msgstr "Nem sikerült a fordítás"
 
 #: dialect/widgets/lang_selector.blp:47
 msgid "Search Languages…"
@@ -542,9 +535,8 @@ msgid "Character Usage"
 msgstr "Karakterhasználat"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "Mégse"
+msgstr "Hang leállítása"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
