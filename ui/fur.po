@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2023-04-30 07:48+0000\n"
+"PO-Revision-Date: 2024-10-06 21:28+0000\n"
 "Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
 "Language-Team: Friulian <https://hosted.weblate.org/projects/dialect/dialect/"
 "fur/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -37,6 +37,9 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"translate;translation;tradûs;volte;traduzion;Google Translate;LibreTranslate;"
+"Lingva Translate;Bing Microsoft Translator;Bing Translator;Microsoft "
+"Translator;Yandex Translate; "
 
 #. For development version
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:186
@@ -64,19 +67,16 @@ msgid "Translation based on Lingva Translate API"
 msgstr "Traduzion basade su lis API di Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr "Traduzion basade su lis API di Lingva Translate"
+msgstr "Traduzion basade su Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "Traduzion basade su Google Translate"
+msgstr "Traduzion basade su Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "Traduzion basade su Google Translate"
+msgstr "Traduzion basade su DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -105,9 +105,8 @@ msgid "Auto"
 msgstr "Automatic"
 
 #: dialect/main.py:187
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Copyright 2020–⁠2022 I autôrs di Dialect"
+msgstr "Copyright 2020–⁠2024 I autôrs di Dialect"
 
 #: dialect/main.py:189
 msgid "translator-credits"
@@ -115,19 +114,19 @@ msgstr "Fabio Tomat"
 
 #: dialect/main.py:190
 msgid "Donate"
-msgstr ""
+msgstr "Donâ"
 
 #: dialect/preferences.py:132
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Modifiche impostazions dal furnidôr"
 
 #: dialect/preferences.py:134
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Nissune impostazion par chest furnidôr"
 
 #: dialect/preferences.ui:8
 msgid "Providers"
-msgstr ""
+msgstr "Furnidôrs"
 
 #: dialect/preferences.ui:11
 msgid "Translator"
@@ -142,9 +141,8 @@ msgid "Text-to-Speech"
 msgstr "Sintesi vocâl"
 
 #: dialect/preferences.ui:44
-#, fuzzy
 msgid "Choose from the available TTS services."
-msgstr "Sielç tra i servizis di traduzion disponibii."
+msgstr "Sielç tra i servizis di TTS disponibii."
 
 #: dialect/preferences.ui:77
 msgid "Behavior"
@@ -186,24 +184,23 @@ msgstr "Dopre \"Automatic\" come lenghe predefinît"
 
 #: dialect/preferences.ui:122
 msgid "Appearance"
-msgstr ""
+msgstr "Aspiet"
 
 #: dialect/preferences.ui:125
 msgid "Use Custom Font Size"
-msgstr ""
+msgstr "Dopre lis impostazions personalizadis dai caratars"
 
 #: dialect/preferences.ui:126
 msgid "System font size is used otherwise."
-msgstr ""
+msgstr "In câs contrari e ven doprade la dimension dai caratars di sisteme."
 
 #: dialect/preferences.ui:132
-#, fuzzy
 msgid "Default Font Size"
-msgstr "Predefinît su Automatic"
+msgstr "Dimension predefinide dai caratars"
 
 #: dialect/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
-msgstr ""
+msgstr "La modifiche de dimension a mieç des scurtis no cambie chest dât."
 
 #: dialect/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -221,15 +218,14 @@ msgid "Switch Languages"
 msgstr "Cambie lenghe"
 
 #: dialect/shortcuts.blp:26
-#, fuzzy
 msgctxt "shortcuts window"
 msgid "Select source language"
-msgstr "Cambie lenghe"
+msgstr "Selezione la lenghe sorzint"
 
 #: dialect/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Select destination language"
-msgstr ""
+msgstr "Selezione la lenghe di destinazion"
 
 #: dialect/shortcuts.blp:36
 msgctxt "shortcuts window"
@@ -249,12 +245,12 @@ msgstr "Mostre pronunzie"
 #: dialect/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr ""
+msgstr "Aumente dimension caratars"
 
 #: dialect/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr ""
+msgstr "Diminuìs dimension caratars"
 
 #: dialect/shortcuts.blp:62
 msgctxt "shortcuts window"
@@ -342,30 +338,27 @@ msgstr "Gjave la clâf e torne prove"
 
 #: dialect/window.blp:244 dialect/window.blp:566
 msgid "Change Source Language"
-msgstr ""
+msgstr "Cambie la lenghe sorzint"
 
 #: dialect/window.blp:249 dialect/window.blp:574
-#, fuzzy
 msgid "Switch Languages"
-msgstr "Cambie lenghe"
+msgstr "Scambie lenghis"
 
 #: dialect/window.blp:256 dialect/window.blp:582
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Cambie la lenghe di destinazion"
 
 #: dialect/window.blp:271
-#, fuzzy
 msgid "Previous Translation"
-msgstr "Traduzion precdente"
+msgstr "Traduzion prime"
 
 #: dialect/window.blp:277
-#, fuzzy
 msgid "Next Translation"
-msgstr "Prossime traduzion"
+msgstr "Traduzion sucessive"
 
 #: dialect/window.blp:284
 msgid "Main Menu"
-msgstr ""
+msgstr "Menù principâl"
 
 #: dialect/window.blp:385
 msgid "Clear"
@@ -389,7 +382,6 @@ msgid "Translating…"
 msgstr "Daûr a tradusi…"
 
 #: dialect/window.blp:494
-#, fuzzy
 msgid "Could not Translate the Text"
 msgstr "Nol è stât pussibil voltâ il test"
 
@@ -452,25 +444,22 @@ msgstr ""
 "Par plasê inserìs une clâf API valide o gjave la clâf API tes preferencis."
 
 #: dialect/window.py:471
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "Cjariament dal servizi di traduzion falît"
+msgstr "Nol è stât pussibil cjariâ il servizi di sintesi vocâl. Tornâ a provâ?"
 
 #: dialect/window.py:472
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "Cjariament dal servizi di traduzion falît"
+msgstr "Impussibil cjariâ il servizi di sintesi vocâl"
 
 #: dialect/window.py:474
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr ""
-"Nol è stât pussibil conetisi al servidôr. Controle di no vê problemis di rêt."
+"Impussibil cjariâ il servizi di sintesi vocâl, controle di no vê problemis "
+"di rêt"
 
 #: dialect/window.py:766
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "Copie traduzion"
+msgstr "Copiât intes notis"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -481,19 +470,16 @@ msgid "Suggestion failed."
 msgstr "Sugjeriment falît."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "Sintesi vocâl"
+msgstr "Sintesi vocâl falide"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "Traduzion lade strucje, controle di no vê problemis di rêt"
+msgstr "La sintesi vocâl no à funzionât, controle di no vê problemis di rêt"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Sintesi vocâl"
+msgstr "Sintesi vocâl falide. Tornâ a provâ?"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
@@ -517,66 +503,57 @@ msgstr "Cîr lenghis…"
 
 #: dialect/widgets/provider_preferences.blp:5
 #: dialect/widgets/provider_preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "Vierç lis preferencis"
+msgstr "Preferencis furnidôr"
 
 #: dialect/widgets/provider_preferences.blp:21
 msgid "Instance URL"
-msgstr ""
+msgstr "URL de istance"
 
 #: dialect/widgets/provider_preferences.blp:22
-#, fuzzy
 msgid "Enter an Instance URL for the Provider."
-msgstr "Inserìs une clâf API pal servizi di traduzion."
+msgstr "Inserìs un URL di istance pal furnidôr."
 
 #: dialect/widgets/provider_preferences.blp:32
 #: dialect/widgets/provider_preferences.blp:62
-#, fuzzy
 msgid "Reset to Default"
-msgstr "Ripristine ai valôrs predefinîts"
+msgstr "Ripristine lis impostazions predefinidis"
 
 #: dialect/widgets/provider_preferences.blp:52
 msgid "API Key"
 msgstr "Clâf API"
 
 #: dialect/widgets/provider_preferences.blp:53
-#, fuzzy
 msgid "Enter an API Key for the Provider."
-msgstr "Inserìs une clâf API pal servizi di traduzion."
+msgstr "Inserìs une clâf API pal furnidôr."
 
 #: dialect/widgets/provider_preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "Utilizazion dai caratars"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "Anule"
+msgstr "Cence audio"
 
 #: dialect/widgets/theme_switcher.blp:20
-#, fuzzy
 msgid "Follow System Style"
 msgstr "Va daûr dal stîl dal sisteme"
 
 #: dialect/widgets/theme_switcher.blp:35
-#, fuzzy
 msgid "Light Style"
 msgstr "Stîl clâr"
 
 #: dialect/widgets/theme_switcher.blp:50
-#, fuzzy
 msgid "Dark Style"
 msgstr "Stîl scûr"
 
 #: dialect/search_provider/search_provider.in:189
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "Volte \"{text}\" cun {provider_name}"
 
 #: dialect/search_provider/search_provider.in:240
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "Copie traduzion"
+msgstr "Copie la traduzion intes notis"
 
 #, fuzzy
 #~ msgid "A network issue has occurred. Retry?"
