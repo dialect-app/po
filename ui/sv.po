@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2024-07-26 05:29+0000\n"
+"PO-Revision-Date: 2024-10-06 21:28+0000\n"
 "Last-Translator: bittin1ddc447d824349b2 <bittin@reimu.nl>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/dialect/dialect/"
 "sv/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -105,9 +105,8 @@ msgid "Auto"
 msgstr "Auto"
 
 #: dialect/main.py:187
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Copyright 2020–⁠2023 Dialects utvecklare"
+msgstr "Copyright 2020–⁠2024 Dialects utvecklare"
 
 #: dialect/main.py:189
 msgid "translator-credits"
@@ -442,25 +441,21 @@ msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr "Ange en giltig API-nyckel eller ta bort API-nyckeln i inställningarna."
 
 #: dialect/window.py:471
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "Kunde inte läsa in översättningstjänsten"
+msgstr "Det gick inte att ladda text-till-tal-tjänsten. Försök igen?"
 
 #: dialect/window.py:472
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "Kunde inte läsa in översättningstjänsten"
+msgstr "Det gick inte att ladda text-till-tal-tjänsten"
 
 #: dialect/window.py:474
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr ""
-"Vi kan inte ansluta till servern. Kontrollera om det finns nätverksproblem."
+"Det gick inte att ladda text-till-tal-tjänsten, kontrollera nätverksproblem"
 
 #: dialect/window.py:766
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "Kopiera översättning till urklipp"
+msgstr "Kopierat till urklipp"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -471,19 +466,16 @@ msgid "Suggestion failed."
 msgstr "Förslaget misslyckades."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "Text-till-tal"
+msgstr "Text-till-tal misslyckades"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "Översättningen misslyckades, kontrollera om det finns nätverksproblem"
+msgstr "Text-till-tal misslyckades. Kontrollera om det finns nätverksproblem"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Text-till-tal"
+msgstr "Text-till-tal misslyckades. Försök igen?"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
@@ -536,9 +528,8 @@ msgid "Character Usage"
 msgstr "Teckenanvändning"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "Avbryt"
+msgstr "Avbryt ljud"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
