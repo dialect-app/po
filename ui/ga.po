@@ -8,25 +8,29 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-10-15 15:15+0000\n"
+"Last-Translator: Aindriú Mac Giolla Eoin <aindriu80@gmail.com>\n"
+"Language-Team: Irish <https://hosted.weblate.org/projects/dialect/dialect/ga/"
+">\n"
 "Language: ga\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :("
+"n>6 && n<11) ? 3 : 4;\n"
+"X-Generator: Weblate 5.8-rc\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:74
 #: dialect/window.blp:264
 msgid "Dialect"
-msgstr ""
+msgstr "Dialect"
 
 #: data/app.drey.Dialect.desktop.in.in:10
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
-msgstr ""
+msgstr "Aistrigh idir teangacha"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:14
@@ -34,507 +38,520 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"aistrigh; aistriúchán; Google Translate; LibreTranslate; Lingva Translate; "
+"Bing Microsoft Translator; Aistritheoir Bing; Microsoft Translator; Yandex "
+"Aistriú; "
 
 #. For development version
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:186
 msgid "A translation app for GNOME."
-msgstr ""
+msgstr "Aip aistriúcháin do GNOME."
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
-msgstr ""
+msgstr "Gnéithe:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
 msgid "Translation based on Google Translate"
-msgstr ""
+msgstr "Aistriúchán bunaithe ar Google Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
+"Aistriúchán bunaithe ar API LibreTranslate, rud a ligeann duit aon ásc "
+"poiblí a úsáid"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
-msgstr ""
+msgstr "Aistriúchán bunaithe ar API Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Translation based on Bing"
-msgstr ""
+msgstr "Aistriúchán bunaithe ar Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
 msgid "Translation based on Yandex"
-msgstr ""
+msgstr "Aistriúchán bunaithe ar Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Translation based on DeepL"
-msgstr ""
+msgstr "Aistriúchán bunaithe ar DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
-msgstr ""
+msgstr "Téacs go caint"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Translation history"
-msgstr ""
+msgstr "Stair an aistriúcháin"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Automatic language detection"
-msgstr ""
+msgstr "Brath uathoibríoch teanga"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:25
 msgid "Clipboard buttons"
-msgstr ""
+msgstr "Cnaipí gearrthaisce"
 
 #. developer_name tag deprecated with Appstream 1.0
 #: data/app.drey.Dialect.metainfo.xml.in.in:35
 #: data/app.drey.Dialect.metainfo.xml.in.in:37
 msgid "The Dialect Authors"
-msgstr ""
+msgstr "Údair na gCanúintí"
 
 #: dialect/languages.py:63 dialect/widgets/lang_selector.py:84
 msgid "Auto"
-msgstr ""
+msgstr "Carr"
 
 #: dialect/main.py:187
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr ""
+msgstr "Cóipcheart 2020–2024 Údair na gCanúintí"
 
 #: dialect/main.py:189
 msgid "translator-credits"
-msgstr ""
+msgstr "Creidmheasanna aistritheora"
 
 #: dialect/main.py:190
 msgid "Donate"
-msgstr ""
+msgstr "Deonaigh"
 
 #: dialect/preferences.py:132
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Cuir Socruithe Soláthraí in Eagar"
 
 #: dialect/preferences.py:134
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Níl aon socruithe don soláthraí seo"
 
 #: dialect/preferences.ui:8
 msgid "Providers"
-msgstr ""
+msgstr "Soláthraithe"
 
 #: dialect/preferences.ui:11
 msgid "Translator"
-msgstr ""
+msgstr "Aistritheoir"
 
 #: dialect/preferences.ui:12
 msgid "Choose from the available translation services."
-msgstr ""
+msgstr "Roghnaigh ó na seirbhísí aistriúcháin atá ar fáil."
 
 #: dialect/preferences.ui:43
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Téacs- go- Caint"
 
 #: dialect/preferences.ui:44
 msgid "Choose from the available TTS services."
-msgstr ""
+msgstr "Roghnaigh ó na seirbhísí TTS atá ar fáil."
 
 #: dialect/preferences.ui:77
 msgid "Behavior"
-msgstr ""
+msgstr "Oibriú"
 
 #: dialect/preferences.ui:80
 msgid "Live Translation"
-msgstr ""
+msgstr "Aistriúchán Beo"
 
 #: dialect/preferences.ui:81
 msgid "Warning: Your IP address may get banned for API abuse."
 msgstr ""
+"Rabhadh: D'fhéadfadh cosc a chur ar do sheoladh IP le haghaidh mí-úsáid API."
 
 #: dialect/preferences.ui:87
 msgid "Show Translations in Desktop Search"
-msgstr ""
+msgstr "Taispeáin Aistriúcháin sa Chuardach Deisce"
 
 #: dialect/preferences.ui:88
 msgid "Warning: All desktop searches will be sent to the translation service"
-msgstr ""
+msgstr "Rabhadh: Seolfar gach cuardach deisce chuig an tseirbhís aistriúcháin"
 
 #: dialect/preferences.ui:95
 msgid "Translation Shortcut"
-msgstr ""
+msgstr "Aicearra Aistriúcháin"
 
 #: dialect/preferences.ui:96
 msgid "The unselected choice will be used for line break."
-msgstr ""
+msgstr "Úsáidfear an rogha neamhroghnaithe le haghaidh sos líne."
 
 #: dialect/preferences.ui:114
 msgid "Default to Auto"
-msgstr ""
+msgstr "Réamhshocrú go hUathoibríoch"
 
 #: dialect/preferences.ui:115
 msgid "Use \"Auto\" as the default language"
-msgstr ""
+msgstr "Úsáid \"Auto\" mar an teanga réamhshocraithe"
 
 #: dialect/preferences.ui:122
 msgid "Appearance"
-msgstr ""
+msgstr "Dealramh"
 
 #: dialect/preferences.ui:125
 msgid "Use Custom Font Size"
-msgstr ""
+msgstr "Úsáid Clómhéid Saincheaptha"
 
 #: dialect/preferences.ui:126
 msgid "System font size is used otherwise."
-msgstr ""
+msgstr "Úsáidtear clómhéid an chórais ar shlí eile."
 
 #: dialect/preferences.ui:132
 msgid "Default Font Size"
-msgstr ""
+msgstr "Clómhéid Réamhshocraithe"
 
 #: dialect/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
-msgstr ""
+msgstr "Ní dhéanann athrú ar an méid trí aicearraí forscríobh seo."
 
 #: dialect/shortcuts.blp:13
 msgctxt "shortcuts window"
 msgid "Translator"
-msgstr ""
+msgstr "Aistritheoir"
 
 #: dialect/shortcuts.blp:16
 msgctxt "shortcuts window"
 msgid "Translate"
-msgstr ""
+msgstr "Aistrigh"
 
 #: dialect/shortcuts.blp:21
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr ""
+msgstr "Athraigh Teangacha"
 
 #: dialect/shortcuts.blp:26
 msgctxt "shortcuts window"
 msgid "Select source language"
-msgstr ""
+msgstr "Roghnaigh teanga fhoinseach"
 
 #: dialect/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Select destination language"
-msgstr ""
+msgstr "Roghnaigh teanga sprice"
 
 #: dialect/shortcuts.blp:36
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "Glan téacs foinseach"
 
 #: dialect/shortcuts.blp:41
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr ""
+msgstr "Cóipeáil aistriúchán"
 
 #: dialect/shortcuts.blp:46
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "Taispeáin Fuaimniú"
 
 #: dialect/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr ""
+msgstr "Méadaigh clómhéid"
 
 #: dialect/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr ""
+msgstr "Laghdaigh méid an chló"
 
 #: dialect/shortcuts.blp:62
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Téacs- go- Caint"
 
 #: dialect/shortcuts.blp:65
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "Éist le téacs foinseach"
 
 #: dialect/shortcuts.blp:70
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr ""
+msgstr "Éist leis an aistriúchán"
 
 #: dialect/shortcuts.blp:76
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "Nascleanúint"
 
 #: dialect/shortcuts.blp:79
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "Téigh siar sa stair"
 
 #: dialect/shortcuts.blp:84
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr ""
+msgstr "Téigh ar aghaidh sa stair"
 
 #: dialect/shortcuts.blp:90
 msgctxt "shortcuts window"
 msgid "General"
-msgstr ""
+msgstr "Ginearálta"
 
 #: dialect/shortcuts.blp:93
 msgctxt "shortcuts window"
 msgid "Preferences"
-msgstr ""
+msgstr "Sainroghanna"
 
 #: dialect/shortcuts.blp:98
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr ""
+msgstr "Aicearraí"
 
 #: dialect/shortcuts.blp:103
 msgctxt "shortcuts window"
 msgid "Quit"
-msgstr ""
+msgstr "Scoir"
 
 #: dialect/window.blp:15
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "Taispeáin Fuaimniú"
 
 #: dialect/window.blp:24 dialect/window.py:1176
 msgid "Preferences"
-msgstr ""
+msgstr "Sainroghanna"
 
 #: dialect/window.blp:29
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Aicearraí Méarchláir"
 
 #: dialect/window.blp:34
 msgid "About Dialect"
-msgstr ""
+msgstr "Maidir leis an gCanúint"
 
 #: dialect/window.blp:68 dialect/widgets/speech_button.py:40
 msgid "Loading…"
-msgstr ""
+msgstr "Á Luchtú…"
 
 #: dialect/window.blp:92 dialect/window.blp:124 dialect/window.py:903
 #: dialect/window.py:1160 dialect/window.py:1168 dialect/window.py:1184
 msgid "Retry"
-msgstr ""
+msgstr "Atriail"
 
 #: dialect/window.blp:102 dialect/window.blp:137 dialect/window.blp:177
 #: dialect/window.blp:213
 msgid "Open Preferences"
-msgstr ""
+msgstr "Sainroghanna Oscailte"
 
 #: dialect/window.blp:167 dialect/window.blp:200
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "Bain Eochair agus Atriail"
 
 #: dialect/window.blp:244 dialect/window.blp:566
 msgid "Change Source Language"
-msgstr ""
+msgstr "Athraigh Teanga Fhoinseach"
 
 #: dialect/window.blp:249 dialect/window.blp:574
 msgid "Switch Languages"
-msgstr ""
+msgstr "Athraigh Teangacha"
 
 #: dialect/window.blp:256 dialect/window.blp:582
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Athraigh Teanga Cheann Scríbe"
 
 #: dialect/window.blp:271
 msgid "Previous Translation"
-msgstr ""
+msgstr "Aistriúchán Roimhe Seo"
 
 #: dialect/window.blp:277
 msgid "Next Translation"
-msgstr ""
+msgstr "An Chéad Aistriúchán Eile"
 
 #: dialect/window.blp:284
 msgid "Main Menu"
-msgstr ""
+msgstr "Príomh-Roghchlár"
 
 #: dialect/window.blp:385
 msgid "Clear"
-msgstr ""
+msgstr "Glan"
 
 #: dialect/window.blp:391
 msgid "Paste"
-msgstr ""
+msgstr "Greamaigh"
 
 #: dialect/window.blp:397 dialect/window.blp:515
 #: dialect/widgets/speech_button.blp:5 dialect/widgets/speech_button.py:22
 msgid "Listen"
-msgstr ""
+msgstr "Éist"
 
 #: dialect/window.blp:418
 msgid "Translate"
-msgstr ""
+msgstr "Aistrigh"
 
 #: dialect/window.blp:489
 msgid "Translating…"
-msgstr ""
+msgstr "Ag aistriú…"
 
 #: dialect/window.blp:494
 msgid "Could not Translate the Text"
-msgstr ""
+msgstr "Níorbh fhéidir an téacs a aistriú"
 
 #: dialect/window.blp:501 dialect/search_provider/search_provider.in:239
 msgid "Copy"
-msgstr ""
+msgstr "Cóipeáil"
 
 #: dialect/window.blp:509
 msgid "Suggest Translation"
-msgstr ""
+msgstr "Mol Aistriúchán"
 
 #: dialect/window.blp:533
 msgid "Cancel"
-msgstr ""
+msgstr "Cuir ar ceal"
 
 #: dialect/window.blp:540
 msgid "Save"
-msgstr ""
+msgstr "Sábháil"
 
 #: dialect/window.py:403 dialect/search_provider/search_provider.in:173
 msgid "Failed loading the translation service"
-msgstr ""
+msgstr "Theip ar luchtú na seirbhíse aistriúcháin"
 
 #: dialect/window.py:404
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
+"Tabhair tuairisc air seo sa rianaire fabht Canúna má leanann an cheist ar "
+"aghaidh."
 
 #: dialect/window.py:415
 msgid "Couldn’t connect to the translation service"
-msgstr ""
+msgstr "Níorbh fhéidir ceangal leis an tseirbhís aistriúcháin"
 
 #: dialect/window.py:416
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
+"Ní féidir linn ceangal leis an bhfreastalaí. Seiceáil le do thoil le "
+"haghaidh saincheisteanna líonra."
 
 #: dialect/window.py:437 dialect/window.py:1174
 #: dialect/search_provider/search_provider.in:161
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "Tá eochair API ag teastáil chun an tseirbhís a úsáid"
 
 #: dialect/window.py:438
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "Socraigh eochair API sna roghanna."
 
 #: dialect/window.py:441 dialect/window.py:1166
 #: dialect/search_provider/search_provider.in:159
 msgid "The provided API key is invalid"
-msgstr ""
+msgstr "Tá an eochair API atá curtha ar fáil neamhbhailí"
 
 #: dialect/window.py:443
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "Socraigh eochair bhailí API sna sainroghanna."
 
 #: dialect/window.py:446
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
+"Socraigh eochair API bhailí nó díshocraigh an eochair API sna sainroghanna."
 
 #: dialect/window.py:471
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr ""
+msgstr "Theip ar luchtú na seirbhíse téacs- go- hurlabhra. Atriail?"
 
 #: dialect/window.py:472
 msgid "Failed loading the text-to-speech service"
-msgstr ""
+msgstr "Theip ar luchtú na seirbhíse téacs- go- hurlabhra"
 
 #: dialect/window.py:474
 msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr ""
+"Theip ar luchtú na seirbhíse téacs- go- hurlabhra, seiceáil le haghaidh "
+"saincheisteanna líonra"
 
 #: dialect/window.py:766
 msgid "Copied to clipboard"
-msgstr ""
+msgstr "Cóipeáladh go dtí an ghearrthaisce"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
-msgstr ""
+msgstr "Tá aistriúchán nua molta!"
 
 #: dialect/window.py:793 dialect/window.py:799
 msgid "Suggestion failed."
-msgstr ""
+msgstr "Theip ar mholadh."
 
 #: dialect/window.py:894
 msgid "Text-to-Speech failed"
-msgstr ""
+msgstr "Theip ar théacs- go- Caint"
 
 #: dialect/window.py:898
 msgid "Text-to-Speech failed, check for network issues"
-msgstr ""
+msgstr "Theip ar théacs- go- Caint, seiceáil le haghaidh saincheisteanna líonra"
 
 #: dialect/window.py:907
 msgid "Text-to-Speech failed. Retry?"
-msgstr ""
+msgstr "Theip ar théacs go hurlabhra. Atriail?"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
-msgstr ""
+msgstr "{} teorainn carachtair sroichte!"
 
 #: dialect/window.py:1123
 msgid "Did you mean: "
-msgstr ""
+msgstr "An raibh i gceist agat: "
 
 #: dialect/window.py:1158 dialect/search_provider/search_provider.in:157
 msgid "Translation failed, check for network issues"
-msgstr ""
+msgstr "Theip ar aistriúchán, seiceáil le haghaidh saincheisteanna líonra"
 
 #: dialect/window.py:1182 dialect/search_provider/search_provider.in:163
 msgid "Translation failed"
-msgstr ""
+msgstr "Theip ar aistriúchán"
 
 #: dialect/widgets/lang_selector.blp:47
 msgid "Search Languages…"
-msgstr ""
+msgstr "Cuardaigh Teangacha…"
 
 #: dialect/widgets/provider_preferences.blp:5
 #: dialect/widgets/provider_preferences.blp:12
 msgid "Provider Preferences"
-msgstr ""
+msgstr "Sainroghanna Soláthraí"
 
 #: dialect/widgets/provider_preferences.blp:21
 msgid "Instance URL"
-msgstr ""
+msgstr "URL ásc"
 
 #: dialect/widgets/provider_preferences.blp:22
 msgid "Enter an Instance URL for the Provider."
-msgstr ""
+msgstr "Iontráil URL samplach don soláthraí."
 
 #: dialect/widgets/provider_preferences.blp:32
 #: dialect/widgets/provider_preferences.blp:62
 msgid "Reset to Default"
-msgstr ""
+msgstr "Athshocraigh go Réamhshocrú"
 
 #: dialect/widgets/provider_preferences.blp:52
 msgid "API Key"
-msgstr ""
+msgstr "Eochair API"
 
 #: dialect/widgets/provider_preferences.blp:53
 msgid "Enter an API Key for the Provider."
-msgstr ""
+msgstr "Iontráil eochair API don soláthraí."
 
 #: dialect/widgets/provider_preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "Úsáid Carachtar"
 
 #: dialect/widgets/speech_button.py:28
 msgid "Cancel Audio"
-msgstr ""
+msgstr "Cealaigh Fuaim"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
-msgstr ""
+msgstr "Lean Stíl an Chórais"
 
 #: dialect/widgets/theme_switcher.blp:35
 msgid "Light Style"
-msgstr ""
+msgstr "Stíl Éadrom"
 
 #: dialect/widgets/theme_switcher.blp:50
 msgid "Dark Style"
-msgstr ""
+msgstr "Stíl Dhorcha"
 
 #: dialect/search_provider/search_provider.in:189
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "Aistrigh \"{text}\" le {provider_name}"
 
 #: dialect/search_provider/search_provider.in:240
 msgid "Copy translation to clipboard"
-msgstr ""
+msgstr "Cóipeáil aistriúchán go dtí an ghearrthaisce"
