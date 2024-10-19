@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2024-09-20 06:40+0000\n"
+"PO-Revision-Date: 2024-10-19 16:15+0000\n"
 "Last-Translator: Jiri Grönroos <jiri.gronroos@iki.fi>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/dialect/dialect/"
 "fi/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.8-rc\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -105,9 +105,8 @@ msgid "Auto"
 msgstr "Automaattinen"
 
 #: dialect/main.py:187
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Tekijänoikeus 2020–⁠2023 Dialect-kehittäjät"
+msgstr "Tekijänoikeus 2020–⁠2024 Dialect-kehittäjät"
 
 #: dialect/main.py:189
 msgid "translator-credits"
@@ -441,24 +440,21 @@ msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr "Aseta kelvollinen API-avain tai poista nykyinen API-avain asetuksista."
 
 #: dialect/window.py:471
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "Käännöspalvelun lataaminen epäonnistui"
+msgstr ""
+"Teksti puheeksi -palvelun lataaminen epäonnistui. Yritetäänkö uudelleen?"
 
 #: dialect/window.py:472
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "Käännöspalvelun lataaminen epäonnistui"
+msgstr "Teksti puheeksi -palvelun lataaminen epäonnistui"
 
 #: dialect/window.py:474
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
-msgstr "Kääntäminen epäonnistui. Tarkista verkkoyhteyden toimivuus."
+msgstr "Teksti puheeksi -palvelun lataaminen epäonnistui, tarkista verkon tila"
 
 #: dialect/window.py:766
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "Kopioi käännös leikepöydälle"
+msgstr "Kopioitu leikepöydälle"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -469,19 +465,16 @@ msgid "Suggestion failed."
 msgstr "Ehdotus epäonnistui."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "Tekstistä puheeksi"
+msgstr "Teksti puheeksi -palvelu epäonnistui"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "Kääntäminen epäonnistui. Tarkista verkkoyhteyden toimivuus"
+msgstr "Teksti puheeksi -palvelu epäonnistui, tarkista verkon tila"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Tekstistä puheeksi"
+msgstr "Teksti puheeksi -palvelu epäonnistui. Yritetäänkö uudelleen?"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
@@ -534,9 +527,8 @@ msgid "Character Usage"
 msgstr "Merkkien käyttö"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "Peru"
+msgstr "Peru ääni"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
