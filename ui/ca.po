@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2024-09-12 17:09+0000\n"
+"PO-Revision-Date: 2024-10-19 16:15+0000\n"
 "Last-Translator: victor dargallo <victordargallo@disroot.org>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/dialect/dialect/"
 "ca/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.8-rc\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -105,9 +105,8 @@ msgid "Auto"
 msgstr "Automàtic"
 
 #: dialect/main.py:187
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Drets d’autor 2020-2022 dels autors del Dialect"
+msgstr "Drets d’autor 2020-2024 dels autors del Dialect"
 
 #: dialect/main.py:189
 msgid "translator-credits"
@@ -125,7 +124,7 @@ msgstr "Edita la configuració del proveïdor"
 
 #: dialect/preferences.py:134
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "No hi ha configuració per a aquest proveïdor"
 
 #: dialect/preferences.ui:8
 msgid "Providers"
@@ -403,115 +402,102 @@ msgid "Save"
 msgstr "Desa"
 
 #: dialect/window.py:403 dialect/search_provider/search_provider.in:173
-#, fuzzy
 msgid "Failed loading the translation service"
 msgstr "No s’ha pogut carregar el servei de traducció"
 
 #: dialect/window.py:404
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
+"Informeu-ho al rastrejador d'errors del Dialect si el problema persisteix."
 
 #: dialect/window.py:415
-#, fuzzy
 msgid "Couldn’t connect to the translation service"
-msgstr "No s’ha pogut carregar el servei de traducció"
+msgstr "No s’ha pogut connectar al servei de traducció"
 
 #: dialect/window.py:416
-#, fuzzy
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
-"Ha fallat la traducció.\n"
-"Comproveu si hi ha problemes amb la xarxa."
+"No s'ha pogut connectar al servidor. Comproveu si hi ha problemes de xarxa."
 
 #: dialect/window.py:437 dialect/window.py:1174
 #: dialect/search_provider/search_provider.in:161
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "La clau API és necessària per utilitzar el servei"
 
 #: dialect/window.py:438
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "Definiu una clau API a les preferències."
 
 #: dialect/window.py:441 dialect/window.py:1166
 #: dialect/search_provider/search_provider.in:159
 msgid "The provided API key is invalid"
-msgstr ""
+msgstr "La clau API proporcionada no és vàlida"
 
 #: dialect/window.py:443
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "Definiu una clau API vàlida a les preferències."
 
 #: dialect/window.py:446
 msgid "Please set a valid API key or unset the API key in the preferences."
-msgstr ""
+msgstr "Definiu una clau API vàlida o desactiveu-la a les preferències."
 
 #: dialect/window.py:471
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "No s’ha pogut carregar el servei de traducció"
+msgstr ""
+"No s’ha pogut carregar el servei de text a veu. Voleu tornar-ho a intentar?"
 
 #: dialect/window.py:472
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "No s’ha pogut carregar el servei de traducció"
+msgstr "No s’ha pogut carregar el servei de text a veu"
 
 #: dialect/window.py:474
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr ""
-"Ha fallat la traducció.\n"
-"Comproveu si hi ha problemes amb la xarxa."
+"No s'ha pogut carregar el servei de text a veu, comproveu si hi ha problemes "
+"de xarxa"
 
 #: dialect/window.py:766
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "Traducció següent"
+msgstr "S'ha copiat al porta-retalls"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
-msgstr ""
+msgstr "S'ha suggerit una nova traducció!"
 
 #: dialect/window.py:793 dialect/window.py:799
 msgid "Suggestion failed."
-msgstr ""
+msgstr "El suggeriment ha fallat."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "Text a veu"
+msgstr "S'ha produït un error en la conversió de text a veu"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
 msgstr ""
-"Ha fallat la traducció.\n"
-"Comproveu si hi ha problemes amb la xarxa."
+"S'ha produït un error en la conversió de text a veu, comproveu si hi ha "
+"problemes de xarxa"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Text a veu"
+msgstr ""
+"S'ha produït un error en la conversió de text a veu. Voleu tornar a provar?"
 
 #: dialect/window.py:1002
-#, fuzzy
 msgid "{} characters limit reached!"
-msgstr "S’ha assolit el límit de 5000 caràcters!"
+msgstr "S'ha arribat al límit de {} caràcters!"
 
 #: dialect/window.py:1123
 msgid "Did you mean: "
 msgstr "Volíeu dir: "
 
 #: dialect/window.py:1158 dialect/search_provider/search_provider.in:157
-#, fuzzy
 msgid "Translation failed, check for network issues"
-msgstr ""
-"Ha fallat la traducció.\n"
-"Comproveu si hi ha problemes amb la xarxa."
+msgstr "La traducció ha fallat, comproveu si hi ha problemes de xarxa"
 
 #: dialect/window.py:1182 dialect/search_provider/search_provider.in:163
-#, fuzzy
 msgid "Translation failed"
-msgstr "Sembla que ha fallat la traducció"
+msgstr "La traducció ha fallat"
 
 #: dialect/widgets/lang_selector.blp:47
 msgid "Search Languages…"
@@ -548,9 +534,8 @@ msgid "Character Usage"
 msgstr "Ús de caràcters"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "Cancel·la"
+msgstr "Sense l'àudio"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
@@ -566,12 +551,11 @@ msgstr "Estil fosc"
 
 #: dialect/search_provider/search_provider.in:189
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "Tradueix «{text}» amb {provider_name}"
 
 #: dialect/search_provider/search_provider.in:240
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "Traducció següent"
+msgstr "Copia la traducció al porta-retalls"
 
 #, fuzzy
 #~ msgid "A network issue has occurred. Retry?"
