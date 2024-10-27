@@ -141,6 +141,9 @@ msgstr "эда"
 msgid "Siksiká"
 msgstr "блэкфут"
 
+msgid "Anii"
+msgstr "аніі"
+
 msgid "Bambara"
 msgstr "бамбара"
 
@@ -693,6 +696,9 @@ msgstr "корнская"
 msgid "Kwakʼwala"
 msgstr "квакіутль"
 
+msgid "Kuvi"
+msgstr "куві"
+
 msgid "Kyrgyz"
 msgstr "кіргізская"
 
@@ -717,11 +723,17 @@ msgstr "ганда"
 msgid "Limburgish"
 msgstr "лімбургская"
 
+msgid "Ligurian"
+msgstr "лігурская"
+
 msgid "Lillooet"
 msgstr "лілуэт"
 
 msgid "Lakota"
 msgstr "лакота"
+
+msgid "Lombard"
+msgstr "ламбардская"
 
 msgid "Lingala"
 msgstr "лінгала"
@@ -1218,6 +1230,9 @@ msgstr "каморская"
 msgid "Syriac"
 msgstr "сірыйская"
 
+msgid "Silesian"
+msgstr "сілезская"
+
 msgid "Tamil"
 msgstr "тамільская"
 
@@ -1335,8 +1350,14 @@ msgstr "ваі"
 msgid "Venda"
 msgstr "венда"
 
+msgid "Venetian"
+msgstr "венецыянская"
+
 msgid "Vietnamese"
 msgstr "в’етнамская"
+
+msgid "Makhuwa"
+msgstr "макуа"
 
 msgid "Volapük"
 msgstr "валапюк"
@@ -1371,6 +1392,9 @@ msgstr "калмыцкая"
 msgid "Xhosa"
 msgstr "коса"
 
+msgid "Kangri"
+msgstr "кангры"
+
 msgid "Soga"
 msgstr "сога"
 
@@ -1394,6 +1418,9 @@ msgstr "кантонскі дыялект кітайскай"
 
 msgid "Chinese, Cantonese"
 msgstr "кітайская, кантонскі дыялект"
+
+msgid "Zhuang"
+msgstr "чжуанская"
 
 msgid "Zapotec"
 msgstr "сапатэк"

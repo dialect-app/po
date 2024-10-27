@@ -174,6 +174,9 @@ msgstr "komu"
 msgid "Siksiká"
 msgstr "siksiku"
 
+msgid "Anii"
+msgstr "anī"
+
 msgid "Bambara"
 msgstr "bambaru"
 
@@ -822,6 +825,9 @@ msgstr "korniešu"
 msgid "Kwakʼwala"
 msgstr "kvakvala"
 
+msgid "Kuvi"
+msgstr "kuvi"
+
 msgid "Kyrgyz"
 msgstr "kirgīzu"
 
@@ -852,11 +858,17 @@ msgstr "gandu"
 msgid "Limburgish"
 msgstr "limburgiešu"
 
+msgid "Ligurian"
+msgstr "ligūriešu"
+
 msgid "Lillooet"
 msgstr "lilluetu"
 
 msgid "Lakota"
 msgstr "lakotu"
+
+msgid "Lombard"
+msgstr "lombardiešu"
 
 msgid "Lingala"
 msgstr "lingala"
@@ -893,9 +905,6 @@ msgstr "luisenu"
 
 msgid "Lunda"
 msgstr "lundu"
-
-msgid "Luo"
-msgstr "luo"
 
 msgid "Mizo"
 msgstr "lušeju"
@@ -952,7 +961,7 @@ msgid "Middle Irish"
 msgstr "vidusīru"
 
 msgid "Makhuwa-Meetto"
-msgstr "makua"
+msgstr "makua-mīto"
 
 msgid "Metaʼ"
 msgstr "metu"
@@ -1431,6 +1440,9 @@ msgstr "klasiskā sīriešu"
 msgid "Syriac"
 msgstr "sīriešu"
 
+msgid "Silesian"
+msgstr "silēziešu"
+
 msgid "Tamil"
 msgstr "tamilu"
 
@@ -1575,8 +1587,14 @@ msgstr "vaju"
 msgid "Venda"
 msgstr "vendu"
 
+msgid "Venetian"
+msgstr "venēciešu"
+
 msgid "Vietnamese"
 msgstr "vjetnamiešu"
+
+msgid "Makhuwa"
+msgstr "makua"
 
 msgid "Volapük"
 msgstr "volapiks"
@@ -1616,6 +1634,9 @@ msgstr "kalmiku"
 
 msgid "Xhosa"
 msgstr "khosu"
+
+msgid "Kangri"
+msgstr "kangri"
 
 msgid "Soga"
 msgstr "sogu"

@@ -138,6 +138,9 @@ msgstr "bini"
 msgid "Siksiká"
 msgstr "siksiká"
 
+msgid "Anii"
+msgstr "anii"
+
 msgid "Bambara"
 msgstr "bambara"
 
@@ -519,6 +522,9 @@ msgstr "ibibio"
 msgid "Indonesian"
 msgstr "indonesio"
 
+msgid "Interlingue"
+msgstr "occidental"
+
 msgid "Igbo"
 msgstr "igbo"
 
@@ -681,6 +687,9 @@ msgstr "córnico"
 msgid "Kwakʼwala"
 msgstr "kwakiutl"
 
+msgid "Kuvi"
+msgstr "kuvi"
+
 msgid "Kyrgyz"
 msgstr "kirguiz"
 
@@ -705,11 +714,17 @@ msgstr "ganda"
 msgid "Limburgish"
 msgstr "limburgués"
 
+msgid "Ligurian"
+msgstr "lígur"
+
 msgid "Lillooet"
 msgstr "lillooet"
 
 msgid "Lakota"
 msgstr "lakota"
+
+msgid "Lombard"
+msgstr "lombardo"
 
 msgid "Lingala"
 msgstr "lingala"
@@ -740,9 +755,6 @@ msgstr "luba-lulua"
 
 msgid "Lunda"
 msgstr "lunda"
-
-msgid "Luo"
-msgstr "luo"
 
 msgid "Mizo"
 msgstr "mizo"
@@ -1179,6 +1191,9 @@ msgstr "comoriano"
 msgid "Syriac"
 msgstr "siríaco"
 
+msgid "Silesian"
+msgstr "silesiano"
+
 msgid "Tamil"
 msgstr "támil"
 
@@ -1296,14 +1311,17 @@ msgstr "urdú"
 msgid "Uzbek"
 msgstr "uzbeko"
 
-msgid "Vai"
-msgstr "vai"
-
 msgid "Venda"
 msgstr "venda"
 
+msgid "Venetian"
+msgstr "véneto"
+
 msgid "Vietnamese"
 msgstr "vietnamita"
+
+msgid "Makhuwa"
+msgstr "makua"
 
 msgid "Volapük"
 msgstr "volapuk"
@@ -1338,6 +1356,9 @@ msgstr "calmuco"
 msgid "Xhosa"
 msgstr "xhosa"
 
+msgid "Kangri"
+msgstr "kangri"
+
 msgid "Soga"
 msgstr "soga"
 
@@ -1361,6 +1382,9 @@ msgstr "cantonés"
 
 msgid "Chinese, Cantonese"
 msgstr "chinés cantonés"
+
+msgid "Zhuang"
+msgstr "zhuang"
 
 msgid "Standard Moroccan Tamazight"
 msgstr "tamazight marroquí estándar"

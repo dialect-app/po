@@ -177,6 +177,9 @@ msgstr "קום"
 msgid "Siksiká"
 msgstr "סיקסיקה"
 
+msgid "Anii"
+msgstr "אני"
+
 msgid "Bambara"
 msgstr "במבארה"
 
@@ -351,9 +354,6 @@ msgstr "טאיטה"
 msgid "German"
 msgstr "גרמנית"
 
-msgid "Swiss High German"
-msgstr "גרמנית (שוויץ)"
-
 msgid "Delaware"
 msgstr "דלאוור"
 
@@ -470,9 +470,6 @@ msgstr "פון"
 
 msgid "French"
 msgstr "צרפתית"
-
-msgid "Swiss French"
-msgstr "צרפתית (שוויץ)"
 
 msgid "Cajun French"
 msgstr "צרפתית קייג׳ונית"
@@ -831,6 +828,9 @@ msgstr "קורנית"
 msgid "Kwakʼwala"
 msgstr "קוואקוואלה"
 
+msgid "Kuvi"
+msgstr "קווי"
+
 msgid "Kyrgyz"
 msgstr "קירגיזית"
 
@@ -869,6 +869,9 @@ msgstr "לילואט"
 
 msgid "Lakota"
 msgstr "לקוטה"
+
+msgid "Lombard"
+msgstr "לומברדית"
 
 msgid "Lingala"
 msgstr "לינגלה"
@@ -1449,6 +1452,9 @@ msgstr "סירית קלאסית"
 msgid "Syriac"
 msgstr "סורית"
 
+msgid "Silesian"
+msgstr "שלזית"
+
 msgid "Tamil"
 msgstr "טמילית"
 
@@ -1593,8 +1599,14 @@ msgstr "וואי"
 msgid "Venda"
 msgstr "וונדה"
 
+msgid "Venetian"
+msgstr "ונציאנית"
+
 msgid "Vietnamese"
 msgstr "וייטנאמית"
+
+msgid "Makhuwa"
+msgstr "מאקואה"
 
 msgid "Volapük"
 msgstr "‏וולאפיק"
@@ -1634,6 +1646,9 @@ msgstr "קלמיקית"
 
 msgid "Xhosa"
 msgstr "קוסה"
+
+msgid "Kangri"
+msgstr "קאנגרי"
 
 msgid "Soga"
 msgstr "סוגה"

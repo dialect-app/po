@@ -219,6 +219,9 @@ msgstr "kom"
 msgid "Siksiká"
 msgstr "siksika"
 
+msgid "Anii"
+msgstr "anii"
+
 msgid "Bambara"
 msgstr "bambara"
 
@@ -606,9 +609,6 @@ msgstr "guarani"
 msgid "Old High German"
 msgstr "gammelhøytysk"
 
-msgid "Goan Konkani"
-msgstr "goansk konkani"
-
 msgid "Gondi"
 msgstr "gondi"
 
@@ -939,6 +939,9 @@ msgstr "kornisk"
 msgid "Kwakʼwala"
 msgstr "kwak̓wala"
 
+msgid "Kuvi"
+msgstr "kuvi"
+
 msgid "Kyrgyz"
 msgstr "kirgisisk"
 
@@ -1025,9 +1028,6 @@ msgstr "luiseno"
 
 msgid "Lunda"
 msgstr "lunda"
-
-msgid "Luo"
-msgstr "luo"
 
 msgid "Mizo"
 msgstr "mizo"
@@ -1803,9 +1803,6 @@ msgstr "urdu"
 msgid "Uzbek"
 msgstr "usbekisk"
 
-msgid "Vai"
-msgstr "vai"
-
 msgid "Venda"
 msgstr "venda"
 
@@ -1823,6 +1820,9 @@ msgstr "vestflamsk"
 
 msgid "Main-Franconian"
 msgstr "Main-frankisk"
+
+msgid "Makhuwa"
+msgstr "makhuwa"
 
 msgid "Volapük"
 msgstr "volapyk"
@@ -1868,6 +1868,9 @@ msgstr "xhosa"
 
 msgid "Mingrelian"
 msgstr "mingrelsk"
+
+msgid "Kangri"
+msgstr "kangri"
 
 msgid "Soga"
 msgstr "soga"

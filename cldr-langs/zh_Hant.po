@@ -219,6 +219,9 @@ msgstr "康姆文"
 msgid "Siksiká"
 msgstr "錫克錫卡文"
 
+msgid "Anii"
+msgstr "阿尼文"
+
 msgid "Bambara"
 msgstr "班巴拉文"
 
@@ -324,6 +327,9 @@ msgstr "柴羅基文"
 msgid "Cheyenne"
 msgstr "沙伊安文"
 
+msgid "Chickasaw"
+msgstr "契卡索文"
+
 msgid "Central Kurdish"
 msgstr "中庫德文"
 
@@ -352,7 +358,7 @@ msgid "Michif"
 msgstr "米奇夫語"
 
 msgid "Crimean Tatar"
-msgstr "土耳其文（克里米亞半島）"
+msgstr "克里米亞韃靼文"
 
 msgid "Southern East Cree"
 msgstr "東南克里語"
@@ -606,9 +612,6 @@ msgstr "瓜拉尼文"
 msgid "Old High German"
 msgstr "古高地德文"
 
-msgid "Goan Konkani"
-msgstr "孔卡尼文"
-
 msgid "Gondi"
 msgstr "岡德文"
 
@@ -670,7 +673,7 @@ msgid "Hindi (Latin)"
 msgstr "印地語（拉丁文）"
 
 msgid "Hinglish"
-msgstr "印地語"
+msgstr "印地英語"
 
 msgid "Fiji Hindi"
 msgstr "斐濟印地文"
@@ -942,6 +945,9 @@ msgstr "康瓦耳文"
 msgid "Kwakʼwala"
 msgstr "誇誇嘉誇語"
 
+msgid "Kuvi"
+msgstr "庫維文"
+
 msgid "Kyrgyz"
 msgstr "吉爾吉斯文"
 
@@ -1189,7 +1195,7 @@ msgid "Nama"
 msgstr "納馬文"
 
 msgid "Norwegian Bokmål"
-msgstr "巴克摩挪威文"
+msgstr "書面挪威文"
 
 msgid "North Ndebele"
 msgstr "北地畢列文"
@@ -1228,7 +1234,7 @@ msgid "Kwasio"
 msgstr "夸西奧文"
 
 msgid "Norwegian Nynorsk"
-msgstr "耐諾斯克挪威文"
+msgstr "新挪威文"
 
 msgid "Ngiemboon"
 msgstr "恩甘澎文"
@@ -1585,7 +1591,7 @@ msgid "Somali"
 msgstr "索馬利文"
 
 msgid "Sogdien"
-msgstr "索格底亞納文"
+msgstr "粟特文"
 
 msgid "Albanian"
 msgstr "阿爾巴尼亞文"
@@ -1824,6 +1830,9 @@ msgstr "西佛蘭德文"
 msgid "Main-Franconian"
 msgstr "美茵-法蘭克尼亞文"
 
+msgid "Makhuwa"
+msgstr "馬庫瓦文"
+
 msgid "Volapük"
 msgstr "沃拉普克文"
 
@@ -1868,6 +1877,9 @@ msgstr "科薩文"
 
 msgid "Mingrelian"
 msgstr "明格列爾文"
+
+msgid "Kangri"
+msgstr "康格里"
 
 msgid "Soga"
 msgstr "索加文"

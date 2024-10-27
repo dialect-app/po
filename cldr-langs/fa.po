@@ -183,6 +183,9 @@ msgstr "بینی"
 msgid "Siksiká"
 msgstr "سیکسیکا"
 
+msgid "Anii"
+msgstr "باسیلا"
+
 msgid "Bambara"
 msgstr "بامبارایی"
 
@@ -612,6 +615,9 @@ msgstr "عبری"
 msgid "Hindi"
 msgstr "هندی"
 
+msgid "Hinglish"
+msgstr "هندی (انگلیسی)"
+
 msgid "Fiji Hindi"
 msgstr "هندی فیجیایی"
 
@@ -855,6 +861,9 @@ msgstr "کورنی"
 msgid "Kwakʼwala"
 msgstr "کواک والا"
 
+msgid "Kuvi"
+msgstr "کووی"
+
 msgid "Kyrgyz"
 msgstr "قرقیزی"
 
@@ -884,6 +893,9 @@ msgstr "گاندایی"
 
 msgid "Limburgish"
 msgstr "لیمبورگی"
+
+msgid "Ligurian"
+msgstr "لیگوری"
 
 msgid "Lillooet"
 msgstr "لیلوئت"
@@ -1617,8 +1629,14 @@ msgstr "ویایی"
 msgid "Venda"
 msgstr "وندایی"
 
+msgid "Venetian"
+msgstr "ونیزی"
+
 msgid "Vietnamese"
 msgstr "ویتنامی"
+
+msgid "Makhuwa"
+msgstr "ماکوا"
 
 msgid "Volapük"
 msgstr "ولاپوک"
@@ -1659,6 +1677,9 @@ msgstr "قلموقی"
 msgid "Xhosa"
 msgstr "خوسایی"
 
+msgid "Kangri"
+msgstr "کانگری"
+
 msgid "Soga"
 msgstr "سوگایی"
 
@@ -1690,7 +1711,7 @@ msgid "Chinese, Cantonese"
 msgstr "چینی کانتونی"
 
 msgid "Zhuang"
-msgstr "چوانگی"
+msgstr "ژوانگی"
 
 msgid "Zapotec"
 msgstr "زاپوتکی"

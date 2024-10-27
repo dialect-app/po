@@ -94,7 +94,7 @@ msgid "Arawak"
 msgstr "አራዋክ"
 
 msgid "Assamese"
-msgstr "አሳሜዛዊ"
+msgstr "አሳሜዝ"
 
 msgid "Asu"
 msgstr "አሱ"
@@ -103,7 +103,7 @@ msgid "American Sign Language"
 msgstr "የአሜሪካ የምልክት ቋንቋ"
 
 msgid "Asturian"
-msgstr "አስቱሪያን"
+msgstr "አስቱሪያንኛ"
 
 msgid "Atikamekw"
 msgstr "አቲካምከው"
@@ -169,13 +169,13 @@ msgid "Bulgarian"
 msgstr "ቡልጋሪኛ"
 
 msgid "Haryanvi"
-msgstr "ሃርያንቪ"
+msgstr "ሃርያንቪኛ"
 
 msgid "Western Balochi"
 msgstr "የምዕራብ ባሎቺ"
 
 msgid "Bhojpuri"
-msgstr "ቦጁሪ"
+msgstr "ቦጅፑሪ"
 
 msgid "Bislama"
 msgstr "ቢስላምኛ"
@@ -191,6 +191,9 @@ msgstr "ባንጃር"
 
 msgid "Siksiká"
 msgstr "ሲክሲካ"
+
+msgid "Anii"
+msgstr "አኒኛ"
 
 msgid "Bambara"
 msgstr "ባምባርኛ"
@@ -259,7 +262,7 @@ msgid "Chechen"
 msgstr "ችችን"
 
 msgid "Cebuano"
-msgstr "ካቡዋኖ"
+msgstr "ሴብዋኖ"
 
 msgid "Chiga"
 msgstr "ቺጋኛ"
@@ -352,10 +355,10 @@ msgid "Church Slavic"
 msgstr "ቸርች ስላቪክ"
 
 msgid "Chuvash"
-msgstr "ቹቫሽ"
+msgstr "ቹቫሽኛ"
 
 msgid "Welsh"
-msgstr "ወልሽ"
+msgstr "ዌልሽ"
 
 msgid "Danish"
 msgstr "ዴኒሽ"
@@ -394,7 +397,7 @@ msgid "Dogri"
 msgstr "ዶግሪ"
 
 msgid "Lower Sorbian"
-msgstr "የታችኛው ሰርቢያኛ"
+msgstr "የታችኛው ሶርቢያኛ"
 
 msgid "Central Dusun"
 msgstr "ሴንተራል ዱሰን"
@@ -490,10 +493,10 @@ msgid "Dari"
 msgstr "ዳሪ"
 
 msgid "Fula"
-msgstr "ፉላ"
+msgstr "ፉላኒኛ"
 
 msgid "Finnish"
-msgstr "ፊኒሽ"
+msgstr "ፊንላንድኛ"
 
 msgid "Filipino"
 msgstr "ፊሊፒንኛ"
@@ -532,7 +535,7 @@ msgid "Western Frisian"
 msgstr "ምዕራባዊ ፍሪሲኛ"
 
 msgid "Irish"
-msgstr "አይሪሽ"
+msgstr "አየርላንድኛ"
 
 msgid "Ga"
 msgstr "ጋ"
@@ -544,7 +547,7 @@ msgid "Gan Chinese"
 msgstr "ጋን ቻይንኛ"
 
 msgid "Scottish Gaelic"
-msgstr "ስኮቲሽ ጋይሊክ"
+msgstr "የስኮትላንድ ጌይሊክ"
 
 msgid "Geez"
 msgstr "ግዕዝኛ"
@@ -553,7 +556,7 @@ msgid "Gilbertese"
 msgstr "ጅልበርትስ"
 
 msgid "Galician"
-msgstr "ጋሊሽያዊ"
+msgstr "ጋሊሺያንኛ"
 
 msgid "Guarani"
 msgstr "ጓራኒኛ"
@@ -598,10 +601,13 @@ msgid "Hebrew"
 msgstr "ዕብራይስጥ"
 
 msgid "Hindi"
-msgstr "ሒንዱኛ"
+msgstr "ሕንድኛ"
+
+msgid "Hindi (Latin)"
+msgstr "ሕንድኛ (ላቲን)"
 
 msgid "Hinglish"
-msgstr "ሂንግሊሽ"
+msgstr "ሕንድኛ (ላቲን)"
 
 msgid "Hiligaynon"
 msgstr "ሂሊጋይኖን"
@@ -631,7 +637,7 @@ msgid "Halkomelem"
 msgstr "ሃልኮመልም"
 
 msgid "Armenian"
-msgstr "አርመናዊ"
+msgstr "አርሜንኛ"
 
 msgid "Herero"
 msgstr "ሄሬሮ"
@@ -694,10 +700,10 @@ msgid "Machame"
 msgstr "ማቻሜኛ"
 
 msgid "Javanese"
-msgstr "ጃቫኒዝ"
+msgstr "ጃቫኛ"
 
 msgid "Georgian"
-msgstr "ጆርጂያዊ"
+msgstr "ጆርጂያንኛ"
 
 msgid "Kabyle"
 msgstr "ካብይል"
@@ -816,6 +822,9 @@ msgstr "ኮርኒሽ"
 msgid "Kwakʼwala"
 msgstr "ክዋክዋላ"
 
+msgid "Kuvi"
+msgstr "ኩቪኛ"
+
 msgid "Kyrgyz"
 msgstr "ክይርግይዝ"
 
@@ -840,11 +849,17 @@ msgstr "ጋንዳኛ"
 msgid "Limburgish"
 msgstr "ሊምቡርጊሽ"
 
+msgid "Ligurian"
+msgstr "ሊጓሪያኛ"
+
 msgid "Lillooet"
 msgstr "ሊሎኤት"
 
 msgid "Lakota"
 msgstr "ላኮታ"
+
+msgid "Lombard"
+msgstr "ሎምባርድኛ"
 
 msgid "Lingala"
 msgstr "ሊንጋላ"
@@ -865,7 +880,7 @@ msgid "Saamia"
 msgstr "ሳሚያ"
 
 msgid "Lithuanian"
-msgstr "ሉቴንያንኛ"
+msgstr "ሊቱዌንያኛ"
 
 msgid "Luba-Katanga"
 msgstr "ሉባ-ካታንጋ"
@@ -886,7 +901,7 @@ msgid "Luyia"
 msgstr "ሉያ"
 
 msgid "Latvian"
-msgstr "ላትቪያን"
+msgstr "ላትቪያኛ"
 
 msgid "Madurese"
 msgstr "ማዱረስ"
@@ -964,7 +979,7 @@ msgid "Malay"
 msgstr "ማላይ"
 
 msgid "Maltese"
-msgstr "ማልቲስ"
+msgstr "ማልቲዝኛ"
 
 msgid "Mundang"
 msgstr "ሙንዳንግ"
@@ -1045,7 +1060,7 @@ msgid "Ngiemboon"
 msgstr "ኒጊምቡን"
 
 msgid "Norwegian"
-msgstr "ኖርዌጂያን"
+msgstr "ኖርዌይኛ"
 
 msgid "Nogai"
 msgstr "ኖጋይ"
@@ -1201,7 +1216,7 @@ msgid "Sandawe"
 msgstr "ሳንዳዌ"
 
 msgid "Yakut"
-msgstr "ሳክሃ"
+msgstr "ያኩት"
 
 msgid "Samburu"
 msgstr "ሳምቡሩ"
@@ -1338,6 +1353,9 @@ msgstr "ክላሲክ ኔይራ"
 msgid "Syriac"
 msgstr "ሲሪያክ"
 
+msgid "Silesian"
+msgstr "ሲሌሲያኛ"
+
 msgid "Tamil"
 msgstr "ታሚል"
 
@@ -1440,9 +1458,6 @@ msgstr "ኡድሙርት"
 msgid "Uyghur"
 msgstr "ኡይግሁር"
 
-msgid "Uighur"
-msgstr "ኡይገር"
-
 msgid "Ukrainian"
 msgstr "ዩክሬንኛ"
 
@@ -1464,8 +1479,14 @@ msgstr "ቫይ"
 msgid "Venda"
 msgstr "ቬንዳ"
 
+msgid "Venetian"
+msgstr "ቬነቲያንኛ"
+
 msgid "Vietnamese"
 msgstr "ቪየትናምኛ"
+
+msgid "Makhuwa"
+msgstr "ማክሁዋኛ"
 
 msgid "Volapük"
 msgstr "ቮላፑክኛ"
@@ -1500,6 +1521,9 @@ msgstr "ካልማይክ"
 msgid "Xhosa"
 msgstr "ዞሳኛ"
 
+msgid "Kangri"
+msgstr "ካንጋሪ"
+
 msgid "Soga"
 msgstr "ሶጋ"
 
@@ -1522,7 +1546,7 @@ msgid "Cantonese"
 msgstr "ካንቶኒዝ"
 
 msgid "Chinese, Cantonese"
-msgstr "ቻይና፤ ካንቶንኛ"
+msgstr "ካንቶኒዝ ቻይንኛ"
 
 msgid "Zhuang"
 msgstr "ዡዋንግኛ"

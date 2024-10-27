@@ -162,6 +162,9 @@ msgstr "bini"
 msgid "Siksiká"
 msgstr "siksikə"
 
+msgid "Anii"
+msgstr "anii"
+
 msgid "Bambara"
 msgstr "bambara"
 
@@ -837,6 +840,9 @@ msgstr "korn"
 msgid "Kwakʼwala"
 msgstr "Kvakvala"
 
+msgid "Kuvi"
+msgstr "kuvi"
+
 msgid "Kyrgyz"
 msgstr "qırğız"
 
@@ -867,11 +873,17 @@ msgstr "qanda"
 msgid "Limburgish"
 msgstr "limburq"
 
+msgid "Ligurian"
+msgstr "liquriya dili"
+
 msgid "Lillooet"
 msgstr "Liluet"
 
 msgid "Lakota"
 msgstr "lakota"
+
+msgid "Lombard"
+msgstr "lombard dili"
 
 msgid "Lingala"
 msgstr "linqala"
@@ -908,9 +920,6 @@ msgstr "luyseno"
 
 msgid "Lunda"
 msgstr "lunda"
-
-msgid "Luo"
-msgstr "luo"
 
 msgid "Mizo"
 msgstr "mizo"
@@ -1434,6 +1443,9 @@ msgstr "komor"
 msgid "Syriac"
 msgstr "suriya"
 
+msgid "Silesian"
+msgstr "silez dili"
+
 msgid "Tamil"
 msgstr "tamil"
 
@@ -1572,14 +1584,17 @@ msgstr "urdu"
 msgid "Uzbek"
 msgstr "özbək"
 
-msgid "Vai"
-msgstr "vai"
-
 msgid "Venda"
 msgstr "venda"
 
+msgid "Venetian"
+msgstr "venet dili"
+
 msgid "Vietnamese"
 msgstr "vyetnam"
+
+msgid "Makhuwa"
+msgstr "makua dili"
 
 msgid "Volapük"
 msgstr "volapük"
@@ -1619,6 +1634,9 @@ msgstr "kalmık"
 
 msgid "Xhosa"
 msgstr "xosa"
+
+msgid "Kangri"
+msgstr "kanqri"
 
 msgid "Soga"
 msgstr "soqa"

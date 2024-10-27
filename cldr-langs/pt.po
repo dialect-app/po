@@ -174,6 +174,9 @@ msgstr "kom"
 msgid "Siksiká"
 msgstr "siksika"
 
+msgid "Anii"
+msgstr "anii"
+
 msgid "Bambara"
 msgstr "bambara"
 
@@ -579,6 +582,9 @@ msgstr "hebraico"
 msgid "Hindi"
 msgstr "híndi"
 
+msgid "Hinglish"
+msgstr "hinglish"
+
 msgid "Hiligaynon"
 msgstr "hiligaynon"
 
@@ -822,6 +828,9 @@ msgstr "córnico"
 msgid "Kwakʼwala"
 msgstr "kwakʼwala"
 
+msgid "Kuvi"
+msgstr "kuvi"
+
 msgid "Kyrgyz"
 msgstr "quirguiz"
 
@@ -851,6 +860,9 @@ msgstr "luganda"
 
 msgid "Limburgish"
 msgstr "limburguês"
+
+msgid "Ligurian"
+msgstr "ligure"
 
 msgid "Lillooet"
 msgstr "lillooet"
@@ -896,9 +908,6 @@ msgstr "luiseno"
 
 msgid "Lunda"
 msgstr "lunda"
-
-msgid "Luo"
-msgstr "luo"
 
 msgid "Mizo"
 msgstr "lushai"
@@ -955,7 +964,7 @@ msgid "Middle Irish"
 msgstr "irlandês médio"
 
 msgid "Makhuwa-Meetto"
-msgstr "macua"
+msgstr "macua-mêto"
 
 msgid "Metaʼ"
 msgstr "meta’"
@@ -1440,6 +1449,9 @@ msgstr "siríaco clássico"
 msgid "Syriac"
 msgstr "siríaco"
 
+msgid "Silesian"
+msgstr "silesiano"
+
 msgid "Tamil"
 msgstr "tâmil"
 
@@ -1578,14 +1590,17 @@ msgstr "urdu"
 msgid "Uzbek"
 msgstr "uzbeque"
 
-msgid "Vai"
-msgstr "vai"
-
 msgid "Venda"
 msgstr "venda"
 
+msgid "Venetian"
+msgstr "vêneto"
+
 msgid "Vietnamese"
 msgstr "vietnamita"
+
+msgid "Makhuwa"
+msgstr "macua"
 
 msgid "Volapük"
 msgstr "volapuque"
@@ -1625,6 +1640,9 @@ msgstr "kalmyk"
 
 msgid "Xhosa"
 msgstr "xhosa"
+
+msgid "Kangri"
+msgstr "kandri"
 
 msgid "Soga"
 msgstr "lusoga"

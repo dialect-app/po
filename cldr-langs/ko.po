@@ -186,6 +186,9 @@ msgstr "콤어"
 msgid "Siksiká"
 msgstr "식시카어"
 
+msgid "Anii"
+msgstr "아니이어"
+
 msgid "Bambara"
 msgstr "밤바라어"
 
@@ -552,9 +555,6 @@ msgstr "과라니어"
 msgid "Old High German"
 msgstr "고대 고지 독일어"
 
-msgid "Goan Konkani"
-msgstr "고아 콘칸어"
-
 msgid "Gondi"
 msgstr "곤디어"
 
@@ -858,6 +858,9 @@ msgstr "콘월어"
 msgid "Kwakʼwala"
 msgstr "곽왈라어"
 
+msgid "Kuvi"
+msgstr "쿠비어"
+
 msgid "Kyrgyz"
 msgstr "키르기스어"
 
@@ -891,11 +894,17 @@ msgstr "간다어"
 msgid "Limburgish"
 msgstr "림버거어"
 
+msgid "Ligurian"
+msgstr "리구리아어"
+
 msgid "Lillooet"
 msgstr "릴루엣어"
 
 msgid "Lakota"
 msgstr "라코타어"
+
+msgid "Lombard"
+msgstr "롬바르드어"
 
 msgid "Lingala"
 msgstr "링갈라어"
@@ -1485,6 +1494,9 @@ msgstr "고전 시리아어"
 msgid "Syriac"
 msgstr "시리아어"
 
+msgid "Silesian"
+msgstr "실레시아어"
+
 msgid "Tamil"
 msgstr "타밀어"
 
@@ -1567,7 +1579,7 @@ msgid "Tok Pisin"
 msgstr "토크 피신어"
 
 msgid "Turkish"
-msgstr "터키어"
+msgstr "튀르키예어"
 
 msgid "Taroko"
 msgstr "타로코어"
@@ -1635,8 +1647,14 @@ msgstr "바이어"
 msgid "Venda"
 msgstr "벤다어"
 
+msgid "Venetian"
+msgstr "베네치아어"
+
 msgid "Vietnamese"
 msgstr "베트남어"
+
+msgid "Makhuwa"
+msgstr "마쿠와어"
 
 msgid "Volapük"
 msgstr "볼라퓌크어"
@@ -1676,6 +1694,9 @@ msgstr "칼미크어"
 
 msgid "Xhosa"
 msgstr "코사어"
+
+msgid "Kangri"
+msgstr "캉리어"
 
 msgid "Soga"
 msgstr "소가어"

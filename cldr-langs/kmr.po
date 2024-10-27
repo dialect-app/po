@@ -37,7 +37,7 @@ msgid "Aleut"
 msgstr "alêwîtî"
 
 msgid "Southern Altai"
-msgstr "altayiya başûrî"
+msgstr "altayîya başûrî"
 
 msgid "Amharic"
 msgstr "amharî"
@@ -55,7 +55,7 @@ msgid "Arabic"
 msgstr "erebî"
 
 msgid "Modern Standard Arabic"
-msgstr "erebiya modern a standard"
+msgstr "erebîya modern a standard"
 
 msgid "Mapuche"
 msgstr "mapuçî"
@@ -64,7 +64,7 @@ msgid "Arapaho"
 msgstr "arapahoyî"
 
 msgid "Najdi Arabic"
-msgstr "erebiya necdî"
+msgstr "erebîya necdî"
 
 msgid "Assamese"
 msgstr "asamî"
@@ -97,7 +97,7 @@ msgid "Bashkir"
 msgstr "başkîrî"
 
 msgid "Baluchi"
-msgstr "belûçî"
+msgstr "belûcî"
 
 msgid "Balinese"
 msgstr "balînî"
@@ -106,7 +106,7 @@ msgid "Basaa"
 msgstr "basayî"
 
 msgid "Belarusian"
-msgstr "belarusî"
+msgstr "belarûsî"
 
 msgid "Bemba"
 msgstr "bembayî"
@@ -121,10 +121,10 @@ msgid "Bulgarian"
 msgstr "bulgarî"
 
 msgid "Haryanvi"
-msgstr "haryanviyî"
+msgstr "haryanvîyî"
 
 msgid "Western Balochi"
-msgstr "beluciya rojavayî"
+msgstr "belucîya rojavayî"
 
 msgid "Bhojpuri"
 msgstr "bojpûrî"
@@ -133,7 +133,7 @@ msgid "Bislama"
 msgstr "bîslamayî"
 
 msgid "Bini"
-msgstr "bîniyî"
+msgstr "bînîyî"
 
 msgid "Siksiká"
 msgstr "blakfotî"
@@ -220,7 +220,7 @@ msgid "Chickasaw"
 msgstr "çîkasawî"
 
 msgid "Central Kurdish"
-msgstr "soranî"
+msgstr "kurdî (soranî)"
 
 msgid "Kurdish, Central"
 msgstr "kurdî (navîn)"
@@ -238,16 +238,16 @@ msgid "Michif"
 msgstr "mîçîfî"
 
 msgid "Southern East Cree"
-msgstr "kriya rojhilat ya başûrî"
+msgstr "krîya rojhilat ya başûrî"
 
 msgid "Plains Cree"
 msgstr "kriya bejayî"
 
 msgid "Northern East Cree"
-msgstr "kriya rojhilat ya bakurî"
+msgstr "krîya rojhilat ya bakurî"
 
 msgid "Moose Cree"
-msgstr "kriya mûsî"
+msgstr "krîya mûsî"
 
 msgid "Carolina Algonquian"
 msgstr "zimanê karolina algonquianî"
@@ -256,10 +256,10 @@ msgid "Czech"
 msgstr "çekî"
 
 msgid "Swampy Cree"
-msgstr "kriya swampî"
+msgstr "krîya swampî"
 
 msgid "Church Slavic"
-msgstr "slaviya kenîseyî"
+msgstr "slavîya kenîseyî"
 
 msgid "Chuvash"
 msgstr "çuvaşî"
@@ -277,7 +277,7 @@ msgid "Dargwa"
 msgstr "dargînî"
 
 msgid "Taita"
-msgstr "tayitayî"
+msgstr "tayîtayî"
 
 msgid "German"
 msgstr "almanî"
@@ -289,10 +289,10 @@ msgid "Zarma"
 msgstr "zarma"
 
 msgid "Dogri"
-msgstr "dogriyî"
+msgstr "dogrîyî"
 
 msgid "Lower Sorbian"
-msgstr "sorbiya jêrîn"
+msgstr "sorbîya jêrîn"
 
 msgid "Duala"
 msgstr "diwalayî"
@@ -322,10 +322,16 @@ msgid "Ekajuk"
 msgstr "ekajukî"
 
 msgid "Greek"
-msgstr "yewnanî"
+msgstr "yûnanî"
 
 msgid "English"
 msgstr "îngilîzî"
+
+msgid "British English"
+msgstr "îngilîzî (Qiralîyeta Yekbûyî)"
+
+msgid "UK English"
+msgstr "îngilîzî (QY)"
 
 msgid "Esperanto"
 msgstr "esperantoyî"
@@ -370,16 +376,22 @@ msgid "Fon"
 msgstr "fonî"
 
 msgid "French"
-msgstr "fransî"
+msgstr "fransizî"
+
+msgid "Canadian French"
+msgstr "fransizî (Kanada)"
+
+msgid "Swiss French"
+msgstr "fransizî (Swîsre)"
 
 msgid "Cajun French"
-msgstr "fransiya kajûnê"
+msgstr "fransizîya kajûnê"
 
 msgid "Northern Frisian"
-msgstr "frîsiya bakur"
+msgstr "frîsîya bakur"
 
 msgid "Friulian"
-msgstr "friyolî"
+msgstr "frîyolî"
 
 msgid "Western Frisian"
 msgstr "frîsî"
@@ -415,7 +427,7 @@ msgid "Gujarati"
 msgstr "gujaratî"
 
 msgid "Gusii"
-msgstr "gusii"
+msgstr "gusîî"
 
 msgid "Manx"
 msgstr "manksî"
@@ -442,7 +454,7 @@ msgid "Hindi"
 msgstr "hindî"
 
 msgid "Hinglish"
-msgstr "hingilîzî"
+msgstr "hîngilîzî"
 
 msgid "Hiligaynon"
 msgstr "hîlîgaynonî"
@@ -451,13 +463,13 @@ msgid "Hmong"
 msgstr "hmongî"
 
 msgid "Hmong Njua"
-msgstr "hmongiya njuayî"
+msgstr "hmongîya njuayî"
 
 msgid "Croatian"
 msgstr "xirwatî"
 
 msgid "Upper Sorbian"
-msgstr "sorbiya jorîn"
+msgstr "sorbîya jorîn"
 
 msgid "Haitian Creole"
 msgstr "haîtî"
@@ -478,7 +490,7 @@ msgid "Herero"
 msgstr "hereroyî"
 
 msgid "Interlingua"
-msgstr "interlingua"
+msgstr "înterlîngua"
 
 msgid "Iban"
 msgstr "iban"
@@ -487,7 +499,7 @@ msgid "Ibibio"
 msgstr "îbîbîoyî"
 
 msgid "Indonesian"
-msgstr "endonezî"
+msgstr "endonezyayî"
 
 msgid "Interlingue"
 msgstr "înterlîngue"
@@ -496,7 +508,7 @@ msgid "Igbo"
 msgstr "îgboyî"
 
 msgid "Sichuan Yi"
-msgstr "yiyiya siçuwayî"
+msgstr "yîyîya siçuwayî"
 
 msgid "Western Canadian Inuktitut"
 msgstr "inuvialuktun"
@@ -537,6 +549,9 @@ msgstr "javayî"
 msgid "Georgian"
 msgstr "gurcî"
 
+msgid "Kara-Kalpak"
+msgstr "kara-kalpakî"
+
 msgid "Kabyle"
 msgstr "kabîlî"
 
@@ -562,7 +577,7 @@ msgid "Kabuverdianu"
 msgstr "kapverdî"
 
 msgid "Kenyang"
-msgstr "kenyang"
+msgstr "kenyangî"
 
 msgid "Koro"
 msgstr "koro"
@@ -613,7 +628,7 @@ msgid "Kpelle"
 msgstr "kpelleyî"
 
 msgid "Kanuri"
-msgstr "kanuriyî"
+msgstr "kanurîyî"
 
 msgid "Karachay-Balkar"
 msgstr "karaçay-balkarî"
@@ -664,7 +679,7 @@ msgid "Ladino"
 msgstr "ladînoyî"
 
 msgid "Langi"
-msgstr "langi"
+msgstr "langî"
 
 msgid "Luxembourgish"
 msgstr "luksembûrgî"
@@ -697,19 +712,22 @@ msgid "Lao"
 msgstr "lawsî"
 
 msgid "Louisiana Creole"
-msgstr "kreyoliya louisianayê"
+msgstr "kreyolîya louisianayê"
 
 msgid "Lozi"
 msgstr "lozî"
 
 msgid "Northern Luri"
-msgstr "luriya bakur"
+msgstr "lurîya bakur"
 
 msgid "Saamia"
 msgstr "saamia"
 
 msgid "Lithuanian"
 msgstr "lîtwanî"
+
+msgid "Latgalian"
+msgstr "latgalî"
 
 msgid "Luba-Katanga"
 msgstr "luba-katangayî"
@@ -730,7 +748,7 @@ msgid "Luyia"
 msgstr "luhyayî"
 
 msgid "Latvian"
-msgstr "latviyayî"
+msgstr "latvîyayî"
 
 msgid "Madurese"
 msgstr "madurayî"
@@ -787,13 +805,13 @@ msgid "Malayalam"
 msgstr "malayalamî"
 
 msgid "Mongolian"
-msgstr "mongolî"
+msgstr "moxolî"
 
 msgid "Manipuri"
 msgstr "manipuri"
 
 msgid "Innu-aimun"
-msgstr "înûyiya rojhilatî"
+msgstr "înûyîya rojhilatî"
 
 msgid "Mohawk"
 msgstr "mohawkî"
@@ -844,7 +862,7 @@ msgid "Norwegian Bokmål"
 msgstr "norwecî (bokmål)"
 
 msgid "North Ndebele"
-msgstr "ndebeliya bakurî"
+msgstr "ndebelîya bakurî"
 
 msgid "Low German"
 msgstr "nedersaksî"
@@ -889,10 +907,10 @@ msgid "N’Ko"
 msgstr "n’Ko"
 
 msgid "South Ndebele"
-msgstr "ndebeliya başûrî"
+msgstr "ndebelîya başûrî"
 
 msgid "Northern Sotho"
-msgstr "sotoyiya bakur"
+msgstr "sotoyîya bakur"
 
 msgid "Nuer"
 msgstr "nuer"
@@ -910,16 +928,16 @@ msgid "Occitan"
 msgstr "oksîtanî"
 
 msgid "Northwestern Ojibwa"
-msgstr "ojibweyiya bakurî"
+msgstr "ojibweyîya bakurî"
 
 msgid "Central Ojibwa"
-msgstr "ojibwayiya navîn"
+msgstr "ojibwayîya navîn"
 
 msgid "Oji-Cree"
 msgstr "oji-cree"
 
 msgid "Western Ojibwa"
-msgstr "ojibweyiya rojavayî"
+msgstr "ojîbweyîya rojavayî"
 
 msgid "Okanagan"
 msgstr "okanagan"
@@ -952,7 +970,7 @@ msgid "Palauan"
 msgstr "palawî"
 
 msgid "Nigerian Pidgin"
-msgstr "pîdgîniya nîjeryayî"
+msgstr "pîdgînîya nîjeryayî"
 
 msgid "Pijin"
 msgstr "pijînî"
@@ -1054,10 +1072,10 @@ msgid "Sindhi"
 msgstr "sindhî"
 
 msgid "Southern Kurdish"
-msgstr "kurdiya başûrî"
+msgstr "kurdîya başûrî"
 
 msgid "Northern Sami"
-msgstr "samiya bakur"
+msgstr "samîya bakur"
 
 msgid "Sena"
 msgstr "sena"
@@ -1069,7 +1087,7 @@ msgid "Sango"
 msgstr "sangoyî"
 
 msgid "Tachelhit"
-msgstr "taşelhitî"
+msgstr "taşelhîtî"
 
 msgid "Shan"
 msgstr "şanî"
@@ -1078,7 +1096,7 @@ msgid "Sinhala"
 msgstr "kîngalî"
 
 msgid "Sidamo"
-msgstr "sidamo"
+msgstr "sîdamo"
 
 msgid "Slovak"
 msgstr "slovakî"
@@ -1093,16 +1111,16 @@ msgid "Samoan"
 msgstr "samoayî"
 
 msgid "Southern Sami"
-msgstr "samiya başûr"
+msgstr "samîya başûr"
 
 msgid "Lule Sami"
 msgstr "samiya lule"
 
 msgid "Inari Sami"
-msgstr "samiya înarî"
+msgstr "samîya înarî"
 
 msgid "Skolt Sami"
-msgstr "samiya skoltî"
+msgstr "samîya skoltî"
 
 msgid "Shona"
 msgstr "şonayî"
@@ -1114,7 +1132,7 @@ msgid "Somali"
 msgstr "somalî"
 
 msgid "Albanian"
-msgstr "elbanî"
+msgstr "arnawidî"
 
 msgid "Serbian"
 msgstr "sirbî"
@@ -1129,7 +1147,7 @@ msgid "Saho"
 msgstr "sahoyî"
 
 msgid "Southern Sotho"
-msgstr "sotoyiya başûr"
+msgstr "sotoyîya başûr"
 
 msgid "Straits Salish"
 msgstr "saanîçî"
@@ -1147,7 +1165,7 @@ msgid "Swahili"
 msgstr "swahîlî"
 
 msgid "Congo Swahili"
-msgstr "swahiliya kongoyî"
+msgstr "swahîlîya kongoyî"
 
 msgid "Comorian"
 msgstr "komorî"
@@ -1162,7 +1180,7 @@ msgid "Tamil"
 msgstr "tamîlî"
 
 msgid "Southern Tutchone"
-msgstr "southern tutchone"
+msgstr "totuçena başûrî"
 
 msgid "Telugu"
 msgstr "telûgûyî"
@@ -1222,7 +1240,7 @@ msgid "Taroko"
 msgstr "tarokoyî"
 
 msgid "Torwali"
-msgstr "torwali"
+msgstr "torwalî"
 
 msgid "Tsonga"
 msgstr "tsongayî"
@@ -1231,7 +1249,7 @@ msgid "Tatar"
 msgstr "teterî"
 
 msgid "Northern Tutchone"
-msgstr "northern tutchone"
+msgstr "tutoçenîya bakur"
 
 msgid "Tumbuka"
 msgstr "tumbukayî"
@@ -1276,7 +1294,7 @@ msgid "Venetian"
 msgstr "venîsî"
 
 msgid "Vietnamese"
-msgstr "viyetnamî"
+msgstr "vîetnamî"
 
 msgid "Makhuwa"
 msgstr "makhuwayî"
@@ -1306,7 +1324,7 @@ msgid "Wolof"
 msgstr "wolofî"
 
 msgid "Wu Chinese"
-msgstr "çîniya wuyî"
+msgstr "çînîya wuyî"
 
 msgid "Kalmyk"
 msgstr "kalmîkî"
@@ -1315,7 +1333,7 @@ msgid "Xhosa"
 msgstr "xosayî"
 
 msgid "Kangri"
-msgstr "kangri"
+msgstr "kangrî"
 
 msgid "Soga"
 msgstr "sogayî"
@@ -1345,7 +1363,7 @@ msgid "Zhuang"
 msgstr "zhuangî"
 
 msgid "Standard Moroccan Tamazight"
-msgstr "amazîxiya fasî"
+msgstr "amazîxîya fasî"
 
 msgid "Chinese"
 msgstr "çînî"
@@ -1354,22 +1372,25 @@ msgid "Chinese, Mandarin"
 msgstr "çînî, mandarînî"
 
 msgid "Simplified Chinese"
-msgstr "çîniya sadekirî"
+msgstr "çînîya sadekirî"
 
 msgid "Simplified Mandarin Chinese"
-msgstr "çîniya mandarînî ya sadekirî"
+msgstr "çînîya mandarînî ya sadekirî"
 
 msgid "Traditional Chinese"
-msgstr "çîniya kevneşopî"
+msgstr "çînîya kevneşopî"
 
 msgid "Traditional Mandarin Chinese"
-msgstr "çîniya mandarînî ya kevneşopî"
+msgstr "çînîya mandarînî ya kevneşopî"
 
 msgid "Zulu"
 msgstr "zuluyî"
 
 msgid "Zuni"
-msgstr "zuniyî"
+msgstr "zunîyî"
+
+msgid "No linguistic content"
+msgstr "bê naveroka zimanî"
 
 msgid "Zaza"
 msgstr "zazakî (kirdkî, kirmanckî)"

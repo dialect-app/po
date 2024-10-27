@@ -177,6 +177,9 @@ msgstr "لغة الكوم"
 msgid "Siksiká"
 msgstr "السيكسيكية"
 
+msgid "Anii"
+msgstr "الآنية"
+
 msgid "Bambara"
 msgstr "البامبارا"
 
@@ -354,9 +357,6 @@ msgstr "الألمانية"
 msgid "Austrian German"
 msgstr "الألمانية النمساوية"
 
-msgid "Swiss High German"
-msgstr "الألمانية العليا السويسرية"
-
 msgid "Delaware"
 msgstr "الديلوير"
 
@@ -423,20 +423,8 @@ msgstr "الإمايت"
 msgid "English"
 msgstr "الإنجليزية"
 
-msgid "Australian English"
-msgstr "الإنجليزية الأسترالية"
-
-msgid "Canadian English"
-msgstr "الإنجليزية الكندية"
-
-msgid "British English"
-msgstr "الإنجليزية البريطانية"
-
 msgid "UK English"
 msgstr "الإنجليزية المملكة المتحدة"
-
-msgid "American English"
-msgstr "الإنجليزية الأمريكية"
 
 msgid "US English"
 msgstr "الإنجليزية الولايات المتحدة"
@@ -500,12 +488,6 @@ msgstr "الفون"
 
 msgid "French"
 msgstr "الفرنسية"
-
-msgid "Canadian French"
-msgstr "الفرنسية الكندية"
-
-msgid "Swiss French"
-msgstr "الفرنسية السويسرية"
 
 msgid "Cajun French"
 msgstr "الفرنسية الكاجونية"
@@ -864,6 +846,9 @@ msgstr "الكورنية"
 msgid "Kwakʼwala"
 msgstr "الكواكوالا"
 
+msgid "Kuvi"
+msgstr "الكوفية"
+
 msgid "Kyrgyz"
 msgstr "القيرغيزية"
 
@@ -893,6 +878,9 @@ msgstr "الغاندا"
 
 msgid "Limburgish"
 msgstr "الليمبورغية"
+
+msgid "Ligurian"
+msgstr "الليغورية"
 
 msgid "Lillooet"
 msgstr "الليلويتية"
@@ -1109,9 +1097,6 @@ msgstr "النيوي"
 
 msgid "Dutch"
 msgstr "الهولندية"
-
-msgid "Flemish"
-msgstr "الفلمنكية"
 
 msgid "Kwasio"
 msgstr "كواسيو"
@@ -1482,6 +1467,9 @@ msgstr "سريانية تقليدية"
 msgid "Syriac"
 msgstr "السريانية"
 
+msgid "Silesian"
+msgstr "السيليزية"
+
 msgid "Tamil"
 msgstr "التاميلية"
 
@@ -1629,8 +1617,14 @@ msgstr "الفاي"
 msgid "Venda"
 msgstr "الفيندا"
 
+msgid "Venetian"
+msgstr "البندقية"
+
 msgid "Vietnamese"
 msgstr "الفيتنامية"
+
+msgid "Makhuwa"
+msgstr "الماكوا"
 
 msgid "Volapük"
 msgstr "لغة الفولابوك"
@@ -1670,6 +1664,9 @@ msgstr "الكالميك"
 
 msgid "Xhosa"
 msgstr "الخوسا"
+
+msgid "Kangri"
+msgstr "كانغري"
 
 msgid "Soga"
 msgstr "السوغا"

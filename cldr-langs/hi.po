@@ -138,6 +138,9 @@ msgstr "बेजा"
 msgid "Bemba"
 msgstr "बेम्बा"
 
+msgid "Betawi"
+msgstr "बेतावी"
+
 msgid "Bena"
 msgstr "बेना"
 
@@ -165,6 +168,9 @@ msgstr "बिनी"
 msgid "Siksiká"
 msgstr "सिक्सिका"
 
+msgid "Anii"
+msgstr "अनी"
+
 msgid "Bambara"
 msgstr "बाम्बारा"
 
@@ -185,6 +191,9 @@ msgstr "बोडो"
 
 msgid "Bosnian"
 msgstr "बोस्नियाई"
+
+msgid "Akoose"
+msgstr "अकूसे"
 
 msgid "Buriat"
 msgstr "बुरियात"
@@ -251,6 +260,9 @@ msgstr "चेरोकी"
 
 msgid "Cheyenne"
 msgstr "शेयेन्न"
+
+msgid "Chickasaw"
+msgstr "चिकसॉ"
 
 msgid "Central Kurdish"
 msgstr "सोरानी कुर्दिश"
@@ -603,6 +615,9 @@ msgstr "हिताइत"
 msgid "Hmong"
 msgstr "ह्मॉंग"
 
+msgid "Hmong Njua"
+msgstr "हमोंग नजुआ"
+
 msgid "Hiri Motu"
 msgstr "हिरी मोटू"
 
@@ -831,6 +846,9 @@ msgstr "कोर्निश"
 msgid "Kwakʼwala"
 msgstr "क्वॉकवाला"
 
+msgid "Kuvi"
+msgstr "कुवी"
+
 msgid "Kyrgyz"
 msgstr "किर्गीज़"
 
@@ -860,6 +878,9 @@ msgstr "गांडा"
 
 msgid "Limburgish"
 msgstr "लिंबर्गिश"
+
+msgid "Ligurian"
+msgstr "लिगुरियन"
 
 msgid "Lillooet"
 msgstr "लिलोएट"
@@ -1440,6 +1461,9 @@ msgstr "क्लासिकल सिरिएक"
 msgid "Syriac"
 msgstr "सिरिएक"
 
+msgid "Silesian"
+msgstr "सायलिज़ियन"
+
 msgid "Tamil"
 msgstr "तमिल"
 
@@ -1584,8 +1608,14 @@ msgstr "वाई"
 msgid "Venda"
 msgstr "वेन्दा"
 
+msgid "Venetian"
+msgstr "वनीशन"
+
 msgid "Vietnamese"
 msgstr "वियतनामी"
+
+msgid "Makhuwa"
+msgstr "मखुवा"
 
 msgid "Volapük"
 msgstr "वोलापुक"
@@ -1625,6 +1655,9 @@ msgstr "काल्मिक"
 
 msgid "Xhosa"
 msgstr "ख़ोसा"
+
+msgid "Kangri"
+msgstr "कांगड़ी"
 
 msgid "Soga"
 msgstr "सोगा"

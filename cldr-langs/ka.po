@@ -159,6 +159,9 @@ msgstr "ბინი"
 msgid "Siksiká"
 msgstr "სიკსიკა"
 
+msgid "Anii"
+msgstr "ანიი"
+
 msgid "Bambara"
 msgstr "ბამბარა"
 
@@ -786,6 +789,9 @@ msgstr "კორნული"
 msgid "Kwakʼwala"
 msgstr "კვაკვალა"
 
+msgid "Kuvi"
+msgstr "კუვი"
+
 msgid "Kyrgyz"
 msgstr "ყირგიზული"
 
@@ -816,11 +822,17 @@ msgstr "განდა"
 msgid "Limburgish"
 msgstr "ლიმბურგული"
 
+msgid "Ligurian"
+msgstr "ლიგურიული"
+
 msgid "Lillooet"
 msgstr "ლილიეტი"
 
 msgid "Lakota"
 msgstr "ლაკოტა"
+
+msgid "Lombard"
+msgstr "ლომბარდიული"
 
 msgid "Lingala"
 msgstr "ლინგალა"
@@ -1371,6 +1383,9 @@ msgstr "კლასიკური სირიული"
 msgid "Syriac"
 msgstr "სირიული"
 
+msgid "Silesian"
+msgstr "სილესიური"
+
 msgid "Tamil"
 msgstr "ტამილური"
 
@@ -1494,8 +1509,14 @@ msgstr "ვაი"
 msgid "Venda"
 msgstr "ვენდა"
 
+msgid "Venetian"
+msgstr "ვენეციური"
+
 msgid "Vietnamese"
 msgstr "ვიეტნამური"
+
+msgid "Makhuwa"
+msgstr "მაკჰუვა"
 
 msgid "Volapük"
 msgstr "ვოლაპუკი"
@@ -1530,6 +1551,9 @@ msgstr "ყალმუხური"
 msgid "Xhosa"
 msgstr "ქჰოსა"
 
+msgid "Kangri"
+msgstr "კანგრი"
+
 msgid "Soga"
 msgstr "სოგა"
 
@@ -1553,6 +1577,9 @@ msgstr "კანტონური"
 
 msgid "Chinese, Cantonese"
 msgstr "ჩინური, კანტონური"
+
+msgid "Zhuang"
+msgstr "ზჰუანგი"
 
 msgid "Blissymbols"
 msgstr "ბლისსიმბოლოები"

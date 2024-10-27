@@ -219,6 +219,9 @@ msgstr "bamekon"
 msgid "Siksiká"
 msgstr "siksika"
 
+msgid "Anii"
+msgstr "anii"
+
 msgid "Bambara"
 msgstr "bambara"
 
@@ -622,7 +625,7 @@ msgid "Zoroastrian Dari"
 msgstr "zoroastrisk dari"
 
 msgid "Scottish Gaelic"
-msgstr "skotsk gäliska"
+msgstr "skotsk gaeliska"
 
 msgid "Geez"
 msgstr "etiopiska"
@@ -644,9 +647,6 @@ msgstr "guaraní"
 
 msgid "Old High German"
 msgstr "fornhögtyska"
-
-msgid "Goan Konkani"
-msgstr "Goa-konkani"
 
 msgid "Gondi"
 msgstr "gondi"
@@ -981,6 +981,9 @@ msgstr "korniska"
 msgid "Kwakʼwala"
 msgstr "kwakʼwala"
 
+msgid "Kuvi"
+msgstr "kuvi"
+
 msgid "Kyrgyz"
 msgstr "kirgiziska"
 
@@ -1067,9 +1070,6 @@ msgstr "luiseño"
 
 msgid "Lunda"
 msgstr "lunda"
-
-msgid "Luo"
-msgstr "luo"
 
 msgid "Mizo"
 msgstr "lushai"
@@ -1875,6 +1875,9 @@ msgstr "västflamländska"
 msgid "Main-Franconian"
 msgstr "Main-frankiska"
 
+msgid "Makhuwa"
+msgstr "makua"
+
 msgid "Volapük"
 msgstr "volapük"
 
@@ -1919,6 +1922,9 @@ msgstr "xhosa"
 
 msgid "Mingrelian"
 msgstr "mingrelianska"
+
+msgid "Kangri"
+msgstr "kangri"
 
 msgid "Soga"
 msgstr "lusoga"

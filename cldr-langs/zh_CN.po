@@ -177,6 +177,9 @@ msgstr "科姆语"
 msgid "Siksiká"
 msgstr "西克西卡语"
 
+msgid "Anii"
+msgstr "阿尼语"
+
 msgid "Bambara"
 msgstr "班巴拉语"
 
@@ -618,8 +621,11 @@ msgstr "希伯来语"
 msgid "Hindi"
 msgstr "印地语"
 
+msgid "Hindi (Latin)"
+msgstr "印地语（拉丁字母）"
+
 msgid "Hinglish"
-msgstr "印式英语"
+msgstr "印地英语"
 
 msgid "Hiligaynon"
 msgstr "希利盖农语"
@@ -679,7 +685,7 @@ msgid "Igbo"
 msgstr "伊博语"
 
 msgid "Sichuan Yi"
-msgstr "四川彝语"
+msgstr "凉山彝语"
 
 msgid "Inupiaq"
 msgstr "伊努皮克语"
@@ -864,6 +870,9 @@ msgstr "康沃尔语"
 msgid "Kwakʼwala"
 msgstr "夸夸瓦拉语"
 
+msgid "Kuvi"
+msgstr "库维语"
+
 msgid "Kyrgyz"
 msgstr "柯尔克孜语"
 
@@ -902,6 +911,9 @@ msgstr "利洛埃特语"
 
 msgid "Lakota"
 msgstr "拉科塔语"
+
+msgid "Lombard"
+msgstr "伦巴第语"
 
 msgid "Lingala"
 msgstr "林加拉语"
@@ -997,7 +1009,7 @@ msgid "Middle Irish"
 msgstr "中古爱尔兰语"
 
 msgid "Makhuwa-Meetto"
-msgstr "马库阿语"
+msgstr "马库阿-梅托语"
 
 msgid "Metaʼ"
 msgstr "梅塔语"
@@ -1201,7 +1213,7 @@ msgid "Ossetic"
 msgstr "奥塞梯语"
 
 msgid "Osage"
-msgstr "奥塞治语"
+msgstr "欧塞奇语"
 
 msgid "Ottoman Turkish"
 msgstr "奥斯曼土耳其语"
@@ -1488,6 +1500,9 @@ msgstr "古典叙利亚语"
 msgid "Syriac"
 msgstr "叙利亚语"
 
+msgid "Silesian"
+msgstr "西里西亚语"
+
 msgid "Tamil"
 msgstr "泰米尔语"
 
@@ -1644,6 +1659,9 @@ msgstr "维普森语"
 msgid "Vietnamese"
 msgstr "越南语"
 
+msgid "Makhuwa"
+msgstr "马库阿语"
+
 msgid "Volapük"
 msgstr "沃拉普克语"
 
@@ -1683,11 +1701,14 @@ msgstr "卡尔梅克语"
 msgid "Xhosa"
 msgstr "科萨语"
 
+msgid "Kangri"
+msgstr "康格里语"
+
 msgid "Soga"
 msgstr "索加语"
 
 msgid "Yao"
-msgstr "瑶族语"
+msgstr "尧语"
 
 msgid "Yapese"
 msgstr "雅浦语"

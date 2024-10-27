@@ -162,6 +162,9 @@ msgstr "бини"
 msgid "Siksiká"
 msgstr "сиксика"
 
+msgid "Anii"
+msgstr "ании"
+
 msgid "Bambara"
 msgstr "бамбара"
 
@@ -619,7 +622,7 @@ msgid "Indonesian"
 msgstr "индонезийски"
 
 msgid "Interlingue"
-msgstr "оксидентал"
+msgstr "интерлингве"
 
 msgid "Igbo"
 msgstr "игбо"
@@ -807,6 +810,9 @@ msgstr "корнуолски"
 msgid "Kwakʼwala"
 msgstr "куак’уала"
 
+msgid "Kuvi"
+msgstr "кови"
+
 msgid "Kyrgyz"
 msgstr "киргизки"
 
@@ -836,6 +842,9 @@ msgstr "ганда"
 
 msgid "Limburgish"
 msgstr "лимбургски"
+
+msgid "Ligurian"
+msgstr "лигурски"
 
 msgid "Lillooet"
 msgstr "лилоует"
@@ -1407,6 +1416,9 @@ msgstr "класически сирийски"
 msgid "Syriac"
 msgstr "сирийски"
 
+msgid "Silesian"
+msgstr "силезийски"
+
 msgid "Tamil"
 msgstr "тамилски"
 
@@ -1551,8 +1563,14 @@ msgstr "ваи"
 msgid "Venda"
 msgstr "венда"
 
+msgid "Venetian"
+msgstr "венециански"
+
 msgid "Vietnamese"
 msgstr "виетнамски"
+
+msgid "Makhuwa"
+msgstr "макува"
 
 msgid "Volapük"
 msgstr "волапюк"
@@ -1592,6 +1610,9 @@ msgstr "калмик"
 
 msgid "Xhosa"
 msgstr "кхоса"
+
+msgid "Kangri"
+msgstr "кангри"
 
 msgid "Soga"
 msgstr "сога"

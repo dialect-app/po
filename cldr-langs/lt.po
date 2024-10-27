@@ -216,6 +216,9 @@ msgstr "komų"
 msgid "Siksiká"
 msgstr "siksikų"
 
+msgid "Anii"
+msgstr "guanų"
+
 msgid "Bambara"
 msgstr "bambarų"
 
@@ -507,15 +510,6 @@ msgstr "esperanto"
 msgid "Spanish"
 msgstr "ispanų"
 
-msgid "Latin American Spanish"
-msgstr "Lotynų Amerikos ispanų"
-
-msgid "European Spanish"
-msgstr "Europos ispanų"
-
-msgid "Mexican Spanish"
-msgstr "Meksikos ispanų"
-
 msgid "Central Yupik"
 msgstr "centrinės Aliaskos jupikų"
 
@@ -638,9 +632,6 @@ msgstr "gvaranių"
 
 msgid "Old High German"
 msgstr "senoji Aukštosios Vokietijos"
-
-msgid "Goan Konkani"
-msgstr "Goa konkanių"
 
 msgid "Gondi"
 msgstr "gondi"
@@ -969,6 +960,9 @@ msgstr "kornų"
 msgid "Kwakʼwala"
 msgstr "kvakvalų"
 
+msgid "Kuvi"
+msgstr "kuvi"
+
 msgid "Kyrgyz"
 msgstr "kirgizų"
 
@@ -1055,9 +1049,6 @@ msgstr "luiseno"
 
 msgid "Lunda"
 msgstr "Lundos"
-
-msgid "Luo"
-msgstr "luo"
 
 msgid "Mizo"
 msgstr "mizo"
@@ -1412,12 +1403,6 @@ msgstr "puštūnų"
 
 msgid "Portuguese"
 msgstr "portugalų"
-
-msgid "Brazilian Portuguese"
-msgstr "Brazilijos portugalų"
-
-msgid "European Portuguese"
-msgstr "Europos portugalų"
 
 msgid "Quechua"
 msgstr "kečujų"
@@ -1836,9 +1821,6 @@ msgstr "urdų"
 msgid "Uzbek"
 msgstr "uzbekų"
 
-msgid "Vai"
-msgstr "vai"
-
 msgid "Venda"
 msgstr "vendų"
 
@@ -1856,6 +1838,9 @@ msgstr "vakarų flamandų"
 
 msgid "Main-Franconian"
 msgstr "pagrindinė frankonų"
+
+msgid "Makhuwa"
+msgstr "makua"
 
 msgid "Volapük"
 msgstr "volapiuko"
@@ -1901,6 +1886,9 @@ msgstr "kosų"
 
 msgid "Mingrelian"
 msgstr "megrelų"
+
+msgid "Kangri"
+msgstr "kangri"
 
 msgid "Soga"
 msgstr "sogų"

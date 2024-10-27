@@ -204,6 +204,9 @@ msgstr "ком"
 msgid "Siksiká"
 msgstr "сіксіка"
 
+msgid "Anii"
+msgstr "анії"
+
 msgid "Bambara"
 msgstr "бамбара"
 
@@ -864,6 +867,9 @@ msgstr "корнська"
 msgid "Kwakʼwala"
 msgstr "кваквала"
 
+msgid "Kuvi"
+msgstr "куві"
+
 msgid "Kyrgyz"
 msgstr "киргизька"
 
@@ -929,6 +935,9 @@ msgstr "самія"
 
 msgid "Lithuanian"
 msgstr "литовська"
+
+msgid "Latgalian"
+msgstr "латгальська"
 
 msgid "Luba-Katanga"
 msgstr "луба-катанга"
@@ -1321,7 +1330,7 @@ msgid "Sandawe"
 msgstr "сандаве"
 
 msgid "Yakut"
-msgstr "саха"
+msgstr "якутська"
 
 msgid "Samaritan Aramaic"
 msgstr "самаритянська арамейська"
@@ -1485,6 +1494,9 @@ msgstr "сирійська класична"
 msgid "Syriac"
 msgstr "сирійська"
 
+msgid "Silesian"
+msgstr "сілезька"
+
 msgid "Tamil"
 msgstr "тамільська"
 
@@ -1629,8 +1641,14 @@ msgstr "ваї"
 msgid "Venda"
 msgstr "венда"
 
+msgid "Venetian"
+msgstr "венеційська"
+
 msgid "Vietnamese"
 msgstr "вʼєтнамська"
+
+msgid "Makhuwa"
+msgstr "макува"
 
 msgid "Volapük"
 msgstr "волапюк"
@@ -1670,6 +1688,9 @@ msgstr "калмицька"
 
 msgid "Xhosa"
 msgstr "кхоса"
+
+msgid "Kangri"
+msgstr "кангрі"
 
 msgid "Soga"
 msgstr "сога"

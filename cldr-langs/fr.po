@@ -216,6 +216,9 @@ msgstr "kom"
 msgid "Siksiká"
 msgstr "siksika"
 
+msgid "Anii"
+msgstr "anii"
+
 msgid "Bambara"
 msgstr "bambara"
 
@@ -642,9 +645,6 @@ msgstr "guarani"
 msgid "Old High German"
 msgstr "ancien haut allemand"
 
-msgid "Goan Konkani"
-msgstr "konkani de Goa"
-
 msgid "Gondi"
 msgstr "gondi"
 
@@ -975,6 +975,9 @@ msgstr "cornique"
 msgid "Kwakʼwala"
 msgstr "kwak’wala"
 
+msgid "Kuvi"
+msgstr "kuvi"
+
 msgid "Kyrgyz"
 msgstr "kirghize"
 
@@ -1061,9 +1064,6 @@ msgstr "luiseño"
 
 msgid "Lunda"
 msgstr "lunda"
-
-msgid "Luo"
-msgstr "luo"
 
 msgid "Mizo"
 msgstr "lushaï"
@@ -1869,6 +1869,9 @@ msgstr "flamand occidental"
 msgid "Main-Franconian"
 msgstr "franconien du Main"
 
+msgid "Makhuwa"
+msgstr "macua"
+
 msgid "Volapük"
 msgstr "volapük"
 
@@ -1913,6 +1916,9 @@ msgstr "xhosa"
 
 msgid "Mingrelian"
 msgstr "mingrélien"
+
+msgid "Kangri"
+msgstr "kangri"
 
 msgid "Soga"
 msgstr "soga"

@@ -135,6 +135,9 @@ msgstr "බිනි"
 msgid "Siksiká"
 msgstr "සික්සිකා"
 
+msgid "Anii"
+msgstr "අනී"
+
 msgid "Bambara"
 msgstr "බම්බරා"
 
@@ -516,6 +519,9 @@ msgstr "ඉබිබියො"
 msgid "Indonesian"
 msgstr "ඉන්දුනීසියානු"
 
+msgid "Interlingue"
+msgstr "ඉන්ටර්ලින්ග්"
+
 msgid "Igbo"
 msgstr "ඉග්බෝ"
 
@@ -675,6 +681,9 @@ msgstr "කෝනීසියානු"
 msgid "Kwakʼwala"
 msgstr "ක්වාක්වාලා"
 
+msgid "Kuvi"
+msgstr "කුවි"
+
 msgid "Kyrgyz"
 msgstr "කිර්ගිස්"
 
@@ -699,11 +708,17 @@ msgstr "ගන්ඩා"
 msgid "Limburgish"
 msgstr "ලිම්බර්ගිශ්"
 
+msgid "Ligurian"
+msgstr "ලිගුරියන්"
+
 msgid "Lillooet"
 msgstr "ලිලූට්"
 
 msgid "Lakota"
 msgstr "ලකොට"
+
+msgid "Lombard"
+msgstr "ලොම්බාර්ඩ්"
 
 msgid "Lingala"
 msgstr "ලින්ගලා"
@@ -1173,6 +1188,9 @@ msgstr "කොමොරියන්"
 msgid "Syriac"
 msgstr "ස්‍රයෑක්"
 
+msgid "Silesian"
+msgstr "සිලේසියානු"
+
 msgid "Tamil"
 msgstr "දෙමළ"
 
@@ -1290,8 +1308,14 @@ msgstr "වයි"
 msgid "Venda"
 msgstr "වෙන්ඩා"
 
+msgid "Venetian"
+msgstr "වැනේසියානු"
+
 msgid "Vietnamese"
 msgstr "වියට්නාම්"
+
+msgid "Makhuwa"
+msgstr "මකුවා"
 
 msgid "Volapük"
 msgstr "වොලපූක්"
@@ -1326,6 +1350,9 @@ msgstr "කල්මික්"
 msgid "Xhosa"
 msgstr "ශෝසා"
 
+msgid "Kangri"
+msgstr "කැන්ග්‍රි"
+
 msgid "Soga"
 msgstr "සොගා"
 
@@ -1349,6 +1376,9 @@ msgstr "කැන්ටොනීස්"
 
 msgid "Chinese, Cantonese"
 msgstr "චීන, කැන්ටොනීස්"
+
+msgid "Zhuang"
+msgstr "ෂුවාං"
 
 msgid "Standard Moroccan Tamazight"
 msgstr "සම්මත මොරොක්කෝ ටමසිග්ත්"

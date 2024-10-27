@@ -177,6 +177,9 @@ msgstr "kom"
 msgid "Siksiká"
 msgstr "siksika"
 
+msgid "Anii"
+msgstr "anii"
+
 msgid "Bambara"
 msgstr "bambara"
 
@@ -864,6 +867,9 @@ msgstr "cornisk"
 msgid "Kwakʼwala"
 msgstr "kwakʼwala"
 
+msgid "Kuvi"
+msgstr "kuvi"
+
 msgid "Kyrgyz"
 msgstr "kirgisisk"
 
@@ -894,11 +900,17 @@ msgstr "ganda"
 msgid "Limburgish"
 msgstr "limburgsk"
 
+msgid "Ligurian"
+msgstr "ligurisk"
+
 msgid "Lillooet"
 msgstr "lillooet"
 
 msgid "Lakota"
 msgstr "lakota"
+
+msgid "Lombard"
+msgstr "lombardisk"
 
 msgid "Lingala"
 msgstr "lingala"
@@ -935,9 +947,6 @@ msgstr "luiseno"
 
 msgid "Lunda"
 msgstr "lunda"
-
-msgid "Luo"
-msgstr "luo"
 
 msgid "Mizo"
 msgstr "lushai"
@@ -1036,7 +1045,7 @@ msgid "Mossi"
 msgstr "mossi"
 
 msgid "Marathi"
-msgstr "marathisk"
+msgstr "marathi"
 
 msgid "Malay"
 msgstr "malajisk"
@@ -1201,7 +1210,7 @@ msgid "Ottoman Turkish"
 msgstr "osmannisk tyrkisk"
 
 msgid "Punjabi"
-msgstr "punjabisk"
+msgstr "punjabi"
 
 msgid "Pangasinan"
 msgstr "pangasinan"
@@ -1482,6 +1491,9 @@ msgstr "klassisk syrisk"
 msgid "Syriac"
 msgstr "syrisk"
 
+msgid "Silesian"
+msgstr "schlesisk"
+
 msgid "Tamil"
 msgstr "tamil"
 
@@ -1623,14 +1635,17 @@ msgstr "urdu"
 msgid "Uzbek"
 msgstr "usbekisk"
 
-msgid "Vai"
-msgstr "vai"
-
 msgid "Venda"
 msgstr "venda"
 
+msgid "Venetian"
+msgstr "venetiansk"
+
 msgid "Vietnamese"
 msgstr "vietnamesisk"
+
+msgid "Makhuwa"
+msgstr "makhuwa"
 
 msgid "Volapük"
 msgstr "volapyk"
@@ -1670,6 +1685,9 @@ msgstr "kalmyk"
 
 msgid "Xhosa"
 msgstr "xhosa"
+
+msgid "Kangri"
+msgstr "kangri"
 
 msgid "Soga"
 msgstr "soga"
