@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2023-09-02 17:54+0000\n"
+"PO-Revision-Date: 2024-10-27 19:00+0000\n"
 "Last-Translator: yiannis ioannides <sub@wai.ai>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/dialect/dialect/el/"
 ">\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.0.1-dev\n"
+"X-Generator: Weblate 5.8.2-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -37,6 +37,8 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"μεταφράστε;μετάφραση;Google Translate;LibreTranslate;Lingva Translate;Bing "
+"Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 
 #. For development version
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:186
@@ -72,9 +74,8 @@ msgid "Translation based on Yandex"
 msgstr "Μετάφραση βασισμένη στο Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "Μετάφραση βασισμένη στο Yandex"
+msgstr "Μετάφραση βασισμένη στο DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -103,9 +104,8 @@ msgid "Auto"
 msgstr "Αυτόματη"
 
 #: dialect/main.py:187
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Πνευματικά δικαιώματα 2020–⁠2022 Οι συγγραφείς του Dialect"
+msgstr "Πνευματικά δικαιώματα 2020–⁠2024 Οι συγγραφείς του Dialect"
 
 #: dialect/main.py:189
 msgid "translator-credits"
@@ -113,7 +113,7 @@ msgstr "Yiannis Ioannides"
 
 #: dialect/main.py:190
 msgid "Donate"
-msgstr ""
+msgstr "Κάντε μια δωρεά"
 
 #: dialect/preferences.py:132
 msgid "Edit Provider Settings"
@@ -187,20 +187,21 @@ msgstr "Εμφάνιση"
 
 #: dialect/preferences.ui:125
 msgid "Use Custom Font Size"
-msgstr ""
+msgstr "Χρήση προσαρμοσμένου μεγέθους γραμματοσειράς"
 
 #: dialect/preferences.ui:126
 msgid "System font size is used otherwise."
 msgstr ""
+"Διαφορετικά θα χρησιμοποιηθεί το προεπιλεγμένο μέγεθος γραμματοσειράς του "
+"συστήματος"
 
 #: dialect/preferences.ui:132
-#, fuzzy
 msgid "Default Font Size"
-msgstr "Προεπιλογή σε Αυτόματη"
+msgstr "Προεπιλεγμένο μέγεθος γραμματοσειράς"
 
 #: dialect/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
-msgstr ""
+msgstr "Αλλάζοντας το μέγεθος μέσω συντομεύσεων δεν θα αντικαταστήσει αυτό."
 
 #: dialect/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -218,16 +219,14 @@ msgid "Switch Languages"
 msgstr "Εναλλαγή γλωσσών"
 
 #: dialect/shortcuts.blp:26
-#, fuzzy
 msgctxt "shortcuts window"
 msgid "Select source language"
-msgstr "Αλλαγή αρχικής γλώσσας"
+msgstr "Επιλογή αρχικής γλώσσας"
 
 #: dialect/shortcuts.blp:31
-#, fuzzy
 msgctxt "shortcuts window"
 msgid "Select destination language"
-msgstr "Αλλαγή μεταφραζόμενης γλώσσας"
+msgstr "Επιλογή μεταφραζόμενης γλώσσας"
 
 #: dialect/shortcuts.blp:36
 msgctxt "shortcuts window"
@@ -247,12 +246,12 @@ msgstr "Προβολή προφοράς"
 #: dialect/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr ""
+msgstr "Αύξηση μεγέθους γραμματοσειράς"
 
 #: dialect/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr ""
+msgstr "Μείωση μεγέθους γραμματοσειράς"
 
 #: dialect/shortcuts.blp:62
 msgctxt "shortcuts window"
@@ -445,24 +444,22 @@ msgstr ""
 "Παρακαλώ ορίστε ένα έγκυρο κλειδί API ή αφαιρέστε το στο μενού προτιμήσεων."
 
 #: dialect/window.py:471
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "Δεν ήταν δυνατή η φόρτωση της υπηρεσίας μετάφρασης"
+msgstr "Δεν ήταν δυνατή η εκκίνηση της υπηρεσίας διερμήνευσης. Επανάληψη;"
 
 #: dialect/window.py:472
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "Δεν ήταν δυνατή η φόρτωση της υπηρεσίας μετάφρασης"
+msgstr "Δεν ήταν δυνατή η εκκίνηση της υπηρεσίας διερμήνευσης"
 
 #: dialect/window.py:474
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
-msgstr "Δεν ήταν δυνατή η σύνδεση στον server. Ελέγξτε για προβλήματα δικτύου."
+msgstr ""
+"Δεν ήταν δυνατή η εκκίνηση της υπηρεσίας διερμήνευσης, ελέγξτε για "
+"προβλήματα δικτύου"
 
 #: dialect/window.py:766
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "Αντιγραφή μετάφρασης"
+msgstr "Αντεγράφη στο αρχείο"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -473,19 +470,16 @@ msgid "Suggestion failed."
 msgstr "Η πρόταση απέτυχε."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "Κείμενο σε ομιλία"
+msgstr "Η διερμήνευση απέτυχε"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "Η μετάφραση απέτυχε, ελέγξτε για προβλήματα δικτύου"
+msgstr "Η διερμήνευση απέτυχε, ελέγξτε για προβλήματα δικτύου"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Κείμενο σε ομιλία"
+msgstr "Η διερμήνευση απέτυχε. Επανάληψη;"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
@@ -509,9 +503,8 @@ msgstr "Αναζήτηση γλωσσών…"
 
 #: dialect/widgets/provider_preferences.blp:5
 #: dialect/widgets/provider_preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "Άνοιγμα προτιμήσεων"
+msgstr "Προτιμήσεις παρόχου"
 
 #: dialect/widgets/provider_preferences.blp:21
 msgid "Instance URL"
@@ -536,12 +529,11 @@ msgstr "Εισάγετε ένα κλειδί API παρόχου μετάφρασ
 
 #: dialect/widgets/provider_preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "Χρήση χαρακτήρα"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "Άκυρο"
+msgstr "Ακύρωση ήχου"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
@@ -557,12 +549,11 @@ msgstr "Σκούρο θέμα"
 
 #: dialect/search_provider/search_provider.in:189
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "Μετάφραση “{text}” μέσω {provider_name}"
 
 #: dialect/search_provider/search_provider.in:240
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "Αντιγραφή μετάφρασης"
+msgstr "Αντιγραφή μετάφρασης στο αρχείο"
 
 #~ msgid "A network issue has occurred. Retry?"
 #~ msgstr "Παρουσιάστηκε πρόβλημα δικτύου. Επανάληψη προσπάθειας;"
