@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2024-07-27 23:09+0000\n"
+"PO-Revision-Date: 2024-10-30 19:01+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/dialect/"
 "dialect/pt/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.8.2-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -105,9 +105,8 @@ msgid "Auto"
 msgstr "Automático"
 
 #: dialect/main.py:187
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Copyright 2020–⁠2023 Autores do Dialect"
+msgstr "Copyright 2020–⁠2024 Autores do Dialect"
 
 #: dialect/main.py:189
 msgid "translator-credits"
@@ -141,7 +140,7 @@ msgstr "Escolha entre os serviços de tradução disponíveis."
 
 #: dialect/preferences.ui:43
 msgid "Text-to-Speech"
-msgstr "Texto para voz"
+msgstr "Texto-para-voz"
 
 #: dialect/preferences.ui:44
 msgid "Choose from the available TTS services."
@@ -258,7 +257,7 @@ msgstr "Diminuir o tamanho da letra"
 #: dialect/shortcuts.blp:62
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr "Texto para voz"
+msgstr "Texto-para-voz"
 
 #: dialect/shortcuts.blp:65
 msgctxt "shortcuts window"
@@ -406,7 +405,7 @@ msgstr "Gravar"
 
 #: dialect/window.py:403 dialect/search_provider/search_provider.in:173
 msgid "Failed loading the translation service"
-msgstr "Falhou ao carregar o serviço de tradução"
+msgstr "Falha ao carregar o serviço de tradução"
 
 #: dialect/window.py:404
 msgid "Please report this in the Dialect bug tracker if the issue persists."
@@ -445,25 +444,23 @@ msgstr ""
 "Defina uma chave válida de API ou desative a chave de API nas preferências."
 
 #: dialect/window.py:471
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "Falhou ao carregar o serviço de tradução"
+msgstr ""
+"Falha ao carregar o serviço de conversão de texto para voz. Tentar de novo?"
 
 #: dialect/window.py:472
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "Falhou ao carregar o serviço de tradução"
+msgstr "Falha ao carregar o serviço de conversão de texto para voz"
 
 #: dialect/window.py:474
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr ""
-"Não foi possível ligar-se ao servidor. Verifique se há problemas de rede."
+"Falha ao carregar o serviço de conversão de texto para voz. Verifique se há "
+"problemas de rede"
 
 #: dialect/window.py:766
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "Copiar tradução para a área de transferência"
+msgstr "Copiado para a área de transferência"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -471,22 +468,19 @@ msgstr "Nova tradução foi sugerida!"
 
 #: dialect/window.py:793 dialect/window.py:799
 msgid "Suggestion failed."
-msgstr "A sugestão falhou."
+msgstr "Falha na sugestão."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "Texto para voz"
+msgstr "Falha na conversão de texto para voz"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "A tradução falhou, verifique se há problemas de rede"
+msgstr "Falha na conversão de texto para voz. Verifique se há problemas de rede"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Texto para voz"
+msgstr "Falha na conversão de texto para voz. Tentar de novo?"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
@@ -498,11 +492,11 @@ msgstr "Quis dizer: "
 
 #: dialect/window.py:1158 dialect/search_provider/search_provider.in:157
 msgid "Translation failed, check for network issues"
-msgstr "A tradução falhou, verifique se há problemas de rede"
+msgstr "Falha na tradução. Verifique se há problemas de rede"
 
 #: dialect/window.py:1182 dialect/search_provider/search_provider.in:163
 msgid "Translation failed"
-msgstr "A tradução falhou"
+msgstr "Falha na tradução"
 
 #: dialect/widgets/lang_selector.blp:47
 msgid "Search Languages…"
@@ -539,9 +533,8 @@ msgid "Character Usage"
 msgstr "Utilização de caracteres"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "Cancelar"
+msgstr "Cancelar áudio"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
