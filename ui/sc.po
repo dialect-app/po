@@ -8,25 +8,28 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-11-02 21:03+0000\n"
+"Last-Translator: Ajeje Brazorf <lmelonimamo@yahoo.it>\n"
+"Language-Team: Sardinian <https://hosted.weblate.org/projects/dialect/"
+"dialect/sc/>\n"
 "Language: sc\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.8.2\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:74
 #: dialect/window.blp:264
 msgid "Dialect"
-msgstr ""
+msgstr "Dialect"
 
 #: data/app.drey.Dialect.desktop.in.in:10
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
-msgstr ""
+msgstr "Borta da una limba a s'àtera"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:14
@@ -34,507 +37,521 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"tradue;tradutzione;Google Translate;LibreTranslate;Lingva Translate;Bing "
+"Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 
 #. For development version
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:186
 msgid "A translation app for GNOME."
-msgstr ""
+msgstr "Un'aplicatzione de tradutzione pro GNOME."
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
-msgstr ""
+msgstr "Funtzionalidades:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
 msgid "Translation based on Google Translate"
-msgstr ""
+msgstr "Tradutzione basada subra de Google Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
+"Tradutzione basada subra de s'API de LibreTranslate, chi ti permitit de "
+"impreare cale si siat istàntzia pùblica"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
-msgstr ""
+msgstr "Tradutzione basada subra de s'API de Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Translation based on Bing"
-msgstr ""
+msgstr "Tradutzione basada subra de Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
 msgid "Translation based on Yandex"
-msgstr ""
+msgstr "Tradutzione basada subra de Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Translation based on DeepL"
-msgstr ""
+msgstr "Tradutzione basada subra de DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
-msgstr ""
+msgstr "Sìntesi de sa boghe (TTS)"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Translation history"
-msgstr ""
+msgstr "Cronologia de tradutzione"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Automatic language detection"
-msgstr ""
+msgstr "Rilevada automàtica de sa limba"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:25
 msgid "Clipboard buttons"
-msgstr ""
+msgstr "Butones de sa punta de billete"
 
 #. developer_name tag deprecated with Appstream 1.0
 #: data/app.drey.Dialect.metainfo.xml.in.in:35
 #: data/app.drey.Dialect.metainfo.xml.in.in:37
 msgid "The Dialect Authors"
-msgstr ""
+msgstr "Sos autores de Dialect"
 
 #: dialect/languages.py:63 dialect/widgets/lang_selector.py:84
 msgid "Auto"
-msgstr ""
+msgstr "Automàtica"
 
 #: dialect/main.py:187
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr ""
+msgstr "Deretos de autore 2020–⁠2024 Sos autores de Dialect"
 
 #: dialect/main.py:189
 msgid "translator-credits"
-msgstr ""
+msgstr "L2212"
 
 #: dialect/main.py:190
 msgid "Donate"
-msgstr ""
+msgstr "Dona"
 
 #: dialect/preferences.py:132
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Modìfica sas impostatziones de su frunidore"
 
 #: dialect/preferences.py:134
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Peruna impostatzione pro custu frunidore"
 
 #: dialect/preferences.ui:8
 msgid "Providers"
-msgstr ""
+msgstr "Frunidores"
 
 #: dialect/preferences.ui:11
 msgid "Translator"
-msgstr ""
+msgstr "Tradutore"
 
 #: dialect/preferences.ui:12
 msgid "Choose from the available translation services."
-msgstr ""
+msgstr "Issèbera dae sos servìtzios de tradutzione a disponimentu."
 
 #: dialect/preferences.ui:43
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Sìntesi vocale"
 
 #: dialect/preferences.ui:44
 msgid "Choose from the available TTS services."
-msgstr ""
+msgstr "Issèbera dae sos servìtzios de sìntesi vocale a disponimentu."
 
 #: dialect/preferences.ui:77
 msgid "Behavior"
-msgstr ""
+msgstr "Cumportamentu"
 
 #: dialect/preferences.ui:80
 msgid "Live Translation"
-msgstr ""
+msgstr "Tradutzione in tempus reale"
 
 #: dialect/preferences.ui:81
 msgid "Warning: Your IP address may get banned for API abuse."
 msgstr ""
+"Dae cara: S'indiritzu IP tuo diat pòdere bènnere bandidu pro abusu de s'API."
 
 #: dialect/preferences.ui:87
 msgid "Show Translations in Desktop Search"
-msgstr ""
+msgstr "Mustra sas tradutziones in sa chirca de iscrivania"
 
 #: dialect/preferences.ui:88
 msgid "Warning: All desktop searches will be sent to the translation service"
 msgstr ""
+"Dae cara: totu sas chircas de iscrivania ant a èssere imbiadas a su "
+"servìtziu de tradutzione"
 
 #: dialect/preferences.ui:95
 msgid "Translation Shortcut"
-msgstr ""
+msgstr "Incurtzada de tradutzione"
 
 #: dialect/preferences.ui:96
 msgid "The unselected choice will be used for line break."
 msgstr ""
+"S'optzione non seletzionada s'at a impreare pro s'interrutzione de riga."
 
 #: dialect/preferences.ui:114
 msgid "Default to Auto"
-msgstr ""
+msgstr "Automàtica comente predefinida"
 
 #: dialect/preferences.ui:115
 msgid "Use \"Auto\" as the default language"
-msgstr ""
+msgstr "Imprea \"Automàtica\" comente limba predefinida"
 
 #: dialect/preferences.ui:122
 msgid "Appearance"
-msgstr ""
+msgstr "Aspetu"
 
 #: dialect/preferences.ui:125
 msgid "Use Custom Font Size"
-msgstr ""
+msgstr "Imprea una mannària de sos caràteres personalizada"
 
 #: dialect/preferences.ui:126
 msgid "System font size is used otherwise."
-msgstr ""
+msgstr "Si nono s'impreat sa mannària de sos caràteres de sistema."
 
 #: dialect/preferences.ui:132
 msgid "Default Font Size"
-msgstr ""
+msgstr "Mannària de caràteres predefinida"
 
 #: dialect/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
-msgstr ""
+msgstr "Cambiende sa mannària impreende sas incurtzadas non subraiscriet custu."
 
 #: dialect/shortcuts.blp:13
 msgctxt "shortcuts window"
 msgid "Translator"
-msgstr ""
+msgstr "Tradutore"
 
 #: dialect/shortcuts.blp:16
 msgctxt "shortcuts window"
 msgid "Translate"
-msgstr ""
+msgstr "Borta"
 
 #: dialect/shortcuts.blp:21
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr ""
+msgstr "Fùrria sas limbas"
 
 #: dialect/shortcuts.blp:26
 msgctxt "shortcuts window"
 msgid "Select source language"
-msgstr ""
+msgstr "Seletziona sa limba de orìgine"
 
 #: dialect/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Select destination language"
-msgstr ""
+msgstr "Seletziona sa limba de destinatzione"
 
 #: dialect/shortcuts.blp:36
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "Isbòida su testu de orìgine"
 
 #: dialect/shortcuts.blp:41
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr ""
+msgstr "Còpia sa tradutzione"
 
 #: dialect/shortcuts.blp:46
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "Mustra sa pronùntzia"
 
 #: dialect/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr ""
+msgstr "Ismànnia sa mannària de sos caràteres"
 
 #: dialect/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr ""
+msgstr "Mìnima sa mannària de sos caràteres"
 
 #: dialect/shortcuts.blp:62
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Sìntesi vocale"
 
 #: dialect/shortcuts.blp:65
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "Ascurta su testu originale"
 
 #: dialect/shortcuts.blp:70
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr ""
+msgstr "Ascurta sa tradutzione"
 
 #: dialect/shortcuts.blp:76
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "Navigatzione"
 
 #: dialect/shortcuts.blp:79
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "Torra a sa cronologia"
 
 #: dialect/shortcuts.blp:84
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr ""
+msgstr "Bae a in antis in sa cronologia"
 
 #: dialect/shortcuts.blp:90
 msgctxt "shortcuts window"
 msgid "General"
-msgstr ""
+msgstr "Generales"
 
 #: dialect/shortcuts.blp:93
 msgctxt "shortcuts window"
 msgid "Preferences"
-msgstr ""
+msgstr "Preferèntzias"
 
 #: dialect/shortcuts.blp:98
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr ""
+msgstr "Incurtzaduras"
 
 #: dialect/shortcuts.blp:103
 msgctxt "shortcuts window"
 msgid "Quit"
-msgstr ""
+msgstr "Serra"
 
 #: dialect/window.blp:15
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "Mustra sa pronùntzia"
 
 #: dialect/window.blp:24 dialect/window.py:1176
 msgid "Preferences"
-msgstr ""
+msgstr "Preferèntzias"
 
 #: dialect/window.blp:29
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Incurtzaduras de tecladu"
 
 #: dialect/window.blp:34
 msgid "About Dialect"
-msgstr ""
+msgstr "Subra de Dialect"
 
 #: dialect/window.blp:68 dialect/widgets/speech_button.py:40
 msgid "Loading…"
-msgstr ""
+msgstr "Carrighende…"
 
 #: dialect/window.blp:92 dialect/window.blp:124 dialect/window.py:903
 #: dialect/window.py:1160 dialect/window.py:1168 dialect/window.py:1184
 msgid "Retry"
-msgstr ""
+msgstr "Torra a proare"
 
 #: dialect/window.blp:102 dialect/window.blp:137 dialect/window.blp:177
 #: dialect/window.blp:213
 msgid "Open Preferences"
-msgstr ""
+msgstr "Aberi sas preferèntzias"
 
 #: dialect/window.blp:167 dialect/window.blp:200
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "Boga sa crae e torra a proare"
 
 #: dialect/window.blp:244 dialect/window.blp:566
 msgid "Change Source Language"
-msgstr ""
+msgstr "Càmbia sa limba de orìgine"
 
 #: dialect/window.blp:249 dialect/window.blp:574
 msgid "Switch Languages"
-msgstr ""
+msgstr "Fùrria sas limbas"
 
 #: dialect/window.blp:256 dialect/window.blp:582
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Càmbia sa limba de destinatzione"
 
 #: dialect/window.blp:271
 msgid "Previous Translation"
-msgstr ""
+msgstr "Tradutzione anteposta"
 
 #: dialect/window.blp:277
 msgid "Next Translation"
-msgstr ""
+msgstr "Tradutzione imbeniente"
 
 #: dialect/window.blp:284
 msgid "Main Menu"
-msgstr ""
+msgstr "Menù printzipale"
 
 #: dialect/window.blp:385
 msgid "Clear"
-msgstr ""
+msgstr "Isbòida"
 
 #: dialect/window.blp:391
 msgid "Paste"
-msgstr ""
+msgstr "Incolla"
 
 #: dialect/window.blp:397 dialect/window.blp:515
 #: dialect/widgets/speech_button.blp:5 dialect/widgets/speech_button.py:22
 msgid "Listen"
-msgstr ""
+msgstr "Ascurta"
 
 #: dialect/window.blp:418
 msgid "Translate"
-msgstr ""
+msgstr "Borta"
 
 #: dialect/window.blp:489
 msgid "Translating…"
-msgstr ""
+msgstr "Bortende…"
 
 #: dialect/window.blp:494
 msgid "Could not Translate the Text"
-msgstr ""
+msgstr "No at fatu a bortare su testu"
 
 #: dialect/window.blp:501 dialect/search_provider/search_provider.in:239
 msgid "Copy"
-msgstr ""
+msgstr "Còpia"
 
 #: dialect/window.blp:509
 msgid "Suggest Translation"
-msgstr ""
+msgstr "Cussìgia una tradutzione"
 
 #: dialect/window.blp:533
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 #: dialect/window.blp:540
 msgid "Save"
-msgstr ""
+msgstr "Sarva"
 
 #: dialect/window.py:403 dialect/search_provider/search_provider.in:173
 msgid "Failed loading the translation service"
-msgstr ""
+msgstr "Carrigamentu de su servìtziu de tradutzione fallidu"
 
 #: dialect/window.py:404
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
+"Si su problema sighit, sinnala·lu in s'arrastadore de faddinas de Dialect."
 
 #: dialect/window.py:415
 msgid "Couldn’t connect to the translation service"
-msgstr ""
+msgstr "No at fatu a si connètere a su servìtziu de tradutzione"
 
 #: dialect/window.py:416
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
+"Non nos podimus connètere a su serbidore. Avèrgua si bi sunt problemas de "
+"rete."
 
 #: dialect/window.py:437 dialect/window.py:1174
 #: dialect/search_provider/search_provider.in:161
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "Pro impreare su servìtziu bisòngiat una crae API"
 
 #: dialect/window.py:438
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "Imposta una crae API dae sas preferèntzias."
 
 #: dialect/window.py:441 dialect/window.py:1166
 #: dialect/search_provider/search_provider.in:159
 msgid "The provided API key is invalid"
-msgstr ""
+msgstr "Sa crae API frunida no est vàlida"
 
 #: dialect/window.py:443
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "Imposta una crae API vàlida in sas preferèntzias."
 
 #: dialect/window.py:446
 msgid "Please set a valid API key or unset the API key in the preferences."
-msgstr ""
+msgstr "Imposta una crae API vàlida o boga sa crae API in sas preferèntzias."
 
 #: dialect/window.py:471
 msgid "Failed loading the text-to-speech service. Retry?"
 msgstr ""
+"Carrigamentu de su servìtziu de sìntesi vocale fallidu. Torrare a proare?"
 
 #: dialect/window.py:472
 msgid "Failed loading the text-to-speech service"
-msgstr ""
+msgstr "Carrigamentu de su servìtziu de sìntesi vocale fallidu"
 
 #: dialect/window.py:474
 msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr ""
+"Carrigamentu de su servìtziu de sìntesi vocale fallidu, verìfica si b'at "
+"problemas de rete"
 
 #: dialect/window.py:766
 msgid "Copied to clipboard"
-msgstr ""
+msgstr "Copiadu in punta de billete"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
-msgstr ""
+msgstr "Una tradutzione noa est istada cussigiada!"
 
 #: dialect/window.py:793 dialect/window.py:799
 msgid "Suggestion failed."
-msgstr ""
+msgstr "Cussìgiu fallidu."
 
 #: dialect/window.py:894
 msgid "Text-to-Speech failed"
-msgstr ""
+msgstr "Sìntesi vocale fallida"
 
 #: dialect/window.py:898
 msgid "Text-to-Speech failed, check for network issues"
-msgstr ""
+msgstr "Sìntesi vocale fallida, verìfica si b'at problemas de rete"
 
 #: dialect/window.py:907
 msgid "Text-to-Speech failed. Retry?"
-msgstr ""
+msgstr "Sìntesi vocale fallida. Torrare a proare?"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
-msgstr ""
+msgstr "lìmite de {} caràteres segudadu!"
 
 #: dialect/window.py:1123
 msgid "Did you mean: "
-msgstr ""
+msgstr "Bolias nàrrere: "
 
 #: dialect/window.py:1158 dialect/search_provider/search_provider.in:157
 msgid "Translation failed, check for network issues"
-msgstr ""
+msgstr "Tradutzione fallida, verìfica si b'at problemas de rete"
 
 #: dialect/window.py:1182 dialect/search_provider/search_provider.in:163
 msgid "Translation failed"
-msgstr ""
+msgstr "Tradutzione fallida"
 
 #: dialect/widgets/lang_selector.blp:47
 msgid "Search Languages…"
-msgstr ""
+msgstr "Chirchende limbas…"
 
 #: dialect/widgets/provider_preferences.blp:5
 #: dialect/widgets/provider_preferences.blp:12
 msgid "Provider Preferences"
-msgstr ""
+msgstr "Preferèntzias de su frunidore"
 
 #: dialect/widgets/provider_preferences.blp:21
 msgid "Instance URL"
-msgstr ""
+msgstr "URL de s'istàntzia"
 
 #: dialect/widgets/provider_preferences.blp:22
 msgid "Enter an Instance URL for the Provider."
-msgstr ""
+msgstr "Inserta un'URL de istàntzia pro su frunidore."
 
 #: dialect/widgets/provider_preferences.blp:32
 #: dialect/widgets/provider_preferences.blp:62
 msgid "Reset to Default"
-msgstr ""
+msgstr "Reimposta sos valores predefinidos"
 
 #: dialect/widgets/provider_preferences.blp:52
 msgid "API Key"
-msgstr ""
+msgstr "Crae API"
 
 #: dialect/widgets/provider_preferences.blp:53
 msgid "Enter an API Key for the Provider."
-msgstr ""
+msgstr "Inserta una crae API pro su frunidore."
 
 #: dialect/widgets/provider_preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "Impreu de sos caràteres"
 
 #: dialect/widgets/speech_button.py:28
 msgid "Cancel Audio"
-msgstr ""
+msgstr "Chene àudio"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
-msgstr ""
+msgstr "Sighi s'istile de sistema"
 
 #: dialect/widgets/theme_switcher.blp:35
 msgid "Light Style"
-msgstr ""
+msgstr "Istile craru"
 
 #: dialect/widgets/theme_switcher.blp:50
 msgid "Dark Style"
-msgstr ""
+msgstr "Istile iscuru"
 
 #: dialect/search_provider/search_provider.in:189
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "Borta “{text}” cun {provider_name}"
 
 #: dialect/search_provider/search_provider.in:240
 msgid "Copy translation to clipboard"
-msgstr ""
+msgstr "Còpia sa tradutzione in punta de billete"
