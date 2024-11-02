@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2024-07-27 23:09+0000\n"
+"PO-Revision-Date: 2024-11-02 21:03+0000\n"
 "Last-Translator: Philip Goto <philip.goto@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/dialect/dialect/nl/"
 ">\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.8.2\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -105,9 +105,8 @@ msgid "Auto"
 msgstr "Automatisch"
 
 #: dialect/main.py:187
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Copyright 2020-2023, Het Dialect-team"
+msgstr "Copyright 2020-2024, de Dialect-auteurs"
 
 #: dialect/main.py:189
 msgid "translator-credits"
@@ -447,26 +446,23 @@ msgstr ""
 "Stel een geldige API-sleutel in of wis de huidige sleutel in de voorkeuren."
 
 #: dialect/window.py:471
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "De vertaaldienst kan niet worden geladen"
+msgstr ""
+"Het laden van de tekst-naar-spraak-service is mislukt. Opnieuw proberen?"
 
 #: dialect/window.py:472
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "De vertaaldienst kan niet worden geladen"
+msgstr "Laden van tekst-naar-spraak-service mislukt"
 
 #: dialect/window.py:474
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr ""
-"Er kan geen verbinding met de server worden gemaakt. Controleer uw "
-"internetverbinding."
+"Het laden van de tekst-naar-spraak-service is mislukt, controleer op "
+"netwerk­problemen"
 
 #: dialect/window.py:766
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "Vertaling kopiëren naar klem­bord"
+msgstr "Gekopieerd naar klem­bord"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -477,19 +473,16 @@ msgid "Suggestion failed."
 msgstr "Suggestie aanleveren mislukt."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "Voorlezen"
+msgstr "Tekst-naar-spraak mislukt"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "Vertaling mislukt, controleer uw internetverbinding"
+msgstr "Tekst-naar-spraak mislukt, controleer op netwerk­problemen"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Voorlezen"
+msgstr "Tekst-naar-spraak mislukt. Opnieuw proberen?"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
@@ -542,9 +535,8 @@ msgid "Character Usage"
 msgstr "Teken­gebruik"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "Annuleren"
+msgstr "Geluid stoppen"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
