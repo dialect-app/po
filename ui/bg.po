@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2024-04-08 20:35+0000\n"
+"PO-Revision-Date: 2024-11-09 23:01+0000\n"
 "Last-Translator: twlvnn <kraft_werk@tutanota.com>\n"
 "Language-Team: Bulgarian <https://hosted.weblate.org/projects/dialect/"
 "dialect/bg/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.8.2\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -74,9 +74,8 @@ msgid "Translation based on Yandex"
 msgstr "Превод чрез Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "Превод чрез Yandex"
+msgstr "Превод чрез DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -105,9 +104,8 @@ msgid "Auto"
 msgstr "Автоматично"
 
 #: dialect/main.py:187
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Авторски права 2022-2023 Автори на „Dialect“"
+msgstr "Авторски права 2020-2024 Автори на „Dialect“"
 
 #: dialect/main.py:189
 msgid "translator-credits"
@@ -445,25 +443,22 @@ msgstr ""
 "Моля, задайте валиден API ключ или изчистете API полето в предпочитанията."
 
 #: dialect/window.py:471
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "Неуспешно зареждане на преводача"
+msgstr "Услугата за текст-към-реч не може да бъде заредена. Нов опит?"
 
 #: dialect/window.py:472
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "Неуспешно зареждане на преводача"
+msgstr "Услугата за текст-към-реч не може да бъде заредена"
 
 #: dialect/window.py:474
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr ""
-"Връзката към сървъра е неуспешна. Моля, проверете за проблеми в мрежата."
+"Услугата за текст-към-реч не може да бъде заредена, проверете за проблеми в "
+"мрежата"
 
 #: dialect/window.py:766
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "Копиране на превода"
+msgstr "Копирано в буфера за обмен"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -474,19 +469,16 @@ msgid "Suggestion failed."
 msgstr "Предложението е неуспешно."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "Текст-към-Реч"
+msgstr "Текст-към-реч е неуспешно"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "Неуспешен превод, проверете за мрежови проблеми"
+msgstr "Текст-към-реч е неуспешно, проверете за проблеми в мрежата"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Текст-към-Реч"
+msgstr "Текст-към-реч е неуспешно. Нов опит?"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
@@ -510,9 +502,8 @@ msgstr "Търсене на езици…"
 
 #: dialect/widgets/provider_preferences.blp:5
 #: dialect/widgets/provider_preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "Отворете настройките"
+msgstr "Настройки на доставчика"
 
 #: dialect/widgets/provider_preferences.blp:21
 msgid "Instance URL"
@@ -537,12 +528,11 @@ msgstr "Въведете API ключа на преводача."
 
 #: dialect/widgets/provider_preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "Ползване на знаците"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "Отказване"
+msgstr "Прекратяване на звука"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
@@ -558,12 +548,11 @@ msgstr "Tъмен стил"
 
 #: dialect/search_provider/search_provider.in:189
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "Превеждане на „{text}“ с {provider_name}"
 
 #: dialect/search_provider/search_provider.in:240
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "Копиране на превода"
+msgstr "Копиране на превода в буфера за обмен"
 
 #~ msgid "A network issue has occurred. Retry?"
 #~ msgstr "Възникна проблем с мрежата. Опитайте пак?"
