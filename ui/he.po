@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2024-09-03 09:09+0000\n"
+"PO-Revision-Date: 2024-11-11 19:14+0000\n"
 "Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/dialect/dialect/"
 "he/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.8.2\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -106,9 +106,8 @@ msgid "Auto"
 msgstr "אוטומטי"
 
 #: dialect/main.py:187
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "כל הזכויות שמורות 2020‏-2023 ליוצרי Dialect"
+msgstr "כל הזכויות שמורות 2020‏-2024 ליוצרי Dialect"
 
 #: dialect/main.py:189
 msgid "translator-credits"
@@ -440,24 +439,20 @@ msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr "נא להגדיר מפתח API תקין או לבטל את הגדרת מפתח ה־API בהגדרות."
 
 #: dialect/window.py:471
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "טעינת שירות תרגום נכשלה"
+msgstr "טעינת שירות הקראה נכשל. להמשיך?"
 
 #: dialect/window.py:472
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "טעינת שירות תרגום נכשלה"
+msgstr "טעינת שירות הקראה נכשלה"
 
 #: dialect/window.py:474
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
-msgstr "לא הצלחנו להתחבר לשרת. נא לבדוק אם הרשת תקינה."
+msgstr "טעינת שירות ההקראה נכשלה, נא לבדוק שחיבור הרשת תקין"
 
 #: dialect/window.py:766
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "העתקת התרגום ללוח הגזירים"
+msgstr "הועתק ללוח הגזירים"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -468,19 +463,16 @@ msgid "Suggestion failed."
 msgstr "ההצעה נכשלה."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "הקראה"
+msgstr "הקראה נכשלה"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "התרגום נכשל, נא לבדוק שהרשת תקינה"
+msgstr "הקראה נכשלה, נא לבדוק שחיבור הרשת תקין"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "הקראה"
+msgstr "הקראה נכשלה. לנסות שוב?"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
@@ -533,9 +525,8 @@ msgid "Character Usage"
 msgstr "שימוש בתווים"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "ביטול"
+msgstr "ביטול שמע"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
