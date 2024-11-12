@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2024-07-27 23:09+0000\n"
+"PO-Revision-Date: 2024-11-12 15:28+0000\n"
 "Last-Translator: Quentin PAGÈS <quentinantonin@free.fr>\n"
 "Language-Team: Occitan <https://hosted.weblate.org/projects/dialect/dialect/"
 "oc/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.8.2\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -105,9 +105,8 @@ msgid "Auto"
 msgstr "Auto"
 
 #: dialect/main.py:187
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Dreches d’autor© 2020-2023 dels autors de Dialècte"
+msgstr "Dreches d’autor© 2020-2024 dels autors de Dialècte"
 
 #: dialect/main.py:189
 msgid "translator-credits"
@@ -446,26 +445,22 @@ msgstr ""
 "Mercés de definir una clau d'API valida o levatz-la de las preferéncias."
 
 #: dialect/window.py:471
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "Cargament impossible del servici de traduccion"
+msgstr "Cargament impossible del servici de traduccion. Tornar ensajar ?"
 
 #: dialect/window.py:472
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "Cargament impossible del servici de traduccion"
+msgstr "Cargament impossible del servici de sintèsi vocala"
 
 #: dialect/window.py:474
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr ""
-"Podèm pas nos connectar al servidor. Mercés de verificar se i a de problèmas "
-"de ret."
+"Fracàs del cargament del servici de sintèsi vocala. Mercés de verificar se i "
+"a de problèmas de ret"
 
 #: dialect/window.py:766
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "Copiar la traduccion al quichapapièrs"
+msgstr "Copiat al quichapapièrs"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -476,19 +471,16 @@ msgid "Suggestion failed."
 msgstr "La suggestion à fracassat."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "Sintèsi vocala"
+msgstr "Fracàs de la sintèsi vocala"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "La traduccion a fracassat, verificatz los problèmas ret"
+msgstr "La sintèsi vocala a fracassat, verificatz los problèmas ret"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Sintèsi vocala"
+msgstr "Ma sintèsi vocala a fracassat. Tornar ensajar ?"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
@@ -517,7 +509,7 @@ msgstr "Preferéncias provesidor"
 
 #: dialect/widgets/provider_preferences.blp:21
 msgid "Instance URL"
-msgstr "URL de l'instància :"
+msgstr "URL de l'instància"
 
 #: dialect/widgets/provider_preferences.blp:22
 msgid "Enter an Instance URL for the Provider."
@@ -541,9 +533,8 @@ msgid "Character Usage"
 msgstr "Utilizacion dels caractèrs"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "Anullar"
+msgstr "Anullar l'àudio"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
