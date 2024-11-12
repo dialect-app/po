@@ -8,25 +8,28 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2024-11-12 15:28+0000\n"
+"Last-Translator: Priit Jõerüüt <hwlate@joeruut.com>\n"
+"Language-Team: Estonian <https://hosted.weblate.org/projects/dialect/dialect/"
+"et/>\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.8.2\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:74
 #: dialect/window.blp:264
 msgid "Dialect"
-msgstr ""
+msgstr "Dialect"
 
 #: data/app.drey.Dialect.desktop.in.in:10
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
-msgstr ""
+msgstr "Tõlgi eri keelete vahel"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:14
@@ -34,95 +37,99 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"tõlgi;tõlge;tõlkimine;Google Translate;LibreTranslate;Lingva Translate;Bing "
+"Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 
 #. For development version
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:186
 msgid "A translation app for GNOME."
-msgstr ""
+msgstr "Tõlkerakendus GNOME'i jaoks."
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
-msgstr ""
+msgstr "Omadused:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
 msgid "Translation based on Google Translate"
-msgstr ""
+msgstr "Google Translate-teenuse põhine tõlge"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
+"LibreTranslate API-põhine tõlge, mis võimaldab sul kasutada iga avalikku "
+"serverit"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
-msgstr ""
+msgstr "Lingva Translate API-põhine tõlge"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Translation based on Bing"
-msgstr ""
+msgstr "Bingi teenuse põhine tõlge"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
 msgid "Translation based on Yandex"
-msgstr ""
+msgstr "Yandexi teenuse põhine tõlge"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Translation based on DeepL"
-msgstr ""
+msgstr "DeepLi teenuse põhine tõlge"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
-msgstr ""
+msgstr "Tekst kõneks"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Translation history"
-msgstr ""
+msgstr "Tõlkeajalugu"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Automatic language detection"
-msgstr ""
+msgstr "Automaatne keeletuvastus"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:25
 msgid "Clipboard buttons"
-msgstr ""
+msgstr "Lõikelaua nupud"
 
 #. developer_name tag deprecated with Appstream 1.0
 #: data/app.drey.Dialect.metainfo.xml.in.in:35
 #: data/app.drey.Dialect.metainfo.xml.in.in:37
 msgid "The Dialect Authors"
-msgstr ""
+msgstr "Dialecti autorid"
 
 #: dialect/languages.py:63 dialect/widgets/lang_selector.py:84
 msgid "Auto"
-msgstr ""
+msgstr "Automaatne"
 
 #: dialect/main.py:187
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr ""
+msgstr "Autoriõigused 2020–⁠2024 Dialecti autorid"
 
 #: dialect/main.py:189
 msgid "translator-credits"
-msgstr ""
+msgstr "Priit Jõerüüt"
 
 #: dialect/main.py:190
 msgid "Donate"
-msgstr ""
+msgstr "Toeta rahaliselt"
 
 #: dialect/preferences.py:132
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Muuda teenusepakkuja seadistusi"
 
 #: dialect/preferences.py:134
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Sellel teenusepakkujal pole seadistusi"
 
 #: dialect/preferences.ui:8
 msgid "Providers"
-msgstr ""
+msgstr "Teenusepakkujad"
 
 #: dialect/preferences.ui:11
 msgid "Translator"
-msgstr ""
+msgstr "Tõlkeliides"
 
 #: dialect/preferences.ui:12
 msgid "Choose from the available translation services."
