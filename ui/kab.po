@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2024-08-02 13:32+0000\n"
-"Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
+"PO-Revision-Date: 2024-11-17 07:00+0000\n"
+"Last-Translator: R_SACI <rgebbid@gmail.com>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/dialect/dialect/"
 "kab/>\n"
 "Language: kab\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -104,9 +104,8 @@ msgid "Auto"
 msgstr "Awurman"
 
 #: dialect/main.py:187
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Copyright 2020–⁠2023 Imeskaren n Dialect"
+msgstr "Izerfan n usuffeɣ 2020–⁠2023 Imeskaren n Dialect"
 
 #: dialect/main.py:189
 msgid "translator-credits"
@@ -441,25 +440,20 @@ msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr "Ttxil-k·m, sbadu tasarut API tameɣtut neɣ kkes-itt deg yismenyifen."
 
 #: dialect/window.py:471
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "Ur yessaweḍ ara ad d-yessali ameẓlu n tsuqilt"
+msgstr "Ur yessaweḍ ara ad d-yessali ameẓlu n tsuqilt. Ԑreḍ tikkelt niḍen?"
 
 #: dialect/window.py:472
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "Ur yessaweḍ ara ad d-yessali ameẓlu n tsuqilt"
+msgstr "Ur yessaweḍ ara ad d-yessali ameẓlu ususru n uḍris"
 
 #: dialect/window.py:474
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
-msgstr ""
-"Ur nezmir ara ad neqqen ɣer uqeddac. Ma ulac aɣilif, wali uguren n uẓeṭṭa."
+msgstr "Yecceḍ usali n umeẓlu n ususru n uḍris, senqed ma mačči d ugur n tuqqna"
 
 #: dialect/window.py:766
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "Nɣel tasuqilt-nni ɣer tfelwit n ufus"
+msgstr "Yettwanɣel ɣer tecfawt"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -470,19 +464,16 @@ msgid "Suggestion failed."
 msgstr "Yexṣer ussumer-nni."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "Aḍris ɣer taɣect"
+msgstr "Aḍris ɣer taɣect yecceḍ"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "Texser tsuqilt, ẓer uguren n uẓeṭṭa"
+msgstr "Asusru n uḍris yecceḍ, senqed ma mačči d ugur n tuqqna"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Aḍris ɣer taɣect"
+msgstr "Asusru n uḍris yecceḍ. Ԑreḍ tikkelt niḍen?"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
@@ -535,9 +526,8 @@ msgid "Character Usage"
 msgstr "Aseqdec n yisekkilen"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "Sesfex"
+msgstr "Sesfex imesli"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
