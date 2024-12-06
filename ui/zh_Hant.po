@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2024-06-12 05:09+0000\n"
-"Last-Translator: hugoalh <hugoalh@users.noreply.hosted.weblate.org>\n"
-"Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
-"dialect/dialect/zh_Hant/>\n"
+"PO-Revision-Date: 2024-12-06 00:01+0000\n"
+"Last-Translator: hanyang cheng <cinxiafortis@tutanota.de>\n"
+"Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
+"projects/dialect/dialect/zh_Hant/>\n"
 "Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.6-dev\n"
+"X-Generator: Weblate 5.9-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -73,9 +73,8 @@ msgid "Translation based on Yandex"
 msgstr "基於 Yandex 的翻譯"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "基於 Yandex 的翻譯"
+msgstr "基於 DeepL 的翻譯"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -104,9 +103,8 @@ msgid "Auto"
 msgstr "自動"
 
 #: dialect/main.py:187
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "版權所有 2020–⁠2023 Dialect 作者"
+msgstr "版權所有 2020–⁠2024 Dialect 作者"
 
 #: dialect/main.py:189
 msgid "translator-credits"
@@ -273,12 +271,12 @@ msgstr "導航"
 #: dialect/shortcuts.blp:79
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "上一歷史記錄"
 
 #: dialect/shortcuts.blp:84
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr ""
+msgstr "下一歷史記錄"
 
 #: dialect/shortcuts.blp:90
 msgctxt "shortcuts window"
@@ -438,24 +436,20 @@ msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr "請在偏好設定中設定有效的 API 金鑰或取消設定 API 金鑰。"
 
 #: dialect/window.py:471
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "載入翻譯服務失敗"
+msgstr "載入翻譯服務失敗，是否重試？"
 
 #: dialect/window.py:472
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "載入翻譯服務失敗"
+msgstr "載入文字轉語音服務失敗"
 
 #: dialect/window.py:474
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
-msgstr "我們無法連接至伺服器。請檢查是否為網路問題。"
+msgstr "我們無法連接至伺服器，請檢查是否為網路問題"
 
 #: dialect/window.py:766
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "複製翻譯"
+msgstr "複製翻譯結果"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -466,19 +460,16 @@ msgid "Suggestion failed."
 msgstr "建議失敗。"
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "文字轉語音"
+msgstr "文字轉語音失敗"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "翻譯失敗，請檢查是否為網路問題"
+msgstr "文字轉語音失敗，請檢查是否為網路問題"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "文字轉語音"
+msgstr "文字轉語音失敗，是否重試？"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
@@ -531,9 +522,8 @@ msgid "Character Usage"
 msgstr "字元使用情況"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "取消"
+msgstr "取消音訊"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
@@ -549,12 +539,11 @@ msgstr "深色樣式"
 
 #: dialect/search_provider/search_provider.in:189
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "以 {provider_name} 翻譯 “{text}”"
 
 #: dialect/search_provider/search_provider.in:240
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "複製翻譯"
+msgstr "複製翻譯結果"
 
 #~ msgid "A network issue has occurred. Retry?"
 #~ msgstr "出現網路問題。重試？"
