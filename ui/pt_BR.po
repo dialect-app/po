@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2024-01-06 01:09+0000\n"
-"Last-Translator: Filipe Motta <luiz_filipe_motta@hotmail.com>\n"
+"PO-Revision-Date: 2024-12-16 21:44+0000\n"
+"Last-Translator: John Peter Sa <johnppetersa@gmail.com>\n"
 "Language-Team: Portuguese (Brazil) <https://hosted.weblate.org/projects/"
 "dialect/dialect/pt_BR/>\n"
 "Language: pt_BR\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.9\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -37,6 +37,8 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"Traduzir;tradução;Google Tradutor;LibreTranslate;Lingva Translate;Bing "
+"Microsoft Tradutor;Bing Tradutor;Microsoft Tradutor;Yandex Tradutor; "
 
 #. For development version
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:186
@@ -72,9 +74,8 @@ msgid "Translation based on Yandex"
 msgstr "Tradução baseada no Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "Tradução baseada no Yandex"
+msgstr "Tradução baseada em DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -103,9 +104,8 @@ msgid "Auto"
 msgstr "Automático"
 
 #: dialect/main.py:187
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Copyright 2020–⁠2022 Autores do Dialect"
+msgstr "Direito Autoral 2020–⁠2022 Autores do Dialect"
 
 #: dialect/main.py:189
 msgid "translator-credits"
@@ -117,7 +117,7 @@ msgstr ""
 
 #: dialect/main.py:190
 msgid "Donate"
-msgstr ""
+msgstr "Doar"
 
 #: dialect/preferences.py:132
 msgid "Edit Provider Settings"
@@ -191,20 +191,19 @@ msgstr "Aparência"
 
 #: dialect/preferences.ui:125
 msgid "Use Custom Font Size"
-msgstr ""
+msgstr "Usar tamanho de fonte personalizado"
 
 #: dialect/preferences.ui:126
 msgid "System font size is used otherwise."
-msgstr ""
+msgstr "Caso contrário, o tamanho da fonte do sistema será usado."
 
 #: dialect/preferences.ui:132
-#, fuzzy
 msgid "Default Font Size"
-msgstr "Automático por padrão"
+msgstr "Tamanho de fonte padrão"
 
 #: dialect/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
-msgstr ""
+msgstr "Alterar o tamanho por meio de atalhos não substitui isso."
 
 #: dialect/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -222,16 +221,14 @@ msgid "Switch Languages"
 msgstr "Alternar idiomas"
 
 #: dialect/shortcuts.blp:26
-#, fuzzy
 msgctxt "shortcuts window"
 msgid "Select source language"
-msgstr "Alterar idioma de origem"
+msgstr "Selecione o idioma de origem"
 
 #: dialect/shortcuts.blp:31
-#, fuzzy
 msgctxt "shortcuts window"
 msgid "Select destination language"
-msgstr "Alterar idioma de destino"
+msgstr "Selecione o idioma de destino"
 
 #: dialect/shortcuts.blp:36
 msgctxt "shortcuts window"
@@ -251,12 +248,12 @@ msgstr "Mostrar pronúncia"
 #: dialect/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr ""
+msgstr "Aumentar o tamanho da fonte"
 
 #: dialect/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr ""
+msgstr "Diminuir tamanho da fonte"
 
 #: dialect/shortcuts.blp:62
 msgctxt "shortcuts window"
@@ -306,7 +303,7 @@ msgstr "Atalhos"
 #: dialect/shortcuts.blp:103
 msgctxt "shortcuts window"
 msgid "Quit"
-msgstr "Sair"
+msgstr "Desistir"
 
 #: dialect/window.blp:15
 msgid "Show Pronunciation"
@@ -449,25 +446,22 @@ msgstr ""
 "Defina uma chave de API válida ou desative a chave de API nas preferências."
 
 #: dialect/window.py:471
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "Falha ao carregar o serviço de tradução"
+msgstr "Falha ao carregar o serviço de texto para fala. Tentar novamente?"
 
 #: dialect/window.py:472
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "Falha ao carregar o serviço de tradução"
+msgstr "Falha ao carregar o serviço de conversão de texto em voz"
 
 #: dialect/window.py:474
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr ""
-"Não foi possível conectar ao servidor. Verifique se há problemas de rede."
+"Falha ao carregar o serviço de conversão de texto em voz. Verifique se há "
+"problemas de rede"
 
 #: dialect/window.py:766
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "Copiar tradução"
+msgstr "Copiado para a área de transferência"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -478,19 +472,16 @@ msgid "Suggestion failed."
 msgstr "A sugestão falhou."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "Texto-para-Fala"
+msgstr "Falha na conversão de texto em fala"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "A tradução falhou, verifique se há problemas de rede"
+msgstr "Falha na conversão de texto em fala; verifique se há problemas de rede"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Texto-para-Fala"
+msgstr "Falha na conversão de texto em fala. Tentar novamente?"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
@@ -514,9 +505,8 @@ msgstr "Pesquisar idiomas…"
 
 #: dialect/widgets/provider_preferences.blp:5
 #: dialect/widgets/provider_preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "Abrir preferências"
+msgstr "Preferências do Provedor"
 
 #: dialect/widgets/provider_preferences.blp:21
 msgid "Instance URL"
@@ -541,12 +531,11 @@ msgstr "Insira uma chave de API para o provedor."
 
 #: dialect/widgets/provider_preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "Uso de Caracteres"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "Cancelar"
+msgstr "Cancelar áudio"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
@@ -562,12 +551,11 @@ msgstr "Estilo escuro"
 
 #: dialect/search_provider/search_provider.in:189
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "Traduzir \"{text}\" com {provider_name}"
 
 #: dialect/search_provider/search_provider.in:240
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "Copiar tradução"
+msgstr "Copiar tradução para área de transferência"
 
 #~ msgid "A network issue has occurred. Retry?"
 #~ msgstr "Ocorreu um problema de rede. Tentar novamente?"
