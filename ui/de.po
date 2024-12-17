@@ -8,8 +8,9 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2024-12-13 12:00+0000\n"
-"Last-Translator: MightyShadow702 <_Shadow_Player_@quantentunnel.de>\n"
+"PO-Revision-Date: 2024-12-17 22:00+0000\n"
+"Last-Translator: Moonwalk4797 <moonwalk4797@users.noreply.hosted.weblate.org>"
+"\n"
 "Language-Team: German <https://hosted.weblate.org/projects/dialect/dialect/"
 "de/>\n"
 "Language: de\n"
@@ -17,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.9.2-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -59,8 +60,8 @@ msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
-"Übersetzung auf der Grundlage der LibreTranslate-API, so dass Sie jede "
-"öffentliche Instanz verwenden können"
+"Übersetzung mit der LibreTranslate-API, bei der Sie jede öffentliche Instanz "
+"verwenden können"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
@@ -105,9 +106,8 @@ msgid "Auto"
 msgstr "Automatisch"
 
 #: dialect/main.py:187
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Copyright 2020 – 2024 von den Dialect Autoren"
+msgstr "Copyright 2020–2024, Die Dialect Autoren"
 
 #: dialect/main.py:189
 msgid "translator-credits"
@@ -247,12 +247,12 @@ msgstr "Aussprache anzeigen"
 #: dialect/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr "Schriftgröße erhöhen"
+msgstr "Schrift vergrößern"
 
 #: dialect/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr "Schriftgröße verkleinern"
+msgstr "Schrift verkleinern"
 
 #: dialect/shortcuts.blp:62
 msgctxt "shortcuts window"
@@ -297,7 +297,7 @@ msgstr "Einstellungen"
 #: dialect/shortcuts.blp:98
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr "Tastenkürzel"
+msgstr "Verknüpfungen"
 
 #: dialect/shortcuts.blp:103
 msgctxt "shortcuts window"
@@ -314,7 +314,7 @@ msgstr "Einstellungen"
 
 #: dialect/window.blp:29
 msgid "Keyboard Shortcuts"
-msgstr "Tastenkürzel der Tastatur"
+msgstr "Tasten­kombi­nation"
 
 #: dialect/window.blp:34
 msgid "About Dialect"
@@ -332,7 +332,7 @@ msgstr "Wiederholen"
 #: dialect/window.blp:102 dialect/window.blp:137 dialect/window.blp:177
 #: dialect/window.blp:213
 msgid "Open Preferences"
-msgstr "Präferenzen öffnen"
+msgstr "Einstellungen öffnen"
 
 #: dialect/window.blp:167 dialect/window.blp:200
 msgid "Remove Key and Retry"
@@ -452,20 +452,18 @@ msgid "Failed loading the text-to-speech service. Retry?"
 msgstr "Laden des Übersetzungsdienstes fehlgeschlagen. Erneut probiert?"
 
 #: dialect/window.py:472
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "Laden des Übersetzungsdienstes fehlgeschlagen"
+msgstr "Laden des Text-zu-Sprach‐Dienstes fehlgeschlagen"
 
 #: dialect/window.py:474
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr ""
-"Wir können uns nicht mit dem Server verbinden. Bitte prüfen Sie, ob es "
-"Netzwerkprobleme gibt."
+"Verbindung mit Text-zu-Sprach-Dienst fehlgeschlagen, prüfen Sie auf "
+"Netzwerkprobleme"
 
 #: dialect/window.py:766
 msgid "Copied to clipboard"
-msgstr "Übersetzung in die Zwischenablage kopieren"
+msgstr "In die Zwischenablage kopiert"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -480,14 +478,12 @@ msgid "Text-to-Speech failed"
 msgstr "Text-zu-Sprache fehlgeschlagen"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "Übersetzung fehlgeschlagen, prüfen Sie auf Netzwerkprobleme"
+msgstr "Text-zu-Sprache fehlgeschlagen, prüfen Sie auf Netzwerkprobleme"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Text-zu-Sprache funktioniert nicht. Erneut probiert?"
+msgstr "Text-zu-Sprache fehlgeschlagen. Erneut versuchen?"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
@@ -511,9 +507,8 @@ msgstr "Sprachen suchen …"
 
 #: dialect/widgets/provider_preferences.blp:5
 #: dialect/widgets/provider_preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "Anbietereinstellungen"
+msgstr "Anbieter-Einstellungen"
 
 #: dialect/widgets/provider_preferences.blp:21
 msgid "Instance URL"
@@ -538,16 +533,15 @@ msgstr "Geben Sie einen API-Schlüssel für den Übersetzungsdienst ein."
 
 #: dialect/widgets/provider_preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "Zeichennutzung"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "Abbrechen"
+msgstr "Stop"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
-msgstr "Dem Systemstil folgen"
+msgstr "Systemstil folgen"
 
 #: dialect/widgets/theme_switcher.blp:35
 msgid "Light Style"
