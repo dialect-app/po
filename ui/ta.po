@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2024-05-24 04:30+0000\n"
-"Last-Translator: \"K.B.Dharun Krishna\" <kbdharunkrishna@gmail.com>\n"
+"PO-Revision-Date: 2024-12-19 01:53+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/dialect/dialect/ta/"
 ">\n"
 "Language: ta\n"
@@ -17,14 +17,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6-dev\n"
+"X-Generator: Weblate 5.9.2-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:74
 #: dialect/window.blp:264
 msgid "Dialect"
-msgstr "Dialect"
+msgstr "கிளைமொழி"
 
 #: data/app.drey.Dialect.desktop.in.in:10
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
@@ -74,9 +74,8 @@ msgid "Translation based on Yandex"
 msgstr "Yandex அடிப்படையிலான மொழிபெயர்ப்பு"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "Yandex அடிப்படையிலான மொழிபெயர்ப்பு"
+msgstr "ஆழம்எல் ஐ அடிப்படையாகக் கொண்ட மொழிபெயர்ப்பு"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -105,9 +104,8 @@ msgid "Auto"
 msgstr "ஆட்டோ"
 
 #: dialect/main.py:187
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "பதிப்புரிமை 2020–⁠2023 Dialect ஆசிரியர்கள்"
+msgstr "பதிப்புரிமை 2020 - ⁠2024 பேச்சுவழக்கு ஆசிரியர்கள்"
 
 #: dialect/main.py:189
 msgid "translator-credits"
@@ -439,24 +437,21 @@ msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr "சரியான API விசையை அமைக்கவும் அல்லது விருப்பத்தேர்வுகளில் API விசையை அமைக்கவும்."
 
 #: dialect/window.py:471
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "மொழிபெயர்ப்பு சேவையை ஏற்றுவதில் தோல்வி"
+msgstr "உரை-க்கு-பேச்சு சேவையை ஏற்றுவதில் தோல்வி. மீண்டும் முயற்சிக்கிறீர்களா?"
 
 #: dialect/window.py:472
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "மொழிபெயர்ப்பு சேவையை ஏற்றுவதில் தோல்வி"
+msgstr "உரை-க்கு-பேச்சு சேவையை ஏற்றுவதில் தோல்வி"
 
 #: dialect/window.py:474
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
-msgstr "எங்களால் சேவையகத்துடன் இணைக்க முடியவில்லை. நெட்வொர்க் சிக்கல்களை சரிபார்க்கவும்."
+msgstr ""
+"உரை-க்கு-பேச்சு சேவையை ஏற்றுவதில் தோல்வி, பிணைய சிக்கல்களைச் சரிபார்க்கவும்"
 
 #: dialect/window.py:766
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "மொழிபெயர்ப்பை நகலெடுக்கவும்"
+msgstr "கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -467,19 +462,16 @@ msgid "Suggestion failed."
 msgstr "பரிந்துரை தோல்வியடைந்தது."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "உரையிலிருந்து-பேச்சு"
+msgstr "உரை-க்கு-பேச்சு தோல்வியுற்றது"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "மொழிபெயர்ப்பு தோல்வியடைந்தது, நெட்வொர்க் சிக்கல்கள் உள்ளதா எனச் சரிபார்க்கவும்"
+msgstr "உரை-க்கு-பேச்சு தோல்வியுற்றது, பிணைய சிக்கல்களைச் சரிபார்க்கவும்"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "உரையிலிருந்து-பேச்சு"
+msgstr "உரை-க்கு-பேச்சு தோல்வியடைந்தது. மீண்டும் முயற்சிக்கிறீர்களா?"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
@@ -503,9 +495,8 @@ msgstr "மொழிகளைத் தேடுங்கள்…"
 
 #: dialect/widgets/provider_preferences.blp:5
 #: dialect/widgets/provider_preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "விருப்பங்களைத் திறக்கவும்"
+msgstr "வழங்குநர் விருப்பத்தேர்வுகள்"
 
 #: dialect/widgets/provider_preferences.blp:21
 msgid "Instance URL"
@@ -530,12 +521,11 @@ msgstr "வழங்குநருக்கான API விசையை உள
 
 #: dialect/widgets/provider_preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "எழுத்து பயன்பாடு"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "ரத்து செய்"
+msgstr "ஆடியோவை ரத்துசெய்"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
@@ -551,12 +541,11 @@ msgstr "இருண்ட பாணி"
 
 #: dialect/search_provider/search_provider.in:189
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "“{text}” ஐ {வழங்குநர்_பெயர் with உடன் மொழிபெயர்க்கவும்"
 
 #: dialect/search_provider/search_provider.in:240
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "மொழிபெயர்ப்பை நகலெடுக்கவும்"
+msgstr "கிளிப்போர்டுக்கு மொழிபெயர்ப்பை நகலெடுக்கவும்"
 
 #~ msgid "A network issue has occurred. Retry?"
 #~ msgstr "பிணையப் பிரச்சினை ஏற்பட்டது. மீண்டும் முயற்சிக்கவா?"
