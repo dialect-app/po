@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2024-08-04 19:09+0000\n"
+"PO-Revision-Date: 2025-02-09 12:02+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/dialect/dialect/"
 "hr/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -105,9 +105,8 @@ msgid "Auto"
 msgstr "Automatski"
 
 #: dialect/main.py:187
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Autorska prava 2020. – 2023., autori programa Dialect"
+msgstr "Autorska prava 2020. – 2024., autori programa Dialect"
 
 #: dialect/main.py:189
 msgid "translator-credits"
@@ -440,24 +439,23 @@ msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr "Postavi valjani API ključ ili ukloni API ključ u postavkama."
 
 #: dialect/window.py:471
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "Neuspjelo učitavanje usluge prevođenja"
+msgstr ""
+"Neuspjelo učitavanje usluge pretvaranja teksta u govor. Ponovo pokušati?"
 
 #: dialect/window.py:472
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "Neuspjelo učitavanje usluge prevođenja"
+msgstr "Neuspjelo učitavanje usluge pretvaranja teksta u govor"
 
 #: dialect/window.py:474
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
-msgstr "Ne možemo se povezati s poslužiteljem. Provjeri internetske probleme."
+msgstr ""
+"Neuspjelo učitavanje usluge pretvaranja teksta u govor, provjeri probleme s "
+"mrežom"
 
 #: dialect/window.py:766
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "Kopiraj prijevod u međuspremnik"
+msgstr "Kopirano u međuspremnik"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -468,19 +466,16 @@ msgid "Suggestion failed."
 msgstr "Prijedlog neuspio."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "Tekst-u-govor"
+msgstr "Tekst-u-govor nije uspio"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "Prevođenje neuspjelo, provjeri internetske probleme"
+msgstr "Tekst-u-govor nije uspio, provjeri probleme s mrežom"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Tekst-u-govor"
+msgstr "Tekst-u-govor nije uspio. Ponovo pokušati?"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
@@ -533,9 +528,8 @@ msgid "Character Usage"
 msgstr "Korištenje znakova"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "Odustani"
+msgstr "Prekini zvuk"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
