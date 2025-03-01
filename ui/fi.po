@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2025-02-04 13:02+0000\n"
+"PO-Revision-Date: 2025-03-01 11:12+0000\n"
 "Last-Translator: Ricky Tigg <ricky.tigg@gmail.com>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/dialect/dialect/"
 "fi/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.10-dev\n"
+"X-Generator: Weblate 5.10.3-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -191,7 +191,7 @@ msgstr "Käytä mukautettua fontin kokoa"
 
 #: dialect/preferences.ui:126
 msgid "System font size is used otherwise."
-msgstr "Muussa tapauksessa käytetään järjestelmän fonttikokoa."
+msgstr "Muussa tapauksessa käytetään järjestelmän kirjaisinkokoa."
 
 #: dialect/preferences.ui:132
 msgid "Default Font Size"
