@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2024-03-18 17:01+0000\n"
-"Last-Translator: CloneWith <clonewith@users.noreply.hosted.weblate.org>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
-"dialect/dialect/zh_Hans/>\n"
+"PO-Revision-Date: 2025-03-05 16:35+0000\n"
+"Last-Translator: Xeron <cw48565@gmail.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/dialect/dialect/zh_Hans/>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.10.3-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -529,7 +529,7 @@ msgstr "输入提供程序的 API 密钥。"
 
 #: dialect/widgets/provider_preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "字符用量"
 
 #: dialect/widgets/speech_button.py:28
 #, fuzzy
@@ -550,7 +550,7 @@ msgstr "暗色样式"
 
 #: dialect/search_provider/search_provider.in:189
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "用 {provider_name} 翻译 “{text}”"
 
 #: dialect/search_provider/search_provider.in:240
 #, fuzzy
