@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2025-02-13 23:01+0000\n"
-"Last-Translator: Stan Ulbrych <stanulbrych@gmail.com>\n"
+"PO-Revision-Date: 2025-04-02 21:48+0000\n"
+"Last-Translator: Maciej Głąb <maciekglab0812@vp.pl>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/dialect/dialect/"
 "pl/>\n"
 "Language: pl\n"
@@ -18,19 +18,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.10-rc\n"
+"X-Generator: Weblate 5.11-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:74
 #: dialect/window.blp:264
 msgid "Dialect"
-msgstr "Dialekt"
+msgstr "Dialect"
 
 #: data/app.drey.Dialect.desktop.in.in:10
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
-msgstr "Tłumacz językowy"
+msgstr "Tłumacz pomiędzy językami"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:14
@@ -38,13 +38,13 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
-"translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
-"Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
+"tłumacz;tłumaczenie;Tłumacz Google;LibreTranslate;Lingva Translate;Tłumacz "
+"Microsoft Bing;Tłumacz Bing;Tłumacz Microsoft;Tłumacz Yandex; "
 
 #. For development version
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:186
 msgid "A translation app for GNOME."
-msgstr "Aplikacja tłumacząca dla GNOME."
+msgstr "Translator GNOME."
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
@@ -52,19 +52,19 @@ msgstr "Cechy:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
 msgid "Translation based on Google Translate"
-msgstr "Tłumaczenie bazujące na Tłumaczu Google"
+msgstr "Tłumaczenie oparte na Tłumaczu Google"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
-"Tłumaczenie bazujące na API LibreTranslate, umożliwiające korzystanie z "
+"Tłumaczenie oparte na API LibreTranslate, umożliwiające korzystanie z "
 "dowolnej publicznej instancji"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
-msgstr "Tłumaczenie bazujące na API Lingva Translate"
+msgstr "Tłumaczenie oparte na API Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Translation based on Bing"
@@ -98,7 +98,7 @@ msgstr "Przyciski schowka"
 #: data/app.drey.Dialect.metainfo.xml.in.in:35
 #: data/app.drey.Dialect.metainfo.xml.in.in:37
 msgid "The Dialect Authors"
-msgstr "Autorzy aplikacji Dialekt"
+msgstr "Autorzy aplikacji Dialect"
 
 #: dialect/languages.py:63 dialect/widgets/lang_selector.py:84
 msgid "Auto"
