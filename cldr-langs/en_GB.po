@@ -357,6 +357,9 @@ msgstr "Capiznon"
 msgid "Cree"
 msgstr "Cree"
 
+msgid "Woods Cree"
+msgstr "Woods Cree"
+
 msgid "Michif"
 msgstr "Michif"
 
@@ -395,9 +398,6 @@ msgstr "Church Slavic"
 
 msgid "Chuvash"
 msgstr "Chuvash"
-
-msgid "Woods Cree"
-msgstr "Woods Cree"
 
 msgid "Welsh"
 msgstr "Welsh"
@@ -708,9 +708,6 @@ msgstr "Hawaiian"
 msgid "Southern Haida"
 msgstr "Southern Haida"
 
-msgid "Northern Haida"
-msgstr "Northern Haida"
-
 msgid "Hebrew"
 msgstr "Hebrew"
 
@@ -791,9 +788,6 @@ msgstr "Sichuan Yi"
 
 msgid "Inupiaq"
 msgstr "Inupiaq"
-
-msgid "Eastern Canadian Inuktitut"
-msgstr "Eastern Canadian Inuktitut"
 
 msgid "Western Canadian Inuktitut"
 msgstr "Western Canadian Inuktitut"
@@ -1358,9 +1352,6 @@ msgstr "Northwestern Ojibwa"
 
 msgid "Central Ojibwa"
 msgstr "Central Ojibwa"
-
-msgid "Eastern Ojibwa"
-msgstr "Eastern Ojibwa"
 
 msgid "Oji-Cree"
 msgstr "Oji-Cree"

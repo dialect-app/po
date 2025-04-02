@@ -255,12 +255,6 @@ msgstr "Cheyenne"
 msgid "Central Kurdish"
 msgstr "Soranî"
 
-msgid "Kurdish, Central"
-msgstr "Soranî"
-
-msgid "Kurdish, Sorani"
-msgstr "Soranî"
-
 msgid "Corsican"
 msgstr "Korsikaansk"
 
@@ -384,13 +378,7 @@ msgstr "Kanadeesk Ingelsk"
 msgid "British English"
 msgstr "Britsk Ingelsk"
 
-msgid "UK English"
-msgstr "Britsk Ingelsk"
-
 msgid "American English"
-msgstr "Amerikaansk Ingelsk"
-
-msgid "US English"
 msgstr "Amerikaansk Ingelsk"
 
 msgid "Middle English"
@@ -1521,9 +1509,6 @@ msgstr "Yoruba"
 msgid "Cantonese"
 msgstr "Kantoneesk"
 
-msgid "Chinese, Cantonese"
-msgstr "Kantoneesk"
-
 msgid "Zhuang"
 msgstr "Zhuang"
 
@@ -1542,19 +1527,10 @@ msgstr "Standert Marokkaanske Tamazight"
 msgid "Chinese"
 msgstr "Sineesk"
 
-msgid "Chinese, Mandarin"
-msgstr "Sineesk"
-
 msgid "Simplified Chinese"
 msgstr "Ferienfâldich Sineesk"
 
-msgid "Simplified Mandarin Chinese"
-msgstr "Ferienfâldich Sineesk"
-
 msgid "Traditional Chinese"
-msgstr "Tradisjoneel Sineesk"
-
-msgid "Traditional Mandarin Chinese"
 msgstr "Tradisjoneel Sineesk"
 
 msgid "Zulu"

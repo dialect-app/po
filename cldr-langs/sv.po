@@ -495,13 +495,7 @@ msgstr "kanadensisk engelska"
 msgid "British English"
 msgstr "brittisk engelska"
 
-msgid "UK English"
-msgstr "brittisk engelska"
-
 msgid "American English"
-msgstr "amerikansk engelska"
-
-msgid "US English"
 msgstr "amerikansk engelska"
 
 msgid "Middle English"
@@ -1953,9 +1947,6 @@ msgstr "nheengatu"
 msgid "Cantonese"
 msgstr "kantonesiska"
 
-msgid "Chinese, Cantonese"
-msgstr "kantonesiska"
-
 msgid "Zhuang"
 msgstr "zhuang"
 
@@ -1983,13 +1974,7 @@ msgstr "mandarin"
 msgid "Simplified Chinese"
 msgstr "förenklad kinesiska"
 
-msgid "Simplified Mandarin Chinese"
-msgstr "förenklad kinesiska"
-
 msgid "Traditional Chinese"
-msgstr "traditionell kinesiska"
-
-msgid "Traditional Mandarin Chinese"
 msgstr "traditionell kinesiska"
 
 msgid "Zulu"

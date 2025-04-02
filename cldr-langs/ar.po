@@ -282,9 +282,6 @@ msgstr "السورانية الكردية"
 msgid "Kurdish, Central"
 msgstr "الكردية، السورانية"
 
-msgid "Kurdish, Sorani"
-msgstr "السورانية الكردية"
-
 msgid "Chilcotin"
 msgstr "تسيلكوتين"
 
@@ -1695,9 +1692,6 @@ msgstr "النيينجاتو"
 msgid "Cantonese"
 msgstr "الكَنْتُونية"
 
-msgid "Chinese, Cantonese"
-msgstr "الكَنْتُونية"
-
 msgid "Zhuang"
 msgstr "الزهيونج"
 
@@ -1716,19 +1710,10 @@ msgstr "التمازيغية المغربية القياسية"
 msgid "Chinese"
 msgstr "الصينية"
 
-msgid "Chinese, Mandarin"
-msgstr "الصينية"
-
 msgid "Simplified Chinese"
 msgstr "الصينية المبسطة"
 
-msgid "Simplified Mandarin Chinese"
-msgstr "الصينية المبسطة"
-
 msgid "Traditional Chinese"
-msgstr "الصينية التقليدية"
-
-msgid "Traditional Mandarin Chinese"
 msgstr "الصينية التقليدية"
 
 msgid "Zulu"

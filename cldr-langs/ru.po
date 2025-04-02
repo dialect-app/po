@@ -114,9 +114,6 @@ msgstr "аймара"
 msgid "Azerbaijani"
 msgstr "азербайджанский"
 
-msgid "Azeri"
-msgstr "азербайджанский"
-
 msgid "Bashkir"
 msgstr "башкирский"
 
@@ -282,9 +279,6 @@ msgstr "центральнокурдский"
 msgid "Kurdish, Central"
 msgstr "курдский (сорани)"
 
-msgid "Kurdish, Sorani"
-msgstr "центральнокурдский"
-
 msgid "Chilcotin"
 msgstr "чилкотин"
 
@@ -435,13 +429,7 @@ msgstr "канадский английский"
 msgid "British English"
 msgstr "британский английский"
 
-msgid "UK English"
-msgstr "британский английский"
-
 msgid "American English"
-msgstr "американский английский"
-
-msgid "US English"
 msgstr "американский английский"
 
 msgid "Middle English"
@@ -1720,9 +1708,6 @@ msgid "Nheengatu"
 msgstr "ньенгату"
 
 msgid "Cantonese"
-msgstr "кантонский"
-
-msgid "Chinese, Cantonese"
 msgstr "кантонский"
 
 msgid "Zhuang"

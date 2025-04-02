@@ -81,9 +81,6 @@ msgstr "ئایمارا"
 msgid "Azerbaijani"
 msgstr "ئازەربایجانی"
 
-msgid "Azeri"
-msgstr "ئازەربایجانی"
-
 msgid "Bashkir"
 msgstr "باشکیەر"
 
@@ -174,12 +171,6 @@ msgstr "شایان"
 msgid "Central Kurdish"
 msgstr "کوردیی ناوەندی"
 
-msgid "Kurdish, Central"
-msgstr "کوردیی ناوەندی"
-
-msgid "Kurdish, Sorani"
-msgstr "کوردیی ناوەندی"
-
 msgid "Corsican"
 msgstr "کۆرسیکی"
 
@@ -268,9 +259,6 @@ msgid "UK English"
 msgstr "ئینگلیزی (GB)"
 
 msgid "American English"
-msgstr "ئینگلیزیی ئەمەریکایی"
-
-msgid "US English"
 msgstr "ئینگلیزیی ئەمەریکایی"
 
 msgid "Esperanto"
@@ -1140,28 +1128,16 @@ msgstr "یۆرووبا"
 msgid "Cantonese"
 msgstr "کانتۆنی"
 
-msgid "Chinese, Cantonese"
-msgstr "کانتۆنی"
-
 msgid "Standard Moroccan Tamazight"
 msgstr "ئەمازیغیی مەغریب"
 
 msgid "Chinese"
 msgstr "چینی"
 
-msgid "Chinese, Mandarin"
-msgstr "چینی"
-
 msgid "Simplified Chinese"
 msgstr "چینی (چینیی ئاسانکراو)"
 
-msgid "Simplified Mandarin Chinese"
-msgstr "چینی (چینیی ئاسانکراو)"
-
 msgid "Traditional Chinese"
-msgstr "چینی (چینیی دێرین)"
-
-msgid "Traditional Mandarin Chinese"
 msgstr "چینی (چینیی دێرین)"
 
 msgid "Zulu"

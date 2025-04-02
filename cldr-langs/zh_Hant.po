@@ -141,9 +141,6 @@ msgstr "艾馬拉文"
 msgid "Azerbaijani"
 msgstr "亞塞拜然文"
 
-msgid "Azeri"
-msgstr "亞塞拜然文"
-
 msgid "Bashkir"
 msgstr "巴什喀爾文"
 
@@ -331,9 +328,6 @@ msgid "Chickasaw"
 msgstr "契卡索文"
 
 msgid "Central Kurdish"
-msgstr "中庫德文"
-
-msgid "Kurdish, Central"
 msgstr "中庫德文"
 
 msgid "Kurdish, Sorani"
@@ -1908,9 +1902,6 @@ msgstr "奈恩加圖文"
 msgid "Cantonese"
 msgstr "粵語"
 
-msgid "Chinese, Cantonese"
-msgstr "粵語"
-
 msgid "Zhuang"
 msgstr "壯文"
 
@@ -1932,19 +1923,10 @@ msgstr "標準摩洛哥塔馬塞特文"
 msgid "Chinese"
 msgstr "中文"
 
-msgid "Chinese, Mandarin"
-msgstr "中文"
-
 msgid "Simplified Chinese"
 msgstr "簡體中文"
 
-msgid "Simplified Mandarin Chinese"
-msgstr "簡體中文"
-
 msgid "Traditional Chinese"
-msgstr "繁體中文"
-
-msgid "Traditional Mandarin Chinese"
 msgstr "繁體中文"
 
 msgid "Zulu"
