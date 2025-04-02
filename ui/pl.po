@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2025-04-02 21:48+0000\n"
+"PO-Revision-Date: 2025-04-02 23:12+0000\n"
 "Last-Translator: Maciej Głąb <maciekglab0812@vp.pl>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/dialect/dialect/"
 "pl/>\n"
@@ -106,7 +106,7 @@ msgstr "Automatycznie"
 
 #: dialect/main.py:187
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Wszelkie prawa zastrzeżone 2020-2024 Autorzy aplikacji Dialekt"
+msgstr "Wszelkie prawa zastrzeżone 2020-2024 Autorzy aplikacji Dialect"
 
 #: dialect/main.py:189
 msgid "translator-credits"
