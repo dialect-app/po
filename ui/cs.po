@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2024-06-20 10:09+0000\n"
-"Last-Translator: FrameXX <jirkakral978@gmail.com>\n"
+"PO-Revision-Date: 2025-05-26 03:43+0000\n"
+"Last-Translator: John Smith <codegemjava@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/dialect/dialect/cs/"
 ">\n"
 "Language: cs\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
-"X-Generator: Weblate 5.6-rc\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -74,9 +74,8 @@ msgid "Translation based on Yandex"
 msgstr "Překlad postavený na Yandexu"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "Překlad postavený na Yandexu"
+msgstr "Překlad založený na DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -442,24 +441,21 @@ msgstr ""
 "předvolbách."
 
 #: dialect/window.py:471
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "Nepodařilo se načíst překladač"
+msgstr "Nepodařilo se načíst službu pro převod textu na řeč. Opakovat?"
 
 #: dialect/window.py:472
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "Nepodařilo se načíst překladač"
+msgstr "Nepodařilo se načíst službu pro převod textu na řeč"
 
 #: dialect/window.py:474
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
-msgstr "Nepodařilo se připojit k serveru. Zkontrolujte prosím síť."
+msgstr ""
+"Nepodařilo se načíst službu pro převod textu na řeč, zkontrolujte prosím síť"
 
 #: dialect/window.py:766
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "Kopírovat překlad"
+msgstr "Zkopírováno do schránky"
 
 #: dialect/window.py:791
 msgid "New translation has been suggested!"
@@ -470,19 +466,16 @@ msgid "Suggestion failed."
 msgstr "Návrh selhal."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "Převod textu na řeč"
+msgstr "Převod textu na řeč selhal"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "Překládání selhalo, zkontrolujte prosím síť"
+msgstr "Převod textu na řeč selhal, zkontrolujte prosím síť"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Převod textu na řeč"
+msgstr "Převod textu na řeč selhal. Opakovat?"
 
 #: dialect/window.py:1002
 msgid "{} characters limit reached!"
@@ -553,7 +546,7 @@ msgstr "Tmavý motiv"
 
 #: dialect/search_provider/search_provider.in:189
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "Přeložit „{text}“ pomocí {provider_name}"
 
 #: dialect/search_provider/search_provider.in:240
 #, fuzzy
