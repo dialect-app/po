@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-09-23 08:40-0500\n"
-"PO-Revision-Date: 2025-02-11 05:01+0000\n"
-"Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>\n"
+"PO-Revision-Date: 2025-05-26 03:43+0000\n"
+"Last-Translator: ResurrectionEye <gabriozet@gmail.com>\n"
 "Language-Team: Georgian <https://hosted.weblate.org/projects/dialect/dialect/"
 "ka/>\n"
 "Language: ka\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.10-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:9
@@ -42,7 +42,7 @@ msgstr ""
 #. For development version
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:186
 msgid "A translation app for GNOME."
-msgstr "თარგმნის აპლიკაცია GNOME-ისთვის."
+msgstr "თარგმნის აპი GNOME-სთვის."
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
@@ -69,22 +69,16 @@ msgstr ""
 "თარგმნა რომელიც დაფუძნებულია არაოფიციალურ ინტერფეისზე გუგლ თარგნმნისთვის"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr ""
-"თარგმნა რომელიც დაფუძნებულია არაოფიციალურ ინტერფეისზე გუგლ თარგნმნისთვის"
+msgstr "თარგმანი დაფუძნებულია Bing-ზე"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr ""
-"თარგმნა რომელიც დაფუძნებულია არაოფიციალურ ინტერფეისზე გუგლ თარგნმნისთვის"
+msgstr "თარგმანი დაფუძნებულია Yandex-ზე"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr ""
-"თარგმნა რომელიც დაფუძნებულია არაოფიციალურ ინტერფეისზე გუგლ თარგნმნისთვის"
+msgstr "თარგმანი დაფუძნებულია DeepL-ზე"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -106,41 +100,40 @@ msgstr "ბუფერის ღილაკები"
 #: data/app.drey.Dialect.metainfo.xml.in.in:35
 #: data/app.drey.Dialect.metainfo.xml.in.in:37
 msgid "The Dialect Authors"
-msgstr "დიალექტის შემქნელები"
+msgstr "დიალექტის ავტორები"
 
 #: dialect/languages.py:63 dialect/widgets/lang_selector.py:84
 msgid "Auto"
 msgstr "ავტომატური"
 
 #: dialect/main.py:187
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "საავტორო უფლებებები 2020-2021 დიალექტის შემქნელები"
+msgstr "საავტორო უფლებებები 2020-2024 დიალექტის ავტორებისთვის"
 
 #: dialect/main.py:189
 msgid "translator-credits"
 msgstr "Jacob Gogichaishvili (იაკობ გოგიჩაიშვილი)"
 
 #: dialect/main.py:190
+#, fuzzy
 msgid "Donate"
-msgstr ""
+msgstr "ჩუქება"
 
 #: dialect/preferences.py:132
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "შეასწორეთ მომწოდებლის პარამეტრები"
 
 #: dialect/preferences.py:134
 msgid "No Settings for This Provider"
 msgstr ""
 
 #: dialect/preferences.ui:8
-#, fuzzy
 msgid "Providers"
-msgstr "საძიებო პროვაიდერი"
+msgstr "მომწოდებლები"
 
 #: dialect/preferences.ui:11
 msgid "Translator"
-msgstr "მთარგმნელი"
+msgstr "თარჯიმანი"
 
 #: dialect/preferences.ui:12
 msgid "Choose from the available translation services."
