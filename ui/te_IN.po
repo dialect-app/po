@@ -1,0 +1,534 @@
+# Telugu Translation
+# Copyright (C) 2025
+# This file is distributed under the same license as the dialect package.
+# Honey Pallakonda , 2025.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: dialect\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-23 08:40-0500\n"
+"PO-Revision-Date: 2025-06-24 15:47+0530\n"
+"Last-Translator: Honey Pallakonda\n"
+"Language-Team: GNOME Telugu Translation Team\n"
+"Language: te_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+#. Translators: Do not translate the app name!
+#: data/app.drey.Dialect.desktop.in.in:9 data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:74
+#: dialect/window.blp:264
+msgid "Dialect"
+msgstr "Dialect"
+
+#: data/app.drey.Dialect.desktop.in.in:10 data/app.drey.Dialect.metainfo.xml.in.in:7
+msgid "Translate between languages"
+msgstr "భాషల మధ్య అనువదించండి"
+
+#. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
+#: data/app.drey.Dialect.desktop.in.in:14
+msgid ""
+"translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing Microsoft Translator;Bing "
+"Translator;Microsoft Translator;Yandex Translate; "
+msgstr ""
+"అనువదించు; అనువాదం; గూగుల్ అనువాదం; లిబ్రే అనువాదం  లింగ్వా అనువాదం;బింగ్ మైక్రోసాఫ్ట్ అనువాదకుడు బింగ్ అనువాదకుడు మైక్రోసాఫ్ట్ "
+"అనువాదకుడు;యాండెక్స్ అనువాదం;"
+
+#. For development version
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:186
+msgid "A translation app for GNOME."
+msgstr "గ్నోమ్ కోసం ఒక అనువాద అనువర్తనం."
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:12
+msgid "Features:"
+msgstr "ఫీచర్లు:"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:16
+msgid "Translation based on Google Translate"
+msgstr "Google Translate ఆధారంగా అనువాదం"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:17
+msgid "Translation based on the LibreTranslate API, allowing you to use any public instance"
+msgstr "LibreTranslate API ఆధారంగా అనువాదం, మీరు ఏదైనా పబ్లిక్ సందర్భాన్ని ఉపయోగించడానికి అనుమతిస్తుంది."
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:18
+msgid "Translation based on Lingva Translate API"
+msgstr "లింగ్వా అనువాద API ఆధారంగా అనువాదం"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:19
+msgid "Translation based on Bing"
+msgstr ""
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:20
+msgid "Translation based on Yandex"
+msgstr "బింగ్ ఆధారంగా అనువాదం"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:21
+msgid "Translation based on DeepL"
+msgstr "DeepL ఆధారంగా అనువాదం"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:22
+msgid "Text to speech"
+msgstr "వచనం నుండి ప్రసంగం"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:23
+msgid "Translation history"
+msgstr "అనువాద చరిత్ర"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:24
+msgid "Automatic language detection"
+msgstr "స్వయంచాలక భాష గుర్తింపు"
+
+#: data/app.drey.Dialect.metainfo.xml.in.in:25
+msgid "Clipboard buttons"
+msgstr "క్లిప్‌బోర్డ్ బటన్లు"
+
+#. developer_name tag deprecated with Appstream 1.0
+#: data/app.drey.Dialect.metainfo.xml.in.in:35 data/app.drey.Dialect.metainfo.xml.in.in:37
+msgid "The Dialect Authors"
+msgstr "మాండలిక రచయితలు"
+
+#: dialect/languages.py:63 dialect/widgets/lang_selector.py:84
+msgid "Auto"
+msgstr "ఆటో"
+
+#: dialect/main.py:187
+msgid "Copyright 2020–⁠2024 The Dialect Authors"
+msgstr "కాపీరైట్ 2020–⁠2024 మాండలిక రచయితలు"
+
+#: dialect/main.py:189
+msgid "translator-credits"
+msgstr "అనువాదకుడు-క్రెడిట్లు"
+
+#: dialect/main.py:190
+msgid "Donate"
+msgstr "దానం చేయండి"
+
+#: dialect/preferences.py:132
+msgid "Edit Provider Settings"
+msgstr "DonateEdit ప్రొవైడర్ సెట్టింగ్‌లు"
+
+#: dialect/preferences.py:134
+msgid "No Settings for This Provider"
+msgstr "ఈ ప్రొవైడర్ కోసం సెట్టింగ్‌లు లేవు"
+
+#: dialect/preferences.ui:8
+msgid "Providers"
+msgstr "ప్రొవైడర్లు"
+
+#: dialect/preferences.ui:11
+msgid "Translator"
+msgstr "అనువదించు"
+
+#: dialect/preferences.ui:12
+msgid "Choose from the available translation services."
+msgstr "అందుబాటులో ఉన్న అనువాద సేవల నుండి ఎంచుకోండి."
+
+#: dialect/preferences.ui:43
+msgid "Text-to-Speech"
+msgstr "టెక్స్ట్-టు-స్పీచ్"
+
+#: dialect/preferences.ui:44
+msgid "Choose from the available TTS services."
+msgstr "అందుబాటులో ఉన్న TTS సేవల నుండి ఎంచుకోండి."
+
+#: dialect/preferences.ui:77
+msgid "Behavior"
+msgstr "ప్రవర్తన"
+
+#: dialect/preferences.ui:80
+msgid "Live Translation"
+msgstr "ప్రత్యక్ష అనువాదం"
+
+#: dialect/preferences.ui:81
+msgid "Warning: Your IP address may get banned for API abuse."
+msgstr "హెచ్చరిక: API దుర్వినియోగం కారణంగా మీ IP చిరునామా నిషేధించబడవచ్చు."
+
+#: dialect/preferences.ui:87
+msgid "Show Translations in Desktop Search"
+msgstr "డెస్క్‌టాప్ శోధనలో అనువాదాలను చూపించు"
+
+#: dialect/preferences.ui:88
+msgid "Warning: All desktop searches will be sent to the translation service"
+msgstr "హెచ్చరిక: అన్ని డెస్క్‌టాప్ శోధనలు అనువాద సేవకు పంపబడతాయి."
+
+#: dialect/preferences.ui:95
+msgid "Translation Shortcut"
+msgstr "అనువాద సత్వరమార్గం"
+
+#: dialect/preferences.ui:96
+msgid "The unselected choice will be used for line break."
+msgstr "ఎంపిక చేయని ఎంపిక లైన్ బ్రేక్ కోసం ఉపయోగించబడుతుంది."
+
+#: dialect/preferences.ui:114
+msgid "Default to Auto"
+msgstr "ఆటోకు డిఫాల్ట్"
+
+#: dialect/preferences.ui:115
+msgid "Use \"Auto\" as the default language"
+msgstr "\"ఆటో\" ను డిఫాల్ట్ భాషగా ఉపయోగించండి"
+
+#: dialect/preferences.ui:122
+msgid "Appearance"
+msgstr "స్వరూపం"
+
+#: dialect/preferences.ui:125
+msgid "Use Custom Font Size"
+msgstr "కస్టమ్ ఫాంట్ పరిమాణాన్ని ఉపయోగించండి"
+
+#: dialect/preferences.ui:126
+msgid "System font size is used otherwise."
+msgstr "లేకపోతే సిస్టమ్ ఫాంట్ సైజు ఉపయోగించబడుతుంది."
+
+#: dialect/preferences.ui:132
+msgid "Default Font Size"
+msgstr "డిఫాల్ట్ ఫాంట్ పరిమాణం"
+
+#: dialect/preferences.ui:133
+msgid "Changing the size via shortcuts does not overwrite this."
+msgstr "షార్ట్‌కట్‌ల ద్వారా సైజు మార్చడం వల్ల ఇది ఓవర్‌రైట్ అవ్వదు."
+
+#: dialect/shortcuts.blp:13
+msgctxt "shortcuts window"
+msgid "Translator"
+msgstr "అనువదించు"
+
+#: dialect/shortcuts.blp:16
+msgctxt "shortcuts window"
+msgid "Translate"
+msgstr "అనువదించు"
+
+#: dialect/shortcuts.blp:21
+msgctxt "shortcuts window"
+msgid "Switch Languages"
+msgstr "భాషలను మార్చండి"
+
+#: dialect/shortcuts.blp:26
+msgctxt "shortcuts window"
+msgid "Select source language"
+msgstr "మూల భాషను ఎంచుకోండి"
+
+#: dialect/shortcuts.blp:31
+msgctxt "shortcuts window"
+msgid "Select destination language"
+msgstr "గమ్యం భాషను ఎంచుకోండి"
+
+#: dialect/shortcuts.blp:36
+msgctxt "shortcuts window"
+msgid "Clear source text"
+msgstr "మూల వచనాన్ని క్లియర్ చేయండి"
+
+#: dialect/shortcuts.blp:41
+msgctxt "shortcuts window"
+msgid "Copy translation"
+msgstr "అనువాదాన్ని కాపీ చేయండి"
+
+#: dialect/shortcuts.blp:46
+msgctxt "shortcuts window"
+msgid "Show Pronunciation"
+msgstr "ఉచ్చారణ చూపించు"
+
+#: dialect/shortcuts.blp:51
+msgctxt "shortcuts window"
+msgid "Increase font size"
+msgstr "ఫాంట్ పరిమాణాన్ని పెంచండి"
+
+#: dialect/shortcuts.blp:56
+msgctxt "shortcuts window"
+msgid "Decrease font size"
+msgstr "ఫాంట్ పరిమాణాన్ని తగ్గించండి"
+
+#: dialect/shortcuts.blp:62
+msgctxt "shortcuts window"
+msgid "Text-to-Speech"
+msgstr "టెక్స్ట్-టు-స్పీచ్"
+
+#: dialect/shortcuts.blp:65
+msgctxt "shortcuts window"
+msgid "Listen to source text"
+msgstr "మూల వచనాన్ని వినండి"
+
+#: dialect/shortcuts.blp:70
+msgctxt "shortcuts window"
+msgid "Listen to translation"
+msgstr "అనువాదం వినండి"
+
+#: dialect/shortcuts.blp:76
+msgctxt "shortcuts window"
+msgid "Navigation"
+msgstr "నావిగేషన్"
+
+#: dialect/shortcuts.blp:79
+msgctxt "shortcuts window"
+msgid "Go back in history"
+msgstr "చరిత్రలోకి వెళ్లండి"
+
+#: dialect/shortcuts.blp:84
+msgctxt "shortcuts window"
+msgid "Go forward in history"
+msgstr "చరిత్రలో ముందుకు సాగండి"
+
+#: dialect/shortcuts.blp:90
+msgctxt "shortcuts window"
+msgid "General"
+msgstr "జనరల్"
+
+#: dialect/shortcuts.blp:93
+msgctxt "shortcuts window"
+msgid "Preferences"
+msgstr "ప్రాధాన్యతలు"
+
+#: dialect/shortcuts.blp:98
+msgctxt "shortcut window"
+msgid "Shortcuts"
+msgstr "సత్వరమార్గాలు"
+
+#: dialect/shortcuts.blp:103
+msgctxt "shortcuts window"
+msgid "Quit"
+msgstr "నిష్క్రమించు"
+
+#: dialect/window.blp:15
+msgid "Show Pronunciation"
+msgstr "ఉచ్చారణ చూపించు"
+
+#: dialect/window.blp:24 dialect/window.py:1176
+msgid "Preferences"
+msgstr "ప్రాధాన్యతలు"
+
+#: dialect/window.blp:29
+msgid "Keyboard Shortcuts"
+msgstr "కీబోర్డ్ సత్వరమార్గాలు"
+
+#: dialect/window.blp:34
+msgid "About Dialect"
+msgstr "మాండలికం గురించి"
+
+#: dialect/window.blp:68 dialect/widgets/speech_button.py:40
+msgid "Loading…"
+msgstr "లోడ్అవుతోంది..."
+
+#: dialect/window.blp:92 dialect/window.blp:124 dialect/window.py:903 dialect/window.py:1160
+#: dialect/window.py:1168 dialect/window.py:1184
+msgid "Retry"
+msgstr "మళ్లీ ప్రయత్నించండి"
+
+#: dialect/window.blp:102 dialect/window.blp:137 dialect/window.blp:177 dialect/window.blp:213
+msgid "Open Preferences"
+msgstr "ప్రాధాన్యతలను తెరవండి"
+
+#: dialect/window.blp:167 dialect/window.blp:200
+msgid "Remove Key and Retry"
+msgstr "కీని తీసివేసి మళ్ళీ ప్రయత్నించండి"
+
+#: dialect/window.blp:244 dialect/window.blp:566
+msgid "Change Source Language"
+msgstr "మూల భాషను మార్చండి"
+
+#: dialect/window.blp:249 dialect/window.blp:574
+msgid "Switch Languages"
+msgstr "భాషలను మార్చండి"
+
+#: dialect/window.blp:256 dialect/window.blp:582
+msgid "Change Destination Language"
+msgstr "గమ్యం భాషను మార్చండి"
+
+#: dialect/window.blp:271
+msgid "Previous Translation"
+msgstr "మునుపటి అనువాదం"
+
+#: dialect/window.blp:277
+msgid "Next Translation"
+msgstr "తదుపరి అనువాదం"
+
+#: dialect/window.blp:284
+msgid "Main Menu"
+msgstr "ప్రధాన మెనూ"
+
+#: dialect/window.blp:385
+msgid "Clear"
+msgstr "క్లియర్"
+
+#: dialect/window.blp:391
+msgid "Paste"
+msgstr "అతికించండి"
+
+#: dialect/window.blp:397 dialect/window.blp:515 dialect/widgets/speech_button.blp:5
+#: dialect/widgets/speech_button.py:22
+msgid "Listen"
+msgstr "వినండి"
+
+#: dialect/window.blp:418
+msgid "Translate"
+msgstr "అనువదించు"
+
+#: dialect/window.blp:489
+msgid "Translating…"
+msgstr "అనువదిస్తోంది..."
+
+#: dialect/window.blp:494
+msgid "Could not Translate the Text"
+msgstr "వచనాన్ని అనువదించలేకపోయింది"
+
+#: dialect/window.blp:501 dialect/search_provider/search_provider.in:239
+msgid "Copy"
+msgstr "కాపీ చేయండి"
+
+#: dialect/window.blp:509
+msgid "Suggest Translation"
+msgstr "అనువాదాన్ని సూచించండి"
+
+#: dialect/window.blp:533
+msgid "Cancel"
+msgstr "రద్దు చేయి"
+
+#: dialect/window.blp:540
+msgid "Save"
+msgstr "సేవ్ చేయండి"
+
+#: dialect/window.py:403 dialect/search_provider/search_provider.in:173
+msgid "Failed loading the translation service"
+msgstr "అనువాద సేవను లోడ్ చేయడంలో విఫలమైంది"
+
+#: dialect/window.py:404
+msgid "Please report this in the Dialect bug tracker if the issue persists."
+msgstr "సమస్య కొనసాగితే దయచేసి డయలెక్ట్ బగ్ ట్రాకర్‌లో దీన్ని నివేదించండి."
+
+#: dialect/window.py:415
+msgid "Couldn’t connect to the translation service"
+msgstr "అనువాద సేవకు కనెక్ట్ చేయడం సాధ్యం కాలేదు"
+
+#: dialect/window.py:416
+msgid "We can’t connect to the server. Please check for network issues."
+msgstr "మేము సర్వర్‌కు కనెక్ట్ చేయలేకపోతున్నాము. దయచేసి నెట్‌వర్క్ సమస్యల కోసం తనిఖీ చేయండి."
+
+#: dialect/window.py:437 dialect/window.py:1174 dialect/search_provider/search_provider.in:161
+msgid "API key is required to use the service"
+msgstr "సేవను ఉపయోగించడానికి API కీ అవసరం"
+
+#: dialect/window.py:438
+msgid "Please set an API key in the preferences."
+msgstr "దయచేసి ప్రాధాన్యతలలో API కీని సెట్ చేయండి."
+
+#: dialect/window.py:441 dialect/window.py:1166 dialect/search_provider/search_provider.in:159
+msgid "The provided API key is invalid"
+msgstr "అందించిన API కీ చెల్లదు"
+
+#: dialect/window.py:443
+msgid "Please set a valid API key in the preferences."
+msgstr "దయచేసి ప్రాధాన్యతలలో చెల్లుబాటు అయ్యే API కీని సెట్ చేయండి."
+
+#: dialect/window.py:446
+msgid "Please set a valid API key or unset the API key in the preferences."
+msgstr "దయచేసి చెల్లుబాటు అయ్యే API కీని సెట్ చేయండి లేదా ప్రాధాన్యతలలో API కీని అన్‌సెట్ చేయండి."
+
+#: dialect/window.py:471
+msgid "Failed loading the text-to-speech service. Retry?"
+msgstr "టెక్స్ట్-టు-స్పీచ్ సేవను లోడ్ చేయడంలో విఫలమైంది. మళ్లీ ప్రయత్నించాలా?"
+
+#: dialect/window.py:472
+msgid "Failed loading the text-to-speech service"
+msgstr "టెక్స్ట్-టు-స్పీచ్ సేవను లోడ్ చేయడంలో విఫలమైంది"
+
+#: dialect/window.py:474
+msgid "Failed loading the text-to-speech service, check for network issues"
+msgstr "టెక్స్ట్-టు-స్పీచ్ సేవను లోడ్ చేయడంలో విఫలమైంది, నెట్‌వర్క్ సమస్యల కోసం తనిఖీ చేయండి"
+
+#: dialect/window.py:766
+msgid "Copied to clipboard"
+msgstr "క్లిప్‌బోర్డ్‌కి కాపీ చేయబడింది"
+
+#: dialect/window.py:791
+msgid "New translation has been suggested!"
+msgstr "కొత్త అనువాదం సూచించబడింది!"
+
+#: dialect/window.py:793 dialect/window.py:799
+msgid "Suggestion failed."
+msgstr "సూచన విఫలమైంది."
+
+#: dialect/window.py:894
+msgid "Text-to-Speech failed"
+msgstr "టెక్స్ట్-టు-స్పీచ్ విఫలమైంది"
+
+#: dialect/window.py:898
+msgid "Text-to-Speech failed, check for network issues"
+msgstr "టెక్స్ట్-టు-స్పీచ్ విఫలమైంది, నెట్‌వర్క్ సమస్యల కోసం తనిఖీ చేయండి"
+
+#: dialect/window.py:907
+msgid "Text-to-Speech failed. Retry?"
+msgstr "టెక్స్ట్-టు-స్పీచ్ విఫలమైంది. మళ్ళీ ప్రయత్నించాలా?"
+
+#: dialect/window.py:1002
+msgid "{} characters limit reached!"
+msgstr "{} అక్షరాల పరిమితిని చేరుకున్నారు!"
+
+#: dialect/window.py:1123
+msgid "Did you mean: "
+msgstr "మీ ఉద్దేశ్యం:"
+
+#: dialect/window.py:1158 dialect/search_provider/search_provider.in:157
+msgid "Translation failed, check for network issues"
+msgstr "అనువాదం విఫలమైంది, నెట్‌వర్క్ సమస్యల కోసం తనిఖీ చేయండి"
+
+#: dialect/window.py:1182 dialect/search_provider/search_provider.in:163
+msgid "Translation failed"
+msgstr "అనువాదం విఫలమైంది"
+
+#: dialect/widgets/lang_selector.blp:47
+msgid "Search Languages…"
+msgstr "భాషలను వెతకండి..."
+
+#: dialect/widgets/provider_preferences.blp:5 dialect/widgets/provider_preferences.blp:12
+msgid "Provider Preferences"
+msgstr "ప్రొవైడర్ ప్రాధాన్యతలు"
+
+#: dialect/widgets/provider_preferences.blp:21
+msgid "Instance URL"
+msgstr "ఉదాహరణ URL"
+
+#: dialect/widgets/provider_preferences.blp:22
+msgid "Enter an Instance URL for the Provider."
+msgstr "ప్రొవైడర్ కోసం ఒక ఇన్‌స్టన్స్ URL ని నమోదు చేయండి."
+
+#: dialect/widgets/provider_preferences.blp:32 dialect/widgets/provider_preferences.blp:62
+msgid "Reset to Default"
+msgstr "డిఫాల్ట్‌కి రీసెట్ చేయండి"
+
+#: dialect/widgets/provider_preferences.blp:52
+msgid "API Key"
+msgstr "API కీ"
+
+#: dialect/widgets/provider_preferences.blp:53
+msgid "Enter an API Key for the Provider."
+msgstr "ప్రొవైడర్ కోసం API కీని నమోదు చేయండి."
+
+#: dialect/widgets/provider_preferences.blp:83
+msgid "Character Usage"
+msgstr "అక్షర వినియోగం"
+
+#: dialect/widgets/speech_button.py:28
+msgid "Cancel Audio"
+msgstr "ఆడియోను రద్దు చేయండి"
+
+#: dialect/widgets/theme_switcher.blp:20
+msgid "Follow System Style"
+msgstr "సిస్టమ్ శైలిని అనుసరించండి"
+
+#: dialect/widgets/theme_switcher.blp:35
+msgid "Light Style"
+msgstr "తేలికపాటి శైలి"
+
+#: dialect/widgets/theme_switcher.blp:50
+msgid "Dark Style"
+msgstr "డార్క్ స్టైల్"
+
+#: dialect/search_provider/search_provider.in:189
+msgid "Translate “{text}” with {provider_name}"
+msgstr "“{text}” ని {provider_name} తో అనువదించండి"
+
+#: dialect/search_provider/search_provider.in:240
+msgid "Copy translation to clipboard"
+msgstr "అనువాదాన్ని క్లిప్‌బోర్డ్‌కు కాపీ చేయండి"
