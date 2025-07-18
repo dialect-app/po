@@ -38,8 +38,8 @@ msgid ""
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
 "translate;translation;tradu;traducere;Google Translate;LibreTranslate;Lingva "
-"Translate;Bing Microsoft Translator;Bing Translator;Microsoft "
-"Translator;Yandex Translate; "
+"Translate;Bing Microsoft Translator;Bing Translator;Microsoft Translator;"
+"Yandex Translate; "
 
 #. For development version
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:187
