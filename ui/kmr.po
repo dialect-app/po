@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-23 08:40-0500\n"
+"POT-Creation-Date: 2025-07-18 08:35-0500\n"
 "PO-Revision-Date: 2022-08-21 13:14+0000\n"
 "Last-Translator: Pêşeroja paşerojê <cyax1@protonmail.com>\n"
 "Language-Team: Kurdish (Northern) <https://hosted.weblate.org/projects/"
@@ -20,26 +20,25 @@ msgstr ""
 "X-Generator: Weblate 4.14-dev\n"
 
 #. Translators: Do not translate the app name!
-#: data/app.drey.Dialect.desktop.in.in:9
-#: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:74
-#: dialect/window.blp:264
+#: data/app.drey.Dialect.desktop.in.in:8
+#: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:78
 msgid "Dialect"
 msgstr "Devok"
 
-#: data/app.drey.Dialect.desktop.in.in:10
+#: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
 msgstr "Di navbera zimanan de wergerîne"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
-#: data/app.drey.Dialect.desktop.in.in:14
+#: data/app.drey.Dialect.desktop.in.in:13
 msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
 
 #. For development version
-#: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:186
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:187
 msgid "A translation app for GNOME."
 msgstr "Ji bo GNOME-ê sepana wergerê."
 
@@ -104,16 +103,16 @@ msgstr "Afirînerên Dialect-ê"
 msgid "Auto"
 msgstr "Xweberî"
 
-#: dialect/main.py:187
+#: dialect/main.py:188
 #, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
 msgstr "Mafê jêgirtinê 2020-2021 Afirînerên Zaravayan"
 
-#: dialect/main.py:189
+#: dialect/main.py:190
 msgid "translator-credits"
 msgstr "Ronî"
 
-#: dialect/main.py:190
+#: dialect/main.py:191
 msgid "Donate"
 msgstr ""
 
@@ -311,7 +310,7 @@ msgstr "Derkeve"
 msgid "Show Pronunciation"
 msgstr "Bilêvkirinê rê bide"
 
-#: dialect/window.blp:24 dialect/window.py:1176
+#: dialect/window.blp:24 dialect/window.py:1203
 msgid "Preferences"
 msgstr "Tercîh"
 
@@ -323,163 +322,171 @@ msgstr "Kurteriyên Klavyeyê"
 msgid "About Dialect"
 msgstr "Li ser Dialect-ê"
 
-#: dialect/window.blp:68 dialect/widgets/speech_button.py:40
+#: dialect/window.blp:72 dialect/widgets/speech_button.py:40
 msgid "Loading…"
 msgstr "Tê barkirin…"
 
-#: dialect/window.blp:92 dialect/window.blp:124 dialect/window.py:903
-#: dialect/window.py:1160 dialect/window.py:1168 dialect/window.py:1184
+#: dialect/window.blp:94 dialect/window.py:903 dialect/window.py:1187
+#: dialect/window.py:1195 dialect/window.py:1211
 msgid "Retry"
 msgstr "Ji nû be biceribîne"
 
-#: dialect/window.blp:102 dialect/window.blp:137 dialect/window.blp:177
-#: dialect/window.blp:213
+#: dialect/window.blp:105 dialect/window.blp:146
 msgid "Open Preferences"
 msgstr "Hevyazn veke"
 
-#: dialect/window.blp:167 dialect/window.blp:200
+#: dialect/window.blp:135
 msgid "Remove Key and Retry"
 msgstr "Kilîtê rake û dîsa binêre"
 
-#: dialect/window.blp:244 dialect/window.blp:566
-msgid "Change Source Language"
+#: dialect/window.blp:241
+msgid "Main Menu"
 msgstr ""
 
-#: dialect/window.blp:249 dialect/window.blp:574
-#, fuzzy
-msgid "Switch Languages"
-msgstr "Zimên biguherîne"
-
-#: dialect/window.blp:256 dialect/window.blp:582
-msgid "Change Destination Language"
-msgstr ""
-
-#: dialect/window.blp:271
+#: dialect/window.blp:250
 #, fuzzy
 msgid "Previous Translation"
 msgstr "Wergera berê"
 
-#: dialect/window.blp:277
+#: dialect/window.blp:258
 #, fuzzy
 msgid "Next Translation"
 msgstr "Wergera dawiyê"
 
-#: dialect/window.blp:284
-msgid "Main Menu"
+#: dialect/window.blp:270
+msgid "Change Source Language"
 msgstr ""
 
-#: dialect/window.blp:385
+#: dialect/window.blp:275
+#, fuzzy
+msgid "Switch Languages"
+msgstr "Zimên biguherîne"
+
+#: dialect/window.blp:282
+msgid "Change Destination Language"
+msgstr ""
+
+#: dialect/window.blp:380
 msgid "Clear"
 msgstr "Pak bike"
 
-#: dialect/window.blp:391
+#: dialect/window.blp:386
 msgid "Paste"
 msgstr "Pêve bike"
 
-#: dialect/window.blp:397 dialect/window.blp:515
+#: dialect/window.blp:392 dialect/window.blp:510
 #: dialect/widgets/speech_button.blp:5 dialect/widgets/speech_button.py:22
 msgid "Listen"
 msgstr "Guhdarî bike"
 
-#: dialect/window.blp:418
+#: dialect/window.blp:413
 msgid "Translate"
 msgstr "Wergerîne"
 
-#: dialect/window.blp:489
+#: dialect/window.blp:484
 msgid "Translating…"
 msgstr "Tê wergerandin…"
 
-#: dialect/window.blp:494
+#: dialect/window.blp:489
 #, fuzzy
 msgid "Could not Translate the Text"
 msgstr "Nivîs nehate wergerandin"
 
-#: dialect/window.blp:501 dialect/search_provider/search_provider.in:239
+#: dialect/window.blp:496 dialect/search_provider/search_provider.in:245
 msgid "Copy"
 msgstr "Jê bigire"
 
-#: dialect/window.blp:509
+#: dialect/window.blp:504
 msgid "Suggest Translation"
 msgstr "Wergerê pêşniyar bike"
 
-#: dialect/window.blp:533
+#: dialect/window.blp:528
 msgid "Cancel"
 msgstr "Têk bibe"
 
-#: dialect/window.blp:540
+#: dialect/window.blp:535
 msgid "Save"
 msgstr "Tomar bike"
 
-#: dialect/window.py:403 dialect/search_provider/search_provider.in:173
-#, fuzzy
-msgid "Failed loading the translation service"
-msgstr "Servîsa wergeriyê nehate barkirin"
-
-#: dialect/window.py:404
-msgid "Please report this in the Dialect bug tracker if the issue persists."
-msgstr ""
-
-#: dialect/window.py:415
+#: dialect/window.py:399
 #, fuzzy
 msgid "Couldn’t connect to the translation service"
 msgstr "Servîsa wergeriyê nehate barkirin"
 
-#: dialect/window.py:416
+#: dialect/window.py:400
 #, fuzzy
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr ""
 "Wergera biserneket.\n"
 "Ji kerema xwe pisrgirêkêm torê kontrol bike."
 
-#: dialect/window.py:437 dialect/window.py:1174
-#: dialect/search_provider/search_provider.in:161
+#: dialect/window.py:425 dialect/search_provider/search_provider.in:172
+#, fuzzy
+msgid "Failed loading the translation service"
+msgstr "Servîsa wergeriyê nehate barkirin"
+
+#: dialect/window.py:426
+msgid "Please report this in the Dialect bug tracker if the issue persists."
+msgstr ""
+
+#: dialect/window.py:444 dialect/window.py:1201
+#: dialect/search_provider/search_provider.in:192
 msgid "API key is required to use the service"
 msgstr ""
 
-#: dialect/window.py:438
+#: dialect/window.py:445
 msgid "Please set an API key in the preferences."
 msgstr ""
 
-#: dialect/window.py:441 dialect/window.py:1166
-#: dialect/search_provider/search_provider.in:159
+#: dialect/window.py:448 dialect/window.py:1193
+#: dialect/search_provider/search_provider.in:190
 msgid "The provided API key is invalid"
 msgstr ""
 
-#: dialect/window.py:443
+#: dialect/window.py:450
 msgid "Please set a valid API key in the preferences."
 msgstr ""
 
-#: dialect/window.py:446
+#: dialect/window.py:453
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
 
-#: dialect/window.py:471
+#: dialect/window.py:495
 #, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
 msgstr "Servîsa wergeriyê nehate barkirin"
 
-#: dialect/window.py:472
+#: dialect/window.py:496
 #, fuzzy
 msgid "Failed loading the text-to-speech service"
 msgstr "Servîsa wergeriyê nehate barkirin"
 
-#: dialect/window.py:474
+#: dialect/window.py:498
 #, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr ""
 "Wergera biserneket.\n"
 "Ji kerema xwe pisrgirêkêm torê kontrol bike."
 
-#: dialect/window.py:766
+#: dialect/window.py:542
+#, fuzzy
+msgid "Couldn’t read selection clip board!"
+msgstr "Wergerê jê bigire"
+
+#: dialect/window.py:630
+msgid "Did you mean: "
+msgstr "Te xwest vê bibêjî: "
+
+#: dialect/window.py:793
 #, fuzzy
 msgid "Copied to clipboard"
 msgstr "Wergerê jê bigire"
 
-#: dialect/window.py:791
+#: dialect/window.py:824
 msgid "New translation has been suggested!"
 msgstr ""
 
-#: dialect/window.py:793 dialect/window.py:799
+#: dialect/window.py:826 dialect/window.py:830
 msgid "Suggestion failed."
 msgstr ""
 
@@ -500,23 +507,19 @@ msgstr ""
 msgid "Text-to-Speech failed. Retry?"
 msgstr "Ji nivîsê bo dengê"
 
-#: dialect/window.py:1002
+#: dialect/window.py:971
 #, fuzzy
 msgid "{} characters limit reached!"
 msgstr "Gihaşt sînora 5000 karekterî!"
 
-#: dialect/window.py:1123
-msgid "Did you mean: "
-msgstr "Te xwest vê bibêjî: "
-
-#: dialect/window.py:1158 dialect/search_provider/search_provider.in:157
+#: dialect/window.py:1185 dialect/search_provider/search_provider.in:188
 #, fuzzy
 msgid "Translation failed, check for network issues"
 msgstr ""
 "Wergera biserneket.\n"
 "Ji kerema xwe pisrgirêkêm torê kontrol bike."
 
-#: dialect/window.py:1182 dialect/search_provider/search_provider.in:163
+#: dialect/window.py:1209 dialect/search_provider/search_provider.in:194
 #, fuzzy
 msgid "Translation failed"
 msgstr "Dîroka wergerê"
@@ -579,11 +582,11 @@ msgstr "Awaya Ron"
 msgid "Dark Style"
 msgstr "Awaya Tarî"
 
-#: dialect/search_provider/search_provider.in:189
+#: dialect/search_provider/search_provider.in:201
 msgid "Translate “{text}” with {provider_name}"
 msgstr ""
 
-#: dialect/search_provider/search_provider.in:240
+#: dialect/search_provider/search_provider.in:246
 #, fuzzy
 msgid "Copy translation to clipboard"
 msgstr "Wergerê jê bigire"

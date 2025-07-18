@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-23 08:40-0500\n"
+"POT-Creation-Date: 2025-07-18 08:35-0500\n"
 "PO-Revision-Date: 2024-12-19 01:53+0000\n"
 "Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
 "Language-Team: Tamil <https://hosted.weblate.org/projects/dialect/dialect/ta/"
@@ -20,19 +20,18 @@ msgstr ""
 "X-Generator: Weblate 5.9.2-dev\n"
 
 #. Translators: Do not translate the app name!
-#: data/app.drey.Dialect.desktop.in.in:9
-#: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:74
-#: dialect/window.blp:264
+#: data/app.drey.Dialect.desktop.in.in:8
+#: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:78
 msgid "Dialect"
 msgstr "கிளைமொழி"
 
-#: data/app.drey.Dialect.desktop.in.in:10
+#: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
 msgstr "மொழிகளுக்கு இடையே மொழிபெயர்க்கவும்"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
-#: data/app.drey.Dialect.desktop.in.in:14
+#: data/app.drey.Dialect.desktop.in.in:13
 msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
@@ -41,7 +40,7 @@ msgstr ""
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 
 #. For development version
-#: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:186
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:187
 msgid "A translation app for GNOME."
 msgstr "க்னோமிற்கான மொழிபெயர்ப்புப் பயன்பாடு."
 
@@ -103,15 +102,15 @@ msgstr "Dialect ஆசிரியர்கள்"
 msgid "Auto"
 msgstr "ஆட்டோ"
 
-#: dialect/main.py:187
+#: dialect/main.py:188
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
 msgstr "பதிப்புரிமை 2020 - ⁠2024 பேச்சுவழக்கு ஆசிரியர்கள்"
 
-#: dialect/main.py:189
+#: dialect/main.py:190
 msgid "translator-credits"
 msgstr "K.B.Dharun Krishna"
 
-#: dialect/main.py:190
+#: dialect/main.py:191
 msgid "Donate"
 msgstr "தானம் செய்"
 
@@ -303,7 +302,7 @@ msgstr "வெளியேறு"
 msgid "Show Pronunciation"
 msgstr "உச்சரிப்பைக் காட்டு"
 
-#: dialect/window.blp:24 dialect/window.py:1176
+#: dialect/window.blp:24 dialect/window.py:1203
 msgid "Preferences"
 msgstr "விருப்பங்கள்"
 
@@ -315,149 +314,156 @@ msgstr "விசைப்பலகை குறுக்குவழிகள�
 msgid "About Dialect"
 msgstr "Dialect பற்றி"
 
-#: dialect/window.blp:68 dialect/widgets/speech_button.py:40
+#: dialect/window.blp:72 dialect/widgets/speech_button.py:40
 msgid "Loading…"
 msgstr "ஏற்றுகிறது…"
 
-#: dialect/window.blp:92 dialect/window.blp:124 dialect/window.py:903
-#: dialect/window.py:1160 dialect/window.py:1168 dialect/window.py:1184
+#: dialect/window.blp:94 dialect/window.py:903 dialect/window.py:1187
+#: dialect/window.py:1195 dialect/window.py:1211
 msgid "Retry"
 msgstr "மீண்டும் முயற்சிக்கவும்"
 
-#: dialect/window.blp:102 dialect/window.blp:137 dialect/window.blp:177
-#: dialect/window.blp:213
+#: dialect/window.blp:105 dialect/window.blp:146
 msgid "Open Preferences"
 msgstr "விருப்பங்களைத் திறக்கவும்"
 
-#: dialect/window.blp:167 dialect/window.blp:200
+#: dialect/window.blp:135
 msgid "Remove Key and Retry"
 msgstr "விசையை அகற்றி மீண்டும் முயற்சிக்கவும்"
 
-#: dialect/window.blp:244 dialect/window.blp:566
-msgid "Change Source Language"
-msgstr "மூல மொழியை மாற்றவும்"
-
-#: dialect/window.blp:249 dialect/window.blp:574
-msgid "Switch Languages"
-msgstr "மொழிகளை மாற்றவும்"
-
-#: dialect/window.blp:256 dialect/window.blp:582
-msgid "Change Destination Language"
-msgstr "இலக்கு மொழியை மாற்றவும்"
-
-#: dialect/window.blp:271
-msgid "Previous Translation"
-msgstr "முந்தைய மொழிபெயர்ப்பு"
-
-#: dialect/window.blp:277
-msgid "Next Translation"
-msgstr "அடுத்த மொழிபெயர்ப்பு"
-
-#: dialect/window.blp:284
+#: dialect/window.blp:241
 msgid "Main Menu"
 msgstr "முதன்மை பட்டியல்"
 
-#: dialect/window.blp:385
+#: dialect/window.blp:250
+msgid "Previous Translation"
+msgstr "முந்தைய மொழிபெயர்ப்பு"
+
+#: dialect/window.blp:258
+msgid "Next Translation"
+msgstr "அடுத்த மொழிபெயர்ப்பு"
+
+#: dialect/window.blp:270
+msgid "Change Source Language"
+msgstr "மூல மொழியை மாற்றவும்"
+
+#: dialect/window.blp:275
+msgid "Switch Languages"
+msgstr "மொழிகளை மாற்றவும்"
+
+#: dialect/window.blp:282
+msgid "Change Destination Language"
+msgstr "இலக்கு மொழியை மாற்றவும்"
+
+#: dialect/window.blp:380
 msgid "Clear"
 msgstr "தெளிவு"
 
-#: dialect/window.blp:391
+#: dialect/window.blp:386
 msgid "Paste"
 msgstr "ஒட்டு"
 
-#: dialect/window.blp:397 dialect/window.blp:515
+#: dialect/window.blp:392 dialect/window.blp:510
 #: dialect/widgets/speech_button.blp:5 dialect/widgets/speech_button.py:22
 msgid "Listen"
 msgstr "கேளுங்கள்"
 
-#: dialect/window.blp:418
+#: dialect/window.blp:413
 msgid "Translate"
 msgstr "மொழிபெயர்"
 
-#: dialect/window.blp:489
+#: dialect/window.blp:484
 msgid "Translating…"
 msgstr "மொழியாக்கம் செய்கிறது…"
 
-#: dialect/window.blp:494
+#: dialect/window.blp:489
 msgid "Could not Translate the Text"
 msgstr "உரையை மொழிபெயர்க்க முடியவில்லை"
 
-#: dialect/window.blp:501 dialect/search_provider/search_provider.in:239
+#: dialect/window.blp:496 dialect/search_provider/search_provider.in:245
 msgid "Copy"
 msgstr "நகல்"
 
-#: dialect/window.blp:509
+#: dialect/window.blp:504
 msgid "Suggest Translation"
 msgstr "மொழிபெயர்ப்பைப் பரிந்துரைக்கவும்"
 
-#: dialect/window.blp:533
+#: dialect/window.blp:528
 msgid "Cancel"
 msgstr "ரத்து செய்"
 
-#: dialect/window.blp:540
+#: dialect/window.blp:535
 msgid "Save"
 msgstr "சேமிக்கவும்"
 
-#: dialect/window.py:403 dialect/search_provider/search_provider.in:173
-msgid "Failed loading the translation service"
-msgstr "மொழிபெயர்ப்பு சேவையை ஏற்றுவதில் தோல்வி"
-
-#: dialect/window.py:404
-msgid "Please report this in the Dialect bug tracker if the issue persists."
-msgstr "சிக்கல் தொடர்ந்தால், டயலெக்ட் பிழை டிராக்கரில் இதைப் புகாரளிக்கவும்."
-
-#: dialect/window.py:415
+#: dialect/window.py:399
 msgid "Couldn’t connect to the translation service"
 msgstr "மொழிபெயர்ப்பு சேவையுடன் இணைக்க முடியவில்லை"
 
-#: dialect/window.py:416
+#: dialect/window.py:400
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr "எங்களால் சேவையகத்துடன் இணைக்க முடியவில்லை. நெட்வொர்க் சிக்கல்களை சரிபார்க்கவும்."
 
-#: dialect/window.py:437 dialect/window.py:1174
-#: dialect/search_provider/search_provider.in:161
+#: dialect/window.py:425 dialect/search_provider/search_provider.in:172
+msgid "Failed loading the translation service"
+msgstr "மொழிபெயர்ப்பு சேவையை ஏற்றுவதில் தோல்வி"
+
+#: dialect/window.py:426
+msgid "Please report this in the Dialect bug tracker if the issue persists."
+msgstr "சிக்கல் தொடர்ந்தால், டயலெக்ட் பிழை டிராக்கரில் இதைப் புகாரளிக்கவும்."
+
+#: dialect/window.py:444 dialect/window.py:1201
+#: dialect/search_provider/search_provider.in:192
 msgid "API key is required to use the service"
 msgstr "சேவையைப் பயன்படுத்த API விசை தேவை"
 
-#: dialect/window.py:438
+#: dialect/window.py:445
 msgid "Please set an API key in the preferences."
 msgstr "விருப்பங்களில் API விசையை அமைக்கவும்."
 
-#: dialect/window.py:441 dialect/window.py:1166
-#: dialect/search_provider/search_provider.in:159
+#: dialect/window.py:448 dialect/window.py:1193
+#: dialect/search_provider/search_provider.in:190
 msgid "The provided API key is invalid"
 msgstr "வழங்கப்பட்ட API விசை தவறானது"
 
-#: dialect/window.py:443
+#: dialect/window.py:450
 msgid "Please set a valid API key in the preferences."
 msgstr "விருப்பங்களில் சரியான API விசையை அமைக்கவும்."
 
-#: dialect/window.py:446
+#: dialect/window.py:453
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr "சரியான API விசையை அமைக்கவும் அல்லது விருப்பத்தேர்வுகளில் API விசையை அமைக்கவும்."
 
-#: dialect/window.py:471
+#: dialect/window.py:495
 msgid "Failed loading the text-to-speech service. Retry?"
 msgstr "உரை-க்கு-பேச்சு சேவையை ஏற்றுவதில் தோல்வி. மீண்டும் முயற்சிக்கிறீர்களா?"
 
-#: dialect/window.py:472
+#: dialect/window.py:496
 msgid "Failed loading the text-to-speech service"
 msgstr "உரை-க்கு-பேச்சு சேவையை ஏற்றுவதில் தோல்வி"
 
-#: dialect/window.py:474
+#: dialect/window.py:498
 msgid "Failed loading the text-to-speech service, check for network issues"
-msgstr ""
-"உரை-க்கு-பேச்சு சேவையை ஏற்றுவதில் தோல்வி, பிணைய சிக்கல்களைச் சரிபார்க்கவும்"
+msgstr "உரை-க்கு-பேச்சு சேவையை ஏற்றுவதில் தோல்வி, பிணைய சிக்கல்களைச் சரிபார்க்கவும்"
 
-#: dialect/window.py:766
+#: dialect/window.py:542
+#, fuzzy
+msgid "Couldn’t read selection clip board!"
+msgstr "கிளிப்போர்டுக்கு மொழிபெயர்ப்பை நகலெடுக்கவும்"
+
+#: dialect/window.py:630
+msgid "Did you mean: "
+msgstr "நீங்கள் கூறுவது: "
+
+#: dialect/window.py:793
 msgid "Copied to clipboard"
 msgstr "கிளிப்போர்டுக்கு நகலெடுக்கப்பட்டது"
 
-#: dialect/window.py:791
+#: dialect/window.py:824
 msgid "New translation has been suggested!"
 msgstr "புதிய மொழிபெயர்ப்பு பரிந்துரைக்கப்பட்டது!"
 
-#: dialect/window.py:793 dialect/window.py:799
+#: dialect/window.py:826 dialect/window.py:830
 msgid "Suggestion failed."
 msgstr "பரிந்துரை தோல்வியடைந்தது."
 
@@ -473,19 +479,15 @@ msgstr "உரை-க்கு-பேச்சு தோல்வியுற்
 msgid "Text-to-Speech failed. Retry?"
 msgstr "உரை-க்கு-பேச்சு தோல்வியடைந்தது. மீண்டும் முயற்சிக்கிறீர்களா?"
 
-#: dialect/window.py:1002
+#: dialect/window.py:971
 msgid "{} characters limit reached!"
 msgstr "{} எழுத்துக்கள் வரம்பை அடைந்துவிட்டது!"
 
-#: dialect/window.py:1123
-msgid "Did you mean: "
-msgstr "நீங்கள் கூறுவது: "
-
-#: dialect/window.py:1158 dialect/search_provider/search_provider.in:157
+#: dialect/window.py:1185 dialect/search_provider/search_provider.in:188
 msgid "Translation failed, check for network issues"
 msgstr "மொழிபெயர்ப்பு தோல்வியடைந்தது, நெட்வொர்க் சிக்கல்கள் உள்ளதா எனச் சரிபார்க்கவும்"
 
-#: dialect/window.py:1182 dialect/search_provider/search_provider.in:163
+#: dialect/window.py:1209 dialect/search_provider/search_provider.in:194
 msgid "Translation failed"
 msgstr "மொழிபெயர்ப்பு தோல்வியடைந்தது"
 
@@ -539,11 +541,11 @@ msgstr "ஒளி பாணி"
 msgid "Dark Style"
 msgstr "இருண்ட பாணி"
 
-#: dialect/search_provider/search_provider.in:189
+#: dialect/search_provider/search_provider.in:201
 msgid "Translate “{text}” with {provider_name}"
 msgstr "“{text}” ஐ {வழங்குநர்_பெயர் with உடன் மொழிபெயர்க்கவும்"
 
-#: dialect/search_provider/search_provider.in:240
+#: dialect/search_provider/search_provider.in:246
 msgid "Copy translation to clipboard"
 msgstr "கிளிப்போர்டுக்கு மொழிபெயர்ப்பை நகலெடுக்கவும்"
 

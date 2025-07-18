@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-23 08:40-0500\n"
+"POT-Creation-Date: 2025-07-18 08:35-0500\n"
 "PO-Revision-Date: 2024-12-23 20:00+0000\n"
 "Last-Translator: Максим Горпиніч <mgorpinic2005@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/dialect/"
@@ -21,19 +21,18 @@ msgstr ""
 "X-Generator: Weblate 5.10-dev\n"
 
 #. Translators: Do not translate the app name!
-#: data/app.drey.Dialect.desktop.in.in:9
-#: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:74
-#: dialect/window.blp:264
+#: data/app.drey.Dialect.desktop.in.in:8
+#: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:78
 msgid "Dialect"
 msgstr "Dialect"
 
-#: data/app.drey.Dialect.desktop.in.in:10
+#: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
 msgstr "Переклад між мовами"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
-#: data/app.drey.Dialect.desktop.in.in:14
+#: data/app.drey.Dialect.desktop.in.in:13
 msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
@@ -42,7 +41,7 @@ msgstr ""
 "Microsoft Translator;Bing Translator;Microsoft Translator;Яндекс Перекладач; "
 
 #. For development version
-#: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:186
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:187
 msgid "A translation app for GNOME."
 msgstr "Перекладач для GNOME."
 
@@ -104,17 +103,17 @@ msgstr "Автори Dialect"
 msgid "Auto"
 msgstr "Автовизначення мови"
 
-#: dialect/main.py:187
+#: dialect/main.py:188
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
 msgstr "Авторське право 2020–⁠2024 The Dialect Authors"
 
-#: dialect/main.py:189
+#: dialect/main.py:190
 msgid "translator-credits"
 msgstr ""
 "Богдан Матвіїв\n"
 "volkov <volkovissocool@gmail.com>"
 
-#: dialect/main.py:190
+#: dialect/main.py:191
 msgid "Donate"
 msgstr "Пожертвувати"
 
@@ -309,7 +308,7 @@ msgstr "Вийти"
 msgid "Show Pronunciation"
 msgstr "Показати вимову"
 
-#: dialect/window.blp:24 dialect/window.py:1176
+#: dialect/window.blp:24 dialect/window.py:1203
 msgid "Preferences"
 msgstr "Налаштування"
 
@@ -321,154 +320,162 @@ msgstr "Клавіатурні скорочення"
 msgid "About Dialect"
 msgstr "Про Dialect"
 
-#: dialect/window.blp:68 dialect/widgets/speech_button.py:40
+#: dialect/window.blp:72 dialect/widgets/speech_button.py:40
 msgid "Loading…"
 msgstr "Завантаження…"
 
-#: dialect/window.blp:92 dialect/window.blp:124 dialect/window.py:903
-#: dialect/window.py:1160 dialect/window.py:1168 dialect/window.py:1184
+#: dialect/window.blp:94 dialect/window.py:903 dialect/window.py:1187
+#: dialect/window.py:1195 dialect/window.py:1211
 msgid "Retry"
 msgstr "Повторити"
 
-#: dialect/window.blp:102 dialect/window.blp:137 dialect/window.blp:177
-#: dialect/window.blp:213
+#: dialect/window.blp:105 dialect/window.blp:146
 msgid "Open Preferences"
 msgstr "Відкрити налаштування"
 
-#: dialect/window.blp:167 dialect/window.blp:200
+#: dialect/window.blp:135
 msgid "Remove Key and Retry"
 msgstr "Видалити ключ і спробувати ще раз"
 
-#: dialect/window.blp:244 dialect/window.blp:566
-msgid "Change Source Language"
-msgstr "Змінити мову джерела"
-
-#: dialect/window.blp:249 dialect/window.blp:574
-msgid "Switch Languages"
-msgstr "Переключити мову"
-
-#: dialect/window.blp:256 dialect/window.blp:582
-msgid "Change Destination Language"
-msgstr "Змінити мову перекладу"
-
-#: dialect/window.blp:271
-msgid "Previous Translation"
-msgstr "Попередній переклад"
-
-#: dialect/window.blp:277
-msgid "Next Translation"
-msgstr "Наступний переклад"
-
-#: dialect/window.blp:284
+#: dialect/window.blp:241
 msgid "Main Menu"
 msgstr "Головне меню"
 
-#: dialect/window.blp:385
+#: dialect/window.blp:250
+msgid "Previous Translation"
+msgstr "Попередній переклад"
+
+#: dialect/window.blp:258
+msgid "Next Translation"
+msgstr "Наступний переклад"
+
+#: dialect/window.blp:270
+msgid "Change Source Language"
+msgstr "Змінити мову джерела"
+
+#: dialect/window.blp:275
+msgid "Switch Languages"
+msgstr "Переключити мову"
+
+#: dialect/window.blp:282
+msgid "Change Destination Language"
+msgstr "Змінити мову перекладу"
+
+#: dialect/window.blp:380
 msgid "Clear"
 msgstr "Очистити"
 
-#: dialect/window.blp:391
+#: dialect/window.blp:386
 msgid "Paste"
 msgstr "Вставити"
 
-#: dialect/window.blp:397 dialect/window.blp:515
+#: dialect/window.blp:392 dialect/window.blp:510
 #: dialect/widgets/speech_button.blp:5 dialect/widgets/speech_button.py:22
 msgid "Listen"
 msgstr "Прослухати"
 
-#: dialect/window.blp:418
+#: dialect/window.blp:413
 msgid "Translate"
 msgstr "Перекласти"
 
-#: dialect/window.blp:489
+#: dialect/window.blp:484
 msgid "Translating…"
 msgstr "Переклад…"
 
-#: dialect/window.blp:494
+#: dialect/window.blp:489
 msgid "Could not Translate the Text"
 msgstr "Не вдалося перекласти текст"
 
-#: dialect/window.blp:501 dialect/search_provider/search_provider.in:239
+#: dialect/window.blp:496 dialect/search_provider/search_provider.in:245
 msgid "Copy"
 msgstr "Скопіювати"
 
-#: dialect/window.blp:509
+#: dialect/window.blp:504
 msgid "Suggest Translation"
 msgstr "Запропонувати переклад"
 
-#: dialect/window.blp:533
+#: dialect/window.blp:528
 msgid "Cancel"
 msgstr "Скасувати"
 
-#: dialect/window.blp:540
+#: dialect/window.blp:535
 msgid "Save"
 msgstr "Зберегти"
 
-#: dialect/window.py:403 dialect/search_provider/search_provider.in:173
+#: dialect/window.py:399
+msgid "Couldn’t connect to the translation service"
+msgstr "Не вдалося з'єднатися з сервісом перекладача"
+
+#: dialect/window.py:400
+msgid "We can’t connect to the server. Please check for network issues."
+msgstr ""
+"Не вдалося з'єднатися з сервером. Будь ласка, перевірте з'єднання з мережею."
+
+#: dialect/window.py:425 dialect/search_provider/search_provider.in:172
 msgid "Failed loading the translation service"
 msgstr "Не вдалося завантажити сервіс перекладача"
 
-#: dialect/window.py:404
+#: dialect/window.py:426
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
 "Будь ласка, повідомте про ваду до розробників Dialect, якщо проблема буде "
 "повторюватися."
 
-#: dialect/window.py:415
-msgid "Couldn’t connect to the translation service"
-msgstr "Не вдалося з'єднатися з сервісом перекладача"
-
-#: dialect/window.py:416
-msgid "We can’t connect to the server. Please check for network issues."
-msgstr ""
-"Не вдалося з'єднатися з сервером. Будь ласка, перевірте з'єднання з мережею."
-
-#: dialect/window.py:437 dialect/window.py:1174
-#: dialect/search_provider/search_provider.in:161
+#: dialect/window.py:444 dialect/window.py:1201
+#: dialect/search_provider/search_provider.in:192
 msgid "API key is required to use the service"
 msgstr "Ключ API є обов'язковм, щоб користуватися сервісом"
 
-#: dialect/window.py:438
+#: dialect/window.py:445
 msgid "Please set an API key in the preferences."
 msgstr "Будь ласка, встановіть ключ для API у налаштуваннях."
 
-#: dialect/window.py:441 dialect/window.py:1166
-#: dialect/search_provider/search_provider.in:159
+#: dialect/window.py:448 dialect/window.py:1193
+#: dialect/search_provider/search_provider.in:190
 msgid "The provided API key is invalid"
 msgstr "Наданий ключ API є недійсним"
 
-#: dialect/window.py:443
+#: dialect/window.py:450
 msgid "Please set a valid API key in the preferences."
 msgstr "Будь ласка, введіть дійсний ключ API у налаштуваннях."
 
-#: dialect/window.py:446
+#: dialect/window.py:453
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
 "Будь ласка, введіть дійсний ключ API або приберіть його у налаштуваннях."
 
-#: dialect/window.py:471
+#: dialect/window.py:495
 msgid "Failed loading the text-to-speech service. Retry?"
 msgstr "Не вдалося завантажити службу синтезу мовлення. Повторити?"
 
-#: dialect/window.py:472
+#: dialect/window.py:496
 msgid "Failed loading the text-to-speech service"
 msgstr "Не вдалося завантажити службу синтезу мовлення"
 
-#: dialect/window.py:474
+#: dialect/window.py:498
 msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr ""
 "Помилка завантаження служби синтезу мовлення, перевірте наявність проблем з "
 "мережею"
 
-#: dialect/window.py:766
+#: dialect/window.py:542
+#, fuzzy
+msgid "Couldn’t read selection clip board!"
+msgstr "Копіювати переклад у буфер обміну"
+
+#: dialect/window.py:630
+msgid "Did you mean: "
+msgstr "Ви мали на увазі: "
+
+#: dialect/window.py:793
 msgid "Copied to clipboard"
 msgstr "Скопійовано в буфер обміну"
 
-#: dialect/window.py:791
+#: dialect/window.py:824
 msgid "New translation has been suggested!"
 msgstr "Новий переклад було запропоновано!"
 
-#: dialect/window.py:793 dialect/window.py:799
+#: dialect/window.py:826 dialect/window.py:830
 msgid "Suggestion failed."
 msgstr "Пропозиція провалилася."
 
@@ -484,20 +491,16 @@ msgstr "Помилка синтезу мовлення, перевірте на�
 msgid "Text-to-Speech failed. Retry?"
 msgstr "Помилка синтезу мовлення. Повторити?"
 
-#: dialect/window.py:1002
+#: dialect/window.py:971
 msgid "{} characters limit reached!"
 msgstr "Досягнуто обмеження в {} символ(ів)!"
 
-#: dialect/window.py:1123
-msgid "Did you mean: "
-msgstr "Ви мали на увазі: "
-
-#: dialect/window.py:1158 dialect/search_provider/search_provider.in:157
+#: dialect/window.py:1185 dialect/search_provider/search_provider.in:188
 msgid "Translation failed, check for network issues"
 msgstr ""
 "Не вдалося виконати переклад, будь ласка, перевірте з'єднання з мережею"
 
-#: dialect/window.py:1182 dialect/search_provider/search_provider.in:163
+#: dialect/window.py:1209 dialect/search_provider/search_provider.in:194
 msgid "Translation failed"
 msgstr "Помилка перекладу"
 
@@ -551,11 +554,11 @@ msgstr "Світлий стиль"
 msgid "Dark Style"
 msgstr "Темний стиль"
 
-#: dialect/search_provider/search_provider.in:189
+#: dialect/search_provider/search_provider.in:201
 msgid "Translate “{text}” with {provider_name}"
 msgstr "Перекладіть «{text}» за допомогою {provider_name}"
 
-#: dialect/search_provider/search_provider.in:240
+#: dialect/search_provider/search_provider.in:246
 msgid "Copy translation to clipboard"
 msgstr "Копіювати переклад у буфер обміну"
 

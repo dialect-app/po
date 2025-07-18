@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-23 08:40-0500\n"
+"POT-Creation-Date: 2025-07-18 08:35-0500\n"
 "PO-Revision-Date: 2024-12-29 13:00+0000\n"
 "Last-Translator: Danial Behzadi <dani.behzi@ubuntu.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -20,29 +20,28 @@ msgstr ""
 "X-Generator: Weblate 5.10-dev\n"
 
 #. Translators: Do not translate the app name!
-#: data/app.drey.Dialect.desktop.in.in:9
-#: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:74
-#: dialect/window.blp:264
+#: data/app.drey.Dialect.desktop.in.in:8
+#: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:78
 msgid "Dialect"
 msgstr "دایالکت"
 
-#: data/app.drey.Dialect.desktop.in.in:10
+#: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
 msgstr "بازگردانی میان زبان‌ها"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
-#: data/app.drey.Dialect.desktop.in.in:14
+#: data/app.drey.Dialect.desktop.in.in:13
 msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
-"Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate;"
-"ترجمه;بازگردانی;گوگل;بینگ;مایکروسافت;یندکس; "
+"Microsoft Translator;Bing Translator;Microsoft Translator;Yandex "
+"Translate;ترجمه;بازگردانی;گوگل;بینگ;مایکروسافت;یندکس; "
 
 #. For development version
-#: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:186
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:187
 msgid "A translation app for GNOME."
 msgstr "یک کارهٔ ترجمه برای گنوم."
 
@@ -104,17 +103,17 @@ msgstr "نگارندگان دایالکت"
 msgid "Auto"
 msgstr "خودکار"
 
-#: dialect/main.py:187
+#: dialect/main.py:188
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
 msgstr "حق رونوشت ۲۰۲۰-۲۰۲۴ نگارندگان دایالکت"
 
-#: dialect/main.py:189
+#: dialect/main.py:190
 msgid "translator-credits"
 msgstr ""
 "دانیال بهزادی <dani.behzi@ubuntu.com>\n"
 "سهیل خانعلی‌پور"
 
-#: dialect/main.py:190
+#: dialect/main.py:191
 msgid "Donate"
 msgstr "اعانه"
 
@@ -307,7 +306,7 @@ msgstr "خروج"
 msgid "Show Pronunciation"
 msgstr "نمایش بیان"
 
-#: dialect/window.blp:24 dialect/window.py:1176
+#: dialect/window.blp:24 dialect/window.py:1203
 msgid "Preferences"
 msgstr "ترجیحات"
 
@@ -319,149 +318,157 @@ msgstr "میان‌برهای صفحه‌کلید"
 msgid "About Dialect"
 msgstr "دربارهٔ دایالکت"
 
-#: dialect/window.blp:68 dialect/widgets/speech_button.py:40
+#: dialect/window.blp:72 dialect/widgets/speech_button.py:40
 msgid "Loading…"
 msgstr "بار کردن…"
 
-#: dialect/window.blp:92 dialect/window.blp:124 dialect/window.py:903
-#: dialect/window.py:1160 dialect/window.py:1168 dialect/window.py:1184
+#: dialect/window.blp:94 dialect/window.py:903 dialect/window.py:1187
+#: dialect/window.py:1195 dialect/window.py:1211
 msgid "Retry"
 msgstr "تلاش دوباره"
 
-#: dialect/window.blp:102 dialect/window.blp:137 dialect/window.blp:177
-#: dialect/window.blp:213
+#: dialect/window.blp:105 dialect/window.blp:146
 msgid "Open Preferences"
 msgstr "گشودن ترجیحات"
 
-#: dialect/window.blp:167 dialect/window.blp:200
+#: dialect/window.blp:135
 msgid "Remove Key and Retry"
 msgstr "برداشتن کلید و تلاش دوباره"
 
-#: dialect/window.blp:244 dialect/window.blp:566
-msgid "Change Source Language"
-msgstr "تغییر زبان منبع"
-
-#: dialect/window.blp:249 dialect/window.blp:574
-msgid "Switch Languages"
-msgstr "جابه‌جایی زبان‌ها"
-
-#: dialect/window.blp:256 dialect/window.blp:582
-msgid "Change Destination Language"
-msgstr "تغییر زبان مقصد"
-
-#: dialect/window.blp:271
-msgid "Previous Translation"
-msgstr "ترجمهٔ پیشین"
-
-#: dialect/window.blp:277
-msgid "Next Translation"
-msgstr "ترجمهٔ بعدی"
-
-#: dialect/window.blp:284
+#: dialect/window.blp:241
 msgid "Main Menu"
 msgstr "فهرست اصلی"
 
-#: dialect/window.blp:385
+#: dialect/window.blp:250
+msgid "Previous Translation"
+msgstr "ترجمهٔ پیشین"
+
+#: dialect/window.blp:258
+msgid "Next Translation"
+msgstr "ترجمهٔ بعدی"
+
+#: dialect/window.blp:270
+msgid "Change Source Language"
+msgstr "تغییر زبان منبع"
+
+#: dialect/window.blp:275
+msgid "Switch Languages"
+msgstr "جابه‌جایی زبان‌ها"
+
+#: dialect/window.blp:282
+msgid "Change Destination Language"
+msgstr "تغییر زبان مقصد"
+
+#: dialect/window.blp:380
 msgid "Clear"
 msgstr "پاک‌سازی"
 
-#: dialect/window.blp:391
+#: dialect/window.blp:386
 msgid "Paste"
 msgstr "جای‌گذاری"
 
-#: dialect/window.blp:397 dialect/window.blp:515
+#: dialect/window.blp:392 dialect/window.blp:510
 #: dialect/widgets/speech_button.blp:5 dialect/widgets/speech_button.py:22
 msgid "Listen"
 msgstr "شنیدن"
 
-#: dialect/window.blp:418
+#: dialect/window.blp:413
 msgid "Translate"
 msgstr "ترجمه"
 
-#: dialect/window.blp:489
+#: dialect/window.blp:484
 msgid "Translating…"
 msgstr "ترجمه کردن…"
 
-#: dialect/window.blp:494
+#: dialect/window.blp:489
 msgid "Could not Translate the Text"
 msgstr "نتوانست متن را ترجمه کند"
 
-#: dialect/window.blp:501 dialect/search_provider/search_provider.in:239
+#: dialect/window.blp:496 dialect/search_provider/search_provider.in:245
 msgid "Copy"
 msgstr "رونوشت"
 
-#: dialect/window.blp:509
+#: dialect/window.blp:504
 msgid "Suggest Translation"
 msgstr "پیشنهاد ترجمه"
 
-#: dialect/window.blp:533
+#: dialect/window.blp:528
 msgid "Cancel"
 msgstr "لغو"
 
-#: dialect/window.blp:540
+#: dialect/window.blp:535
 msgid "Save"
 msgstr "ذخیره"
 
-#: dialect/window.py:403 dialect/search_provider/search_provider.in:173
-msgid "Failed loading the translation service"
-msgstr "شکست در بار کردن خدمت ترجمه"
-
-#: dialect/window.py:404
-msgid "Please report this in the Dialect bug tracker if the issue persists."
-msgstr "لطفاً در صورت تداوم، این مورد را در ردیاب مشکل دایالکت گزارش کنید."
-
-#: dialect/window.py:415
+#: dialect/window.py:399
 msgid "Couldn’t connect to the translation service"
 msgstr "نتوانست به خدمت ترجمه وصل شود"
 
-#: dialect/window.py:416
+#: dialect/window.py:400
 msgid "We can’t connect to the server. Please check for network issues."
 msgstr "نتوانستیم به کارساز وصل شویم. لطفاً برای مشکلات شبکه بررسی کنید."
 
-#: dialect/window.py:437 dialect/window.py:1174
-#: dialect/search_provider/search_provider.in:161
+#: dialect/window.py:425 dialect/search_provider/search_provider.in:172
+msgid "Failed loading the translation service"
+msgstr "شکست در بار کردن خدمت ترجمه"
+
+#: dialect/window.py:426
+msgid "Please report this in the Dialect bug tracker if the issue persists."
+msgstr "لطفاً در صورت تداوم، این مورد را در ردیاب مشکل دایالکت گزارش کنید."
+
+#: dialect/window.py:444 dialect/window.py:1201
+#: dialect/search_provider/search_provider.in:192
 msgid "API key is required to use the service"
 msgstr "برای استفاده از خدمت، نیاز به کلید API است"
 
-#: dialect/window.py:438
+#: dialect/window.py:445
 msgid "Please set an API key in the preferences."
 msgstr "لطفاً در ترجیحات، کلید APIای تنظیم کنید."
 
-#: dialect/window.py:441 dialect/window.py:1166
-#: dialect/search_provider/search_provider.in:159
+#: dialect/window.py:448 dialect/window.py:1193
+#: dialect/search_provider/search_provider.in:190
 msgid "The provided API key is invalid"
 msgstr "کلید API داده شده نامعتبر است"
 
-#: dialect/window.py:443
+#: dialect/window.py:450
 msgid "Please set a valid API key in the preferences."
 msgstr "لطفاً کلید APIای معتبر در ترجیحات تنظیم کنید."
 
-#: dialect/window.py:446
+#: dialect/window.py:453
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
 "لطفاً کلید APIای معتبر تنظیم یا کلید API موجود در ترجیحات را ناتنظیم کنید."
 
-#: dialect/window.py:471
+#: dialect/window.py:495
 msgid "Failed loading the text-to-speech service. Retry?"
 msgstr "شکست در بار کردن خدمت متن به گفتار. تلاش دوباره؟"
 
-#: dialect/window.py:472
+#: dialect/window.py:496
 msgid "Failed loading the text-to-speech service"
 msgstr "شکست در بار کردن خدمت متن به گفتار"
 
-#: dialect/window.py:474
+#: dialect/window.py:498
 msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr "شکست در بار کردن خدمت متن به گفتار. بررسی مشکلات شبکه‌ای"
 
-#: dialect/window.py:766
+#: dialect/window.py:542
+#, fuzzy
+msgid "Couldn’t read selection clip board!"
+msgstr "رونوشت از ترجمه در تخته‌گیره"
+
+#: dialect/window.py:630
+msgid "Did you mean: "
+msgstr "شاید منظورتان این بود: "
+
+#: dialect/window.py:793
 msgid "Copied to clipboard"
 msgstr "در تخته‌گیره رونوشت شد"
 
-#: dialect/window.py:791
+#: dialect/window.py:824
 msgid "New translation has been suggested!"
 msgstr "ترجمه‌های جدید پیشنهاد شده‌اند!"
 
-#: dialect/window.py:793 dialect/window.py:799
+#: dialect/window.py:826 dialect/window.py:830
 msgid "Suggestion failed."
 msgstr "پیشنهاد شکست خورد."
 
@@ -477,19 +484,15 @@ msgstr "شکست متن به گفتار. بررسی مشکلات شبکه‌ای
 msgid "Text-to-Speech failed. Retry?"
 msgstr "متن به گفتار شکست خورد. تلاش دوباره؟"
 
-#: dialect/window.py:1002
+#: dialect/window.py:971
 msgid "{} characters limit reached!"
 msgstr "به کران {} نویسه رسید!"
 
-#: dialect/window.py:1123
-msgid "Did you mean: "
-msgstr "شاید منظورتان این بود: "
-
-#: dialect/window.py:1158 dialect/search_provider/search_provider.in:157
+#: dialect/window.py:1185 dialect/search_provider/search_provider.in:188
 msgid "Translation failed, check for network issues"
 msgstr "ترجمه شکست خورد. لطفاً برای مشکلات شبکه بررسی کنید"
 
-#: dialect/window.py:1182 dialect/search_provider/search_provider.in:163
+#: dialect/window.py:1209 dialect/search_provider/search_provider.in:194
 msgid "Translation failed"
 msgstr "ترجمه شکست خورد"
 
@@ -543,11 +546,11 @@ msgstr "سبک روشن"
 msgid "Dark Style"
 msgstr "سبک تیره"
 
-#: dialect/search_provider/search_provider.in:189
+#: dialect/search_provider/search_provider.in:201
 msgid "Translate “{text}” with {provider_name}"
 msgstr "ترجمهٔ «{text}» با {provider_name}"
 
-#: dialect/search_provider/search_provider.in:240
+#: dialect/search_provider/search_provider.in:246
 msgid "Copy translation to clipboard"
 msgstr "رونوشت از ترجمه در تخته‌گیره"
 

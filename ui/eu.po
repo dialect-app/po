@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-23 08:40-0500\n"
+"POT-Creation-Date: 2025-07-18 08:35-0500\n"
 "PO-Revision-Date: 2023-09-15 13:55+0000\n"
 "Last-Translator: Sergio Varela <sergitroll9@gmail.com>\n"
 "Language-Team: Basque <https://hosted.weblate.org/projects/dialect/dialect/"
@@ -20,26 +20,25 @@ msgstr ""
 "X-Generator: Weblate 5.0.1-dev\n"
 
 #. Translators: Do not translate the app name!
-#: data/app.drey.Dialect.desktop.in.in:9
-#: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:74
-#: dialect/window.blp:264
+#: data/app.drey.Dialect.desktop.in.in:8
+#: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:78
 msgid "Dialect"
 msgstr "Dialect"
 
-#: data/app.drey.Dialect.desktop.in.in:10
+#: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
 msgstr "Itzuli hizkuntzen artean"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
-#: data/app.drey.Dialect.desktop.in.in:14
+#: data/app.drey.Dialect.desktop.in.in:13
 msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
 
 #. For development version
-#: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:186
+#: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:187
 msgid "A translation app for GNOME."
 msgstr "GNOMErako itzulpen-aplikazio bat."
 
@@ -102,16 +101,16 @@ msgstr "Dialect-en egileak"
 msgid "Auto"
 msgstr "Automatikoa"
 
-#: dialect/main.py:187
+#: dialect/main.py:188
 #, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
 msgstr "Copyright © 2020–⁠2022 Dialect-en egileak"
 
-#: dialect/main.py:189
+#: dialect/main.py:190
 msgid "translator-credits"
 msgstr "Sergio Varela (https://hosted.weblate.org/user/IngrownMink4/)"
 
-#: dialect/main.py:190
+#: dialect/main.py:191
 msgid "Donate"
 msgstr ""
 
@@ -309,7 +308,7 @@ msgstr "Irten"
 msgid "Show Pronunciation"
 msgstr "Erakutsi ahoskera"
 
-#: dialect/window.blp:24 dialect/window.py:1176
+#: dialect/window.blp:24 dialect/window.py:1203
 msgid "Preferences"
 msgstr "Lehentasunak"
 
@@ -321,156 +320,164 @@ msgstr "Teklatu-lasterbideak"
 msgid "About Dialect"
 msgstr "Dialect-i buruz"
 
-#: dialect/window.blp:68 dialect/widgets/speech_button.py:40
+#: dialect/window.blp:72 dialect/widgets/speech_button.py:40
 msgid "Loading…"
 msgstr "Kargatzen…"
 
-#: dialect/window.blp:92 dialect/window.blp:124 dialect/window.py:903
-#: dialect/window.py:1160 dialect/window.py:1168 dialect/window.py:1184
+#: dialect/window.blp:94 dialect/window.py:903 dialect/window.py:1187
+#: dialect/window.py:1195 dialect/window.py:1211
 msgid "Retry"
 msgstr "Berriro saiatu"
 
-#: dialect/window.blp:102 dialect/window.blp:137 dialect/window.blp:177
-#: dialect/window.blp:213
+#: dialect/window.blp:105 dialect/window.blp:146
 msgid "Open Preferences"
 msgstr "Ireki hobespenak"
 
-#: dialect/window.blp:167 dialect/window.blp:200
+#: dialect/window.blp:135
 msgid "Remove Key and Retry"
 msgstr "Ezabatu giltza eta saiatu berriro"
 
-#: dialect/window.blp:244 dialect/window.blp:566
-msgid "Change Source Language"
-msgstr "Jatorrizko hizkuntza aldatu"
-
-#: dialect/window.blp:249 dialect/window.blp:574
-msgid "Switch Languages"
-msgstr "Hizkuntza aldatu"
-
-#: dialect/window.blp:256 dialect/window.blp:582
-msgid "Change Destination Language"
-msgstr "Helmugako hizkuntza aldatu"
-
-#: dialect/window.blp:271
-msgid "Previous Translation"
-msgstr "Aurreko itzulpena"
-
-#: dialect/window.blp:277
-msgid "Next Translation"
-msgstr "Hurrengo itzulpena"
-
-#: dialect/window.blp:284
+#: dialect/window.blp:241
 msgid "Main Menu"
 msgstr "Menu nagusia"
 
-#: dialect/window.blp:385
+#: dialect/window.blp:250
+msgid "Previous Translation"
+msgstr "Aurreko itzulpena"
+
+#: dialect/window.blp:258
+msgid "Next Translation"
+msgstr "Hurrengo itzulpena"
+
+#: dialect/window.blp:270
+msgid "Change Source Language"
+msgstr "Jatorrizko hizkuntza aldatu"
+
+#: dialect/window.blp:275
+msgid "Switch Languages"
+msgstr "Hizkuntza aldatu"
+
+#: dialect/window.blp:282
+msgid "Change Destination Language"
+msgstr "Helmugako hizkuntza aldatu"
+
+#: dialect/window.blp:380
 msgid "Clear"
 msgstr "Garbitu"
 
-#: dialect/window.blp:391
+#: dialect/window.blp:386
 msgid "Paste"
 msgstr "Itsatsi"
 
-#: dialect/window.blp:397 dialect/window.blp:515
+#: dialect/window.blp:392 dialect/window.blp:510
 #: dialect/widgets/speech_button.blp:5 dialect/widgets/speech_button.py:22
 msgid "Listen"
 msgstr "Entzun"
 
-#: dialect/window.blp:418
+#: dialect/window.blp:413
 msgid "Translate"
 msgstr "Itzuli"
 
-#: dialect/window.blp:489
+#: dialect/window.blp:484
 msgid "Translating…"
 msgstr "Itzultzen…"
 
-#: dialect/window.blp:494
+#: dialect/window.blp:489
 msgid "Could not Translate the Text"
 msgstr "Ezin izan da testua itzuli"
 
-#: dialect/window.blp:501 dialect/search_provider/search_provider.in:239
+#: dialect/window.blp:496 dialect/search_provider/search_provider.in:245
 msgid "Copy"
 msgstr "Kopiatu"
 
-#: dialect/window.blp:509
+#: dialect/window.blp:504
 msgid "Suggest Translation"
 msgstr "Iradoki itzulpena"
 
-#: dialect/window.blp:533
+#: dialect/window.blp:528
 msgid "Cancel"
 msgstr "Ezeztatu"
 
-#: dialect/window.blp:540
+#: dialect/window.blp:535
 msgid "Save"
 msgstr "Gorde"
 
-#: dialect/window.py:403 dialect/search_provider/search_provider.in:173
+#: dialect/window.py:399
+msgid "Couldn’t connect to the translation service"
+msgstr "Ezin izan da itzulpen-zerbitzura konektatu"
+
+#: dialect/window.py:400
+msgid "We can’t connect to the server. Please check for network issues."
+msgstr "Ezin dugu zerbitzariarekin konektatu. Mesedez, aztertu sareko arazoak."
+
+#: dialect/window.py:425 dialect/search_provider/search_provider.in:172
 msgid "Failed loading the translation service"
 msgstr "Errorea itzulpen-zerbitzua kargatzean"
 
-#: dialect/window.py:404
+#: dialect/window.py:426
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
 "Mesedez, bidali honen berri Dialect-en bug trackerrean, erroreak bere "
 "horretan jarraitzen badu."
 
-#: dialect/window.py:415
-msgid "Couldn’t connect to the translation service"
-msgstr "Ezin izan da itzulpen-zerbitzura konektatu"
-
-#: dialect/window.py:416
-msgid "We can’t connect to the server. Please check for network issues."
-msgstr "Ezin dugu zerbitzariarekin konektatu. Mesedez, aztertu sareko arazoak."
-
-#: dialect/window.py:437 dialect/window.py:1174
-#: dialect/search_provider/search_provider.in:161
+#: dialect/window.py:444 dialect/window.py:1201
+#: dialect/search_provider/search_provider.in:192
 msgid "API key is required to use the service"
 msgstr "APIko giltza bat behar da zerbitzu hau erabiltzeko"
 
-#: dialect/window.py:438
+#: dialect/window.py:445
 msgid "Please set an API key in the preferences."
 msgstr "Mesedez, konfiguratu API giltza bat hobespesunetan."
 
-#: dialect/window.py:441 dialect/window.py:1166
-#: dialect/search_provider/search_provider.in:159
+#: dialect/window.py:448 dialect/window.py:1193
+#: dialect/search_provider/search_provider.in:190
 msgid "The provided API key is invalid"
 msgstr "Emandako API giltza baliogabea da"
 
-#: dialect/window.py:443
+#: dialect/window.py:450
 msgid "Please set a valid API key in the preferences."
 msgstr "Mesedez, konfiguratu API giltza bat hobespesunetan baliozkoa."
 
-#: dialect/window.py:446
+#: dialect/window.py:453
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
 "Mesedez, konfiguratu API giltza baliozkotu bat edo kendu API giltza "
 "lehentasunetan."
 
-#: dialect/window.py:471
+#: dialect/window.py:495
 #, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
 msgstr "Errorea itzulpen-zerbitzua kargatzean"
 
-#: dialect/window.py:472
+#: dialect/window.py:496
 #, fuzzy
 msgid "Failed loading the text-to-speech service"
 msgstr "Errorea itzulpen-zerbitzua kargatzean"
 
-#: dialect/window.py:474
+#: dialect/window.py:498
 #, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr "Ezin dugu zerbitzariarekin konektatu. Mesedez, aztertu sareko arazoak."
 
-#: dialect/window.py:766
+#: dialect/window.py:542
+#, fuzzy
+msgid "Couldn’t read selection clip board!"
+msgstr "Kopiatu itzulpena"
+
+#: dialect/window.py:630
+msgid "Did you mean: "
+msgstr "Zera esan nahi duzu: "
+
+#: dialect/window.py:793
 #, fuzzy
 msgid "Copied to clipboard"
 msgstr "Kopiatu itzulpena"
 
-#: dialect/window.py:791
+#: dialect/window.py:824
 msgid "New translation has been suggested!"
 msgstr "Itzulpen berri bat iradoki da!"
 
-#: dialect/window.py:793 dialect/window.py:799
+#: dialect/window.py:826 dialect/window.py:830
 msgid "Suggestion failed."
 msgstr "Iradokizunak huts egin zuen."
 
@@ -489,19 +496,15 @@ msgstr "Itzulpenak huts egin du, egiaztatu sareko arazorik dagoen"
 msgid "Text-to-Speech failed. Retry?"
 msgstr "Ahozko-testua"
 
-#: dialect/window.py:1002
+#: dialect/window.py:971
 msgid "{} characters limit reached!"
 msgstr "{} karaktereko mugara iritsi zara!"
 
-#: dialect/window.py:1123
-msgid "Did you mean: "
-msgstr "Zera esan nahi duzu: "
-
-#: dialect/window.py:1158 dialect/search_provider/search_provider.in:157
+#: dialect/window.py:1185 dialect/search_provider/search_provider.in:188
 msgid "Translation failed, check for network issues"
 msgstr "Itzulpenak huts egin du, egiaztatu sareko arazorik dagoen"
 
-#: dialect/window.py:1182 dialect/search_provider/search_provider.in:163
+#: dialect/window.py:1209 dialect/search_provider/search_provider.in:194
 msgid "Translation failed"
 msgstr "Itzulpenak huts egin dute"
 
@@ -557,11 +560,11 @@ msgstr "Estilo argia"
 msgid "Dark Style"
 msgstr "Estilo iluna"
 
-#: dialect/search_provider/search_provider.in:189
+#: dialect/search_provider/search_provider.in:201
 msgid "Translate “{text}” with {provider_name}"
 msgstr ""
 
-#: dialect/search_provider/search_provider.in:240
+#: dialect/search_provider/search_provider.in:246
 #, fuzzy
 msgid "Copy translation to clipboard"
 msgstr "Kopiatu itzulpena"
