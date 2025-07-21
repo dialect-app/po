@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2024-10-06 21:28+0000\n"
+"PO-Revision-Date: 2025-07-21 08:02+0000\n"
 "Last-Translator: Fabio Tomat <f.t.public@gmail.com>\n"
 "Language-Team: Friulian <https://hosted.weblate.org/projects/dialect/dialect/"
 "fur/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -456,9 +456,8 @@ msgstr ""
 "di rêt"
 
 #: dialect/window.py:542
-#, fuzzy
 msgid "Couldn’t read selection clip board!"
-msgstr "Copie la traduzion intes notis"
+msgstr "Impussibil lei lis notis di selezion!"
 
 #: dialect/window.py:630
 msgid "Did you mean: "
