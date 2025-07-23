@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2025-06-07 07:01+0000\n"
+"PO-Revision-Date: 2025-07-23 10:05+0000\n"
 "Last-Translator: Zhong Lufan <lufanzhong@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/dialect/dialect/zh_Hans/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -446,9 +446,8 @@ msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr "加载文字到语音服务失败，检查网络问题"
 
 #: dialect/window.py:542
-#, fuzzy
 msgid "Couldn’t read selection clip board!"
-msgstr "复制翻译到剪贴板"
+msgstr "无法读取选中的剪贴板！"
 
 #: dialect/window.py:630
 msgid "Did you mean: "
