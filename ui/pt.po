@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2024-10-30 19:01+0000\n"
+"PO-Revision-Date: 2025-07-24 15:03+0000\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/dialect/"
 "dialect/pt/>\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8.2-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -457,9 +457,8 @@ msgstr ""
 "problemas de rede"
 
 #: dialect/window.py:542
-#, fuzzy
 msgid "Couldn’t read selection clip board!"
-msgstr "Copiar tradução para a área de transferência"
+msgstr "Não foi possível ler a área de transferência!"
 
 #: dialect/window.py:630
 msgid "Did you mean: "
