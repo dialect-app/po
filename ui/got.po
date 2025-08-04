@@ -8,25 +8,28 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-08-04 00:02+0000\n"
+"Last-Translator: Roel v <roel11112@live.nl>\n"
+"Language-Team: Gothic <https://hosted.weblate.org/projects/dialect/dialect/"
+"got/>\n"
 "Language: got\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:78
+#, fuzzy
 msgid "Dialect"
-msgstr ""
+msgstr "Dialect"
 
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
-msgstr ""
+msgstr "𐌲𐌰𐍃𐌺𐌴𐌹𐍂𐌴𐌹 𐌼𐌹𐌸 𐍂𐌰𐌶𐌳𐍉𐌼"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:13
@@ -38,7 +41,7 @@ msgstr ""
 #. For development version
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:187
 msgid "A translation app for GNOME."
-msgstr ""
+msgstr "𐌰𐍀𐍀 𐌲𐌰𐍃𐌺𐌴𐌹𐍂𐌴𐌹𐌽𐌰𐌹𐍃 𐍆𐌰𐌿𐍂 𐌲𐌽𐍉𐌼."
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
@@ -72,7 +75,7 @@ msgstr ""
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
-msgstr ""
+msgstr "𐌱𐍉𐌺𐍉 𐌳𐌿 𐍃𐍄𐌹𐌱𐌽𐌰𐌹"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Translation history"
@@ -94,7 +97,7 @@ msgstr ""
 
 #: dialect/languages.py:63 dialect/widgets/lang_selector.py:84
 msgid "Auto"
-msgstr ""
+msgstr "𐍃𐌹𐌻𐌱𐌰𐍄𐌰𐌿𐌾𐌰𐌽𐌳𐍉"
 
 #: dialect/main.py:188
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
@@ -106,7 +109,7 @@ msgstr ""
 
 #: dialect/main.py:191
 msgid "Donate"
-msgstr ""
+msgstr "𐌰𐌽𐌳𐍃𐍄𐌰𐌻𐌳𐌰𐌽"
 
 #: dialect/preferences.py:132
 msgid "Edit Provider Settings"
@@ -122,15 +125,15 @@ msgstr ""
 
 #: dialect/preferences.ui:11
 msgid "Translator"
-msgstr ""
+msgstr "𐍃𐌺𐌴𐌹𐍂𐌾𐌰"
 
 #: dialect/preferences.ui:12
 msgid "Choose from the available translation services."
-msgstr ""
+msgstr "𐍅𐌰𐌻𐌴𐌹 𐍃𐌿𐌼𐌰𐌽𐌰 𐍅𐌹𐍃𐌰𐌽𐌳𐌰𐌽𐌴 𐍃𐌺𐌰𐌻𐌺𐌹𐌽𐌰𐍃𐍃𐌹𐍅𐌴 𐌲𐌰𐍃𐌺𐌴𐌹𐍂𐌴𐌹𐌽𐌰𐌹𐍃."
 
 #: dialect/preferences.ui:43
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "𐌱𐍉𐌺𐍉-𐌳𐌿-𐍃𐍄𐌹𐌱𐌽𐌰𐌹"
 
 #: dialect/preferences.ui:44
 msgid "Choose from the available TTS services."
@@ -138,7 +141,7 @@ msgstr ""
 
 #: dialect/preferences.ui:77
 msgid "Behavior"
-msgstr ""
+msgstr "𐌿𐍃𐌼𐌴𐍄"
 
 #: dialect/preferences.ui:80
 msgid "Live Translation"
@@ -170,7 +173,7 @@ msgstr ""
 
 #: dialect/preferences.ui:115
 msgid "Use \"Auto\" as the default language"
-msgstr ""
+msgstr "𐌱𐍂𐌿𐌺𐌴𐌹 \"𐍃𐌹𐌻𐌱𐌰𐍄𐌰𐌿𐌾𐌰𐌽𐌳𐍉\" 𐍃𐍅𐌴 𐍂𐌰𐌶𐌳𐌰 𐌱𐌹𐌿𐌷𐍄𐌰"
 
 #: dialect/preferences.ui:122
 msgid "Appearance"
@@ -195,32 +198,32 @@ msgstr ""
 #: dialect/shortcuts.blp:13
 msgctxt "shortcuts window"
 msgid "Translator"
-msgstr ""
+msgstr "𐍃𐌺𐌴𐌹𐍂𐌾𐌰"
 
 #: dialect/shortcuts.blp:16
 msgctxt "shortcuts window"
 msgid "Translate"
-msgstr ""
+msgstr "𐍃𐌺𐌴𐌹𐍂𐌾𐌰𐌽"
 
 #: dialect/shortcuts.blp:21
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr ""
+msgstr "𐌹𐌽𐌼𐌰𐌹𐌳𐌴𐌹 𐍂𐌰𐌶𐌳𐍉𐍃"
 
 #: dialect/shortcuts.blp:26
 msgctxt "shortcuts window"
 msgid "Select source language"
-msgstr ""
+msgstr "𐍅𐌰𐌻𐌴𐌹 𐍂𐌰𐌶𐌳𐌰 𐌱𐍂𐌿𐌽𐌽𐌹𐌽𐍃"
 
 #: dialect/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Select destination language"
-msgstr ""
+msgstr "𐍅𐌰𐌻𐌴𐌹 𐍂𐌰𐌶𐌳𐌰 𐌼𐌿𐌽𐌳𐍂𐌴𐌹𐌽𐍃"
 
 #: dialect/shortcuts.blp:36
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "𐌰𐍆𐌷𐍂𐌰𐌹𐌽𐌴𐌹 𐌱𐍂𐌿𐌽𐌽𐌰𐌱𐍉𐌺𐍉𐍃"
 
 #: dialect/shortcuts.blp:41
 msgctxt "shortcuts window"
@@ -275,7 +278,7 @@ msgstr ""
 #: dialect/shortcuts.blp:90
 msgctxt "shortcuts window"
 msgid "General"
-msgstr ""
+msgstr "𐌲𐌰𐌼𐌰𐌹𐌽"
 
 #: dialect/shortcuts.blp:93
 msgctxt "shortcuts window"
