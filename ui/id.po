@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2024-01-21 05:01+0000\n"
+"PO-Revision-Date: 2025-08-28 03:02+0000\n"
 "Last-Translator: leap123 <76893443+leap0x7b@users.noreply.github.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/dialect/"
 "dialect/id/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.13\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -55,12 +55,12 @@ msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
-"Terjemahan berdasarkan LibreTranslate API, memungkinkan Anda menggunakan "
-"instance publik apa pun"
+"Terjemahan berdasarkan API LibreTranslate, memungkinkan Anda menggunakan "
+"instansi publik apa pun"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
-msgstr "Terjemahan berdasarkan Lingva Translate API"
+msgstr "Terjemahan berdasarkan API Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Translation based on Bing"
@@ -71,9 +71,8 @@ msgid "Translation based on Yandex"
 msgstr "Terjemahan berdasarkan Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "Terjemahan berdasarkan Yandex"
+msgstr "Terjemahan berdasarkan DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
