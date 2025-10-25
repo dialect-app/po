@@ -7,8 +7,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2024-07-25 19:09+0000\n"
-"Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
+"PO-Revision-Date: 2025-10-25 10:02+0000\n"
+"Last-Translator: Sabri Ünal <yakushabb@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/dialect/dialect/"
 "tr/>\n"
 "Language: tr\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.14.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -102,7 +102,6 @@ msgid "Auto"
 msgstr "Otomatik"
 
 #: dialect/main.py:188
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
 msgstr "Telif Hakkı 2020–⁠2024 Dialect Yazarları"
 
@@ -139,7 +138,7 @@ msgstr "Kullanılabilir çeviri hizmetleri arasından seçim yapın."
 
 #: dialect/preferences.ui:43
 msgid "Text-to-Speech"
-msgstr "Metinden Sese"
+msgstr "Metinden Konuşmaya"
 
 #: dialect/preferences.ui:44
 msgid "Choose from the available TTS services."
@@ -254,7 +253,7 @@ msgstr "Yazı tipi boyutunu azalt"
 #: dialect/shortcuts.blp:62
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr "Metinden Sese"
+msgstr "Metinden Konuşmaya"
 
 #: dialect/shortcuts.blp:65
 msgctxt "shortcuts window"
@@ -440,33 +439,29 @@ msgstr ""
 "kaldırın."
 
 #: dialect/window.py:495
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "Çeviri hizmeti yüklenemedi"
+msgstr "Metinden konuşmaya hizmeti yüklenemedi. Yeniden denensin mi?"
 
 #: dialect/window.py:496
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "Çeviri hizmeti yüklenemedi"
+msgstr "Metinden konuşmaya hizmeti yüklenemedi"
 
 #: dialect/window.py:498
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
-msgstr "Sunucuya bağlanamıyor. Lütfen ağ sorunlarını denetleyin."
+msgstr ""
+"Metinden konuşmaya hizmeti yüklenemedi. Lütfen ağ sorunlarını denetleyin"
 
 #: dialect/window.py:542
-#, fuzzy
 msgid "Couldn’t read selection clip board!"
-msgstr "Çeviriyi panoya kopyala"
+msgstr "Seçim panosu okunamadı!"
 
 #: dialect/window.py:630
 msgid "Did you mean: "
 msgstr "Bunu mu demek istediniz: "
 
 #: dialect/window.py:793
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "Çeviriyi panoya kopyala"
+msgstr "Panoya kopyalandı"
 
 #: dialect/window.py:824
 msgid "New translation has been suggested!"
@@ -477,19 +472,16 @@ msgid "Suggestion failed."
 msgstr "Öneri başarısız oldu."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "Metinden Sese"
+msgstr "Metinden konuşmaya başarısız oldu"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "Çeviri başarısız oldu, ağ sorunlarını denetleyin"
+msgstr "Metinden konuşmaya başarısız oldu. Ağ sorunlarını denetleyin"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Metinden Sese"
+msgstr "Metinden konuşmaya başarısız oldu. Yeniden denensin mi?"
 
 #: dialect/window.py:971
 msgid "{} characters limit reached!"
@@ -538,9 +530,8 @@ msgid "Character Usage"
 msgstr "Karakter Kullanımı"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "İptal"
+msgstr "Sesi İptal Et"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
