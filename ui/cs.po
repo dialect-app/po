@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2025-05-26 03:43+0000\n"
-"Last-Translator: John Smith <codegemjava@gmail.com>\n"
+"PO-Revision-Date: 2025-11-06 21:51+0000\n"
+"Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/dialect/dialect/cs/"
 ">\n"
 "Language: cs\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -103,9 +103,8 @@ msgid "Auto"
 msgstr "Automatický"
 
 #: dialect/main.py:188
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Copyright 2020–⁠2024 autoři Dialektu"
+msgstr "Autorská práva 2020–⁠2024 autoři Dialektu"
 
 #: dialect/main.py:190
 msgid "translator-credits"
@@ -452,9 +451,8 @@ msgstr ""
 "Nepodařilo se načíst službu pro převod textu na řeč, zkontrolujte prosím síť"
 
 #: dialect/window.py:542
-#, fuzzy
 msgid "Couldn’t read selection clip board!"
-msgstr "Kopírovat překlad"
+msgstr "Nebylo možné číst schránku výběru!"
 
 #: dialect/window.py:630
 msgid "Did you mean: "
@@ -531,9 +529,8 @@ msgid "Character Usage"
 msgstr "Používání znaků"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "Zrušit"
+msgstr "Zrušit zvuk"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
@@ -552,9 +549,8 @@ msgid "Translate “{text}” with {provider_name}"
 msgstr "Přeložit „{text}“ pomocí {provider_name}"
 
 #: dialect/search_provider/search_provider.in:246
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "Kopírovat překlad"
+msgstr "Zkopírovat překlad do schránky"
 
 #~ msgid "A network issue has occurred. Retry?"
 #~ msgstr "Došlo k problému se sítí. Zkusit znovu?"
