@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2024-10-02 00:15+0000\n"
+"PO-Revision-Date: 2025-11-24 00:51+0000\n"
 "Last-Translator: ovari <ovari123@zoho.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/dialect/"
 "dialect/hu/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -403,7 +403,7 @@ msgstr "Mentés"
 
 #: dialect/window.py:399
 msgid "Couldn’t connect to the translation service"
-msgstr "Nem sikerült kapcsolódni a fordítási szolgáltatáshoz"
+msgstr "Nem sikerült kapcsolódni a fordítási szolgáltatáshoz."
 
 #: dialect/window.py:400
 msgid "We can’t connect to the server. Please check for network issues."
@@ -459,9 +459,8 @@ msgstr ""
 "hálózati hibákat"
 
 #: dialect/window.py:542
-#, fuzzy
 msgid "Couldn’t read selection clip board!"
-msgstr "Fordítás másolása a vágólapra"
+msgstr "Nem sikerült beolvasni a kijelölő vágólap."
 
 #: dialect/window.py:630
 msgid "Did you mean: "
