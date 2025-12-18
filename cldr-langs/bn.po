@@ -127,7 +127,7 @@ msgid "Basaa"
 msgstr "বাসা"
 
 msgid "Belarusian"
-msgstr "বেলারুশিয়"
+msgstr "বেলারুশীয়"
 
 msgid "Beja"
 msgstr "বেজা"
@@ -247,7 +247,7 @@ msgid "Chipewyan"
 msgstr "চিপেওয়ান"
 
 msgid "Cherokee"
-msgstr "চেরোকী"
+msgstr "চেরোকি"
 
 msgid "Cheyenne"
 msgstr "চেইয়েন"
@@ -349,7 +349,7 @@ msgid "Dogri"
 msgstr "ডোগরি"
 
 msgid "Lower Sorbian"
-msgstr "নিম্নতর সোর্বিয়ান"
+msgstr "সোর্বিয়ান (নিম্নতর)"
 
 msgid "Duala"
 msgstr "দুয়ালা"
@@ -399,11 +399,8 @@ msgstr "ইংরেজি"
 msgid "UK English"
 msgstr "ইংরেজি (যুক্তরাজ্য)"
 
-msgid "American English"
-msgstr "ইংরেজি (আমেরিকা)"
-
 msgid "US English"
-msgstr "ইংরেজি (যুক্তরাষ্ট্র)"
+msgstr "ইংরেজি (মার্কিন যুক্তরাষ্ট্র)"
 
 msgid "Middle English"
 msgstr "মধ্য ইংরেজি"
@@ -439,7 +436,7 @@ msgid "Fanti"
 msgstr "ফান্তি"
 
 msgid "Fula"
-msgstr "ফুলাহ্"
+msgstr "ফুলা"
 
 msgid "Finnish"
 msgstr "ফিনিশ"
@@ -508,7 +505,7 @@ msgid "Gilbertese"
 msgstr "গিলবার্টিজ"
 
 msgid "Galician"
-msgstr "গ্যালিশিয়"
+msgstr "গ্যালিশীয়"
 
 msgid "Middle High German"
 msgstr "মধ্য-উচ্চ জার্মানি"
@@ -586,7 +583,7 @@ msgid "Croatian"
 msgstr "ক্রোয়েশীয়"
 
 msgid "Upper Sorbian"
-msgstr "উচ্চ সোর্বিয়ান"
+msgstr "সোর্বিয়ান (উচ্চ)"
 
 msgid "Xiang Chinese"
 msgstr "Xiang চীনা"
@@ -625,7 +622,7 @@ msgid "Interlingue"
 msgstr "ইন্টারলিঙ্গ"
 
 msgid "Igbo"
-msgstr "ইগ্‌বো"
+msgstr "ইগবো"
 
 msgid "Sichuan Yi"
 msgstr "সিচুয়ান য়ি"
@@ -649,7 +646,7 @@ msgid "Icelandic"
 msgstr "আইসল্যান্ডীয়"
 
 msgid "Italian"
-msgstr "ইতালিয়"
+msgstr "ইতালীয়"
 
 msgid "Inuktitut"
 msgstr "ইনুক্টিটুট"
@@ -760,7 +757,7 @@ msgid "Komi-Permyak"
 msgstr "কমি-পারমিআক"
 
 msgid "Konkani"
-msgstr "কোঙ্কানি"
+msgstr "কোঙ্কণী"
 
 msgid "Kosraean"
 msgstr "কোস্রাইন"
@@ -795,6 +792,12 @@ msgstr "কলোগনিয়ান"
 msgid "Kurdish"
 msgstr "কুর্দিশ"
 
+msgid "Kurdish"
+msgstr "কুর্দিশ"
+
+msgid "Kurmanji"
+msgstr "কুরমাঞ্জি"
+
 msgid "Kumyk"
 msgstr "কুমিয়াক"
 
@@ -814,7 +817,7 @@ msgid "Kuvi"
 msgstr "কুভি"
 
 msgid "Kyrgyz"
-msgstr "কির্গিজ"
+msgstr "কিরগিজ"
 
 msgid "Latin"
 msgstr "লাতিন"
@@ -877,7 +880,7 @@ msgid "Saamia"
 msgstr "সামিয়া"
 
 msgid "Lithuanian"
-msgstr "লিথুয়েনীয়"
+msgstr "লিথুয়ানীয়"
 
 msgid "Luba-Katanga"
 msgstr "লুবা-কাটাঙ্গা"
@@ -901,7 +904,7 @@ msgid "Luyia"
 msgstr "লুইয়া"
 
 msgid "Latvian"
-msgstr "লাত্‌ভীয়"
+msgstr "লাটভিয়"
 
 msgid "Madurese"
 msgstr "মাদুরেজ"
@@ -961,13 +964,13 @@ msgid "Minangkabau"
 msgstr "মিনাংকাবাউ"
 
 msgid "Macedonian"
-msgstr "ম্যাসিডোনীয়"
+msgstr "ম্যাসেডোনিয়া"
 
 msgid "Malayalam"
-msgstr "মালায়ালাম"
+msgstr "মালয়ালম"
 
 msgid "Mongolian"
-msgstr "মঙ্গোলিয়"
+msgstr "মোঙ্গোলীয়"
 
 msgid "Manchu"
 msgstr "মাঞ্চু"
@@ -991,7 +994,7 @@ msgid "Malay"
 msgstr "মালয়"
 
 msgid "Maltese"
-msgstr "মল্টিয়"
+msgstr "মল্টীয়"
 
 msgid "Mundang"
 msgstr "মুদাঙ্গ"
@@ -1033,13 +1036,13 @@ msgid "North Ndebele"
 msgstr "উত্তর এন্দেবেলে"
 
 msgid "Low German"
-msgstr "নিম্ন জার্মানি"
+msgstr "জার্মান (নিম্ন)"
 
 msgid "Low Saxon"
 msgstr "লো স্যাক্সন"
 
 msgid "Nepali"
-msgstr "নেপালী"
+msgstr "নেপালি"
 
 msgid "Newari"
 msgstr "নেওয়ারি"
@@ -1132,7 +1135,7 @@ msgid "Okanagan"
 msgstr "ওকানাগান"
 
 msgid "Oromo"
-msgstr "অরোমো"
+msgstr "ওরোমো"
 
 msgid "Odia"
 msgstr "ওড়িয়া"
@@ -1147,7 +1150,7 @@ msgid "Ottoman Turkish"
 msgstr "অটোমান তুর্কি"
 
 msgid "Punjabi"
-msgstr "পাঞ্জাবী"
+msgstr "পাঞ্জাবি"
 
 msgid "Pangasinan"
 msgstr "পাঙ্গাসিনান"
@@ -1165,7 +1168,7 @@ msgid "Palauan"
 msgstr "পালায়ুয়ান"
 
 msgid "Nigerian Pidgin"
-msgstr "নাইজেরিয় পিজিন"
+msgstr "নাইজেরীয় পিজিন"
 
 msgid "Old Persian"
 msgstr "প্রাচীন ফার্সি"
@@ -1197,14 +1200,14 @@ msgstr "প্রাচীন প্রোভেনসাল"
 msgid "Pashto"
 msgstr "পাশতু"
 
-msgid "Pushto"
-msgstr "পুশতো"
-
 msgid "Portuguese"
-msgstr "পর্তুগীজ"
+msgstr "পর্তুগিজ"
+
+msgid "Brazilian Portuguese"
+msgstr "পর্তুগিজ (ব্রাজিল)"
 
 msgid "European Portuguese"
-msgstr "পর্তুগীজ (ইউরোপ)"
+msgstr "পর্তুগিজ (ইউরোপ)"
 
 msgid "Quechua"
 msgstr "কেচুয়া"
@@ -1261,7 +1264,7 @@ msgid "Sandawe"
 msgstr "সান্দাওয়ে"
 
 msgid "Yakut"
-msgstr "শাখা"
+msgstr "ইয়াকুট"
 
 msgid "Samaritan Aramaic"
 msgstr "সামারিটান আরামিক"
@@ -1324,7 +1327,7 @@ msgid "Shan"
 msgstr "শান"
 
 msgid "Sinhala"
-msgstr "সিংহলী"
+msgstr "সিংহলি"
 
 msgid "Sidamo"
 msgstr "সিডামো"
@@ -1467,7 +1470,7 @@ msgstr "টিভ"
 msgid "Turkmen"
 msgstr "তুর্কমেনী"
 
-msgid "Tokelau"
+msgid "Tokelauan"
 msgstr "টোকেলাউ"
 
 msgid "Tagalog"
@@ -1498,7 +1501,7 @@ msgid "Tok Pisin"
 msgstr "টোক পিসিন"
 
 msgid "Turkish"
-msgstr "তুর্কী"
+msgstr "তুর্কি"
 
 msgid "Taroko"
 msgstr "তারোকো"
@@ -1612,7 +1615,7 @@ msgid "Kalmyk"
 msgstr "কাল্মাইক"
 
 msgid "Xhosa"
-msgstr "জোসা"
+msgstr "খোসা"
 
 msgid "Kangri"
 msgstr "কাংরি"
@@ -1645,10 +1648,10 @@ msgid "Cantonese"
 msgstr "ক্যান্টোনিজ"
 
 msgid "Chinese, Cantonese"
-msgstr "চীনা, ক্যানটোনীজ"
+msgstr "চীনা, ক্যান্টোনিজ"
 
 msgid "Zhuang"
-msgstr "ঝু্য়াঙ"
+msgstr "ঝুয়াং"
 
 msgid "Zapotec"
 msgstr "জাপোটেক"
@@ -1669,7 +1672,7 @@ msgid "Chinese, Mandarin"
 msgstr "চীনা, ম্যান্ডারিন"
 
 msgid "Simplified Mandarin Chinese"
-msgstr "চীনা ম্যান্ডারিন সরলীকৃত"
+msgstr "চীনা ম্যান্ডারিন (সরলীকৃত)"
 
 msgid "Traditional Mandarin Chinese"
 msgstr "ম্যান্ডারিন চীনা (ঐতিহ্যবাহী)"

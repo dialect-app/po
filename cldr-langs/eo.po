@@ -12,17 +12,68 @@ msgstr "afara"
 msgid "Abkhazian"
 msgstr "abĥaza"
 
+msgid "Acehnese"
+msgstr "aĉea"
+
+msgid "Adangme"
+msgstr "dangba"
+
+msgid "Adyghe"
+msgstr "adigea"
+
 msgid "Afrikaans"
 msgstr "afrikansa"
+
+msgid "Ainu"
+msgstr "ajnua"
+
+msgid "Akan"
+msgstr "akana"
+
+msgid "Aleut"
+msgstr "aleuta"
+
+msgid "Southern Altai"
+msgstr "sud-altaja"
 
 msgid "Amharic"
 msgstr "amhara"
 
+msgid "Aragonese"
+msgstr "aragona"
+
+msgid "Angika"
+msgstr "angika"
+
 msgid "Arabic"
 msgstr "araba"
 
+msgid "Modern Standard Arabic"
+msgstr "araba moderna norma"
+
+msgid "Mapuche"
+msgstr "mapuĉa"
+
+msgid "Arapaho"
+msgstr "arapaha"
+
+msgid "Najdi Arabic"
+msgstr "araba naĝda"
+
 msgid "Assamese"
 msgstr "asama"
+
+msgid "Asturian"
+msgstr "astura"
+
+msgid "Atikamekw"
+msgstr "atikameka"
+
+msgid "Avaric"
+msgstr "avara"
+
+msgid "Awadhi"
+msgstr "avadhia"
 
 msgid "Aymara"
 msgstr "ajmara"
@@ -30,17 +81,56 @@ msgstr "ajmara"
 msgid "Azerbaijani"
 msgstr "azerbajĝana"
 
+msgid "Azeri"
+msgstr "azera"
+
 msgid "Bashkir"
 msgstr "baŝkira"
+
+msgid "Baluchi"
+msgstr "baluĉa"
+
+msgid "Balinese"
+msgstr "balia"
+
+msgid "Basaa"
+msgstr "basaa"
 
 msgid "Belarusian"
 msgstr "belorusa"
 
+msgid "Bemba"
+msgstr "bemba"
+
+msgid "Betawi"
+msgstr "batavia"
+
+msgid "Bena"
+msgstr "benaa"
+
 msgid "Bulgarian"
 msgstr "bulgara"
 
+msgid "Haryanvi"
+msgstr "harjana"
+
+msgid "Bhojpuri"
+msgstr "boĝpura"
+
 msgid "Bislama"
-msgstr "bislamo"
+msgstr "Bislamo"
+
+msgid "Bini"
+msgstr "edoa"
+
+msgid "Siksiká"
+msgstr "nigrapieda"
+
+msgid "Anii"
+msgstr "aniia"
+
+msgid "Bambara"
+msgstr "bambara"
 
 msgid "Bangla"
 msgstr "bengala"
@@ -48,20 +138,113 @@ msgstr "bengala"
 msgid "Tibetan"
 msgstr "tibeta"
 
+msgid "Bakhtiari"
+msgstr "baĥtiara"
+
 msgid "Breton"
 msgstr "bretona"
+
+msgid "Bodo"
+msgstr "bodoa"
 
 msgid "Bosnian"
 msgstr "bosna"
 
+msgid "Buriat"
+msgstr "burjata"
+
+msgid "Buginese"
+msgstr "buĝia"
+
+msgid "Blin"
+msgstr "bilena"
+
 msgid "Catalan"
 msgstr "kataluna"
+
+msgid "Cayuga"
+msgstr "kajuga"
+
+msgid "Chakma"
+msgstr "ĉakma"
+
+msgid "Chechen"
+msgstr "ĉeĉena"
+
+msgid "Cebuano"
+msgstr "cebua"
+
+msgid "Chiga"
+msgstr "kigaa"
+
+msgid "Chamorro"
+msgstr "ĉamora"
+
+msgid "Chuukese"
+msgstr "ĉuuka"
+
+msgid "Mari"
+msgstr "maria"
+
+msgid "Choctaw"
+msgstr "ĉaktaa"
+
+msgid "Chipewyan"
+msgstr "ĉipevajana"
+
+msgid "Cherokee"
+msgstr "ĉeroka"
+
+msgid "Cheyenne"
+msgstr "ĉejena"
+
+msgid "Central Kurdish"
+msgstr "kurda centra"
+
+msgid "Kurdish, Central"
+msgstr "kurda, centra"
+
+msgid "Kurdish, Sorani"
+msgstr "kurda, sorana"
+
+msgid "Chilcotin"
+msgstr "ĉilkotina"
 
 msgid "Corsican"
 msgstr "korsika"
 
+msgid "Coptic"
+msgstr "kopta"
+
+msgid "Michif"
+msgstr "miĉifa"
+
+msgid "Southern East Cree"
+msgstr "kria jakob-golfa suda"
+
+msgid "Plains Cree"
+msgstr "kria preria"
+
+msgid "Northern East Cree"
+msgstr "kria jakob-golfa norda"
+
+msgid "Moose Cree"
+msgstr "kria alka"
+
+msgid "Carolina Algonquian"
+msgstr "algonkena (Norda Karolino)"
+
 msgid "Czech"
 msgstr "ĉeĥa"
+
+msgid "Swampy Cree"
+msgstr "kria marĉa"
+
+msgid "Church Slavic"
+msgstr "malnovslava"
+
+msgid "Chuvash"
+msgstr "ĉuvaŝa"
 
 msgid "Welsh"
 msgstr "kimra"
@@ -69,17 +252,62 @@ msgstr "kimra"
 msgid "Danish"
 msgstr "dana"
 
+msgid "Dakota"
+msgstr "dakota"
+
+msgid "Dargwa"
+msgstr "dargva"
+
+msgid "Taita"
+msgstr "taitaa"
+
 msgid "German"
 msgstr "germana"
+
+msgid "Austrian German"
+msgstr "germana aŭstra"
+
+msgid "Swiss High German"
+msgstr "germana svisa"
+
+msgid "Dogrib"
+msgstr "dogriba"
+
+msgid "Zarma"
+msgstr "zarmaa"
+
+msgid "Dogri"
+msgstr "dogra"
+
+msgid "Lower Sorbian"
+msgstr "malsuprasoraba"
+
+msgid "Duala"
+msgstr "dualaa"
 
 msgid "Divehi"
 msgstr "maldiva"
 
+msgid "Jola-Fonyi"
+msgstr "djola"
+
 msgid "Dzongkha"
-msgstr "dzonko"
+msgstr "Dzonko"
+
+msgid "Dazaga"
+msgstr "dazaa"
+
+msgid "Embu"
+msgstr "embua"
+
+msgid "Ewe"
+msgstr "evea"
 
 msgid "Efik"
-msgstr "ibibioefika"
+msgstr "efika"
+
+msgid "Ekajuk"
+msgstr "ekaĝuka"
 
 msgid "Greek"
 msgstr "greka"
@@ -87,11 +315,32 @@ msgstr "greka"
 msgid "English"
 msgstr "angla"
 
+msgid "Australian English"
+msgstr "angla aŭstralia"
+
+msgid "Canadian English"
+msgstr "angla kanada"
+
+msgid "British English"
+msgstr "angla brita"
+
+msgid "American English"
+msgstr "angla usona"
+
 msgid "Esperanto"
 msgstr "Esperanto"
 
 msgid "Spanish"
 msgstr "hispana"
+
+msgid "Latin American Spanish"
+msgstr "hispana amerika"
+
+msgid "European Spanish"
+msgstr "hispana eŭropa"
+
+msgid "Mexican Spanish"
+msgstr "hispana meksika"
 
 msgid "Estonian"
 msgstr "estona"
@@ -99,8 +348,14 @@ msgstr "estona"
 msgid "Basque"
 msgstr "eŭska"
 
+msgid "Ewondo"
+msgstr "eunda"
+
 msgid "Persian"
 msgstr "persa"
+
+msgid "Fula"
+msgstr "fula"
 
 msgid "Finnish"
 msgstr "finna"
@@ -114,8 +369,26 @@ msgstr "fiĝia"
 msgid "Faroese"
 msgstr "feroa"
 
+msgid "Fon"
+msgstr "fonua"
+
 msgid "French"
 msgstr "franca"
+
+msgid "Canadian French"
+msgstr "franca kanada"
+
+msgid "Swiss French"
+msgstr "franca svisa"
+
+msgid "Cajun French"
+msgstr "kaĵun-franca"
+
+msgid "Northern Frisian"
+msgstr "nord-frisa"
+
+msgid "Friulian"
+msgstr "friula"
 
 msgid "Western Frisian"
 msgstr "okcident-frisa"
@@ -123,11 +396,14 @@ msgstr "okcident-frisa"
 msgid "Irish"
 msgstr "irlanda"
 
-msgid "Ga"
-msgstr "gaa"
-
 msgid "Scottish Gaelic"
 msgstr "skot-gaela"
+
+msgid "Geez"
+msgstr "geeza"
+
+msgid "Gilbertese"
+msgstr "kiribata"
 
 msgid "Galician"
 msgstr "galega"
@@ -135,23 +411,62 @@ msgstr "galega"
 msgid "Guarani"
 msgstr "gvarania"
 
+msgid "Gorontalo"
+msgstr "gorontala"
+
+msgid "Swiss German"
+msgstr "svisgermana"
+
 msgid "Gujarati"
 msgstr "guĝarata"
+
+msgid "Gusii"
+msgstr "gusia"
+
+msgid "Manx"
+msgstr "manksa"
+
+msgid "Gwichʼin"
+msgstr "gviĉina"
 
 msgid "Hausa"
 msgstr "haŭsa"
 
+msgid "Haida"
+msgstr "haida"
+
 msgid "Hawaiian"
 msgstr "havaja"
+
+msgid "Southern Haida"
+msgstr "sud-haida"
 
 msgid "Hebrew"
 msgstr "hebrea"
 
 msgid "Hindi"
-msgstr "hinda"
+msgstr "hindia"
+
+msgid "Hindi (Latin)"
+msgstr "hindia (latina)"
+
+msgid "Hinglish"
+msgstr "hinglish"
+
+msgid "Hiligaynon"
+msgstr "hiligajnona"
+
+msgid "Hmong"
+msgstr "hmonga"
+
+msgid "Hmong Njua"
+msgstr "verd-hmonga"
 
 msgid "Croatian"
 msgstr "kroata"
+
+msgid "Upper Sorbian"
+msgstr "suprasoraba"
 
 msgid "Haitian Creole"
 msgstr "haitia kreola"
@@ -159,11 +474,26 @@ msgstr "haitia kreola"
 msgid "Hungarian"
 msgstr "hungara"
 
+msgid "Hupa"
+msgstr "hupa"
+
+msgid "Halkomelem"
+msgstr "halkomelema"
+
 msgid "Armenian"
 msgstr "armena"
 
+msgid "Herero"
+msgstr "herera"
+
 msgid "Interlingua"
 msgstr "Interlingvao"
+
+msgid "Iban"
+msgstr "ibana"
+
+msgid "Ibibio"
+msgstr "ibibia"
 
 msgid "Indonesian"
 msgstr "indonezia"
@@ -171,8 +501,26 @@ msgstr "indonezia"
 msgid "Interlingue"
 msgstr "Interlingveo"
 
+msgid "Igbo"
+msgstr "igba"
+
+msgid "Sichuan Yi"
+msgstr "jia"
+
 msgid "Inupiaq"
-msgstr "eskima"
+msgstr "injupiaka"
+
+msgid "Western Canadian Inuktitut"
+msgstr "inuvialuktuna"
+
+msgid "Iloko"
+msgstr "iloka"
+
+msgid "Ingush"
+msgstr "inguŝa"
+
+msgid "Ido"
+msgstr "Ido"
 
 msgid "Icelandic"
 msgstr "islanda"
@@ -181,10 +529,16 @@ msgid "Italian"
 msgstr "itala"
 
 msgid "Inuktitut"
-msgstr "inuita"
+msgstr "inuktituta"
 
 msgid "Japanese"
 msgstr "japana"
+
+msgid "Lojban"
+msgstr "Loĵbano"
+
+msgid "Machame"
+msgstr "ĉaga (Kimaĉame)"
 
 msgid "Javanese"
 msgstr "java"
@@ -192,14 +546,56 @@ msgstr "java"
 msgid "Georgian"
 msgstr "kartvela"
 
+msgid "Kara-Kalpak"
+msgstr "karakalpaka"
+
+msgid "Kabyle"
+msgstr "kabila"
+
+msgid "Kachin"
+msgstr "kaĉina"
+
+msgid "Kamba"
+msgstr "kambaa"
+
+msgid "Kabardian"
+msgstr "kabarda"
+
+msgid "Makonde"
+msgstr "makonda"
+
+msgid "Kabuverdianu"
+msgstr "kaboverda kreola"
+
+msgid "Qʼeqchiʼ"
+msgstr "kekĉia"
+
+msgid "Koro"
+msgstr "malinka (Koro)"
+
+msgid "Kaingang"
+msgstr "kainganga"
+
+msgid "Kikuyu"
+msgstr "kikuja"
+
+msgid "Kuanyama"
+msgstr "kuanjama"
+
 msgid "Kazakh"
 msgstr "kazaĥa"
 
 msgid "Kalaallisut"
 msgstr "gronlanda"
 
+msgid "Kalenjin"
+msgstr "kalenĝina"
+
 msgid "Khmer"
 msgstr "kmera"
+
+msgid "Kimbundu"
+msgstr "kimbunda"
 
 msgid "Kannada"
 msgstr "kanara"
@@ -207,20 +603,86 @@ msgstr "kanara"
 msgid "Korean"
 msgstr "korea"
 
+msgid "Konkani"
+msgstr "konkana"
+
+msgid "Kpelle"
+msgstr "kpelea"
+
+msgid "Kanuri"
+msgstr "kanura"
+
+msgid "Karachay-Balkar"
+msgstr "karaĉaj-balkara"
+
+msgid "Karelian"
+msgstr "karela"
+
+msgid "Kurukh"
+msgstr "kuruksa"
+
 msgid "Kashmiri"
 msgstr "kaŝmira"
 
+msgid "Shambala"
+msgstr "ŝambaa"
+
+msgid "Colognian"
+msgstr "kolonja"
+
 msgid "Kurdish"
 msgstr "kurda"
+
+msgid "Kurdish"
+msgstr "kurda"
+
+msgid "Kurmanji"
+msgstr "kurmanĉa"
+
+msgid "Kumyk"
+msgstr "kumika"
+
+msgid "Komi"
+msgstr "komia"
+
+msgid "Cornish"
+msgstr "kornvala"
 
 msgid "Kyrgyz"
 msgstr "kirgiza"
 
 msgid "Latin"
-msgstr "latino"
+msgstr "Latino"
+
+msgid "Ladino"
+msgstr "judhispana"
+
+msgid "Langi"
+msgstr "rangia"
 
 msgid "Luxembourgish"
 msgstr "luksemburga"
+
+msgid "Lezghian"
+msgstr "lezga"
+
+msgid "Ganda"
+msgstr "ganda"
+
+msgid "Limburgish"
+msgstr "limburga"
+
+msgid "Ligurian"
+msgstr "ligura"
+
+msgid "Lillooet"
+msgstr "lilueta"
+
+msgid "Lakota"
+msgstr "lakota"
+
+msgid "Lombard"
+msgstr "lombarda"
 
 msgid "Lingala"
 msgstr "lingala"
@@ -228,17 +690,86 @@ msgstr "lingala"
 msgid "Lao"
 msgstr "laŭa"
 
+msgid "Louisiana Creole"
+msgstr "luiziana kreola"
+
+msgid "Lozi"
+msgstr "lozia"
+
+msgid "Northern Luri"
+msgstr "nord-lura"
+
 msgid "Lithuanian"
 msgstr "litova"
+
+msgid "Latgalian"
+msgstr "latgala"
+
+msgid "Luba-Katanga"
+msgstr "katanga-luba"
+
+msgid "Luba-Lulua"
+msgstr "kasaja-luba"
+
+msgid "Lunda"
+msgstr "lundaa"
+
+msgid "Luo"
+msgstr "lua"
+
+msgid "Luyia"
+msgstr "luhia"
 
 msgid "Latvian"
 msgstr "latva"
 
+msgid "Laz"
+msgstr "laza"
+
+msgid "Madurese"
+msgstr "madura"
+
+msgid "Magahi"
+msgstr "magaha"
+
+msgid "Maithili"
+msgstr "majtila"
+
+msgid "Makasar"
+msgstr "makasara"
+
+msgid "Masai"
+msgstr "masaja"
+
+msgid "Moksha"
+msgstr "mokŝa"
+
+msgid "Mende"
+msgstr "mendea"
+
+msgid "Meru"
+msgstr "merua"
+
+msgid "Morisyen"
+msgstr "maŭricia kreola"
+
 msgid "Malagasy"
 msgstr "malagasa"
 
+msgid "Makhuwa-Meetto"
+msgstr "makua (Meetto)"
+
+msgid "Marshallese"
+msgstr "marŝala"
+
 msgid "Māori"
 msgstr "maoria"
+
+msgid "Mi'kmaw"
+msgstr "mikmaka"
+
+msgid "Minangkabau"
+msgstr "minankabaŭa"
 
 msgid "Macedonian"
 msgstr "makedona"
@@ -249,6 +780,18 @@ msgstr "malajalama"
 msgid "Mongolian"
 msgstr "mongola"
 
+msgid "Manipuri"
+msgstr "manipura"
+
+msgid "Innu-aimun"
+msgstr "inua"
+
+msgid "Mohawk"
+msgstr "mohoka"
+
+msgid "Mossi"
+msgstr "mosia"
+
 msgid "Marathi"
 msgstr "marata"
 
@@ -258,20 +801,65 @@ msgstr "malaja"
 msgid "Maltese"
 msgstr "malta"
 
+msgid "Mundang"
+msgstr "mundanga"
+
+msgid "Multiple languages"
+msgstr "pluraj lingvoj"
+
+msgid "Muscogee"
+msgstr "krika"
+
+msgid "Mirandese"
+msgstr "miranda"
+
 msgid "Burmese"
 msgstr "birma"
+
+msgid "Erzya"
+msgstr "erzja"
+
+msgid "Mazanderani"
+msgstr "mazandarana"
 
 msgid "Nauru"
 msgstr "naura"
 
+msgid "Neapolitan"
+msgstr "napola"
+
+msgid "Nama"
+msgstr "nama"
+
 msgid "Norwegian Bokmål"
 msgstr "dannorvega"
+
+msgid "North Ndebele"
+msgstr "nord-matabela"
+
+msgid "Low German"
+msgstr "platgermana"
 
 msgid "Nepali"
 msgstr "nepala"
 
+msgid "Newari"
+msgstr "nevara"
+
+msgid "Ndonga"
+msgstr "ndonga"
+
+msgid "Nias"
+msgstr "niasa"
+
+msgid "Niuean"
+msgstr "niua"
+
 msgid "Dutch"
 msgstr "nederlanda"
+
+msgid "Flemish"
+msgstr "flandra"
 
 msgid "Norwegian Nynorsk"
 msgstr "novnorvega"
@@ -279,20 +867,86 @@ msgstr "novnorvega"
 msgid "Norwegian"
 msgstr "norvega"
 
+msgid "Nogai"
+msgstr "nogaja"
+
+msgid "N’Ko"
+msgstr "N’Ko"
+
+msgid "South Ndebele"
+msgstr "sud-matabela"
+
+msgid "Northern Sotho"
+msgstr "nord-sota"
+
+msgid "Nuer"
+msgstr "nuera"
+
+msgid "Navajo"
+msgstr "navaha"
+
+msgid "Nyanja"
+msgstr "njanĝa"
+
+msgid "Nyankole"
+msgstr "njankora"
+
 msgid "Occitan"
 msgstr "okcitana"
+
+msgid "Northwestern Ojibwa"
+msgstr "oĝibva nordokcidenta"
+
+msgid "Central Ojibwa"
+msgstr "oĝibva centra"
+
+msgid "Western Ojibwa"
+msgstr "oĝibva okcidenta"
+
+msgid "Okanagan"
+msgstr "okanagana"
 
 msgid "Oromo"
 msgstr "oroma"
 
 msgid "Odia"
-msgstr "orijo"
+msgstr "Orijo"
+
+msgid "Ossetic"
+msgstr "oseta"
 
 msgid "Punjabi"
 msgstr "panĝaba"
 
+msgid "Pangasinan"
+msgstr "pangasina"
+
+msgid "Pampanga"
+msgstr "pampanga"
+
+msgid "Papiamento"
+msgstr "Papiamento"
+
+msgid "Palauan"
+msgstr "palaŭa"
+
+msgid "Nigerian Pidgin"
+msgstr "niĝeria piĝino"
+
+msgid "Pali"
+msgstr "palia"
+
+msgid "Pijin"
+msgstr "Piĵino"
+
 msgid "Polish"
 msgstr "pola"
+
+msgid "Piedmontese"
+msgstr "piemonta"
+
+msgid "Prussian"
+msgstr "prusa"
 
 msgid "Pashto"
 msgstr "paŝtua"
@@ -309,6 +963,24 @@ msgstr "portugala eŭropa"
 msgid "Quechua"
 msgstr "keĉua"
 
+msgid "Kʼicheʼ"
+msgstr "kiĉea"
+
+msgid "Rajasthani"
+msgstr "raĝastana"
+
+msgid "Rapanui"
+msgstr "rapanuia"
+
+msgid "Rarotongan"
+msgstr "maoria kukinsula"
+
+msgid "Rohingya"
+msgstr "rohinĝa"
+
+msgid "Riffian"
+msgstr "rifa"
+
 msgid "Romansh"
 msgstr "romanĉa"
 
@@ -318,26 +990,83 @@ msgstr "burunda"
 msgid "Romanian"
 msgstr "rumana"
 
+msgid "Moldavian"
+msgstr "moldava"
+
+msgid "Rombo"
+msgstr "ĉaga (Kirombo)"
+
 msgid "Russian"
 msgstr "rusa"
+
+msgid "Aromanian"
+msgstr "arumana"
 
 msgid "Kinyarwanda"
 msgstr "ruanda"
 
+msgid "Rwa"
+msgstr "ĉaga (Rwa)"
+
 msgid "Sanskrit"
-msgstr "sanskrito"
+msgstr "Sanskrito"
+
+msgid "Sandawe"
+msgstr "sandavea"
+
+msgid "Yakut"
+msgstr "jakuta"
+
+msgid "Samburu"
+msgstr "samburua"
+
+msgid "Santali"
+msgstr "santala"
+
+msgid "Ngambay"
+msgstr "gambaja"
+
+msgid "Sangu"
+msgstr "sangua"
+
+msgid "Sardinian"
+msgstr "sarda"
+
+msgid "Sicilian"
+msgstr "sicilia"
+
+msgid "Scots"
+msgstr "skota"
 
 msgid "Sindhi"
 msgstr "sinda"
 
+msgid "Southern Kurdish"
+msgstr "sud-kurda"
+
+msgid "Northern Sami"
+msgstr "nord-samea"
+
 msgid "Sango"
 msgstr "sangoa"
 
+msgid "Samogitian"
+msgstr "ĵemajtia"
+
 msgid "Serbo-Croatian"
-msgstr "serbo-Kroata"
+msgstr "serbokroata"
+
+msgid "Tachelhit"
+msgstr "ŝelha"
+
+msgid "Shan"
+msgstr "ŝana"
 
 msgid "Sinhala"
 msgstr "sinhala"
+
+msgid "Sidamo"
+msgstr "sidama"
 
 msgid "Slovak"
 msgstr "slovaka"
@@ -345,11 +1074,29 @@ msgstr "slovaka"
 msgid "Slovenian"
 msgstr "slovena"
 
+msgid "Southern Lushootseed"
+msgstr "sud-laŝucida"
+
 msgid "Samoan"
 msgstr "samoa"
 
+msgid "Southern Sami"
+msgstr "sud-samea"
+
+msgid "Lule Sami"
+msgstr "lule-samea"
+
+msgid "Inari Sami"
+msgstr "anar-samea"
+
+msgid "Skolt Sami"
+msgstr "skolt-samea"
+
 msgid "Shona"
 msgstr "ŝona"
+
+msgid "Soninke"
+msgstr "soninka"
 
 msgid "Somali"
 msgstr "somala"
@@ -360,14 +1107,26 @@ msgstr "albana"
 msgid "Serbian"
 msgstr "serba"
 
+msgid "Sranan Tongo"
+msgstr "surinama"
+
 msgid "Swati"
 msgstr "svazia"
+
+msgid "Saho"
+msgstr "saha"
 
 msgid "Southern Sotho"
 msgstr "sota"
 
+msgid "Straits Salish"
+msgstr "saliŝa nord-markola"
+
 msgid "Sundanese"
 msgstr "sunda"
+
+msgid "Sukuma"
+msgstr "sukuma"
 
 msgid "Swedish"
 msgstr "sveda"
@@ -375,20 +1134,50 @@ msgstr "sveda"
 msgid "Swahili"
 msgstr "svahila"
 
+msgid "Comorian"
+msgstr "komora"
+
+msgid "Syriac"
+msgstr "siria"
+
+msgid "Silesian"
+msgstr "silezi-pola"
+
 msgid "Tamil"
 msgstr "tamila"
+
+msgid "Southern Tutchone"
+msgstr "sud-tuĉona"
 
 msgid "Telugu"
 msgstr "telugua"
 
+msgid "Timne"
+msgstr "temna"
+
+msgid "Teso"
+msgstr "tesa"
+
+msgid "Tetum"
+msgstr "tetuna"
+
 msgid "Tajik"
 msgstr "taĝika"
+
+msgid "Tagish"
+msgstr "tagiŝa"
 
 msgid "Thai"
 msgstr "taja"
 
+msgid "Tahltan"
+msgstr "taltana"
+
 msgid "Tigrinya"
 msgstr "tigraja"
+
+msgid "Tigre"
+msgstr "tigrea"
 
 msgid "Turkmen"
 msgstr "turkmena"
@@ -399,14 +1188,29 @@ msgstr "tagaloga"
 msgid "Klingon"
 msgstr "klingona"
 
+msgid "Tlingit"
+msgstr "tlingita"
+
 msgid "Tswana"
 msgstr "cvana"
 
 msgid "Tongan"
-msgstr "tongana"
+msgstr "tonga"
+
+msgid "Toki Pona"
+msgstr "Tokipono"
+
+msgid "Tok Pisin"
+msgstr "Tokpisino"
 
 msgid "Turkish"
 msgstr "turka"
+
+msgid "Taroko"
+msgstr "sedeka"
+
+msgid "Torwali"
+msgstr "torvalia"
 
 msgid "Tsonga"
 msgstr "conga"
@@ -414,53 +1218,140 @@ msgstr "conga"
 msgid "Tatar"
 msgstr "tatara"
 
+msgid "Northern Tutchone"
+msgstr "nord-tuĉona"
+
+msgid "Tumbuka"
+msgstr "tumbuka"
+
+msgid "Tuvalu"
+msgstr "tuvala"
+
+msgid "Tahitian"
+msgstr "tahitia"
+
+msgid "Tuvinian"
+msgstr "tuva"
+
+msgid "Central Atlas Tamazight"
+msgstr "tamaziĥta mez-atlasa"
+
+msgid "Udmurt"
+msgstr "udmurta"
+
 msgid "Uyghur"
 msgstr "ujgura"
 
 msgid "Ukrainian"
 msgstr "ukraina"
 
+msgid "Umbundu"
+msgstr "ovimbunda"
+
 msgid "Unknown language"
 msgstr "nekonata lingvo"
 
 msgid "Urdu"
-msgstr "urduo"
+msgstr "Urduo"
 
 msgid "Uzbek"
 msgstr "uzbeka"
 
+msgid "Vai"
+msgstr "vaja"
+
+msgid "Venda"
+msgstr "vendaa"
+
+msgid "Venetian"
+msgstr "venecia"
+
 msgid "Vietnamese"
 msgstr "vjetnama"
+
+msgid "Makhuwa"
+msgstr "makua"
 
 msgid "Volapük"
 msgstr "Volapuko"
 
+msgid "Vunjo"
+msgstr "ĉaga (Kivunjo)"
+
+msgid "Walloon"
+msgstr "valona"
+
+msgid "Walser"
+msgstr "germana valza"
+
+msgid "Wolaytta"
+msgstr "velajtaa"
+
+msgid "Waray"
+msgstr "varaja"
+
 msgid "Wolof"
 msgstr "volofa"
+
+msgid "Wu Chinese"
+msgstr "vua"
+
+msgid "Kalmyk"
+msgstr "kalmuka"
 
 msgid "Xhosa"
 msgstr "ksosa"
 
+msgid "Kangri"
+msgstr "kangra"
+
 msgid "Yiddish"
-msgstr "jida"
+msgstr "judgermana"
 
 msgid "Yoruba"
 msgstr "joruba"
 
+msgid "Nheengatu"
+msgstr "nengatua"
+
+msgid "Cantonese"
+msgstr "kantona"
+
+msgid "Chinese, Cantonese"
+msgstr "ĉina kantona"
+
 msgid "Zhuang"
 msgstr "ĝuanga"
+
+msgid "Standard Moroccan Tamazight"
+msgstr "tamaziĥta maroka norma"
 
 msgid "Chinese"
 msgstr "ĉina"
 
+msgid "Chinese, Mandarin"
+msgstr "ĉina, normlingvo"
+
 msgid "Simplified Chinese"
 msgstr "ĉina simpligita"
+
+msgid "Simplified Mandarin Chinese"
+msgstr "ĉina normlingvo simpligita"
 
 msgid "Traditional Chinese"
 msgstr "ĉina tradicia"
 
+msgid "Traditional Mandarin Chinese"
+msgstr "ĉina normlingvo tradicia"
+
 msgid "Zulu"
 msgstr "zulua"
 
+msgid "Zuni"
+msgstr "zunjia"
+
 msgid "No linguistic content"
 msgstr "nelingvaĵo"
+
+msgid "Zaza"
+msgstr "zazaa"

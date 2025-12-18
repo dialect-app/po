@@ -6,6 +6,9 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgid "Afar"
+msgstr "afar"
+
 msgid "Abkhazian"
 msgstr "abcasu"
 
@@ -93,6 +96,9 @@ msgstr "azeru"
 msgid "Bashkir"
 msgstr "baschiru"
 
+msgid "Baluchi"
+msgstr "baluci"
+
 msgid "Balinese"
 msgstr "balinesu"
 
@@ -105,6 +111,9 @@ msgstr "bielorussu"
 msgid "Bemba"
 msgstr "bemba"
 
+msgid "Betawi"
+msgstr "betawi"
+
 msgid "Bena"
 msgstr "bena"
 
@@ -113,6 +122,9 @@ msgstr "bùlgaru"
 
 msgid "Haryanvi"
 msgstr "haryanvi"
+
+msgid "Western Balochi"
+msgstr "baluci otzidentale"
 
 msgid "Bhojpuri"
 msgstr "bhojpuri"
@@ -129,6 +141,9 @@ msgstr "pees nieddos"
 msgid "Anii"
 msgstr "anii"
 
+msgid "Tai Dam"
+msgstr "tai dam"
+
 msgid "Bambara"
 msgstr "bambara"
 
@@ -137,6 +152,9 @@ msgstr "bengalesu"
 
 msgid "Tibetan"
 msgstr "tibetanu"
+
+msgid "Bakhtiari"
+msgstr "bakhtiari"
 
 msgid "Breton"
 msgstr "brètone"
@@ -147,6 +165,12 @@ msgstr "bodo"
 msgid "Bosnian"
 msgstr "bosnìacu"
 
+msgid "Akoose"
+msgstr "akoose"
+
+msgid "Buriat"
+msgstr "buriat"
+
 msgid "Buginese"
 msgstr "buginesu"
 
@@ -156,8 +180,14 @@ msgstr "blin"
 msgid "Catalan"
 msgstr "catalanu"
 
+msgid "Caddo"
+msgstr "caddo"
+
 msgid "Cayuga"
 msgstr "cayuga"
+
+msgid "Atsam"
+msgstr "atsam"
 
 msgid "Chakma"
 msgstr "chakma"
@@ -192,6 +222,9 @@ msgstr "cherokee"
 msgid "Cheyenne"
 msgstr "cheyenne"
 
+msgid "Chickasaw"
+msgstr "chickasaw"
+
 msgid "Central Kurdish"
 msgstr "curdu tzentrale"
 
@@ -206,6 +239,9 @@ msgstr "chilcotin"
 
 msgid "Corsican"
 msgstr "corsicanu"
+
+msgid "Coptic"
+msgstr "coptu"
 
 msgid "Michif"
 msgstr "michif"
@@ -445,7 +481,7 @@ msgid "Southern Haida"
 msgstr "haida meridionale"
 
 msgid "Hebrew"
-msgstr "ebreu"
+msgstr "ebràicu"
 
 msgid "Hindi"
 msgstr "hindi"
@@ -461,6 +497,9 @@ msgstr "ilongu"
 
 msgid "Hmong"
 msgstr "hmong"
+
+msgid "Hmong Njua"
+msgstr "hmong njua"
 
 msgid "Croatian"
 msgstr "croatu"
@@ -546,6 +585,9 @@ msgstr "giavanesu"
 msgid "Georgian"
 msgstr "georgianu"
 
+msgid "Kara-Kalpak"
+msgstr "kara-kalpak"
+
 msgid "Kabyle"
 msgstr "cabilu"
 
@@ -569,6 +611,12 @@ msgstr "makonde"
 
 msgid "Kabuverdianu"
 msgstr "cabubirdianu"
+
+msgid "Qʼeqchiʼ"
+msgstr "qʼeqchiʼ"
+
+msgid "Kenyang"
+msgstr "kenyang"
 
 msgid "Koro"
 msgstr "koro"
@@ -645,6 +693,12 @@ msgstr "coloniesu"
 msgid "Kurdish"
 msgstr "curdu"
 
+msgid "Kurdish"
+msgstr "curdu"
+
+msgid "Kurmanji"
+msgstr "curmangi"
+
 msgid "Kumyk"
 msgstr "cumucu"
 
@@ -717,6 +771,9 @@ msgstr "sàmia"
 msgid "Lithuanian"
 msgstr "lituanu"
 
+msgid "Latgalian"
+msgstr "latgalianu"
+
 msgid "Luba-Katanga"
 msgstr "luba-katanga"
 
@@ -734,6 +791,9 @@ msgstr "luyia"
 
 msgid "Latvian"
 msgstr "lètone"
+
+msgid "Laz"
+msgstr "laz"
 
 msgid "Madurese"
 msgstr "maduresu"
@@ -837,6 +897,9 @@ msgstr "mazandarani"
 msgid "Nauru"
 msgstr "nauru"
 
+msgid "Min Nan Chinese"
+msgstr "min nan"
+
 msgid "Neapolitan"
 msgstr "napoletanu"
 
@@ -939,6 +1002,9 @@ msgstr "odia"
 msgid "Ossetic"
 msgstr "ossèticu"
 
+msgid "Osage"
+msgstr "osage"
+
 msgid "Punjabi"
 msgstr "punjabi"
 
@@ -957,11 +1023,17 @@ msgstr "palauanu"
 msgid "Nigerian Pidgin"
 msgstr "pidgin nigerianu"
 
+msgid "Pali"
+msgstr "pali"
+
 msgid "Pijin"
 msgstr "pijin"
 
 msgid "Polish"
 msgstr "polacu"
+
+msgid "Piedmontese"
+msgstr "piemontesu"
 
 msgid "Maliseet-Passamaquoddy"
 msgstr "malecite-passamaquoddy"
@@ -983,6 +1055,9 @@ msgstr "portoghesu europeu"
 
 msgid "Quechua"
 msgstr "quechua"
+
+msgid "Kʼicheʼ"
+msgstr "k’iche’"
 
 msgid "Rajasthani"
 msgstr "rajasthani"
@@ -1059,6 +1134,9 @@ msgstr "scots"
 msgid "Sindhi"
 msgstr "sindhi"
 
+msgid "Southern Kurdish"
+msgstr "curdu meridionale"
+
 msgid "Northern Sami"
 msgstr "sami setentrionale"
 
@@ -1071,6 +1149,9 @@ msgstr "koyraboro senni"
 msgid "Sango"
 msgstr "sango"
 
+msgid "Samogitian"
+msgstr "samogitianu"
+
 msgid "Tachelhit"
 msgstr "tashelhit"
 
@@ -1079,6 +1160,9 @@ msgstr "shan"
 
 msgid "Sinhala"
 msgstr "singalesu"
+
+msgid "Sidamo"
+msgstr "sidamo"
 
 msgid "Slovak"
 msgstr "islovacu"
@@ -1091,6 +1175,12 @@ msgstr "lushootseed meridionale"
 
 msgid "Samoan"
 msgstr "samoanu"
+
+msgid "Southern Sami"
+msgstr "sami meridionale"
+
+msgid "Lule Sami"
+msgstr "sami de Lule"
 
 msgid "Inari Sami"
 msgstr "sami de sos inari"
@@ -1118,6 +1208,9 @@ msgstr "sranan tongo"
 
 msgid "Swati"
 msgstr "swati"
+
+msgid "Saho"
+msgstr "saho"
 
 msgid "Southern Sotho"
 msgstr "sotho meridionale"
@@ -1212,6 +1305,9 @@ msgstr "turcu"
 msgid "Taroko"
 msgstr "taroko"
 
+msgid "Torwali"
+msgstr "torwali"
+
 msgid "Tsonga"
 msgstr "tsonga"
 
@@ -1289,6 +1385,9 @@ msgstr "wolaita"
 
 msgid "Waray"
 msgstr "waray"
+
+msgid "Warlpiri"
+msgstr "warlpiri"
 
 msgid "Wolof"
 msgstr "wolof"

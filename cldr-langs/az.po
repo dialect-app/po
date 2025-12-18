@@ -333,9 +333,6 @@ msgstr "alman"
 msgid "Austrian German"
 msgstr "Avstriya almancası"
 
-msgid "Swiss High German"
-msgstr "İsveçrə yüksək almancası"
-
 msgid "Delaware"
 msgstr "delaver"
 
@@ -733,7 +730,7 @@ msgid "Makonde"
 msgstr "makond"
 
 msgid "Kabuverdianu"
-msgstr "kabuverdian"
+msgstr "kabuverdianu"
 
 msgid "Koro"
 msgstr "koro"
@@ -742,7 +739,7 @@ msgid "Kongo"
 msgstr "konqo"
 
 msgid "Kaingang"
-msgstr "kaiqanq"
+msgstr "kaynqanq"
 
 msgid "Khasi"
 msgstr "xazi"
@@ -821,6 +818,12 @@ msgstr "köln"
 
 msgid "Kurdish"
 msgstr "kürd"
+
+msgid "Kurdish"
+msgstr "kürd dili"
+
+msgid "Kurmanji"
+msgstr "kurmanci (kürd dili) dialekti"
 
 msgid "Kumyk"
 msgstr "kumık"
@@ -1488,7 +1491,7 @@ msgstr "tiv"
 msgid "Turkmen"
 msgstr "türkmən"
 
-msgid "Tokelau"
+msgid "Tokelauan"
 msgstr "tokelay"
 
 msgid "Tagalog"

@@ -417,8 +417,8 @@ msgstr "elamită"
 msgid "English"
 msgstr "engleză"
 
-msgid "US English"
-msgstr "engleză (S.U.A)"
+msgid "UK English"
+msgstr "engleză (UK)"
 
 msgid "Middle English"
 msgstr "engleză medie"
@@ -815,6 +815,12 @@ msgstr "kölsch"
 
 msgid "Kurdish"
 msgstr "kurdă"
+
+msgid "Kurdish"
+msgstr "kurdă"
+
+msgid "Kurmanji"
+msgstr "kurmangi"
 
 msgid "Kumyk"
 msgstr "kumyk"
@@ -1500,7 +1506,7 @@ msgstr "tiv"
 msgid "Turkmen"
 msgstr "turkmenă"
 
-msgid "Tokelau"
+msgid "Tokelauan"
 msgstr "tokelau"
 
 msgid "Tagalog"

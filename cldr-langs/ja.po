@@ -220,7 +220,7 @@ msgid "Siksiká"
 msgstr "シクシカ語"
 
 msgid "Anii"
-msgstr "アニ語 (blo)"
+msgstr "アニ語 (ベナン)"
 
 msgid "Bambara"
 msgstr "バンバラ語"
@@ -948,6 +948,12 @@ msgstr "ケルン語"
 msgid "Kurdish"
 msgstr "クルド語"
 
+msgid "Kurdish"
+msgstr "クルド語"
+
+msgid "Kurmanji"
+msgstr "クルマンジー"
+
 msgid "Kumyk"
 msgstr "クムク語"
 
@@ -1144,7 +1150,7 @@ msgid "Mongolian"
 msgstr "モンゴル語"
 
 msgid "Manchu"
-msgstr "満州語"
+msgstr "満洲語"
 
 msgid "Manipuri"
 msgstr "マニプリ語"
@@ -1722,7 +1728,7 @@ msgstr "ティブ語"
 msgid "Turkmen"
 msgstr "トルクメン語"
 
-msgid "Tokelau"
+msgid "Tokelauan"
 msgstr "トケラウ語"
 
 msgid "Tsakhur"

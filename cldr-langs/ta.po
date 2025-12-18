@@ -691,7 +691,7 @@ msgid "Inuktitut"
 msgstr "இனுகிடூட்"
 
 msgid "Japanese"
-msgstr "ஜப்பானியம்"
+msgstr "ஜாப்பனீஸ்"
 
 msgid "Lojban"
 msgstr "லோஜ்பன்"
@@ -830,6 +830,12 @@ msgstr "கொலோக்னியன்"
 
 msgid "Kurdish"
 msgstr "குர்திஷ்"
+
+msgid "Kurdish"
+msgstr "குர்திஷ்"
+
+msgid "Kurmanji"
+msgstr "குர்மாஞ்சி"
 
 msgid "Kumyk"
 msgstr "கும்யிக்"
@@ -1515,7 +1521,7 @@ msgstr "டிவ்"
 msgid "Turkmen"
 msgstr "துருக்மென்"
 
-msgid "Tokelau"
+msgid "Tokelauan"
 msgstr "டோகேலௌ"
 
 msgid "Tagalog"

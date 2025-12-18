@@ -577,7 +577,10 @@ msgid "Hebrew"
 msgstr "hebraico"
 
 msgid "Hindi"
-msgstr "híndi"
+msgstr "hindi"
+
+msgid "Hindi (Latin)"
+msgstr "hindi (latim)"
 
 msgid "Hinglish"
 msgstr "hinglish"
@@ -809,6 +812,12 @@ msgstr "kölsch"
 
 msgid "Kurdish"
 msgstr "curdo"
+
+msgid "Kurdish"
+msgstr "curdo"
+
+msgid "Kurmanji"
+msgstr "curmânji"
 
 msgid "Kumyk"
 msgstr "kumyk"
@@ -1494,7 +1503,7 @@ msgstr "tiv"
 msgid "Turkmen"
 msgstr "turcomeno"
 
-msgid "Tokelau"
+msgid "Tokelauan"
 msgstr "toquelauano"
 
 msgid "Tagalog"

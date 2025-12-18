@@ -153,6 +153,9 @@ msgstr "bengalese"
 msgid "Tibetan"
 msgstr "tibetano"
 
+msgid "Bakhtiari"
+msgstr "bakhtiari"
+
 msgid "Breton"
 msgstr "breton"
 
@@ -164,6 +167,9 @@ msgstr "bosniaco"
 
 msgid "Akoose"
 msgstr "akoose"
+
+msgid "Buriat"
+msgstr "buriato"
 
 msgid "Buginese"
 msgstr "buginese"
@@ -231,6 +237,9 @@ msgstr "chilcotin"
 msgid "Corsican"
 msgstr "corso"
 
+msgid "Coptic"
+msgstr "copto"
+
 msgid "Michif"
 msgstr "mitchif"
 
@@ -282,12 +291,6 @@ msgstr "taita"
 msgid "German"
 msgstr "germano"
 
-msgid "Austrian German"
-msgstr "germano austriac"
-
-msgid "Swiss High German"
-msgstr "alte germano suisse"
-
 msgid "Dogrib"
 msgstr "dogrib"
 
@@ -333,20 +336,8 @@ msgstr "greco"
 msgid "English"
 msgstr "anglese"
 
-msgid "Australian English"
-msgstr "anglese australian"
-
-msgid "Canadian English"
-msgstr "anglese canadian"
-
-msgid "British English"
-msgstr "anglese britannic"
-
 msgid "UK English"
-msgstr "anglese (GB)"
-
-msgid "American English"
-msgstr "anglese american"
+msgstr "anglese (RU)"
 
 msgid "US English"
 msgstr "anglese (SUA)"
@@ -356,15 +347,6 @@ msgstr "esperanto"
 
 msgid "Spanish"
 msgstr "espaniol"
-
-msgid "Latin American Spanish"
-msgstr "espaniol latinoamerican"
-
-msgid "European Spanish"
-msgstr "espaniol europee"
-
-msgid "Mexican Spanish"
-msgstr "espaniol mexican"
 
 msgid "Estonian"
 msgstr "estoniano"
@@ -401,12 +383,6 @@ msgstr "fon"
 
 msgid "French"
 msgstr "francese"
-
-msgid "Canadian French"
-msgstr "francese canadian"
-
-msgid "Swiss French"
-msgstr "francese suisse"
 
 msgid "Cajun French"
 msgstr "francese cajun"
@@ -477,14 +453,14 @@ msgstr "hebreo"
 msgid "Hindi"
 msgstr "hindi"
 
-msgid "Hinglish"
-msgstr "hinglish"
-
 msgid "Hiligaynon"
 msgstr "hiligaynon"
 
 msgid "Hmong"
 msgstr "hmong"
+
+msgid "Hmong Njua"
+msgstr "hmong njua"
 
 msgid "Croatian"
 msgstr "croato"
@@ -597,6 +573,9 @@ msgstr "makonde"
 msgid "Kabuverdianu"
 msgstr "capoverdiano"
 
+msgid "Qʼeqchiʼ"
+msgstr "kekchi"
+
 msgid "Kenyang"
 msgstr "kenyang"
 
@@ -674,6 +653,12 @@ msgstr "coloniese"
 
 msgid "Kurdish"
 msgstr "kurdo"
+
+msgid "Kurdish"
+msgstr "kurdo"
+
+msgid "Kurmanji"
+msgstr "kurmanji"
 
 msgid "Kumyk"
 msgstr "kumyko"
@@ -767,6 +752,9 @@ msgstr "luyia"
 
 msgid "Latvian"
 msgstr "letton"
+
+msgid "Laz"
+msgstr "laz"
 
 msgid "Madurese"
 msgstr "madurese"
@@ -869,6 +857,9 @@ msgstr "mazanderani"
 
 msgid "Nauru"
 msgstr "nauru"
+
+msgid "Min Nan Chinese"
+msgstr "min nan"
 
 msgid "Neapolitan"
 msgstr "napolitano"
@@ -993,11 +984,17 @@ msgstr "palauano"
 msgid "Nigerian Pidgin"
 msgstr "pidgin nigerian"
 
+msgid "Pali"
+msgstr "pali"
+
 msgid "Pijin"
 msgstr "pijin"
 
 msgid "Polish"
 msgstr "polonese"
+
+msgid "Piedmontese"
+msgstr "pedemontese"
 
 msgid "Maliseet-Passamaquoddy"
 msgstr "malecite-passamaquoddy"
@@ -1010,12 +1007,6 @@ msgstr "pashto"
 
 msgid "Portuguese"
 msgstr "portugese"
-
-msgid "Brazilian Portuguese"
-msgstr "portugese de Brasil"
-
-msgid "European Portuguese"
-msgstr "portugese de Portugal"
 
 msgid "Quechua"
 msgstr "quechua"
@@ -1112,6 +1103,9 @@ msgstr "koyraboro senni"
 
 msgid "Sango"
 msgstr "sango"
+
+msgid "Samogitian"
+msgstr "samogitiano"
 
 msgid "Serbo-Croatian"
 msgstr "serbocroato"

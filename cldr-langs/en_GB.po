@@ -240,6 +240,9 @@ msgstr "Bishnupriya"
 msgid "Bakhtiari"
 msgstr "Bakhtiari"
 
+msgid "Luri Bakhtiari"
+msgstr "Luri Bakhtiari"
+
 msgid "Breton"
 msgstr "Breton"
 
@@ -335,6 +338,12 @@ msgstr "Chickasaw"
 
 msgid "Central Kurdish"
 msgstr "Central Kurdish"
+
+msgid "Kurdish"
+msgstr "Kurdish"
+
+msgid "Central"
+msgstr "Central"
 
 msgid "Kurdish, Central"
 msgstr "Kurdish, Central"
@@ -876,6 +885,9 @@ msgstr "Makonde"
 msgid "Kabuverdianu"
 msgstr "Kabuverdianu"
 
+msgid "Qʼeqchiʼ"
+msgstr "Qʼeqchiʼ"
+
 msgid "Kenyang"
 msgstr "Kenyang"
 
@@ -977,6 +989,12 @@ msgstr "Colognian"
 
 msgid "Kurdish"
 msgstr "Kurdish"
+
+msgid "Kurdish"
+msgstr "Kurdish"
+
+msgid "Kurmanji"
+msgstr "Kurmanji"
 
 msgid "Kumyk"
 msgstr "Kumyk"
@@ -1362,6 +1380,9 @@ msgstr "Western Ojibwa"
 msgid "Okanagan"
 msgstr "Okanagan"
 
+msgid "Colville Salish"
+msgstr "Colville Salish"
+
 msgid "Oromo"
 msgstr "Oromo"
 
@@ -1418,6 +1439,9 @@ msgstr "Phoenician"
 
 msgid "Pali"
 msgstr "Pali"
+
+msgid "Pāli"
+msgstr "Pāli"
 
 msgid "Pijin"
 msgstr "Pijin"
@@ -1571,6 +1595,12 @@ msgstr "Sassarese Sardinian"
 
 msgid "Southern Kurdish"
 msgstr "Southern Kurdish"
+
+msgid "Kurdish"
+msgstr "Kurdish"
+
+msgid "Southern"
+msgstr "Southern"
 
 msgid "Northern Sami"
 msgstr "Northern Sami"
@@ -1785,8 +1815,8 @@ msgstr "Tiv"
 msgid "Turkmen"
 msgstr "Turkmen"
 
-msgid "Tokelau"
-msgstr "Tokelau"
+msgid "Tokelauan"
+msgstr "Tokelauan"
 
 msgid "Tsakhur"
 msgstr "Tsakhur"

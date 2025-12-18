@@ -426,8 +426,14 @@ msgstr "есперанто"
 msgid "Spanish"
 msgstr "шпански"
 
+msgid "Latin American Spanish"
+msgstr "латиноамерички шпански"
+
 msgid "European Spanish"
-msgstr "шпански (Европа)"
+msgstr "европски шпански"
+
+msgid "Mexican Spanish"
+msgstr "мексички шпански"
 
 msgid "Estonian"
 msgstr "естонски"
@@ -470,6 +476,12 @@ msgstr "фон"
 
 msgid "French"
 msgstr "француски"
+
+msgid "Canadian French"
+msgstr "канадски француски"
+
+msgid "Swiss French"
+msgstr "швајцарски француски"
 
 msgid "Cajun French"
 msgstr "кајунски француски"
@@ -806,6 +818,12 @@ msgstr "келнски"
 
 msgid "Kurdish"
 msgstr "курдски"
+
+msgid "Kurdish"
+msgstr "курдски"
+
+msgid "Kurmanji"
+msgstr "курманџи"
 
 msgid "Kumyk"
 msgstr "кумички"
@@ -1215,8 +1233,11 @@ msgstr "пашто"
 msgid "Portuguese"
 msgstr "португалски"
 
+msgid "Brazilian Portuguese"
+msgstr "бразилски португалски"
+
 msgid "European Portuguese"
-msgstr "португалски (Португал)"
+msgstr "европски португалски"
 
 msgid "Quechua"
 msgstr "кечуа"
@@ -1479,7 +1500,7 @@ msgstr "тив"
 msgid "Turkmen"
 msgstr "туркменски"
 
-msgid "Tokelau"
+msgid "Tokelauan"
 msgstr "токелау"
 
 msgid "Tagalog"

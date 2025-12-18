@@ -124,7 +124,7 @@ msgid "Bashkir"
 msgstr "బాష్కిర్"
 
 msgid "Baluchi"
-msgstr "బాలుచి"
+msgstr "బలూచి"
 
 msgid "Balinese"
 msgstr "బాలినీస్"
@@ -469,7 +469,7 @@ msgid "Fanti"
 msgstr "ఫాంటి"
 
 msgid "Fula"
-msgstr "ఫ్యుల"
+msgstr "ఫూలా"
 
 msgid "Finnish"
 msgstr "ఫిన్నిష్"
@@ -601,7 +601,7 @@ msgid "Southern Haida"
 msgstr "దక్షిణ హైదా"
 
 msgid "Hebrew"
-msgstr "హిబ్రూ"
+msgstr "హీబ్రూ"
 
 msgid "Hindi"
 msgstr "హిందీ"
@@ -833,6 +833,12 @@ msgstr "కొలోనియన్"
 
 msgid "Kurdish"
 msgstr "కుర్దిష్"
+
+msgid "Kurdish"
+msgstr "కర్డిష్"
+
+msgid "Kurmanji"
+msgstr "కర్మాంజి"
 
 msgid "Kumyk"
 msgstr "కుమ్యిక్"
@@ -1239,9 +1245,6 @@ msgstr "ప్రాచీన ప్రోవెంసాల్"
 msgid "Pashto"
 msgstr "పాష్టో"
 
-msgid "Pushto"
-msgstr "పుష్టో"
-
 msgid "Portuguese"
 msgstr "పోర్చుగీస్"
 
@@ -1515,7 +1518,7 @@ msgstr "టివ్"
 msgid "Turkmen"
 msgstr "తుర్క్‌మెన్"
 
-msgid "Tokelau"
+msgid "Tokelauan"
 msgstr "టోకెలావ్"
 
 msgid "Tagalog"
