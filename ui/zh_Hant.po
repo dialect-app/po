@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2024-12-06 00:01+0000\n"
-"Last-Translator: hanyang cheng <cinxiafortis@tutanota.de>\n"
+"PO-Revision-Date: 2025-12-18 07:00+0000\n"
+"Last-Translator: taijuin Lee <taijuin@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/dialect/dialect/zh_Hant/>\n"
 "Language: zh_Hant\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.15.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -57,7 +57,7 @@ msgstr "基於 Google 翻譯的翻譯"
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
-msgstr "基於 LibreTranslate API 的翻譯，允許你使用任何公共實例"
+msgstr "基於 LibreTranslate API 的翻譯，允許您使用任何公共實例"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
@@ -151,7 +151,7 @@ msgstr "即時翻譯"
 
 #: dialect/preferences.ui:81
 msgid "Warning: Your IP address may get banned for API abuse."
-msgstr "警告：你的 IP 位址可能會因為 API 濫用而被禁止。"
+msgstr "警告：您的 IP 位址可能會因為 API 濫用而被禁止。"
 
 #: dialect/preferences.ui:87
 msgid "Show Translations in Desktop Search"
@@ -446,13 +446,12 @@ msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr "我們無法連接至伺服器，請檢查是否為網路問題"
 
 #: dialect/window.py:542
-#, fuzzy
 msgid "Couldn’t read selection clip board!"
-msgstr "複製翻譯結果"
+msgstr "無法讀取剪貼簿內容！"
 
 #: dialect/window.py:630
 msgid "Did you mean: "
-msgstr "你的意思是： "
+msgstr "您的意思是： "
 
 #: dialect/window.py:793
 msgid "Copied to clipboard"
