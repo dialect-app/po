@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2024-10-02 00:15+0000\n"
-"Last-Translator: Andrea Andre <andrea.tsg19@slmail.me>\n"
+"PO-Revision-Date: 2025-12-23 11:00+0000\n"
+"Last-Translator: Andrea Andrei <andrea.tsg19@slmail.me>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/dialect/dialect/"
 "ro/>\n"
 "Language: ro\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -457,9 +457,8 @@ msgstr ""
 "de rețea"
 
 #: dialect/window.py:542
-#, fuzzy
 msgid "Couldn’t read selection clip board!"
-msgstr "Copiază traducerea în memorie"
+msgstr "Nu se poate citi ce a fost selecționat!"
 
 #: dialect/window.py:630
 msgid "Did you mean: "
