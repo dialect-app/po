@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2026-01-05 20:01+0000\n"
+"PO-Revision-Date: 2026-01-10 10:54+0000\n"
 "Last-Translator: Flynn <cirilla@tuta.io>\n"
 "Language-Team: Cornish <https://hosted.weblate.org/projects/dialect/dialect/"
 "kw/>\n"
@@ -63,7 +63,7 @@ msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
-"Treylyans a-dhia an API LibreTranslate, gasow ty gul devnydh a neb gweyth "
+"Treylyans a-dhia an API LibreTranslate, ow gasa ty gul devnydh a neb gweyth "
 "poblek"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
@@ -202,7 +202,7 @@ msgstr "Braster Tekst Defowt"
 
 #: dialect/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
-msgstr "Chanjyow an braster dre kesunyansow bysowek na aslea ma."
+msgstr "Ow chanjya an braster dre kesunyansow bysowek na aslea ma."
 
 #: dialect/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -322,7 +322,7 @@ msgstr "A-dro Dialect"
 
 #: dialect/window.blp:72 dialect/widgets/speech_button.py:40
 msgid "Loading…"
-msgstr "Kargow…"
+msgstr "Ow Karga…"
 
 #: dialect/window.blp:94 dialect/window.py:903 dialect/window.py:1187
 #: dialect/window.py:1195 dialect/window.py:1211
@@ -380,7 +380,7 @@ msgstr "Treylya"
 
 #: dialect/window.blp:484
 msgid "Translating…"
-msgstr "Treylyow…"
+msgstr "Ow Treylya…"
 
 #: dialect/window.blp:489
 msgid "Could not Translate the Text"
@@ -412,7 +412,7 @@ msgstr "Ni yllyn junya dhe an servell. Checkya dhe kudyn rosweyth mar pleg."
 
 #: dialect/window.py:425 dialect/search_provider/search_provider.in:172
 msgid "Failed loading the translation service"
-msgstr "Fyllis kargow an gonis treylyans"
+msgstr "Fyllis ow karga an gonis treylyans"
 
 #: dialect/window.py:426
 msgid "Please report this in the Dialect bug tracker if the issue persists."
@@ -445,15 +445,15 @@ msgstr ""
 
 #: dialect/window.py:495
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "Fyllis kargow an gonis tekst-dhe-aroth. Dasassaya?"
+msgstr "Fyllis ow karga an gonis tekst-dhe-aroth. Dasassaya?"
 
 #: dialect/window.py:496
 msgid "Failed loading the text-to-speech service"
-msgstr "Fyllis kargow an gonis tekst-dhe-areth"
+msgstr "Fyllis ow karga an gonis tekst-dhe-areth"
 
 #: dialect/window.py:498
 msgid "Failed loading the text-to-speech service, check for network issues"
-msgstr "Fyllis kargow an gonis tekt-dhe-areth, checkya dhe kudynnow rosweyth"
+msgstr "Fyllis ow karga an gonis tekt-dhe-areth, checkya dhe kudynnow rosweyth"
 
 #: dialect/window.py:542
 msgid "Couldn’t read selection clip board!"
