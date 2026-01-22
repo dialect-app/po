@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2026-01-10 10:54+0000\n"
+"PO-Revision-Date: 2026-01-22 20:16+0000\n"
 "Last-Translator: Flynn <cirilla@tuta.io>\n"
 "Language-Team: Cornish <https://hosted.weblate.org/projects/dialect/dialect/"
 "kw/>\n"
@@ -23,7 +23,7 @@ msgstr ""
 "1000000 == 100000) ? 2 : ((n % 100 == 3 || n % 100 == 23 || n % 100 == 43 || "
 "n % 100 == 63 || n % 100 == 83) ? 3 : ((n != 1 && (n % 100 == 1 || n % 100 "
 "== 21 || n % 100 == 41 || n % 100 == 61 || n % 100 == 81)) ? 4 : 5))));\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 5.16-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -327,7 +327,7 @@ msgstr "Ow Karga…"
 #: dialect/window.blp:94 dialect/window.py:903 dialect/window.py:1187
 #: dialect/window.py:1195 dialect/window.py:1211
 msgid "Retry"
-msgstr "Dasassaya"
+msgstr "Assaya Arta"
 
 #: dialect/window.blp:105 dialect/window.blp:146
 msgid "Open Preferences"
@@ -335,7 +335,7 @@ msgstr "Ygeri Settyansow"
 
 #: dialect/window.blp:135
 msgid "Remove Key and Retry"
-msgstr "Remova Ger-Tremena ha Dasassaya"
+msgstr "Remova Ger-Tremena hag Assaya Arta"
 
 #: dialect/window.blp:241
 msgid "Main Menu"
@@ -417,7 +417,7 @@ msgstr "Fyllis ow karga an gonis treylyans"
 #: dialect/window.py:426
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
-"Reportya an kudyn ma yn an rol kudynnow Dialect mar an kudyn durya, mar pleg."
+"Reportya an kudyn ma y'n rol kudynnow Dialect mar an kudyn durya, mar pleg."
 
 #: dialect/window.py:444 dialect/window.py:1201
 #: dialect/search_provider/search_provider.in:192
@@ -426,7 +426,7 @@ msgstr "Ger-Tremena API yw res dhe devnydhya an gonis"
 
 #: dialect/window.py:445
 msgid "Please set an API key in the preferences."
-msgstr "Gorra unn ger-tremena API mar pleg yn an Settyansow."
+msgstr "Gorra unn ger-tremena API mar pleg y'n Settyansow."
 
 #: dialect/window.py:448 dialect/window.py:1193
 #: dialect/search_provider/search_provider.in:190
@@ -435,17 +435,17 @@ msgstr "An ger-tremena API provys yw anewn"
 
 #: dialect/window.py:450
 msgid "Please set a valid API key in the preferences."
-msgstr "Gorra unn ger-tremena API ewn mar pleg yn an Settyansow."
+msgstr "Gorra unn ger-tremena API ewn mar pleg y'n Settyansow."
 
 #: dialect/window.py:453
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
-"Gorra unn ger-tremena API ewn po angorra an ger-tremena API mar pleg yn an "
+"Gorra unn ger-tremena API ewn po angorra an ger-tremena API mar pleg y'n "
 "Settyansow."
 
 #: dialect/window.py:495
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "Fyllis ow karga an gonis tekst-dhe-aroth. Dasassaya?"
+msgstr "Fyllis ow karga an gonis tekst-dhe-aroth. Assaya arta?"
 
 #: dialect/window.py:496
 msgid "Failed loading the text-to-speech service"
@@ -485,7 +485,7 @@ msgstr "Tekst-dhe-Areth fyllis, checkya dhe kudyn rosweyth"
 
 #: dialect/window.py:907
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Tekst-dhe-Areth fylluis. Dasassaya?"
+msgstr "Tekst-dhe-Areth fyllis. Assaya arta?"
 
 #: dialect/window.py:971
 msgid "{} characters limit reached!"
