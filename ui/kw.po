@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2026-01-22 20:16+0000\n"
+"PO-Revision-Date: 2026-01-28 10:45+0000\n"
 "Last-Translator: Flynn <cirilla@tuta.io>\n"
 "Language-Team: Cornish <https://hosted.weblate.org/projects/dialect/dialect/"
 "kw/>\n"
@@ -126,7 +126,7 @@ msgstr "Dyllo Settyansow Provier"
 
 #: dialect/preferences.py:134
 msgid "No Settings for This Provider"
-msgstr "Settyansow Vyth dhe an Provier ma"
+msgstr "Settyansow Vyth dhe'n Provier ma"
 
 #: dialect/preferences.ui:8
 msgid "Providers"
@@ -158,7 +158,7 @@ msgstr "Treylyans Desempis"
 
 #: dialect/preferences.ui:81
 msgid "Warning: Your IP address may get banned for API abuse."
-msgstr "Gwarnyans: Agas trigva IP re emskemunys drefen tebeldyghtyans API."
+msgstr "Gwarnyans: Dha trigva IP re emskemunys drefen tebeldyghtyans API."
 
 #: dialect/preferences.ui:87
 msgid "Show Translations in Desktop Search"
@@ -166,7 +166,7 @@ msgstr "Diskwedhes Treylyansow yn Hwithrans System"
 
 #: dialect/preferences.ui:88
 msgid "Warning: All desktop searches will be sent to the translation service"
-msgstr "Gwarnyans: Oll hwirthansow system vydh danvonys dhe an gonis treylyans"
+msgstr "Gwarnyans: Oll hwirthansow system vydh danvonys dhe'n gonis treylyans"
 
 #: dialect/preferences.ui:95
 msgid "Translation Shortcut"
@@ -404,11 +404,11 @@ msgstr "Sawya"
 
 #: dialect/window.py:399
 msgid "Couldn’t connect to the translation service"
-msgstr "Fyllis dhe junya dhe an gonis treylyans"
+msgstr "Fyllis dhe junya dhe'n gonis treylyans"
 
 #: dialect/window.py:400
 msgid "We can’t connect to the server. Please check for network issues."
-msgstr "Ni yllyn junya dhe an servell. Checkya dhe kudyn rosweyth mar pleg."
+msgstr "Ni yllyn junya dhe'n servell. Checkya dhe kudyn rosweyth mar pleg."
 
 #: dialect/window.py:425 dialect/search_provider/search_provider.in:172
 msgid "Failed loading the translation service"
