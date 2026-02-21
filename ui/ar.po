@@ -8,8 +8,9 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2025-07-19 14:02+0000\n"
-"Last-Translator: Ahmed Najmawi <iramosu@protonmail.com>\n"
+"PO-Revision-Date: 2026-02-21 12:09+0000\n"
+"Last-Translator: Muhammed Al-Basha "
+"<mu7basha@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/dialect/dialect/"
 "ar/>\n"
 "Language: ar\n"
@@ -18,13 +19,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:78
 msgid "Dialect"
-msgstr "ديالكت"
+msgstr "دايلكت"
 
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
@@ -95,7 +96,7 @@ msgstr "أزرار الحافظة"
 #: data/app.drey.Dialect.metainfo.xml.in.in:35
 #: data/app.drey.Dialect.metainfo.xml.in.in:37
 msgid "The Dialect Authors"
-msgstr "مؤلفو ديالكت"
+msgstr "مؤلفو دايلكت"
 
 #: dialect/languages.py:63 dialect/widgets/lang_selector.py:84
 msgid "Auto"
@@ -103,7 +104,7 @@ msgstr "آلي"
 
 #: dialect/main.py:188
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "حقوق النسخ 2020– 2024 مؤلفو ديالكت"
+msgstr "حقوق النسخ 2020– 2024 مؤلفو دايلكت"
 
 #: dialect/main.py:190
 msgid "translator-credits"
@@ -316,7 +317,7 @@ msgstr "اختصارات لوحة المفاتيح"
 
 #: dialect/window.blp:34
 msgid "About Dialect"
-msgstr "عَنْ «ديالكت»"
+msgstr "حول دايلكت"
 
 #: dialect/window.blp:72 dialect/widgets/speech_button.py:40
 msgid "Loading…"
@@ -414,7 +415,7 @@ msgstr "تعذَّر تحميل خدمة الترجمة"
 
 #: dialect/window.py:426
 msgid "Please report this in the Dialect bug tracker if the issue persists."
-msgstr "أبلغ عن المشكلة في متتبع عِلَّل «ديالكت» إن استمرت."
+msgstr "أبلغ عن المشكلة في متتبع عِلَّل «دايلكت» إن استمرت."
 
 #: dialect/window.py:444 dialect/window.py:1201
 #: dialect/search_provider/search_provider.in:192
@@ -527,7 +528,7 @@ msgstr "أدخل مفتاح واجهة برمجة التطبيقات (API) لِ�
 
 #: dialect/widgets/provider_preferences.blp:83
 msgid "Character Usage"
-msgstr "استخدام الأحرف"
+msgstr "استخدام الحرف"
 
 #: dialect/widgets/speech_button.py:28
 msgid "Cancel Audio"
