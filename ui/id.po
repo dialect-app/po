@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2025-08-28 03:02+0000\n"
-"Last-Translator: leap123 <76893443+leap0x7b@users.noreply.github.com>\n"
+"PO-Revision-Date: 2026-02-28 11:09+0000\n"
+"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/dialect/"
 "dialect/id/>\n"
 "Language: id\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.13\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -36,6 +36,8 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"terjemahkan;terjemahan;Google Translate;LibreTranslate;Lingva Translate;Bing "
+"Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 
 #. For development version
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:187
@@ -101,17 +103,18 @@ msgid "Auto"
 msgstr "Otomatis"
 
 #: dialect/main.py:188
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Hak Cipta 2020–2022 Penulis Dialect"
+msgstr "Hak Cipta 2020–⁠2024 The Dialect Authors"
 
 #: dialect/main.py:190
 msgid "translator-credits"
-msgstr "Kukuh Syafaat <kukuhsyafaat@gnome.org>, 2020-2022."
+msgstr ""
+"Kukuh Syafaat <kukuhsyafaat@gnome.org>, 2020-2022.\n"
+"Arif Budiman <arifpedia@gmail.com>, 2026"
 
 #: dialect/main.py:191
 msgid "Donate"
-msgstr ""
+msgstr "Donasi"
 
 #: dialect/preferences.py:132
 msgid "Edit Provider Settings"
@@ -183,20 +186,19 @@ msgstr "Penampilan"
 
 #: dialect/preferences.ui:125
 msgid "Use Custom Font Size"
-msgstr ""
+msgstr "Gunakan Ukuran Font Kustom"
 
 #: dialect/preferences.ui:126
 msgid "System font size is used otherwise."
-msgstr ""
+msgstr "Ukuran font sistem digunakan jika tidak diatur."
 
 #: dialect/preferences.ui:132
-#, fuzzy
 msgid "Default Font Size"
-msgstr "Bawaan ke Otomatis"
+msgstr "Ukuran Font Default"
 
 #: dialect/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
-msgstr ""
+msgstr "Mengubah ukuran melalui pintasan tidak menimpa pengaturan ini."
 
 #: dialect/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -211,19 +213,17 @@ msgstr "Terjemahkan"
 #: dialect/shortcuts.blp:21
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr "Beralih Bahasa"
+msgstr "Tukar Bahasa"
 
 #: dialect/shortcuts.blp:26
-#, fuzzy
 msgctxt "shortcuts window"
 msgid "Select source language"
-msgstr "Ganti bahasa sumber"
+msgstr "Pilih bahasa sumber"
 
 #: dialect/shortcuts.blp:31
-#, fuzzy
 msgctxt "shortcuts window"
 msgid "Select destination language"
-msgstr "Ganti bahasa tujuan"
+msgstr "Pilih bahasa tujuan"
 
 #: dialect/shortcuts.blp:36
 msgctxt "shortcuts window"
@@ -243,12 +243,12 @@ msgstr "Tampilkan Pengucapan"
 #: dialect/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr ""
+msgstr "Perbesar ukuran font"
 
 #: dialect/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr ""
+msgstr "Perkecil ukuran font"
 
 #: dialect/shortcuts.blp:62
 msgctxt "shortcuts window"
@@ -435,38 +435,31 @@ msgstr "Harap tetapkan kunci API yang valid di preferensi."
 
 #: dialect/window.py:453
 msgid "Please set a valid API key or unset the API key in the preferences."
-msgstr ""
-"Harap setel kunci API yang valid atau batalkan setel kunci API di preferensi."
+msgstr "Harap atur kunci API yang valid atau hapus kunci API di preferensi."
 
 #: dialect/window.py:495
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "Gagal memuat layanan terjemahan"
+msgstr "Gagal memuat layanan teks-ke-suara. Coba lagi?"
 
 #: dialect/window.py:496
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "Gagal memuat layanan terjemahan"
+msgstr "Gagal memuat layanan teks-ke-suara"
 
 #: dialect/window.py:498
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
-msgstr ""
-"Kami tidak dapat terhubung ke peladen. Silakan periksa masalah jaringan."
+msgstr "Gagal memuat layanan teks-ke-suara, periksa masalah jaringan"
 
 #: dialect/window.py:542
-#, fuzzy
 msgid "Couldn’t read selection clip board!"
-msgstr "Salin terjemahan"
+msgstr "Tidak dapat membaca papan klip seleksi!"
 
 #: dialect/window.py:630
 msgid "Did you mean: "
-msgstr "Apakah maksud Anda: "
+msgstr "Maksud Anda: "
 
 #: dialect/window.py:793
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "Salin terjemahan"
+msgstr "Disalin ke papan klip"
 
 #: dialect/window.py:824
 msgid "New translation has been suggested!"
@@ -477,19 +470,16 @@ msgid "Suggestion failed."
 msgstr "Saran gagal."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "Teks ke Ucapan"
+msgstr "Teks-ke-Suara gagal"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "Terjemahan gagal, periksa masalah jaringan"
+msgstr "Teks-ke-Suara gagal, periksa masalah jaringan"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Teks ke Ucapan"
+msgstr "Teks-ke-Suara gagal. Coba lagi?"
 
 #: dialect/window.py:971
 msgid "{} characters limit reached!"
@@ -509,9 +499,8 @@ msgstr "Cari Bahasa…"
 
 #: dialect/widgets/provider_preferences.blp:5
 #: dialect/widgets/provider_preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "Buka Preferensi"
+msgstr "Preferensi Penyedia"
 
 #: dialect/widgets/provider_preferences.blp:21
 msgid "Instance URL"
@@ -536,12 +525,11 @@ msgstr "Masukkan kunci API untuk penyedia."
 
 #: dialect/widgets/provider_preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "Penggunaan Karakter"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "Batal"
+msgstr "Batalkan Audio"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
@@ -557,12 +545,11 @@ msgstr "Gaya gelap"
 
 #: dialect/search_provider/search_provider.in:201
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "Terjemahkan \"{text}\" dengan {provider_name}"
 
 #: dialect/search_provider/search_provider.in:246
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "Salin terjemahan"
+msgstr "Salin terjemahan ke papan klip"
 
 #~ msgid "A network issue has occurred. Retry?"
 #~ msgstr "Terjadi masalah jaringan. Ulangi?"
