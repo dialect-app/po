@@ -8,16 +8,16 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2025-11-06 21:51+0000\n"
-"Last-Translator: Pavel Borecki <pavel.borecki@gmail.com>\n"
-"Language-Team: Czech <https://hosted.weblate.org/projects/dialect/dialect/cs/"
-">\n"
+"PO-Revision-Date: 2026-03-28 19:11+0000\n"
+"Last-Translator: John Smith <codegemjava@gmail.com>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/dialect/dialect/"
+"cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -74,7 +74,7 @@ msgstr "Překlad postavený na Yandexu"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Translation based on DeepL"
-msgstr "Překlad založený na DeepL"
+msgstr "Přeloženo pomocí DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
