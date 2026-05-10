@@ -8,25 +8,27 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-05-10 15:54+0000\n"
+"Last-Translator: tobfos <tobfos26111@gmail.com>\n"
+"Language-Team: Vietnamese <https://hosted.weblate.org/projects/dialect/"
+"dialect/vi/>\n"
 "Language: vi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2026.5-dev\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:78
 msgid "Dialect"
-msgstr ""
+msgstr "Dialect"
 
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
 msgid "Translate between languages"
-msgstr ""
+msgstr "Dịch giữa các ngôn ngữ"
 
 #. Translators: These are search terms to find this application. Do NOT translate or localize the semicolons. The list MUST also end with a semicolon.
 #: data/app.drey.Dialect.desktop.in.in:13
@@ -34,510 +36,520 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"dịch;bản dịch;Google Dịch;LibreTranslate;Lingva Translate;Bing Microsoft "
+"Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 
 #. For development version
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:187
 msgid "A translation app for GNOME."
-msgstr ""
+msgstr "Một ứng dụng dịch thuật dành cho GNOME."
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:12
 msgid "Features:"
-msgstr ""
+msgstr "Tính năng:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
 msgid "Translation based on Google Translate"
-msgstr ""
+msgstr "Bản dịch dựa trên Google Dịch"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
+"Bản dịch dựa trên LibreTranslate API, cho phép bạn sử dụng mọi máy chủ công "
+"khai"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
-msgstr ""
+msgstr "Bản dịch dựa trên Lingva Translate API"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
 msgid "Translation based on Bing"
-msgstr ""
+msgstr "Bản dịch dựa trên Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
 msgid "Translation based on Yandex"
-msgstr ""
+msgstr "Bản dịch dựa trên Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
 msgid "Translation based on DeepL"
-msgstr ""
+msgstr "Bản dịch dựa trên DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
-msgstr ""
+msgstr "Chuyển văn bản thành giọng nói"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Translation history"
-msgstr ""
+msgstr "Lịch sử bản dịch"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:24
 msgid "Automatic language detection"
-msgstr ""
+msgstr "Phát hiện ngôn ngữ"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:25
 msgid "Clipboard buttons"
-msgstr ""
+msgstr "Các nút bản tạm"
 
 #. developer_name tag deprecated with Appstream 1.0
 #: data/app.drey.Dialect.metainfo.xml.in.in:35
 #: data/app.drey.Dialect.metainfo.xml.in.in:37
 msgid "The Dialect Authors"
-msgstr ""
+msgstr "Nhóm phát triển Dialect"
 
 #: dialect/languages.py:63 dialect/widgets/lang_selector.py:84
 msgid "Auto"
-msgstr ""
+msgstr "Tự động"
 
 #: dialect/main.py:188
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr ""
+msgstr "Copyright 2020–⁠2024 The Dialect Authors"
 
 #: dialect/main.py:190
 msgid "translator-credits"
-msgstr ""
+msgstr "Toby James Foster (Trí Tâm)"
 
 #: dialect/main.py:191
 msgid "Donate"
-msgstr ""
+msgstr "Quyên góp"
 
 #: dialect/preferences.py:132
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Sửa cài đặt nhà cung cấp dịch vụ"
 
 #: dialect/preferences.py:134
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Không có cài đặt cho nhà cung cấp dịch vụ này"
 
 #: dialect/preferences.ui:8
 msgid "Providers"
-msgstr ""
+msgstr "Nhà cung cấp dịch vụ"
 
 #: dialect/preferences.ui:11
 msgid "Translator"
-msgstr ""
+msgstr "Dịch trình"
 
 #: dialect/preferences.ui:12
 msgid "Choose from the available translation services."
-msgstr ""
+msgstr "Chọn dịch vụ dịch thuật."
 
 #: dialect/preferences.ui:43
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Chuyển văn bản thành giọng nói"
 
 #: dialect/preferences.ui:44
 msgid "Choose from the available TTS services."
-msgstr ""
+msgstr "Chọn dịch vụ TTS."
 
 #: dialect/preferences.ui:77
 msgid "Behavior"
-msgstr ""
+msgstr "Hành vi"
 
 #: dialect/preferences.ui:80
 msgid "Live Translation"
-msgstr ""
+msgstr "Dịch trực tiếp"
 
 #: dialect/preferences.ui:81
 msgid "Warning: Your IP address may get banned for API abuse."
-msgstr ""
+msgstr "Cảnh báo: IP của bạn có thể bị chặn do lạm dụng API."
 
 #: dialect/preferences.ui:87
 msgid "Show Translations in Desktop Search"
-msgstr ""
+msgstr "Hiển thị bản dịch trong tìm kiếm hệ thống"
 
 #: dialect/preferences.ui:88
 msgid "Warning: All desktop searches will be sent to the translation service"
-msgstr ""
+msgstr "Cảnh báo: Tất cả tìm kiếm hệ thống sẽ được gửi đến dịch vụ dịch thuật"
 
 #: dialect/preferences.ui:95
 msgid "Translation Shortcut"
-msgstr ""
+msgstr "Phim tắt dịch"
 
 #: dialect/preferences.ui:96
 msgid "The unselected choice will be used for line break."
-msgstr ""
+msgstr "Tuỳ chọn chưa chọn sẽ được dùng để ngắt dòng."
 
 #: dialect/preferences.ui:114
 msgid "Default to Auto"
-msgstr ""
+msgstr "Đặt tự động là mặc định"
 
 #: dialect/preferences.ui:115
 msgid "Use \"Auto\" as the default language"
-msgstr ""
+msgstr "Sử dụng ‘Tự động’ làm ngôn ngữ mặc định"
 
 #: dialect/preferences.ui:122
 msgid "Appearance"
-msgstr ""
+msgstr "Giao diện"
 
 #: dialect/preferences.ui:125
 msgid "Use Custom Font Size"
-msgstr ""
+msgstr "Sử dụng cỡ chữ tuỳ chỉnh"
 
 #: dialect/preferences.ui:126
 msgid "System font size is used otherwise."
-msgstr ""
+msgstr "Nếu không dùng cỡ chữ tuỳ chỉnh, sẽ dùng cỡ chữ hệ thống."
 
 #: dialect/preferences.ui:132
 msgid "Default Font Size"
-msgstr ""
+msgstr "Cỡ chữ mặc định"
 
 #: dialect/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
-msgstr ""
+msgstr "Thay đổi cỡ chữ bằng phim tắt sẽ không ghi đè cài đặt này."
 
 #: dialect/shortcuts.blp:13
 msgctxt "shortcuts window"
 msgid "Translator"
-msgstr ""
+msgstr "Dịch trình"
 
 #: dialect/shortcuts.blp:16
 msgctxt "shortcuts window"
 msgid "Translate"
-msgstr ""
+msgstr "Dịch"
 
 #: dialect/shortcuts.blp:21
 msgctxt "shortcuts window"
 msgid "Switch Languages"
-msgstr ""
+msgstr "Đổi ngôn ngữ"
 
 #: dialect/shortcuts.blp:26
 msgctxt "shortcuts window"
 msgid "Select source language"
-msgstr ""
+msgstr "Chọn ngôn ngữ nguồn"
 
 #: dialect/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Select destination language"
-msgstr ""
+msgstr "Ngôn ngữ đích"
 
 #: dialect/shortcuts.blp:36
 msgctxt "shortcuts window"
 msgid "Clear source text"
-msgstr ""
+msgstr "Xoá văn bản nguồn"
 
 #: dialect/shortcuts.blp:41
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr ""
+msgstr "Sao chép bản dịch"
 
 #: dialect/shortcuts.blp:46
 msgctxt "shortcuts window"
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "Hiện thị bản dịch"
 
 #: dialect/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr ""
+msgstr "Tăng cỡ chữ"
 
 #: dialect/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr ""
+msgstr "Giảm cỡ chữ"
 
 #: dialect/shortcuts.blp:62
 msgctxt "shortcuts window"
 msgid "Text-to-Speech"
-msgstr ""
+msgstr "Chuyển văn bản thành giọng nói"
 
 #: dialect/shortcuts.blp:65
 msgctxt "shortcuts window"
 msgid "Listen to source text"
-msgstr ""
+msgstr "Nghe văn bản nguồn"
 
 #: dialect/shortcuts.blp:70
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr ""
+msgstr "Nghe bản dịch"
 
 #: dialect/shortcuts.blp:76
 msgctxt "shortcuts window"
 msgid "Navigation"
-msgstr ""
+msgstr "Điều hướng"
 
 #: dialect/shortcuts.blp:79
 msgctxt "shortcuts window"
 msgid "Go back in history"
-msgstr ""
+msgstr "Bản dịch trước"
 
 #: dialect/shortcuts.blp:84
 msgctxt "shortcuts window"
 msgid "Go forward in history"
-msgstr ""
+msgstr "Bản dịch sau"
 
 #: dialect/shortcuts.blp:90
 msgctxt "shortcuts window"
 msgid "General"
-msgstr ""
+msgstr "Chung"
 
 #: dialect/shortcuts.blp:93
 msgctxt "shortcuts window"
 msgid "Preferences"
-msgstr ""
+msgstr "Tuỳ chọn"
 
 #: dialect/shortcuts.blp:98
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr ""
+msgstr "Phim tắt"
 
 #: dialect/shortcuts.blp:103
 msgctxt "shortcuts window"
 msgid "Quit"
-msgstr ""
+msgstr "Thoát"
 
 #: dialect/window.blp:15
 msgid "Show Pronunciation"
-msgstr ""
+msgstr "Hiện thị phiên âm"
 
 #: dialect/window.blp:24 dialect/window.py:1203
 msgid "Preferences"
-msgstr ""
+msgstr "Tuỳ chọn"
 
 #: dialect/window.blp:29
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "Phim tắt"
 
 #: dialect/window.blp:34
 msgid "About Dialect"
-msgstr ""
+msgstr "Giới thiệu Dialect"
 
 #: dialect/window.blp:72 dialect/widgets/speech_button.py:40
 msgid "Loading…"
-msgstr ""
+msgstr "Đang tải…"
 
 #: dialect/window.blp:94 dialect/window.py:903 dialect/window.py:1187
 #: dialect/window.py:1195 dialect/window.py:1211
 msgid "Retry"
-msgstr ""
+msgstr "Thử lại"
 
 #: dialect/window.blp:105 dialect/window.blp:146
 msgid "Open Preferences"
-msgstr ""
+msgstr "Mở tuỳ chọn"
 
 #: dialect/window.blp:135
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "Xoá khoá và thử lại"
 
 #: dialect/window.blp:241
 msgid "Main Menu"
-msgstr ""
+msgstr "Menu chính"
 
 #: dialect/window.blp:250
 msgid "Previous Translation"
-msgstr ""
+msgstr "Bản dịch trước"
 
 #: dialect/window.blp:258
 msgid "Next Translation"
-msgstr ""
+msgstr "Bản dịch sau"
 
 #: dialect/window.blp:270
 msgid "Change Source Language"
-msgstr ""
+msgstr "Đổi ngôn ngữ nguồn"
 
 #: dialect/window.blp:275
 msgid "Switch Languages"
-msgstr ""
+msgstr "Đổi ngôn ngữ"
 
 #: dialect/window.blp:282
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Đổi ngôn ngữ đích"
 
 #: dialect/window.blp:380
 msgid "Clear"
-msgstr ""
+msgstr "Xoá"
 
 #: dialect/window.blp:386
 msgid "Paste"
-msgstr ""
+msgstr "Dán"
 
 #: dialect/window.blp:392 dialect/window.blp:510
 #: dialect/widgets/speech_button.blp:5 dialect/widgets/speech_button.py:22
 msgid "Listen"
-msgstr ""
+msgstr "Nghe"
 
 #: dialect/window.blp:413
 msgid "Translate"
-msgstr ""
+msgstr "Dịch"
 
 #: dialect/window.blp:484
 msgid "Translating…"
-msgstr ""
+msgstr "Đang dịch…"
 
 #: dialect/window.blp:489
 msgid "Could not Translate the Text"
-msgstr ""
+msgstr "Không thể dịch văn bản"
 
 #: dialect/window.blp:496 dialect/search_provider/search_provider.in:245
 msgid "Copy"
-msgstr ""
+msgstr "Sao chép"
 
 #: dialect/window.blp:504
 msgid "Suggest Translation"
-msgstr ""
+msgstr "Đề xuất bản dịch"
 
 #: dialect/window.blp:528
 msgid "Cancel"
-msgstr ""
+msgstr "Huỷ"
 
 #: dialect/window.blp:535
 msgid "Save"
-msgstr ""
+msgstr "Lưu"
 
 #: dialect/window.py:399
 msgid "Couldn’t connect to the translation service"
-msgstr ""
+msgstr "Không thể kết nối với dịch vụ dịch thuật"
 
 #: dialect/window.py:400
 msgid "We can’t connect to the server. Please check for network issues."
-msgstr ""
+msgstr "Không thể kết nối với máy chủ. Vui long kiểm tra kết nối mạng."
 
 #: dialect/window.py:425 dialect/search_provider/search_provider.in:172
 msgid "Failed loading the translation service"
-msgstr ""
+msgstr "Không thể tải dịch vụ dịch thuật"
 
 #: dialect/window.py:426
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
+"Vui lòng báo lỗi này trên trình theo dõi lỗi của Dialect nếu sự cố vẫn tiếp "
+"diễn."
 
 #: dialect/window.py:444 dialect/window.py:1201
 #: dialect/search_provider/search_provider.in:192
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "Cần có khoá API để sử dụng dịch vụ"
 
 #: dialect/window.py:445
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "Vui lòng thêm khoá API trong phần tuỳ chọn."
 
 #: dialect/window.py:448 dialect/window.py:1193
 #: dialect/search_provider/search_provider.in:190
 msgid "The provided API key is invalid"
-msgstr ""
+msgstr "Khoá API được cung cấp không hợp lệ"
 
 #: dialect/window.py:450
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "Vui lòng thêm khoá API hợp lệ trong phần tuỳ chọn."
 
 #: dialect/window.py:453
 msgid "Please set a valid API key or unset the API key in the preferences."
-msgstr ""
+msgstr "Vui lòng thêm khoá API hợp lệ hoặc xoá khoá API trong phần tuỳ chọn."
 
 #: dialect/window.py:495
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr ""
+msgstr "Không thể tải dịch vụ chuyển văn bản thành giọng nói. Thử lại?"
 
 #: dialect/window.py:496
 msgid "Failed loading the text-to-speech service"
-msgstr ""
+msgstr "Không thể tải dịch vụ chuyển văn bản thành giọng nói"
 
 #: dialect/window.py:498
 msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr ""
+"Không thể tải dịch vụ chuyển văn bản thành giọng nói, vui lòng kiểm tra kết "
+"nối mang"
 
 #: dialect/window.py:542
 msgid "Couldn’t read selection clip board!"
-msgstr ""
+msgstr "Không thể đọc bộ nhớ tạm!"
 
 #: dialect/window.py:630
 msgid "Did you mean: "
-msgstr ""
+msgstr "Có phải ý bạn là: "
 
 #: dialect/window.py:793
 msgid "Copied to clipboard"
-msgstr ""
+msgstr "Đã được sao chép"
 
 #: dialect/window.py:824
 msgid "New translation has been suggested!"
-msgstr ""
+msgstr "Bản dịch mới đã được đề xuất!"
 
 #: dialect/window.py:826 dialect/window.py:830
 msgid "Suggestion failed."
-msgstr ""
+msgstr "Không thể gửi đề xuất."
 
 #: dialect/window.py:894
 msgid "Text-to-Speech failed"
-msgstr ""
+msgstr "Không thể sử dụng dịch vụ chuyển văn bản thành giọng nói"
 
 #: dialect/window.py:898
 msgid "Text-to-Speech failed, check for network issues"
 msgstr ""
+"Không thể sử dụng chuyển văn bản thành giọng nói, vui lòng kiểm tra kết nối "
+"mạng"
 
 #: dialect/window.py:907
 msgid "Text-to-Speech failed. Retry?"
-msgstr ""
+msgstr "Không thể sử dụng dịch vụ chuyển văn bản thành giọng nói. Thử lại?"
 
 #: dialect/window.py:971
 msgid "{} characters limit reached!"
-msgstr ""
+msgstr "Đã đạt giới hạn {} ký tự!"
 
 #: dialect/window.py:1185 dialect/search_provider/search_provider.in:188
 msgid "Translation failed, check for network issues"
-msgstr ""
+msgstr "Không thể dịch, vui lòng kiểm tra kết nối mạng"
 
 #: dialect/window.py:1209 dialect/search_provider/search_provider.in:194
 msgid "Translation failed"
-msgstr ""
+msgstr "Không thể dịch"
 
 #: dialect/widgets/lang_selector.blp:47
 msgid "Search Languages…"
-msgstr ""
+msgstr "Tìm kiếm ngôn ngữ…"
 
 #: dialect/widgets/provider_preferences.blp:5
 #: dialect/widgets/provider_preferences.blp:12
 msgid "Provider Preferences"
-msgstr ""
+msgstr "Tuỳ chọn nhà cung cấp dịch vụ"
 
 #: dialect/widgets/provider_preferences.blp:21
 msgid "Instance URL"
-msgstr ""
+msgstr "URL phiên bản"
 
 #: dialect/widgets/provider_preferences.blp:22
 msgid "Enter an Instance URL for the Provider."
-msgstr ""
+msgstr "Nhập URL phiên bản cho nhà cung cấp dịch vụ."
 
 #: dialect/widgets/provider_preferences.blp:32
 #: dialect/widgets/provider_preferences.blp:62
 msgid "Reset to Default"
-msgstr ""
+msgstr "Khôi phục mặc định"
 
 #: dialect/widgets/provider_preferences.blp:52
 msgid "API Key"
-msgstr ""
+msgstr "Khoá API"
 
 #: dialect/widgets/provider_preferences.blp:53
 msgid "Enter an API Key for the Provider."
-msgstr ""
+msgstr "Nhập khoá API cho nhà cung cấp dịch vụ."
 
 #: dialect/widgets/provider_preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "Số ký tự đã sử dụng"
 
 #: dialect/widgets/speech_button.py:28
 msgid "Cancel Audio"
-msgstr ""
+msgstr "Dừng phát giọng nói"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
-msgstr ""
+msgstr "Theo giao diện hệ thống"
 
 #: dialect/widgets/theme_switcher.blp:35
 msgid "Light Style"
-msgstr ""
+msgstr "Giao diện sáng"
 
 #: dialect/widgets/theme_switcher.blp:50
 msgid "Dark Style"
-msgstr ""
+msgstr "Giao diện tối"
 
 #: dialect/search_provider/search_provider.in:201
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "Dịch \"{text}\" bằng {provider_name}"
 
 #: dialect/search_provider/search_provider.in:246
 msgid "Copy translation to clipboard"
-msgstr ""
+msgstr "Sao chép bản dịch"
