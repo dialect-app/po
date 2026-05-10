@@ -1,0 +1,1819 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dialect-cldr-langs\n"
+"Language: vi\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Afar"
+msgstr "Tiếng Afar"
+
+msgid "Abkhazian"
+msgstr "Tiếng Abkhazia"
+
+msgid "Acehnese"
+msgstr "Tiếng Achinese"
+
+msgid "Acoli"
+msgstr "Tiếng Acoli"
+
+msgid "Adangme"
+msgstr "Tiếng Adangme"
+
+msgid "Adyghe"
+msgstr "Tiếng Adyghe"
+
+msgid "Avestan"
+msgstr "Tiếng Avestan"
+
+msgid "Afrikaans"
+msgstr "Tiếng Hà Lan (Nam Phi)"
+
+msgid "Afrihili"
+msgstr "Tiếng Afrihili"
+
+msgid "Aghem"
+msgstr "Tiếng Aghem"
+
+msgid "Ainu"
+msgstr "Tiếng Ainu"
+
+msgid "Akan"
+msgstr "Tiếng Akan"
+
+msgid "Akkadian"
+msgstr "Tiếng Akkadia"
+
+msgid "Alabama"
+msgstr "Tiếng Alabama"
+
+msgid "Aleut"
+msgstr "Tiếng Aleut"
+
+msgid "Gheg Albanian"
+msgstr "Tiếng Gheg Albani"
+
+msgid "Southern Altai"
+msgstr "Tiếng Altai Miền Nam"
+
+msgid "Amharic"
+msgstr "Tiếng Amharic"
+
+msgid "Aragonese"
+msgstr "Tiếng Aragon"
+
+msgid "Old English"
+msgstr "Tiếng Anh cổ"
+
+msgid "Obolo"
+msgstr "Tiếng Obolo"
+
+msgid "Angika"
+msgstr "Tiếng Angika"
+
+msgid "Arabic"
+msgstr "Tiếng Ả Rập"
+
+msgid "Modern Standard Arabic"
+msgstr "Tiếng Ả Rập Hiện đại"
+
+msgid "Aramaic"
+msgstr "Tiếng Aramaic"
+
+msgid "Mapuche"
+msgstr "Tiếng Mapuche"
+
+msgid "Araona"
+msgstr "Tiếng Araona"
+
+msgid "Arapaho"
+msgstr "Tiếng Arapaho"
+
+msgid "Algerian Arabic"
+msgstr "Tiếng Ả Rập Algeria"
+
+msgid "Najdi Arabic"
+msgstr "Tiếng Ả Rập Najdi"
+
+msgid "Arawak"
+msgstr "Tiếng Arawak"
+
+msgid "Egyptian Arabic"
+msgstr "Tiếng Ả Rập Ai Cập"
+
+msgid "Assamese"
+msgstr "Tiếng Assam"
+
+msgid "Asu"
+msgstr "Tiếng Asu"
+
+msgid "American Sign Language"
+msgstr "Ngôn ngữ Ký hiệu Mỹ"
+
+msgid "Asturian"
+msgstr "Tiếng Asturias"
+
+msgid "Atikamekw"
+msgstr "Tiếng Atikamekw"
+
+msgid "Avaric"
+msgstr "Tiếng Avaric"
+
+msgid "Awadhi"
+msgstr "Tiếng Awadhi"
+
+msgid "Aymara"
+msgstr "Tiếng Aymara"
+
+msgid "Azerbaijani"
+msgstr "Tiếng Azerbaijan"
+
+msgid "Azeri"
+msgstr "Tiếng Azeri"
+
+msgid "Bashkir"
+msgstr "Tiếng Bashkir"
+
+msgid "Baluchi"
+msgstr "Tiếng Baloch"
+
+msgid "Balinese"
+msgstr "Tiếng Bali"
+
+msgid "Bavarian"
+msgstr "Tiếng Bavaria"
+
+msgid "Basaa"
+msgstr "Tiếng Basaa"
+
+msgid "Bamun"
+msgstr "Tiếng Bamun"
+
+msgid "Batak Toba"
+msgstr "Tiếng Batak Toba"
+
+msgid "Ghomala"
+msgstr "Tiếng Ghomala"
+
+msgid "Belarusian"
+msgstr "Tiếng Belarus"
+
+msgid "Beja"
+msgstr "Tiếng Beja"
+
+msgid "Bemba"
+msgstr "Tiếng Bemba"
+
+msgid "Betawi"
+msgstr "Tiếng Betawi"
+
+msgid "Bena"
+msgstr "Tiếng Bena"
+
+msgid "Bafut"
+msgstr "Tiếng Bafut"
+
+msgid "Badaga"
+msgstr "Tiếng Badaga"
+
+msgid "Bulgarian"
+msgstr "Tiếng Bulgaria"
+
+msgid "Haryanvi"
+msgstr "Tiếng Haryana"
+
+msgid "Western Balochi"
+msgstr "Tiếng Tây Balochi"
+
+msgid "Bhojpuri"
+msgstr "Tiếng Bhojpuri"
+
+msgid "Bislama"
+msgstr "Tiếng Bislama"
+
+msgid "Bikol"
+msgstr "Tiếng Bikol"
+
+msgid "Bini"
+msgstr "Tiếng Bini"
+
+msgid "Banjar"
+msgstr "Tiếng Banjar"
+
+msgid "Kom"
+msgstr "Tiếng Kom"
+
+msgid "Siksiká"
+msgstr "Tiếng Siksika"
+
+msgid "Anii"
+msgstr "Anii"
+
+msgid "Bambara"
+msgstr "Tiếng Bambara"
+
+msgid "Bangla"
+msgstr "Tiếng Bangla"
+
+msgid "Tibetan"
+msgstr "Tiếng Tây Tạng"
+
+msgid "Bishnupriya"
+msgstr "Tiếng Bishnupriya"
+
+msgid "Bakhtiari"
+msgstr "Tiếng Bakhtiari"
+
+msgid "Breton"
+msgstr "Tiếng Breton"
+
+msgid "Braj"
+msgstr "Tiếng Braj"
+
+msgid "Brahui"
+msgstr "Tiếng Brahui"
+
+msgid "Bodo"
+msgstr "Tiếng Bodo"
+
+msgid "Bosnian"
+msgstr "Tiếng Bosnia"
+
+msgid "Akoose"
+msgstr "Tiếng Akoose"
+
+msgid "Buriat"
+msgstr "Tiếng Buriat"
+
+msgid "Buginese"
+msgstr "Tiếng Bugin"
+
+msgid "Bulu"
+msgstr "Tiếng Bulu"
+
+msgid "Blin"
+msgstr "Tiếng Blin"
+
+msgid "Medumba"
+msgstr "Tiếng Medumba"
+
+msgid "Catalan"
+msgstr "Tiếng Catalan"
+
+msgid "Caddo"
+msgstr "Tiếng Caddo"
+
+msgid "Carib"
+msgstr "Tiếng Carib"
+
+msgid "Cayuga"
+msgstr "Tiếng Cayuga"
+
+msgid "Atsam"
+msgstr "Tiếng Atsam"
+
+msgid "Chakma"
+msgstr "Tiếng Chakma"
+
+msgid "Chechen"
+msgstr "Tiếng Chechen"
+
+msgid "Cebuano"
+msgstr "Tiếng Cebuano"
+
+msgid "Chiga"
+msgstr "Tiếng Chiga"
+
+msgid "Chamorro"
+msgstr "Tiếng Chamorro"
+
+msgid "Chibcha"
+msgstr "Tiếng Chibcha"
+
+msgid "Chagatai"
+msgstr "Tiếng Chagatai"
+
+msgid "Chuukese"
+msgstr "Tiếng Chuuk"
+
+msgid "Mari"
+msgstr "Tiếng Mari"
+
+msgid "Chinook Jargon"
+msgstr "Biệt ngữ Chinook"
+
+msgid "Choctaw"
+msgstr "Tiếng Choctaw"
+
+msgid "Chipewyan"
+msgstr "Tiếng Chipewyan"
+
+msgid "Cherokee"
+msgstr "Tiếng Cherokee"
+
+msgid "Cheyenne"
+msgstr "Tiếng Cheyenne"
+
+msgid "Central Kurdish"
+msgstr "Tiếng Kurd Miền Trung"
+
+msgid "Kurdish, Sorani"
+msgstr "Tiếng Kurd Sorani"
+
+msgid "Chilcotin"
+msgstr "Tiếng Chilcotin"
+
+msgid "Corsican"
+msgstr "Tiếng Corsica"
+
+msgid "Coptic"
+msgstr "Tiếng Coptic"
+
+msgid "Capiznon"
+msgstr "Tiếng Capiznon"
+
+msgid "Cree"
+msgstr "Tiếng Cree"
+
+msgid "Michif"
+msgstr "Tiếng Michif"
+
+msgid "Crimean Tatar"
+msgstr "Tiếng Thổ Nhĩ Kỳ Crimean"
+
+msgid "Southern East Cree"
+msgstr "Tiếng Cree Đông Nam"
+
+msgid "Plains Cree"
+msgstr "Tiếng Plains Cree"
+
+msgid "Northern East Cree"
+msgstr "Tiếng Cree Đông Bắc"
+
+msgid "Moose Cree"
+msgstr "Tiếng Moose Cree"
+
+msgid "Carolina Algonquian"
+msgstr "Tiếng Carolina Algonquian"
+
+msgid "Seselwa Creole French"
+msgstr "Tiếng Pháp Seselwa Creole"
+
+msgid "Czech"
+msgstr "Tiếng Séc"
+
+msgid "Kashubian"
+msgstr "Tiếng Kashubia"
+
+msgid "Swampy Cree"
+msgstr "Tiếng Swampy Cree"
+
+msgid "Church Slavic"
+msgstr "Tiếng Slavơ Nhà thờ"
+
+msgid "Chuvash"
+msgstr "Tiếng Chuvash"
+
+msgid "Welsh"
+msgstr "Tiếng Wales"
+
+msgid "Danish"
+msgstr "Tiếng Đan Mạch"
+
+msgid "Dakota"
+msgstr "Tiếng Dakota"
+
+msgid "Dargwa"
+msgstr "Tiếng Dargwa"
+
+msgid "Taita"
+msgstr "Tiếng Taita"
+
+msgid "German"
+msgstr "Tiếng Đức"
+
+msgid "Swiss High German"
+msgstr "Tiếng Thượng Giéc-man (Thụy Sĩ)"
+
+msgid "Delaware"
+msgstr "Tiếng Delaware"
+
+msgid "Slave"
+msgstr "Tiếng Slave"
+
+msgid "Dogrib"
+msgstr "Tiếng Dogrib"
+
+msgid "Dinka"
+msgstr "Tiếng Dinka"
+
+msgid "Zarma"
+msgstr "Tiếng Zarma"
+
+msgid "Dogri"
+msgstr "Tiếng Dogri"
+
+msgid "Lower Sorbian"
+msgstr "Tiếng Hạ Sorbia"
+
+msgid "Central Dusun"
+msgstr "Tiếng Dusun Miền Trung"
+
+msgid "Duala"
+msgstr "Tiếng Duala"
+
+msgid "Middle Dutch"
+msgstr "Tiếng Hà Lan Trung cổ"
+
+msgid "Divehi"
+msgstr "Tiếng Divehi"
+
+msgid "Jola-Fonyi"
+msgstr "Tiếng Jola-Fonyi"
+
+msgid "Dyula"
+msgstr "Tiếng Dyula"
+
+msgid "Dzongkha"
+msgstr "Tiếng Dzongkha"
+
+msgid "Dazaga"
+msgstr "Tiếng Dazaga"
+
+msgid "Embu"
+msgstr "Tiếng Embu"
+
+msgid "Ewe"
+msgstr "Tiếng Ewe"
+
+msgid "Efik"
+msgstr "Tiếng Efik"
+
+msgid "Emilian"
+msgstr "Tiếng Emilia"
+
+msgid "Ancient Egyptian"
+msgstr "Tiếng Ai Cập cổ"
+
+msgid "Ekajuk"
+msgstr "Tiếng Ekajuk"
+
+msgid "Greek"
+msgstr "Tiếng Hy Lạp"
+
+msgid "Elamite"
+msgstr "Tiếng Elamite"
+
+msgid "English"
+msgstr "Tiếng Anh"
+
+msgid "British English"
+msgstr "Tiếng Anh (Anh)"
+
+msgid "American English"
+msgstr "Tiếng Anh (Mỹ)"
+
+msgid "Middle English"
+msgstr "Tiếng Anh Trung cổ"
+
+msgid "Esperanto"
+msgstr "Tiếng Quốc Tế Ngữ"
+
+msgid "Spanish"
+msgstr "Tiếng Tây Ban Nha"
+
+msgid "Latin American Spanish"
+msgstr "Tiếng Tây Ban Nha (Mỹ La tinh)"
+
+msgid "European Spanish"
+msgstr "Tiếng Tây Ban Nha (Châu Âu)"
+
+msgid "Central Yupik"
+msgstr "Tiếng Yupik Miền Trung"
+
+msgid "Estonian"
+msgstr "Tiếng Estonia"
+
+msgid "Basque"
+msgstr "Tiếng Basque"
+
+msgid "Ewondo"
+msgstr "Tiếng Ewondo"
+
+msgid "Extremaduran"
+msgstr "Tiếng Extremadura"
+
+msgid "Persian"
+msgstr "Tiếng Ba Tư"
+
+msgid "Dari"
+msgstr "Tiếng Dari"
+
+msgid "Fang"
+msgstr "Tiếng Fang"
+
+msgid "Fanti"
+msgstr "Tiếng Fanti"
+
+msgid "Fula"
+msgstr "Tiếng Fulah"
+
+msgid "Finnish"
+msgstr "Tiếng Phần Lan"
+
+msgid "Filipino"
+msgstr "Tiếng Philippines"
+
+msgid "Fijian"
+msgstr "Tiếng Fiji"
+
+msgid "Faroese"
+msgstr "Tiếng Faroe"
+
+msgid "Fon"
+msgstr "Tiếng Fon"
+
+msgid "French"
+msgstr "Tiếng Pháp"
+
+msgid "Cajun French"
+msgstr "Tiếng Pháp Cajun"
+
+msgid "Middle French"
+msgstr "Tiếng Pháp Trung cổ"
+
+msgid "Old French"
+msgstr "Tiếng Pháp cổ"
+
+msgid "Arpitan"
+msgstr "Tiếng Arpitan"
+
+msgid "Northern Frisian"
+msgstr "Tiếng Frisia Miền Bắc"
+
+msgid "Eastern Frisian"
+msgstr "Tiếng Frisian Miền Đông"
+
+msgid "Friulian"
+msgstr "Tiếng Friulian"
+
+msgid "Western Frisian"
+msgstr "Tiếng Frisia"
+
+msgid "Irish"
+msgstr "Tiếng Ireland"
+
+msgid "Ga"
+msgstr "Tiếng Ga"
+
+msgid "Gagauz"
+msgstr "Tiếng Gagauz"
+
+msgid "Gan Chinese"
+msgstr "Tiếng Cám"
+
+msgid "Gayo"
+msgstr "Tiếng Gayo"
+
+msgid "Gbaya"
+msgstr "Tiếng Gbaya"
+
+msgid "Scottish Gaelic"
+msgstr "Tiếng Gael Scotland"
+
+msgid "Geez"
+msgstr "Tiếng Geez"
+
+msgid "Gilbertese"
+msgstr "Tiếng Gilbert"
+
+msgid "Galician"
+msgstr "Tiếng Galician"
+
+msgid "Gilaki"
+msgstr "Tiếng Gilaki"
+
+msgid "Middle High German"
+msgstr "Tiếng Thượng Giéc-man Trung cổ"
+
+msgid "Guarani"
+msgstr "Tiếng Guarani"
+
+msgid "Old High German"
+msgstr "Tiếng Thượng Giéc-man cổ"
+
+msgid "Gondi"
+msgstr "Tiếng Gondi"
+
+msgid "Gorontalo"
+msgstr "Tiếng Gorontalo"
+
+msgid "Gothic"
+msgstr "Tiếng Gô-tích"
+
+msgid "Grebo"
+msgstr "Tiếng Grebo"
+
+msgid "Ancient Greek"
+msgstr "Tiếng Hy Lạp cổ"
+
+msgid "Swiss German"
+msgstr "Tiếng Đức (Thụy Sĩ)"
+
+msgid "Gujarati"
+msgstr "Tiếng Gujarati"
+
+msgid "Frafra"
+msgstr "Tiếng Frafra"
+
+msgid "Gusii"
+msgstr "Tiếng Gusii"
+
+msgid "Manx"
+msgstr "Tiếng Manx"
+
+msgid "Gwichʼin"
+msgstr "Tiếng Gwichʼin"
+
+msgid "Hausa"
+msgstr "Tiếng Hausa"
+
+msgid "Haida"
+msgstr "Tiếng Haida"
+
+msgid "Hakka Chinese"
+msgstr "Tiếng Khách Gia"
+
+msgid "Hawaiian"
+msgstr "Tiếng Hawaii"
+
+msgid "Southern Haida"
+msgstr "Tiếng Haida miền Nam"
+
+msgid "Hebrew"
+msgstr "Tiếng Do Thái"
+
+msgid "Hindi"
+msgstr "Tiếng Hindi"
+
+msgid "Hinglish"
+msgstr "Tiếng Hindi (lai tiếng Anh)"
+
+msgid "Fiji Hindi"
+msgstr "Tiếng Fiji Hindi"
+
+msgid "Hiligaynon"
+msgstr "Tiếng Hiligaynon"
+
+msgid "Hittite"
+msgstr "Tiếng Hittite"
+
+msgid "Hmong"
+msgstr "Tiếng H’Mông"
+
+msgid "Hiri Motu"
+msgstr "Tiếng Hiri Motu"
+
+msgid "Croatian"
+msgstr "Tiếng Croatia"
+
+msgid "Upper Sorbian"
+msgstr "Tiếng Thượng Sorbia"
+
+msgid "Xiang Chinese"
+msgstr "Tiếng Tương"
+
+msgid "Haitian Creole"
+msgstr "Tiếng Haiti"
+
+msgid "Hungarian"
+msgstr "Tiếng Hungary"
+
+msgid "Hupa"
+msgstr "Tiếng Hupa"
+
+msgid "Halkomelem"
+msgstr "Tiếng Halkomelem"
+
+msgid "Armenian"
+msgstr "Tiếng Armenia"
+
+msgid "Herero"
+msgstr "Tiếng Herero"
+
+msgid "Interlingua"
+msgstr "Tiếng Khoa Học Quốc Tế"
+
+msgid "Iban"
+msgstr "Tiếng Iban"
+
+msgid "Ibibio"
+msgstr "Tiếng Ibibio"
+
+msgid "Indonesian"
+msgstr "Tiếng Indonesia"
+
+msgid "Interlingue"
+msgstr "Tiếng Interlingue"
+
+msgid "Igbo"
+msgstr "Tiếng Igbo"
+
+msgid "Sichuan Yi"
+msgstr "Tiếng Di Tứ Xuyên"
+
+msgid "Inupiaq"
+msgstr "Tiếng Inupiaq"
+
+msgid "Western Canadian Inuktitut"
+msgstr "Tiếng Inuktitut miền Tây Canada"
+
+msgid "Iloko"
+msgstr "Tiếng Iloko"
+
+msgid "Ingush"
+msgstr "Tiếng Ingush"
+
+msgid "Ido"
+msgstr "Tiếng Ido"
+
+msgid "Icelandic"
+msgstr "Tiếng Iceland"
+
+msgid "Italian"
+msgstr "Tiếng Italy"
+
+msgid "Inuktitut"
+msgstr "Tiếng Inuktitut"
+
+msgid "Ingrian"
+msgstr "Tiếng Ingria"
+
+msgid "Japanese"
+msgstr "Tiếng Nhật"
+
+msgid "Jamaican Creole English"
+msgstr "Tiếng Anh Jamaica Creole"
+
+msgid "Lojban"
+msgstr "Tiếng Lojban"
+
+msgid "Ngomba"
+msgstr "Tiếng Ngomba"
+
+msgid "Machame"
+msgstr "Tiếng Machame"
+
+msgid "Judeo-Persian"
+msgstr "Tiếng Judeo-Ba Tư"
+
+msgid "Judeo-Arabic"
+msgstr "Tiếng Judeo-Ả Rập"
+
+msgid "Jutish"
+msgstr "Tiếng Jutish"
+
+msgid "Javanese"
+msgstr "Tiếng Java"
+
+msgid "Georgian"
+msgstr "Tiếng Georgia"
+
+msgid "Kara-Kalpak"
+msgstr "Tiếng Kara-Kalpak"
+
+msgid "Kabyle"
+msgstr "Tiếng Kabyle"
+
+msgid "Kachin"
+msgstr "Tiếng Kachin"
+
+msgid "Jju"
+msgstr "Tiếng Jju"
+
+msgid "Kamba"
+msgstr "Tiếng Kamba"
+
+msgid "Kawi"
+msgstr "Tiếng Kawi"
+
+msgid "Kabardian"
+msgstr "Tiếng Kabardian"
+
+msgid "Kanembu"
+msgstr "Tiếng Kanembu"
+
+msgid "Tyap"
+msgstr "Tiếng Tyap"
+
+msgid "Makonde"
+msgstr "Tiếng Makonde"
+
+msgid "Kabuverdianu"
+msgstr "Tiếng Kabuverdianu"
+
+msgid "Koro"
+msgstr "Tiếng Koro"
+
+msgid "Kongo"
+msgstr "Tiếng Kongo"
+
+msgid "Kaingang"
+msgstr "Tiếng Kaingang"
+
+msgid "Khasi"
+msgstr "Tiếng Khasi"
+
+msgid "Khotanese"
+msgstr "Tiếng Khotan"
+
+msgid "Koyra Chiini"
+msgstr "Tiếng Koyra Chiini"
+
+msgid "Kikuyu"
+msgstr "Tiếng Kikuyu"
+
+msgid "Kuanyama"
+msgstr "Tiếng Kuanyama"
+
+msgid "Kazakh"
+msgstr "Tiếng Kazakh"
+
+msgid "Kako"
+msgstr "Tiếng Kako"
+
+msgid "Kalaallisut"
+msgstr "Tiếng Kalaallisut"
+
+msgid "Kalenjin"
+msgstr "Tiếng Kalenjin"
+
+msgid "Khmer"
+msgstr "Tiếng Khmer"
+
+msgid "Kimbundu"
+msgstr "Tiếng Kimbundu"
+
+msgid "Kannada"
+msgstr "Tiếng Kannada"
+
+msgid "Korean"
+msgstr "Tiếng Hàn"
+
+msgid "Komi-Permyak"
+msgstr "Tiếng Komi-Permyak"
+
+msgid "Konkani"
+msgstr "Tiếng Konkani"
+
+msgid "Kosraean"
+msgstr "Tiếng Kosrae"
+
+msgid "Kpelle"
+msgstr "Tiếng Kpelle"
+
+msgid "Kanuri"
+msgstr "Tiếng Kanuri"
+
+msgid "Karachay-Balkar"
+msgstr "Tiếng Karachay-Balkar"
+
+msgid "Karelian"
+msgstr "Tiếng Karelian"
+
+msgid "Kurukh"
+msgstr "Tiếng Kurukh"
+
+msgid "Kashmiri"
+msgstr "Tiếng Kashmir"
+
+msgid "Shambala"
+msgstr "Tiếng Shambala"
+
+msgid "Bafia"
+msgstr "Tiếng Bafia"
+
+msgid "Colognian"
+msgstr "Tiếng Cologne"
+
+msgid "Kurdish"
+msgstr "Tiếng Kurd"
+
+msgid "Kurdish"
+msgstr "Tiếng Kurd"
+
+msgid "Kurmanji"
+msgstr "Tiếng Kurmanji"
+
+msgid "Kumyk"
+msgstr "Tiếng Kumyk"
+
+msgid "Kutenai"
+msgstr "Tiếng Kutenai"
+
+msgid "Komi"
+msgstr "Tiếng Komi"
+
+msgid "Cornish"
+msgstr "Tiếng Cornwall"
+
+msgid "Kwakʼwala"
+msgstr "Tiếng Kwakʼwala"
+
+msgid "Kuvi"
+msgstr "Tiếng Kuvi"
+
+msgid "Kyrgyz"
+msgstr "Tiếng Kyrgyz"
+
+msgid "Latin"
+msgstr "Tiếng La-tinh"
+
+msgid "Ladino"
+msgstr "Tiếng Ladino"
+
+msgid "Langi"
+msgstr "Tiếng Langi"
+
+msgid "Western Panjabi"
+msgstr "Tiếng Lahnda"
+
+msgid "Lamba"
+msgstr "Tiếng Lamba"
+
+msgid "Luxembourgish"
+msgstr "Tiếng Luxembourg"
+
+msgid "Lezghian"
+msgstr "Tiếng Lezghian"
+
+msgid "Ganda"
+msgstr "Tiếng Ganda"
+
+msgid "Limburgish"
+msgstr "Tiếng Limburg"
+
+msgid "Ligurian"
+msgstr "Tiếng Liguria"
+
+msgid "Lillooet"
+msgstr "Tiếng Lillooet"
+
+msgid "Lakota"
+msgstr "Tiếng Lakota"
+
+msgid "Lombard"
+msgstr "Tiếng Lombard"
+
+msgid "Lingala"
+msgstr "Tiếng Lingala"
+
+msgid "Lao"
+msgstr "Tiếng Lào"
+
+msgid "Mongo"
+msgstr "Tiếng Mongo"
+
+msgid "Louisiana Creole"
+msgstr "Tiếng Creole Louisiana"
+
+msgid "Lozi"
+msgstr "Tiếng Lozi"
+
+msgid "Northern Luri"
+msgstr "Tiếng Bắc Luri"
+
+msgid "Saamia"
+msgstr "Tiếng Saamia"
+
+msgid "Lithuanian"
+msgstr "Tiếng Litva"
+
+msgid "Luba-Katanga"
+msgstr "Tiếng Luba-Katanga"
+
+msgid "Luba-Lulua"
+msgstr "Tiếng Luba-Lulua"
+
+msgid "Luiseno"
+msgstr "Tiếng Luiseno"
+
+msgid "Lunda"
+msgstr "Tiếng Lunda"
+
+msgid "Luo"
+msgstr "Tiếng Luo"
+
+msgid "Mizo"
+msgstr "Tiếng Lushai"
+
+msgid "Luyia"
+msgstr "Tiếng Luyia"
+
+msgid "Latvian"
+msgstr "Tiếng Latvia"
+
+msgid "Madurese"
+msgstr "Tiếng Madura"
+
+msgid "Mafa"
+msgstr "Tiếng Mafa"
+
+msgid "Magahi"
+msgstr "Tiếng Magahi"
+
+msgid "Maithili"
+msgstr "Tiếng Maithili"
+
+msgid "Makasar"
+msgstr "Tiếng Makasar"
+
+msgid "Mandingo"
+msgstr "Tiếng Mandingo"
+
+msgid "Masai"
+msgstr "Tiếng Masai"
+
+msgid "Maba"
+msgstr "Tiếng Maba"
+
+msgid "Moksha"
+msgstr "Tiếng Moksha"
+
+msgid "Mandar"
+msgstr "Tiếng Mandar"
+
+msgid "Mende"
+msgstr "Tiếng Mende"
+
+msgid "Meru"
+msgstr "Tiếng Meru"
+
+msgid "Morisyen"
+msgstr "Tiếng Morisyen"
+
+msgid "Malagasy"
+msgstr "Tiếng Malagasy"
+
+msgid "Middle Irish"
+msgstr "Tiếng Ai-len Trung cổ"
+
+msgid "Makhuwa-Meetto"
+msgstr "Tiếng Makhuwa-Meetto"
+
+msgid "Metaʼ"
+msgstr "Tiếng Meta’"
+
+msgid "Marshallese"
+msgstr "Tiếng Marshall"
+
+msgid "Māori"
+msgstr "Tiếng Māori"
+
+msgid "Mi'kmaw"
+msgstr "Tiếng Micmac"
+
+msgid "Minangkabau"
+msgstr "Tiếng Minangkabau"
+
+msgid "Macedonian"
+msgstr "Tiếng Macedonia"
+
+msgid "Malayalam"
+msgstr "Tiếng Malayalam"
+
+msgid "Mongolian"
+msgstr "Tiếng Mông Cổ"
+
+msgid "Manchu"
+msgstr "Tiếng Mãn Châu"
+
+msgid "Manipuri"
+msgstr "Tiếng Manipuri"
+
+msgid "Innu-aimun"
+msgstr "Tiếng Innu-aimun"
+
+msgid "Mohawk"
+msgstr "Tiếng Mohawk"
+
+msgid "Mossi"
+msgstr "Tiếng Mossi"
+
+msgid "Marathi"
+msgstr "Tiếng Marathi"
+
+msgid "Malay"
+msgstr "Tiếng Mã Lai"
+
+msgid "Maltese"
+msgstr "Tiếng Malta"
+
+msgid "Mundang"
+msgstr "Tiếng Mundang"
+
+msgid "Multiple languages"
+msgstr "Nhiều ngôn ngữ"
+
+msgid "Muscogee"
+msgstr "Tiếng Creek"
+
+msgid "Mirandese"
+msgstr "Tiếng Miranda"
+
+msgid "Marwari"
+msgstr "Tiếng Marwari"
+
+msgid "Burmese"
+msgstr "Tiếng Miến Điện"
+
+msgid "Myene"
+msgstr "Tiếng Myene"
+
+msgid "Erzya"
+msgstr "Tiếng Erzya"
+
+msgid "Mazanderani"
+msgstr "Tiếng Mazanderani"
+
+msgid "Nauru"
+msgstr "Tiếng Nauru"
+
+msgid "Min Nan Chinese"
+msgstr "Tiếng Mân Nam"
+
+msgid "Neapolitan"
+msgstr "Tiếng Napoli"
+
+msgid "Nama"
+msgstr "Tiếng Nama"
+
+msgid "Norwegian Bokmål"
+msgstr "Tiếng Na Uy (Bokmål)"
+
+msgid "North Ndebele"
+msgstr "Tiếng Ndebele Miền Bắc"
+
+msgid "Low German"
+msgstr "Tiếng Hạ Đức"
+
+msgid "Low Saxon"
+msgstr "Tiếng Hạ Saxon"
+
+msgid "Nepali"
+msgstr "Tiếng Nepal"
+
+msgid "Newari"
+msgstr "Tiếng Newari"
+
+msgid "Ndonga"
+msgstr "Tiếng Ndonga"
+
+msgid "Nias"
+msgstr "Tiếng Nias"
+
+msgid "Niuean"
+msgstr "Tiếng Niuean"
+
+msgid "Ao Naga"
+msgstr "Tiếng Ao Naga"
+
+msgid "Dutch"
+msgstr "Tiếng Hà Lan"
+
+msgid "Kwasio"
+msgstr "Tiếng Kwasio"
+
+msgid "Norwegian Nynorsk"
+msgstr "Tiếng Na Uy (Nynorsk)"
+
+msgid "Ngiemboon"
+msgstr "Tiếng Ngiemboon"
+
+msgid "Norwegian"
+msgstr "Tiếng Na Uy"
+
+msgid "Nogai"
+msgstr "Tiếng Nogai"
+
+msgid "Old Norse"
+msgstr "Tiếng Na Uy cổ"
+
+msgid "N’Ko"
+msgstr "Tiếng N’Ko"
+
+msgid "South Ndebele"
+msgstr "Tiếng Ndebele Miền Nam"
+
+msgid "Northern Sotho"
+msgstr "Tiếng Bắc Sotho"
+
+msgid "Nuer"
+msgstr "Tiếng Nuer"
+
+msgid "Navajo"
+msgstr "Tiếng Navajo"
+
+msgid "Classical Newari"
+msgstr "Tiếng Newari cổ"
+
+msgid "Nyanja"
+msgstr "Tiếng Nyanja"
+
+msgid "Nyamwezi"
+msgstr "Tiếng Nyamwezi"
+
+msgid "Nyankole"
+msgstr "Tiếng Nyankole"
+
+msgid "Nyoro"
+msgstr "Tiếng Nyoro"
+
+msgid "Nzima"
+msgstr "Tiếng Nzima"
+
+msgid "Occitan"
+msgstr "Tiếng Occitan"
+
+msgid "Ojibwa"
+msgstr "Tiếng Ojibwa"
+
+msgid "Northwestern Ojibwa"
+msgstr "Tiếng Ojibwe Tây Bắc"
+
+msgid "Central Ojibwa"
+msgstr "Tiếng Ojibwe miền Trung"
+
+msgid "Oji-Cree"
+msgstr "Tiếng Oji-Cree"
+
+msgid "Western Ojibwa"
+msgstr "Tiếng Ojibwe miền Tây"
+
+msgid "Okanagan"
+msgstr "Tiếng Okanagan"
+
+msgid "Oromo"
+msgstr "Tiếng Oromo"
+
+msgid "Odia"
+msgstr "Tiếng Odia"
+
+msgid "Ossetic"
+msgstr "Tiếng Ossetic"
+
+msgid "Osage"
+msgstr "Tiếng Osage"
+
+msgid "Ottoman Turkish"
+msgstr "Tiếng Thổ Nhĩ Kỳ Ottoman"
+
+msgid "Punjabi"
+msgstr "Tiếng Punjab"
+
+msgid "Pangasinan"
+msgstr "Tiếng Pangasinan"
+
+msgid "Pahlavi"
+msgstr "Tiếng Pahlavi"
+
+msgid "Pampanga"
+msgstr "Tiếng Pampanga"
+
+msgid "Papiamento"
+msgstr "Tiếng Papiamento"
+
+msgid "Palauan"
+msgstr "Tiếng Palauan"
+
+msgid "Nigerian Pidgin"
+msgstr "Pidgin Nigeria"
+
+msgid "Old Persian"
+msgstr "Tiếng Ba Tư cổ"
+
+msgid "Phoenician"
+msgstr "Tiếng Phoenicia"
+
+msgid "Pali"
+msgstr "Tiếng Pali"
+
+msgid "Pijin"
+msgstr "Tiếng Pijin"
+
+msgid "Polish"
+msgstr "Tiếng Ba Lan"
+
+msgid "Pohnpeian"
+msgstr "Tiếng Pohnpeian"
+
+msgid "Maliseet-Passamaquoddy"
+msgstr "Tiếng Maliseet-Passamaquoddy"
+
+msgid "Prussian"
+msgstr "Tiếng Prussia"
+
+msgid "Old Provençal"
+msgstr "Tiếng Provençal cổ"
+
+msgid "Pashto"
+msgstr "Tiếng Pashto"
+
+msgid "Pushto"
+msgstr "Tiếng Pushto"
+
+msgid "Portuguese"
+msgstr "Tiếng Bồ Đào Nha"
+
+msgid "European Portuguese"
+msgstr "Tiếng Bồ Đào Nha (Châu Âu)"
+
+msgid "Quechua"
+msgstr "Tiếng Quechua"
+
+msgid "Kʼicheʼ"
+msgstr "Tiếng Kʼicheʼ"
+
+msgid "Chimborazo Highland Quichua"
+msgstr "Tiếng Quechua ở Cao nguyên Chimborazo"
+
+msgid "Rajasthani"
+msgstr "Tiếng Rajasthani"
+
+msgid "Rapanui"
+msgstr "Tiếng Rapanui"
+
+msgid "Rarotongan"
+msgstr "Tiếng Rarotongan"
+
+msgid "Rohingya"
+msgstr "Tiếng Rohingya"
+
+msgid "Romansh"
+msgstr "Tiếng Romansh"
+
+msgid "Rundi"
+msgstr "Tiếng Rundi"
+
+msgid "Romanian"
+msgstr "Tiếng Romania"
+
+msgid "Moldavian"
+msgstr "Tiếng Moldova"
+
+msgid "Rombo"
+msgstr "Tiếng Rombo"
+
+msgid "Romany"
+msgstr "Tiếng Romany"
+
+msgid "Russian"
+msgstr "Tiếng Nga"
+
+msgid "Aromanian"
+msgstr "Tiếng Aromania"
+
+msgid "Kinyarwanda"
+msgstr "Tiếng Kinyarwanda"
+
+msgid "Rwa"
+msgstr "Tiếng Rwa"
+
+msgid "Sanskrit"
+msgstr "Tiếng Phạn"
+
+msgid "Sandawe"
+msgstr "Tiếng Sandawe"
+
+msgid "Yakut"
+msgstr "Tiếng Sakha"
+
+msgid "Samaritan Aramaic"
+msgstr "Tiếng Samaritan Aramaic"
+
+msgid "Samburu"
+msgstr "Tiếng Samburu"
+
+msgid "Sasak"
+msgstr "Tiếng Sasak"
+
+msgid "Santali"
+msgstr "Tiếng Santali"
+
+msgid "Ngambay"
+msgstr "Tiếng Ngambay"
+
+msgid "Sangu"
+msgstr "Tiếng Sangu"
+
+msgid "Sardinian"
+msgstr "Tiếng Sardinia"
+
+msgid "Sicilian"
+msgstr "Tiếng Sicilia"
+
+msgid "Scots"
+msgstr "Tiếng Scots"
+
+msgid "Sindhi"
+msgstr "Tiếng Sindhi"
+
+msgid "Southern Kurdish"
+msgstr "Tiếng Kurd Miền Nam"
+
+msgid "Northern Sami"
+msgstr "Tiếng Sami Miền Bắc"
+
+msgid "Seneca"
+msgstr "Tiếng Seneca"
+
+msgid "Sena"
+msgstr "Tiếng Sena"
+
+msgid "Selkup"
+msgstr "Tiếng Selkup"
+
+msgid "Koyraboro Senni"
+msgstr "Tiếng Koyraboro Senni"
+
+msgid "Sango"
+msgstr "Tiếng Sango"
+
+msgid "Old Irish"
+msgstr "Tiếng Ai-len cổ"
+
+msgid "Serbo-Croatian"
+msgstr "Tiếng Serbo-Croatia"
+
+msgid "Tachelhit"
+msgstr "Tiếng Tachelhit"
+
+msgid "Shan"
+msgstr "Tiếng Shan"
+
+msgid "Chadian Arabic"
+msgstr "Tiếng Ả-Rập Chad"
+
+msgid "Sinhala"
+msgstr "Tiếng Sinhala"
+
+msgid "Sidamo"
+msgstr "Tiếng Sidamo"
+
+msgid "Slovak"
+msgstr "Tiếng Slovak"
+
+msgid "Slovenian"
+msgstr "Tiếng Slovenia"
+
+msgid "Southern Lushootseed"
+msgstr "Tiếng Lushootseed miền Nam"
+
+msgid "Samoan"
+msgstr "Tiếng Samoa"
+
+msgid "Southern Sami"
+msgstr "Tiếng Sami Miền Nam"
+
+msgid "Lule Sami"
+msgstr "Tiếng Lule Sami"
+
+msgid "Inari Sami"
+msgstr "Tiếng Inari Sami"
+
+msgid "Skolt Sami"
+msgstr "Tiếng Skolt Sami"
+
+msgid "Shona"
+msgstr "Tiếng Shona"
+
+msgid "Soninke"
+msgstr "Tiếng Soninke"
+
+msgid "Somali"
+msgstr "Tiếng Somali"
+
+msgid "Sogdien"
+msgstr "Tiếng Sogdien"
+
+msgid "Albanian"
+msgstr "Tiếng Albania"
+
+msgid "Serbian"
+msgstr "Tiếng Serbia"
+
+msgid "Sranan Tongo"
+msgstr "Tiếng Sranan Tongo"
+
+msgid "Serer"
+msgstr "Tiếng Serer"
+
+msgid "Swati"
+msgstr "Tiếng Swati"
+
+msgid "Saho"
+msgstr "Tiếng Saho"
+
+msgid "Southern Sotho"
+msgstr "Tiếng Nam Sotho"
+
+msgid "Straits Salish"
+msgstr "Tiếng Straits Salish"
+
+msgid "Sundanese"
+msgstr "Tiếng Sunda"
+
+msgid "Sukuma"
+msgstr "Tiếng Sukuma"
+
+msgid "Susu"
+msgstr "Tiếng Susu"
+
+msgid "Sumerian"
+msgstr "Tiếng Sumeria"
+
+msgid "Swedish"
+msgstr "Tiếng Thụy Điển"
+
+msgid "Swahili"
+msgstr "Tiếng Swahili"
+
+msgid "Congo Swahili"
+msgstr "Tiếng Swahili Congo"
+
+msgid "Comorian"
+msgstr "Tiếng Cômo"
+
+msgid "Classical Syriac"
+msgstr "Tiếng Syriac cổ"
+
+msgid "Syriac"
+msgstr "Tiếng Syriac"
+
+msgid "Silesian"
+msgstr "Tiếng Silesia"
+
+msgid "Tamil"
+msgstr "Tiếng Tamil"
+
+msgid "Southern Tutchone"
+msgstr "Tiếng Tutchone miền Nam"
+
+msgid "Telugu"
+msgstr "Tiếng Telugu"
+
+msgid "Timne"
+msgstr "Tiếng Timne"
+
+msgid "Teso"
+msgstr "Tiếng Teso"
+
+msgid "Tereno"
+msgstr "Tiếng Tereno"
+
+msgid "Tetum"
+msgstr "Tiếng Tetum"
+
+msgid "Tajik"
+msgstr "Tiếng Tajik"
+
+msgid "Tagish"
+msgstr "Tiếng Tagish"
+
+msgid "Thai"
+msgstr "Tiếng Thái"
+
+msgid "Tahltan"
+msgstr "Tiếng Tahltan"
+
+msgid "Tigrinya"
+msgstr "Tiếng Tigrinya"
+
+msgid "Tigre"
+msgstr "Tiếng Tigre"
+
+msgid "Tiv"
+msgstr "Tiếng Tiv"
+
+msgid "Turkmen"
+msgstr "Tiếng Turkmen"
+
+msgid "Tokelauan"
+msgstr "Tiếng Tokelau"
+
+msgid "Tagalog"
+msgstr "Tiếng Tagalog"
+
+msgid "Klingon"
+msgstr "Tiếng Klingon"
+
+msgid "Tlingit"
+msgstr "Tiếng Tlingit"
+
+msgid "Tamashek"
+msgstr "Tiếng Tamashek"
+
+msgid "Tswana"
+msgstr "Tiếng Tswana"
+
+msgid "Tongan"
+msgstr "Tiếng Tonga"
+
+msgid "Nyasa Tonga"
+msgstr "Tiếng Nyasa Tonga"
+
+msgid "Toki Pona"
+msgstr "Tiếng Toki Pona"
+
+msgid "Tok Pisin"
+msgstr "Tiếng Tok Pisin"
+
+msgid "Turkish"
+msgstr "Tiếng Thổ Nhĩ Kỳ"
+
+msgid "Taroko"
+msgstr "Tiếng Taroko"
+
+msgid "Tsonga"
+msgstr "Tiếng Tsonga"
+
+msgid "Tsimshian"
+msgstr "Tiếng Tsimshian"
+
+msgid "Tatar"
+msgstr "Tiếng Tatar"
+
+msgid "Northern Tutchone"
+msgstr "Tiếng Tutchone miền Bắc"
+
+msgid "Tumbuka"
+msgstr "Tiếng Tumbuka"
+
+msgid "Tuvalu"
+msgstr "Tiếng Tuvalu"
+
+msgid "Twi"
+msgstr "Tiếng Twi"
+
+msgid "Tasawaq"
+msgstr "Tiếng Tasawaq"
+
+msgid "Tahitian"
+msgstr "Tiếng Tahiti"
+
+msgid "Tuvinian"
+msgstr "Tiếng Tuvinian"
+
+msgid "Central Atlas Tamazight"
+msgstr "Tiếng Tamazight Miền Trung Ma-rốc"
+
+msgid "Udmurt"
+msgstr "Tiếng Udmurt"
+
+msgid "Uyghur"
+msgstr "Tiếng Uyghur"
+
+msgid "Ugaritic"
+msgstr "Tiếng Ugaritic"
+
+msgid "Ukrainian"
+msgstr "Tiếng Ukraina"
+
+msgid "Umbundu"
+msgstr "Tiếng Umbundu"
+
+msgid "Unknown language"
+msgstr "Ngôn ngữ không xác định"
+
+msgid "Urdu"
+msgstr "Tiếng Urdu"
+
+msgid "Uzbek"
+msgstr "Tiếng Uzbek"
+
+msgid "Vai"
+msgstr "Tiếng Vai"
+
+msgid "Venda"
+msgstr "Tiếng Venda"
+
+msgid "Venetian"
+msgstr "Tiếng Veneto"
+
+msgid "Vietnamese"
+msgstr "Tiếng Việt"
+
+msgid "Makhuwa"
+msgstr "Tiếng Makhuwa"
+
+msgid "Volapük"
+msgstr "Tiếng Volapük"
+
+msgid "Votic"
+msgstr "Tiếng Votic"
+
+msgid "Vunjo"
+msgstr "Tiếng Vunjo"
+
+msgid "Walloon"
+msgstr "Tiếng Walloon"
+
+msgid "Walser"
+msgstr "Tiếng Walser"
+
+msgid "Wolaytta"
+msgstr "Tiếng Walamo"
+
+msgid "Waray"
+msgstr "Tiếng Waray"
+
+msgid "Washo"
+msgstr "Tiếng Washo"
+
+msgid "Warlpiri"
+msgstr "Tiếng Warlpiri"
+
+msgid "Wolof"
+msgstr "Tiếng Wolof"
+
+msgid "Wu Chinese"
+msgstr "Tiếng Ngô"
+
+msgid "Kalmyk"
+msgstr "Tiếng Kalmyk"
+
+msgid "Xhosa"
+msgstr "Tiếng Xhosa"
+
+msgid "Kangri"
+msgstr "Tiếng Kangri"
+
+msgid "Soga"
+msgstr "Tiếng Soga"
+
+msgid "Yao"
+msgstr "Tiếng Yao"
+
+msgid "Yapese"
+msgstr "Tiếng Yap"
+
+msgid "Yangben"
+msgstr "Tiếng Yangben"
+
+msgid "Yemba"
+msgstr "Tiếng Yemba"
+
+msgid "Yiddish"
+msgstr "Tiếng Yiddish"
+
+msgid "Yoruba"
+msgstr "Tiếng Yoruba"
+
+msgid "Nheengatu"
+msgstr "Tiếng Nheengatu"
+
+msgid "Cantonese"
+msgstr "Tiếng Quảng Đông"
+
+msgid "Chinese, Cantonese"
+msgstr "Tiếng Trung (Tiếng Quảng Đông)"
+
+msgid "Zhuang"
+msgstr "Tiếng Choang"
+
+msgid "Zapotec"
+msgstr "Tiếng Zapotec"
+
+msgid "Blissymbols"
+msgstr "Ký hiệu Blissymbols"
+
+msgid "Zenaga"
+msgstr "Tiếng Zenaga"
+
+msgid "Standard Moroccan Tamazight"
+msgstr "Tiếng Tamazight Chuẩn của Ma-rốc"
+
+msgid "Chinese"
+msgstr "Tiếng Trung"
+
+msgid "Chinese, Mandarin"
+msgstr "Tiếng Trung (Phổ thông)"
+
+msgid "Simplified Mandarin Chinese"
+msgstr "Tiếng Trung Phổ thông (Giản thể)"
+
+msgid "Traditional Mandarin Chinese"
+msgstr "Tiếng Trung Phổ thông (Phồn thể)"
+
+msgid "Zulu"
+msgstr "Tiếng Zulu"
+
+msgid "Zuni"
+msgstr "Tiếng Zuni"
+
+msgid "No linguistic content"
+msgstr "Không có nội dung ngôn ngữ"
+
+msgid "Zaza"
+msgstr "Tiếng Zaza"
