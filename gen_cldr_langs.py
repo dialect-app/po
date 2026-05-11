@@ -5,6 +5,7 @@
 import json
 import os
 import subprocess
+
 import polib
 
 CLDR_NAMES = {
@@ -65,6 +66,7 @@ def process_language(lang, english_langs, langs_list):
                 entry = polib.POEntry(
                     msgid=english_name,
                     msgstr=lang_name,
+                    msgctxt=lang_code,
                 )
                 po.append(entry)
 
