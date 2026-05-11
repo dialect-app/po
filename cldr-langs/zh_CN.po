@@ -6,1778 +6,2370 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgctxt "aa"
 msgid "Afar"
 msgstr "阿法尔语"
 
+msgctxt "ab"
 msgid "Abkhazian"
 msgstr "阿布哈西亚语"
 
+msgctxt "ace"
 msgid "Acehnese"
 msgstr "亚齐语"
 
+msgctxt "ach"
 msgid "Acoli"
 msgstr "阿乔利语"
 
+msgctxt "ada"
 msgid "Adangme"
 msgstr "阿当梅语"
 
+msgctxt "ady"
 msgid "Adyghe"
 msgstr "阿迪格语"
 
+msgctxt "ae"
 msgid "Avestan"
 msgstr "阿维斯塔语"
 
+msgctxt "af"
 msgid "Afrikaans"
 msgstr "南非荷兰语"
 
+msgctxt "afh"
 msgid "Afrihili"
 msgstr "阿弗里希利语"
 
+msgctxt "agq"
 msgid "Aghem"
 msgstr "亚罕语"
 
+msgctxt "ain"
 msgid "Ainu"
 msgstr "阿伊努语"
 
+msgctxt "ak"
 msgid "Akan"
 msgstr "阿肯语"
 
+msgctxt "akk"
 msgid "Akkadian"
 msgstr "阿卡德语"
 
+msgctxt "ale"
 msgid "Aleut"
 msgstr "阿留申语"
 
+msgctxt "alt"
 msgid "Southern Altai"
 msgstr "南阿尔泰语"
 
+msgctxt "am"
 msgid "Amharic"
 msgstr "阿姆哈拉语"
 
+msgctxt "an"
 msgid "Aragonese"
 msgstr "阿拉贡语"
 
+msgctxt "ang"
 msgid "Old English"
 msgstr "古英语"
 
+msgctxt "ann"
 msgid "Obolo"
 msgstr "奥博洛语"
 
+msgctxt "anp"
 msgid "Angika"
 msgstr "昂加语"
 
+msgctxt "ar"
 msgid "Arabic"
 msgstr "阿拉伯语"
 
+msgctxt "ar-001"
 msgid "Modern Standard Arabic"
 msgstr "现代标准阿拉伯语"
 
+msgctxt "arc"
 msgid "Aramaic"
 msgstr "阿拉米语"
 
+msgctxt "arn"
 msgid "Mapuche"
 msgstr "马普切语"
 
+msgctxt "arp"
 msgid "Arapaho"
 msgstr "阿拉帕霍语"
 
+msgctxt "ars"
 msgid "Najdi Arabic"
 msgstr "纳吉迪阿拉伯语"
 
+msgctxt "ars-alt-menu"
 msgid "Arabic, Najdi"
 msgstr "阿拉伯语（纳吉迪）"
 
+msgctxt "arw"
 msgid "Arawak"
 msgstr "阿拉瓦克语"
 
+msgctxt "as"
 msgid "Assamese"
 msgstr "阿萨姆语"
 
+msgctxt "asa"
 msgid "Asu"
 msgstr "帕雷语"
 
+msgctxt "ast"
 msgid "Asturian"
 msgstr "阿斯图里亚斯语"
 
+msgctxt "atj"
 msgid "Atikamekw"
 msgstr "阿提卡米克语"
 
+msgctxt "av"
 msgid "Avaric"
 msgstr "阿瓦尔语"
 
+msgctxt "awa"
 msgid "Awadhi"
 msgstr "阿瓦德语"
 
+msgctxt "ay"
 msgid "Aymara"
 msgstr "艾马拉语"
 
+msgctxt "az"
 msgid "Azerbaijani"
 msgstr "阿塞拜疆语"
 
+msgctxt "az-alt-short"
 msgid "Azeri"
 msgstr "阿塞语"
 
+msgctxt "ba"
 msgid "Bashkir"
 msgstr "巴什基尔语"
 
+msgctxt "bal"
 msgid "Baluchi"
 msgstr "俾路支语"
 
+msgctxt "ban"
 msgid "Balinese"
 msgstr "巴厘语"
 
+msgctxt "bas"
 msgid "Basaa"
 msgstr "巴萨语"
 
+msgctxt "bax"
 msgid "Bamun"
 msgstr "巴姆穆语"
 
+msgctxt "bbj"
 msgid "Ghomala"
 msgstr "戈马拉语"
 
+msgctxt "be"
 msgid "Belarusian"
 msgstr "白俄罗斯语"
 
+msgctxt "bej"
 msgid "Beja"
 msgstr "贝沙语"
 
+msgctxt "bem"
 msgid "Bemba"
 msgstr "本巴语"
 
+msgctxt "bez"
 msgid "Bena"
 msgstr "贝纳语"
 
+msgctxt "bfd"
 msgid "Bafut"
 msgstr "巴非特语"
 
+msgctxt "bg"
 msgid "Bulgarian"
 msgstr "保加利亚语"
 
+msgctxt "bgc"
 msgid "Haryanvi"
 msgstr "哈里亚纳语"
 
+msgctxt "bgn"
 msgid "Western Balochi"
 msgstr "西俾路支语"
 
+msgctxt "bho"
 msgid "Bhojpuri"
 msgstr "博杰普尔语"
 
+msgctxt "bi"
 msgid "Bislama"
 msgstr "比斯拉马语"
 
+msgctxt "bik"
 msgid "Bikol"
 msgstr "比科尔语"
 
+msgctxt "bin"
 msgid "Bini"
 msgstr "比尼语"
 
+msgctxt "bkm"
 msgid "Kom"
 msgstr "科姆语"
 
+msgctxt "bla"
 msgid "Siksiká"
 msgstr "西克西卡语"
 
+msgctxt "blo"
 msgid "Anii"
 msgstr "阿尼语"
 
+msgctxt "bm"
 msgid "Bambara"
 msgstr "班巴拉语"
 
+msgctxt "bn"
 msgid "Bangla"
 msgstr "孟加拉语"
 
+msgctxt "bo"
 msgid "Tibetan"
 msgstr "藏语"
 
+msgctxt "br"
 msgid "Breton"
 msgstr "布列塔尼语"
 
+msgctxt "bra"
 msgid "Braj"
 msgstr "布拉杰语"
 
+msgctxt "brx"
 msgid "Bodo"
 msgstr "博多语"
 
+msgctxt "bs"
 msgid "Bosnian"
 msgstr "波斯尼亚语"
 
+msgctxt "bss"
 msgid "Akoose"
 msgstr "阿库色语"
 
+msgctxt "bua"
 msgid "Buriat"
 msgstr "布里亚特语"
 
+msgctxt "bug"
 msgid "Buginese"
 msgstr "布吉语"
 
+msgctxt "bum"
 msgid "Bulu"
 msgstr "布鲁语"
 
+msgctxt "byn"
 msgid "Blin"
 msgstr "比林语"
 
+msgctxt "byv"
 msgid "Medumba"
 msgstr "梅敦巴语"
 
+msgctxt "ca"
 msgid "Catalan"
 msgstr "加泰罗尼亚语"
 
+msgctxt "cad"
 msgid "Caddo"
 msgstr "卡多语"
 
+msgctxt "car"
 msgid "Carib"
 msgstr "加勒比语"
 
+msgctxt "cay"
 msgid "Cayuga"
 msgstr "卡尤加语"
 
+msgctxt "cch"
 msgid "Atsam"
 msgstr "阿灿语"
 
+msgctxt "ccp"
 msgid "Chakma"
 msgstr "查克玛语"
 
+msgctxt "ce"
 msgid "Chechen"
 msgstr "车臣语"
 
+msgctxt "ceb"
 msgid "Cebuano"
 msgstr "宿务语"
 
+msgctxt "cgg"
 msgid "Chiga"
 msgstr "奇加语"
 
+msgctxt "ch"
 msgid "Chamorro"
 msgstr "查莫罗语"
 
+msgctxt "chb"
 msgid "Chibcha"
 msgstr "奇布查语"
 
+msgctxt "chg"
 msgid "Chagatai"
 msgstr "察合台语"
 
+msgctxt "chk"
 msgid "Chuukese"
 msgstr "楚克语"
 
+msgctxt "chm"
 msgid "Mari"
 msgstr "马里语"
 
+msgctxt "chn"
 msgid "Chinook Jargon"
 msgstr "奇努克混合语"
 
+msgctxt "cho"
 msgid "Choctaw"
 msgstr "乔克托语"
 
+msgctxt "chp"
 msgid "Chipewyan"
 msgstr "奇佩维安语"
 
+msgctxt "chr"
 msgid "Cherokee"
 msgstr "切罗基语"
 
+msgctxt "chy"
 msgid "Cheyenne"
 msgstr "夏延语"
 
+msgctxt "ckb"
 msgid "Central Kurdish"
 msgstr "中库尔德语"
 
+msgctxt "ckb-alt-variant"
 msgid "Kurdish, Sorani"
 msgstr "索拉尼库尔德语"
 
+msgctxt "clc"
 msgid "Chilcotin"
 msgstr "奇尔科廷语"
 
+msgctxt "co"
 msgid "Corsican"
 msgstr "科西嘉语"
 
+msgctxt "cop"
 msgid "Coptic"
 msgstr "科普特语"
 
+msgctxt "cr"
 msgid "Cree"
 msgstr "克里语"
 
+msgctxt "crg"
 msgid "Michif"
 msgstr "米其芙语"
 
+msgctxt "crh"
 msgid "Crimean Tatar"
 msgstr "克里米亚鞑靼语"
 
+msgctxt "crj"
 msgid "Southern East Cree"
 msgstr "东南部克里语"
 
+msgctxt "crk"
 msgid "Plains Cree"
 msgstr "平原克里语"
 
+msgctxt "crl"
 msgid "Northern East Cree"
 msgstr "东北部克里语"
 
+msgctxt "crm"
 msgid "Moose Cree"
 msgstr "穆斯克里语"
 
+msgctxt "crr"
 msgid "Carolina Algonquian"
 msgstr "卡罗莱纳州阿尔冈昆语"
 
+msgctxt "crs"
 msgid "Seselwa Creole French"
 msgstr "塞舌尔克里奥尔语"
 
+msgctxt "cs"
 msgid "Czech"
 msgstr "捷克语"
 
+msgctxt "csb"
 msgid "Kashubian"
 msgstr "卡舒比语"
 
+msgctxt "csw"
 msgid "Swampy Cree"
 msgstr "沼泽克里语"
 
+msgctxt "cu"
 msgid "Church Slavic"
 msgstr "教会斯拉夫语"
 
+msgctxt "cv"
 msgid "Chuvash"
 msgstr "楚瓦什语"
 
+msgctxt "cy"
 msgid "Welsh"
 msgstr "威尔士语"
 
+msgctxt "da"
 msgid "Danish"
 msgstr "丹麦语"
 
+msgctxt "dak"
 msgid "Dakota"
 msgstr "达科他语"
 
+msgctxt "dar"
 msgid "Dargwa"
 msgstr "达尔格瓦语"
 
+msgctxt "dav"
 msgid "Taita"
 msgstr "台塔语"
 
+msgctxt "de"
 msgid "German"
 msgstr "德语"
 
+msgctxt "de-AT"
 msgid "Austrian German"
 msgstr "奥地利德语"
 
+msgctxt "de-CH"
 msgid "Swiss High German"
 msgstr "瑞士高地德语"
 
+msgctxt "del"
 msgid "Delaware"
 msgstr "特拉华语"
 
+msgctxt "den"
 msgid "Slave"
 msgstr "史拉维语"
 
+msgctxt "dgr"
 msgid "Dogrib"
 msgstr "多格里布语"
 
+msgctxt "din"
 msgid "Dinka"
 msgstr "丁卡语"
 
+msgctxt "dje"
 msgid "Zarma"
 msgstr "哲尔马语"
 
+msgctxt "doi"
 msgid "Dogri"
 msgstr "多格拉语"
 
+msgctxt "dsb"
 msgid "Lower Sorbian"
 msgstr "下索布语"
 
+msgctxt "dua"
 msgid "Duala"
 msgstr "杜阿拉语"
 
+msgctxt "dum"
 msgid "Middle Dutch"
 msgstr "中古荷兰语"
 
+msgctxt "dv"
 msgid "Divehi"
 msgstr "迪维希语"
 
+msgctxt "dyo"
 msgid "Jola-Fonyi"
 msgstr "朱拉语"
 
+msgctxt "dyu"
 msgid "Dyula"
 msgstr "迪尤拉语"
 
+msgctxt "dz"
 msgid "Dzongkha"
 msgstr "宗卡语"
 
+msgctxt "dzg"
 msgid "Dazaga"
 msgstr "达扎葛语"
 
+msgctxt "ebu"
 msgid "Embu"
 msgstr "恩布语"
 
+msgctxt "ee"
 msgid "Ewe"
 msgstr "埃维语"
 
+msgctxt "efi"
 msgid "Efik"
 msgstr "埃菲克语"
 
+msgctxt "egy"
 msgid "Ancient Egyptian"
 msgstr "古埃及语"
 
+msgctxt "eka"
 msgid "Ekajuk"
 msgstr "艾卡朱克语"
 
+msgctxt "el"
 msgid "Greek"
 msgstr "希腊语"
 
+msgctxt "elx"
 msgid "Elamite"
 msgstr "埃兰语"
 
+msgctxt "en"
 msgid "English"
 msgstr "英语"
 
+msgctxt "en-AU"
 msgid "Australian English"
 msgstr "澳大利亚英语"
 
+msgctxt "en-CA"
 msgid "Canadian English"
 msgstr "加拿大英语"
 
+msgctxt "en-GB"
 msgid "British English"
 msgstr "英国英语"
 
+msgctxt "en-GB-alt-short"
 msgid "UK English"
 msgstr "英式英语"
 
+msgctxt "en-US"
 msgid "American English"
 msgstr "美国英语"
 
+msgctxt "en-US-alt-short"
 msgid "US English"
 msgstr "美式英语"
 
+msgctxt "enm"
 msgid "Middle English"
 msgstr "中古英语"
 
+msgctxt "eo"
 msgid "Esperanto"
 msgstr "世界语"
 
+msgctxt "es"
 msgid "Spanish"
 msgstr "西班牙语"
 
+msgctxt "es-419"
 msgid "Latin American Spanish"
 msgstr "拉丁美洲西班牙语"
 
+msgctxt "es-ES"
 msgid "European Spanish"
 msgstr "欧洲西班牙语"
 
+msgctxt "es-MX"
 msgid "Mexican Spanish"
 msgstr "墨西哥西班牙语"
 
+msgctxt "et"
 msgid "Estonian"
 msgstr "爱沙尼亚语"
 
+msgctxt "eu"
 msgid "Basque"
 msgstr "巴斯克语"
 
+msgctxt "ewo"
 msgid "Ewondo"
 msgstr "埃翁多语"
 
+msgctxt "fa"
 msgid "Persian"
 msgstr "波斯语"
 
+msgctxt "fa-AF"
 msgid "Dari"
 msgstr "达里语"
 
+msgctxt "fan"
 msgid "Fang"
 msgstr "芳格语"
 
+msgctxt "fat"
 msgid "Fanti"
 msgstr "芳蒂语"
 
+msgctxt "ff"
 msgid "Fula"
 msgstr "富拉语"
 
+msgctxt "fi"
 msgid "Finnish"
 msgstr "芬兰语"
 
+msgctxt "fil"
 msgid "Filipino"
 msgstr "菲律宾语"
 
+msgctxt "fj"
 msgid "Fijian"
 msgstr "斐济语"
 
+msgctxt "fo"
 msgid "Faroese"
 msgstr "法罗语"
 
+msgctxt "fon"
 msgid "Fon"
 msgstr "丰语"
 
+msgctxt "fr"
 msgid "French"
 msgstr "法语"
 
+msgctxt "fr-CA"
 msgid "Canadian French"
 msgstr "加拿大法语"
 
+msgctxt "fr-CH"
 msgid "Swiss French"
 msgstr "瑞士法语"
 
+msgctxt "frc"
 msgid "Cajun French"
 msgstr "卡真法语"
 
+msgctxt "frm"
 msgid "Middle French"
 msgstr "中古法语"
 
+msgctxt "fro"
 msgid "Old French"
 msgstr "古法语"
 
+msgctxt "frr"
 msgid "Northern Frisian"
 msgstr "北弗里西亚语"
 
+msgctxt "frs"
 msgid "Eastern Frisian"
 msgstr "东弗里西亚语"
 
+msgctxt "fur"
 msgid "Friulian"
 msgstr "弗留利语"
 
+msgctxt "fy"
 msgid "Western Frisian"
 msgstr "西弗里西亚语"
 
+msgctxt "ga"
 msgid "Irish"
 msgstr "爱尔兰语"
 
+msgctxt "gaa"
 msgid "Ga"
 msgstr "加族语"
 
+msgctxt "gag"
 msgid "Gagauz"
 msgstr "加告兹语"
 
+msgctxt "gan"
 msgid "Gan Chinese"
 msgstr "赣语"
 
+msgctxt "gay"
 msgid "Gayo"
 msgstr "迦约语"
 
+msgctxt "gba"
 msgid "Gbaya"
 msgstr "格巴亚语"
 
+msgctxt "gd"
 msgid "Scottish Gaelic"
 msgstr "苏格兰盖尔语"
 
+msgctxt "gez"
 msgid "Geez"
 msgstr "吉兹语"
 
+msgctxt "gil"
 msgid "Gilbertese"
 msgstr "吉尔伯特语"
 
+msgctxt "gl"
 msgid "Galician"
 msgstr "加利西亚语"
 
+msgctxt "gmh"
 msgid "Middle High German"
 msgstr "中古高地德语"
 
+msgctxt "gn"
 msgid "Guarani"
 msgstr "瓜拉尼语"
 
+msgctxt "goh"
 msgid "Old High German"
 msgstr "古高地德语"
 
+msgctxt "gon"
 msgid "Gondi"
 msgstr "冈德语"
 
+msgctxt "gor"
 msgid "Gorontalo"
 msgstr "哥伦打洛语"
 
+msgctxt "got"
 msgid "Gothic"
 msgstr "哥特语"
 
+msgctxt "grb"
 msgid "Grebo"
 msgstr "格列博语"
 
+msgctxt "grc"
 msgid "Ancient Greek"
 msgstr "古希腊语"
 
+msgctxt "gsw"
 msgid "Swiss German"
 msgstr "瑞士德语"
 
+msgctxt "gu"
 msgid "Gujarati"
 msgstr "古吉拉特语"
 
+msgctxt "guz"
 msgid "Gusii"
 msgstr "古西语"
 
+msgctxt "gv"
 msgid "Manx"
 msgstr "马恩语"
 
+msgctxt "gwi"
 msgid "Gwichʼin"
 msgstr "哥威迅语"
 
+msgctxt "ha"
 msgid "Hausa"
 msgstr "豪萨语"
 
+msgctxt "hai"
 msgid "Haida"
 msgstr "海达语"
 
+msgctxt "hak"
 msgid "Hakka Chinese"
 msgstr "客家语"
 
+msgctxt "haw"
 msgid "Hawaiian"
 msgstr "夏威夷语"
 
+msgctxt "hax"
 msgid "Southern Haida"
 msgstr "南海达语"
 
+msgctxt "he"
 msgid "Hebrew"
 msgstr "希伯来语"
 
+msgctxt "hi"
 msgid "Hindi"
 msgstr "印地语"
 
+msgctxt "hi-Latn"
 msgid "Hindi (Latin)"
 msgstr "印地语（拉丁字母）"
 
+msgctxt "hi-Latn-alt-variant"
 msgid "Hinglish"
 msgstr "印地英语"
 
+msgctxt "hil"
 msgid "Hiligaynon"
 msgstr "希利盖农语"
 
+msgctxt "hit"
 msgid "Hittite"
 msgstr "赫梯语"
 
+msgctxt "hmn"
 msgid "Hmong"
 msgstr "苗语"
 
+msgctxt "ho"
 msgid "Hiri Motu"
 msgstr "希里莫图语"
 
+msgctxt "hr"
 msgid "Croatian"
 msgstr "克罗地亚语"
 
+msgctxt "hsb"
 msgid "Upper Sorbian"
 msgstr "上索布语"
 
+msgctxt "hsn"
 msgid "Xiang Chinese"
 msgstr "湘语"
 
+msgctxt "ht"
 msgid "Haitian Creole"
 msgstr "海地克里奥尔语"
 
+msgctxt "hu"
 msgid "Hungarian"
 msgstr "匈牙利语"
 
+msgctxt "hup"
 msgid "Hupa"
 msgstr "胡帕语"
 
+msgctxt "hur"
 msgid "Halkomelem"
 msgstr "哈尔魁梅林语"
 
+msgctxt "hy"
 msgid "Armenian"
 msgstr "亚美尼亚语"
 
+msgctxt "hz"
 msgid "Herero"
 msgstr "赫雷罗语"
 
+msgctxt "ia"
 msgid "Interlingua"
 msgstr "国际语"
 
+msgctxt "iba"
 msgid "Iban"
 msgstr "伊班语"
 
+msgctxt "ibb"
 msgid "Ibibio"
 msgstr "伊比比奥语"
 
+msgctxt "id"
 msgid "Indonesian"
 msgstr "印度尼西亚语"
 
+msgctxt "ie"
 msgid "Interlingue"
 msgstr "国际文字（E）"
 
+msgctxt "ig"
 msgid "Igbo"
 msgstr "伊博语"
 
+msgctxt "ii"
 msgid "Sichuan Yi"
 msgstr "凉山彝语"
 
+msgctxt "ik"
 msgid "Inupiaq"
 msgstr "伊努皮克语"
 
+msgctxt "ikt"
 msgid "Western Canadian Inuktitut"
 msgstr "西加拿大因纽特语"
 
+msgctxt "ilo"
 msgid "Iloko"
 msgstr "伊洛卡诺语"
 
+msgctxt "inh"
 msgid "Ingush"
 msgstr "印古什语"
 
+msgctxt "io"
 msgid "Ido"
 msgstr "伊多语"
 
+msgctxt "is"
 msgid "Icelandic"
 msgstr "冰岛语"
 
+msgctxt "it"
 msgid "Italian"
 msgstr "意大利语"
 
+msgctxt "iu"
 msgid "Inuktitut"
 msgstr "因纽特语"
 
+msgctxt "ja"
 msgid "Japanese"
 msgstr "日语"
 
+msgctxt "jbo"
 msgid "Lojban"
 msgstr "逻辑语"
 
+msgctxt "jgo"
 msgid "Ngomba"
 msgstr "恩艮巴语"
 
+msgctxt "jmc"
 msgid "Machame"
 msgstr "马切姆语"
 
+msgctxt "jpr"
 msgid "Judeo-Persian"
 msgstr "犹太波斯语"
 
+msgctxt "jrb"
 msgid "Judeo-Arabic"
 msgstr "犹太阿拉伯语"
 
+msgctxt "jv"
 msgid "Javanese"
 msgstr "爪哇语"
 
+msgctxt "ka"
 msgid "Georgian"
 msgstr "格鲁吉亚语"
 
+msgctxt "kaa"
 msgid "Kara-Kalpak"
 msgstr "卡拉卡尔帕克语"
 
+msgctxt "kab"
 msgid "Kabyle"
 msgstr "卡拜尔语"
 
+msgctxt "kac"
 msgid "Kachin"
 msgstr "克钦语"
 
+msgctxt "kaj"
 msgid "Jju"
 msgstr "卡捷语"
 
+msgctxt "kam"
 msgid "Kamba"
 msgstr "卡姆巴语"
 
+msgctxt "kaw"
 msgid "Kawi"
 msgstr "卡威语"
 
+msgctxt "kbd"
 msgid "Kabardian"
 msgstr "卡巴尔德语"
 
+msgctxt "kbl"
 msgid "Kanembu"
 msgstr "加涅姆布语"
 
+msgctxt "kcg"
 msgid "Tyap"
 msgstr "卡塔布语"
 
+msgctxt "kde"
 msgid "Makonde"
 msgstr "马孔德语"
 
+msgctxt "kea"
 msgid "Kabuverdianu"
 msgstr "卡布佛得鲁语"
 
+msgctxt "kfo"
 msgid "Koro"
 msgstr "克罗语"
 
+msgctxt "kg"
 msgid "Kongo"
 msgstr "刚果语"
 
+msgctxt "kgp"
 msgid "Kaingang"
 msgstr "坎刚语"
 
+msgctxt "kha"
 msgid "Khasi"
 msgstr "卡西语"
 
+msgctxt "kho"
 msgid "Khotanese"
 msgstr "和田语"
 
+msgctxt "khq"
 msgid "Koyra Chiini"
 msgstr "西桑海语"
 
+msgctxt "ki"
 msgid "Kikuyu"
 msgstr "吉库尤语"
 
+msgctxt "kj"
 msgid "Kuanyama"
 msgstr "宽亚玛语"
 
+msgctxt "kk"
 msgid "Kazakh"
 msgstr "哈萨克语"
 
+msgctxt "kkj"
 msgid "Kako"
 msgstr "卡库语"
 
+msgctxt "kl"
 msgid "Kalaallisut"
 msgstr "格陵兰语"
 
+msgctxt "kln"
 msgid "Kalenjin"
 msgstr "卡伦金语"
 
+msgctxt "km"
 msgid "Khmer"
 msgstr "高棉语"
 
+msgctxt "kmb"
 msgid "Kimbundu"
 msgstr "金邦杜语"
 
+msgctxt "kn"
 msgid "Kannada"
 msgstr "卡纳达语"
 
+msgctxt "ko"
 msgid "Korean"
 msgstr "韩语"
 
+msgctxt "koi"
 msgid "Komi-Permyak"
 msgstr "科米-彼尔米亚克语"
 
+msgctxt "kok"
 msgid "Konkani"
 msgstr "孔卡尼语"
 
+msgctxt "kos"
 msgid "Kosraean"
 msgstr "科斯拉伊语"
 
+msgctxt "kpe"
 msgid "Kpelle"
 msgstr "克佩列语"
 
+msgctxt "kr"
 msgid "Kanuri"
 msgstr "卡努里语"
 
+msgctxt "krc"
 msgid "Karachay-Balkar"
 msgstr "卡拉恰伊巴尔卡尔语"
 
+msgctxt "krl"
 msgid "Karelian"
 msgstr "卡累利阿语"
 
+msgctxt "kru"
 msgid "Kurukh"
 msgstr "库鲁克语"
 
+msgctxt "ks"
 msgid "Kashmiri"
 msgstr "克什米尔语"
 
+msgctxt "ksb"
 msgid "Shambala"
 msgstr "香巴拉语"
 
+msgctxt "ksf"
 msgid "Bafia"
 msgstr "巴菲亚语"
 
+msgctxt "ksh"
 msgid "Colognian"
 msgstr "科隆语"
 
+msgctxt "ku"
 msgid "Kurdish"
 msgstr "库尔德语"
 
+msgctxt "ku-menu-core"
 msgid "Kurdish"
 msgstr "库尔德语"
 
+msgctxt "ku-menu-extension"
 msgid "Kurmanji"
 msgstr "北库尔德语"
 
+msgctxt "kum"
 msgid "Kumyk"
 msgstr "库梅克语"
 
+msgctxt "kut"
 msgid "Kutenai"
 msgstr "库特奈语"
 
+msgctxt "kv"
 msgid "Komi"
 msgstr "科米语"
 
+msgctxt "kw"
 msgid "Cornish"
 msgstr "康沃尔语"
 
+msgctxt "kwk"
 msgid "Kwakʼwala"
 msgstr "夸夸瓦拉语"
 
+msgctxt "kxv"
 msgid "Kuvi"
 msgstr "库维语"
 
+msgctxt "ky"
 msgid "Kyrgyz"
 msgstr "吉尔吉斯语"
 
+msgctxt "la"
 msgid "Latin"
 msgstr "拉丁语"
 
+msgctxt "lad"
 msgid "Ladino"
 msgstr "拉迪诺语"
 
+msgctxt "lag"
 msgid "Langi"
 msgstr "朗吉语"
 
+msgctxt "lah"
 msgid "Western Panjabi"
 msgstr "西旁遮普语"
 
+msgctxt "lam"
 msgid "Lamba"
 msgstr "兰巴语"
 
+msgctxt "lb"
 msgid "Luxembourgish"
 msgstr "卢森堡语"
 
+msgctxt "lez"
 msgid "Lezghian"
 msgstr "列兹金语"
 
+msgctxt "lg"
 msgid "Ganda"
 msgstr "卢干达语"
 
+msgctxt "li"
 msgid "Limburgish"
 msgstr "林堡语"
 
+msgctxt "lij"
 msgid "Ligurian"
 msgstr "利古里亚语"
 
+msgctxt "lil"
 msgid "Lillooet"
 msgstr "利洛埃特语"
 
+msgctxt "lkt"
 msgid "Lakota"
 msgstr "拉科塔语"
 
+msgctxt "lmo"
 msgid "Lombard"
 msgstr "伦巴第语"
 
+msgctxt "ln"
 msgid "Lingala"
 msgstr "林加拉语"
 
+msgctxt "lo"
 msgid "Lao"
 msgstr "老挝语"
 
+msgctxt "lol"
 msgid "Mongo"
 msgstr "蒙戈语"
 
+msgctxt "lou"
 msgid "Louisiana Creole"
 msgstr "路易斯安那克里奥尔语"
 
+msgctxt "loz"
 msgid "Lozi"
 msgstr "洛齐语"
 
+msgctxt "lrc"
 msgid "Northern Luri"
 msgstr "北卢尔语"
 
+msgctxt "lsm"
 msgid "Saamia"
 msgstr "萨米亚语"
 
+msgctxt "lt"
 msgid "Lithuanian"
 msgstr "立陶宛语"
 
+msgctxt "lu"
 msgid "Luba-Katanga"
 msgstr "鲁巴加丹加语"
 
+msgctxt "lua"
 msgid "Luba-Lulua"
 msgstr "卢巴-卢拉语"
 
+msgctxt "lui"
 msgid "Luiseno"
 msgstr "卢伊塞诺语"
 
+msgctxt "lun"
 msgid "Lunda"
 msgstr "隆达语"
 
+msgctxt "luo"
 msgid "Luo"
 msgstr "卢奥语"
 
+msgctxt "lus"
 msgid "Mizo"
 msgstr "米佐语"
 
+msgctxt "luy"
 msgid "Luyia"
 msgstr "卢雅语"
 
+msgctxt "lv"
 msgid "Latvian"
 msgstr "拉脱维亚语"
 
+msgctxt "mad"
 msgid "Madurese"
 msgstr "马都拉语"
 
+msgctxt "maf"
 msgid "Mafa"
 msgstr "马法语"
 
+msgctxt "mag"
 msgid "Magahi"
 msgstr "摩揭陀语"
 
+msgctxt "mai"
 msgid "Maithili"
 msgstr "迈蒂利语"
 
+msgctxt "mak"
 msgid "Makasar"
 msgstr "望加锡语"
 
+msgctxt "man"
 msgid "Mandingo"
 msgstr "曼丁哥语"
 
+msgctxt "mas"
 msgid "Masai"
 msgstr "马赛语"
 
+msgctxt "mde"
 msgid "Maba"
 msgstr "马坝语"
 
+msgctxt "mdf"
 msgid "Moksha"
 msgstr "莫克沙语"
 
+msgctxt "mdr"
 msgid "Mandar"
 msgstr "曼达尔语"
 
+msgctxt "men"
 msgid "Mende"
 msgstr "门德语"
 
+msgctxt "mer"
 msgid "Meru"
 msgstr "梅鲁语"
 
+msgctxt "mfe"
 msgid "Morisyen"
 msgstr "毛里求斯克里奥尔语"
 
+msgctxt "mg"
 msgid "Malagasy"
 msgstr "马拉加斯语"
 
+msgctxt "mga"
 msgid "Middle Irish"
 msgstr "中古爱尔兰语"
 
+msgctxt "mgh"
 msgid "Makhuwa-Meetto"
 msgstr "马库阿-梅托语"
 
+msgctxt "mgo"
 msgid "Metaʼ"
 msgstr "梅塔语"
 
+msgctxt "mh"
 msgid "Marshallese"
 msgstr "马绍尔语"
 
+msgctxt "mi"
 msgid "Māori"
 msgstr "毛利语"
 
+msgctxt "mic"
 msgid "Mi'kmaw"
 msgstr "密克马克语"
 
+msgctxt "min"
 msgid "Minangkabau"
 msgstr "米南佳保语"
 
+msgctxt "mk"
 msgid "Macedonian"
 msgstr "马其顿语"
 
+msgctxt "ml"
 msgid "Malayalam"
 msgstr "马拉雅拉姆语"
 
+msgctxt "mn"
 msgid "Mongolian"
 msgstr "蒙古语"
 
+msgctxt "mnc"
 msgid "Manchu"
 msgstr "满语"
 
+msgctxt "mni"
 msgid "Manipuri"
 msgstr "曼尼普尔语"
 
+msgctxt "moe"
 msgid "Innu-aimun"
 msgstr "因努埃蒙语"
 
+msgctxt "moh"
 msgid "Mohawk"
 msgstr "摩霍克语"
 
+msgctxt "mos"
 msgid "Mossi"
 msgstr "莫西语"
 
+msgctxt "mr"
 msgid "Marathi"
 msgstr "马拉地语"
 
+msgctxt "ms"
 msgid "Malay"
 msgstr "马来语"
 
+msgctxt "mt"
 msgid "Maltese"
 msgstr "马耳他语"
 
+msgctxt "mua"
 msgid "Mundang"
 msgstr "蒙当语"
 
+msgctxt "mul"
 msgid "Multiple languages"
 msgstr "多语种"
 
+msgctxt "mus"
 msgid "Muscogee"
 msgstr "克里克语"
 
+msgctxt "mwl"
 msgid "Mirandese"
 msgstr "米兰德斯语"
 
+msgctxt "mwr"
 msgid "Marwari"
 msgstr "马尔瓦里语"
 
+msgctxt "my"
 msgid "Burmese"
 msgstr "缅甸语"
 
+msgctxt "mye"
 msgid "Myene"
 msgstr "姆耶内语"
 
+msgctxt "myv"
 msgid "Erzya"
 msgstr "厄尔兹亚语"
 
+msgctxt "mzn"
 msgid "Mazanderani"
 msgstr "马赞德兰语"
 
+msgctxt "na"
 msgid "Nauru"
 msgstr "瑙鲁语"
 
+msgctxt "nan"
 msgid "Min Nan Chinese"
 msgstr "闽南语"
 
+msgctxt "nap"
 msgid "Neapolitan"
 msgstr "那不勒斯语"
 
+msgctxt "naq"
 msgid "Nama"
 msgstr "纳马语"
 
+msgctxt "nb"
 msgid "Norwegian Bokmål"
 msgstr "书面挪威语"
 
+msgctxt "nd"
 msgid "North Ndebele"
 msgstr "北恩德贝勒语"
 
+msgctxt "nds"
 msgid "Low German"
 msgstr "低地德语"
 
+msgctxt "nds-NL"
 msgid "Low Saxon"
 msgstr "低萨克森语"
 
+msgctxt "ne"
 msgid "Nepali"
 msgstr "尼泊尔语"
 
+msgctxt "new"
 msgid "Newari"
 msgstr "尼瓦尔语"
 
+msgctxt "ng"
 msgid "Ndonga"
 msgstr "恩东加语"
 
+msgctxt "nia"
 msgid "Nias"
 msgstr "尼亚斯语"
 
+msgctxt "niu"
 msgid "Niuean"
 msgstr "纽埃语"
 
+msgctxt "nl"
 msgid "Dutch"
 msgstr "荷兰语"
 
+msgctxt "nl-BE"
 msgid "Flemish"
 msgstr "弗拉芒语"
 
+msgctxt "nmg"
 msgid "Kwasio"
 msgstr "夸西奥语"
 
+msgctxt "nn"
 msgid "Norwegian Nynorsk"
 msgstr "挪威尼诺斯克语"
 
+msgctxt "nnh"
 msgid "Ngiemboon"
 msgstr "恩甘澎语"
 
+msgctxt "no"
 msgid "Norwegian"
 msgstr "挪威语"
 
+msgctxt "nog"
 msgid "Nogai"
 msgstr "诺盖语"
 
+msgctxt "non"
 msgid "Old Norse"
 msgstr "古诺尔斯语"
 
+msgctxt "nqo"
 msgid "N’Ko"
 msgstr "西非书面文字"
 
+msgctxt "nr"
 msgid "South Ndebele"
 msgstr "南恩德贝勒语"
 
+msgctxt "nso"
 msgid "Northern Sotho"
 msgstr "北索托语"
 
+msgctxt "nus"
 msgid "Nuer"
 msgstr "努埃尔语"
 
+msgctxt "nv"
 msgid "Navajo"
 msgstr "纳瓦霍语"
 
+msgctxt "nwc"
 msgid "Classical Newari"
 msgstr "古典尼瓦尔语"
 
+msgctxt "ny"
 msgid "Nyanja"
 msgstr "齐切瓦语"
 
+msgctxt "nym"
 msgid "Nyamwezi"
 msgstr "尼扬韦齐语"
 
+msgctxt "nyn"
 msgid "Nyankole"
 msgstr "尼昂科勒语"
 
+msgctxt "nyo"
 msgid "Nyoro"
 msgstr "尼奥罗语"
 
+msgctxt "nzi"
 msgid "Nzima"
 msgstr "恩济马语"
 
+msgctxt "oc"
 msgid "Occitan"
 msgstr "奥克语"
 
+msgctxt "oj"
 msgid "Ojibwa"
 msgstr "奥吉布瓦语"
 
+msgctxt "ojb"
 msgid "Northwestern Ojibwa"
 msgstr "西北部奥吉布瓦语"
 
+msgctxt "ojc"
 msgid "Central Ojibwa"
 msgstr "中奥吉布瓦语"
 
+msgctxt "ojs"
 msgid "Oji-Cree"
 msgstr "欧吉克里语"
 
+msgctxt "ojw"
 msgid "Western Ojibwa"
 msgstr "西奥吉布瓦语"
 
+msgctxt "oka"
 msgid "Okanagan"
 msgstr "欧肯那根语"
 
+msgctxt "om"
 msgid "Oromo"
 msgstr "奥罗莫语"
 
+msgctxt "or"
 msgid "Odia"
 msgstr "奥里亚语"
 
+msgctxt "os"
 msgid "Ossetic"
 msgstr "奥塞梯语"
 
+msgctxt "osa"
 msgid "Osage"
 msgstr "欧塞奇语"
 
+msgctxt "ota"
 msgid "Ottoman Turkish"
 msgstr "奥斯曼土耳其语"
 
+msgctxt "pa"
 msgid "Punjabi"
 msgstr "旁遮普语"
 
+msgctxt "pag"
 msgid "Pangasinan"
 msgstr "邦阿西南语"
 
+msgctxt "pal"
 msgid "Pahlavi"
 msgstr "巴拉维语"
 
+msgctxt "pam"
 msgid "Pampanga"
 msgstr "邦板牙语"
 
+msgctxt "pap"
 msgid "Papiamento"
 msgstr "帕皮阿门托语"
 
+msgctxt "pau"
 msgid "Palauan"
 msgstr "帕劳语"
 
+msgctxt "pcm"
 msgid "Nigerian Pidgin"
 msgstr "尼日利亚皮钦语"
 
+msgctxt "peo"
 msgid "Old Persian"
 msgstr "古波斯语"
 
+msgctxt "phn"
 msgid "Phoenician"
 msgstr "腓尼基语"
 
+msgctxt "pi"
 msgid "Pali"
 msgstr "巴利语"
 
+msgctxt "pis"
 msgid "Pijin"
 msgstr "皮京语"
 
+msgctxt "pl"
 msgid "Polish"
 msgstr "波兰语"
 
+msgctxt "pon"
 msgid "Pohnpeian"
 msgstr "波纳佩语"
 
+msgctxt "pqm"
 msgid "Maliseet-Passamaquoddy"
 msgstr "马利塞-帕萨马科迪语"
 
+msgctxt "prg"
 msgid "Prussian"
 msgstr "普鲁士语"
 
+msgctxt "pro"
 msgid "Old Provençal"
 msgstr "古普罗文斯语"
 
+msgctxt "ps"
 msgid "Pashto"
 msgstr "普什图语"
 
+msgctxt "pt"
 msgid "Portuguese"
 msgstr "葡萄牙语"
 
+msgctxt "pt-BR"
 msgid "Brazilian Portuguese"
 msgstr "巴西葡萄牙语"
 
+msgctxt "pt-PT"
 msgid "European Portuguese"
 msgstr "欧洲葡萄牙语"
 
+msgctxt "qu"
 msgid "Quechua"
 msgstr "克丘亚语"
 
+msgctxt "quc"
 msgid "Kʼicheʼ"
 msgstr "基切语"
 
+msgctxt "raj"
 msgid "Rajasthani"
 msgstr "拉贾斯坦语"
 
+msgctxt "rap"
 msgid "Rapanui"
 msgstr "拉帕努伊语"
 
+msgctxt "rar"
 msgid "Rarotongan"
 msgstr "拉罗汤加语"
 
+msgctxt "rhg"
 msgid "Rohingya"
 msgstr "罗兴亚语"
 
+msgctxt "rif"
 msgid "Riffian"
 msgstr "里夫语"
 
+msgctxt "rm"
 msgid "Romansh"
 msgstr "罗曼什语"
 
+msgctxt "rn"
 msgid "Rundi"
 msgstr "隆迪语"
 
+msgctxt "ro"
 msgid "Romanian"
 msgstr "罗马尼亚语"
 
+msgctxt "ro-MD"
 msgid "Moldavian"
 msgstr "摩尔多瓦语"
 
+msgctxt "rof"
 msgid "Rombo"
 msgstr "兰博语"
 
+msgctxt "rom"
 msgid "Romany"
 msgstr "吉普赛语"
 
+msgctxt "ru"
 msgid "Russian"
 msgstr "俄语"
 
+msgctxt "rup"
 msgid "Aromanian"
 msgstr "阿罗马尼亚语"
 
+msgctxt "rw"
 msgid "Kinyarwanda"
 msgstr "卢旺达语"
 
+msgctxt "rwk"
 msgid "Rwa"
 msgstr "罗瓦语"
 
+msgctxt "sa"
 msgid "Sanskrit"
 msgstr "梵语"
 
+msgctxt "sad"
 msgid "Sandawe"
 msgstr "桑达韦语"
 
+msgctxt "sah"
 msgid "Yakut"
 msgstr "萨哈语"
 
+msgctxt "sam"
 msgid "Samaritan Aramaic"
 msgstr "萨马利亚阿拉姆语"
 
+msgctxt "saq"
 msgid "Samburu"
 msgstr "桑布鲁语"
 
+msgctxt "sas"
 msgid "Sasak"
 msgstr "萨萨克语"
 
+msgctxt "sat"
 msgid "Santali"
 msgstr "桑塔利语"
 
+msgctxt "sba"
 msgid "Ngambay"
 msgstr "甘拜语"
 
+msgctxt "sbp"
 msgid "Sangu"
 msgstr "桑古语"
 
+msgctxt "sc"
 msgid "Sardinian"
 msgstr "萨丁语"
 
+msgctxt "scn"
 msgid "Sicilian"
 msgstr "西西里语"
 
+msgctxt "sco"
 msgid "Scots"
 msgstr "苏格兰语"
 
+msgctxt "sd"
 msgid "Sindhi"
 msgstr "信德语"
 
+msgctxt "sdh"
 msgid "Southern Kurdish"
 msgstr "南库尔德语"
 
+msgctxt "se"
 msgid "Northern Sami"
 msgstr "北方萨米语"
 
+msgctxt "see"
 msgid "Seneca"
 msgstr "塞内卡语"
 
+msgctxt "seh"
 msgid "Sena"
 msgstr "塞纳语"
 
+msgctxt "sel"
 msgid "Selkup"
 msgstr "塞尔库普语"
 
+msgctxt "ses"
 msgid "Koyraboro Senni"
 msgstr "东桑海语"
 
+msgctxt "sg"
 msgid "Sango"
 msgstr "桑戈语"
 
+msgctxt "sga"
 msgid "Old Irish"
 msgstr "古爱尔兰语"
 
+msgctxt "sh"
 msgid "Serbo-Croatian"
 msgstr "塞尔维亚-克罗地亚语"
 
+msgctxt "shi"
 msgid "Tachelhit"
 msgstr "希尔哈语"
 
+msgctxt "shn"
 msgid "Shan"
 msgstr "掸语"
 
+msgctxt "shu"
 msgid "Chadian Arabic"
 msgstr "乍得阿拉伯语"
 
+msgctxt "si"
 msgid "Sinhala"
 msgstr "僧伽罗语"
 
+msgctxt "sid"
 msgid "Sidamo"
 msgstr "悉达摩语"
 
+msgctxt "sk"
 msgid "Slovak"
 msgstr "斯洛伐克语"
 
+msgctxt "sl"
 msgid "Slovenian"
 msgstr "斯洛文尼亚语"
 
+msgctxt "slh"
 msgid "Southern Lushootseed"
 msgstr "南卢舒特种子语"
 
+msgctxt "sm"
 msgid "Samoan"
 msgstr "萨摩亚语"
 
+msgctxt "sma"
 msgid "Southern Sami"
 msgstr "南萨米语"
 
+msgctxt "smj"
 msgid "Lule Sami"
 msgstr "吕勒萨米语"
 
+msgctxt "smn"
 msgid "Inari Sami"
 msgstr "伊纳里萨米语"
 
+msgctxt "sms"
 msgid "Skolt Sami"
 msgstr "斯科特萨米语"
 
+msgctxt "sn"
 msgid "Shona"
 msgstr "绍纳语"
 
+msgctxt "snk"
 msgid "Soninke"
 msgstr "索宁克语"
 
+msgctxt "so"
 msgid "Somali"
 msgstr "索马里语"
 
+msgctxt "sog"
 msgid "Sogdien"
 msgstr "粟特语"
 
+msgctxt "sq"
 msgid "Albanian"
 msgstr "阿尔巴尼亚语"
 
+msgctxt "sr"
 msgid "Serbian"
 msgstr "塞尔维亚语"
 
+msgctxt "srn"
 msgid "Sranan Tongo"
 msgstr "苏里南汤加语"
 
+msgctxt "srr"
 msgid "Serer"
 msgstr "塞雷尔语"
 
+msgctxt "ss"
 msgid "Swati"
 msgstr "斯瓦蒂语"
 
+msgctxt "ssy"
 msgid "Saho"
 msgstr "萨霍语"
 
+msgctxt "st"
 msgid "Southern Sotho"
 msgstr "南索托语"
 
+msgctxt "str"
 msgid "Straits Salish"
 msgstr "海峡萨利希语"
 
+msgctxt "su"
 msgid "Sundanese"
 msgstr "巽他语"
 
+msgctxt "suk"
 msgid "Sukuma"
 msgstr "苏库马语"
 
+msgctxt "sus"
 msgid "Susu"
 msgstr "苏苏语"
 
+msgctxt "sux"
 msgid "Sumerian"
 msgstr "苏美尔语"
 
+msgctxt "sv"
 msgid "Swedish"
 msgstr "瑞典语"
 
+msgctxt "sw"
 msgid "Swahili"
 msgstr "斯瓦希里语"
 
+msgctxt "sw-CD"
 msgid "Congo Swahili"
 msgstr "刚果斯瓦希里语"
 
+msgctxt "swb"
 msgid "Comorian"
 msgstr "科摩罗语"
 
+msgctxt "syc"
 msgid "Classical Syriac"
 msgstr "古典叙利亚语"
 
+msgctxt "syr"
 msgid "Syriac"
 msgstr "叙利亚语"
 
+msgctxt "szl"
 msgid "Silesian"
 msgstr "西里西亚语"
 
+msgctxt "ta"
 msgid "Tamil"
 msgstr "泰米尔语"
 
+msgctxt "tce"
 msgid "Southern Tutchone"
 msgstr "南塔穹语"
 
+msgctxt "te"
 msgid "Telugu"
 msgstr "泰卢固语"
 
+msgctxt "tem"
 msgid "Timne"
 msgstr "泰姆奈语"
 
+msgctxt "teo"
 msgid "Teso"
 msgstr "特索语"
 
+msgctxt "ter"
 msgid "Tereno"
 msgstr "特伦诺语"
 
+msgctxt "tet"
 msgid "Tetum"
 msgstr "德顿语"
 
+msgctxt "tg"
 msgid "Tajik"
 msgstr "塔吉克语"
 
+msgctxt "tgx"
 msgid "Tagish"
 msgstr "塔吉什语"
 
+msgctxt "th"
 msgid "Thai"
 msgstr "泰语"
 
+msgctxt "tht"
 msgid "Tahltan"
 msgstr "塔尔坦语"
 
+msgctxt "ti"
 msgid "Tigrinya"
 msgstr "提格利尼亚语"
 
+msgctxt "tig"
 msgid "Tigre"
 msgstr "提格雷语"
 
+msgctxt "tiv"
 msgid "Tiv"
 msgstr "蒂夫语"
 
+msgctxt "tk"
 msgid "Turkmen"
 msgstr "土库曼语"
 
+msgctxt "tkl"
 msgid "Tokelauan"
 msgstr "托克劳语"
 
+msgctxt "tl"
 msgid "Tagalog"
 msgstr "他加禄语"
 
+msgctxt "tlh"
 msgid "Klingon"
 msgstr "克林贡语"
 
+msgctxt "tli"
 msgid "Tlingit"
 msgstr "特林吉特语"
 
+msgctxt "tmh"
 msgid "Tamashek"
 msgstr "塔马奇克语"
 
+msgctxt "tn"
 msgid "Tswana"
 msgstr "茨瓦纳语"
 
+msgctxt "to"
 msgid "Tongan"
 msgstr "汤加语"
 
+msgctxt "tog"
 msgid "Nyasa Tonga"
 msgstr "尼亚萨汤加语"
 
+msgctxt "tok"
 msgid "Toki Pona"
 msgstr "道本语"
 
+msgctxt "tpi"
 msgid "Tok Pisin"
 msgstr "托克皮辛语"
 
+msgctxt "tr"
 msgid "Turkish"
 msgstr "土耳其语"
 
+msgctxt "trv"
 msgid "Taroko"
 msgstr "赛德克语"
 
+msgctxt "trw"
 msgid "Torwali"
 msgstr "托尔瓦利语"
 
+msgctxt "ts"
 msgid "Tsonga"
 msgstr "聪加语"
 
+msgctxt "tsi"
 msgid "Tsimshian"
 msgstr "钦西安语"
 
+msgctxt "tt"
 msgid "Tatar"
 msgstr "鞑靼语"
 
+msgctxt "ttm"
 msgid "Northern Tutchone"
 msgstr "北塔穹语"
 
+msgctxt "tum"
 msgid "Tumbuka"
 msgstr "通布卡语"
 
+msgctxt "tvl"
 msgid "Tuvalu"
 msgstr "图瓦卢语"
 
+msgctxt "tw"
 msgid "Twi"
 msgstr "契维语"
 
+msgctxt "twq"
 msgid "Tasawaq"
 msgstr "北桑海语"
 
+msgctxt "ty"
 msgid "Tahitian"
 msgstr "塔希提语"
 
+msgctxt "tyv"
 msgid "Tuvinian"
 msgstr "图瓦语"
 
+msgctxt "tzm"
 msgid "Central Atlas Tamazight"
 msgstr "塔马齐格特语"
 
+msgctxt "udm"
 msgid "Udmurt"
 msgstr "乌德穆尔特语"
 
+msgctxt "ug"
 msgid "Uyghur"
 msgstr "维吾尔语"
 
+msgctxt "uga"
 msgid "Ugaritic"
 msgstr "乌加里特语"
 
+msgctxt "uk"
 msgid "Ukrainian"
 msgstr "乌克兰语"
 
+msgctxt "umb"
 msgid "Umbundu"
 msgstr "翁本杜语"
 
+msgctxt "und"
 msgid "Unknown language"
 msgstr "未知语言"
 
+msgctxt "ur"
 msgid "Urdu"
 msgstr "乌尔都语"
 
+msgctxt "uz"
 msgid "Uzbek"
 msgstr "乌兹别克语"
 
+msgctxt "vai"
 msgid "Vai"
 msgstr "瓦伊语"
 
+msgctxt "ve"
 msgid "Venda"
 msgstr "文达语"
 
+msgctxt "vec"
 msgid "Venetian"
 msgstr "威尼斯语"
 
+msgctxt "vep"
 msgid "Veps"
 msgstr "维普森语"
 
+msgctxt "vi"
 msgid "Vietnamese"
 msgstr "越南语"
 
+msgctxt "vmw"
 msgid "Makhuwa"
 msgstr "马库阿语"
 
+msgctxt "vo"
 msgid "Volapük"
 msgstr "沃拉普克语"
 
+msgctxt "vot"
 msgid "Votic"
 msgstr "沃提克语"
 
+msgctxt "vun"
 msgid "Vunjo"
 msgstr "温旧语"
 
+msgctxt "wa"
 msgid "Walloon"
 msgstr "瓦隆语"
 
+msgctxt "wae"
 msgid "Walser"
 msgstr "瓦尔瑟语"
 
+msgctxt "wal"
 msgid "Wolaytta"
 msgstr "瓦拉莫语"
 
+msgctxt "war"
 msgid "Waray"
 msgstr "瓦瑞语"
 
+msgctxt "was"
 msgid "Washo"
 msgstr "瓦绍语"
 
+msgctxt "wbp"
 msgid "Warlpiri"
 msgstr "瓦尔皮瑞语"
 
+msgctxt "wo"
 msgid "Wolof"
 msgstr "沃洛夫语"
 
+msgctxt "wuu"
 msgid "Wu Chinese"
 msgstr "吴语"
 
+msgctxt "xal"
 msgid "Kalmyk"
 msgstr "卡尔梅克语"
 
+msgctxt "xh"
 msgid "Xhosa"
 msgstr "科萨语"
 
+msgctxt "xnr"
 msgid "Kangri"
 msgstr "康格里语"
 
+msgctxt "xog"
 msgid "Soga"
 msgstr "索加语"
 
+msgctxt "yao"
 msgid "Yao"
 msgstr "尧语"
 
+msgctxt "yap"
 msgid "Yapese"
 msgstr "雅浦语"
 
+msgctxt "yav"
 msgid "Yangben"
 msgstr "洋卞语"
 
+msgctxt "ybb"
 msgid "Yemba"
 msgstr "耶姆巴语"
 
+msgctxt "yi"
 msgid "Yiddish"
 msgstr "意第绪语"
 
+msgctxt "yo"
 msgid "Yoruba"
 msgstr "约鲁巴语"
 
+msgctxt "yrl"
 msgid "Nheengatu"
 msgstr "恩加图语"
 
+msgctxt "yue"
 msgid "Cantonese"
 msgstr "粤语"
 
+msgctxt "yue-alt-menu"
 msgid "Chinese, Cantonese"
 msgstr "广东话"
 
+msgctxt "za"
 msgid "Zhuang"
 msgstr "壮语"
 
+msgctxt "zap"
 msgid "Zapotec"
 msgstr "萨波蒂克语"
 
+msgctxt "zbl"
 msgid "Blissymbols"
 msgstr "布里斯符号"
 
+msgctxt "zen"
 msgid "Zenaga"
 msgstr "泽纳加语"
 
+msgctxt "zgh"
 msgid "Standard Moroccan Tamazight"
 msgstr "标准摩洛哥塔马塞特语"
 
+msgctxt "zh"
 msgid "Chinese"
 msgstr "中文"
 
+msgctxt "zh-alt-menu"
 msgid "Chinese, Mandarin"
 msgstr "普通话"
 
+msgctxt "zh-Hans"
 msgid "Simplified Chinese"
 msgstr "简体中文"
 
+msgctxt "zh-Hans-alt-long"
 msgid "Simplified Mandarin Chinese"
 msgstr "现代标准汉语（简体）"
 
+msgctxt "zh-Hant"
 msgid "Traditional Chinese"
 msgstr "繁体中文"
 
+msgctxt "zh-Hant-alt-long"
 msgid "Traditional Mandarin Chinese"
 msgstr "现代标准汉语（繁体）"
 
+msgctxt "zu"
 msgid "Zulu"
 msgstr "祖鲁语"
 
+msgctxt "zun"
 msgid "Zuni"
 msgstr "祖尼语"
 
+msgctxt "zxx"
 msgid "No linguistic content"
 msgstr "无语言内容"
 
+msgctxt "zza"
 msgid "Zaza"
 msgstr "扎扎语"

@@ -6,1814 +6,2418 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgctxt "aa"
 msgid "Afar"
 msgstr "Tiếng Afar"
 
+msgctxt "ab"
 msgid "Abkhazian"
 msgstr "Tiếng Abkhazia"
 
+msgctxt "ace"
 msgid "Acehnese"
 msgstr "Tiếng Achinese"
 
+msgctxt "ach"
 msgid "Acoli"
 msgstr "Tiếng Acoli"
 
+msgctxt "ada"
 msgid "Adangme"
 msgstr "Tiếng Adangme"
 
+msgctxt "ady"
 msgid "Adyghe"
 msgstr "Tiếng Adyghe"
 
+msgctxt "ae"
 msgid "Avestan"
 msgstr "Tiếng Avestan"
 
+msgctxt "af"
 msgid "Afrikaans"
 msgstr "Tiếng Hà Lan (Nam Phi)"
 
+msgctxt "afh"
 msgid "Afrihili"
 msgstr "Tiếng Afrihili"
 
+msgctxt "agq"
 msgid "Aghem"
 msgstr "Tiếng Aghem"
 
+msgctxt "ain"
 msgid "Ainu"
 msgstr "Tiếng Ainu"
 
+msgctxt "ak"
 msgid "Akan"
 msgstr "Tiếng Akan"
 
+msgctxt "akk"
 msgid "Akkadian"
 msgstr "Tiếng Akkadia"
 
+msgctxt "akz"
 msgid "Alabama"
 msgstr "Tiếng Alabama"
 
+msgctxt "ale"
 msgid "Aleut"
 msgstr "Tiếng Aleut"
 
+msgctxt "aln"
 msgid "Gheg Albanian"
 msgstr "Tiếng Gheg Albani"
 
+msgctxt "alt"
 msgid "Southern Altai"
 msgstr "Tiếng Altai Miền Nam"
 
+msgctxt "am"
 msgid "Amharic"
 msgstr "Tiếng Amharic"
 
+msgctxt "an"
 msgid "Aragonese"
 msgstr "Tiếng Aragon"
 
+msgctxt "ang"
 msgid "Old English"
 msgstr "Tiếng Anh cổ"
 
+msgctxt "ann"
 msgid "Obolo"
 msgstr "Tiếng Obolo"
 
+msgctxt "anp"
 msgid "Angika"
 msgstr "Tiếng Angika"
 
+msgctxt "ar"
 msgid "Arabic"
 msgstr "Tiếng Ả Rập"
 
+msgctxt "ar-001"
 msgid "Modern Standard Arabic"
 msgstr "Tiếng Ả Rập Hiện đại"
 
+msgctxt "arc"
 msgid "Aramaic"
 msgstr "Tiếng Aramaic"
 
+msgctxt "arn"
 msgid "Mapuche"
 msgstr "Tiếng Mapuche"
 
+msgctxt "aro"
 msgid "Araona"
 msgstr "Tiếng Araona"
 
+msgctxt "arp"
 msgid "Arapaho"
 msgstr "Tiếng Arapaho"
 
+msgctxt "arq"
 msgid "Algerian Arabic"
 msgstr "Tiếng Ả Rập Algeria"
 
+msgctxt "ars"
 msgid "Najdi Arabic"
 msgstr "Tiếng Ả Rập Najdi"
 
+msgctxt "arw"
 msgid "Arawak"
 msgstr "Tiếng Arawak"
 
+msgctxt "arz"
 msgid "Egyptian Arabic"
 msgstr "Tiếng Ả Rập Ai Cập"
 
+msgctxt "as"
 msgid "Assamese"
 msgstr "Tiếng Assam"
 
+msgctxt "asa"
 msgid "Asu"
 msgstr "Tiếng Asu"
 
+msgctxt "ase"
 msgid "American Sign Language"
 msgstr "Ngôn ngữ Ký hiệu Mỹ"
 
+msgctxt "ast"
 msgid "Asturian"
 msgstr "Tiếng Asturias"
 
+msgctxt "atj"
 msgid "Atikamekw"
 msgstr "Tiếng Atikamekw"
 
+msgctxt "av"
 msgid "Avaric"
 msgstr "Tiếng Avaric"
 
+msgctxt "awa"
 msgid "Awadhi"
 msgstr "Tiếng Awadhi"
 
+msgctxt "ay"
 msgid "Aymara"
 msgstr "Tiếng Aymara"
 
+msgctxt "az"
 msgid "Azerbaijani"
 msgstr "Tiếng Azerbaijan"
 
+msgctxt "az-alt-short"
 msgid "Azeri"
 msgstr "Tiếng Azeri"
 
+msgctxt "ba"
 msgid "Bashkir"
 msgstr "Tiếng Bashkir"
 
+msgctxt "bal"
 msgid "Baluchi"
 msgstr "Tiếng Baloch"
 
+msgctxt "ban"
 msgid "Balinese"
 msgstr "Tiếng Bali"
 
+msgctxt "bar"
 msgid "Bavarian"
 msgstr "Tiếng Bavaria"
 
+msgctxt "bas"
 msgid "Basaa"
 msgstr "Tiếng Basaa"
 
+msgctxt "bax"
 msgid "Bamun"
 msgstr "Tiếng Bamun"
 
+msgctxt "bbc"
 msgid "Batak Toba"
 msgstr "Tiếng Batak Toba"
 
+msgctxt "bbj"
 msgid "Ghomala"
 msgstr "Tiếng Ghomala"
 
+msgctxt "be"
 msgid "Belarusian"
 msgstr "Tiếng Belarus"
 
+msgctxt "bej"
 msgid "Beja"
 msgstr "Tiếng Beja"
 
+msgctxt "bem"
 msgid "Bemba"
 msgstr "Tiếng Bemba"
 
+msgctxt "bew"
 msgid "Betawi"
 msgstr "Tiếng Betawi"
 
+msgctxt "bez"
 msgid "Bena"
 msgstr "Tiếng Bena"
 
+msgctxt "bfd"
 msgid "Bafut"
 msgstr "Tiếng Bafut"
 
+msgctxt "bfq"
 msgid "Badaga"
 msgstr "Tiếng Badaga"
 
+msgctxt "bg"
 msgid "Bulgarian"
 msgstr "Tiếng Bulgaria"
 
+msgctxt "bgc"
 msgid "Haryanvi"
 msgstr "Tiếng Haryana"
 
+msgctxt "bgn"
 msgid "Western Balochi"
 msgstr "Tiếng Tây Balochi"
 
+msgctxt "bho"
 msgid "Bhojpuri"
 msgstr "Tiếng Bhojpuri"
 
+msgctxt "bi"
 msgid "Bislama"
 msgstr "Tiếng Bislama"
 
+msgctxt "bik"
 msgid "Bikol"
 msgstr "Tiếng Bikol"
 
+msgctxt "bin"
 msgid "Bini"
 msgstr "Tiếng Bini"
 
+msgctxt "bjn"
 msgid "Banjar"
 msgstr "Tiếng Banjar"
 
+msgctxt "bkm"
 msgid "Kom"
 msgstr "Tiếng Kom"
 
+msgctxt "bla"
 msgid "Siksiká"
 msgstr "Tiếng Siksika"
 
+msgctxt "blo"
 msgid "Anii"
 msgstr "Anii"
 
+msgctxt "bm"
 msgid "Bambara"
 msgstr "Tiếng Bambara"
 
+msgctxt "bn"
 msgid "Bangla"
 msgstr "Tiếng Bangla"
 
+msgctxt "bo"
 msgid "Tibetan"
 msgstr "Tiếng Tây Tạng"
 
+msgctxt "bpy"
 msgid "Bishnupriya"
 msgstr "Tiếng Bishnupriya"
 
+msgctxt "bqi"
 msgid "Bakhtiari"
 msgstr "Tiếng Bakhtiari"
 
+msgctxt "br"
 msgid "Breton"
 msgstr "Tiếng Breton"
 
+msgctxt "bra"
 msgid "Braj"
 msgstr "Tiếng Braj"
 
+msgctxt "brh"
 msgid "Brahui"
 msgstr "Tiếng Brahui"
 
+msgctxt "brx"
 msgid "Bodo"
 msgstr "Tiếng Bodo"
 
+msgctxt "bs"
 msgid "Bosnian"
 msgstr "Tiếng Bosnia"
 
+msgctxt "bss"
 msgid "Akoose"
 msgstr "Tiếng Akoose"
 
+msgctxt "bua"
 msgid "Buriat"
 msgstr "Tiếng Buriat"
 
+msgctxt "bug"
 msgid "Buginese"
 msgstr "Tiếng Bugin"
 
+msgctxt "bum"
 msgid "Bulu"
 msgstr "Tiếng Bulu"
 
+msgctxt "byn"
 msgid "Blin"
 msgstr "Tiếng Blin"
 
+msgctxt "byv"
 msgid "Medumba"
 msgstr "Tiếng Medumba"
 
+msgctxt "ca"
 msgid "Catalan"
 msgstr "Tiếng Catalan"
 
+msgctxt "cad"
 msgid "Caddo"
 msgstr "Tiếng Caddo"
 
+msgctxt "car"
 msgid "Carib"
 msgstr "Tiếng Carib"
 
+msgctxt "cay"
 msgid "Cayuga"
 msgstr "Tiếng Cayuga"
 
+msgctxt "cch"
 msgid "Atsam"
 msgstr "Tiếng Atsam"
 
+msgctxt "ccp"
 msgid "Chakma"
 msgstr "Tiếng Chakma"
 
+msgctxt "ce"
 msgid "Chechen"
 msgstr "Tiếng Chechen"
 
+msgctxt "ceb"
 msgid "Cebuano"
 msgstr "Tiếng Cebuano"
 
+msgctxt "cgg"
 msgid "Chiga"
 msgstr "Tiếng Chiga"
 
+msgctxt "ch"
 msgid "Chamorro"
 msgstr "Tiếng Chamorro"
 
+msgctxt "chb"
 msgid "Chibcha"
 msgstr "Tiếng Chibcha"
 
+msgctxt "chg"
 msgid "Chagatai"
 msgstr "Tiếng Chagatai"
 
+msgctxt "chk"
 msgid "Chuukese"
 msgstr "Tiếng Chuuk"
 
+msgctxt "chm"
 msgid "Mari"
 msgstr "Tiếng Mari"
 
+msgctxt "chn"
 msgid "Chinook Jargon"
 msgstr "Biệt ngữ Chinook"
 
+msgctxt "cho"
 msgid "Choctaw"
 msgstr "Tiếng Choctaw"
 
+msgctxt "chp"
 msgid "Chipewyan"
 msgstr "Tiếng Chipewyan"
 
+msgctxt "chr"
 msgid "Cherokee"
 msgstr "Tiếng Cherokee"
 
+msgctxt "chy"
 msgid "Cheyenne"
 msgstr "Tiếng Cheyenne"
 
+msgctxt "ckb"
 msgid "Central Kurdish"
 msgstr "Tiếng Kurd Miền Trung"
 
+msgctxt "ckb-alt-variant"
 msgid "Kurdish, Sorani"
 msgstr "Tiếng Kurd Sorani"
 
+msgctxt "clc"
 msgid "Chilcotin"
 msgstr "Tiếng Chilcotin"
 
+msgctxt "co"
 msgid "Corsican"
 msgstr "Tiếng Corsica"
 
+msgctxt "cop"
 msgid "Coptic"
 msgstr "Tiếng Coptic"
 
+msgctxt "cps"
 msgid "Capiznon"
 msgstr "Tiếng Capiznon"
 
+msgctxt "cr"
 msgid "Cree"
 msgstr "Tiếng Cree"
 
+msgctxt "crg"
 msgid "Michif"
 msgstr "Tiếng Michif"
 
+msgctxt "crh"
 msgid "Crimean Tatar"
 msgstr "Tiếng Thổ Nhĩ Kỳ Crimean"
 
+msgctxt "crj"
 msgid "Southern East Cree"
 msgstr "Tiếng Cree Đông Nam"
 
+msgctxt "crk"
 msgid "Plains Cree"
 msgstr "Tiếng Plains Cree"
 
+msgctxt "crl"
 msgid "Northern East Cree"
 msgstr "Tiếng Cree Đông Bắc"
 
+msgctxt "crm"
 msgid "Moose Cree"
 msgstr "Tiếng Moose Cree"
 
+msgctxt "crr"
 msgid "Carolina Algonquian"
 msgstr "Tiếng Carolina Algonquian"
 
+msgctxt "crs"
 msgid "Seselwa Creole French"
 msgstr "Tiếng Pháp Seselwa Creole"
 
+msgctxt "cs"
 msgid "Czech"
 msgstr "Tiếng Séc"
 
+msgctxt "csb"
 msgid "Kashubian"
 msgstr "Tiếng Kashubia"
 
+msgctxt "csw"
 msgid "Swampy Cree"
 msgstr "Tiếng Swampy Cree"
 
+msgctxt "cu"
 msgid "Church Slavic"
 msgstr "Tiếng Slavơ Nhà thờ"
 
+msgctxt "cv"
 msgid "Chuvash"
 msgstr "Tiếng Chuvash"
 
+msgctxt "cy"
 msgid "Welsh"
 msgstr "Tiếng Wales"
 
+msgctxt "da"
 msgid "Danish"
 msgstr "Tiếng Đan Mạch"
 
+msgctxt "dak"
 msgid "Dakota"
 msgstr "Tiếng Dakota"
 
+msgctxt "dar"
 msgid "Dargwa"
 msgstr "Tiếng Dargwa"
 
+msgctxt "dav"
 msgid "Taita"
 msgstr "Tiếng Taita"
 
+msgctxt "de"
 msgid "German"
 msgstr "Tiếng Đức"
 
+msgctxt "de-CH"
 msgid "Swiss High German"
 msgstr "Tiếng Thượng Giéc-man (Thụy Sĩ)"
 
+msgctxt "del"
 msgid "Delaware"
 msgstr "Tiếng Delaware"
 
+msgctxt "den"
 msgid "Slave"
 msgstr "Tiếng Slave"
 
+msgctxt "dgr"
 msgid "Dogrib"
 msgstr "Tiếng Dogrib"
 
+msgctxt "din"
 msgid "Dinka"
 msgstr "Tiếng Dinka"
 
+msgctxt "dje"
 msgid "Zarma"
 msgstr "Tiếng Zarma"
 
+msgctxt "doi"
 msgid "Dogri"
 msgstr "Tiếng Dogri"
 
+msgctxt "dsb"
 msgid "Lower Sorbian"
 msgstr "Tiếng Hạ Sorbia"
 
+msgctxt "dtp"
 msgid "Central Dusun"
 msgstr "Tiếng Dusun Miền Trung"
 
+msgctxt "dua"
 msgid "Duala"
 msgstr "Tiếng Duala"
 
+msgctxt "dum"
 msgid "Middle Dutch"
 msgstr "Tiếng Hà Lan Trung cổ"
 
+msgctxt "dv"
 msgid "Divehi"
 msgstr "Tiếng Divehi"
 
+msgctxt "dyo"
 msgid "Jola-Fonyi"
 msgstr "Tiếng Jola-Fonyi"
 
+msgctxt "dyu"
 msgid "Dyula"
 msgstr "Tiếng Dyula"
 
+msgctxt "dz"
 msgid "Dzongkha"
 msgstr "Tiếng Dzongkha"
 
+msgctxt "dzg"
 msgid "Dazaga"
 msgstr "Tiếng Dazaga"
 
+msgctxt "ebu"
 msgid "Embu"
 msgstr "Tiếng Embu"
 
+msgctxt "ee"
 msgid "Ewe"
 msgstr "Tiếng Ewe"
 
+msgctxt "efi"
 msgid "Efik"
 msgstr "Tiếng Efik"
 
+msgctxt "egl"
 msgid "Emilian"
 msgstr "Tiếng Emilia"
 
+msgctxt "egy"
 msgid "Ancient Egyptian"
 msgstr "Tiếng Ai Cập cổ"
 
+msgctxt "eka"
 msgid "Ekajuk"
 msgstr "Tiếng Ekajuk"
 
+msgctxt "el"
 msgid "Greek"
 msgstr "Tiếng Hy Lạp"
 
+msgctxt "elx"
 msgid "Elamite"
 msgstr "Tiếng Elamite"
 
+msgctxt "en"
 msgid "English"
 msgstr "Tiếng Anh"
 
+msgctxt "en-GB"
 msgid "British English"
 msgstr "Tiếng Anh (Anh)"
 
+msgctxt "en-US"
 msgid "American English"
 msgstr "Tiếng Anh (Mỹ)"
 
+msgctxt "enm"
 msgid "Middle English"
 msgstr "Tiếng Anh Trung cổ"
 
+msgctxt "eo"
 msgid "Esperanto"
 msgstr "Tiếng Quốc Tế Ngữ"
 
+msgctxt "es"
 msgid "Spanish"
 msgstr "Tiếng Tây Ban Nha"
 
+msgctxt "es-419"
 msgid "Latin American Spanish"
 msgstr "Tiếng Tây Ban Nha (Mỹ La tinh)"
 
+msgctxt "es-ES"
 msgid "European Spanish"
 msgstr "Tiếng Tây Ban Nha (Châu Âu)"
 
+msgctxt "esu"
 msgid "Central Yupik"
 msgstr "Tiếng Yupik Miền Trung"
 
+msgctxt "et"
 msgid "Estonian"
 msgstr "Tiếng Estonia"
 
+msgctxt "eu"
 msgid "Basque"
 msgstr "Tiếng Basque"
 
+msgctxt "ewo"
 msgid "Ewondo"
 msgstr "Tiếng Ewondo"
 
+msgctxt "ext"
 msgid "Extremaduran"
 msgstr "Tiếng Extremadura"
 
+msgctxt "fa"
 msgid "Persian"
 msgstr "Tiếng Ba Tư"
 
+msgctxt "fa-AF"
 msgid "Dari"
 msgstr "Tiếng Dari"
 
+msgctxt "fan"
 msgid "Fang"
 msgstr "Tiếng Fang"
 
+msgctxt "fat"
 msgid "Fanti"
 msgstr "Tiếng Fanti"
 
+msgctxt "ff"
 msgid "Fula"
 msgstr "Tiếng Fulah"
 
+msgctxt "fi"
 msgid "Finnish"
 msgstr "Tiếng Phần Lan"
 
+msgctxt "fil"
 msgid "Filipino"
 msgstr "Tiếng Philippines"
 
+msgctxt "fj"
 msgid "Fijian"
 msgstr "Tiếng Fiji"
 
+msgctxt "fo"
 msgid "Faroese"
 msgstr "Tiếng Faroe"
 
+msgctxt "fon"
 msgid "Fon"
 msgstr "Tiếng Fon"
 
+msgctxt "fr"
 msgid "French"
 msgstr "Tiếng Pháp"
 
+msgctxt "frc"
 msgid "Cajun French"
 msgstr "Tiếng Pháp Cajun"
 
+msgctxt "frm"
 msgid "Middle French"
 msgstr "Tiếng Pháp Trung cổ"
 
+msgctxt "fro"
 msgid "Old French"
 msgstr "Tiếng Pháp cổ"
 
+msgctxt "frp"
 msgid "Arpitan"
 msgstr "Tiếng Arpitan"
 
+msgctxt "frr"
 msgid "Northern Frisian"
 msgstr "Tiếng Frisia Miền Bắc"
 
+msgctxt "frs"
 msgid "Eastern Frisian"
 msgstr "Tiếng Frisian Miền Đông"
 
+msgctxt "fur"
 msgid "Friulian"
 msgstr "Tiếng Friulian"
 
+msgctxt "fy"
 msgid "Western Frisian"
 msgstr "Tiếng Frisia"
 
+msgctxt "ga"
 msgid "Irish"
 msgstr "Tiếng Ireland"
 
+msgctxt "gaa"
 msgid "Ga"
 msgstr "Tiếng Ga"
 
+msgctxt "gag"
 msgid "Gagauz"
 msgstr "Tiếng Gagauz"
 
+msgctxt "gan"
 msgid "Gan Chinese"
 msgstr "Tiếng Cám"
 
+msgctxt "gay"
 msgid "Gayo"
 msgstr "Tiếng Gayo"
 
+msgctxt "gba"
 msgid "Gbaya"
 msgstr "Tiếng Gbaya"
 
+msgctxt "gd"
 msgid "Scottish Gaelic"
 msgstr "Tiếng Gael Scotland"
 
+msgctxt "gez"
 msgid "Geez"
 msgstr "Tiếng Geez"
 
+msgctxt "gil"
 msgid "Gilbertese"
 msgstr "Tiếng Gilbert"
 
+msgctxt "gl"
 msgid "Galician"
 msgstr "Tiếng Galician"
 
+msgctxt "glk"
 msgid "Gilaki"
 msgstr "Tiếng Gilaki"
 
+msgctxt "gmh"
 msgid "Middle High German"
 msgstr "Tiếng Thượng Giéc-man Trung cổ"
 
+msgctxt "gn"
 msgid "Guarani"
 msgstr "Tiếng Guarani"
 
+msgctxt "goh"
 msgid "Old High German"
 msgstr "Tiếng Thượng Giéc-man cổ"
 
+msgctxt "gon"
 msgid "Gondi"
 msgstr "Tiếng Gondi"
 
+msgctxt "gor"
 msgid "Gorontalo"
 msgstr "Tiếng Gorontalo"
 
+msgctxt "got"
 msgid "Gothic"
 msgstr "Tiếng Gô-tích"
 
+msgctxt "grb"
 msgid "Grebo"
 msgstr "Tiếng Grebo"
 
+msgctxt "grc"
 msgid "Ancient Greek"
 msgstr "Tiếng Hy Lạp cổ"
 
+msgctxt "gsw"
 msgid "Swiss German"
 msgstr "Tiếng Đức (Thụy Sĩ)"
 
+msgctxt "gu"
 msgid "Gujarati"
 msgstr "Tiếng Gujarati"
 
+msgctxt "gur"
 msgid "Frafra"
 msgstr "Tiếng Frafra"
 
+msgctxt "guz"
 msgid "Gusii"
 msgstr "Tiếng Gusii"
 
+msgctxt "gv"
 msgid "Manx"
 msgstr "Tiếng Manx"
 
+msgctxt "gwi"
 msgid "Gwichʼin"
 msgstr "Tiếng Gwichʼin"
 
+msgctxt "ha"
 msgid "Hausa"
 msgstr "Tiếng Hausa"
 
+msgctxt "hai"
 msgid "Haida"
 msgstr "Tiếng Haida"
 
+msgctxt "hak"
 msgid "Hakka Chinese"
 msgstr "Tiếng Khách Gia"
 
+msgctxt "haw"
 msgid "Hawaiian"
 msgstr "Tiếng Hawaii"
 
+msgctxt "hax"
 msgid "Southern Haida"
 msgstr "Tiếng Haida miền Nam"
 
+msgctxt "he"
 msgid "Hebrew"
 msgstr "Tiếng Do Thái"
 
+msgctxt "hi"
 msgid "Hindi"
 msgstr "Tiếng Hindi"
 
+msgctxt "hi-Latn-alt-variant"
 msgid "Hinglish"
 msgstr "Tiếng Hindi (lai tiếng Anh)"
 
+msgctxt "hif"
 msgid "Fiji Hindi"
 msgstr "Tiếng Fiji Hindi"
 
+msgctxt "hil"
 msgid "Hiligaynon"
 msgstr "Tiếng Hiligaynon"
 
+msgctxt "hit"
 msgid "Hittite"
 msgstr "Tiếng Hittite"
 
+msgctxt "hmn"
 msgid "Hmong"
 msgstr "Tiếng H’Mông"
 
+msgctxt "ho"
 msgid "Hiri Motu"
 msgstr "Tiếng Hiri Motu"
 
+msgctxt "hr"
 msgid "Croatian"
 msgstr "Tiếng Croatia"
 
+msgctxt "hsb"
 msgid "Upper Sorbian"
 msgstr "Tiếng Thượng Sorbia"
 
+msgctxt "hsn"
 msgid "Xiang Chinese"
 msgstr "Tiếng Tương"
 
+msgctxt "ht"
 msgid "Haitian Creole"
 msgstr "Tiếng Haiti"
 
+msgctxt "hu"
 msgid "Hungarian"
 msgstr "Tiếng Hungary"
 
+msgctxt "hup"
 msgid "Hupa"
 msgstr "Tiếng Hupa"
 
+msgctxt "hur"
 msgid "Halkomelem"
 msgstr "Tiếng Halkomelem"
 
+msgctxt "hy"
 msgid "Armenian"
 msgstr "Tiếng Armenia"
 
+msgctxt "hz"
 msgid "Herero"
 msgstr "Tiếng Herero"
 
+msgctxt "ia"
 msgid "Interlingua"
 msgstr "Tiếng Khoa Học Quốc Tế"
 
+msgctxt "iba"
 msgid "Iban"
 msgstr "Tiếng Iban"
 
+msgctxt "ibb"
 msgid "Ibibio"
 msgstr "Tiếng Ibibio"
 
+msgctxt "id"
 msgid "Indonesian"
 msgstr "Tiếng Indonesia"
 
+msgctxt "ie"
 msgid "Interlingue"
 msgstr "Tiếng Interlingue"
 
+msgctxt "ig"
 msgid "Igbo"
 msgstr "Tiếng Igbo"
 
+msgctxt "ii"
 msgid "Sichuan Yi"
 msgstr "Tiếng Di Tứ Xuyên"
 
+msgctxt "ik"
 msgid "Inupiaq"
 msgstr "Tiếng Inupiaq"
 
+msgctxt "ikt"
 msgid "Western Canadian Inuktitut"
 msgstr "Tiếng Inuktitut miền Tây Canada"
 
+msgctxt "ilo"
 msgid "Iloko"
 msgstr "Tiếng Iloko"
 
+msgctxt "inh"
 msgid "Ingush"
 msgstr "Tiếng Ingush"
 
+msgctxt "io"
 msgid "Ido"
 msgstr "Tiếng Ido"
 
+msgctxt "is"
 msgid "Icelandic"
 msgstr "Tiếng Iceland"
 
+msgctxt "it"
 msgid "Italian"
 msgstr "Tiếng Italy"
 
+msgctxt "iu"
 msgid "Inuktitut"
 msgstr "Tiếng Inuktitut"
 
+msgctxt "izh"
 msgid "Ingrian"
 msgstr "Tiếng Ingria"
 
+msgctxt "ja"
 msgid "Japanese"
 msgstr "Tiếng Nhật"
 
+msgctxt "jam"
 msgid "Jamaican Creole English"
 msgstr "Tiếng Anh Jamaica Creole"
 
+msgctxt "jbo"
 msgid "Lojban"
 msgstr "Tiếng Lojban"
 
+msgctxt "jgo"
 msgid "Ngomba"
 msgstr "Tiếng Ngomba"
 
+msgctxt "jmc"
 msgid "Machame"
 msgstr "Tiếng Machame"
 
+msgctxt "jpr"
 msgid "Judeo-Persian"
 msgstr "Tiếng Judeo-Ba Tư"
 
+msgctxt "jrb"
 msgid "Judeo-Arabic"
 msgstr "Tiếng Judeo-Ả Rập"
 
+msgctxt "jut"
 msgid "Jutish"
 msgstr "Tiếng Jutish"
 
+msgctxt "jv"
 msgid "Javanese"
 msgstr "Tiếng Java"
 
+msgctxt "ka"
 msgid "Georgian"
 msgstr "Tiếng Georgia"
 
+msgctxt "kaa"
 msgid "Kara-Kalpak"
 msgstr "Tiếng Kara-Kalpak"
 
+msgctxt "kab"
 msgid "Kabyle"
 msgstr "Tiếng Kabyle"
 
+msgctxt "kac"
 msgid "Kachin"
 msgstr "Tiếng Kachin"
 
+msgctxt "kaj"
 msgid "Jju"
 msgstr "Tiếng Jju"
 
+msgctxt "kam"
 msgid "Kamba"
 msgstr "Tiếng Kamba"
 
+msgctxt "kaw"
 msgid "Kawi"
 msgstr "Tiếng Kawi"
 
+msgctxt "kbd"
 msgid "Kabardian"
 msgstr "Tiếng Kabardian"
 
+msgctxt "kbl"
 msgid "Kanembu"
 msgstr "Tiếng Kanembu"
 
+msgctxt "kcg"
 msgid "Tyap"
 msgstr "Tiếng Tyap"
 
+msgctxt "kde"
 msgid "Makonde"
 msgstr "Tiếng Makonde"
 
+msgctxt "kea"
 msgid "Kabuverdianu"
 msgstr "Tiếng Kabuverdianu"
 
+msgctxt "kfo"
 msgid "Koro"
 msgstr "Tiếng Koro"
 
+msgctxt "kg"
 msgid "Kongo"
 msgstr "Tiếng Kongo"
 
+msgctxt "kgp"
 msgid "Kaingang"
 msgstr "Tiếng Kaingang"
 
+msgctxt "kha"
 msgid "Khasi"
 msgstr "Tiếng Khasi"
 
+msgctxt "kho"
 msgid "Khotanese"
 msgstr "Tiếng Khotan"
 
+msgctxt "khq"
 msgid "Koyra Chiini"
 msgstr "Tiếng Koyra Chiini"
 
+msgctxt "ki"
 msgid "Kikuyu"
 msgstr "Tiếng Kikuyu"
 
+msgctxt "kj"
 msgid "Kuanyama"
 msgstr "Tiếng Kuanyama"
 
+msgctxt "kk"
 msgid "Kazakh"
 msgstr "Tiếng Kazakh"
 
+msgctxt "kkj"
 msgid "Kako"
 msgstr "Tiếng Kako"
 
+msgctxt "kl"
 msgid "Kalaallisut"
 msgstr "Tiếng Kalaallisut"
 
+msgctxt "kln"
 msgid "Kalenjin"
 msgstr "Tiếng Kalenjin"
 
+msgctxt "km"
 msgid "Khmer"
 msgstr "Tiếng Khmer"
 
+msgctxt "kmb"
 msgid "Kimbundu"
 msgstr "Tiếng Kimbundu"
 
+msgctxt "kn"
 msgid "Kannada"
 msgstr "Tiếng Kannada"
 
+msgctxt "ko"
 msgid "Korean"
 msgstr "Tiếng Hàn"
 
+msgctxt "koi"
 msgid "Komi-Permyak"
 msgstr "Tiếng Komi-Permyak"
 
+msgctxt "kok"
 msgid "Konkani"
 msgstr "Tiếng Konkani"
 
+msgctxt "kos"
 msgid "Kosraean"
 msgstr "Tiếng Kosrae"
 
+msgctxt "kpe"
 msgid "Kpelle"
 msgstr "Tiếng Kpelle"
 
+msgctxt "kr"
 msgid "Kanuri"
 msgstr "Tiếng Kanuri"
 
+msgctxt "krc"
 msgid "Karachay-Balkar"
 msgstr "Tiếng Karachay-Balkar"
 
+msgctxt "krl"
 msgid "Karelian"
 msgstr "Tiếng Karelian"
 
+msgctxt "kru"
 msgid "Kurukh"
 msgstr "Tiếng Kurukh"
 
+msgctxt "ks"
 msgid "Kashmiri"
 msgstr "Tiếng Kashmir"
 
+msgctxt "ksb"
 msgid "Shambala"
 msgstr "Tiếng Shambala"
 
+msgctxt "ksf"
 msgid "Bafia"
 msgstr "Tiếng Bafia"
 
+msgctxt "ksh"
 msgid "Colognian"
 msgstr "Tiếng Cologne"
 
+msgctxt "ku"
 msgid "Kurdish"
 msgstr "Tiếng Kurd"
 
+msgctxt "ku-menu-core"
 msgid "Kurdish"
 msgstr "Tiếng Kurd"
 
+msgctxt "ku-menu-extension"
 msgid "Kurmanji"
 msgstr "Tiếng Kurmanji"
 
+msgctxt "kum"
 msgid "Kumyk"
 msgstr "Tiếng Kumyk"
 
+msgctxt "kut"
 msgid "Kutenai"
 msgstr "Tiếng Kutenai"
 
+msgctxt "kv"
 msgid "Komi"
 msgstr "Tiếng Komi"
 
+msgctxt "kw"
 msgid "Cornish"
 msgstr "Tiếng Cornwall"
 
+msgctxt "kwk"
 msgid "Kwakʼwala"
 msgstr "Tiếng Kwakʼwala"
 
+msgctxt "kxv"
 msgid "Kuvi"
 msgstr "Tiếng Kuvi"
 
+msgctxt "ky"
 msgid "Kyrgyz"
 msgstr "Tiếng Kyrgyz"
 
+msgctxt "la"
 msgid "Latin"
 msgstr "Tiếng La-tinh"
 
+msgctxt "lad"
 msgid "Ladino"
 msgstr "Tiếng Ladino"
 
+msgctxt "lag"
 msgid "Langi"
 msgstr "Tiếng Langi"
 
+msgctxt "lah"
 msgid "Western Panjabi"
 msgstr "Tiếng Lahnda"
 
+msgctxt "lam"
 msgid "Lamba"
 msgstr "Tiếng Lamba"
 
+msgctxt "lb"
 msgid "Luxembourgish"
 msgstr "Tiếng Luxembourg"
 
+msgctxt "lez"
 msgid "Lezghian"
 msgstr "Tiếng Lezghian"
 
+msgctxt "lg"
 msgid "Ganda"
 msgstr "Tiếng Ganda"
 
+msgctxt "li"
 msgid "Limburgish"
 msgstr "Tiếng Limburg"
 
+msgctxt "lij"
 msgid "Ligurian"
 msgstr "Tiếng Liguria"
 
+msgctxt "lil"
 msgid "Lillooet"
 msgstr "Tiếng Lillooet"
 
+msgctxt "lkt"
 msgid "Lakota"
 msgstr "Tiếng Lakota"
 
+msgctxt "lmo"
 msgid "Lombard"
 msgstr "Tiếng Lombard"
 
+msgctxt "ln"
 msgid "Lingala"
 msgstr "Tiếng Lingala"
 
+msgctxt "lo"
 msgid "Lao"
 msgstr "Tiếng Lào"
 
+msgctxt "lol"
 msgid "Mongo"
 msgstr "Tiếng Mongo"
 
+msgctxt "lou"
 msgid "Louisiana Creole"
 msgstr "Tiếng Creole Louisiana"
 
+msgctxt "loz"
 msgid "Lozi"
 msgstr "Tiếng Lozi"
 
+msgctxt "lrc"
 msgid "Northern Luri"
 msgstr "Tiếng Bắc Luri"
 
+msgctxt "lsm"
 msgid "Saamia"
 msgstr "Tiếng Saamia"
 
+msgctxt "lt"
 msgid "Lithuanian"
 msgstr "Tiếng Litva"
 
+msgctxt "lu"
 msgid "Luba-Katanga"
 msgstr "Tiếng Luba-Katanga"
 
+msgctxt "lua"
 msgid "Luba-Lulua"
 msgstr "Tiếng Luba-Lulua"
 
+msgctxt "lui"
 msgid "Luiseno"
 msgstr "Tiếng Luiseno"
 
+msgctxt "lun"
 msgid "Lunda"
 msgstr "Tiếng Lunda"
 
+msgctxt "luo"
 msgid "Luo"
 msgstr "Tiếng Luo"
 
+msgctxt "lus"
 msgid "Mizo"
 msgstr "Tiếng Lushai"
 
+msgctxt "luy"
 msgid "Luyia"
 msgstr "Tiếng Luyia"
 
+msgctxt "lv"
 msgid "Latvian"
 msgstr "Tiếng Latvia"
 
+msgctxt "mad"
 msgid "Madurese"
 msgstr "Tiếng Madura"
 
+msgctxt "maf"
 msgid "Mafa"
 msgstr "Tiếng Mafa"
 
+msgctxt "mag"
 msgid "Magahi"
 msgstr "Tiếng Magahi"
 
+msgctxt "mai"
 msgid "Maithili"
 msgstr "Tiếng Maithili"
 
+msgctxt "mak"
 msgid "Makasar"
 msgstr "Tiếng Makasar"
 
+msgctxt "man"
 msgid "Mandingo"
 msgstr "Tiếng Mandingo"
 
+msgctxt "mas"
 msgid "Masai"
 msgstr "Tiếng Masai"
 
+msgctxt "mde"
 msgid "Maba"
 msgstr "Tiếng Maba"
 
+msgctxt "mdf"
 msgid "Moksha"
 msgstr "Tiếng Moksha"
 
+msgctxt "mdr"
 msgid "Mandar"
 msgstr "Tiếng Mandar"
 
+msgctxt "men"
 msgid "Mende"
 msgstr "Tiếng Mende"
 
+msgctxt "mer"
 msgid "Meru"
 msgstr "Tiếng Meru"
 
+msgctxt "mfe"
 msgid "Morisyen"
 msgstr "Tiếng Morisyen"
 
+msgctxt "mg"
 msgid "Malagasy"
 msgstr "Tiếng Malagasy"
 
+msgctxt "mga"
 msgid "Middle Irish"
 msgstr "Tiếng Ai-len Trung cổ"
 
+msgctxt "mgh"
 msgid "Makhuwa-Meetto"
 msgstr "Tiếng Makhuwa-Meetto"
 
+msgctxt "mgo"
 msgid "Metaʼ"
 msgstr "Tiếng Meta’"
 
+msgctxt "mh"
 msgid "Marshallese"
 msgstr "Tiếng Marshall"
 
+msgctxt "mi"
 msgid "Māori"
 msgstr "Tiếng Māori"
 
+msgctxt "mic"
 msgid "Mi'kmaw"
 msgstr "Tiếng Micmac"
 
+msgctxt "min"
 msgid "Minangkabau"
 msgstr "Tiếng Minangkabau"
 
+msgctxt "mk"
 msgid "Macedonian"
 msgstr "Tiếng Macedonia"
 
+msgctxt "ml"
 msgid "Malayalam"
 msgstr "Tiếng Malayalam"
 
+msgctxt "mn"
 msgid "Mongolian"
 msgstr "Tiếng Mông Cổ"
 
+msgctxt "mnc"
 msgid "Manchu"
 msgstr "Tiếng Mãn Châu"
 
+msgctxt "mni"
 msgid "Manipuri"
 msgstr "Tiếng Manipuri"
 
+msgctxt "moe"
 msgid "Innu-aimun"
 msgstr "Tiếng Innu-aimun"
 
+msgctxt "moh"
 msgid "Mohawk"
 msgstr "Tiếng Mohawk"
 
+msgctxt "mos"
 msgid "Mossi"
 msgstr "Tiếng Mossi"
 
+msgctxt "mr"
 msgid "Marathi"
 msgstr "Tiếng Marathi"
 
+msgctxt "ms"
 msgid "Malay"
 msgstr "Tiếng Mã Lai"
 
+msgctxt "mt"
 msgid "Maltese"
 msgstr "Tiếng Malta"
 
+msgctxt "mua"
 msgid "Mundang"
 msgstr "Tiếng Mundang"
 
+msgctxt "mul"
 msgid "Multiple languages"
 msgstr "Nhiều ngôn ngữ"
 
+msgctxt "mus"
 msgid "Muscogee"
 msgstr "Tiếng Creek"
 
+msgctxt "mwl"
 msgid "Mirandese"
 msgstr "Tiếng Miranda"
 
+msgctxt "mwr"
 msgid "Marwari"
 msgstr "Tiếng Marwari"
 
+msgctxt "my"
 msgid "Burmese"
 msgstr "Tiếng Miến Điện"
 
+msgctxt "mye"
 msgid "Myene"
 msgstr "Tiếng Myene"
 
+msgctxt "myv"
 msgid "Erzya"
 msgstr "Tiếng Erzya"
 
+msgctxt "mzn"
 msgid "Mazanderani"
 msgstr "Tiếng Mazanderani"
 
+msgctxt "na"
 msgid "Nauru"
 msgstr "Tiếng Nauru"
 
+msgctxt "nan"
 msgid "Min Nan Chinese"
 msgstr "Tiếng Mân Nam"
 
+msgctxt "nap"
 msgid "Neapolitan"
 msgstr "Tiếng Napoli"
 
+msgctxt "naq"
 msgid "Nama"
 msgstr "Tiếng Nama"
 
+msgctxt "nb"
 msgid "Norwegian Bokmål"
 msgstr "Tiếng Na Uy (Bokmål)"
 
+msgctxt "nd"
 msgid "North Ndebele"
 msgstr "Tiếng Ndebele Miền Bắc"
 
+msgctxt "nds"
 msgid "Low German"
 msgstr "Tiếng Hạ Đức"
 
+msgctxt "nds-NL"
 msgid "Low Saxon"
 msgstr "Tiếng Hạ Saxon"
 
+msgctxt "ne"
 msgid "Nepali"
 msgstr "Tiếng Nepal"
 
+msgctxt "new"
 msgid "Newari"
 msgstr "Tiếng Newari"
 
+msgctxt "ng"
 msgid "Ndonga"
 msgstr "Tiếng Ndonga"
 
+msgctxt "nia"
 msgid "Nias"
 msgstr "Tiếng Nias"
 
+msgctxt "niu"
 msgid "Niuean"
 msgstr "Tiếng Niuean"
 
+msgctxt "njo"
 msgid "Ao Naga"
 msgstr "Tiếng Ao Naga"
 
+msgctxt "nl"
 msgid "Dutch"
 msgstr "Tiếng Hà Lan"
 
+msgctxt "nmg"
 msgid "Kwasio"
 msgstr "Tiếng Kwasio"
 
+msgctxt "nn"
 msgid "Norwegian Nynorsk"
 msgstr "Tiếng Na Uy (Nynorsk)"
 
+msgctxt "nnh"
 msgid "Ngiemboon"
 msgstr "Tiếng Ngiemboon"
 
+msgctxt "no"
 msgid "Norwegian"
 msgstr "Tiếng Na Uy"
 
+msgctxt "nog"
 msgid "Nogai"
 msgstr "Tiếng Nogai"
 
+msgctxt "non"
 msgid "Old Norse"
 msgstr "Tiếng Na Uy cổ"
 
+msgctxt "nqo"
 msgid "N’Ko"
 msgstr "Tiếng N’Ko"
 
+msgctxt "nr"
 msgid "South Ndebele"
 msgstr "Tiếng Ndebele Miền Nam"
 
+msgctxt "nso"
 msgid "Northern Sotho"
 msgstr "Tiếng Bắc Sotho"
 
+msgctxt "nus"
 msgid "Nuer"
 msgstr "Tiếng Nuer"
 
+msgctxt "nv"
 msgid "Navajo"
 msgstr "Tiếng Navajo"
 
+msgctxt "nwc"
 msgid "Classical Newari"
 msgstr "Tiếng Newari cổ"
 
+msgctxt "ny"
 msgid "Nyanja"
 msgstr "Tiếng Nyanja"
 
+msgctxt "nym"
 msgid "Nyamwezi"
 msgstr "Tiếng Nyamwezi"
 
+msgctxt "nyn"
 msgid "Nyankole"
 msgstr "Tiếng Nyankole"
 
+msgctxt "nyo"
 msgid "Nyoro"
 msgstr "Tiếng Nyoro"
 
+msgctxt "nzi"
 msgid "Nzima"
 msgstr "Tiếng Nzima"
 
+msgctxt "oc"
 msgid "Occitan"
 msgstr "Tiếng Occitan"
 
+msgctxt "oj"
 msgid "Ojibwa"
 msgstr "Tiếng Ojibwa"
 
+msgctxt "ojb"
 msgid "Northwestern Ojibwa"
 msgstr "Tiếng Ojibwe Tây Bắc"
 
+msgctxt "ojc"
 msgid "Central Ojibwa"
 msgstr "Tiếng Ojibwe miền Trung"
 
+msgctxt "ojs"
 msgid "Oji-Cree"
 msgstr "Tiếng Oji-Cree"
 
+msgctxt "ojw"
 msgid "Western Ojibwa"
 msgstr "Tiếng Ojibwe miền Tây"
 
+msgctxt "oka"
 msgid "Okanagan"
 msgstr "Tiếng Okanagan"
 
+msgctxt "om"
 msgid "Oromo"
 msgstr "Tiếng Oromo"
 
+msgctxt "or"
 msgid "Odia"
 msgstr "Tiếng Odia"
 
+msgctxt "os"
 msgid "Ossetic"
 msgstr "Tiếng Ossetic"
 
+msgctxt "osa"
 msgid "Osage"
 msgstr "Tiếng Osage"
 
+msgctxt "ota"
 msgid "Ottoman Turkish"
 msgstr "Tiếng Thổ Nhĩ Kỳ Ottoman"
 
+msgctxt "pa"
 msgid "Punjabi"
 msgstr "Tiếng Punjab"
 
+msgctxt "pag"
 msgid "Pangasinan"
 msgstr "Tiếng Pangasinan"
 
+msgctxt "pal"
 msgid "Pahlavi"
 msgstr "Tiếng Pahlavi"
 
+msgctxt "pam"
 msgid "Pampanga"
 msgstr "Tiếng Pampanga"
 
+msgctxt "pap"
 msgid "Papiamento"
 msgstr "Tiếng Papiamento"
 
+msgctxt "pau"
 msgid "Palauan"
 msgstr "Tiếng Palauan"
 
+msgctxt "pcm"
 msgid "Nigerian Pidgin"
 msgstr "Pidgin Nigeria"
 
+msgctxt "peo"
 msgid "Old Persian"
 msgstr "Tiếng Ba Tư cổ"
 
+msgctxt "phn"
 msgid "Phoenician"
 msgstr "Tiếng Phoenicia"
 
+msgctxt "pi"
 msgid "Pali"
 msgstr "Tiếng Pali"
 
+msgctxt "pis"
 msgid "Pijin"
 msgstr "Tiếng Pijin"
 
+msgctxt "pl"
 msgid "Polish"
 msgstr "Tiếng Ba Lan"
 
+msgctxt "pon"
 msgid "Pohnpeian"
 msgstr "Tiếng Pohnpeian"
 
+msgctxt "pqm"
 msgid "Maliseet-Passamaquoddy"
 msgstr "Tiếng Maliseet-Passamaquoddy"
 
+msgctxt "prg"
 msgid "Prussian"
 msgstr "Tiếng Prussia"
 
+msgctxt "pro"
 msgid "Old Provençal"
 msgstr "Tiếng Provençal cổ"
 
+msgctxt "ps"
 msgid "Pashto"
 msgstr "Tiếng Pashto"
 
+msgctxt "ps-alt-variant"
 msgid "Pushto"
 msgstr "Tiếng Pushto"
 
+msgctxt "pt"
 msgid "Portuguese"
 msgstr "Tiếng Bồ Đào Nha"
 
+msgctxt "pt-PT"
 msgid "European Portuguese"
 msgstr "Tiếng Bồ Đào Nha (Châu Âu)"
 
+msgctxt "qu"
 msgid "Quechua"
 msgstr "Tiếng Quechua"
 
+msgctxt "quc"
 msgid "Kʼicheʼ"
 msgstr "Tiếng Kʼicheʼ"
 
+msgctxt "qug"
 msgid "Chimborazo Highland Quichua"
 msgstr "Tiếng Quechua ở Cao nguyên Chimborazo"
 
+msgctxt "raj"
 msgid "Rajasthani"
 msgstr "Tiếng Rajasthani"
 
+msgctxt "rap"
 msgid "Rapanui"
 msgstr "Tiếng Rapanui"
 
+msgctxt "rar"
 msgid "Rarotongan"
 msgstr "Tiếng Rarotongan"
 
+msgctxt "rhg"
 msgid "Rohingya"
 msgstr "Tiếng Rohingya"
 
+msgctxt "rm"
 msgid "Romansh"
 msgstr "Tiếng Romansh"
 
+msgctxt "rn"
 msgid "Rundi"
 msgstr "Tiếng Rundi"
 
+msgctxt "ro"
 msgid "Romanian"
 msgstr "Tiếng Romania"
 
+msgctxt "ro-MD"
 msgid "Moldavian"
 msgstr "Tiếng Moldova"
 
+msgctxt "rof"
 msgid "Rombo"
 msgstr "Tiếng Rombo"
 
+msgctxt "rom"
 msgid "Romany"
 msgstr "Tiếng Romany"
 
+msgctxt "ru"
 msgid "Russian"
 msgstr "Tiếng Nga"
 
+msgctxt "rup"
 msgid "Aromanian"
 msgstr "Tiếng Aromania"
 
+msgctxt "rw"
 msgid "Kinyarwanda"
 msgstr "Tiếng Kinyarwanda"
 
+msgctxt "rwk"
 msgid "Rwa"
 msgstr "Tiếng Rwa"
 
+msgctxt "sa"
 msgid "Sanskrit"
 msgstr "Tiếng Phạn"
 
+msgctxt "sad"
 msgid "Sandawe"
 msgstr "Tiếng Sandawe"
 
+msgctxt "sah"
 msgid "Yakut"
 msgstr "Tiếng Sakha"
 
+msgctxt "sam"
 msgid "Samaritan Aramaic"
 msgstr "Tiếng Samaritan Aramaic"
 
+msgctxt "saq"
 msgid "Samburu"
 msgstr "Tiếng Samburu"
 
+msgctxt "sas"
 msgid "Sasak"
 msgstr "Tiếng Sasak"
 
+msgctxt "sat"
 msgid "Santali"
 msgstr "Tiếng Santali"
 
+msgctxt "sba"
 msgid "Ngambay"
 msgstr "Tiếng Ngambay"
 
+msgctxt "sbp"
 msgid "Sangu"
 msgstr "Tiếng Sangu"
 
+msgctxt "sc"
 msgid "Sardinian"
 msgstr "Tiếng Sardinia"
 
+msgctxt "scn"
 msgid "Sicilian"
 msgstr "Tiếng Sicilia"
 
+msgctxt "sco"
 msgid "Scots"
 msgstr "Tiếng Scots"
 
+msgctxt "sd"
 msgid "Sindhi"
 msgstr "Tiếng Sindhi"
 
+msgctxt "sdh"
 msgid "Southern Kurdish"
 msgstr "Tiếng Kurd Miền Nam"
 
+msgctxt "se"
 msgid "Northern Sami"
 msgstr "Tiếng Sami Miền Bắc"
 
+msgctxt "see"
 msgid "Seneca"
 msgstr "Tiếng Seneca"
 
+msgctxt "seh"
 msgid "Sena"
 msgstr "Tiếng Sena"
 
+msgctxt "sel"
 msgid "Selkup"
 msgstr "Tiếng Selkup"
 
+msgctxt "ses"
 msgid "Koyraboro Senni"
 msgstr "Tiếng Koyraboro Senni"
 
+msgctxt "sg"
 msgid "Sango"
 msgstr "Tiếng Sango"
 
+msgctxt "sga"
 msgid "Old Irish"
 msgstr "Tiếng Ai-len cổ"
 
+msgctxt "sh"
 msgid "Serbo-Croatian"
 msgstr "Tiếng Serbo-Croatia"
 
+msgctxt "shi"
 msgid "Tachelhit"
 msgstr "Tiếng Tachelhit"
 
+msgctxt "shn"
 msgid "Shan"
 msgstr "Tiếng Shan"
 
+msgctxt "shu"
 msgid "Chadian Arabic"
 msgstr "Tiếng Ả-Rập Chad"
 
+msgctxt "si"
 msgid "Sinhala"
 msgstr "Tiếng Sinhala"
 
+msgctxt "sid"
 msgid "Sidamo"
 msgstr "Tiếng Sidamo"
 
+msgctxt "sk"
 msgid "Slovak"
 msgstr "Tiếng Slovak"
 
+msgctxt "sl"
 msgid "Slovenian"
 msgstr "Tiếng Slovenia"
 
+msgctxt "slh"
 msgid "Southern Lushootseed"
 msgstr "Tiếng Lushootseed miền Nam"
 
+msgctxt "sm"
 msgid "Samoan"
 msgstr "Tiếng Samoa"
 
+msgctxt "sma"
 msgid "Southern Sami"
 msgstr "Tiếng Sami Miền Nam"
 
+msgctxt "smj"
 msgid "Lule Sami"
 msgstr "Tiếng Lule Sami"
 
+msgctxt "smn"
 msgid "Inari Sami"
 msgstr "Tiếng Inari Sami"
 
+msgctxt "sms"
 msgid "Skolt Sami"
 msgstr "Tiếng Skolt Sami"
 
+msgctxt "sn"
 msgid "Shona"
 msgstr "Tiếng Shona"
 
+msgctxt "snk"
 msgid "Soninke"
 msgstr "Tiếng Soninke"
 
+msgctxt "so"
 msgid "Somali"
 msgstr "Tiếng Somali"
 
+msgctxt "sog"
 msgid "Sogdien"
 msgstr "Tiếng Sogdien"
 
+msgctxt "sq"
 msgid "Albanian"
 msgstr "Tiếng Albania"
 
+msgctxt "sr"
 msgid "Serbian"
 msgstr "Tiếng Serbia"
 
+msgctxt "srn"
 msgid "Sranan Tongo"
 msgstr "Tiếng Sranan Tongo"
 
+msgctxt "srr"
 msgid "Serer"
 msgstr "Tiếng Serer"
 
+msgctxt "ss"
 msgid "Swati"
 msgstr "Tiếng Swati"
 
+msgctxt "ssy"
 msgid "Saho"
 msgstr "Tiếng Saho"
 
+msgctxt "st"
 msgid "Southern Sotho"
 msgstr "Tiếng Nam Sotho"
 
+msgctxt "str"
 msgid "Straits Salish"
 msgstr "Tiếng Straits Salish"
 
+msgctxt "su"
 msgid "Sundanese"
 msgstr "Tiếng Sunda"
 
+msgctxt "suk"
 msgid "Sukuma"
 msgstr "Tiếng Sukuma"
 
+msgctxt "sus"
 msgid "Susu"
 msgstr "Tiếng Susu"
 
+msgctxt "sux"
 msgid "Sumerian"
 msgstr "Tiếng Sumeria"
 
+msgctxt "sv"
 msgid "Swedish"
 msgstr "Tiếng Thụy Điển"
 
+msgctxt "sw"
 msgid "Swahili"
 msgstr "Tiếng Swahili"
 
+msgctxt "sw-CD"
 msgid "Congo Swahili"
 msgstr "Tiếng Swahili Congo"
 
+msgctxt "swb"
 msgid "Comorian"
 msgstr "Tiếng Cômo"
 
+msgctxt "syc"
 msgid "Classical Syriac"
 msgstr "Tiếng Syriac cổ"
 
+msgctxt "syr"
 msgid "Syriac"
 msgstr "Tiếng Syriac"
 
+msgctxt "szl"
 msgid "Silesian"
 msgstr "Tiếng Silesia"
 
+msgctxt "ta"
 msgid "Tamil"
 msgstr "Tiếng Tamil"
 
+msgctxt "tce"
 msgid "Southern Tutchone"
 msgstr "Tiếng Tutchone miền Nam"
 
+msgctxt "te"
 msgid "Telugu"
 msgstr "Tiếng Telugu"
 
+msgctxt "tem"
 msgid "Timne"
 msgstr "Tiếng Timne"
 
+msgctxt "teo"
 msgid "Teso"
 msgstr "Tiếng Teso"
 
+msgctxt "ter"
 msgid "Tereno"
 msgstr "Tiếng Tereno"
 
+msgctxt "tet"
 msgid "Tetum"
 msgstr "Tiếng Tetum"
 
+msgctxt "tg"
 msgid "Tajik"
 msgstr "Tiếng Tajik"
 
+msgctxt "tgx"
 msgid "Tagish"
 msgstr "Tiếng Tagish"
 
+msgctxt "th"
 msgid "Thai"
 msgstr "Tiếng Thái"
 
+msgctxt "tht"
 msgid "Tahltan"
 msgstr "Tiếng Tahltan"
 
+msgctxt "ti"
 msgid "Tigrinya"
 msgstr "Tiếng Tigrinya"
 
+msgctxt "tig"
 msgid "Tigre"
 msgstr "Tiếng Tigre"
 
+msgctxt "tiv"
 msgid "Tiv"
 msgstr "Tiếng Tiv"
 
+msgctxt "tk"
 msgid "Turkmen"
 msgstr "Tiếng Turkmen"
 
+msgctxt "tkl"
 msgid "Tokelauan"
 msgstr "Tiếng Tokelau"
 
+msgctxt "tl"
 msgid "Tagalog"
 msgstr "Tiếng Tagalog"
 
+msgctxt "tlh"
 msgid "Klingon"
 msgstr "Tiếng Klingon"
 
+msgctxt "tli"
 msgid "Tlingit"
 msgstr "Tiếng Tlingit"
 
+msgctxt "tmh"
 msgid "Tamashek"
 msgstr "Tiếng Tamashek"
 
+msgctxt "tn"
 msgid "Tswana"
 msgstr "Tiếng Tswana"
 
+msgctxt "to"
 msgid "Tongan"
 msgstr "Tiếng Tonga"
 
+msgctxt "tog"
 msgid "Nyasa Tonga"
 msgstr "Tiếng Nyasa Tonga"
 
+msgctxt "tok"
 msgid "Toki Pona"
 msgstr "Tiếng Toki Pona"
 
+msgctxt "tpi"
 msgid "Tok Pisin"
 msgstr "Tiếng Tok Pisin"
 
+msgctxt "tr"
 msgid "Turkish"
 msgstr "Tiếng Thổ Nhĩ Kỳ"
 
+msgctxt "trv"
 msgid "Taroko"
 msgstr "Tiếng Taroko"
 
+msgctxt "ts"
 msgid "Tsonga"
 msgstr "Tiếng Tsonga"
 
+msgctxt "tsi"
 msgid "Tsimshian"
 msgstr "Tiếng Tsimshian"
 
+msgctxt "tt"
 msgid "Tatar"
 msgstr "Tiếng Tatar"
 
+msgctxt "ttm"
 msgid "Northern Tutchone"
 msgstr "Tiếng Tutchone miền Bắc"
 
+msgctxt "tum"
 msgid "Tumbuka"
 msgstr "Tiếng Tumbuka"
 
+msgctxt "tvl"
 msgid "Tuvalu"
 msgstr "Tiếng Tuvalu"
 
+msgctxt "tw"
 msgid "Twi"
 msgstr "Tiếng Twi"
 
+msgctxt "twq"
 msgid "Tasawaq"
 msgstr "Tiếng Tasawaq"
 
+msgctxt "ty"
 msgid "Tahitian"
 msgstr "Tiếng Tahiti"
 
+msgctxt "tyv"
 msgid "Tuvinian"
 msgstr "Tiếng Tuvinian"
 
+msgctxt "tzm"
 msgid "Central Atlas Tamazight"
 msgstr "Tiếng Tamazight Miền Trung Ma-rốc"
 
+msgctxt "udm"
 msgid "Udmurt"
 msgstr "Tiếng Udmurt"
 
+msgctxt "ug"
 msgid "Uyghur"
 msgstr "Tiếng Uyghur"
 
+msgctxt "uga"
 msgid "Ugaritic"
 msgstr "Tiếng Ugaritic"
 
+msgctxt "uk"
 msgid "Ukrainian"
 msgstr "Tiếng Ukraina"
 
+msgctxt "umb"
 msgid "Umbundu"
 msgstr "Tiếng Umbundu"
 
+msgctxt "und"
 msgid "Unknown language"
 msgstr "Ngôn ngữ không xác định"
 
+msgctxt "ur"
 msgid "Urdu"
 msgstr "Tiếng Urdu"
 
+msgctxt "uz"
 msgid "Uzbek"
 msgstr "Tiếng Uzbek"
 
+msgctxt "vai"
 msgid "Vai"
 msgstr "Tiếng Vai"
 
+msgctxt "ve"
 msgid "Venda"
 msgstr "Tiếng Venda"
 
+msgctxt "vec"
 msgid "Venetian"
 msgstr "Tiếng Veneto"
 
+msgctxt "vi"
 msgid "Vietnamese"
 msgstr "Tiếng Việt"
 
+msgctxt "vmw"
 msgid "Makhuwa"
 msgstr "Tiếng Makhuwa"
 
+msgctxt "vo"
 msgid "Volapük"
 msgstr "Tiếng Volapük"
 
+msgctxt "vot"
 msgid "Votic"
 msgstr "Tiếng Votic"
 
+msgctxt "vun"
 msgid "Vunjo"
 msgstr "Tiếng Vunjo"
 
+msgctxt "wa"
 msgid "Walloon"
 msgstr "Tiếng Walloon"
 
+msgctxt "wae"
 msgid "Walser"
 msgstr "Tiếng Walser"
 
+msgctxt "wal"
 msgid "Wolaytta"
 msgstr "Tiếng Walamo"
 
+msgctxt "war"
 msgid "Waray"
 msgstr "Tiếng Waray"
 
+msgctxt "was"
 msgid "Washo"
 msgstr "Tiếng Washo"
 
+msgctxt "wbp"
 msgid "Warlpiri"
 msgstr "Tiếng Warlpiri"
 
+msgctxt "wo"
 msgid "Wolof"
 msgstr "Tiếng Wolof"
 
+msgctxt "wuu"
 msgid "Wu Chinese"
 msgstr "Tiếng Ngô"
 
+msgctxt "xal"
 msgid "Kalmyk"
 msgstr "Tiếng Kalmyk"
 
+msgctxt "xh"
 msgid "Xhosa"
 msgstr "Tiếng Xhosa"
 
+msgctxt "xnr"
 msgid "Kangri"
 msgstr "Tiếng Kangri"
 
+msgctxt "xog"
 msgid "Soga"
 msgstr "Tiếng Soga"
 
+msgctxt "yao"
 msgid "Yao"
 msgstr "Tiếng Yao"
 
+msgctxt "yap"
 msgid "Yapese"
 msgstr "Tiếng Yap"
 
+msgctxt "yav"
 msgid "Yangben"
 msgstr "Tiếng Yangben"
 
+msgctxt "ybb"
 msgid "Yemba"
 msgstr "Tiếng Yemba"
 
+msgctxt "yi"
 msgid "Yiddish"
 msgstr "Tiếng Yiddish"
 
+msgctxt "yo"
 msgid "Yoruba"
 msgstr "Tiếng Yoruba"
 
+msgctxt "yrl"
 msgid "Nheengatu"
 msgstr "Tiếng Nheengatu"
 
+msgctxt "yue"
 msgid "Cantonese"
 msgstr "Tiếng Quảng Đông"
 
+msgctxt "yue-alt-menu"
 msgid "Chinese, Cantonese"
 msgstr "Tiếng Trung (Tiếng Quảng Đông)"
 
+msgctxt "za"
 msgid "Zhuang"
 msgstr "Tiếng Choang"
 
+msgctxt "zap"
 msgid "Zapotec"
 msgstr "Tiếng Zapotec"
 
+msgctxt "zbl"
 msgid "Blissymbols"
 msgstr "Ký hiệu Blissymbols"
 
+msgctxt "zen"
 msgid "Zenaga"
 msgstr "Tiếng Zenaga"
 
+msgctxt "zgh"
 msgid "Standard Moroccan Tamazight"
 msgstr "Tiếng Tamazight Chuẩn của Ma-rốc"
 
+msgctxt "zh"
 msgid "Chinese"
 msgstr "Tiếng Trung"
 
+msgctxt "zh-alt-menu"
 msgid "Chinese, Mandarin"
 msgstr "Tiếng Trung (Phổ thông)"
 
+msgctxt "zh-Hans-alt-long"
 msgid "Simplified Mandarin Chinese"
 msgstr "Tiếng Trung Phổ thông (Giản thể)"
 
+msgctxt "zh-Hant-alt-long"
 msgid "Traditional Mandarin Chinese"
 msgstr "Tiếng Trung Phổ thông (Phồn thể)"
 
+msgctxt "zu"
 msgid "Zulu"
 msgstr "Tiếng Zulu"
 
+msgctxt "zun"
 msgid "Zuni"
 msgstr "Tiếng Zuni"
 
+msgctxt "zxx"
 msgid "No linguistic content"
 msgstr "Không có nội dung ngôn ngữ"
 
+msgctxt "zza"
 msgid "Zaza"
 msgstr "Tiếng Zaza"

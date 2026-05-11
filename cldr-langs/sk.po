@@ -6,1736 +6,2314 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgctxt "aa"
 msgid "Afar"
 msgstr "afarčina"
 
+msgctxt "ab"
 msgid "Abkhazian"
 msgstr "abcházčina"
 
+msgctxt "ace"
 msgid "Acehnese"
 msgstr "acehčina"
 
+msgctxt "ach"
 msgid "Acoli"
 msgstr "ačoli"
 
+msgctxt "ada"
 msgid "Adangme"
 msgstr "adangme"
 
+msgctxt "ady"
 msgid "Adyghe"
 msgstr "adygejčina"
 
+msgctxt "ae"
 msgid "Avestan"
 msgstr "avestčina"
 
+msgctxt "af"
 msgid "Afrikaans"
 msgstr "afrikánčina"
 
+msgctxt "afh"
 msgid "Afrihili"
 msgstr "afrihili"
 
+msgctxt "agq"
 msgid "Aghem"
 msgstr "aghem"
 
+msgctxt "ain"
 msgid "Ainu"
 msgstr "ainčina"
 
+msgctxt "ak"
 msgid "Akan"
 msgstr "akančina"
 
+msgctxt "akk"
 msgid "Akkadian"
 msgstr "akkadčina"
 
+msgctxt "ale"
 msgid "Aleut"
 msgstr "aleutčina"
 
+msgctxt "alt"
 msgid "Southern Altai"
 msgstr "južná altajčina"
 
+msgctxt "am"
 msgid "Amharic"
 msgstr "amharčina"
 
+msgctxt "an"
 msgid "Aragonese"
 msgstr "aragónčina"
 
+msgctxt "ang"
 msgid "Old English"
 msgstr "stará angličtina"
 
+msgctxt "ann"
 msgid "Obolo"
 msgstr "obolo"
 
+msgctxt "anp"
 msgid "Angika"
 msgstr "angika"
 
+msgctxt "ar"
 msgid "Arabic"
 msgstr "arabčina"
 
+msgctxt "ar-001"
 msgid "Modern Standard Arabic"
 msgstr "arabčina (moderná štandardná)"
 
+msgctxt "arc"
 msgid "Aramaic"
 msgstr "aramejčina"
 
+msgctxt "arn"
 msgid "Mapuche"
 msgstr "mapudungun"
 
+msgctxt "arp"
 msgid "Arapaho"
 msgstr "arapažština"
 
+msgctxt "ars"
 msgid "Najdi Arabic"
 msgstr "arabčina (nadždská)"
 
+msgctxt "arw"
 msgid "Arawak"
 msgstr "arawačtina"
 
+msgctxt "as"
 msgid "Assamese"
 msgstr "ásamčina"
 
+msgctxt "asa"
 msgid "Asu"
 msgstr "asu"
 
+msgctxt "ast"
 msgid "Asturian"
 msgstr "astúrčina"
 
+msgctxt "atj"
 msgid "Atikamekw"
 msgstr "atikamekwčina"
 
+msgctxt "av"
 msgid "Avaric"
 msgstr "avarčina"
 
+msgctxt "awa"
 msgid "Awadhi"
 msgstr "awadhi"
 
+msgctxt "ay"
 msgid "Aymara"
 msgstr "aymarčina"
 
+msgctxt "az"
 msgid "Azerbaijani"
 msgstr "azerbajdžančina"
 
+msgctxt "ba"
 msgid "Bashkir"
 msgstr "baškirčina"
 
+msgctxt "bal"
 msgid "Baluchi"
 msgstr "balúčtina"
 
+msgctxt "ban"
 msgid "Balinese"
 msgstr "balijčina"
 
+msgctxt "bas"
 msgid "Basaa"
 msgstr "basa"
 
+msgctxt "bax"
 msgid "Bamun"
 msgstr "bamun"
 
+msgctxt "bbj"
 msgid "Ghomala"
 msgstr "ghomala"
 
+msgctxt "be"
 msgid "Belarusian"
 msgstr "bieloruština"
 
+msgctxt "bej"
 msgid "Beja"
 msgstr "bedža"
 
+msgctxt "bem"
 msgid "Bemba"
 msgstr "bemba"
 
+msgctxt "bez"
 msgid "Bena"
 msgstr "bena"
 
+msgctxt "bfd"
 msgid "Bafut"
 msgstr "bafut"
 
+msgctxt "bg"
 msgid "Bulgarian"
 msgstr "bulharčina"
 
+msgctxt "bgc"
 msgid "Haryanvi"
 msgstr "haryanvi"
 
+msgctxt "bgn"
 msgid "Western Balochi"
 msgstr "západná balúčtina"
 
+msgctxt "bho"
 msgid "Bhojpuri"
 msgstr "bhódžpurčina"
 
+msgctxt "bi"
 msgid "Bislama"
 msgstr "bislama"
 
+msgctxt "bik"
 msgid "Bikol"
 msgstr "bikolčina"
 
+msgctxt "bin"
 msgid "Bini"
 msgstr "bini"
 
+msgctxt "bkm"
 msgid "Kom"
 msgstr "kom"
 
+msgctxt "bla"
 msgid "Siksiká"
 msgstr "siksika"
 
+msgctxt "blo"
 msgid "Anii"
 msgstr "anii"
 
+msgctxt "bm"
 msgid "Bambara"
 msgstr "bambarčina"
 
+msgctxt "bn"
 msgid "Bangla"
 msgstr "bengálčina"
 
+msgctxt "bo"
 msgid "Tibetan"
 msgstr "tibetčina"
 
+msgctxt "br"
 msgid "Breton"
 msgstr "bretónčina"
 
+msgctxt "bra"
 msgid "Braj"
 msgstr "bradžčina"
 
+msgctxt "brx"
 msgid "Bodo"
 msgstr "bodo"
 
+msgctxt "bs"
 msgid "Bosnian"
 msgstr "bosniačtina"
 
+msgctxt "bss"
 msgid "Akoose"
 msgstr "akoose"
 
+msgctxt "bua"
 msgid "Buriat"
 msgstr "buriatčina"
 
+msgctxt "bug"
 msgid "Buginese"
 msgstr "bugiština"
 
+msgctxt "bum"
 msgid "Bulu"
 msgstr "bulu"
 
+msgctxt "byn"
 msgid "Blin"
 msgstr "blin"
 
+msgctxt "byv"
 msgid "Medumba"
 msgstr "medumba"
 
+msgctxt "ca"
 msgid "Catalan"
 msgstr "katalánčina"
 
+msgctxt "cad"
 msgid "Caddo"
 msgstr "kaddo"
 
+msgctxt "car"
 msgid "Carib"
 msgstr "karibčina"
 
+msgctxt "cay"
 msgid "Cayuga"
 msgstr "kajugčina"
 
+msgctxt "cch"
 msgid "Atsam"
 msgstr "atsam"
 
+msgctxt "ccp"
 msgid "Chakma"
 msgstr "čakma"
 
+msgctxt "ce"
 msgid "Chechen"
 msgstr "čečenčina"
 
+msgctxt "ceb"
 msgid "Cebuano"
 msgstr "cebuánčina"
 
+msgctxt "cgg"
 msgid "Chiga"
 msgstr "kiga"
 
+msgctxt "ch"
 msgid "Chamorro"
 msgstr "čamorčina"
 
+msgctxt "chb"
 msgid "Chibcha"
 msgstr "čibča"
 
+msgctxt "chg"
 msgid "Chagatai"
 msgstr "čagatajčina"
 
+msgctxt "chk"
 msgid "Chuukese"
 msgstr "chuuk"
 
+msgctxt "chm"
 msgid "Mari"
 msgstr "marijčina"
 
+msgctxt "chn"
 msgid "Chinook Jargon"
 msgstr "činucký žargón"
 
+msgctxt "cho"
 msgid "Choctaw"
 msgstr "čoktčina"
 
+msgctxt "chp"
 msgid "Chipewyan"
 msgstr "čipevajčina"
 
+msgctxt "chr"
 msgid "Cherokee"
 msgstr "čerokí"
 
+msgctxt "chy"
 msgid "Cheyenne"
 msgstr "čejenčina"
 
+msgctxt "ckb"
 msgid "Central Kurdish"
 msgstr "kurdčina (sorání)"
 
+msgctxt "ckb-alt-menu"
 msgid "Kurdish, Central"
 msgstr "kurdčina (centrálna)"
 
+msgctxt "clc"
 msgid "Chilcotin"
 msgstr "chilcotin"
 
+msgctxt "co"
 msgid "Corsican"
 msgstr "korzičtina"
 
+msgctxt "cop"
 msgid "Coptic"
 msgstr "koptčina"
 
+msgctxt "cr"
 msgid "Cree"
 msgstr "krí"
 
+msgctxt "crg"
 msgid "Michif"
 msgstr "michif"
 
+msgctxt "crh"
 msgid "Crimean Tatar"
 msgstr "krymská tatárčina"
 
+msgctxt "crj"
 msgid "Southern East Cree"
 msgstr "cree (juhovýchod)"
 
+msgctxt "crk"
 msgid "Plains Cree"
 msgstr "plains cree"
 
+msgctxt "crl"
 msgid "Northern East Cree"
 msgstr "northern east cree"
 
+msgctxt "crm"
 msgid "Moose Cree"
 msgstr "moose cree"
 
+msgctxt "crr"
 msgid "Carolina Algonquian"
 msgstr "karolínska algonkčina"
 
+msgctxt "crs"
 msgid "Seselwa Creole French"
 msgstr "seychelská kreolčina"
 
+msgctxt "cs"
 msgid "Czech"
 msgstr "čeština"
 
+msgctxt "csb"
 msgid "Kashubian"
 msgstr "kašubčina"
 
+msgctxt "csw"
 msgid "Swampy Cree"
 msgstr "swampy cree"
 
+msgctxt "cu"
 msgid "Church Slavic"
 msgstr "cirkevná slovančina"
 
+msgctxt "cv"
 msgid "Chuvash"
 msgstr "čuvaština"
 
+msgctxt "cy"
 msgid "Welsh"
 msgstr "waleština"
 
+msgctxt "da"
 msgid "Danish"
 msgstr "dánčina"
 
+msgctxt "dak"
 msgid "Dakota"
 msgstr "dakotčina"
 
+msgctxt "dar"
 msgid "Dargwa"
 msgstr "darginčina"
 
+msgctxt "dav"
 msgid "Taita"
 msgstr "taita"
 
+msgctxt "de"
 msgid "German"
 msgstr "nemčina"
 
+msgctxt "de-AT"
 msgid "Austrian German"
 msgstr "nemčina (rakúska)"
 
+msgctxt "de-CH"
 msgid "Swiss High German"
 msgstr "nemčina (švajčiarska spisovná)"
 
+msgctxt "del"
 msgid "Delaware"
 msgstr "delawarčina"
 
+msgctxt "den"
 msgid "Slave"
 msgstr "slavé"
 
+msgctxt "dgr"
 msgid "Dogrib"
 msgstr "dogribčina"
 
+msgctxt "din"
 msgid "Dinka"
 msgstr "dinkčina"
 
+msgctxt "dje"
 msgid "Zarma"
 msgstr "zarma"
 
+msgctxt "doi"
 msgid "Dogri"
 msgstr "dógrí"
 
+msgctxt "dsb"
 msgid "Lower Sorbian"
 msgstr "dolnolužická srbčina"
 
+msgctxt "dua"
 msgid "Duala"
 msgstr "duala"
 
+msgctxt "dum"
 msgid "Middle Dutch"
 msgstr "stredná holandčina"
 
+msgctxt "dv"
 msgid "Divehi"
 msgstr "maldivčina"
 
+msgctxt "dyo"
 msgid "Jola-Fonyi"
 msgstr "jola-fonyi"
 
+msgctxt "dyu"
 msgid "Dyula"
 msgstr "ďula"
 
+msgctxt "dz"
 msgid "Dzongkha"
 msgstr "dzongkha"
 
+msgctxt "dzg"
 msgid "Dazaga"
 msgstr "dazaga"
 
+msgctxt "ebu"
 msgid "Embu"
 msgstr "embu"
 
+msgctxt "ee"
 msgid "Ewe"
 msgstr "eweština"
 
+msgctxt "efi"
 msgid "Efik"
 msgstr "efik"
 
+msgctxt "egy"
 msgid "Ancient Egyptian"
 msgstr "staroegyptčina"
 
+msgctxt "eka"
 msgid "Ekajuk"
 msgstr "ekadžuk"
 
+msgctxt "el"
 msgid "Greek"
 msgstr "gréčtina"
 
+msgctxt "elx"
 msgid "Elamite"
 msgstr "elamčina"
 
+msgctxt "en"
 msgid "English"
 msgstr "angličtina"
 
+msgctxt "en-AU"
 msgid "Australian English"
 msgstr "angličtina (austrálska)"
 
+msgctxt "en-CA"
 msgid "Canadian English"
 msgstr "angličtina (kanadská)"
 
+msgctxt "en-GB"
 msgid "British English"
 msgstr "angličtina (britská)"
 
+msgctxt "en-US"
 msgid "American English"
 msgstr "angličtina (americká)"
 
+msgctxt "enm"
 msgid "Middle English"
 msgstr "stredná angličtina"
 
+msgctxt "eo"
 msgid "Esperanto"
 msgstr "esperanto"
 
+msgctxt "es"
 msgid "Spanish"
 msgstr "španielčina"
 
+msgctxt "es-419"
 msgid "Latin American Spanish"
 msgstr "španielčina (latinskoamerická)"
 
+msgctxt "es-ES"
 msgid "European Spanish"
 msgstr "španielčina (európska)"
 
+msgctxt "es-MX"
 msgid "Mexican Spanish"
 msgstr "španielčina (mexická)"
 
+msgctxt "et"
 msgid "Estonian"
 msgstr "estónčina"
 
+msgctxt "eu"
 msgid "Basque"
 msgstr "baskičtina"
 
+msgctxt "ewo"
 msgid "Ewondo"
 msgstr "ewondo"
 
+msgctxt "fa"
 msgid "Persian"
 msgstr "perzština"
 
+msgctxt "fa-AF"
 msgid "Dari"
 msgstr "daríjčina"
 
+msgctxt "fan"
 msgid "Fang"
 msgstr "fangčina"
 
+msgctxt "fat"
 msgid "Fanti"
 msgstr "fanti"
 
+msgctxt "ff"
 msgid "Fula"
 msgstr "fulbčina"
 
+msgctxt "fi"
 msgid "Finnish"
 msgstr "fínčina"
 
+msgctxt "fil"
 msgid "Filipino"
 msgstr "filipínčina"
 
+msgctxt "fj"
 msgid "Fijian"
 msgstr "fidžijčina"
 
+msgctxt "fo"
 msgid "Faroese"
 msgstr "faerčina"
 
+msgctxt "fon"
 msgid "Fon"
 msgstr "fončina"
 
+msgctxt "fr"
 msgid "French"
 msgstr "francúzština"
 
+msgctxt "fr-CA"
 msgid "Canadian French"
 msgstr "francúzština (kanadská)"
 
+msgctxt "fr-CH"
 msgid "Swiss French"
 msgstr "francúzština (švajčiarska)"
 
+msgctxt "frc"
 msgid "Cajun French"
 msgstr "francúzština (cajunská)"
 
+msgctxt "frm"
 msgid "Middle French"
 msgstr "stredná francúzština"
 
+msgctxt "fro"
 msgid "Old French"
 msgstr "stará francúzština"
 
+msgctxt "frr"
 msgid "Northern Frisian"
 msgstr "severná frízština"
 
+msgctxt "frs"
 msgid "Eastern Frisian"
 msgstr "východofrízština"
 
+msgctxt "fur"
 msgid "Friulian"
 msgstr "friulčina"
 
+msgctxt "fy"
 msgid "Western Frisian"
 msgstr "západná frízština"
 
+msgctxt "ga"
 msgid "Irish"
 msgstr "írčina"
 
+msgctxt "gaa"
 msgid "Ga"
 msgstr "ga"
 
+msgctxt "gag"
 msgid "Gagauz"
 msgstr "gagauzština"
 
+msgctxt "gay"
 msgid "Gayo"
 msgstr "gayo"
 
+msgctxt "gba"
 msgid "Gbaya"
 msgstr "gbaja"
 
+msgctxt "gd"
 msgid "Scottish Gaelic"
 msgstr "škótska gaelčina"
 
+msgctxt "gez"
 msgid "Geez"
 msgstr "etiópčina"
 
+msgctxt "gil"
 msgid "Gilbertese"
 msgstr "kiribatčina"
 
+msgctxt "gl"
 msgid "Galician"
 msgstr "galícijčina"
 
+msgctxt "gmh"
 msgid "Middle High German"
 msgstr "stredná horná nemčina"
 
+msgctxt "gn"
 msgid "Guarani"
 msgstr "guaraníjčina"
 
+msgctxt "goh"
 msgid "Old High German"
 msgstr "stará horná nemčina"
 
+msgctxt "gon"
 msgid "Gondi"
 msgstr "góndčina"
 
+msgctxt "gor"
 msgid "Gorontalo"
 msgstr "gorontalo"
 
+msgctxt "got"
 msgid "Gothic"
 msgstr "gótčina"
 
+msgctxt "grb"
 msgid "Grebo"
 msgstr "grebo"
 
+msgctxt "grc"
 msgid "Ancient Greek"
 msgstr "starogréčtina"
 
+msgctxt "gsw"
 msgid "Swiss German"
 msgstr "nemčina (švajčiarska)"
 
+msgctxt "gu"
 msgid "Gujarati"
 msgstr "gudžarátčina"
 
+msgctxt "guz"
 msgid "Gusii"
 msgstr "gusii"
 
+msgctxt "gv"
 msgid "Manx"
 msgstr "mančina"
 
+msgctxt "gwi"
 msgid "Gwichʼin"
 msgstr "kučinčina"
 
+msgctxt "ha"
 msgid "Hausa"
 msgstr "hauština"
 
+msgctxt "hai"
 msgid "Haida"
 msgstr "haida"
 
+msgctxt "haw"
 msgid "Hawaiian"
 msgstr "havajčina"
 
+msgctxt "hax"
 msgid "Southern Haida"
 msgstr "haida (juh)"
 
+msgctxt "he"
 msgid "Hebrew"
 msgstr "hebrejčina"
 
+msgctxt "hi"
 msgid "Hindi"
 msgstr "hindčina"
 
+msgctxt "hi-Latn-alt-variant"
 msgid "Hinglish"
 msgstr "hingličtina"
 
+msgctxt "hil"
 msgid "Hiligaynon"
 msgstr "hiligajnončina"
 
+msgctxt "hit"
 msgid "Hittite"
 msgstr "chetitčina"
 
+msgctxt "hmn"
 msgid "Hmong"
 msgstr "hmongčina"
 
+msgctxt "ho"
 msgid "Hiri Motu"
 msgstr "hiri motu"
 
+msgctxt "hr"
 msgid "Croatian"
 msgstr "chorvátčina"
 
+msgctxt "hsb"
 msgid "Upper Sorbian"
 msgstr "hornolužická srbčina"
 
+msgctxt "ht"
 msgid "Haitian Creole"
 msgstr "haitská kreolčina"
 
+msgctxt "hu"
 msgid "Hungarian"
 msgstr "maďarčina"
 
+msgctxt "hup"
 msgid "Hupa"
 msgstr "hupčina"
 
+msgctxt "hur"
 msgid "Halkomelem"
 msgstr "halkomelem"
 
+msgctxt "hy"
 msgid "Armenian"
 msgstr "arménčina"
 
+msgctxt "hz"
 msgid "Herero"
 msgstr "herero"
 
+msgctxt "ia"
 msgid "Interlingua"
 msgstr "interlingua"
 
+msgctxt "iba"
 msgid "Iban"
 msgstr "ibančina"
 
+msgctxt "ibb"
 msgid "Ibibio"
 msgstr "ibibio"
 
+msgctxt "id"
 msgid "Indonesian"
 msgstr "indonézština"
 
+msgctxt "ie"
 msgid "Interlingue"
 msgstr "interlingue"
 
+msgctxt "ig"
 msgid "Igbo"
 msgstr "igboština"
 
+msgctxt "ii"
 msgid "Sichuan Yi"
 msgstr "s’čchuanská iovčina"
 
+msgctxt "ik"
 msgid "Inupiaq"
 msgstr "inupik"
 
+msgctxt "ikt"
 msgid "Western Canadian Inuktitut"
 msgstr "inuktitut (západná Kanada)"
 
+msgctxt "ilo"
 msgid "Iloko"
 msgstr "ilokánčina"
 
+msgctxt "inh"
 msgid "Ingush"
 msgstr "inguština"
 
+msgctxt "io"
 msgid "Ido"
 msgstr "ido"
 
+msgctxt "is"
 msgid "Icelandic"
 msgstr "islandčina"
 
+msgctxt "it"
 msgid "Italian"
 msgstr "taliančina"
 
+msgctxt "iu"
 msgid "Inuktitut"
 msgstr "inuktitut"
 
+msgctxt "ja"
 msgid "Japanese"
 msgstr "japončina"
 
+msgctxt "jbo"
 msgid "Lojban"
 msgstr "lojban"
 
+msgctxt "jgo"
 msgid "Ngomba"
 msgstr "ngomba"
 
+msgctxt "jmc"
 msgid "Machame"
 msgstr "mašame"
 
+msgctxt "jpr"
 msgid "Judeo-Persian"
 msgstr "židovská perzština"
 
+msgctxt "jrb"
 msgid "Judeo-Arabic"
 msgstr "židovská arabčina"
 
+msgctxt "jv"
 msgid "Javanese"
 msgstr "jávčina"
 
+msgctxt "ka"
 msgid "Georgian"
 msgstr "gruzínčina"
 
+msgctxt "kaa"
 msgid "Kara-Kalpak"
 msgstr "karakalpačtina"
 
+msgctxt "kab"
 msgid "Kabyle"
 msgstr "kabylčina"
 
+msgctxt "kac"
 msgid "Kachin"
 msgstr "kačjinčina"
 
+msgctxt "kaj"
 msgid "Jju"
 msgstr "jju"
 
+msgctxt "kam"
 msgid "Kamba"
 msgstr "kamba"
 
+msgctxt "kaw"
 msgid "Kawi"
 msgstr "kawi"
 
+msgctxt "kbd"
 msgid "Kabardian"
 msgstr "kabardčina"
 
+msgctxt "kbl"
 msgid "Kanembu"
 msgstr "kanembu"
 
+msgctxt "kcg"
 msgid "Tyap"
 msgstr "tyap"
 
+msgctxt "kde"
 msgid "Makonde"
 msgstr "makonde"
 
+msgctxt "kea"
 msgid "Kabuverdianu"
 msgstr "kapverdčina"
 
+msgctxt "kfo"
 msgid "Koro"
 msgstr "koro"
 
+msgctxt "kg"
 msgid "Kongo"
 msgstr "kongčina"
 
+msgctxt "kgp"
 msgid "Kaingang"
 msgstr "kaingang"
 
+msgctxt "kha"
 msgid "Khasi"
 msgstr "khasijčina"
 
+msgctxt "kho"
 msgid "Khotanese"
 msgstr "chotančina"
 
+msgctxt "khq"
 msgid "Koyra Chiini"
 msgstr "západná songhajčina"
 
+msgctxt "ki"
 msgid "Kikuyu"
 msgstr "kikujčina"
 
+msgctxt "kj"
 msgid "Kuanyama"
 msgstr "kuaňama"
 
+msgctxt "kk"
 msgid "Kazakh"
 msgstr "kazaština"
 
+msgctxt "kkj"
 msgid "Kako"
 msgstr "kako"
 
+msgctxt "kl"
 msgid "Kalaallisut"
 msgstr "grónčina"
 
+msgctxt "kln"
 msgid "Kalenjin"
 msgstr "kalendžin"
 
+msgctxt "km"
 msgid "Khmer"
 msgstr "khmérčina"
 
+msgctxt "kmb"
 msgid "Kimbundu"
 msgstr "kimbundu"
 
+msgctxt "kn"
 msgid "Kannada"
 msgstr "kannadčina"
 
+msgctxt "ko"
 msgid "Korean"
 msgstr "kórejčina"
 
+msgctxt "koi"
 msgid "Komi-Permyak"
 msgstr "komi-permiačtina"
 
+msgctxt "kok"
 msgid "Konkani"
 msgstr "konkánčina"
 
+msgctxt "kos"
 msgid "Kosraean"
 msgstr "kusaie"
 
+msgctxt "kpe"
 msgid "Kpelle"
 msgstr "kpelle"
 
+msgctxt "kr"
 msgid "Kanuri"
 msgstr "kanurijčina"
 
+msgctxt "krc"
 msgid "Karachay-Balkar"
 msgstr "karačajevsko-balkarčina"
 
+msgctxt "krl"
 msgid "Karelian"
 msgstr "karelčina"
 
+msgctxt "kru"
 msgid "Kurukh"
 msgstr "kuruchčina"
 
+msgctxt "ks"
 msgid "Kashmiri"
 msgstr "kašmírčina"
 
+msgctxt "ksb"
 msgid "Shambala"
 msgstr "šambala"
 
+msgctxt "ksf"
 msgid "Bafia"
 msgstr "bafia"
 
+msgctxt "ksh"
 msgid "Colognian"
 msgstr "kolínčina"
 
+msgctxt "ku"
 msgid "Kurdish"
 msgstr "kurdčina"
 
+msgctxt "ku-menu-core"
 msgid "Kurdish"
 msgstr "kurdčina"
 
+msgctxt "ku-menu-extension"
 msgid "Kurmanji"
 msgstr "kurmandži"
 
+msgctxt "kum"
 msgid "Kumyk"
 msgstr "kumyčtina"
 
+msgctxt "kut"
 msgid "Kutenai"
 msgstr "kutenajčina"
 
+msgctxt "kv"
 msgid "Komi"
 msgstr "komijčina"
 
+msgctxt "kw"
 msgid "Cornish"
 msgstr "kornčina"
 
+msgctxt "kwk"
 msgid "Kwakʼwala"
 msgstr "kwakʼwala"
 
+msgctxt "kxv"
 msgid "Kuvi"
 msgstr "kuvi"
 
+msgctxt "ky"
 msgid "Kyrgyz"
 msgstr "kirgizština"
 
+msgctxt "la"
 msgid "Latin"
 msgstr "latinčina"
 
+msgctxt "lad"
 msgid "Ladino"
 msgstr "židovská španielčina"
 
+msgctxt "lag"
 msgid "Langi"
 msgstr "langi"
 
+msgctxt "lah"
 msgid "Western Panjabi"
 msgstr "lahandčina"
 
+msgctxt "lam"
 msgid "Lamba"
 msgstr "lamba"
 
+msgctxt "lb"
 msgid "Luxembourgish"
 msgstr "luxemburčina"
 
+msgctxt "lez"
 msgid "Lezghian"
 msgstr "lezginčina"
 
+msgctxt "lg"
 msgid "Ganda"
 msgstr "gandčina"
 
+msgctxt "li"
 msgid "Limburgish"
 msgstr "limburčina"
 
+msgctxt "lij"
 msgid "Ligurian"
 msgstr "ligurčina"
 
+msgctxt "lil"
 msgid "Lillooet"
 msgstr "lillooet"
 
+msgctxt "lkt"
 msgid "Lakota"
 msgstr "lakotčina"
 
+msgctxt "lmo"
 msgid "Lombard"
 msgstr "lombardčina"
 
+msgctxt "ln"
 msgid "Lingala"
 msgstr "lingalčina"
 
+msgctxt "lo"
 msgid "Lao"
 msgstr "laoština"
 
+msgctxt "lol"
 msgid "Mongo"
 msgstr "mongo"
 
+msgctxt "lou"
 msgid "Louisiana Creole"
 msgstr "kreolčina (Louisiana)"
 
+msgctxt "loz"
 msgid "Lozi"
 msgstr "lozi"
 
+msgctxt "lrc"
 msgid "Northern Luri"
 msgstr "severné luri"
 
+msgctxt "lsm"
 msgid "Saamia"
 msgstr "saamia"
 
+msgctxt "lt"
 msgid "Lithuanian"
 msgstr "litovčina"
 
+msgctxt "lu"
 msgid "Luba-Katanga"
 msgstr "lubčina (katanžská)"
 
+msgctxt "lua"
 msgid "Luba-Lulua"
 msgstr "lubčina (luluánska)"
 
+msgctxt "lui"
 msgid "Luiseno"
 msgstr "luiseňo"
 
+msgctxt "lun"
 msgid "Lunda"
 msgstr "lunda"
 
+msgctxt "lus"
 msgid "Mizo"
 msgstr "mizorámčina"
 
+msgctxt "luy"
 msgid "Luyia"
 msgstr "luhja"
 
+msgctxt "lv"
 msgid "Latvian"
 msgstr "lotyština"
 
+msgctxt "mad"
 msgid "Madurese"
 msgstr "madurčina"
 
+msgctxt "maf"
 msgid "Mafa"
 msgstr "mafa"
 
+msgctxt "mag"
 msgid "Magahi"
 msgstr "magadhčina"
 
+msgctxt "mai"
 msgid "Maithili"
 msgstr "maithilčina"
 
+msgctxt "mak"
 msgid "Makasar"
 msgstr "makasarčina"
 
+msgctxt "man"
 msgid "Mandingo"
 msgstr "mandingo"
 
+msgctxt "mas"
 msgid "Masai"
 msgstr "masajčina"
 
+msgctxt "mde"
 msgid "Maba"
 msgstr "maba"
 
+msgctxt "mdf"
 msgid "Moksha"
 msgstr "mokšiančina"
 
+msgctxt "mdr"
 msgid "Mandar"
 msgstr "mandarčina"
 
+msgctxt "men"
 msgid "Mende"
 msgstr "mendejčina"
 
+msgctxt "mer"
 msgid "Meru"
 msgstr "meru"
 
+msgctxt "mfe"
 msgid "Morisyen"
 msgstr "maurícijská kreolčina"
 
+msgctxt "mg"
 msgid "Malagasy"
 msgstr "malgaština"
 
+msgctxt "mga"
 msgid "Middle Irish"
 msgstr "stredná írčina"
 
+msgctxt "mgh"
 msgid "Makhuwa-Meetto"
 msgstr "makua-meetto"
 
+msgctxt "mgo"
 msgid "Metaʼ"
 msgstr "meta’"
 
+msgctxt "mh"
 msgid "Marshallese"
 msgstr "marshallčina"
 
+msgctxt "mi"
 msgid "Māori"
 msgstr "maorijčina"
 
+msgctxt "mic"
 msgid "Mi'kmaw"
 msgstr "mikmakčina"
 
+msgctxt "min"
 msgid "Minangkabau"
 msgstr "minangkabaučina"
 
+msgctxt "mk"
 msgid "Macedonian"
 msgstr "macedónčina"
 
+msgctxt "ml"
 msgid "Malayalam"
 msgstr "malajálamčina"
 
+msgctxt "mn"
 msgid "Mongolian"
 msgstr "mongolčina"
 
+msgctxt "mnc"
 msgid "Manchu"
 msgstr "mandžuština"
 
+msgctxt "mni"
 msgid "Manipuri"
 msgstr "manípurčina"
 
+msgctxt "moe"
 msgid "Innu-aimun"
 msgstr "innu-aimunčina"
 
+msgctxt "moh"
 msgid "Mohawk"
 msgstr "mohawkčina"
 
+msgctxt "mos"
 msgid "Mossi"
 msgstr "mossi"
 
+msgctxt "mr"
 msgid "Marathi"
 msgstr "maráthčina"
 
+msgctxt "ms"
 msgid "Malay"
 msgstr "malajčina"
 
+msgctxt "mt"
 msgid "Maltese"
 msgstr "maltčina"
 
+msgctxt "mua"
 msgid "Mundang"
 msgstr "mundang"
 
+msgctxt "mul"
 msgid "Multiple languages"
 msgstr "viaceré jazyky"
 
+msgctxt "mus"
 msgid "Muscogee"
 msgstr "kríkčina"
 
+msgctxt "mwl"
 msgid "Mirandese"
 msgstr "mirandčina"
 
+msgctxt "mwr"
 msgid "Marwari"
 msgstr "marwari"
 
+msgctxt "my"
 msgid "Burmese"
 msgstr "barmčina"
 
+msgctxt "mye"
 msgid "Myene"
 msgstr "myene"
 
+msgctxt "myv"
 msgid "Erzya"
 msgstr "erzjančina"
 
+msgctxt "mzn"
 msgid "Mazanderani"
 msgstr "mázandaránčina"
 
+msgctxt "na"
 msgid "Nauru"
 msgstr "nauruština"
 
+msgctxt "nap"
 msgid "Neapolitan"
 msgstr "neapolčina"
 
+msgctxt "naq"
 msgid "Nama"
 msgstr "nama"
 
+msgctxt "nb"
 msgid "Norwegian Bokmål"
 msgstr "nórčina (bokmal)"
 
+msgctxt "nd"
 msgid "North Ndebele"
 msgstr "ndebelčina (severná)"
 
+msgctxt "nds"
 msgid "Low German"
 msgstr "dolná nemčina"
 
+msgctxt "nds-NL"
 msgid "Low Saxon"
 msgstr "dolná saština"
 
+msgctxt "ne"
 msgid "Nepali"
 msgstr "nepálčina"
 
+msgctxt "new"
 msgid "Newari"
 msgstr "nevárčina"
 
+msgctxt "ng"
 msgid "Ndonga"
 msgstr "ndonga"
 
+msgctxt "nia"
 msgid "Nias"
 msgstr "niasánčina"
 
+msgctxt "niu"
 msgid "Niuean"
 msgstr "niueština"
 
+msgctxt "nl"
 msgid "Dutch"
 msgstr "holandčina"
 
+msgctxt "nl-BE"
 msgid "Flemish"
 msgstr "flámčina"
 
+msgctxt "nmg"
 msgid "Kwasio"
 msgstr "kwasio"
 
+msgctxt "nn"
 msgid "Norwegian Nynorsk"
 msgstr "nórčina (nynorsk)"
 
+msgctxt "nnh"
 msgid "Ngiemboon"
 msgstr "ngiemboon"
 
+msgctxt "no"
 msgid "Norwegian"
 msgstr "nórčina"
 
+msgctxt "nog"
 msgid "Nogai"
 msgstr "nogajčina"
 
+msgctxt "non"
 msgid "Old Norse"
 msgstr "stará nórčina"
 
+msgctxt "nqo"
 msgid "N’Ko"
 msgstr "n’ko"
 
+msgctxt "nr"
 msgid "South Ndebele"
 msgstr "ndebelčina (južná)"
 
+msgctxt "nso"
 msgid "Northern Sotho"
 msgstr "sothčina (severná)"
 
+msgctxt "nus"
 msgid "Nuer"
 msgstr "nuer"
 
+msgctxt "nv"
 msgid "Navajo"
 msgstr "navaho"
 
+msgctxt "nwc"
 msgid "Classical Newari"
 msgstr "klasická nevárčina"
 
+msgctxt "ny"
 msgid "Nyanja"
 msgstr "ňandža"
 
+msgctxt "nym"
 msgid "Nyamwezi"
 msgstr "ňamwezi"
 
+msgctxt "nyn"
 msgid "Nyankole"
 msgstr "ňankole"
 
+msgctxt "nyo"
 msgid "Nyoro"
 msgstr "ňoro"
 
+msgctxt "nzi"
 msgid "Nzima"
 msgstr "nzima"
 
+msgctxt "oc"
 msgid "Occitan"
 msgstr "okcitánčina"
 
+msgctxt "oj"
 msgid "Ojibwa"
 msgstr "odžibva"
 
+msgctxt "ojb"
 msgid "Northwestern Ojibwa"
 msgstr "northwestern ojibwa"
 
+msgctxt "ojc"
 msgid "Central Ojibwa"
 msgstr "centrálna odžibvejčina"
 
+msgctxt "ojs"
 msgid "Oji-Cree"
 msgstr "oji-cree"
 
+msgctxt "ojw"
 msgid "Western Ojibwa"
 msgstr "ojibwa (západ)"
 
+msgctxt "oka"
 msgid "Okanagan"
 msgstr "okanagan"
 
+msgctxt "om"
 msgid "Oromo"
 msgstr "oromčina"
 
+msgctxt "or"
 msgid "Odia"
 msgstr "uríjčina"
 
+msgctxt "os"
 msgid "Ossetic"
 msgstr "osetčina"
 
+msgctxt "osa"
 msgid "Osage"
 msgstr "osedžština"
 
+msgctxt "ota"
 msgid "Ottoman Turkish"
 msgstr "osmanská turečtina"
 
+msgctxt "pa"
 msgid "Punjabi"
 msgstr "pandžábčina"
 
+msgctxt "pag"
 msgid "Pangasinan"
 msgstr "pangasinančina"
 
+msgctxt "pal"
 msgid "Pahlavi"
 msgstr "pahlaví"
 
+msgctxt "pam"
 msgid "Pampanga"
 msgstr "kapampangančina"
 
+msgctxt "pap"
 msgid "Papiamento"
 msgstr "papiamento"
 
+msgctxt "pau"
 msgid "Palauan"
 msgstr "palaučina"
 
+msgctxt "pcm"
 msgid "Nigerian Pidgin"
 msgstr "nigerijský pidžin"
 
+msgctxt "peo"
 msgid "Old Persian"
 msgstr "stará perzština"
 
+msgctxt "phn"
 msgid "Phoenician"
 msgstr "feničtina"
 
+msgctxt "pi"
 msgid "Pali"
 msgstr "pálí"
 
+msgctxt "pis"
 msgid "Pijin"
 msgstr "pidžin"
 
+msgctxt "pl"
 msgid "Polish"
 msgstr "poľština"
 
+msgctxt "pon"
 msgid "Pohnpeian"
 msgstr "pohnpeiština"
 
+msgctxt "pqm"
 msgid "Maliseet-Passamaquoddy"
 msgstr "maliseet-passamaquoddy"
 
+msgctxt "prg"
 msgid "Prussian"
 msgstr "pruština"
 
+msgctxt "pro"
 msgid "Old Provençal"
 msgstr "stará okcitánčina"
 
+msgctxt "ps"
 msgid "Pashto"
 msgstr "paštčina"
 
+msgctxt "pt"
 msgid "Portuguese"
 msgstr "portugalčina"
 
+msgctxt "pt-BR"
 msgid "Brazilian Portuguese"
 msgstr "portugalčina (brazílska)"
 
+msgctxt "pt-PT"
 msgid "European Portuguese"
 msgstr "portugalčina (európska)"
 
+msgctxt "qu"
 msgid "Quechua"
 msgstr "kečuánčina"
 
+msgctxt "quc"
 msgid "Kʼicheʼ"
 msgstr "quiché"
 
+msgctxt "raj"
 msgid "Rajasthani"
 msgstr "radžastančina"
 
+msgctxt "rap"
 msgid "Rapanui"
 msgstr "rapanujčina"
 
+msgctxt "rar"
 msgid "Rarotongan"
 msgstr "rarotongská maorijčina"
 
+msgctxt "rhg"
 msgid "Rohingya"
 msgstr "rohingčina"
 
+msgctxt "rm"
 msgid "Romansh"
 msgstr "rétorománčina"
 
+msgctxt "rn"
 msgid "Rundi"
 msgstr "rundčina"
 
+msgctxt "ro"
 msgid "Romanian"
 msgstr "rumunčina"
 
+msgctxt "ro-MD"
 msgid "Moldavian"
 msgstr "moldavčina"
 
+msgctxt "rof"
 msgid "Rombo"
 msgstr "rombo"
 
+msgctxt "rom"
 msgid "Romany"
 msgstr "rómčina"
 
+msgctxt "ru"
 msgid "Russian"
 msgstr "ruština"
 
+msgctxt "rup"
 msgid "Aromanian"
 msgstr "arumunčina"
 
+msgctxt "rw"
 msgid "Kinyarwanda"
 msgstr "rwandčina"
 
+msgctxt "rwk"
 msgid "Rwa"
 msgstr "rwa"
 
+msgctxt "sa"
 msgid "Sanskrit"
 msgstr "sanskrit"
 
+msgctxt "sad"
 msgid "Sandawe"
 msgstr "sandaweština"
 
+msgctxt "sah"
 msgid "Yakut"
 msgstr "jakutčina"
 
+msgctxt "sam"
 msgid "Samaritan Aramaic"
 msgstr "samaritánska aramejčina"
 
+msgctxt "saq"
 msgid "Samburu"
 msgstr "samburu"
 
+msgctxt "sas"
 msgid "Sasak"
 msgstr "sasačtina"
 
+msgctxt "sat"
 msgid "Santali"
 msgstr "santalčina"
 
+msgctxt "sba"
 msgid "Ngambay"
 msgstr "ngambay"
 
+msgctxt "sbp"
 msgid "Sangu"
 msgstr "sangu"
 
+msgctxt "sc"
 msgid "Sardinian"
 msgstr "sardínčina"
 
+msgctxt "scn"
 msgid "Sicilian"
 msgstr "sicílčina"
 
+msgctxt "sco"
 msgid "Scots"
 msgstr "škótčina"
 
+msgctxt "sd"
 msgid "Sindhi"
 msgstr "sindhčina"
 
+msgctxt "sdh"
 msgid "Southern Kurdish"
 msgstr "južná kurdčina"
 
+msgctxt "se"
 msgid "Northern Sami"
 msgstr "saamčina (severná)"
 
+msgctxt "see"
 msgid "Seneca"
 msgstr "senekčina"
 
+msgctxt "seh"
 msgid "Sena"
 msgstr "sena"
 
+msgctxt "sel"
 msgid "Selkup"
 msgstr "selkupčina"
 
+msgctxt "ses"
 msgid "Koyraboro Senni"
 msgstr "koyraboro senni"
 
+msgctxt "sg"
 msgid "Sango"
 msgstr "sango"
 
+msgctxt "sga"
 msgid "Old Irish"
 msgstr "stará írčina"
 
+msgctxt "sh"
 msgid "Serbo-Croatian"
 msgstr "srbochorvátčina"
 
+msgctxt "shi"
 msgid "Tachelhit"
 msgstr "tachelhit"
 
+msgctxt "shn"
 msgid "Shan"
 msgstr "šančina"
 
+msgctxt "shu"
 msgid "Chadian Arabic"
 msgstr "čadská arabčina"
 
+msgctxt "si"
 msgid "Sinhala"
 msgstr "sinhalčina"
 
+msgctxt "sid"
 msgid "Sidamo"
 msgstr "sidamo"
 
+msgctxt "sk"
 msgid "Slovak"
 msgstr "slovenčina"
 
+msgctxt "sl"
 msgid "Slovenian"
 msgstr "slovinčina"
 
+msgctxt "slh"
 msgid "Southern Lushootseed"
 msgstr "lushootseed (juh)"
 
+msgctxt "sm"
 msgid "Samoan"
 msgstr "samojčina"
 
+msgctxt "sma"
 msgid "Southern Sami"
 msgstr "saamčina (južná)"
 
+msgctxt "smj"
 msgid "Lule Sami"
 msgstr "saamčina (lulská)"
 
+msgctxt "smn"
 msgid "Inari Sami"
 msgstr "saamčina (inarijská)"
 
+msgctxt "sms"
 msgid "Skolt Sami"
 msgstr "saamčina (skoltská)"
 
+msgctxt "sn"
 msgid "Shona"
 msgstr "šončina"
 
+msgctxt "snk"
 msgid "Soninke"
 msgstr "soninke"
 
+msgctxt "so"
 msgid "Somali"
 msgstr "somálčina"
 
+msgctxt "sog"
 msgid "Sogdien"
 msgstr "sogdijčina"
 
+msgctxt "sq"
 msgid "Albanian"
 msgstr "albánčina"
 
+msgctxt "sr"
 msgid "Serbian"
 msgstr "srbčina"
 
+msgctxt "srn"
 msgid "Sranan Tongo"
 msgstr "surinamčina"
 
+msgctxt "srr"
 msgid "Serer"
 msgstr "sererčina"
 
+msgctxt "ss"
 msgid "Swati"
 msgstr "svazijčina"
 
+msgctxt "ssy"
 msgid "Saho"
 msgstr "saho"
 
+msgctxt "st"
 msgid "Southern Sotho"
 msgstr "sothčina (južná)"
 
+msgctxt "str"
 msgid "Straits Salish"
 msgstr "straits salish"
 
+msgctxt "su"
 msgid "Sundanese"
 msgstr "sundčina"
 
+msgctxt "suk"
 msgid "Sukuma"
 msgstr "sukuma"
 
+msgctxt "sus"
 msgid "Susu"
 msgstr "susu"
 
+msgctxt "sux"
 msgid "Sumerian"
 msgstr "sumerčina"
 
+msgctxt "sv"
 msgid "Swedish"
 msgstr "švédčina"
 
+msgctxt "sw"
 msgid "Swahili"
 msgstr "swahilčina"
 
+msgctxt "sw-CD"
 msgid "Congo Swahili"
 msgstr "svahilčina (konžská)"
 
+msgctxt "swb"
 msgid "Comorian"
 msgstr "komorčina"
 
+msgctxt "syc"
 msgid "Classical Syriac"
 msgstr "sýrčina (klasická)"
 
+msgctxt "syr"
 msgid "Syriac"
 msgstr "sýrčina"
 
+msgctxt "szl"
 msgid "Silesian"
 msgstr "sliezština"
 
+msgctxt "ta"
 msgid "Tamil"
 msgstr "tamilčina"
 
+msgctxt "tce"
 msgid "Southern Tutchone"
 msgstr "tutchone (juh)"
 
+msgctxt "te"
 msgid "Telugu"
 msgstr "telugčina"
 
+msgctxt "tem"
 msgid "Timne"
 msgstr "temne"
 
+msgctxt "teo"
 msgid "Teso"
 msgstr "teso"
 
+msgctxt "ter"
 msgid "Tereno"
 msgstr "terêna"
 
+msgctxt "tet"
 msgid "Tetum"
 msgstr "tetumčina"
 
+msgctxt "tg"
 msgid "Tajik"
 msgstr "tadžičtina"
 
+msgctxt "tgx"
 msgid "Tagish"
 msgstr "tagiš"
 
+msgctxt "th"
 msgid "Thai"
 msgstr "thajčina"
 
+msgctxt "tht"
 msgid "Tahltan"
 msgstr "tahltan"
 
+msgctxt "ti"
 msgid "Tigrinya"
 msgstr "tigriňa"
 
+msgctxt "tig"
 msgid "Tigre"
 msgstr "tigrejčina"
 
+msgctxt "tiv"
 msgid "Tiv"
 msgstr "tiv"
 
+msgctxt "tk"
 msgid "Turkmen"
 msgstr "turkménčina"
 
+msgctxt "tkl"
 msgid "Tokelauan"
 msgstr "tokelauština"
 
+msgctxt "tl"
 msgid "Tagalog"
 msgstr "tagalčina"
 
+msgctxt "tlh"
 msgid "Klingon"
 msgstr "klingónčina"
 
+msgctxt "tli"
 msgid "Tlingit"
 msgstr "tlingitčina"
 
+msgctxt "tmh"
 msgid "Tamashek"
 msgstr "tuaregčina"
 
+msgctxt "tn"
 msgid "Tswana"
 msgstr "tswančina"
 
+msgctxt "to"
 msgid "Tongan"
 msgstr "tongčina"
 
+msgctxt "tog"
 msgid "Nyasa Tonga"
 msgstr "ňasa tonga"
 
+msgctxt "tok"
 msgid "Toki Pona"
 msgstr "toki pona"
 
+msgctxt "tpi"
 msgid "Tok Pisin"
 msgstr "novoguinejský pidžin"
 
+msgctxt "tr"
 msgid "Turkish"
 msgstr "turečtina"
 
+msgctxt "trv"
 msgid "Taroko"
 msgstr "taroko"
 
+msgctxt "ts"
 msgid "Tsonga"
 msgstr "tsongčina"
 
+msgctxt "tsi"
 msgid "Tsimshian"
 msgstr "cimšjančina"
 
+msgctxt "tt"
 msgid "Tatar"
 msgstr "tatárčina"
 
+msgctxt "ttm"
 msgid "Northern Tutchone"
 msgstr "northern tutchone"
 
+msgctxt "tum"
 msgid "Tumbuka"
 msgstr "tumbuka"
 
+msgctxt "tvl"
 msgid "Tuvalu"
 msgstr "tuvalčina"
 
+msgctxt "tw"
 msgid "Twi"
 msgstr "twi"
 
+msgctxt "twq"
 msgid "Tasawaq"
 msgstr "tasawaq"
 
+msgctxt "ty"
 msgid "Tahitian"
 msgstr "tahitčina"
 
+msgctxt "tyv"
 msgid "Tuvinian"
 msgstr "tuviančina"
 
+msgctxt "tzm"
 msgid "Central Atlas Tamazight"
 msgstr "tamazight (stredomarocký)"
 
+msgctxt "udm"
 msgid "Udmurt"
 msgstr "udmurtčina"
 
+msgctxt "ug"
 msgid "Uyghur"
 msgstr "ujgurčina"
 
+msgctxt "uga"
 msgid "Ugaritic"
 msgstr "ugaritčina"
 
+msgctxt "uk"
 msgid "Ukrainian"
 msgstr "ukrajinčina"
 
+msgctxt "umb"
 msgid "Umbundu"
 msgstr "umbundu"
 
+msgctxt "und"
 msgid "Unknown language"
 msgstr "neznámy jazyk"
 
+msgctxt "ur"
 msgid "Urdu"
 msgstr "urdčina"
 
+msgctxt "uz"
 msgid "Uzbek"
 msgstr "uzbečtina"
 
+msgctxt "ve"
 msgid "Venda"
 msgstr "vendčina"
 
+msgctxt "vec"
 msgid "Venetian"
 msgstr "benátčina"
 
+msgctxt "vi"
 msgid "Vietnamese"
 msgstr "vietnamčina"
 
+msgctxt "vmw"
 msgid "Makhuwa"
 msgstr "makhuwčina"
 
+msgctxt "vo"
 msgid "Volapük"
 msgstr "volapük"
 
+msgctxt "vot"
 msgid "Votic"
 msgstr "vodčina"
 
+msgctxt "vun"
 msgid "Vunjo"
 msgstr "vunjo"
 
+msgctxt "wa"
 msgid "Walloon"
 msgstr "valónčina"
 
+msgctxt "wae"
 msgid "Walser"
 msgstr "walserčina"
 
+msgctxt "wal"
 msgid "Wolaytta"
 msgstr "walamčina"
 
+msgctxt "war"
 msgid "Waray"
 msgstr "waray"
 
+msgctxt "was"
 msgid "Washo"
 msgstr "washo"
 
+msgctxt "wbp"
 msgid "Warlpiri"
 msgstr "warlpiri"
 
+msgctxt "wo"
 msgid "Wolof"
 msgstr "wolofčina"
 
+msgctxt "wuu"
 msgid "Wu Chinese"
 msgstr "čínština (wu)"
 
+msgctxt "xal"
 msgid "Kalmyk"
 msgstr "kalmyčtina"
 
+msgctxt "xh"
 msgid "Xhosa"
 msgstr "xhoština"
 
+msgctxt "xnr"
 msgid "Kangri"
 msgstr "kángrí"
 
+msgctxt "xog"
 msgid "Soga"
 msgstr "soga"
 
+msgctxt "yao"
 msgid "Yao"
 msgstr "jao"
 
+msgctxt "yap"
 msgid "Yapese"
 msgstr "japčina"
 
+msgctxt "yav"
 msgid "Yangben"
 msgstr "jangben"
 
+msgctxt "ybb"
 msgid "Yemba"
 msgstr "yemba"
 
+msgctxt "yi"
 msgid "Yiddish"
 msgstr "jidiš"
 
+msgctxt "yo"
 msgid "Yoruba"
 msgstr "jorubčina"
 
+msgctxt "yrl"
 msgid "Nheengatu"
 msgstr "nheengatu"
 
+msgctxt "yue"
 msgid "Cantonese"
 msgstr "kantončina"
 
+msgctxt "yue-alt-menu"
 msgid "Chinese, Cantonese"
 msgstr "čínština (kantonská)"
 
+msgctxt "za"
 msgid "Zhuang"
 msgstr "čuangčina"
 
+msgctxt "zap"
 msgid "Zapotec"
 msgstr "zapotéčtina"
 
+msgctxt "zbl"
 msgid "Blissymbols"
 msgstr "systém Bliss"
 
+msgctxt "zen"
 msgid "Zenaga"
 msgstr "zenaga"
 
+msgctxt "zgh"
 msgid "Standard Moroccan Tamazight"
 msgstr "tuaregčina (marocká štandardná)"
 
+msgctxt "zh"
 msgid "Chinese"
 msgstr "čínština"
 
+msgctxt "zh-alt-menu"
 msgid "Chinese, Mandarin"
 msgstr "čínština (mandarínska)"
 
+msgctxt "zh-Hans"
 msgid "Simplified Chinese"
 msgstr "čínština (zjednodušená)"
 
+msgctxt "zh-Hans-alt-long"
 msgid "Simplified Mandarin Chinese"
 msgstr "čínština (mandarínska zjednodušená)"
 
+msgctxt "zh-Hant"
 msgid "Traditional Chinese"
 msgstr "čínština (tradičná)"
 
+msgctxt "zh-Hant-alt-long"
 msgid "Traditional Mandarin Chinese"
 msgstr "čínština (mandarínska tradičná)"
 
+msgctxt "zu"
 msgid "Zulu"
 msgstr "zuluština"
 
+msgctxt "zun"
 msgid "Zuni"
 msgstr "zuniština"
 
+msgctxt "zxx"
 msgid "No linguistic content"
 msgstr "bez jazykového obsahu"
 
+msgctxt "zza"
 msgid "Zaza"
 msgstr "zaza"

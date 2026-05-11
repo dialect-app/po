@@ -6,1976 +6,2634 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgctxt "aa"
 msgid "Afar"
 msgstr "afari"
 
+msgctxt "ab"
 msgid "Abkhazian"
 msgstr "abhaasi"
 
+msgctxt "ace"
 msgid "Acehnese"
 msgstr "atšehi"
 
+msgctxt "ach"
 msgid "Acoli"
 msgstr "atšoli"
 
+msgctxt "ada"
 msgid "Adangme"
 msgstr "adangme"
 
+msgctxt "ady"
 msgid "Adyghe"
 msgstr "adõgee"
 
+msgctxt "ae"
 msgid "Avestan"
 msgstr "avesta"
 
+msgctxt "aeb"
 msgid "Tunisian Arabic"
 msgstr "Tuneesia araabia"
 
+msgctxt "af"
 msgid "Afrikaans"
 msgstr "afrikaani"
 
+msgctxt "afh"
 msgid "Afrihili"
 msgstr "afrihili"
 
+msgctxt "agq"
 msgid "Aghem"
 msgstr "aghemi"
 
+msgctxt "ain"
 msgid "Ainu"
 msgstr "ainu"
 
+msgctxt "ak"
 msgid "Akan"
 msgstr "akani"
 
+msgctxt "akk"
 msgid "Akkadian"
 msgstr "akadi"
 
+msgctxt "akz"
 msgid "Alabama"
 msgstr "alabama"
 
+msgctxt "ale"
 msgid "Aleut"
 msgstr "aleuudi"
 
+msgctxt "aln"
 msgid "Gheg Albanian"
 msgstr "geegi"
 
+msgctxt "alt"
 msgid "Southern Altai"
 msgstr "altai"
 
+msgctxt "am"
 msgid "Amharic"
 msgstr "amhara"
 
+msgctxt "an"
 msgid "Aragonese"
 msgstr "aragoni"
 
+msgctxt "ang"
 msgid "Old English"
 msgstr "vanainglise"
 
+msgctxt "ann"
 msgid "Obolo"
 msgstr "obolo"
 
+msgctxt "anp"
 msgid "Angika"
 msgstr "angika"
 
+msgctxt "ar"
 msgid "Arabic"
 msgstr "araabia"
 
+msgctxt "ar-001"
 msgid "Modern Standard Arabic"
 msgstr "tänapäeva araabia kirjakeel"
 
+msgctxt "arc"
 msgid "Aramaic"
 msgstr "aramea"
 
+msgctxt "arn"
 msgid "Mapuche"
 msgstr "mapudunguni"
 
+msgctxt "aro"
 msgid "Araona"
 msgstr "araona"
 
+msgctxt "arp"
 msgid "Arapaho"
 msgstr "arapaho"
 
+msgctxt "arq"
 msgid "Algerian Arabic"
 msgstr "Alžeeria araabia"
 
+msgctxt "ars"
 msgid "Najdi Arabic"
 msgstr "Najdi araabia"
 
+msgctxt "arw"
 msgid "Arawak"
 msgstr "aravaki"
 
+msgctxt "ary"
 msgid "Moroccan Arabic"
 msgstr "Maroko araabia"
 
+msgctxt "arz"
 msgid "Egyptian Arabic"
 msgstr "Egiptuse araabia"
 
+msgctxt "as"
 msgid "Assamese"
 msgstr "assami"
 
+msgctxt "asa"
 msgid "Asu"
 msgstr "asu"
 
+msgctxt "ase"
 msgid "American Sign Language"
 msgstr "Ameerika viipekeel"
 
+msgctxt "ast"
 msgid "Asturian"
 msgstr "astuuria"
 
+msgctxt "atj"
 msgid "Atikamekw"
 msgstr "atikameki"
 
+msgctxt "av"
 msgid "Avaric"
 msgstr "avaari"
 
+msgctxt "awa"
 msgid "Awadhi"
 msgstr "avadhi"
 
+msgctxt "ay"
 msgid "Aymara"
 msgstr "aimara"
 
+msgctxt "az"
 msgid "Azerbaijani"
 msgstr "aserbaidžaani"
 
+msgctxt "az-alt-short"
 msgid "Azeri"
 msgstr "aseri"
 
+msgctxt "ba"
 msgid "Bashkir"
 msgstr "baškiiri"
 
+msgctxt "bal"
 msgid "Baluchi"
 msgstr "belutši"
 
+msgctxt "ban"
 msgid "Balinese"
 msgstr "bali"
 
+msgctxt "bar"
 msgid "Bavarian"
 msgstr "baieri"
 
+msgctxt "bas"
 msgid "Basaa"
 msgstr "basaa"
 
+msgctxt "bax"
 msgid "Bamun"
 msgstr "bamuni"
 
+msgctxt "bbc"
 msgid "Batak Toba"
 msgstr "bataki"
 
+msgctxt "bbj"
 msgid "Ghomala"
 msgstr "ghomala"
 
+msgctxt "be"
 msgid "Belarusian"
 msgstr "valgevene"
 
+msgctxt "bej"
 msgid "Beja"
 msgstr "bedža"
 
+msgctxt "bem"
 msgid "Bemba"
 msgstr "bemba"
 
+msgctxt "bew"
 msgid "Betawi"
 msgstr "betavi"
 
+msgctxt "bez"
 msgid "Bena"
 msgstr "bena"
 
+msgctxt "bfd"
 msgid "Bafut"
 msgstr "bafuti"
 
+msgctxt "bfq"
 msgid "Badaga"
 msgstr "badaga"
 
+msgctxt "bg"
 msgid "Bulgarian"
 msgstr "bulgaaria"
 
+msgctxt "bgc"
 msgid "Haryanvi"
 msgstr "harjaanvi"
 
+msgctxt "bgn"
 msgid "Western Balochi"
 msgstr "läänebelutši"
 
+msgctxt "bho"
 msgid "Bhojpuri"
 msgstr "bhodžpuri"
 
+msgctxt "bi"
 msgid "Bislama"
 msgstr "bislama"
 
+msgctxt "bik"
 msgid "Bikol"
 msgstr "bikoli"
 
+msgctxt "bin"
 msgid "Bini"
 msgstr "edo"
 
+msgctxt "bjn"
 msgid "Banjar"
 msgstr "bandžari"
 
+msgctxt "bkm"
 msgid "Kom"
 msgstr "komi (Aafrika)"
 
+msgctxt "bla"
 msgid "Siksiká"
 msgstr "mustjalaindiaani"
 
+msgctxt "blo"
 msgid "Anii"
 msgstr "anii"
 
+msgctxt "blt"
 msgid "Tai Dam"
 msgstr "tai-dami"
 
+msgctxt "bm"
 msgid "Bambara"
 msgstr "bambara"
 
+msgctxt "bn"
 msgid "Bangla"
 msgstr "bengali"
 
+msgctxt "bo"
 msgid "Tibetan"
 msgstr "tiibeti"
 
+msgctxt "bpy"
 msgid "Bishnupriya"
 msgstr "bišnuprija"
 
+msgctxt "bqi"
 msgid "Bakhtiari"
 msgstr "bahtiari"
 
+msgctxt "br"
 msgid "Breton"
 msgstr "bretooni"
 
+msgctxt "bra"
 msgid "Braj"
 msgstr "bradži"
 
+msgctxt "brh"
 msgid "Brahui"
 msgstr "brahui"
 
+msgctxt "brx"
 msgid "Bodo"
 msgstr "bodo"
 
+msgctxt "bs"
 msgid "Bosnian"
 msgstr "bosnia"
 
+msgctxt "bss"
 msgid "Akoose"
 msgstr "akoose"
 
+msgctxt "bua"
 msgid "Buriat"
 msgstr "burjaadi"
 
+msgctxt "bug"
 msgid "Buginese"
 msgstr "bugi"
 
+msgctxt "bum"
 msgid "Bulu"
 msgstr "bulu"
 
+msgctxt "byn"
 msgid "Blin"
 msgstr "bilini"
 
+msgctxt "byv"
 msgid "Medumba"
 msgstr "medumba"
 
+msgctxt "ca"
 msgid "Catalan"
 msgstr "katalaani"
 
+msgctxt "cad"
 msgid "Caddo"
 msgstr "kado"
 
+msgctxt "car"
 msgid "Carib"
 msgstr "kariibi"
 
+msgctxt "cay"
 msgid "Cayuga"
 msgstr "kajuka"
 
+msgctxt "cch"
 msgid "Atsam"
 msgstr "aitšami"
 
+msgctxt "ccp"
 msgid "Chakma"
 msgstr "tšaakma"
 
+msgctxt "ce"
 msgid "Chechen"
 msgstr "tšetšeeni"
 
+msgctxt "ceb"
 msgid "Cebuano"
 msgstr "sebu"
 
+msgctxt "cgg"
 msgid "Chiga"
 msgstr "tšiga"
 
+msgctxt "ch"
 msgid "Chamorro"
 msgstr "tšamorro"
 
+msgctxt "chb"
 msgid "Chibcha"
 msgstr "tšibtša"
 
+msgctxt "chg"
 msgid "Chagatai"
 msgstr "tšagatai"
 
+msgctxt "chk"
 msgid "Chuukese"
 msgstr "tšuugi"
 
+msgctxt "chm"
 msgid "Mari"
 msgstr "mari"
 
+msgctxt "chn"
 msgid "Chinook Jargon"
 msgstr "tšinuki žargoon"
 
+msgctxt "cho"
 msgid "Choctaw"
 msgstr "tšokto"
 
+msgctxt "chp"
 msgid "Chipewyan"
 msgstr "tšipevai"
 
+msgctxt "chr"
 msgid "Cherokee"
 msgstr "tšerokii"
 
+msgctxt "chy"
 msgid "Cheyenne"
 msgstr "šaieeni"
 
+msgctxt "cic"
 msgid "Chickasaw"
 msgstr "tšikasoo"
 
+msgctxt "ckb"
 msgid "Central Kurdish"
 msgstr "sorani"
 
+msgctxt "ckb-alt-menu"
 msgid "Kurdish, Central"
 msgstr "kurdi (keskkurdi)"
 
+msgctxt "ckb-alt-variant"
 msgid "Kurdish, Sorani"
 msgstr "keskkurdi"
 
+msgctxt "clc"
 msgid "Chilcotin"
 msgstr "tšilkotini"
 
+msgctxt "co"
 msgid "Corsican"
 msgstr "korsika"
 
+msgctxt "cop"
 msgid "Coptic"
 msgstr "kopti"
 
+msgctxt "cps"
 msgid "Capiznon"
 msgstr "kapisnoni"
 
+msgctxt "cr"
 msgid "Cree"
 msgstr "krii"
 
+msgctxt "crg"
 msgid "Michif"
 msgstr "michifi"
 
+msgctxt "crh"
 msgid "Crimean Tatar"
 msgstr "krimmitatari"
 
+msgctxt "crj"
 msgid "Southern East Cree"
 msgstr "lõuna-idakrii"
 
+msgctxt "crk"
 msgid "Plains Cree"
 msgstr "tasandikukrii"
 
+msgctxt "crl"
 msgid "Northern East Cree"
 msgstr "põhja-idakrii"
 
+msgctxt "crm"
 msgid "Moose Cree"
 msgstr "põdrakrii"
 
+msgctxt "crr"
 msgid "Carolina Algonquian"
 msgstr "Carolina algonkini"
 
+msgctxt "crs"
 msgid "Seselwa Creole French"
 msgstr "seišelli"
 
+msgctxt "cs"
 msgid "Czech"
 msgstr "tšehhi"
 
+msgctxt "csb"
 msgid "Kashubian"
 msgstr "kašuubi"
 
+msgctxt "csw"
 msgid "Swampy Cree"
 msgstr "sookrii"
 
+msgctxt "cu"
 msgid "Church Slavic"
 msgstr "kirikuslaavi"
 
+msgctxt "cv"
 msgid "Chuvash"
 msgstr "tšuvaši"
 
+msgctxt "cy"
 msgid "Welsh"
 msgstr "kõmri"
 
+msgctxt "da"
 msgid "Danish"
 msgstr "taani"
 
+msgctxt "dak"
 msgid "Dakota"
 msgstr "siuu"
 
+msgctxt "dar"
 msgid "Dargwa"
 msgstr "dargi"
 
+msgctxt "dav"
 msgid "Taita"
 msgstr "davida"
 
+msgctxt "de"
 msgid "German"
 msgstr "saksa"
 
+msgctxt "de-AT"
 msgid "Austrian German"
 msgstr "Austria saksa"
 
+msgctxt "de-CH"
 msgid "Swiss High German"
 msgstr "Šveitsi ülemsaksa"
 
+msgctxt "del"
 msgid "Delaware"
 msgstr "delavari"
 
+msgctxt "den"
 msgid "Slave"
 msgstr "sleivi"
 
+msgctxt "dgr"
 msgid "Dogrib"
 msgstr "dogribi"
 
+msgctxt "din"
 msgid "Dinka"
 msgstr "dinka"
 
+msgctxt "dje"
 msgid "Zarma"
 msgstr "zarma"
 
+msgctxt "doi"
 msgid "Dogri"
 msgstr "dogri"
 
+msgctxt "dsb"
 msgid "Lower Sorbian"
 msgstr "alamsorbi"
 
+msgctxt "dtp"
 msgid "Central Dusun"
 msgstr "keskdusuni"
 
+msgctxt "dua"
 msgid "Duala"
 msgstr "duala"
 
+msgctxt "dum"
 msgid "Middle Dutch"
 msgstr "keskhollandi"
 
+msgctxt "dv"
 msgid "Divehi"
 msgstr "maldiivi"
 
+msgctxt "dyo"
 msgid "Jola-Fonyi"
 msgstr "fonji"
 
+msgctxt "dyu"
 msgid "Dyula"
 msgstr "djula"
 
+msgctxt "dz"
 msgid "Dzongkha"
 msgstr "dzongkha"
 
+msgctxt "dzg"
 msgid "Dazaga"
 msgstr "daza"
 
+msgctxt "ebu"
 msgid "Embu"
 msgstr "embu"
 
+msgctxt "ee"
 msgid "Ewe"
 msgstr "eve"
 
+msgctxt "efi"
 msgid "Efik"
 msgstr "efiki"
 
+msgctxt "egl"
 msgid "Emilian"
 msgstr "emiilia"
 
+msgctxt "egy"
 msgid "Ancient Egyptian"
 msgstr "egiptuse"
 
+msgctxt "eka"
 msgid "Ekajuk"
 msgstr "ekadžuki"
 
+msgctxt "el"
 msgid "Greek"
 msgstr "kreeka"
 
+msgctxt "elx"
 msgid "Elamite"
 msgstr "eelami"
 
+msgctxt "en"
 msgid "English"
 msgstr "inglise"
 
+msgctxt "en-AU"
 msgid "Australian English"
 msgstr "Austraalia inglise"
 
+msgctxt "en-CA"
 msgid "Canadian English"
 msgstr "Kanada inglise"
 
+msgctxt "en-GB"
 msgid "British English"
 msgstr "Briti inglise"
 
+msgctxt "en-US"
 msgid "American English"
 msgstr "Ameerika inglise"
 
+msgctxt "en-US-alt-short"
 msgid "US English"
 msgstr "USA inglise"
 
+msgctxt "enm"
 msgid "Middle English"
 msgstr "keskinglise"
 
+msgctxt "eo"
 msgid "Esperanto"
 msgstr "esperanto"
 
+msgctxt "es"
 msgid "Spanish"
 msgstr "hispaania"
 
+msgctxt "es-419"
 msgid "Latin American Spanish"
 msgstr "Ladina-Ameerika hispaania"
 
+msgctxt "es-ES"
 msgid "European Spanish"
 msgstr "Euroopa hispaania"
 
+msgctxt "es-MX"
 msgid "Mexican Spanish"
 msgstr "Mehhiko hispaania"
 
+msgctxt "esu"
 msgid "Central Yupik"
 msgstr "keskjupiki"
 
+msgctxt "et"
 msgid "Estonian"
 msgstr "eesti"
 
+msgctxt "eu"
 msgid "Basque"
 msgstr "baski"
 
+msgctxt "ewo"
 msgid "Ewondo"
 msgstr "evondo"
 
+msgctxt "ext"
 msgid "Extremaduran"
 msgstr "estremenju"
 
+msgctxt "fa"
 msgid "Persian"
 msgstr "pärsia"
 
+msgctxt "fa-AF"
 msgid "Dari"
 msgstr "dari"
 
+msgctxt "fan"
 msgid "Fang"
 msgstr "fangi"
 
+msgctxt "fat"
 msgid "Fanti"
 msgstr "fanti"
 
+msgctxt "ff"
 msgid "Fula"
 msgstr "fula"
 
+msgctxt "fi"
 msgid "Finnish"
 msgstr "soome"
 
+msgctxt "fil"
 msgid "Filipino"
 msgstr "filipiini"
 
+msgctxt "fit"
 msgid "Tornedalen Finnish"
 msgstr "meä"
 
+msgctxt "fj"
 msgid "Fijian"
 msgstr "fidži"
 
+msgctxt "fo"
 msgid "Faroese"
 msgstr "fääri"
 
+msgctxt "fon"
 msgid "Fon"
 msgstr "foni"
 
+msgctxt "fr"
 msgid "French"
 msgstr "prantsuse"
 
+msgctxt "fr-CA"
 msgid "Canadian French"
 msgstr "Kanada prantsuse"
 
+msgctxt "fr-CH"
 msgid "Swiss French"
 msgstr "Šveitsi prantsuse"
 
+msgctxt "frc"
 msgid "Cajun French"
 msgstr "cajun’i"
 
+msgctxt "frm"
 msgid "Middle French"
 msgstr "keskprantsuse"
 
+msgctxt "fro"
 msgid "Old French"
 msgstr "vanaprantsuse"
 
+msgctxt "frp"
 msgid "Arpitan"
 msgstr "frankoprovansi"
 
+msgctxt "frr"
 msgid "Northern Frisian"
 msgstr "põhjafriisi"
 
+msgctxt "frs"
 msgid "Eastern Frisian"
 msgstr "idafriisi"
 
+msgctxt "fur"
 msgid "Friulian"
 msgstr "friuuli"
 
+msgctxt "fy"
 msgid "Western Frisian"
 msgstr "läänefriisi"
 
+msgctxt "ga"
 msgid "Irish"
 msgstr "iiri"
 
+msgctxt "gag"
 msgid "Gagauz"
 msgstr "gagauusi"
 
+msgctxt "gan"
 msgid "Gan Chinese"
 msgstr "kani"
 
+msgctxt "gay"
 msgid "Gayo"
 msgstr "gajo"
 
+msgctxt "gba"
 msgid "Gbaya"
 msgstr "gbaja"
 
+msgctxt "gd"
 msgid "Scottish Gaelic"
 msgstr "gaeli"
 
+msgctxt "gez"
 msgid "Geez"
 msgstr "etioopia"
 
+msgctxt "gil"
 msgid "Gilbertese"
 msgstr "kiribati"
 
+msgctxt "gl"
 msgid "Galician"
 msgstr "galeegi"
 
+msgctxt "glk"
 msgid "Gilaki"
 msgstr "gilaki"
 
+msgctxt "gmh"
 msgid "Middle High German"
 msgstr "keskülemsaksa"
 
+msgctxt "gn"
 msgid "Guarani"
 msgstr "guaranii"
 
+msgctxt "goh"
 msgid "Old High German"
 msgstr "vanaülemsaksa"
 
+msgctxt "gon"
 msgid "Gondi"
 msgstr "gondi"
 
+msgctxt "gor"
 msgid "Gorontalo"
 msgstr "gorontalo"
 
+msgctxt "got"
 msgid "Gothic"
 msgstr "gooti"
 
+msgctxt "grb"
 msgid "Grebo"
 msgstr "grebo"
 
+msgctxt "grc"
 msgid "Ancient Greek"
 msgstr "vanakreeka"
 
+msgctxt "gsw"
 msgid "Swiss German"
 msgstr "šveitsisaksa"
 
+msgctxt "gu"
 msgid "Gujarati"
 msgstr "gudžarati"
 
+msgctxt "guc"
 msgid "Wayuu"
 msgstr "vajuu"
 
+msgctxt "gur"
 msgid "Frafra"
 msgstr "farefare"
 
+msgctxt "guz"
 msgid "Gusii"
 msgstr "gusii"
 
+msgctxt "gv"
 msgid "Manx"
 msgstr "mänksi"
 
+msgctxt "gwi"
 msgid "Gwichʼin"
 msgstr "gvitšini"
 
+msgctxt "ha"
 msgid "Hausa"
 msgstr "hausa"
 
+msgctxt "hai"
 msgid "Haida"
 msgstr "haida"
 
+msgctxt "hak"
 msgid "Hakka Chinese"
 msgstr "hakka"
 
+msgctxt "haw"
 msgid "Hawaiian"
 msgstr "havai"
 
+msgctxt "hax"
 msgid "Southern Haida"
 msgstr "lõunahaida"
 
+msgctxt "he"
 msgid "Hebrew"
 msgstr "heebrea"
 
+msgctxt "hi"
 msgid "Hindi"
 msgstr "hindi"
 
+msgctxt "hi-Latn-alt-variant"
 msgid "Hinglish"
 msgstr "hinglishi"
 
+msgctxt "hif"
 msgid "Fiji Hindi"
 msgstr "Fidži hindi"
 
+msgctxt "hil"
 msgid "Hiligaynon"
 msgstr "hiligainoni"
 
+msgctxt "hit"
 msgid "Hittite"
 msgstr "heti"
 
+msgctxt "hmn"
 msgid "Hmong"
 msgstr "hmongi"
 
+msgctxt "ho"
 msgid "Hiri Motu"
 msgstr "hirimotu"
 
+msgctxt "hr"
 msgid "Croatian"
 msgstr "horvaadi"
 
+msgctxt "hsb"
 msgid "Upper Sorbian"
 msgstr "ülemsorbi"
 
+msgctxt "hsn"
 msgid "Xiang Chinese"
 msgstr "sjangi"
 
+msgctxt "ht"
 msgid "Haitian Creole"
 msgstr "haiti"
 
+msgctxt "hu"
 msgid "Hungarian"
 msgstr "ungari"
 
+msgctxt "hup"
 msgid "Hupa"
 msgstr "hupa"
 
+msgctxt "hur"
 msgid "Halkomelem"
 msgstr "halkomelemi"
 
+msgctxt "hy"
 msgid "Armenian"
 msgstr "armeenia"
 
+msgctxt "hz"
 msgid "Herero"
 msgstr "herero"
 
+msgctxt "ia"
 msgid "Interlingua"
 msgstr "interlingua"
 
+msgctxt "iba"
 msgid "Iban"
 msgstr "ibani"
 
+msgctxt "ibb"
 msgid "Ibibio"
 msgstr "ibibio"
 
+msgctxt "id"
 msgid "Indonesian"
 msgstr "indoneesia"
 
+msgctxt "ie"
 msgid "Interlingue"
 msgstr "interlingue"
 
+msgctxt "ig"
 msgid "Igbo"
 msgstr "ibo"
 
+msgctxt "ii"
 msgid "Sichuan Yi"
 msgstr "nuosu"
 
+msgctxt "ik"
 msgid "Inupiaq"
 msgstr "injupiaki"
 
+msgctxt "ikt"
 msgid "Western Canadian Inuktitut"
 msgstr "Lääne-Kanada inuktituti"
 
+msgctxt "ilo"
 msgid "Iloko"
 msgstr "iloko"
 
+msgctxt "inh"
 msgid "Ingush"
 msgstr "inguši"
 
+msgctxt "io"
 msgid "Ido"
 msgstr "ido"
 
+msgctxt "is"
 msgid "Icelandic"
 msgstr "islandi"
 
+msgctxt "it"
 msgid "Italian"
 msgstr "itaalia"
 
+msgctxt "iu"
 msgid "Inuktitut"
 msgstr "inuktituti"
 
+msgctxt "izh"
 msgid "Ingrian"
 msgstr "isuri"
 
+msgctxt "ja"
 msgid "Japanese"
 msgstr "jaapani"
 
+msgctxt "jam"
 msgid "Jamaican Creole English"
 msgstr "Jamaica kreoolkeel"
 
+msgctxt "jbo"
 msgid "Lojban"
 msgstr "ložban"
 
+msgctxt "jgo"
 msgid "Ngomba"
 msgstr "ngomba"
 
+msgctxt "jmc"
 msgid "Machame"
 msgstr "matšame"
 
+msgctxt "jpr"
 msgid "Judeo-Persian"
 msgstr "juudipärsia"
 
+msgctxt "jrb"
 msgid "Judeo-Arabic"
 msgstr "juudiaraabia"
 
+msgctxt "jut"
 msgid "Jutish"
 msgstr "jüüti"
 
+msgctxt "jv"
 msgid "Javanese"
 msgstr "jaava"
 
+msgctxt "ka"
 msgid "Georgian"
 msgstr "gruusia"
 
+msgctxt "kaa"
 msgid "Kara-Kalpak"
 msgstr "karakalpaki"
 
+msgctxt "kab"
 msgid "Kabyle"
 msgstr "kabiili"
 
+msgctxt "kac"
 msgid "Kachin"
 msgstr "katšini"
 
+msgctxt "kaj"
 msgid "Jju"
 msgstr "jju"
 
+msgctxt "kam"
 msgid "Kamba"
 msgstr "kamba"
 
+msgctxt "kaw"
 msgid "Kawi"
 msgstr "kaavi"
 
+msgctxt "kbd"
 msgid "Kabardian"
 msgstr "kabardi-tšerkessi"
 
+msgctxt "kbl"
 msgid "Kanembu"
 msgstr "kanembu"
 
+msgctxt "kcg"
 msgid "Tyap"
 msgstr "tjapi"
 
+msgctxt "kde"
 msgid "Makonde"
 msgstr "makonde"
 
+msgctxt "kea"
 msgid "Kabuverdianu"
 msgstr "kabuverdianu"
 
+msgctxt "kfo"
 msgid "Koro"
 msgstr "koro"
 
+msgctxt "kg"
 msgid "Kongo"
 msgstr "kongo"
 
+msgctxt "kgp"
 msgid "Kaingang"
 msgstr "kaingangi"
 
+msgctxt "kha"
 msgid "Khasi"
 msgstr "khasi"
 
+msgctxt "kho"
 msgid "Khotanese"
 msgstr "saka"
 
+msgctxt "khq"
 msgid "Koyra Chiini"
 msgstr "koiratšiini"
 
+msgctxt "khw"
 msgid "Khowar"
 msgstr "khovari"
 
+msgctxt "ki"
 msgid "Kikuyu"
 msgstr "kikuju"
 
+msgctxt "kiu"
 msgid "Kirmanjki"
 msgstr "kõrmandžki"
 
+msgctxt "kj"
 msgid "Kuanyama"
 msgstr "kvanjama"
 
+msgctxt "kk"
 msgid "Kazakh"
 msgstr "kasahhi"
 
+msgctxt "kkj"
 msgid "Kako"
 msgstr "kako"
 
+msgctxt "kl"
 msgid "Kalaallisut"
 msgstr "grööni"
 
+msgctxt "kln"
 msgid "Kalenjin"
 msgstr "kalendžini"
 
+msgctxt "km"
 msgid "Khmer"
 msgstr "khmeeri"
 
+msgctxt "kmb"
 msgid "Kimbundu"
 msgstr "mbundu"
 
+msgctxt "kn"
 msgid "Kannada"
 msgstr "kannada"
 
+msgctxt "ko"
 msgid "Korean"
 msgstr "korea"
 
+msgctxt "koi"
 msgid "Komi-Permyak"
 msgstr "permikomi"
 
+msgctxt "kok"
 msgid "Konkani"
 msgstr "konkani"
 
+msgctxt "kos"
 msgid "Kosraean"
 msgstr "kosrae"
 
+msgctxt "kpe"
 msgid "Kpelle"
 msgstr "kpelle"
 
+msgctxt "kr"
 msgid "Kanuri"
 msgstr "kanuri"
 
+msgctxt "krc"
 msgid "Karachay-Balkar"
 msgstr "karatšai-balkaari"
 
+msgctxt "kri"
 msgid "Krio"
 msgstr "krio"
 
+msgctxt "krj"
 msgid "Kinaray-a"
 msgstr "kinaraia"
 
+msgctxt "krl"
 msgid "Karelian"
 msgstr "karjala"
 
+msgctxt "kru"
 msgid "Kurukh"
 msgstr "kuruhhi"
 
+msgctxt "ks"
 msgid "Kashmiri"
 msgstr "kašmiiri"
 
+msgctxt "ksb"
 msgid "Shambala"
 msgstr "šambala"
 
+msgctxt "ksf"
 msgid "Bafia"
 msgstr "bafia"
 
+msgctxt "ksh"
 msgid "Colognian"
 msgstr "kölni"
 
+msgctxt "ku"
 msgid "Kurdish"
 msgstr "kurdi"
 
+msgctxt "ku-menu-core"
 msgid "Kurdish"
 msgstr "kurdi"
 
+msgctxt "ku-menu-extension"
 msgid "Kurmanji"
 msgstr "kurmandži"
 
+msgctxt "kum"
 msgid "Kumyk"
 msgstr "kumõki"
 
+msgctxt "kut"
 msgid "Kutenai"
 msgstr "kutenai"
 
+msgctxt "kv"
 msgid "Komi"
 msgstr "komi"
 
+msgctxt "kw"
 msgid "Cornish"
 msgstr "korni"
 
+msgctxt "kwk"
 msgid "Kwakʼwala"
 msgstr "kvakvala"
 
+msgctxt "kxv"
 msgid "Kuvi"
 msgstr "kuvi"
 
+msgctxt "ky"
 msgid "Kyrgyz"
 msgstr "kirgiisi"
 
+msgctxt "la"
 msgid "Latin"
 msgstr "ladina"
 
+msgctxt "lad"
 msgid "Ladino"
 msgstr "ladiino"
 
+msgctxt "lag"
 msgid "Langi"
 msgstr "langi"
 
+msgctxt "lah"
 msgid "Western Panjabi"
 msgstr "lahnda"
 
+msgctxt "lam"
 msgid "Lamba"
 msgstr "lamba"
 
+msgctxt "lb"
 msgid "Luxembourgish"
 msgstr "letseburgi"
 
+msgctxt "lez"
 msgid "Lezghian"
 msgstr "lesgi"
 
+msgctxt "lg"
 msgid "Ganda"
 msgstr "ganda"
 
+msgctxt "li"
 msgid "Limburgish"
 msgstr "limburgi"
 
+msgctxt "lij"
 msgid "Ligurian"
 msgstr "liguuri"
 
+msgctxt "lil"
 msgid "Lillooet"
 msgstr "lillueti"
 
+msgctxt "liv"
 msgid "Livonian"
 msgstr "liivi"
 
+msgctxt "lkt"
 msgid "Lakota"
 msgstr "lakota"
 
+msgctxt "lmo"
 msgid "Lombard"
 msgstr "lombardi"
 
+msgctxt "ln"
 msgid "Lingala"
 msgstr "lingala"
 
+msgctxt "lo"
 msgid "Lao"
 msgstr "lao"
 
+msgctxt "lol"
 msgid "Mongo"
 msgstr "mongo"
 
+msgctxt "lou"
 msgid "Louisiana Creole"
 msgstr "Louisiana kreoolkeel"
 
+msgctxt "loz"
 msgid "Lozi"
 msgstr "lozi"
 
+msgctxt "lrc"
 msgid "Northern Luri"
 msgstr "põhjaluri"
 
+msgctxt "lsm"
 msgid "Saamia"
 msgstr "samia"
 
+msgctxt "lt"
 msgid "Lithuanian"
 msgstr "leedu"
 
+msgctxt "ltg"
 msgid "Latgalian"
 msgstr "latgali"
 
+msgctxt "lu"
 msgid "Luba-Katanga"
 msgstr "Katanga luba"
 
+msgctxt "lua"
 msgid "Luba-Lulua"
 msgstr "lulua"
 
+msgctxt "lui"
 msgid "Luiseno"
 msgstr "luisenjo"
 
+msgctxt "lun"
 msgid "Lunda"
 msgstr "lunda"
 
+msgctxt "lus"
 msgid "Mizo"
 msgstr "lušei"
 
+msgctxt "luy"
 msgid "Luyia"
 msgstr "luhja"
 
+msgctxt "lv"
 msgid "Latvian"
 msgstr "läti"
 
+msgctxt "lzh"
 msgid "Literary Chinese"
 msgstr "klassikaline hiina"
 
+msgctxt "lzz"
 msgid "Laz"
 msgstr "lazi"
 
+msgctxt "mad"
 msgid "Madurese"
 msgstr "madura"
 
+msgctxt "maf"
 msgid "Mafa"
 msgstr "mafa"
 
+msgctxt "mag"
 msgid "Magahi"
 msgstr "magahi"
 
+msgctxt "mai"
 msgid "Maithili"
 msgstr "maithili"
 
+msgctxt "mak"
 msgid "Makasar"
 msgstr "makassari"
 
+msgctxt "man"
 msgid "Mandingo"
 msgstr "malinke"
 
+msgctxt "mas"
 msgid "Masai"
 msgstr "masai"
 
+msgctxt "mde"
 msgid "Maba"
 msgstr "maba"
 
+msgctxt "mdf"
 msgid "Moksha"
 msgstr "mokša"
 
+msgctxt "mdr"
 msgid "Mandar"
 msgstr "mandari"
 
+msgctxt "men"
 msgid "Mende"
 msgstr "mende"
 
+msgctxt "mer"
 msgid "Meru"
 msgstr "meru"
 
+msgctxt "mfe"
 msgid "Morisyen"
 msgstr "Mauritiuse kreoolkeel"
 
+msgctxt "mg"
 msgid "Malagasy"
 msgstr "malagassi"
 
+msgctxt "mga"
 msgid "Middle Irish"
 msgstr "keskiiri"
 
+msgctxt "mgh"
 msgid "Makhuwa-Meetto"
 msgstr "makhuwa-meetto"
 
+msgctxt "mgo"
 msgid "Metaʼ"
 msgstr "meta"
 
+msgctxt "mh"
 msgid "Marshallese"
 msgstr "maršalli"
 
+msgctxt "mi"
 msgid "Māori"
 msgstr "maoori"
 
+msgctxt "mic"
 msgid "Mi'kmaw"
 msgstr "mikmaki"
 
+msgctxt "min"
 msgid "Minangkabau"
 msgstr "minangkabau"
 
+msgctxt "mk"
 msgid "Macedonian"
 msgstr "makedoonia"
 
+msgctxt "ml"
 msgid "Malayalam"
 msgstr "malajalami"
 
+msgctxt "mn"
 msgid "Mongolian"
 msgstr "mongoli"
 
+msgctxt "mnc"
 msgid "Manchu"
 msgstr "mandžu"
 
+msgctxt "mni"
 msgid "Manipuri"
 msgstr "manipuri"
 
+msgctxt "moe"
 msgid "Innu-aimun"
 msgstr "innu"
 
+msgctxt "moh"
 msgid "Mohawk"
 msgstr "mohoogi"
 
+msgctxt "mos"
 msgid "Mossi"
 msgstr "more"
 
+msgctxt "mr"
 msgid "Marathi"
 msgstr "marathi"
 
+msgctxt "mrj"
 msgid "Western Mari"
 msgstr "mäemari"
 
+msgctxt "ms"
 msgid "Malay"
 msgstr "malai"
 
+msgctxt "mt"
 msgid "Maltese"
 msgstr "malta"
 
+msgctxt "mua"
 msgid "Mundang"
 msgstr "mundangi"
 
+msgctxt "mul"
 msgid "Multiple languages"
 msgstr "mitu keelt"
 
+msgctxt "mus"
 msgid "Muscogee"
 msgstr "maskogi"
 
+msgctxt "mwl"
 msgid "Mirandese"
 msgstr "miranda"
 
+msgctxt "mwr"
 msgid "Marwari"
 msgstr "marvari"
 
+msgctxt "mwv"
 msgid "Mentawai"
 msgstr "mentavei"
 
+msgctxt "my"
 msgid "Burmese"
 msgstr "birma"
 
+msgctxt "mye"
 msgid "Myene"
 msgstr "mjene"
 
+msgctxt "myv"
 msgid "Erzya"
 msgstr "ersa"
 
+msgctxt "mzn"
 msgid "Mazanderani"
 msgstr "mazandaraani"
 
+msgctxt "na"
 msgid "Nauru"
 msgstr "nauru"
 
+msgctxt "nan"
 msgid "Min Nan Chinese"
 msgstr "lõunamini"
 
+msgctxt "nap"
 msgid "Neapolitan"
 msgstr "napoli"
 
+msgctxt "naq"
 msgid "Nama"
 msgstr "nama"
 
+msgctxt "nb"
 msgid "Norwegian Bokmål"
 msgstr "norra bokmål"
 
+msgctxt "nd"
 msgid "North Ndebele"
 msgstr "põhjandebele"
 
+msgctxt "nds"
 msgid "Low German"
 msgstr "alamsaksa"
 
+msgctxt "nds-NL"
 msgid "Low Saxon"
 msgstr "Hollandi alamsaksa"
 
+msgctxt "ne"
 msgid "Nepali"
 msgstr "nepali"
 
+msgctxt "new"
 msgid "Newari"
 msgstr "nevari"
 
+msgctxt "ng"
 msgid "Ndonga"
 msgstr "ndonga"
 
+msgctxt "nia"
 msgid "Nias"
 msgstr "niasi"
 
+msgctxt "niu"
 msgid "Niuean"
 msgstr "niue"
 
+msgctxt "njo"
 msgid "Ao Naga"
 msgstr "ao"
 
+msgctxt "nl"
 msgid "Dutch"
 msgstr "hollandi"
 
+msgctxt "nl-BE"
 msgid "Flemish"
 msgstr "flaami"
 
+msgctxt "nmg"
 msgid "Kwasio"
 msgstr "kwasio"
 
+msgctxt "nn"
 msgid "Norwegian Nynorsk"
 msgstr "uusnorra"
 
+msgctxt "nnh"
 msgid "Ngiemboon"
 msgstr "ngiembooni"
 
+msgctxt "no"
 msgid "Norwegian"
 msgstr "norra"
 
+msgctxt "nog"
 msgid "Nogai"
 msgstr "nogai"
 
+msgctxt "non"
 msgid "Old Norse"
 msgstr "vanapõhja"
 
+msgctxt "nov"
 msgid "Novial"
 msgstr "noviaal"
 
+msgctxt "nqo"
 msgid "N’Ko"
 msgstr "nkoo"
 
+msgctxt "nr"
 msgid "South Ndebele"
 msgstr "lõunandebele"
 
+msgctxt "nso"
 msgid "Northern Sotho"
 msgstr "põhjasotho"
 
+msgctxt "nus"
 msgid "Nuer"
 msgstr "nueri"
 
+msgctxt "nv"
 msgid "Navajo"
 msgstr "navaho"
 
+msgctxt "nwc"
 msgid "Classical Newari"
 msgstr "vananevari"
 
+msgctxt "ny"
 msgid "Nyanja"
 msgstr "njandža"
 
+msgctxt "nym"
 msgid "Nyamwezi"
 msgstr "njamvesi"
 
+msgctxt "nyn"
 msgid "Nyankole"
 msgstr "njankole"
 
+msgctxt "nyo"
 msgid "Nyoro"
 msgstr "njoro"
 
+msgctxt "nzi"
 msgid "Nzima"
 msgstr "nzima"
 
+msgctxt "oc"
 msgid "Occitan"
 msgstr "oksitaani"
 
+msgctxt "oj"
 msgid "Ojibwa"
 msgstr "odžibvei"
 
+msgctxt "ojb"
 msgid "Northwestern Ojibwa"
 msgstr "loodeodžibvei"
 
+msgctxt "ojc"
 msgid "Central Ojibwa"
 msgstr "keskodžibvei"
 
+msgctxt "ojs"
 msgid "Oji-Cree"
 msgstr "Severni odžibvei"
 
+msgctxt "ojw"
 msgid "Western Ojibwa"
 msgstr "lääneodžibvei"
 
+msgctxt "oka"
 msgid "Okanagan"
 msgstr "okanagani"
 
+msgctxt "om"
 msgid "Oromo"
 msgstr "oromo"
 
+msgctxt "or"
 msgid "Odia"
 msgstr "oria"
 
+msgctxt "os"
 msgid "Ossetic"
 msgstr "osseedi"
 
+msgctxt "osa"
 msgid "Osage"
 msgstr "oseidži"
 
+msgctxt "ota"
 msgid "Ottoman Turkish"
 msgstr "osmanitürgi"
 
+msgctxt "pa"
 msgid "Punjabi"
 msgstr "pandžabi"
 
+msgctxt "pag"
 msgid "Pangasinan"
 msgstr "pangasinani"
 
+msgctxt "pal"
 msgid "Pahlavi"
 msgstr "pahlavi"
 
+msgctxt "pam"
 msgid "Pampanga"
 msgstr "pampanga"
 
+msgctxt "pap"
 msgid "Papiamento"
 msgstr "papiamento"
 
+msgctxt "pau"
 msgid "Palauan"
 msgstr "belau"
 
+msgctxt "pcd"
 msgid "Picard"
 msgstr "pikardi"
 
+msgctxt "pcm"
 msgid "Nigerian Pidgin"
 msgstr "Nigeeria pidžinkeel"
 
+msgctxt "pdc"
 msgid "Pennsylvania German"
 msgstr "Pennsylvania saksa"
 
+msgctxt "pdt"
 msgid "Plautdietsch"
 msgstr "mennoniidisaksa"
 
+msgctxt "peo"
 msgid "Old Persian"
 msgstr "vanapärsia"
 
+msgctxt "pfl"
 msgid "Palatine German"
 msgstr "pfaltsi"
 
+msgctxt "phn"
 msgid "Phoenician"
 msgstr "foiniikia"
 
+msgctxt "pi"
 msgid "Pali"
 msgstr "paali"
 
+msgctxt "pis"
 msgid "Pijin"
 msgstr "pijini"
 
+msgctxt "pl"
 msgid "Polish"
 msgstr "poola"
 
+msgctxt "pms"
 msgid "Piedmontese"
 msgstr "piemonte"
 
+msgctxt "pnt"
 msgid "Pontic"
 msgstr "pontose"
 
+msgctxt "pon"
 msgid "Pohnpeian"
 msgstr "poonpei"
 
+msgctxt "pqm"
 msgid "Maliseet-Passamaquoddy"
 msgstr "passamakodi"
 
+msgctxt "prg"
 msgid "Prussian"
 msgstr "preisi"
 
+msgctxt "pro"
 msgid "Old Provençal"
 msgstr "vanaprovansi"
 
+msgctxt "ps"
 msgid "Pashto"
 msgstr "puštu"
 
+msgctxt "pt"
 msgid "Portuguese"
 msgstr "portugali"
 
+msgctxt "pt-BR"
 msgid "Brazilian Portuguese"
 msgstr "Brasiilia portugali"
 
+msgctxt "pt-PT"
 msgid "European Portuguese"
 msgstr "Euroopa portugali"
 
+msgctxt "qu"
 msgid "Quechua"
 msgstr "ketšua"
 
+msgctxt "quc"
 msgid "Kʼicheʼ"
 msgstr "kitše"
 
+msgctxt "raj"
 msgid "Rajasthani"
 msgstr "radžastani"
 
+msgctxt "rap"
 msgid "Rapanui"
 msgstr "rapanui"
 
+msgctxt "rar"
 msgid "Rarotongan"
 msgstr "rarotonga"
 
+msgctxt "rgn"
 msgid "Romagnol"
 msgstr "romanja"
 
+msgctxt "rhg"
 msgid "Rohingya"
 msgstr "rohingja"
 
+msgctxt "rif"
 msgid "Riffian"
 msgstr "riifi"
 
+msgctxt "rm"
 msgid "Romansh"
 msgstr "romanši"
 
+msgctxt "rn"
 msgid "Rundi"
 msgstr "rundi"
 
+msgctxt "ro"
 msgid "Romanian"
 msgstr "rumeenia"
 
+msgctxt "ro-MD"
 msgid "Moldavian"
 msgstr "moldova"
 
+msgctxt "rof"
 msgid "Rombo"
 msgstr "rombo"
 
+msgctxt "rom"
 msgid "Romany"
 msgstr "mustlaskeel"
 
+msgctxt "rtm"
 msgid "Rotuman"
 msgstr "rotuma"
 
+msgctxt "ru"
 msgid "Russian"
 msgstr "vene"
 
+msgctxt "rue"
 msgid "Rusyn"
 msgstr "russiini"
 
+msgctxt "rug"
 msgid "Roviana"
 msgstr "roviana"
 
+msgctxt "rup"
 msgid "Aromanian"
 msgstr "aromuuni"
 
+msgctxt "rw"
 msgid "Kinyarwanda"
 msgstr "ruanda"
 
+msgctxt "rwk"
 msgid "Rwa"
 msgstr "rvaa"
 
+msgctxt "sa"
 msgid "Sanskrit"
 msgstr "sanskriti"
 
+msgctxt "sad"
 msgid "Sandawe"
 msgstr "sandave"
 
+msgctxt "sah"
 msgid "Yakut"
 msgstr "jakuudi"
 
+msgctxt "sam"
 msgid "Samaritan Aramaic"
 msgstr "Samaaria aramea"
 
+msgctxt "saq"
 msgid "Samburu"
 msgstr "samburu"
 
+msgctxt "sas"
 msgid "Sasak"
 msgstr "sasaki"
 
+msgctxt "sat"
 msgid "Santali"
 msgstr "santali"
 
+msgctxt "saz"
 msgid "Sourashtra"
 msgstr "sauraštra"
 
+msgctxt "sba"
 msgid "Ngambay"
 msgstr "ngambai"
 
+msgctxt "sbp"
 msgid "Sangu"
 msgstr "sangu"
 
+msgctxt "sc"
 msgid "Sardinian"
 msgstr "sardi"
 
+msgctxt "scn"
 msgid "Sicilian"
 msgstr "sitsiilia"
 
+msgctxt "sco"
 msgid "Scots"
 msgstr "šoti"
 
+msgctxt "sd"
 msgid "Sindhi"
 msgstr "sindhi"
 
+msgctxt "sdh"
 msgid "Southern Kurdish"
 msgstr "lõunakurdi"
 
+msgctxt "se"
 msgid "Northern Sami"
 msgstr "põhjasaami"
 
+msgctxt "see"
 msgid "Seneca"
 msgstr "seneka"
 
+msgctxt "seh"
 msgid "Sena"
 msgstr "sena"
 
+msgctxt "sei"
 msgid "Seri"
 msgstr "seri"
 
+msgctxt "sel"
 msgid "Selkup"
 msgstr "sölkupi"
 
+msgctxt "ses"
 msgid "Koyraboro Senni"
 msgstr "koiraborosenni"
 
+msgctxt "sg"
 msgid "Sango"
 msgstr "sango"
 
+msgctxt "sga"
 msgid "Old Irish"
 msgstr "vanaiiri"
 
+msgctxt "sgs"
 msgid "Samogitian"
 msgstr "žemaidi"
 
+msgctxt "sh"
 msgid "Serbo-Croatian"
 msgstr "serbia-horvaadi"
 
+msgctxt "shi"
 msgid "Tachelhit"
 msgstr "šilha"
 
+msgctxt "shn"
 msgid "Shan"
 msgstr "šani"
 
+msgctxt "shu"
 msgid "Chadian Arabic"
 msgstr "Tšaadi araabia"
 
+msgctxt "si"
 msgid "Sinhala"
 msgstr "singali"
 
+msgctxt "sid"
 msgid "Sidamo"
 msgstr "sidamo"
 
+msgctxt "sk"
 msgid "Slovak"
 msgstr "slovaki"
 
+msgctxt "sl"
 msgid "Slovenian"
 msgstr "sloveeni"
 
+msgctxt "slh"
 msgid "Southern Lushootseed"
 msgstr "Lõuna-Puget-Soundi sališi"
 
+msgctxt "sli"
 msgid "Lower Silesian"
 msgstr "alamsileesia"
 
+msgctxt "sly"
 msgid "Selayar"
 msgstr "selajari"
 
+msgctxt "sm"
 msgid "Samoan"
 msgstr "samoa"
 
+msgctxt "sma"
 msgid "Southern Sami"
 msgstr "lõunasaami"
 
+msgctxt "smj"
 msgid "Lule Sami"
 msgstr "Lule saami"
 
+msgctxt "smn"
 msgid "Inari Sami"
 msgstr "Inari saami"
 
+msgctxt "sms"
 msgid "Skolt Sami"
 msgstr "koltasaami"
 
+msgctxt "sn"
 msgid "Shona"
 msgstr "šona"
 
+msgctxt "snk"
 msgid "Soninke"
 msgstr "soninke"
 
+msgctxt "so"
 msgid "Somali"
 msgstr "somaali"
 
+msgctxt "sog"
 msgid "Sogdien"
 msgstr "sogdi"
 
+msgctxt "sq"
 msgid "Albanian"
 msgstr "albaania"
 
+msgctxt "sr"
 msgid "Serbian"
 msgstr "serbia"
 
+msgctxt "srn"
 msgid "Sranan Tongo"
 msgstr "sranani"
 
+msgctxt "srr"
 msgid "Serer"
 msgstr "sereri"
 
+msgctxt "ss"
 msgid "Swati"
 msgstr "svaasi"
 
+msgctxt "ssy"
 msgid "Saho"
 msgstr "saho"
 
+msgctxt "st"
 msgid "Southern Sotho"
 msgstr "lõunasotho"
 
+msgctxt "stq"
 msgid "Saterland Frisian"
 msgstr "saterfriisi"
 
+msgctxt "str"
 msgid "Straits Salish"
 msgstr "väinasališi"
 
+msgctxt "su"
 msgid "Sundanese"
 msgstr "sunda"
 
+msgctxt "suk"
 msgid "Sukuma"
 msgstr "sukuma"
 
+msgctxt "sus"
 msgid "Susu"
 msgstr "susu"
 
+msgctxt "sux"
 msgid "Sumerian"
 msgstr "sumeri"
 
+msgctxt "sv"
 msgid "Swedish"
 msgstr "rootsi"
 
+msgctxt "sw"
 msgid "Swahili"
 msgstr "suahiili"
 
+msgctxt "sw-CD"
 msgid "Congo Swahili"
 msgstr "Kongo suahiili"
 
+msgctxt "swb"
 msgid "Comorian"
 msgstr "komoori"
 
+msgctxt "syc"
 msgid "Classical Syriac"
 msgstr "vanasüüria"
 
+msgctxt "syr"
 msgid "Syriac"
 msgstr "süüria"
 
+msgctxt "szl"
 msgid "Silesian"
 msgstr "sileesia"
 
+msgctxt "ta"
 msgid "Tamil"
 msgstr "tamili"
 
+msgctxt "tce"
 msgid "Southern Tutchone"
 msgstr "lõunatutšoni"
 
+msgctxt "tcy"
 msgid "Tulu"
 msgstr "tulu"
 
+msgctxt "te"
 msgid "Telugu"
 msgstr "telugu"
 
+msgctxt "tem"
 msgid "Timne"
 msgstr "temne"
 
+msgctxt "teo"
 msgid "Teso"
 msgstr "teso"
 
+msgctxt "ter"
 msgid "Tereno"
 msgstr "tereno"
 
+msgctxt "tet"
 msgid "Tetum"
 msgstr "tetumi"
 
+msgctxt "tg"
 msgid "Tajik"
 msgstr "tadžiki"
 
+msgctxt "tgx"
 msgid "Tagish"
 msgstr "tagishi"
 
+msgctxt "th"
 msgid "Thai"
 msgstr "tai"
 
+msgctxt "tht"
 msgid "Tahltan"
 msgstr "tahltani"
 
+msgctxt "ti"
 msgid "Tigrinya"
 msgstr "tigrinja"
 
+msgctxt "tig"
 msgid "Tigre"
 msgstr "tigree"
 
+msgctxt "tiv"
 msgid "Tiv"
 msgstr "tivi"
 
+msgctxt "tk"
 msgid "Turkmen"
 msgstr "türkmeeni"
 
+msgctxt "tkl"
 msgid "Tokelauan"
 msgstr "tokelau"
 
+msgctxt "tkr"
 msgid "Tsakhur"
 msgstr "tsahhi"
 
+msgctxt "tl"
 msgid "Tagalog"
 msgstr "tagalogi"
 
+msgctxt "tlh"
 msgid "Klingon"
 msgstr "klingoni"
 
+msgctxt "tli"
 msgid "Tlingit"
 msgstr "tlingiti"
 
+msgctxt "tly"
 msgid "Talysh"
 msgstr "talõši"
 
+msgctxt "tmh"
 msgid "Tamashek"
 msgstr "tamašeki"
 
+msgctxt "tn"
 msgid "Tswana"
 msgstr "tsvana"
 
+msgctxt "to"
 msgid "Tongan"
 msgstr "tonga"
 
+msgctxt "tog"
 msgid "Nyasa Tonga"
 msgstr "tšitonga"
 
+msgctxt "tok"
 msgid "Toki Pona"
 msgstr "toki pona"
 
+msgctxt "tpi"
 msgid "Tok Pisin"
 msgstr "uusmelaneesia"
 
+msgctxt "tr"
 msgid "Turkish"
 msgstr "türgi"
 
+msgctxt "tru"
 msgid "Turoyo"
 msgstr "turojo"
 
+msgctxt "trv"
 msgid "Taroko"
 msgstr "taroko"
 
+msgctxt "trw"
 msgid "Torwali"
 msgstr "torvali"
 
+msgctxt "ts"
 msgid "Tsonga"
 msgstr "tsonga"
 
+msgctxt "tsd"
 msgid "Tsakonian"
 msgstr "tsakoonia"
 
+msgctxt "tsi"
 msgid "Tsimshian"
 msgstr "tsimši"
 
+msgctxt "tt"
 msgid "Tatar"
 msgstr "tatari"
 
+msgctxt "ttm"
 msgid "Northern Tutchone"
 msgstr "põhjatutšoni"
 
+msgctxt "ttt"
 msgid "Muslim Tat"
 msgstr "lõunataadi"
 
+msgctxt "tum"
 msgid "Tumbuka"
 msgstr "tumbuka"
 
+msgctxt "tvl"
 msgid "Tuvalu"
 msgstr "tuvalu"
 
+msgctxt "tw"
 msgid "Twi"
 msgstr "tvii"
 
+msgctxt "twq"
 msgid "Tasawaq"
 msgstr "tasavaki"
 
+msgctxt "ty"
 msgid "Tahitian"
 msgstr "tahiti"
 
+msgctxt "tyv"
 msgid "Tuvinian"
 msgstr "tõva"
 
+msgctxt "tzm"
 msgid "Central Atlas Tamazight"
 msgstr "tamasikti"
 
+msgctxt "udm"
 msgid "Udmurt"
 msgstr "udmurdi"
 
+msgctxt "ug"
 msgid "Uyghur"
 msgstr "uiguuri"
 
+msgctxt "uga"
 msgid "Ugaritic"
 msgstr "ugariti"
 
+msgctxt "uk"
 msgid "Ukrainian"
 msgstr "ukraina"
 
+msgctxt "umb"
 msgid "Umbundu"
 msgstr "umbundu"
 
+msgctxt "und"
 msgid "Unknown language"
 msgstr "määramata keel"
 
+msgctxt "ur"
 msgid "Urdu"
 msgstr "urdu"
 
+msgctxt "uz"
 msgid "Uzbek"
 msgstr "usbeki"
 
+msgctxt "ve"
 msgid "Venda"
 msgstr "venda"
 
+msgctxt "vec"
 msgid "Venetian"
 msgstr "veneti"
 
+msgctxt "vep"
 msgid "Veps"
 msgstr "vepsa"
 
+msgctxt "vi"
 msgid "Vietnamese"
 msgstr "vietnami"
 
+msgctxt "vls"
 msgid "West Flemish"
 msgstr "lääneflaami"
 
+msgctxt "vmf"
 msgid "Main-Franconian"
 msgstr "Maini frangi"
 
+msgctxt "vmw"
 msgid "Makhuwa"
 msgstr "makua"
 
+msgctxt "vo"
 msgid "Volapük"
 msgstr "volapüki"
 
+msgctxt "vot"
 msgid "Votic"
 msgstr "vadja"
 
+msgctxt "vro"
 msgid "Võro"
 msgstr "võru"
 
+msgctxt "vun"
 msgid "Vunjo"
 msgstr "vundžo"
 
+msgctxt "wa"
 msgid "Walloon"
 msgstr "vallooni"
 
+msgctxt "wae"
 msgid "Walser"
 msgstr "valsi"
 
+msgctxt "wal"
 msgid "Wolaytta"
 msgstr "volaita"
 
+msgctxt "war"
 msgid "Waray"
 msgstr "varai"
 
+msgctxt "was"
 msgid "Washo"
 msgstr "vašo"
 
+msgctxt "wbp"
 msgid "Warlpiri"
 msgstr "varlpiri"
 
+msgctxt "wo"
 msgid "Wolof"
 msgstr "volofi"
 
+msgctxt "wuu"
 msgid "Wu Chinese"
 msgstr "uu"
 
+msgctxt "xal"
 msgid "Kalmyk"
 msgstr "kalmõki"
 
+msgctxt "xh"
 msgid "Xhosa"
 msgstr "koosa"
 
+msgctxt "xmf"
 msgid "Mingrelian"
 msgstr "megreli"
 
+msgctxt "xnr"
 msgid "Kangri"
 msgstr "kangri"
 
+msgctxt "xog"
 msgid "Soga"
 msgstr "soga"
 
+msgctxt "yao"
 msgid "Yao"
 msgstr "jao"
 
+msgctxt "yap"
 msgid "Yapese"
 msgstr "japi"
 
+msgctxt "yav"
 msgid "Yangben"
 msgstr "yangbeni"
 
+msgctxt "ybb"
 msgid "Yemba"
 msgstr "jemba"
 
+msgctxt "yi"
 msgid "Yiddish"
 msgstr "jidiši"
 
+msgctxt "yo"
 msgid "Yoruba"
 msgstr "joruba"
 
+msgctxt "yrl"
 msgid "Nheengatu"
 msgstr "njengatu"
 
+msgctxt "yue"
 msgid "Cantonese"
 msgstr "kantoni"
 
+msgctxt "yue-alt-menu"
 msgid "Chinese, Cantonese"
 msgstr "hiina (kantoni)"
 
+msgctxt "za"
 msgid "Zhuang"
 msgstr "tšuangi"
 
+msgctxt "zap"
 msgid "Zapotec"
 msgstr "sapoteegi"
 
+msgctxt "zbl"
 msgid "Blissymbols"
 msgstr "Blissi sümbolid"
 
+msgctxt "zea"
 msgid "Zeelandic"
 msgstr "zeelandi"
 
+msgctxt "zen"
 msgid "Zenaga"
 msgstr "zenaga"
 
+msgctxt "zgh"
 msgid "Standard Moroccan Tamazight"
 msgstr "tamasikti (Maroko)"
 
+msgctxt "zh"
 msgid "Chinese"
 msgstr "hiina"
 
+msgctxt "zh-alt-menu"
 msgid "Chinese, Mandarin"
 msgstr "hiina (mandariinihiina)"
 
+msgctxt "zh-Hans"
 msgid "Simplified Chinese"
 msgstr "lihtsustatud hiina"
 
+msgctxt "zh-Hans-alt-long"
 msgid "Simplified Mandarin Chinese"
 msgstr "lihtsustatud mandariinihiina"
 
+msgctxt "zh-Hant"
 msgid "Traditional Chinese"
 msgstr "traditsiooniline hiina"
 
+msgctxt "zh-Hant-alt-long"
 msgid "Traditional Mandarin Chinese"
 msgstr "traditsiooniline mandariinihiina"
 
+msgctxt "zu"
 msgid "Zulu"
 msgstr "suulu"
 
+msgctxt "zun"
 msgid "Zuni"
 msgstr "sunji"
 
+msgctxt "zxx"
 msgid "No linguistic content"
 msgstr "mittekeeleline"
 
+msgctxt "zza"
 msgid "Zaza"
 msgstr "zaza"

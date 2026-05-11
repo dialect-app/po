@@ -6,137 +6,182 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgctxt "ak"
 msgid "Akan"
 msgstr "ⵜⴰⴽⴰⵏⵜ"
 
+msgctxt "am"
 msgid "Amharic"
 msgstr "ⵜⴰⵎⵀⴰⵔⵉⵜ"
 
+msgctxt "ar"
 msgid "Arabic"
 msgstr "ⵜⴰⵄⵔⴰⴱⵜ"
 
+msgctxt "be"
 msgid "Belarusian"
 msgstr "ⵜⴰⴱⵉⵍⴰⵔⵓⵙⵜ"
 
+msgctxt "bg"
 msgid "Bulgarian"
 msgstr "ⵜⴰⴱⵍⵖⴰⵔⵉⵜ"
 
+msgctxt "bn"
 msgid "Bangla"
 msgstr "ⵜⴰⴱⵏⵖⴰⵍⵉⵜ"
 
+msgctxt "cs"
 msgid "Czech"
 msgstr "ⵜⴰⵜⵛⵉⴽⵉⵜ"
 
+msgctxt "de"
 msgid "German"
 msgstr "ⵜⴰⵍⵉⵎⴰⵏⵜ"
 
+msgctxt "el"
 msgid "Greek"
 msgstr "ⵜⴰⴳⵔⵉⴳⵉⵜ"
 
+msgctxt "en"
 msgid "English"
 msgstr "ⵜⴰⵏⴳⵍⵉⵣⵜ"
 
+msgctxt "es"
 msgid "Spanish"
 msgstr "ⵜⴰⵙⴱⵏⵢⵓⵍⵉⵜ"
 
+msgctxt "fa"
 msgid "Persian"
 msgstr "ⵜⴰⴼⵓⵔⵙⵉⵜ"
 
+msgctxt "fr"
 msgid "French"
 msgstr "ⵜⴰⴼⵔⴰⵏⵙⵉⵙⵜ"
 
+msgctxt "ha"
 msgid "Hausa"
 msgstr "ⵜⴰⵀⴰⵡⵙⴰⵜ"
 
+msgctxt "hi"
 msgid "Hindi"
 msgstr "ⵜⴰⵀⵉⵏⴷⵉⵜ"
 
+msgctxt "hu"
 msgid "Hungarian"
 msgstr "ⵜⴰⵀⵏⵖⴰⵔⵉⵜ"
 
+msgctxt "id"
 msgid "Indonesian"
 msgstr "ⵜⴰⵏⴷⵓⵏⵉⵙⵉⵜ"
 
+msgctxt "ig"
 msgid "Igbo"
 msgstr "ⵜⵉⴳⴱⵓⵜ"
 
+msgctxt "it"
 msgid "Italian"
 msgstr "ⵜⴰⵟⴰⵍⵢⴰⵏⵜ"
 
+msgctxt "ja"
 msgid "Japanese"
 msgstr "ⵜⴰⵊⴰⴱⴱⵓⵏⵉⵜ"
 
+msgctxt "jv"
 msgid "Javanese"
 msgstr "ⵜⴰⵊⴰⴱⴰⵏⵉⵜ"
 
+msgctxt "km"
 msgid "Khmer"
 msgstr "ⵜⴰⵅⵎⵉⵔⵜ"
 
+msgctxt "ko"
 msgid "Korean"
 msgstr "ⵜⴰⴽⵓⵔⵉⵜ"
 
+msgctxt "ms"
 msgid "Malay"
 msgstr "ⵜⴰⵎⴰⵍⴰⵡⵉⵜ"
 
+msgctxt "my"
 msgid "Burmese"
 msgstr "ⵜⴰⴱⵉⵔⵎⴰⵏⵉⵜ"
 
+msgctxt "ne"
 msgid "Nepali"
 msgstr "ⵜⴰⵏⵉⴱⴰⵍⵉⵜ"
 
+msgctxt "nl"
 msgid "Dutch"
 msgstr "ⵜⴰⵀⵓⵍⴰⵏⴷⵉⵜ"
 
+msgctxt "pa"
 msgid "Punjabi"
 msgstr "ⵜⴰⴱⵏⵊⴰⴱⵉⵜ"
 
+msgctxt "pl"
 msgid "Polish"
 msgstr "ⵜⴰⴱⵓⵍⵓⵏⵉⵜ"
 
+msgctxt "pt"
 msgid "Portuguese"
 msgstr "ⵜⴰⴱⵕⵟⵇⵉⵣⵜ"
 
+msgctxt "ro"
 msgid "Romanian"
 msgstr "ⵜⴰⵔⵓⵎⴰⵏⵉⵜ"
 
+msgctxt "ru"
 msgid "Russian"
 msgstr "ⵜⴰⵔⵓⵙⵉⵜ"
 
+msgctxt "rw"
 msgid "Kinyarwanda"
 msgstr "ⵜⴰⵔⵓⵡⴰⵏⴷⵉⵜ"
 
+msgctxt "so"
 msgid "Somali"
 msgstr "ⵜⴰⵙⵓⵎⴰⵍⵉⵜ"
 
+msgctxt "sv"
 msgid "Swedish"
 msgstr "ⵜⴰⵙⵡⵉⴷⵉⵜ"
 
+msgctxt "ta"
 msgid "Tamil"
 msgstr "ⵜⴰⵜⴰⵎⵉⵍⵜ"
 
+msgctxt "th"
 msgid "Thai"
 msgstr "ⵜⴰⵜⴰⵢⵍⴰⵏⴷⵉⵜ"
 
+msgctxt "tr"
 msgid "Turkish"
 msgstr "ⵜⴰⵜⵓⵔⴽⵉⵜ"
 
+msgctxt "uk"
 msgid "Ukrainian"
 msgstr "ⵜⵓⴽⵔⴰⵏⵉⵜ"
 
+msgctxt "ur"
 msgid "Urdu"
 msgstr "ⵜⵓⵔⴷⵓⵜ"
 
+msgctxt "vi"
 msgid "Vietnamese"
 msgstr "ⵜⴰⴱⵉⵜⵏⴰⵎⵉⵜ"
 
+msgctxt "yo"
 msgid "Yoruba"
 msgstr "ⵜⴰⵢⵔⵓⴱⴰⵜ"
 
+msgctxt "zgh"
 msgid "Standard Moroccan Tamazight"
 msgstr "ⵜⴰⵎⴰⵣⵉⵖⵜ"
 
+msgctxt "zh"
 msgid "Chinese"
 msgstr "ⵜⴰⵛⵉⵏⵡⵉⵜ"
 
+msgctxt "zu"
 msgid "Zulu"
 msgstr "ⵜⴰⵣⵓⵍⵓⵜ"

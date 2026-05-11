@@ -6,137 +6,182 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+msgctxt "ak"
 msgid "Akan"
 msgstr "Takanit"
 
+msgctxt "am"
 msgid "Amharic"
 msgstr "Tamahrict"
 
+msgctxt "ar"
 msgid "Arabic"
 msgstr "Taɛrabt"
 
+msgctxt "be"
 msgid "Belarusian"
 msgstr "Tabilarusit"
 
+msgctxt "bg"
 msgid "Bulgarian"
 msgstr "Tabulgarit"
 
+msgctxt "bn"
 msgid "Bangla"
 msgstr "Tabengalit"
 
+msgctxt "cs"
 msgid "Czech"
 msgstr "Tačikit"
 
+msgctxt "de"
 msgid "German"
 msgstr "Talmant"
 
+msgctxt "el"
 msgid "Greek"
 msgstr "Tagrikit"
 
+msgctxt "en"
 msgid "English"
 msgstr "Taglizit"
 
+msgctxt "es"
 msgid "Spanish"
 msgstr "Taspenyulit"
 
+msgctxt "fa"
 msgid "Persian"
 msgstr "Tafarisit"
 
+msgctxt "fr"
 msgid "French"
 msgstr "Tafransist"
 
+msgctxt "ha"
 msgid "Hausa"
 msgstr "Tahwasit"
 
+msgctxt "hi"
 msgid "Hindi"
 msgstr "Tahendit"
 
+msgctxt "hu"
 msgid "Hungarian"
 msgstr "Tahungarit"
 
+msgctxt "id"
 msgid "Indonesian"
 msgstr "Tandunisit"
 
+msgctxt "ig"
 msgid "Igbo"
 msgstr "Tigbut"
 
+msgctxt "it"
 msgid "Italian"
 msgstr "Taṭalyanit"
 
+msgctxt "ja"
 msgid "Japanese"
 msgstr "Tajapunit"
 
+msgctxt "jv"
 msgid "Javanese"
 msgstr "Tajavanit"
 
+msgctxt "kab"
 msgid "Kabyle"
 msgstr "Taqbaylit"
 
+msgctxt "km"
 msgid "Khmer"
 msgstr "Takemrit"
 
+msgctxt "ko"
 msgid "Korean"
 msgstr "Takurit"
 
+msgctxt "ms"
 msgid "Malay"
 msgstr "Tamalawit"
 
+msgctxt "my"
 msgid "Burmese"
 msgstr "Taburmisit"
 
+msgctxt "ne"
 msgid "Nepali"
 msgstr "Tanipalit"
 
+msgctxt "nl"
 msgid "Dutch"
 msgstr "Tadučit"
 
+msgctxt "pa"
 msgid "Punjabi"
 msgstr "Tapunjabit"
 
+msgctxt "pl"
 msgid "Polish"
 msgstr "Tapulunit"
 
+msgctxt "pt"
 msgid "Portuguese"
 msgstr "Tapurtugalit"
 
+msgctxt "ro"
 msgid "Romanian"
 msgstr "Tarumanit"
 
+msgctxt "ru"
 msgid "Russian"
 msgstr "Tarusit"
 
+msgctxt "rw"
 msgid "Kinyarwanda"
 msgstr "Taruwandit"
 
+msgctxt "so"
 msgid "Somali"
 msgstr "Taṣumalit"
 
+msgctxt "sv"
 msgid "Swedish"
 msgstr "Taswidit"
 
+msgctxt "ta"
 msgid "Tamil"
 msgstr "Taṭamulit"
 
+msgctxt "th"
 msgid "Thai"
 msgstr "Taṭaylundit"
 
+msgctxt "tr"
 msgid "Turkish"
 msgstr "Taṭurkit"
 
+msgctxt "uk"
 msgid "Ukrainian"
 msgstr "Tukranit"
 
+msgctxt "ur"
 msgid "Urdu"
 msgstr "Turdut"
 
+msgctxt "vi"
 msgid "Vietnamese"
 msgstr "Tabyiṭnamit"
 
+msgctxt "yo"
 msgid "Yoruba"
 msgstr "Tayurubit"
 
+msgctxt "zh"
 msgid "Chinese"
 msgstr "Tacinwat, Tamundarint"
 
+msgctxt "zu"
 msgid "Zulu"
 msgstr "Tazulut"
