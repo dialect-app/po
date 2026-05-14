@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2026-05-10 15:54+0000\n"
-"Last-Translator: tobfos <tobfos26111@gmail.com>\n"
+"PO-Revision-Date: 2026-05-14 11:11+0000\n"
+"Last-Translator: Toby James Foster <tobfos26111@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/dialect/"
 "dialect/vi/>\n"
 "Language: vi\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.5-dev\n"
+"X-Generator: Weblate 2026.5.dev0\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -90,7 +90,7 @@ msgstr "Phát hiện ngôn ngữ"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:25
 msgid "Clipboard buttons"
-msgstr "Các nút bản tạm"
+msgstr "Các nút bảng nhớ tạm"
 
 #. developer_name tag deprecated with Appstream 1.0
 #: data/app.drey.Dialect.metainfo.xml.in.in:35
@@ -108,7 +108,9 @@ msgstr "Copyright 2020–⁠2024 The Dialect Authors"
 
 #: dialect/main.py:190
 msgid "translator-credits"
-msgstr "Toby James Foster (Trí Tâm)"
+msgstr ""
+"Người dịch: Toby James Foster (Trí Tâm)\n"
+"Hiệu đính: Nguyễn Đức Thái"
 
 #: dialect/main.py:191
 msgid "Donate"
