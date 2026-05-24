@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2026-05-18 15:11+0000\n"
+"PO-Revision-Date: 2026-05-24 16:11+0000\n"
 "Last-Translator: Toby James Foster <tobfos26111@gmail.com>\n"
 "Language-Team: Vietnamese <https://hosted.weblate.org/projects/dialect/"
 "dialect/vi/>\n"
@@ -96,7 +96,7 @@ msgstr "Các nút bảng nhớ tạm"
 #: data/app.drey.Dialect.metainfo.xml.in.in:35
 #: data/app.drey.Dialect.metainfo.xml.in.in:37
 msgid "The Dialect Authors"
-msgstr "Nhóm phát triển Dialect"
+msgstr "Tác giả Dialect"
 
 #: dialect/languages.py:63 dialect/widgets/lang_selector.py:84
 msgid "Auto"
