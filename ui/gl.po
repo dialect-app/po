@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2022-04-19 03:09+0000\n"
-"Last-Translator: Jorge Teijeiro <jorge.teijeiro.ramos@gmail.com>\n"
+"PO-Revision-Date: 2026-05-24 16:11+0000\n"
+"Last-Translator: Adrián Ramos García <adrian.ramos.garcia.93@gmail.com>\n"
 "Language-Team: Galician <https://hosted.weblate.org/projects/dialect/dialect/"
 "gl/>\n"
 "Language: gl\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12-dev\n"
+"X-Generator: Weblate 2026.6.dev0\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -36,6 +36,8 @@ msgid ""
 "translate;translation;Google Translate;LibreTranslate;Lingva Translate;Bing "
 "Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 msgstr ""
+"traducir; tradución;Google Translate;LibreTranslate;Lingva Translate;Bing "
+"Microsoft Translator;Bing Translator;Microsoft Translator;Yandex Translate; "
 
 #. For development version
 #: data/app.drey.Dialect.metainfo.xml.in.in:9 dialect/main.py:187
@@ -47,38 +49,32 @@ msgid "Features:"
 msgstr "Características:"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:16
-#, fuzzy
 msgid "Translation based on Google Translate"
-msgstr "Tradución baseada en unha API non oficial de Google Translate"
+msgstr "Tradución baseada no Google Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:17
-#, fuzzy
 msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
-"Tradución baseada na API de LibreTranslate, permitindo o uso de calquera "
-"instancia dispoñíbel en liña"
+"Tradución baseada na API de LibreTranslate, que che permite usar calquera "
+"instancia pública"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
-#, fuzzy
 msgid "Translation based on Lingva Translate API"
-msgstr "Tradución baseada en unha API non oficial de Google Translate"
+msgstr "Tradución baseada na API de Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr "Tradución baseada en unha API non oficial de Google Translate"
+msgstr "Tradución baseada en Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "Tradución baseada en unha API non oficial de Google Translate"
+msgstr "Tradución baseada en Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "Tradución baseada en unha API non oficial de Google Translate"
+msgstr "Tradución baseada en DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -107,9 +103,8 @@ msgid "Auto"
 msgstr "Automático"
 
 #: dialect/main.py:188
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Copyright © 2020–2021 Os autores de Dialecto"
+msgstr "Dereitos de autor © 2020–⁠2024 Os autores de Dialect"
 
 #: dialect/main.py:190
 msgid "translator-credits"
@@ -117,20 +112,19 @@ msgstr "Fran Dieguez <frandieguez@gnome.org>, 2021"
 
 #: dialect/main.py:191
 msgid "Donate"
-msgstr ""
+msgstr "Doar"
 
 #: dialect/preferences.py:132
 msgid "Edit Provider Settings"
-msgstr ""
+msgstr "Editar a configuración do provedor"
 
 #: dialect/preferences.py:134
 msgid "No Settings for This Provider"
-msgstr ""
+msgstr "Sen configuración para este provedor"
 
 #: dialect/preferences.ui:8
-#, fuzzy
 msgid "Providers"
-msgstr "Fornecedor de busca"
+msgstr "Provedores"
 
 #: dialect/preferences.ui:11
 msgid "Translator"
@@ -145,9 +139,8 @@ msgid "Text-to-Speech"
 msgstr "Texto a voz"
 
 #: dialect/preferences.ui:44
-#, fuzzy
 msgid "Choose from the available TTS services."
-msgstr "Elixa entre os servizos de traducción dispoñíbeis."
+msgstr "Escolle entre os servizos TTS dispoñíbeis."
 
 #: dialect/preferences.ui:77
 msgid "Behavior"
@@ -162,13 +155,12 @@ msgid "Warning: Your IP address may get banned for API abuse."
 msgstr "Atención: a súa IP podería ser bloqueada por abuso de API."
 
 #: dialect/preferences.ui:87
-#, fuzzy
 msgid "Show Translations in Desktop Search"
-msgstr "Historial de tradución"
+msgstr "Mostrar traducións na Busca de escritorio"
 
 #: dialect/preferences.ui:88
 msgid "Warning: All desktop searches will be sent to the translation service"
-msgstr ""
+msgstr "Aviso: Todas as buscas de escritorio enviaranse ao servizo de tradución"
 
 #: dialect/preferences.ui:95
 msgid "Translation Shortcut"
@@ -192,20 +184,19 @@ msgstr "Aparencia"
 
 #: dialect/preferences.ui:125
 msgid "Use Custom Font Size"
-msgstr ""
+msgstr "Usar tamaño de letra personalizado"
 
 #: dialect/preferences.ui:126
 msgid "System font size is used otherwise."
-msgstr ""
+msgstr "Noutro caso, úsase o tamaño da fonte do sistema."
 
 #: dialect/preferences.ui:132
-#, fuzzy
 msgid "Default Font Size"
-msgstr "Automático predeterminado"
+msgstr "Tamaño de letra predeterminado"
 
 #: dialect/preferences.ui:133
 msgid "Changing the size via shortcuts does not overwrite this."
-msgstr ""
+msgstr "Cambiar o tamaño mediante atallos non sobrescribe isto."
 
 #: dialect/shortcuts.blp:13
 msgctxt "shortcuts window"
@@ -223,15 +214,14 @@ msgid "Switch Languages"
 msgstr "Trocar idiomas"
 
 #: dialect/shortcuts.blp:26
-#, fuzzy
 msgctxt "shortcuts window"
 msgid "Select source language"
-msgstr "Trocar idiomas"
+msgstr "Seleccionar idioma de orixe"
 
 #: dialect/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Select destination language"
-msgstr ""
+msgstr "Seleccionar idioma de destino"
 
 #: dialect/shortcuts.blp:36
 msgctxt "shortcuts window"
@@ -241,7 +231,7 @@ msgstr "Limpar texto de orixe"
 #: dialect/shortcuts.blp:41
 msgctxt "shortcuts window"
 msgid "Copy translation"
-msgstr "Seguinte tradución"
+msgstr "Copiar tradución"
 
 #: dialect/shortcuts.blp:46
 msgctxt "shortcuts window"
@@ -251,12 +241,12 @@ msgstr "Mostrar pronunciación"
 #: dialect/shortcuts.blp:51
 msgctxt "shortcuts window"
 msgid "Increase font size"
-msgstr ""
+msgstr "Aumentar o tamaño da fonte"
 
 #: dialect/shortcuts.blp:56
 msgctxt "shortcuts window"
 msgid "Decrease font size"
-msgstr ""
+msgstr "Reducir o tamaño da fonte"
 
 #: dialect/shortcuts.blp:62
 msgctxt "shortcuts window"
@@ -271,7 +261,7 @@ msgstr "Escoitar o texto de orixe"
 #: dialect/shortcuts.blp:70
 msgctxt "shortcuts window"
 msgid "Listen to translation"
-msgstr "Seguinte tradución"
+msgstr "Escoitar a tradución"
 
 #: dialect/shortcuts.blp:76
 msgctxt "shortcuts window"
@@ -301,7 +291,7 @@ msgstr "Preferencias"
 #: dialect/shortcuts.blp:98
 msgctxt "shortcut window"
 msgid "Shortcuts"
-msgstr "Atallos de teclado"
+msgstr "Atallos"
 
 #: dialect/shortcuts.blp:103
 msgctxt "shortcuts window"
@@ -334,40 +324,36 @@ msgid "Retry"
 msgstr "Reintentar"
 
 #: dialect/window.blp:105 dialect/window.blp:146
-#, fuzzy
 msgid "Open Preferences"
-msgstr "Abrir preferencias"
+msgstr "Abrir Preferencias"
 
 #: dialect/window.blp:135
 msgid "Remove Key and Retry"
-msgstr ""
+msgstr "Eliminar a chave e tentar de novo"
 
 #: dialect/window.blp:241
 msgid "Main Menu"
-msgstr ""
+msgstr "Menú principal"
 
 #: dialect/window.blp:250
-#, fuzzy
 msgid "Previous Translation"
 msgstr "Tradución anterior"
 
 #: dialect/window.blp:258
-#, fuzzy
 msgid "Next Translation"
 msgstr "Seguinte tradución"
 
 #: dialect/window.blp:270
 msgid "Change Source Language"
-msgstr ""
+msgstr "Cambiar o idioma de orixe"
 
 #: dialect/window.blp:275
-#, fuzzy
 msgid "Switch Languages"
 msgstr "Trocar idiomas"
 
 #: dialect/window.blp:282
 msgid "Change Destination Language"
-msgstr ""
+msgstr "Cambiar o idioma de destino"
 
 #: dialect/window.blp:380
 msgid "Clear"
@@ -391,7 +377,6 @@ msgid "Translating…"
 msgstr "Traducindo…"
 
 #: dialect/window.blp:489
-#, fuzzy
 msgid "Could not Translate the Text"
 msgstr "Non foi posíbel traducir o texto"
 
@@ -400,198 +385,173 @@ msgid "Copy"
 msgstr "Copiar"
 
 #: dialect/window.blp:504
-#, fuzzy
 msgid "Suggest Translation"
-msgstr "Tradución en tempo real"
+msgstr "Suxerir tradución"
 
 #: dialect/window.blp:528
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: dialect/window.blp:535
 msgid "Save"
 msgstr "Gardar"
 
 #: dialect/window.py:399
-#, fuzzy
 msgid "Couldn’t connect to the translation service"
-msgstr "Non foi posíbel cargar o servizo de tradución"
+msgstr "Non se puido conectar co servizo de tradución"
 
 #: dialect/window.py:400
-#, fuzzy
 msgid "We can’t connect to the server. Please check for network issues."
-msgstr ""
-"Fallou a tradución.\n"
-"Comprobe se hai problemas de rede."
+msgstr "Fallou a tradución. Comprobe se hai problemas de rede."
 
 #: dialect/window.py:425 dialect/search_provider/search_provider.in:172
-#, fuzzy
 msgid "Failed loading the translation service"
 msgstr "Non foi posíbel cargar o servizo de tradución"
 
 #: dialect/window.py:426
 msgid "Please report this in the Dialect bug tracker if the issue persists."
-msgstr ""
+msgstr "Se o problema persiste, infórmao no rastreador de erros de Dialect."
 
 #: dialect/window.py:444 dialect/window.py:1201
 #: dialect/search_provider/search_provider.in:192
 msgid "API key is required to use the service"
-msgstr ""
+msgstr "É necesaria unha chave API para usar o servizo"
 
 #: dialect/window.py:445
 msgid "Please set an API key in the preferences."
-msgstr ""
+msgstr "Define unha chave API nas preferencias."
 
 #: dialect/window.py:448 dialect/window.py:1193
 #: dialect/search_provider/search_provider.in:190
 msgid "The provided API key is invalid"
-msgstr ""
+msgstr "A chave API proporcionada non é válida"
 
 #: dialect/window.py:450
 msgid "Please set a valid API key in the preferences."
-msgstr ""
+msgstr "Define unha chave API válida nas preferencias."
 
 #: dialect/window.py:453
 msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr ""
+"Define unha chave API válida ou desconfigura a chave API nas preferencias."
 
 #: dialect/window.py:495
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "Non foi posíbel cargar o servizo de tradución"
+msgstr ""
+"Produciuse un erro ao cargar o servizo de texto a voz. Queres intentalo de "
+"novo?"
 
 #: dialect/window.py:496
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "Non foi posíbel cargar o servizo de tradución"
+msgstr "Produciuse un erro ao cargar o servizo de texto a voz"
 
 #: dialect/window.py:498
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr ""
-"Fallou a tradución.\n"
-"Comprobe se hai problemas de rede."
+"Produciuse un erro ao cargar o servizo de texto a voz. Comproba se hai "
+"problemas de rede"
 
 #: dialect/window.py:542
-#, fuzzy
 msgid "Couldn’t read selection clip board!"
-msgstr "Seguinte tradución"
+msgstr "Non se puido ler o portapapeis seleccionado!"
 
 #: dialect/window.py:630
 msgid "Did you mean: "
 msgstr "Quizáis quixo dicir: "
 
 #: dialect/window.py:793
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "Seguinte tradución"
+msgstr "Copiado no portapapeis"
 
 #: dialect/window.py:824
 msgid "New translation has been suggested!"
-msgstr ""
+msgstr "Suxeriuse unha nova tradución!"
 
 #: dialect/window.py:826 dialect/window.py:830
 msgid "Suggestion failed."
-msgstr ""
+msgstr "Fallou a suxestión."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "Texto a voz"
+msgstr "Fallou a conversión de texto a voz"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr ""
-"Fallou a tradución.\n"
-"Comprobe se hai problemas de rede."
+msgstr "Fallou a conversión de texto a voz. Comproba se hai problemas de rede"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Texto a voz"
+msgstr "Fallou a conversión de texto a voz. Queres intentalo de novo?"
 
 #: dialect/window.py:971
-#, fuzzy
 msgid "{} characters limit reached!"
-msgstr "Alcanzouse o límite de 5000 caracteres!"
+msgstr "Alcanzouse o límite de {} caracteres!"
 
 #: dialect/window.py:1185 dialect/search_provider/search_provider.in:188
-#, fuzzy
 msgid "Translation failed, check for network issues"
-msgstr ""
-"Fallou a tradución.\n"
-"Comprobe se hai problemas de rede."
+msgstr "Fallou a tradución. Comproba se hai problemas de rede"
 
 #: dialect/window.py:1209 dialect/search_provider/search_provider.in:194
-#, fuzzy
 msgid "Translation failed"
-msgstr "Historial de tradución"
+msgstr "Fallou a tradución"
 
 #: dialect/widgets/lang_selector.blp:47
-#, fuzzy
 msgid "Search Languages…"
-msgstr "Trocar idiomas"
+msgstr "Buscar idiomas…"
 
 #: dialect/widgets/provider_preferences.blp:5
 #: dialect/widgets/provider_preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "Abrir preferencias"
+msgstr "Preferencias do provedor"
 
 #: dialect/widgets/provider_preferences.blp:21
 msgid "Instance URL"
-msgstr ""
+msgstr "URL da instancia"
 
 #: dialect/widgets/provider_preferences.blp:22
-#, fuzzy
 msgid "Enter an Instance URL for the Provider."
-msgstr "Introduza a URL dun servicio de tradución."
+msgstr "Introduza un URL de instancia para o provedor."
 
 #: dialect/widgets/provider_preferences.blp:32
 #: dialect/widgets/provider_preferences.blp:62
-#, fuzzy
 msgid "Reset to Default"
-msgstr "Restabelecer valor predeterminado"
+msgstr "Restabelecer os valores predeterminados"
 
 #: dialect/widgets/provider_preferences.blp:52
 msgid "API Key"
-msgstr ""
+msgstr "Chave da API"
 
 #: dialect/widgets/provider_preferences.blp:53
-#, fuzzy
 msgid "Enter an API Key for the Provider."
-msgstr "Introduza a URL dun servicio de tradución."
+msgstr "Introduza unha clave API para o provedor."
 
 #: dialect/widgets/provider_preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "Uso de caracteres"
 
 #: dialect/widgets/speech_button.py:28
 msgid "Cancel Audio"
-msgstr ""
+msgstr "Cancelar audio"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
-msgstr ""
+msgstr "Seguir o estilo do sistema"
 
 #: dialect/widgets/theme_switcher.blp:35
 msgid "Light Style"
-msgstr ""
+msgstr "Modo claro"
 
 #: dialect/widgets/theme_switcher.blp:50
-#, fuzzy
 msgid "Dark Style"
 msgstr "Modo escuro"
 
 #: dialect/search_provider/search_provider.in:201
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "Traducir “{text}” con {provider_name}"
 
 #: dialect/search_provider/search_provider.in:246
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "Seguinte tradución"
+msgstr "Copiar a tradución no portapapeis"
 
 #, fuzzy
 #~ msgid "A network issue has occurred. Retry?"
