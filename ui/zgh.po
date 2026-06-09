@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2023-01-26 23:54+0000\n"
-"Last-Translator: ⵣⵓⵀⵉⵔ ⴰⵎⴰⵣⵉⵖ ZOUHIR DEHBI <zouhirdehbi56@gmail.com>\n"
+"PO-Revision-Date: 2026-06-09 19:01+0000\n"
+"Last-Translator: Mohamed Aymane Farhi <aymenfarhi.25@gmail.com>\n"
 "Language-Team: Tamazight (Standard Moroccan) <https://hosted.weblate.org/"
 "projects/dialect/dialect/zgh/>\n"
 "Language: zgh\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16-dev\n"
+"X-Generator: Weblate 2026.6\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -62,23 +62,20 @@ msgid "Translation based on Lingva Translate API"
 msgstr "ⴰⵙⵓⵖⵍ ⵉⴱⴷⴷⵏ ⵅⴼ Lingva Translate"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:19
-#, fuzzy
 msgid "Translation based on Bing"
-msgstr "ⴰⵙⵓⵖⵍ ⵉⴱⴷⴷⵏ ⵅⴼ Lingva Translate"
+msgstr "ⴰⵙⵓⵖⵍ ⵉⴱⴷⴷⵏ ⵅⴼ Bing"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:20
-#, fuzzy
 msgid "Translation based on Yandex"
-msgstr "ⴰⵙⵓⵖⵍ ⵉⵜⵜⵄⵡⵡⴰⵍ ⵅⴼ ⵜⵙⵓⵖⵍⵜ ⵏ ⴳⵓⴳⵍ"
+msgstr "ⴰⵙⵓⵖⵍ ⵉⴱⴷⴷⵏ ⵅⴼ Yandex"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "ⴰⵙⵓⵖⵍ ⵉⵜⵜⵄⵡⵡⴰⵍ ⵅⴼ ⵜⵙⵓⵖⵍⵜ ⵏ ⴳⵓⴳⵍ"
+msgstr "ⴰⵙⵓⵖⵍ ⵉⴱⴷⴷⵏ ⵅⴼ DeepL"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
-msgstr "ⴰⴹⵕⵉⵚ ⵉⵙⵙⴰⵡⴰⵍⵏ"
+msgstr "ⴰⴹⵕⵉⵚ ⵖⵔ ⵉⵎⵙⵍⵉ"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:23
 msgid "Translation history"
@@ -103,9 +100,8 @@ msgid "Auto"
 msgstr "ⴰⵡⵓⵔⵎⴰⵏ"
 
 #: dialect/main.py:188
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "ⵉⵣⵔⴼⴰⵏ ⵏ ⵜⵥⵕⵉⴳⵜ 2020-2022 ⵉⵎⴳⴰⵢⵏ ⵏ Dialect"
+msgstr "ⵉⵣⵔⴼⴰⵏ ⵏ ⵜⵥⵕⵉⴳⵜ 2020-2024 ⵉⵎⴳⴰⵢⵏ ⵏ Dialect"
 
 #: dialect/main.py:190
 msgid "translator-credits"
