@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2024-04-14 02:01+0000\n"
-"Last-Translator: ID J <tabby4442@gmail.com>\n"
+"PO-Revision-Date: 2026-08-01 10:49+0000\n"
+"Last-Translator: Jun-Hyung Park <cplane15@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/dialect/dialect/"
 "ko/>\n"
 "Language: ko\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 2026.8.dev0\n"
 
 # 번역하면 '방언' '사투리'가 되는데 프로그램 이름이 어색해지므로 그냥 음역한다.
 #. Translators: Do not translate the app name!
@@ -72,9 +72,8 @@ msgid "Translation based on Yandex"
 msgstr "Yandex 기반 번역"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:21
-#, fuzzy
 msgid "Translation based on DeepL"
-msgstr "Yandex 기반 번역"
+msgstr "DeepL 기반 번역"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:22
 msgid "Text to speech"
@@ -103,9 +102,8 @@ msgid "Auto"
 msgstr "자동"
 
 #: dialect/main.py:188
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "저작권 2020–⁠2023 The Dialect Authors"
+msgstr "저작권 2020–⁠2024 The Dialect Authors"
 
 #: dialect/main.py:190
 msgid "translator-credits"
@@ -436,33 +434,28 @@ msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr "기본 설정에서 유효한 API키를 설정 또는 API키를 설정 해제하세요."
 
 #: dialect/window.py:495
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "번역 서비스를 불러오기가 실패하였습니다"
+msgstr "번역 서비스를 불러오는 데 실패했습니다. 재시도하시겠습니까?"
 
 #: dialect/window.py:496
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "번역 서비스를 불러오기가 실패하였습니다"
+msgstr "번역 서비스를 불러오기데 실패하였습니다"
 
 #: dialect/window.py:498
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
-msgstr "서버에 연결할 수 없습니다. 네트워크 문제를 확인하십시오."
+msgstr "서버에 연결할 수 없습니다. 네트워크에 문제가 있는지 확인하십시오."
 
 #: dialect/window.py:542
-#, fuzzy
 msgid "Couldn’t read selection clip board!"
-msgstr "번역 복사"
+msgstr "선택한 클립보드를 읽을 수 없습니다!"
 
 #: dialect/window.py:630
 msgid "Did you mean: "
 msgstr "다음을 의미합니까?: "
 
 #: dialect/window.py:793
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "번역 복사"
+msgstr "클립보드에 복사했습니다"
 
 #: dialect/window.py:824
 msgid "New translation has been suggested!"
@@ -473,19 +466,16 @@ msgid "Suggestion failed."
 msgstr "제안이 실패했습니다."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "텍스트 음성 변환"
+msgstr "텍스트 음성 변환에 실패했습니다"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "번역에 실패했습니다, 네트워크 문제를 확인하십시오"
+msgstr "텍스트 음성 번역에 실패했습니다, 네트워크 문제를 확인하십시오"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "텍스트 음성 변환"
+msgstr "텍스트 음성 변환에 실패했습니다. 재시도하시겠습니까?"
 
 #: dialect/window.py:971
 msgid "{} characters limit reached!"
@@ -505,9 +495,8 @@ msgstr "언어 검색…"
 
 #: dialect/widgets/provider_preferences.blp:5
 #: dialect/widgets/provider_preferences.blp:12
-#, fuzzy
 msgid "Provider Preferences"
-msgstr "기본 설정 열기"
+msgstr "제공자 설정"
 
 #: dialect/widgets/provider_preferences.blp:21
 msgid "Instance URL"
@@ -532,12 +521,11 @@ msgstr "번역 서비스 API키를 입력하십시오."
 
 #: dialect/widgets/provider_preferences.blp:83
 msgid "Character Usage"
-msgstr ""
+msgstr "문자 사용량"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "취소"
+msgstr "오디오 취소"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
@@ -553,12 +541,11 @@ msgstr "다크 모양"
 
 #: dialect/search_provider/search_provider.in:201
 msgid "Translate “{text}” with {provider_name}"
-msgstr ""
+msgstr "\"{text}\"를 {provider_name}으로 번역하기"
 
 #: dialect/search_provider/search_provider.in:246
-#, fuzzy
 msgid "Copy translation to clipboard"
-msgstr "번역 복사"
+msgstr "클립보드에 번역 복사"
 
 #~ msgid "A network issue has occurred. Retry?"
 #~ msgstr "네트워크 문제가 발생했습니다. 다시 시도할까요?"
