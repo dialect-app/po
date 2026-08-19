@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2025-07-19 14:02+0000\n"
-"Last-Translator: Максим Горпиніч <gorpinicmaksim5@gmail.com>\n"
+"PO-Revision-Date: 2026-08-19 18:21+0000\n"
+"Last-Translator: Димко <Dymkovych@proton.me>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/dialect/"
 "dialect/uk/>\n"
 "Language: uk\n"
@@ -18,13 +18,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 2026.9.dev0\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
 #: data/app.drey.Dialect.metainfo.xml.in.in:6 dialect/main.py:78
 msgid "Dialect"
-msgstr "Dialect"
+msgstr "Діалект"
 
 #: data/app.drey.Dialect.desktop.in.in:9
 #: data/app.drey.Dialect.metainfo.xml.in.in:7
@@ -58,8 +58,8 @@ msgid ""
 "Translation based on the LibreTranslate API, allowing you to use any public "
 "instance"
 msgstr ""
-"Переклад на основі API LibreTranslate, який дозволяє використовувати любий "
-"екземпляр, доступний онлайн"
+"Переклад на основі API LibreTranslate із підтримкою будь-яких публічних "
+"серверів"
 
 #: data/app.drey.Dialect.metainfo.xml.in.in:18
 msgid "Translation based on Lingva Translate API"
@@ -174,27 +174,27 @@ msgstr "Клавіатурне скорочення для виконання п
 
 #: dialect/preferences.ui:96
 msgid "The unselected choice will be used for line break."
-msgstr "Невиділений варіант буде використовуватися для розриву строчки."
+msgstr "Невибраний варіант слугуватиме для розриву рядка."
 
 #: dialect/preferences.ui:114
 msgid "Default to Auto"
-msgstr "Автовизначення за замовчуванням"
+msgstr "Автовизначення мови"
 
 #: dialect/preferences.ui:115
 msgid "Use \"Auto\" as the default language"
-msgstr "Використовувати \"Автовизначення мови\" як мову за замовчуванням"
+msgstr "Завжди розпізнавати мову джерела"
 
 #: dialect/preferences.ui:122
 msgid "Appearance"
-msgstr "Зовнішній вигляд"
+msgstr "Вигляд"
 
 #: dialect/preferences.ui:125
 msgid "Use Custom Font Size"
-msgstr "Використовувати власний розмір шрифту"
+msgstr "Власний розмір шрифту"
 
 #: dialect/preferences.ui:126
 msgid "System font size is used otherwise."
-msgstr "В іншому випадку використовується системний розмір шрифту."
+msgstr "Ігнорувати системний розмір."
 
 #: dialect/preferences.ui:132
 msgid "Default Font Size"
@@ -318,7 +318,7 @@ msgstr "Клавіатурні скорочення"
 
 #: dialect/window.blp:34
 msgid "About Dialect"
-msgstr "Про Dialect"
+msgstr "Про Діалект"
 
 #: dialect/window.blp:72 dialect/widgets/speech_button.py:40
 msgid "Loading…"
@@ -418,7 +418,7 @@ msgstr "Не вдалося завантажити сервіс переклад
 #: dialect/window.py:426
 msgid "Please report this in the Dialect bug tracker if the issue persists."
 msgstr ""
-"Будь ласка, повідомте про ваду до розробників Dialect, якщо проблема буде "
+"Будь ласка, повідомте про ваду до розробників Діалект, якщо проблема буде "
 "повторюватися."
 
 #: dialect/window.py:444 dialect/window.py:1201
@@ -543,7 +543,7 @@ msgstr "Скасувати аудіо"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
-msgstr "Використовувати стиль системи"
+msgstr "Системний стиль"
 
 #: dialect/widgets/theme_switcher.blp:35
 msgid "Light Style"
