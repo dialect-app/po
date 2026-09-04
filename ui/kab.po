@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2025-05-30 07:03+0000\n"
+"PO-Revision-Date: 2026-09-04 02:21+0000\n"
 "Last-Translator: ButterflyOfFire <boffire@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Kabyle <https://hosted.weblate.org/projects/dialect/dialect/"
 "kab/>\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 2026.9\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -451,9 +451,8 @@ msgstr ""
 "Yecceḍ usali n umeẓlu n ususru n uḍris, senqed ma mačči d ugur n tuqqna"
 
 #: dialect/window.py:542
-#, fuzzy
 msgid "Couldn’t read selection clip board!"
-msgstr "Nɣel tasuqilt-nni ɣer tfelwit n ufus"
+msgstr "D aweɣzi taɣuṛi n tecfawit yettufernen!"
 
 #: dialect/window.py:630
 msgid "Did you mean: "
