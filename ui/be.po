@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2024-08-04 19:09+0000\n"
-"Last-Translator: Yahor <k1llo2810@protonmail.com>\n"
+"PO-Revision-Date: 2026-09-11 00:51+0000\n"
+"Last-Translator: nadevko <me@nadevko.cc>\n"
 "Language-Team: Belarusian <https://hosted.weblate.org/projects/dialect/"
 "dialect/be/>\n"
 "Language: be\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 2026.9.1\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -105,9 +105,8 @@ msgid "Auto"
 msgstr "Аўта"
 
 #: dialect/main.py:188
-#, fuzzy
 msgid "Copyright 2020–⁠2024 The Dialect Authors"
-msgstr "Аўтарскае права 2020–⁠2023 Аўтары Dialect"
+msgstr "Аўтарскае права 2020–⁠2024 Аўтары Dialect"
 
 #: dialect/main.py:190
 msgid "translator-credits"
@@ -226,7 +225,7 @@ msgstr "Выберыце зыходную мову"
 #: dialect/shortcuts.blp:31
 msgctxt "shortcuts window"
 msgid "Select destination language"
-msgstr "Змяніць мову прызначэння"
+msgstr "Змяніць мову перакладу"
 
 #: dialect/shortcuts.blp:36
 msgctxt "shortcuts window"
@@ -443,35 +442,30 @@ msgid "Please set a valid API key or unset the API key in the preferences."
 msgstr "Калі ласка, задайце сапраўдны ключ API або адключыце яго ў параметрах."
 
 #: dialect/window.py:495
-#, fuzzy
 msgid "Failed loading the text-to-speech service. Retry?"
-msgstr "Не ўдалося загрузіць службу перакладу"
+msgstr "Не ўдалося загрузіць службу сінтэзу маўлення. Паўтарыць?"
 
 #: dialect/window.py:496
-#, fuzzy
 msgid "Failed loading the text-to-speech service"
-msgstr "Не ўдалося загрузіць службу перакладу"
+msgstr "Не ўдалося загрузіць службу сінтэзу маўлення"
 
 #: dialect/window.py:498
-#, fuzzy
 msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr ""
-"Мы не можам злучыцца з серверам. Калі ласка, праверце, ці няма праблем з "
-"сеткай."
+"Не ўдалося загрузіць службу сінтэзу маўлення. Калі ласка, праверце, ці ёсць "
+"праблемы з сеткай"
 
 #: dialect/window.py:542
-#, fuzzy
 msgid "Couldn’t read selection clip board!"
-msgstr "Капіяваць пераклад"
+msgstr "Не ўдалося прачытаць буфер выдзеленага тэксту!"
 
 #: dialect/window.py:630
 msgid "Did you mean: "
 msgstr "Вы мелі на ўвазе: "
 
 #: dialect/window.py:793
-#, fuzzy
 msgid "Copied to clipboard"
-msgstr "Капіяваць пераклад"
+msgstr "Скапіявана ў буфер абмену"
 
 #: dialect/window.py:824
 msgid "New translation has been suggested!"
@@ -482,19 +476,17 @@ msgid "Suggestion failed."
 msgstr "Прапанова не ўдалася."
 
 #: dialect/window.py:894
-#, fuzzy
 msgid "Text-to-Speech failed"
-msgstr "Тэкст у гаворку"
+msgstr "Памылка сінтэзу маўлення"
 
 #: dialect/window.py:898
-#, fuzzy
 msgid "Text-to-Speech failed, check for network issues"
-msgstr "Не ўдалося перакласці, праверце праблемы з сеткай"
+msgstr ""
+"Памылка сінтэзу маўлення. Калі ласка, праверце, ці ёсць праблемы з сеткай"
 
 #: dialect/window.py:907
-#, fuzzy
 msgid "Text-to-Speech failed. Retry?"
-msgstr "Тэкст у гаворку"
+msgstr "Памылка сінтэзу маўлення. Паўтарыць?"
 
 #: dialect/window.py:971
 msgid "{} characters limit reached!"
@@ -543,9 +535,8 @@ msgid "Character Usage"
 msgstr "Выкарыстанне сімвалаў"
 
 #: dialect/widgets/speech_button.py:28
-#, fuzzy
 msgid "Cancel Audio"
-msgstr "Скасаваць"
+msgstr "Скасаваць аўдыё"
 
 #: dialect/widgets/theme_switcher.blp:20
 msgid "Follow System Style"
