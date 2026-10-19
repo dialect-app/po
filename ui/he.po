@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: dialect\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-18 08:35-0500\n"
-"PO-Revision-Date: 2024-11-11 19:14+0000\n"
-"Last-Translator: Yaron Shahrabani <sh.yaron@gmail.com>\n"
+"PO-Revision-Date: 2026-10-19 01:18+0000\n"
+"Last-Translator: Yaron Shahrabani <yaron@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/dialect/dialect/"
 "he/>\n"
 "Language: he\n"
@@ -18,7 +18,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.8.2\n"
+"X-Generator: Weblate 2026.11.dev0\n"
 
 #. Translators: Do not translate the app name!
 #: data/app.drey.Dialect.desktop.in.in:8
@@ -449,9 +449,8 @@ msgid "Failed loading the text-to-speech service, check for network issues"
 msgstr "טעינת שירות ההקראה נכשלה, נא לבדוק שחיבור הרשת תקין"
 
 #: dialect/window.py:542
-#, fuzzy
 msgid "Couldn’t read selection clip board!"
-msgstr "העתקת התרגום ללוח הגזירים"
+msgstr "לא ניתן לקרוא את לוח הגזירים של הבחירה!"
 
 #: dialect/window.py:630
 msgid "Did you mean: "
